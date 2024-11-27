@@ -1,0 +1,1202 @@
+[
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "Garantizar la equidad, calidad y participación social en el Sistema Nacional de Salud.",
+            "Establecer las bases de la sanidad privada en España.",
+            "Regular exclusivamente la financiación del Sistema Nacional de Salud.",
+            "Crear un sistema centralizado de atención sanitaria en España."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El objetivo principal es garantizar la equidad, calidad y participación social en el Sistema Nacional de Salud, promoviendo la colaboración entre Administraciones Públicas."
+    },
+    {
+        "enunciado": "¿Qué principio destaca en el artículo 2 de la Ley 16/2003?",
+        "opciones": [
+            "La gratuidad total de todos los servicios sanitarios.",
+            "La coordinación y cooperación para superar desigualdades en salud.",
+            "La descentralización exclusiva de la sanidad.",
+            "La eliminación de barreras tecnológicas en todos los hospitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 2 enfatiza la coordinación y cooperación entre Administraciones para superar desigualdades en salud."
+    },
+    {
+        "enunciado": "¿Qué se regula en el Catálogo de prestaciones del Sistema Nacional de Salud según el artículo 7?",
+        "opciones": [
+            "La financiación de los hospitales.",
+            "Las condiciones básicas y comunes para una atención integral.",
+            "La distribución de medicamentos a nivel nacional.",
+            "Los protocolos específicos para pacientes terminales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Catálogo define las condiciones básicas para garantizar una atención integral a todos los ciudadanos."
+    },
+    {
+        "enunciado": "¿Qué comprende la cartera común básica de servicios asistenciales del Sistema Nacional de Salud?",
+        "opciones": [
+            "Atenciones de carácter urgente exclusivamente.",
+            "Actividades de prevención, diagnóstico, tratamiento y rehabilitación financiadas públicamente.",
+            "Servicios accesorios sin financiación pública.",
+            "Solo tratamientos farmacológicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La cartera común básica incluye actividades de prevención, diagnóstico, tratamiento y rehabilitación con financiación pública."
+    },
+    {
+        "enunciado": "¿Qué entidad tiene a su cargo la planificación de recursos humanos en el Sistema Nacional de Salud según el artículo 35?",
+        "opciones": [
+            "El Consejo Interterritorial.",
+            "La Comisión de Recursos Humanos.",
+            "El Instituto de Salud Carlos III.",
+            "El Ministerio de Hacienda."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Comisión de Recursos Humanos planifica los recursos humanos del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué función tiene el Consejo Interterritorial del Sistema Nacional de Salud según el artículo 69?",
+        "opciones": [
+            "Coordinar las actuaciones en materia de salud pública entre comunidades autónomas.",
+            "Supervisar la financiación de los hospitales públicos.",
+            "Organizar la formación académica de los médicos.",
+            "Desarrollar los procedimientos legales en salud internacional."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial coordina las actuaciones en salud pública entre las comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una función específica del Consejo Interterritorial según el artículo 71?",
+        "opciones": [
+            "Proveer servicios asistenciales básicos.",
+            "Garantizar la movilidad de pacientes entre comunidades autónomas.",
+            "Resolver conflictos laborales en el sector salud.",
+            "Controlar la calidad de medicamentos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial debe garantizar la movilidad de pacientes en todo el territorio nacional."
+    },
+    {
+        "enunciado": "¿Qué formación contempla el artículo 37 de la Ley 16/2003?",
+        "opciones": [
+            "Formación técnica básica.",
+            "Formación de postgrado para profesionales sanitarios.",
+            "Formación en administración sanitaria.",
+            "Formación para pacientes sobre prevención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 37 establece las bases para la formación de postgrado de los profesionales sanitarios."
+    },
+    {
+        "enunciado": "¿Qué regula el artículo 8 bis de la Ley 16/2003?",
+        "opciones": [
+            "La prestación farmacéutica.",
+            "La cartera común básica de servicios asistenciales.",
+            "El transporte sanitario urgente.",
+            "Los protocolos de seguridad en hospitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 8 bis detalla las actividades de prevención, diagnóstico, tratamiento y rehabilitación dentro de la cartera básica."
+    },
+    {
+        "enunciado": "¿Qué garantiza la Ley 16/2003 en relación con los tiempos de espera según el artículo 25?",
+        "opciones": [
+            "Un tiempo máximo de acceso a las prestaciones sanitarias.",
+            "Tiempo ilimitado para tratamientos crónicos.",
+            "La atención inmediata solo en hospitales privados.",
+            "Solo regula el acceso a medicamentos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La ley asegura un tiempo máximo de acceso a las prestaciones, regulado en el Consejo Interterritorial."
+    },
+    {
+        "enunciado": "Según el artículo 3 de la Ley 16/2003, ¿quiénes son titulares del derecho a la protección de la salud y atención sanitaria?",
+        "opciones": [
+            "Solo los ciudadanos españoles residentes en España.",
+            "Todas las personas con nacionalidad española y residentes legales en España.",
+            "Solo los ciudadanos con ingresos bajos.",
+            "Únicamente los trabajadores cotizantes en la Seguridad Social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 reconoce el derecho a la protección de la salud a todas las personas con nacionalidad española y a las personas extranjeras con residencia legal en España."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 3 bis en relación con el reconocimiento del derecho a la protección de la salud?",
+        "opciones": [
+            "Debe ser solicitado exclusivamente por los servicios sociales.",
+            "Depende de la comprobación de requisitos por parte del Ministerio de Sanidad y otras entidades.",
+            "Se garantiza automáticamente a todas las personas en el territorio español.",
+            "Solo aplica a quienes residan en comunidades autónomas específicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 bis especifica que el Ministerio de Sanidad, con colaboración de otras entidades, verifica los requisitos para el reconocimiento del derecho."
+    },
+    {
+        "enunciado": "Según el artículo 8 quáter, ¿qué incluye la cartera común de servicios accesorios?",
+        "opciones": [
+            "Actividades esenciales para el diagnóstico y tratamiento.",
+            "Servicios complementarios coadyuvantes y no esenciales.",
+            "Solo la atención primaria urgente.",
+            "La rehabilitación de enfermedades crónicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La cartera de servicios accesorios incluye actividades y servicios no esenciales, pero de apoyo para mejorar una patología crónica."
+    },
+    {
+        "enunciado": "¿Cuál es una de las garantías establecidas en el artículo 23?",
+        "opciones": [
+            "La gratuidad de todos los medicamentos.",
+            "El acceso igualitario a las prestaciones sanitarias.",
+            "La atención prioritaria a las enfermedades más comunes.",
+            "La eliminación de listas de espera."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 23 garantiza que todos los usuarios del Sistema Nacional de Salud accedan a las prestaciones en condiciones de igualdad."
+    },
+    {
+        "enunciado": "Según el artículo 34, ¿qué principios informan la planificación de recursos humanos en el Sistema Nacional de Salud?",
+        "opciones": [
+            "La igualdad de género y la gratuidad del sistema.",
+            "La sostenibilidad económica y la participación privada.",
+            "La eficiencia, la equidad y la calidad del servicio.",
+            "La centralización de la gestión y la estabilidad laboral."
+        ],
+        "correcta": 2,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 34 establece que la planificación debe orientarse por principios de eficiencia, equidad y calidad."
+    },
+    {
+        "enunciado": "¿Qué tipo de formación regula el artículo 38 de la Ley 16/2003?",
+        "opciones": [
+            "Formación continuada de los profesionales sanitarios.",
+            "Formación básica en salud para ciudadanos.",
+            "Programas de investigación clínica.",
+            "Estudios universitarios en medicina."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 38 regula la formación continuada como un elemento clave para el desarrollo profesional de los sanitarios."
+    },
+    {
+        "enunciado": "Según el artículo 69, ¿cuál es el objetivo principal del Consejo Interterritorial del Sistema Nacional de Salud?",
+        "opciones": [
+            "Coordinar políticas de salud entre el Estado y las comunidades autónomas.",
+            "Establecer un sistema de financiación único.",
+            "Formar a los profesionales sanitarios.",
+            "Garantizar la gratuidad de todas las prestaciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial busca coordinar las políticas de salud entre las diferentes Administraciones para garantizar la cohesión del sistema."
+    },
+    {
+        "enunciado": "¿Qué se regula en el artículo 71 respecto al Consejo Interterritorial?",
+        "opciones": [
+            "Las funciones específicas de este órgano.",
+            "Los derechos de los usuarios del sistema.",
+            "La financiación de las comunidades autónomas.",
+            "El acceso a medicamentos innovadores."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 71 detalla las funciones específicas del Consejo Interterritorial, como la promoción de acciones conjuntas en el Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 74 sobre el régimen de funcionamiento del Consejo Interterritorial?",
+        "opciones": [
+            "Debe reunirse exclusivamente una vez al año.",
+            "Las decisiones deben tomarse por consenso o mayoría cualificada.",
+            "No puede formar grupos de trabajo adicionales.",
+            "Se enfoca únicamente en la gestión económica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 74 establece que las decisiones del Consejo Interterritorial se adoptan por consenso o mayoría cualificada para garantizar acuerdos efectivos."
+    },
+    {
+        "enunciado": "¿Qué garantiza la Ley 16/2003 respecto a los servicios de referencia según el artículo 28?",
+        "opciones": [
+            "Son financiados únicamente por las comunidades autónomas.",
+            "Se establecen para patologías que requieren alta especialización.",
+            "Solo aplican a servicios de salud mental.",
+            "Están disponibles exclusivamente en hospitales privados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "Los servicios de referencia son designados para patologías que requieren alta especialización o recursos concentrados para garantizar la calidad y la seguridad."
+    },
+    {
+        "enunciado": "¿Qué principio establece la Ley 16/2003 para garantizar la igualdad en las actuaciones sanitarias?",
+        "opciones": [
+            "La financiación exclusiva de servicios públicos.",
+            "Evitar cualquier discriminación, especialmente entre mujeres y hombres.",
+            "Centralizar la gestión de todos los servicios sanitarios.",
+            "Proveer atención solo a las personas con recursos económicos limitados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 busca evitar toda forma de discriminación en las actuaciones sanitarias, prestando especial atención a la igualdad entre mujeres y hombres."
+    },
+    {
+        "enunciado": "¿Qué asegura el aseguramiento público por parte del Estado según los principios de la Ley 16/2003?",
+        "opciones": [
+            "La financiación completa de los servicios privados.",
+            "El acceso universal y público a los servicios sanitarios.",
+            "La supervisión exclusiva de los servicios sanitarios autonómicos.",
+            "La cobertura parcial para tratamientos de alta complejidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El aseguramiento público garantiza el acceso universal a los servicios sanitarios financiados por el Estado."
+    },
+    {
+        "enunciado": "¿Qué relación establece la Ley 16/2003 entre la coordinación y la cooperación de las Administraciones públicas sanitarias?",
+        "opciones": [
+            "Es opcional y depende de cada comunidad autónoma.",
+            "Es fundamental para superar desigualdades en salud.",
+            "Solo aplica a servicios de urgencias y emergencias.",
+            "Es exclusiva del Ministerio de Sanidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley establece que la coordinación y cooperación son esenciales para superar desigualdades en salud."
+    },
+    {
+        "enunciado": "¿Qué comprende la atención integral a la salud según los principios generales de la Ley 16/2003?",
+        "opciones": [
+            "Solo el diagnóstico y tratamiento de enfermedades.",
+            "La promoción, prevención, asistencia y rehabilitación con alta calidad.",
+            "Únicamente servicios de emergencia sanitaria.",
+            "El control estricto de todos los medicamentos recetados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención integral abarca promoción, prevención, asistencia y rehabilitación, asegurando alta calidad en todas estas áreas."
+    },
+    {
+        "enunciado": "Según el artículo 2 de la Ley 16/2003, ¿cómo se financia el Sistema Nacional de Salud?",
+        "opciones": [
+            "Con contribuciones voluntarias de los ciudadanos.",
+            "Con financiación pública basada en el sistema de financiación autonómica.",
+            "A través de un fondo único gestionado por el gobierno central.",
+            "Mediante aportaciones directas de las oficinas de farmacia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La financiación del Sistema Nacional de Salud proviene del sistema de financiación autonómica, asegurando recursos públicos."
+    },
+    {
+        "enunciado": "¿Qué principio de los establecidos en el artículo 2 fomenta la movilidad de los profesionales sanitarios?",
+        "opciones": [
+            "La igualdad de oportunidades y libre circulación.",
+            "La especialización en servicios de urgencia.",
+            "La centralización de recursos humanos.",
+            "La exclusividad del ejercicio en el sector público."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El principio de igualdad de oportunidades asegura la libre circulación de los profesionales dentro del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué fomenta la colaboración entre servicios públicos y privados según la Ley 16/2003?",
+        "opciones": [
+            "El principio de exclusividad de los servicios públicos.",
+            "La prestación conjunta de servicios a los usuarios del Sistema Nacional de Salud.",
+            "La sustitución de servicios públicos por privados.",
+            "La centralización de la atención en hospitales públicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley fomenta la colaboración entre servicios públicos y privados para prestar servicios integrales a los usuarios del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué principio de la Ley 16/2003 menciona específicamente a las oficinas de farmacia?",
+        "opciones": [
+            "La supervisión de medicamentos y productos sanitarios.",
+            "La colaboración con el Sistema Nacional de Salud en la prestación farmacéutica.",
+            "La regulación exclusiva por el Ministerio de Sanidad.",
+            "La provisión de medicamentos solo a pacientes asegurados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley resalta la colaboración de las oficinas de farmacia en la prestación farmacéutica dentro del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué evita el principio de igualdad efectiva en la prestación de servicios sanitarios según la Ley 16/2003?",
+        "opciones": [
+            "La variación en la calidad de los servicios entre comunidades autónomas.",
+            "La discriminación, especialmente por razones de género.",
+            "La centralización de los recursos económicos.",
+            "La duplicidad de servicios en las regiones con mayor población."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El principio de igualdad efectiva busca eliminar cualquier discriminación, con especial atención a las diferencias de género."
+    },
+    {
+        "enunciado": "¿Qué tipo de atención integral se menciona en los principios generales de la Ley 16/2003?",
+        "opciones": [
+            "Atención específica para enfermedades raras.",
+            "Atención centrada exclusivamente en la salud pública.",
+            "Atención integral que incluye promoción, prevención, asistencia y rehabilitación.",
+            "Atención limitada a los servicios primarios."
+        ],
+        "correcta": 2,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención integral incluye todas las etapas: promoción, prevención, asistencia y rehabilitación, garantizando calidad y accesibilidad."
+    },
+    {
+        "enunciado": "¿Quiénes son titulares del derecho a la protección de la salud y a la atención sanitaria según el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "Solo los ciudadanos españoles residentes en España.",
+            "Las personas con nacionalidad española y los extranjeros con residencia legal en España.",
+            "Únicamente las personas con ingresos inferiores al salario mínimo.",
+            "Todos los habitantes de España, independientemente de su situación legal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 establece que las personas con nacionalidad española y los extranjeros con residencia legal en España son titulares del derecho a la protección de la salud."
+    },
+    {
+        "enunciado": "¿Qué condiciones deben cumplirse para que las personas extranjeras accedan a la protección de la salud en España según el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "No tener obligación de acreditar la cobertura sanitaria por otra vía.",
+            "Estar inscritas en el padrón municipal.",
+            "Demostrar un mínimo de ingresos mensuales.",
+            "Haber vivido en España por más de un año consecutivo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 especifica que las personas extranjeras deben no estar cubiertas por otra vía y cumplir con otros requisitos para acceder a la atención sanitaria."
+    },
+    {
+        "enunciado": "¿Qué garantiza el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, a las personas extranjeras no registradas ni autorizadas como residentes en España?",
+        "opciones": [
+            "Acceso gratuito a cualquier prestación sanitaria.",
+            "Protección de la salud y atención sanitaria en las mismas condiciones que los ciudadanos españoles.",
+            "Acceso limitado solo a urgencias y maternidad.",
+            "Cobertura sanitaria exclusivamente para menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 garantiza que las personas extranjeras no registradas reciban protección y atención sanitaria en igualdad de condiciones con los ciudadanos españoles."
+    },
+    {
+        "enunciado": "Según el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, ¿cómo se puede obtener el derecho a la asistencia sanitaria con cargo a fondos públicos?",
+        "opciones": [
+            "Cumpliendo con los requisitos legales de nacionalidad y residencia.",
+            "Pagando una cuota mensual fija.",
+            "Inscribiéndose en el sistema público de empleo.",
+            "A través de un contrato laboral activo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El derecho a la asistencia sanitaria se obtiene cumpliendo con los requisitos legales de nacionalidad y residencia establecidos en el artículo 3 de la Ley 16/2003."
+    },
+    {
+        "enunciado": "¿Qué ocurre con las personas que no tienen derecho a la asistencia sanitaria con cargo a fondos públicos según el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "Pueden obtener la prestación mediante el pago de una contraprestación o cuota especial.",
+            "No tienen derecho a ninguna asistencia sanitaria.",
+            "Solo pueden recibir atención de urgencia.",
+            "Deben solicitar cobertura a través de entidades privadas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 permite que aquellas personas sin derecho a la asistencia sanitaria pública puedan acceder mediante el pago de una contraprestación."
+    },
+    {
+        "enunciado": "¿Qué régimen jurídico se aplica a los titulares o beneficiarios de los regímenes especiales como Muface, Mugeju o Isfas según el artículo 3 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "El mismo régimen que el resto de ciudadanos.",
+            "Un régimen jurídico específico que mantiene sus características propias.",
+            "El régimen de financiación pública autonómica.",
+            "No tienen derecho a cobertura sanitaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 establece que los beneficiarios de regímenes especiales como Muface, Mugeju o Isfas mantienen su régimen jurídico específico."
+    },
+    {
+        "enunciado": "Según la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, ¿qué requisito es imprescindible para que un extranjero no residente legal reciba atención sanitaria?",
+        "opciones": [
+            "Un informe favorable de servicios sociales en caso de estancia temporal.",
+            "Estar empleado en España durante al menos seis meses.",
+            "Tener seguro médico privado.",
+            "Ser mayor de 18 años."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 de la Ley 16/2003 requiere que los servicios sociales emitan un informe favorable en caso de estancia temporal para extranjeros no residentes legales."
+    },
+    {
+        "enunciado": "¿Quién es responsable del control y reconocimiento del derecho a la protección de la salud según el artículo 3 bis de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "El Ministerio de Sanidad, Consumo y Bienestar Social.",
+            "Los servicios sociales municipales.",
+            "Las oficinas de farmacia.",
+            "Las comunidades autónomas exclusivamente."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 bis de la Ley 16/2003 señala que el Ministerio de Sanidad, Consumo y Bienestar Social es responsable del control y reconocimiento del derecho a la protección de la salud."
+    },
+    {
+        "enunciado": "Según la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, ¿qué mecanismo garantiza el acceso a la asistencia sanitaria una vez reconocido el derecho?",
+        "opciones": [
+            "La emisión de la tarjeta sanitaria individual.",
+            "El pago de una cuota de acceso.",
+            "El registro en una lista de espera nacional.",
+            "La afiliación obligatoria a un seguro privado."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 asegura que el acceso a las prestaciones se realiza mediante la emisión de la tarjeta sanitaria individual."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 3 ter de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, sobre la cobertura sanitaria fuera de España?",
+        "opciones": [
+            "Cubre todos los gastos sanitarios en el extranjero.",
+            "No genera derecho a cobertura fuera de España, salvo en casos previstos por normas internacionales.",
+            "Es válida solo para ciudadanos españoles con más de un año de residencia.",
+            "Se limita exclusivamente a tratamientos de emergencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter establece que la cobertura sanitaria no genera derechos fuera de España, salvo en situaciones previstas por normas internacionales."
+    },
+    {
+        "enunciado": "Según la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, ¿qué derecho tienen las personas extranjeras no registradas ni autorizadas como residentes en España?",
+        "opciones": [
+            "Ningún derecho a atención sanitaria.",
+            "El derecho a la protección de la salud y atención sanitaria en igualdad de condiciones que los españoles.",
+            "Únicamente derecho a la atención en casos de emergencia.",
+            "Acceso gratuito a todos los servicios sanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 garantiza a las personas extranjeras no registradas ni autorizadas el derecho a la protección de la salud en igualdad con los ciudadanos españoles."
+    },
+    {
+        "enunciado": "¿Qué requisito establece la Ley 16/2003 para que las personas extranjeras no registradas accedan a la atención sanitaria financiada con fondos públicos?",
+        "opciones": [
+            "Deben cumplir con un tiempo mínimo de residencia en España.",
+            "No deben estar obligadas a acreditar cobertura por otra vía.",
+            "Deben pagar una cuota fija mensual.",
+            "Deben estar inscritas en un seguro privado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter de la Ley 16/2003 exige que las personas extranjeras no tengan la obligación de acreditar cobertura por otras vías para recibir atención sanitaria con fondos públicos."
+    },
+    {
+        "enunciado": "¿Qué asistencia sanitaria está excluida para las personas extranjeras no registradas en España, según el artículo 3 ter de la Ley 16/2003?",
+        "opciones": [
+            "La asistencia de urgencia.",
+            "La atención durante el embarazo y el parto.",
+            "La cobertura sanitaria fuera del territorio español.",
+            "La asistencia a menores de edad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter aclara que las personas extranjeras no registradas no tienen derecho a cobertura sanitaria fuera del territorio español, salvo normas internacionales."
+    },
+    {
+        "enunciado": "¿Qué documento deben expedir las comunidades autónomas para acreditar el acceso de las personas extranjeras no registradas a la atención sanitaria, según la Ley 16/2003?",
+        "opciones": [
+            "Un informe de extranjería.",
+            "Un certificado de residencia temporal.",
+            "Un documento certificativo específico.",
+            "Una tarjeta sanitaria individual."
+        ],
+        "correcta": 2,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter indica que las comunidades autónomas deben emitir un documento certificativo que acredite a las personas extranjeras no registradas para recibir atención sanitaria."
+    },
+    {
+        "enunciado": "¿Qué asistencia sanitaria garantiza la Ley 16/2003 a las personas extranjeras en situación de estancia temporal en España?",
+        "opciones": [
+            "Únicamente atención de emergencia.",
+            "Atención sanitaria previa aprobación de un informe favorable de servicios sociales.",
+            "Cobertura completa sin condiciones.",
+            "Acceso gratuito a medicamentos esenciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "En casos de estancia temporal, la Ley 16/2003 requiere un informe favorable de los servicios sociales para garantizar el acceso a la atención sanitaria."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen las comunidades autónomas respecto a la atención sanitaria de personas extranjeras no registradas, según la Ley 16/2003?",
+        "opciones": [
+            "Fijar procedimientos para la solicitud y expedición del documento certificativo.",
+            "Proporcionar atención solo en casos de emergencia.",
+            "Garantizar la cobertura sanitaria universal.",
+            "Exigir un seguro médico privado para prestar asistencia."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter establece que las comunidades autónomas deben fijar el procedimiento para la solicitud y emisión del documento certificativo."
+    },
+    {
+        "enunciado": "¿Qué situación describe la Ley 16/2003 como un requisito para la atención sanitaria de personas extranjeras no registradas en España?",
+        "opciones": [
+            "Que la persona no pueda exportar su derecho a la cobertura sanitaria desde su país de origen.",
+            "Que la persona haya vivido en España al menos tres meses.",
+            "Que disponga de un contrato de trabajo.",
+            "Que esté inscrita en el sistema público de empleo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 exige que las personas extranjeras no registradas no puedan exportar el derecho a la cobertura sanitaria desde su país de origen para acceder a la atención."
+    },
+    {
+        "enunciado": "¿Qué derecho específico se garantiza a los menores de edad extranjeros no registrados según la Ley 16/2003?",
+        "opciones": [
+            "Atención de urgencia únicamente.",
+            "Asistencia sanitaria en las mismas condiciones que los menores españoles.",
+            "Cobertura para enfermedades graves exclusivamente.",
+            "Acceso limitado a medicamentos esenciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 garantiza que los menores de edad extranjeros no registrados reciban asistencia sanitaria en igualdad de condiciones con los menores españoles."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 16/2003 sobre la comunicación entre las comunidades autónomas y el Ministerio de Sanidad respecto a la atención sanitaria a extranjeros no registrados?",
+        "opciones": [
+            "No se requiere ningún tipo de comunicación.",
+            "Las comunidades deben informar al Ministerio sobre los documentos certificativos emitidos.",
+            "El Ministerio de Sanidad asume directamente la atención de estas personas.",
+            "Las comunidades solo deben reportar los casos de emergencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter indica que las comunidades autónomas deben informar al Ministerio de Sanidad sobre los documentos certificativos emitidos para la atención sanitaria a extranjeros no registrados."
+    },
+    {
+        "enunciado": "¿Qué tipo de atención sanitaria no genera derecho fuera del territorio español, según el artículo 3 ter de la Ley 16/2003?",
+        "opciones": [
+            "Atención sanitaria de urgencia.",
+            "Cobertura sanitaria financiada con fondos públicos.",
+            "Asistencia para enfermedades crónicas.",
+            "Atención a menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 3 ter aclara que la atención sanitaria financiada con fondos públicos no genera derechos fuera del territorio español."
+    },
+    {
+        "enunciado": "Según el artículo 11 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, ¿qué es la prestación de salud pública?",
+        "opciones": [
+            "La atención especializada en enfermedades raras.",
+            "El conjunto de iniciativas organizadas por las Administraciones públicas para preservar, proteger y promover la salud de la población.",
+            "El acceso a medicamentos esenciales para enfermedades crónicas.",
+            "La regulación exclusiva de los servicios hospitalarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La prestación de salud pública incluye iniciativas organizadas por las Administraciones públicas para preservar, proteger y promover la salud."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene la prestación de salud pública según el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "Garantizar la financiación de tratamientos de alto coste.",
+            "Mantener y mejorar la salud de las personas mediante acciones colectivas o sociales.",
+            "Centralizar la atención primaria y especializada.",
+            "Ofrecer acceso exclusivo a servicios privados de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La prestación de salud pública busca mantener y mejorar la salud a través de acciones colectivas y sociales."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una actuación incluida en la prestación de salud pública según el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "La hospitalización domiciliaria.",
+            "La promoción de la sanidad ambiental.",
+            "La cobertura sanitaria internacional.",
+            "La formación especializada de los médicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 11 incluye la promoción de la sanidad ambiental como parte de las actuaciones de salud pública."
+    },
+    {
+        "enunciado": "¿Qué aspecto de la salud laboral está contemplado en el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "La financiación de seguros privados.",
+            "La promoción y protección de la salud en el ámbito laboral.",
+            "La centralización de los servicios de prevención.",
+            "El acceso a programas de formación laboral."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 contempla la promoción y protección de la salud laboral dentro de las prestaciones de salud pública."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la vigilancia epidemiológica según el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "Garantizar el acceso a medicamentos genéricos.",
+            "Detectar, prevenir y responder rápidamente a emergencias de salud pública.",
+            "Asegurar la financiación de las comunidades autónomas.",
+            "Coordinar exclusivamente servicios de urgencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La vigilancia epidemiológica tiene como objetivo detectar, prevenir y responder rápidamente a emergencias de salud pública."
+    },
+    {
+        "enunciado": "¿Qué ámbito abarca la promoción de la salud mencionada en el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "La implantación de sistemas de gestión hospitalaria.",
+            "Programas intersectoriales y transversales.",
+            "El desarrollo exclusivo de nuevas tecnologías médicas.",
+            "La atención a pacientes crónicos en hospitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La promoción de la salud en el artículo 11 incluye programas intersectoriales y transversales."
+    },
+    {
+        "enunciado": "Según el artículo 11 de la Ley 16/2003, ¿qué medida busca evitar los efectos negativos del entorno sobre la salud humana?",
+        "opciones": [
+            "La prevención de enfermedades infecciosas.",
+            "La protección y promoción de la sanidad ambiental.",
+            "La formación continuada de los profesionales sanitarios.",
+            "El desarrollo de sistemas electrónicos de atención primaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 11 incluye la protección y promoción de la sanidad ambiental para evitar efectos negativos del entorno sobre la salud."
+    },
+    {
+        "enunciado": "¿Qué incluye la prestación de salud pública respecto a la seguridad alimentaria según el artículo 11 de la Ley 16/2003?",
+        "opciones": [
+            "La distribución gratuita de alimentos saludables.",
+            "La promoción y protección de la seguridad alimentaria.",
+            "El acceso universal a programas de nutrición infantil.",
+            "La financiación de dietas específicas para pacientes hospitalizados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley 16/2003 aborda la promoción y protección de la seguridad alimentaria como parte de las prestaciones de salud pública."
+    },
+    {
+        "enunciado": "¿Qué contempla la Ley 16/2003 respecto a la evaluación de impacto en salud?",
+        "opciones": [
+            "Es un elemento exclusivo de los servicios privados.",
+            "Forma parte de las actuaciones de salud pública.",
+            "Se limita a la atención primaria y especializada.",
+            "Solo aplica a investigaciones en salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 11 incluye la evaluación de impacto en salud como una de las actuaciones de la prestación de salud pública."
+    },
+    {
+        "enunciado": "¿Qué actuación en salud pública menciona el artículo 11 de la Ley 16/2003 en relación con el tránsito internacional?",
+        "opciones": [
+            "La cobertura sanitaria universal.",
+            "La vigilancia y control de riesgos sanitarios derivados del tránsito de bienes y viajeros.",
+            "La promoción de seguros internacionales obligatorios.",
+            "El acceso preferencial a centros de salud fronterizos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 11 establece la vigilancia y control de riesgos sanitarios derivados del tránsito internacional de bienes y viajeros."
+    },
+    {
+        "enunciado": "¿Cómo define el artículo 12 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, a la atención primaria?",
+        "opciones": [
+            "Como el nivel básico e inicial de atención que garantiza la globalidad y continuidad a lo largo de toda la vida del paciente.",
+            "Un servicio exclusivo para la prevención de enfermedades crónicas.",
+            "Una atención limitada a consultas en hospitales públicos.",
+            "El nivel especializado de atención médica para enfermedades graves."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 12 define la atención primaria como el nivel básico e inicial que garantiza la globalidad y continuidad de la atención durante toda la vida."
+    },
+    {
+        "enunciado": "Según el artículo 12 de la Ley 16/2003, ¿qué actividades incluye la atención primaria?",
+        "opciones": [
+            "Diagnóstico exclusivo en hospitales.",
+            "Promoción de la salud, prevención de enfermedades, asistencia sanitaria y rehabilitación.",
+            "Distribución de medicamentos y realización de pruebas avanzadas.",
+            "Atención únicamente a enfermedades agudas y emergencias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye promoción de la salud, prevención de enfermedades, asistencia sanitaria y rehabilitación, entre otras."
+    },
+    {
+        "enunciado": "¿Qué característica fundamental tiene la atención primaria según la Ley 16/2003?",
+        "opciones": [
+            "Es opcional dependiendo de la región.",
+            "Actúa como gestor y coordinador de casos.",
+            "Se centra únicamente en la salud mental.",
+            "Es exclusiva para menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria, según el artículo 12, actúa como gestor y coordinador de casos, regulando los flujos asistenciales."
+    },
+    {
+        "enunciado": "¿Qué tipo de asistencia sanitaria comprende la atención primaria según el artículo 12 de la Ley 16/2003?",
+        "opciones": [
+            "Solo atención urgente.",
+            "Asistencia sanitaria a demanda, programada y urgente, tanto en consulta como en el domicilio.",
+            "Atención especializada en hospitales de día.",
+            "Únicamente atención paliativa para enfermos terminales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye asistencia a demanda, programada y urgente, tanto en consulta como en domicilio."
+    },
+    {
+        "enunciado": "¿Qué ámbito específico de atención a las mujeres contempla la atención primaria según el artículo 12 de la Ley 16/2003?",
+        "opciones": [
+            "Atención exclusiva en hospitales.",
+            "Prevención y tratamiento de la violencia de género.",
+            "Servicios limitados a la salud reproductiva.",
+            "Diagnóstico avanzado en enfermedades cardiovasculares."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye específicamente la detección y tratamiento de situaciones de violencia de género, entre otras atenciones para mujeres."
+    },
+    {
+        "enunciado": "¿Qué tipo de atención específica incluye la atención primaria para enfermos terminales según la Ley 16/2003?",
+        "opciones": [
+            "Solo atención hospitalaria.",
+            "Atención paliativa.",
+            "Asistencia farmacéutica gratuita.",
+            "Seguimiento domiciliario por especialistas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria contempla atención paliativa para enfermos terminales como una de sus funciones clave."
+    },
+    {
+        "enunciado": "¿Qué ámbito de salud bucodental está incluido en la atención primaria según el artículo 12 de la Ley 16/2003?",
+        "opciones": [
+            "Solo tratamientos estéticos.",
+            "Promoción, prevención y asistencia básica en salud bucodental.",
+            "Intervenciones quirúrgicas avanzadas en odontología.",
+            "Atención limitada a urgencias dentales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye la promoción, prevención y asistencia básica en salud bucodental."
+    },
+    {
+        "enunciado": "¿Qué actividades relacionadas con la comunidad incluye la atención primaria según el artículo 12 de la Ley 16/2003?",
+        "opciones": [
+            "Proveer información epidemiológica exclusivamente.",
+            "Atención familiar y comunitaria.",
+            "Implementar sistemas de información digital.",
+            "Financiar programas de salud especializados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye actividades de atención familiar y comunitaria para promover la salud en el entorno local."
+    },
+    {
+        "enunciado": "¿Qué papel tiene la atención primaria en la atención a la salud mental según la Ley 16/2003?",
+        "opciones": [
+            "Es el único nivel de atención para la salud mental.",
+            "Presta atención a la salud mental en coordinación con los servicios especializados.",
+            "Se limita a la prevención de enfermedades psiquiátricas.",
+            "Ofrece únicamente apoyo psicológico básico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria aborda la salud mental en coordinación con los servicios especializados, garantizando una atención integral."
+    },
+    {
+        "enunciado": "Según el artículo 12 de la Ley 16/2003, ¿qué tipo de rehabilitación se incluye en la atención primaria?",
+        "opciones": [
+            "Rehabilitación avanzada para discapacidades graves.",
+            "Rehabilitación básica para mejorar la calidad de vida.",
+            "Solo rehabilitación física postquirúrgica.",
+            "Rehabilitación exclusivamente para pacientes pediátricos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La atención primaria incluye la rehabilitación básica como parte de sus servicios para mejorar la calidad de vida del paciente."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 34 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud, sobre la planificación de los recursos humanos?",
+        "opciones": [
+            "Debe basarse en los principios de eficiencia, equidad y calidad.",
+            "Depende exclusivamente de las comunidades autónomas.",
+            "Se centra únicamente en la contratación de nuevos profesionales.",
+            "Incluye únicamente la formación en salud pública."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 34 establece que la planificación de recursos humanos debe basarse en eficiencia, equidad y calidad, para garantizar la cohesión del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "Según el artículo 35 de la Ley 16/2003, ¿qué órgano es responsable de la planificación y diseño de programas de formación de los profesionales sanitarios?",
+        "opciones": [
+            "El Consejo Interterritorial del Sistema Nacional de Salud.",
+            "La Comisión de Recursos Humanos del Sistema Nacional de Salud.",
+            "El Instituto de Salud Carlos III.",
+            "El Ministerio de Hacienda."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 35 establece que la Comisión de Recursos Humanos del Sistema Nacional de Salud es responsable de la planificación y diseño de programas de formación."
+    },
+    {
+        "enunciado": "¿Qué tipo de formación regula el artículo 36 de la Ley 16/2003 para los profesionales sanitarios?",
+        "opciones": [
+            "Formación de pregrado.",
+            "Formación técnica básica.",
+            "Formación continuada.",
+            "Formación en gestión administrativa."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 36 regula la formación de pregrado para garantizar que los futuros profesionales sanitarios cuenten con competencias adecuadas."
+    },
+    {
+        "enunciado": "¿Qué formación está regulada en el artículo 37 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "Formación de postgrado.",
+            "Formación en salud pública.",
+            "Formación técnica en centros privados.",
+            "Capacitación exclusiva para enfermeros."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 37 regula la formación de postgrado, clave para la especialización y mejora de las competencias de los profesionales sanitarios."
+    },
+    {
+        "enunciado": "¿Qué tipo de formación continuada se menciona en el artículo 38 de la Ley 16/2003?",
+        "opciones": [
+            "Capacitación opcional para médicos residentes.",
+            "Formación continuada obligatoria para todos los profesionales sanitarios.",
+            "Cursos específicos para personal administrativo.",
+            "Formación limitada a especialidades quirúrgicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 38 establece que la formación continuada es obligatoria para todos los profesionales sanitarios, garantizando la actualización de conocimientos."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 40 de la Ley 16/2003 en relación con el desarrollo profesional?",
+        "opciones": [
+            "Es una responsabilidad exclusiva del Ministerio de Sanidad.",
+            "Debe promover la mejora de las competencias y habilidades de los profesionales.",
+            "Se limita a programas de formación básica.",
+            "Depende únicamente de los recursos de las comunidades autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 40 destaca que el desarrollo profesional debe centrarse en la mejora continua de las competencias y habilidades de los profesionales sanitarios."
+    },
+    {
+        "enunciado": "Según el artículo 41 de la Ley 16/2003, ¿qué objetivo tiene la carrera profesional en el Sistema Nacional de Salud?",
+        "opciones": [
+            "Establecer una jerarquía rígida entre los profesionales.",
+            "Reconocer y estimular el desarrollo profesional basado en méritos.",
+            "Limitar la movilidad entre comunidades autónomas.",
+            "Incluir solo programas para médicos especialistas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 41 establece que la carrera profesional tiene como objetivo reconocer y estimular el desarrollo basado en méritos y competencias."
+    },
+    {
+        "enunciado": "¿Qué función clave tiene la evaluación de competencias según el artículo 42 de la Ley 16/2003?",
+        "opciones": [
+            "Medir exclusivamente los conocimientos teóricos.",
+            "Garantizar la calidad y adecuación de los profesionales sanitarios a las necesidades del sistema.",
+            "Limitar el acceso de nuevos profesionales al sistema.",
+            "Definir los salarios del personal sanitario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 42 indica que la evaluación de competencias garantiza que los profesionales sanitarios estén adecuadamente cualificados y actualizados."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Ley 16/2003, ¿qué principio rige la movilidad de los profesionales en el Sistema Nacional de Salud?",
+        "opciones": [
+            "La prioridad de los servicios autonómicos.",
+            "La igualdad de oportunidades para trabajar en cualquier comunidad autónoma.",
+            "La centralización de los contratos en el Ministerio de Sanidad.",
+            "La limitación de movilidad por razones presupuestarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 43 establece que la movilidad de los profesionales debe regirse por el principio de igualdad de oportunidades en todo el Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tiene la Comisión de Recursos Humanos según el artículo 35 de la Ley 16/2003?",
+        "opciones": [
+            "Planificar la formación de pregrado y postgrado en colaboración con las comunidades autónomas.",
+            "Gestionar exclusivamente las plazas en hospitales públicos.",
+            "Regular las condiciones laborales de los profesionales.",
+            "Supervisar la financiación de programas de salud."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Comisión de Recursos Humanos, según el artículo 35, tiene la responsabilidad de planificar la formación de pregrado y postgrado en coordinación con las comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Qué es el Consejo Interterritorial del Sistema Nacional de Salud según la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": [
+            "Un órgano de decisión política sanitaria.",
+            "Un órgano permanente de coordinación entre el Estado y las comunidades autónomas en materia de salud.",
+            "Un consejo consultivo para entidades privadas de salud.",
+            "Una comisión encargada de gestionar fondos sanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial es un órgano de coordinación entre el Estado y las comunidades autónomas en el ámbito sanitario, según la Ley 16/2003."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Consejo Interterritorial del Sistema Nacional de Salud según la Ley 16/2003?",
+        "opciones": [
+            "Garantizar la unidad y cohesión del Sistema Nacional de Salud.",
+            "Regular exclusivamente la financiación sanitaria.",
+            "Centralizar todas las decisiones sanitarias del Estado.",
+            "Supervisar la atención sanitaria internacional."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El objetivo del Consejo Interterritorial es garantizar la unidad y cohesión del Sistema Nacional de Salud en todo el territorio."
+    },
+    {
+        "enunciado": "¿Quiénes componen el Consejo Interterritorial del Sistema Nacional de Salud según el artículo 68 de la Ley 16/2003?",
+        "opciones": [
+            "El Ministerio de Hacienda y los presidentes autonómicos.",
+            "El Ministro de Sanidad y los consejeros de salud de las comunidades autónomas.",
+            "Representantes de entidades privadas y públicas.",
+            "Los directores de hospitales y centros de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial está compuesto por el Ministro de Sanidad y los consejeros de salud de las comunidades autónomas."
+    },
+    {
+        "enunciado": "Según el artículo 69 de la Ley 16/2003, ¿cuál es una de las principales funciones del Consejo Interterritorial?",
+        "opciones": [
+            "Supervisar las cuentas de los hospitales públicos.",
+            "Coordinar las actuaciones en materia de salud pública entre las comunidades autónomas.",
+            "Formar a los profesionales sanitarios.",
+            "Decidir el acceso a medicamentos innovadores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "Una función clave del Consejo Interterritorial es coordinar las actuaciones de salud pública entre comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Qué mecanismo de decisión utiliza el Consejo Interterritorial según el artículo 74 de la Ley 16/2003?",
+        "opciones": [
+            "Las decisiones se adoptan exclusivamente por mayoría simple.",
+            "Se toman por consenso o, en su defecto, por mayoría cualificada.",
+            "Se aplican automáticamente las propuestas del Ministerio de Sanidad.",
+            "Cada comunidad autónoma aplica decisiones según su criterio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial toma sus decisiones por consenso o, en caso de no alcanzarlo, por mayoría cualificada."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña el Consejo Interterritorial respecto a la cartera común de servicios del Sistema Nacional de Salud?",
+        "opciones": [
+            "Revisar y actualizar los contenidos de la cartera común de servicios.",
+            "Financiar directamente las prestaciones básicas.",
+            "Determinar qué servicios son exclusivos para pacientes crónicos.",
+            "Definir los servicios proporcionados por el sector privado."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial revisa y actualiza la cartera común de servicios, asegurando su adecuación a las necesidades sanitarias."
+    },
+    {
+        "enunciado": "Según la Ley 16/2003, ¿qué función tiene el Consejo Interterritorial en relación con las desigualdades en salud?",
+        "opciones": [
+            "Centralizar la financiación sanitaria.",
+            "Elaborar planes para superar desigualdades en salud entre territorios.",
+            "Supervisar exclusivamente la atención en zonas rurales.",
+            "Garantizar la formación específica de médicos en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial elabora planes y medidas para superar las desigualdades en salud entre las comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Qué grupos de trabajo puede crear el Consejo Interterritorial según el artículo 71 de la Ley 16/2003?",
+        "opciones": [
+            "Grupos exclusivos para la gestión económica.",
+            "Grupos de trabajo permanentes y específicos para abordar temas concretos de salud.",
+            "Únicamente comisiones para estudiar el sistema de financiación.",
+            "Equipos de gestión centralizada para hospitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El artículo 71 permite al Consejo Interterritorial crear grupos de trabajo permanentes y específicos para abordar temas concretos."
+    },
+    {
+        "enunciado": "¿Qué aspecto de los recursos humanos está bajo la supervisión del Consejo Interterritorial según la Ley 16/2003?",
+        "opciones": [
+            "La formación continuada de los profesionales sanitarios.",
+            "La contratación directa de médicos y enfermeros.",
+            "La regulación de las carreras profesionales a nivel nacional.",
+            "La supervisión de la movilidad entre comunidades autónomas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial supervisa aspectos como la formación continuada de los profesionales sanitarios en todo el territorio."
+    },
+    {
+        "enunciado": "¿Qué garantía proporciona el Consejo Interterritorial según la Ley 16/2003 sobre los tiempos de espera en el Sistema Nacional de Salud?",
+        "opciones": [
+            "Establece tiempos máximos comunes para todas las comunidades autónomas.",
+            "Decide los tiempos según la capacidad económica de cada región.",
+            "Supervisa los tiempos exclusivamente en hospitales públicos.",
+            "Establece los tiempos únicamente para la atención primaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial establece tiempos máximos comunes de espera en todo el territorio para garantizar la equidad en el acceso."
+    },
+    {
+        "enunciado": "¿Qué principio rige las decisiones adoptadas por el Consejo Interterritorial del Sistema Nacional de Salud según la Ley 16/2003?",
+        "opciones": [
+            "El principio de autonomía territorial.",
+            "El principio de consenso o mayoría cualificada.",
+            "El principio de subordinación al Ministerio de Sanidad.",
+            "El principio de priorización económica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "Las decisiones del Consejo Interterritorial se rigen por el principio de consenso y, en su defecto, por mayoría cualificada."
+    },
+    {
+        "enunciado": "¿Qué relación tiene el Consejo Interterritorial con la equidad del Sistema Nacional de Salud según la Ley 16/2003?",
+        "opciones": [
+            "Es responsable de garantizar el acceso equitativo a los servicios sanitarios en todo el territorio.",
+            "Supervisa únicamente los servicios sanitarios rurales.",
+            "Centraliza los recursos sanitarios para zonas con menos población.",
+            "Decide la redistribución de fondos según el PIB de cada comunidad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial garantiza el acceso equitativo a los servicios sanitarios en todo el Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "Según el artículo 71 de la Ley 16/2003, ¿qué propuestas puede emitir el Consejo Interterritorial?",
+        "opciones": [
+            "Propuestas exclusivamente vinculantes sobre financiación sanitaria.",
+            "Propuestas de coordinación y medidas para superar desigualdades.",
+            "Propuestas para limitar la autonomía de las comunidades autónomas.",
+            "Propuestas de reorganización de servicios privados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial puede emitir propuestas de coordinación y medidas para superar desigualdades en el Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué papel tiene el Consejo Interterritorial en la actualización de la cartera común de servicios sanitarios según la Ley 16/2003?",
+        "opciones": [
+            "Es el único encargado de definir la cartera común básica.",
+            "Coordina la actualización en consenso con las comunidades autónomas.",
+            "Centraliza todos los servicios en hospitales de referencia.",
+            "Supervisa exclusivamente los servicios de salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial coordina la actualización de la cartera común de servicios en consenso con las comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 16/2003 sobre los grupos de trabajo del Consejo Interterritorial?",
+        "opciones": [
+            "Pueden ser creados para abordar temas específicos o permanentes relacionados con la salud pública.",
+            "Son exclusivos para coordinar temas de financiación sanitaria.",
+            "Solo pueden actuar bajo supervisión del Ministerio de Hacienda.",
+            "Se limitan a las áreas de salud ambiental y farmacéutica."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "La Ley permite que el Consejo Interterritorial cree grupos de trabajo para temas específicos o permanentes relacionados con la salud pública."
+    },
+    {
+        "enunciado": "¿Qué función tiene el Consejo Interterritorial respecto a los medicamentos según la Ley 16/2003?",
+        "opciones": [
+            "Determinar el precio de los medicamentos financiados.",
+            "Supervisar la inclusión de medicamentos en la prestación farmacéutica del Sistema Nacional de Salud.",
+            "Centralizar la distribución de medicamentos esenciales.",
+            "Gestionar directamente las farmacias hospitalarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial supervisa la inclusión de medicamentos en la prestación farmacéutica del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Cómo se asegura el Consejo Interterritorial de que los usuarios tengan los mismos derechos en todo el Sistema Nacional de Salud?",
+        "opciones": [
+            "Estableciendo una normativa única para todas las comunidades autónomas.",
+            "Elaborando acuerdos para garantizar la igualdad efectiva de derechos.",
+            "Centralizando la toma de decisiones en el Ministerio de Sanidad.",
+            "Financiando exclusivamente los servicios básicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial elabora acuerdos que buscan garantizar la igualdad de derechos de los usuarios en todo el territorio."
+    },
+    {
+        "enunciado": "Según la Ley 16/2003, ¿qué competencias tiene el Consejo Interterritorial respecto a la información sanitaria?",
+        "opciones": [
+            "Gestiona la base de datos centralizada del sistema.",
+            "Coordina y promueve la interoperabilidad de los sistemas de información sanitaria.",
+            "Centraliza exclusivamente la información sobre enfermedades infecciosas.",
+            "Decide el acceso a datos de pacientes por parte de empresas privadas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial coordina y promueve la interoperabilidad de los sistemas de información sanitaria entre comunidades autónomas."
+    },
+    {
+        "enunciado": "¿Qué establece el Consejo Interterritorial sobre los tiempos máximos de espera para la atención sanitaria según la Ley 16/2003?",
+        "opciones": [
+            "Debe fijar tiempos máximos comunes para todo el Sistema Nacional de Salud.",
+            "Permite que cada comunidad autónoma decida los tiempos según su capacidad.",
+            "Establece tiempos exclusivamente para atención especializada.",
+            "Supervisa los tiempos de espera solo en hospitales de referencia."
+        ],
+        "correcta": 0,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial fija tiempos máximos de espera comunes para garantizar la igualdad en el acceso a la atención sanitaria."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña el Consejo Interterritorial en las emergencias sanitarias según la Ley 16/2003?",
+        "opciones": [
+            "Centraliza las decisiones de respuesta en el Ministerio de Sanidad.",
+            "Coordina las acciones entre comunidades autónomas para gestionar emergencias sanitarias.",
+            "Se limita a emitir recomendaciones no vinculantes.",
+            "Gestiona exclusivamente los recursos económicos para emergencias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema11", "Ley 16/2003"],
+        "feedback": "El Consejo Interterritorial coordina las acciones entre comunidades autónomas para garantizar una respuesta eficaz en emergencias sanitarias."
+    }
+]

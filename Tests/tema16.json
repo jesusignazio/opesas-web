@@ -1,0 +1,363 @@
+[
+  {
+    "enunciado": "¿Cuál es el objetivo principal de la Ley 44/2003 de ordenación de las profesiones sanitarias?",
+    "opciones": [
+      "Regular la gestión económica de los hospitales públicos.",
+      "Establecer el marco normativo de las profesiones sanitarias en España.",
+      "Garantizar el acceso universal a la sanidad pública.",
+      "Promover la investigación médica en el sector privado."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 de ordenación de las profesiones sanitarias tiene como objetivo principal establecer el marco normativo que regula las profesiones sanitarias en España."
+  },
+  {
+    "enunciado": "¿Qué profesionales están incluidos en el ámbito de aplicación de la Ley 44/2003 de ordenación de las profesiones sanitarias?",
+    "opciones": [
+      "Solo los médicos y enfermeros.",
+      "Todos los profesionales que trabajan en centros sanitarios, independientemente de su titulación.",
+      "Los profesionales sanitarios titulados y regulados en España.",
+      "Únicamente los especialistas médicos con título homologado."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 regula a todos los profesionales sanitarios titulados y cuya actividad está reconocida y regulada en España."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿cómo se clasifican las profesiones sanitarias?",
+    "opciones": [
+      "En profesiones de formación universitaria y profesiones técnicas.",
+      "En profesiones reguladas y no reguladas.",
+      "En profesiones sanitarias tituladas de nivel universitario y profesiones del área sanitaria de formación profesional.",
+      "En profesiones públicas y privadas."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 clasifica las profesiones sanitarias en tituladas de nivel universitario y del área sanitaria de formación profesional."
+  },
+  {
+    "enunciado": "¿Qué determina la Ley 44/2003 de ordenación de las profesiones sanitarias sobre el ejercicio de las profesiones sanitarias?",
+    "opciones": [
+      "Que debe realizarse en exclusiva dentro del Sistema Nacional de Salud.",
+      "Que es obligatorio ejercer en el sector público antes de hacerlo en el privado.",
+      "Que está sujeto a la posesión de un título oficial y al cumplimiento de la normativa vigente.",
+      "Que solo se puede ejercer tras una autorización del Ministerio de Sanidad."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que el ejercicio de las profesiones sanitarias está condicionado a la posesión de un título oficial y al cumplimiento de la normativa correspondiente."
+  },
+  {
+    "enunciado": "¿Qué órganos son responsables de garantizar el desarrollo profesional de los sanitarios según la Ley 44/2003 de ordenación de las profesiones sanitarias?",
+    "opciones": [
+      "Las universidades y los colegios profesionales.",
+      "El Ministerio de Sanidad y las Comunidades Autónomas.",
+      "El Consejo General de Médicos.",
+      "Los hospitales públicos y privados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "El desarrollo profesional de los sanitarios es responsabilidad del Ministerio de Sanidad y de las Comunidades Autónomas, según lo indicado en la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 44/2003 de ordenación de las profesiones sanitarias sobre el trabajo en equipo?",
+    "opciones": [
+      "Que es opcional y depende de cada centro sanitario.",
+      "Que se debe fomentar la colaboración interdisciplinar entre los profesionales sanitarios.",
+      "Que solo los médicos y enfermeros pueden formar equipos de trabajo.",
+      "Que los equipos solo pueden formarse en centros públicos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que es fundamental fomentar la colaboración interdisciplinar para garantizar una atención integral al paciente."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué es la formación continuada?",
+    "opciones": [
+      "Un requisito opcional para los profesionales sanitarios.",
+      "Una obligación que deben cumplir todos los sanitarios para mantener sus competencias.",
+      "Un programa exclusivo para los médicos especialistas.",
+      "Un plan diseñado únicamente por las universidades."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La formación continuada es una obligación de los profesionales sanitarios para mantener actualizadas sus competencias, como lo establece la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué regula la Ley 44/2003 de ordenación de las profesiones sanitarias sobre la acreditación profesional?",
+    "opciones": [
+      "Establece que es responsabilidad del Sistema Nacional de Salud.",
+      "Determina que solo las universidades pueden emitir acreditaciones profesionales.",
+      "Introduce un sistema de acreditación basado en la formación continuada y experiencia profesional.",
+      "Obliga a renovar la titulación universitaria cada cinco años."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece un sistema de acreditación que se basa en la formación continuada y la experiencia profesional, permitiendo reconocer las competencias de los sanitarios."
+  },
+  {
+    "enunciado": "¿Qué dice la Ley 44/2003 de ordenación de las profesiones sanitarias sobre el respeto a la autonomía del paciente?",
+    "opciones": [
+      "Que es una obligación exclusiva de los médicos.",
+      "Que debe garantizarse por todos los profesionales sanitarios.",
+      "Que solo se aplica en los casos de consentimiento informado.",
+      "Que es un derecho limitado a pacientes mayores de edad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que todos los profesionales sanitarios deben garantizar el respeto a la autonomía del paciente en su práctica asistencial."
+  },
+  {
+    "enunciado": "¿Qué competencias tienen los colegios profesionales según la Ley 44/2003 de ordenación de las profesiones sanitarias?",
+    "opciones": [
+      "Coordinar la actividad sanitaria pública y privada.",
+      "Velar por el cumplimiento de las normas deontológicas y promover la formación de sus colegiados.",
+      "Elaborar los presupuestos de los centros sanitarios.",
+      "Acreditar directamente a los profesionales sanitarios."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "Según la Ley 44/2003, los colegios profesionales tienen como función principal velar por el cumplimiento de normas deontológicas y fomentar la formación continuada de sus miembros."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿cuál es la finalidad de la planificación de recursos humanos en el ámbito sanitario?",
+    "opciones": [
+      "Garantizar la sostenibilidad económica del Sistema Nacional de Salud.",
+      "Evitar la contratación de profesionales extranjeros.",
+      "Asegurar una dotación equilibrada y adecuada de profesionales sanitarios.",
+      "Limitar la formación de nuevos profesionales para reducir costes."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La planificación de recursos humanos tiene como finalidad garantizar una dotación equilibrada y adecuada de profesionales, según lo establece la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué principio establece la Ley 44/2003 de ordenación de las profesiones sanitarias respecto al acceso a las profesiones sanitarias?",
+    "opciones": [
+      "El acceso está limitado a ciudadanos españoles.",
+      "Debe garantizarse la igualdad de oportunidades y estar basado en criterios de mérito y capacidad.",
+      "El acceso depende exclusivamente de la oferta laboral de cada comunidad autónoma.",
+      "Solo se puede acceder a través de convocatorias públicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que el acceso a las profesiones sanitarias debe estar garantizado bajo los principios de igualdad de oportunidades, mérito y capacidad."
+  },
+  {
+    "enunciado": "¿Qué papel tienen los servicios de salud de las comunidades autónomas según la Ley 44/2003 de ordenación de las profesiones sanitarias?",
+    "opciones": [
+      "Gestionar los recursos sanitarios y establecer criterios de acreditación profesional.",
+      "Supervisar exclusivamente la formación universitaria de los profesionales sanitarios.",
+      "Regular la normativa estatal sobre las profesiones sanitarias.",
+      "Elaborar y gestionar los presupuestos nacionales de sanidad."
+    ],
+    "correcta": 0,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "Los servicios de salud de las comunidades autónomas tienen como función principal gestionar los recursos sanitarios y colaborar en la acreditación profesional."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué es el desarrollo profesional continuo?",
+    "opciones": [
+      "La formación reglada que se recibe durante los estudios universitarios.",
+      "El proceso por el cual los profesionales sanitarios actualizan y mejoran sus competencias a lo largo de su carrera.",
+      "Un programa obligatorio que se realiza exclusivamente en hospitales públicos.",
+      "Una evaluación anual que determina la permanencia del profesional en el puesto de trabajo."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "El desarrollo profesional continuo es un proceso que permite a los profesionales sanitarios actualizar y mejorar sus competencias de manera permanente, según la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué define la Ley 44/2003 de ordenación de las profesiones sanitarias sobre las especialidades médicas?",
+    "opciones": [
+      "Que son asignadas directamente por el Ministerio de Sanidad sin necesidad de formación especializada.",
+      "Que requieren una formación especializada y están reguladas normativamente.",
+      "Que no necesitan un reconocimiento oficial para ser ejercidas.",
+      "Que solo pueden ser adquiridas en universidades públicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que las especialidades médicas requieren una formación específica y están reguladas normativamente."
+  },
+  {
+    "enunciado": "¿Qué dice la Ley 44/2003 de ordenación de las profesiones sanitarias sobre las normas deontológicas?",
+    "opciones": [
+      "Son obligatorias y deben ser respetadas por todos los profesionales sanitarios.",
+      "Son optativas y aplicables solo en el sector privado.",
+      "Son reguladas exclusivamente por los hospitales.",
+      "No tienen relevancia jurídica dentro del ejercicio profesional."
+    ],
+    "correcta": 0,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que las normas deontológicas son obligatorias para todos los profesionales sanitarios en el ejercicio de su actividad."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué derecho tienen los pacientes respecto a la formación de los profesionales?",
+    "opciones": [
+      "Recibir atención exclusivamente de profesionales en formación.",
+      "Ser informados sobre la participación de profesionales en formación en su atención sanitaria.",
+      "Elegir únicamente a profesionales sin formación continuada.",
+      "Negarse a ser atendidos por profesionales titulados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 garantiza a los pacientes el derecho a ser informados si participan profesionales en formación en su atención sanitaria."
+  },
+  {
+    "enunciado": "¿Qué criterio establece la Ley 44/2003 de ordenación de las profesiones sanitarias para la evaluación de las competencias profesionales?",
+    "opciones": [
+      "Exámenes periódicos obligatorios.",
+      "La experiencia acumulada y la formación continuada.",
+      "El número de años trabajados en el sistema sanitario público.",
+      "La recomendación de un superior jerárquico."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que la evaluación de competencias se basa principalmente en la formación continuada y la experiencia profesional."
+  },
+  {
+    "enunciado": "¿Qué regula la Ley 44/2003 de ordenación de las profesiones sanitarias sobre la colegiación de los profesionales sanitarios?",
+    "opciones": [
+      "Que es obligatoria para ejercer todas las profesiones sanitarias.",
+      "Que no es necesaria para los profesionales del ámbito público.",
+      "Que puede ser obligatoria en función de las leyes específicas de cada profesión.",
+      "Que solo aplica a médicos y enfermeros."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que la colegiación puede ser obligatoria dependiendo de la normativa específica que regule cada profesión sanitaria."
+  },
+  {
+    "enunciado": "¿Qué dice la Ley 44/2003 de ordenación de las profesiones sanitarias sobre la investigación y el ejercicio profesional?",
+    "opciones": [
+      "Que los profesionales sanitarios no están obligados a participar en actividades de investigación.",
+      "Que la investigación es una actividad intrínseca al desarrollo profesional sanitario.",
+      "Que la investigación debe limitarse exclusivamente al ámbito académico.",
+      "Que los profesionales pueden ejercer sin tener en cuenta los avances científicos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 destaca que la investigación es una parte fundamental del ejercicio profesional para garantizar la mejora continua en la atención sanitaria."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué función tienen las Comisiones Nacionales de las Especialidades en Ciencias de la Salud?",
+    "opciones": [
+      "Supervisar la práctica clínica de los profesionales sanitarios.",
+      "Elaborar los programas de formación de las especialidades en colaboración con el Ministerio de Sanidad.",
+      "Determinar las plazas disponibles para la formación sanitaria especializada.",
+      "Coordinar la investigación entre los distintos hospitales universitarios."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "Las Comisiones Nacionales de las Especialidades tienen la función de elaborar los programas de formación en colaboración con el Ministerio de Sanidad, tal como establece la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué indica la Ley 44/2003 de ordenación de las profesiones sanitarias respecto a la acreditación de centros para la formación sanitaria especializada?",
+    "opciones": [
+      "Solo pueden acreditarse hospitales públicos para la formación sanitaria especializada.",
+      "Es competencia exclusiva del Ministerio de Sanidad y las Comunidades Autónomas.",
+      "La acreditación de centros se otorga automáticamente si cumplen con normas de calidad asistencial.",
+      "La acreditación debe ser renovada cada cinco años por los colegios profesionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que la acreditación de centros para la formación sanitaria especializada es competencia del Ministerio de Sanidad y las Comunidades Autónomas."
+  },
+  {
+    "enunciado": "Según la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿cuál es el papel del Consejo Nacional de Especialidades en Ciencias de la Salud?",
+    "opciones": [
+      "Aprobar la creación de nuevas especialidades médicas.",
+      "Coordinar las Comisiones Nacionales de Especialidades y proponer mejoras en la formación especializada.",
+      "Autorizar el ejercicio de profesionales sanitarios extranjeros.",
+      "Fiscalizar el desempeño de los profesionales sanitarios en el ámbito público."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "El Consejo Nacional de Especialidades en Ciencias de la Salud coordina las Comisiones Nacionales de Especialidades y asesora en la mejora de la formación especializada, según la Ley 44/2003."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 44/2003 de ordenación de las profesiones sanitarias sobre las áreas de capacitación específica?",
+    "opciones": [
+      "Que son áreas obligatorias para todos los especialistas sanitarios.",
+      "Que permiten a los especialistas adquirir competencias adicionales en ámbitos concretos tras su formación especializada.",
+      "Que sustituyen completamente a las especialidades tradicionales.",
+      "Que solo están disponibles para médicos y odontólogos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 introduce las áreas de capacitación específica como una forma de adquirir competencias adicionales tras la formación especializada."
+  },
+  {
+    "enunciado": "¿Qué mecanismo establece la Ley 44/2003 de ordenación de las profesiones sanitarias para fomentar la calidad en la formación sanitaria especializada?",
+    "opciones": [
+      "La creación de un sistema de evaluación anual de los profesionales en formación.",
+      "La obligatoriedad de realizar auditorías externas en los centros de formación.",
+      "La acreditación previa de centros y tutores, así como la supervisión de los programas formativos.",
+      "La eliminación de la figura del tutor para una gestión más eficiente de los recursos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que la calidad en la formación sanitaria especializada se garantiza mediante la acreditación de centros y tutores, además de la supervisión de los programas formativos."
+  },
+  {
+    "enunciado": "En el marco de la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué es el registro estatal de profesionales sanitarios?",
+    "opciones": [
+      "Un listado de acceso público que recoge los méritos académicos de los profesionales sanitarios.",
+      "Un registro confidencial que centraliza información sobre los profesionales titulados y habilitados en España.",
+      "Una base de datos gestionada exclusivamente por los colegios profesionales.",
+      "Un mecanismo utilizado para gestionar las plazas del Sistema Nacional de Salud."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "El registro estatal de profesionales sanitarios es un registro confidencial que recoge información sobre los titulados y habilitados para el ejercicio profesional en España."
+  },
+  {
+    "enunciado": "De acuerdo con la Ley 44/2003 de ordenación de las profesiones sanitarias, ¿qué se requiere para ejercer como tutor en la formación sanitaria especializada?",
+    "opciones": [
+      "Una antigüedad mínima de 10 años en el ejercicio de la profesión.",
+      "Poseer una formación específica en competencias docentes y estar acreditado oficialmente.",
+      "Ser designado por el director del hospital donde se realice la formación.",
+      "Haber participado previamente en un programa de formación continuada."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "Para ejercer como tutor en la formación sanitaria especializada, la Ley 44/2003 exige poseer formación en competencias docentes y estar debidamente acreditado."
+  },
+  {
+    "enunciado": "¿Qué criterio utiliza la Ley 44/2003 de ordenación de las profesiones sanitarias para definir una profesión sanitaria regulada?",
+    "opciones": [
+      "Aquella que solo puede ejercerse en centros del Sistema Nacional de Salud.",
+      "Aquella cuyo ejercicio está condicionado a la posesión de un título oficial y está regulada por normas específicas.",
+      "Aquella reconocida por los colegios profesionales en España.",
+      "Aquella que incluye formación en investigación y docencia."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 define una profesión sanitaria regulada como aquella que requiere un título oficial y está sujeta a una normativa específica."
+  },
+  {
+    "enunciado": "¿Cómo regula la Ley 44/2003 de ordenación de las profesiones sanitarias la compatibilidad entre la actividad pública y privada de los profesionales sanitarios?",
+    "opciones": [
+      "Prohíbe completamente la compatibilidad entre ambos sectores.",
+      "Permite la compatibilidad siempre que no exista conflicto de intereses y se cumpla la normativa de incompatibilidades.",
+      "Obliga a los profesionales a elegir entre el sector público o privado.",
+      "Establece que los profesionales solo pueden trabajar en el sector privado fuera del horario laboral público."
+    ],
+    "correcta": 1,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 permite la compatibilidad entre la actividad pública y privada, siempre que no exista conflicto de intereses y se cumpla con la normativa aplicable de incompatibilidades."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 44/2003 de ordenación de las profesiones sanitarias sobre la responsabilidad de los profesionales en su práctica clínica?",
+    "opciones": [
+      "Que deben asumir exclusivamente la responsabilidad administrativa derivada de su actividad.",
+      "Que su responsabilidad se limita a las actuaciones dentro del Sistema Nacional de Salud.",
+      "Que los profesionales sanitarios son responsables de sus decisiones y actuaciones dentro del marco de la lex artis.",
+      "Que no pueden ser responsables si actúan bajo las órdenes de un superior jerárquico."
+    ],
+    "correcta": 2,
+    "categorías": ["tema16", "Ley 44/2003"],
+    "feedback": "La Ley 44/2003 establece que los profesionales sanitarios son responsables de sus decisiones y actuaciones conforme a la lex artis, el estándar técnico y científico aplicable en cada caso."
+  }
+]
+
