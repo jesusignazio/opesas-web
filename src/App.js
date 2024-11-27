@@ -6,8 +6,8 @@ import SearchableMenu from './components/SearchableMenu';
 
 function App() {
     const [inicio, setInicio] = useState(true);
-    const [casos, setCasos] = useState(true);
-    const [elementPreguntas, showPreguntas] = useState(true);
+    const [casos, setCasos] = useState(false);
+    const [elementPreguntas, showPreguntas] = useState(false);
     const [searchTerm, setSearchTerm] = useState('');
     const [preguntas, setPreguntas] = useState([]); // Estado para las preguntas cargadas
     const [error, setError] = useState(null); // Estado para errores
@@ -247,8 +247,10 @@ function App() {
                                                 <a
                                                     href="#"
                                                     onClick={() => {
-                                                        showPreguntas(false);
-                                                        setCasos(false);
+                                                        showPreguntas(true);
+                                                        console.log("onClick");
+                                                        console.log(elementPreguntas);
+                                                        setCasos(true);
                                                         setInicio(false);
                                                         cargarPreguntas(item.archivo);
                                                     }}
