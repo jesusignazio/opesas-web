@@ -1,0 +1,3066 @@
+[
+    {
+        "enunciado": "¿Cuál es el objeto principal de la Ley 12/2007 de igualdad de género en Andalucía?",
+        "opciones": [
+            "Garantizar la representación de mujeres en puestos directivos.",
+            "Promover la igualdad de trato y oportunidades entre mujeres y hombres.",
+            "Crear Plan de Igualdades de conciliación familiar obligatorios.",
+            "Fomentar la igualdad salarial entre géneros."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 1 establece que el objeto principal de la ley es hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres, avanzando hacia una sociedad más democrática, justa y solidaria."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué se entiende por discriminación directa por razón de sexo?",
+        "opciones": [
+            "Una disposición que afecta más a un género que a otro.",
+            "El trato menos favorable a una persona en situación equiparable debido a su sexo.",
+            "La aplicación de una norma neutral que causa desventajas específicas.",
+            "El uso de lenguaje sexista en documentos oficiales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 define la discriminación directa como la situación en que una persona recibe un trato menos favorable debido a su sexo."
+    },
+    {
+        "enunciado": "¿Qué principio establece la Ley 12/2007 para la representación en órganos colegiados?",
+        "opciones": [
+            "Proporción mínima del 30% de mujeres.",
+            "Representación equilibrada de género.",
+            "Rotación anual obligatoria por género.",
+            "Prioridad para mujeres en cargos directivos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 11 establece la representación equilibrada como principio, garantizando que ningún sexo supere el 60% ni sea inferior al 40%."
+    },
+    {
+        "enunciado": "¿Qué contempla la Ley 12/2007 sobre el uso del lenguaje en documentos públicos?",
+        "opciones": [
+            "Debe ser inclusivo pero no obligatorio.",
+            "Debe adaptarse a los usos locales.",
+            "Debe eliminar cualquier uso sexista.",
+            "No establece requisitos específicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 9 establece que las administraciones públicas deben garantizar un uso no sexista del lenguaje en todos los documentos y soportes."
+    },
+    {
+        "enunciado": "¿Qué enfoque introduce la Ley 12/2007 en los presupuestos públicos de Andalucía?",
+        "opciones": [
+            "Perspectiva de igualdad económica.",
+            "Perspectiva de género.",
+            "Análisis de impacto social.",
+            "Equidad salarial."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 8 establece que los presupuestos deben incorporar un enfoque de género como elemento activo para promover la igualdad entre mujeres y hombres."
+    },
+    {
+        "enunciado": "¿Qué formación exige la Ley 12/2007 para el personal de las Administraciones Públicas?",
+        "opciones": [
+            "Formación específica en igualdad de género.",
+            "Capacitación general en diversidad.",
+            "Talleres sobre conciliación familiar.",
+            "Cursos obligatorios sobre acoso laboral."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "Según el artículo 9 bis, se debe garantizar una formación progresiva y permanente en igualdad de género al personal administrativo."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen las empresas que desean contratar con la Administración según la Ley 12/2007?",
+        "opciones": [
+            "Acreditar experiencia en igualdad.",
+            "Presentar un protocolo contra el acoso.",
+            "Tener mujeres en al menos el 30% de su Plan de Igualdadtilla.",
+            "Desarrollar medidas de igualdad efectivas."
+        ],
+        "correcta": 3,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 12 indica que las empresas deben desarrollar medidas para garantizar la igualdad de oportunidades para poder contratar con la Administración."
+    },
+    {
+        "enunciado": "¿Qué ámbito no está explícitamente mencionado como objeto de aplicación de la Ley 12/2007?",
+        "opciones": [
+            "Administración de la Junta de Andalucía.",
+            "Entidades locales.",
+            "Sistema educativo universitario.",
+            "Empresas privadas de toda España."
+        ],
+        "correcta": 3,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 2 especifica que la ley se aplica en Andalucía a la administración, entidades locales y el sistema universitario andaluz, pero no menciona a empresas privadas fuera de Andalucía."
+    },
+    {
+        "enunciado": "¿Qué debe incluirse en las estadísticas según la Ley 12/2007?",
+        "opciones": [
+            "Datos sobre ingresos por género.",
+            "Indicadores de género y variable sexo.",
+            "Impacto económico de políticas de igualdad.",
+            "Número de mujeres en cargos públicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 10 obliga a incluir sistemáticamente la variable sexo e indicadores de género en todas las estadísticas y encuestas públicas."
+    },
+    {
+        "enunciado": "¿Qué periodicidad tiene el Plan de Igualdad Estratégico para la Igualdad según la Ley 12/2007?",
+        "opciones": [
+            "Anual.",
+            "Cada dos años.",
+            "Cada tres años.",
+            "Mínimo cada cuatro años."
+        ],
+        "correcta": 3,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 establece que el Plan de Igualdad Estratégico debe formularse al menos cada cuatro años."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿cómo debe ser el tratamiento en libros de texto?",
+        "opciones": [
+            "Neutro en cuanto al género.",
+            "Apegado a la realidad social.",
+            "No discriminatorio y coeducativo.",
+            "Basado en los roles tradicionales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 16 asegura que los libros de texto deben eliminar prejuicios y promover la coeducación entre niños y niñas."
+    },
+    {
+        "enunciado": "¿Qué principio debe guiar la contratación pública según la Ley 12/2007?",
+        "opciones": [
+            "Eficiencia económica.",
+            "Perspectiva de género.",
+            "Representación sindical.",
+            "Diversidad cultural."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 12 establece la perspectiva de género como principio rector en la contratación pública."
+    },
+    {
+        "enunciado": "¿Qué concepto define la Ley 12/2007 como el comportamiento verbal, no verbal o físico que atenta contra la dignidad de la mujer?",
+        "opciones": [
+            "Acoso laboral.",
+            "Discriminación directa.",
+            "Acoso sexual.",
+            "Discriminación múltiple."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 define el acoso sexual como cualquier comportamiento que atente contra la dignidad de la mujer, creando un entorno hostil o intimidatorio."
+    },
+    {
+        "enunciado": "¿Qué característica debe cumplir la representación equilibrada según la Ley 12/2007?",
+        "opciones": [
+            "Al menos un 50% de mujeres.",
+            "No menos del 40% ni más del 60% de cada sexo.",
+            "Presencia igualitaria exacta de mujeres y hombres.",
+            "Rotación anual de género en los cargos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 establece que la representación equilibrada debe garantizar entre un 40% y un 60% de cada sexo."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los objetivos principales de la integración de la perspectiva de género en las políticas públicas según la Ley 12/2007?",
+        "opciones": [
+            "Promover exclusivamente la igualdad salarial.",
+            "Erradicar los estereotipos culturales.",
+            "Adaptar las políticas para eliminar efectos discriminatorios.",
+            "Garantizar una cuota fija de mujeres en el mercado laboral."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 5 menciona que la integración de la perspectiva de género busca adaptar las políticas públicas para eliminar efectos discriminatorios y fomentar la igualdad."
+    },
+    {
+        "enunciado": "¿Qué entidad debe formular el Plan de Igualdad Estratégico para la Igualdad de Mujeres y Hombres en Andalucía?",
+        "opciones": [
+            "El Parlamento de Andalucía.",
+            "El Consejo de Gobierno de la Junta de Andalucía.",
+            "El Instituto Andaluz de la Mujer.",
+            "La Consejería de Educación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 indica que el Consejo de Gobierno de la Junta de Andalucía, con participación local, debe formular el Plan de Igualdad Estratégico."
+    },
+    {
+        "enunciado": "¿Qué deben garantizar los centros educativos según la Ley 12/2007?",
+        "opciones": [
+            "Horarios extendidos para conciliación.",
+            "Plan de Igualdades de igualdad de género.",
+            "Docencia exclusiva por mujeres en áreas específicas.",
+            "Currículos diferenciados por género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 establece que todos los centros educativos deben incluir un Plan de Igualdad en su Plan de Igualdad de Centro."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué acción deben tomar las empresas para promover la igualdad?",
+        "opciones": [
+            "Implementar un Plan de Igualdad.",
+            "Proveer formación anual sobre diversidad.",
+            "Priorizar la contratación de mujeres mayores de 50 años.",
+            "Designar mujeres en el 50% de los puestos directivos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 27 menciona que las empresas deben implementar Plan de Igualdades de igualdad para fomentar oportunidades equitativas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la conciliación laboral, familiar y personal?",
+        "opciones": [
+            "Es responsabilidad exclusiva de las mujeres.",
+            "Debe ser un derecho y deber compartido entre hombres y mujeres.",
+            "Se aplica únicamente a mujeres en edad reproductiva.",
+            "Es opcional en las políticas públicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 36 declara que la conciliación es un derecho y deber compartido entre hombres y mujeres para alcanzar la igualdad de oportunidades."
+    },
+    {
+        "enunciado": "¿Qué papel tiene el Instituto Andaluz de la Mujer según la Ley 12/2007?",
+        "opciones": [
+            "Supervisar la contratación pública.",
+            "Asesorar en la elaboración de Plan de Igualdades de igualdad.",
+            "Coordinar políticas de empleo para mujeres.",
+            "Controlar el cumplimiento de las cuotas de género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 indica que el Instituto Andaluz de la Mujer asesora a las entidades en la creación de Plan de Igualdades de igualdad."
+    },
+    {
+        "enunciado": "¿Qué prohíbe expresamente la Ley 12/2007 en las ofertas de empleo gestionadas por el Servicio Andaluz de Empleo?",
+        "opciones": [
+            "Discriminación por razón de sexo.",
+            "Preferencia por trabajadores extranjeros.",
+            "Contratos a tiempo parcial para mujeres.",
+            "Salarios inferiores al mínimo interprofesional."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 23 prohíbe que el Servicio Andaluz de Empleo tramite ofertas de empleo que sean discriminatorias por razón de sexo."
+    },
+    {
+        "enunciado": "¿Qué colectivo tiene prioridad en las políticas activas de empleo según la Ley 12/2007?",
+        "opciones": [
+            "Hombres mayores de 50 años.",
+            "Mujeres víctimas de violencia de género.",
+            "Estudiantes universitarios.",
+            "Trabajadores del sector público."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 23 menciona que las políticas activas de empleo deben prestar especial atención a las mujeres víctimas de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué enfoque educativo promueve la Ley 12/2007?",
+        "opciones": [
+            "Separación por género en materias específicas.",
+            "Integración de la perspectiva de género en el currículo.",
+            "Enseñanza tradicional con enfoque neutral.",
+            "Programas exclusivos para mujeres y niñas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 bis establece que el diseño curricular debe integrar la perspectiva de género en todas las etapas educativas."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué principio rige la asignación de subvenciones públicas?",
+        "opciones": [
+            "Impacto económico positivo.",
+            "Compromiso con la igualdad de género.",
+            "Número de empleados contratados.",
+            "Contribución fiscal del solicitante."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 13 establece que la igualdad de género es un criterio esencial en la valoración para otorgar subvenciones públicas."
+    },
+    {
+        "enunciado": "¿Qué requisito establece la Ley 12/2007 para el lenguaje en la denominación de entidades públicas?",
+        "opciones": [
+            "Debe ser inclusivo y no sexista.",
+            "Debe ajustarse a criterios tradicionales.",
+            "No requiere modificaciones específicas.",
+            "Debe reflejar la mayoría de género en su personal."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 9 dispone que las entidades públicas deben adaptar su denominación oficial a un lenguaje inclusivo y no sexista."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué deben garantizar las estadísticas públicas?",
+        "opciones": [
+            "Neutralidad en los datos.",
+            "Desglose por género y análisis de impacto.",
+            "Prioridad en datos de empleo femenino.",
+            "Representación paritaria en la recolección."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 10 establece la obligatoriedad de incluir la variable sexo e indicadores de género en todas las estadísticas públicas."
+    },
+    {
+        "enunciado": "¿Qué enfoque de formación promueve la Ley 12/2007 para el profesorado?",
+        "opciones": [
+            "Exclusivo para directoras de centros.",
+            "Formación teórica sobre normativa educativa.",
+            "Capacitación continua en igualdad de género y coeducación.",
+            "Cursos optativos sobre educación sexual."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 17 establece que el profesorado debe recibir formación continua en igualdad de género, coeducación y prevención de violencia."
+    },
+    {
+        "enunciado": "¿Qué medida deben adoptar las universidades andaluzas según la Ley 12/2007?",
+        "opciones": [
+            "Crear cátedras específicas de igualdad.",
+            "Asegurar la paridad en todos los departamentos.",
+            "Ofrecer becas exclusivas para mujeres.",
+            "Eliminar materias no relacionadas con igualdad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 21 promueve la creación de cátedras en estudios de género y violencia sexista en el sistema universitario andaluz."
+    },
+    {
+        "enunciado": "¿Qué periodicidad tienen los Plan de Igualdades de igualdad en el empleo público según la Ley 12/2007?",
+        "opciones": [
+            "Cada cinco años.",
+            "Anual.",
+            "Cada cuatro años.",
+            "Bianual."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 32 indica que los Plan de Igualdades de igualdad en la Administración pública deben renovarse y evaluarse cada cuatro años."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 respecto al material curricular en Andalucía?",
+        "opciones": [
+            "Debe ser aprobado por el Instituto Andaluz de la Mujer.",
+            "Debe eliminar estereotipos y fomentar la coeducación.",
+            "Debe enfocarse en la diversidad cultural.",
+            "Debe incluir referencias a la Constitución Española."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 16 asegura que los materiales curriculares deben eliminar estereotipos de género y promover la igualdad entre niñas y niños."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la evaluación de impacto de género en la Ley 12/2007?",
+        "opciones": [
+            "Garantizar políticas equitativas.",
+            "Facilitar informes económicos anuales.",
+            "Incrementar la contratación de mujeres.",
+            "Promover la representación política femenina."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 6 establece que la evaluación de impacto de género busca garantizar la integración efectiva de la igualdad en políticas públicas."
+    },
+    {
+        "enunciado": "¿Qué característica distingue a la representación equilibrada según la Ley 12/2007?",
+        "opciones": [
+            "Al menos un 50% de representación femenina.",
+            "No superar el 60% ni ser menor al 40% de un género.",
+            "Rotación anual entre hombres y mujeres.",
+            "Cumplimiento opcional en órganos colegiados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 especifica que la representación equilibrada debe garantizar una proporción entre el 40% y el 60% de ambos géneros."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la conciliación en el ámbito público?",
+        "opciones": [
+            "Obligatoriedad de permisos parentales iguales.",
+            "Creación de servicios de apoyo para la conciliación.",
+            "Prioridad para mujeres con hijos pequeños.",
+            "Exención de responsabilidades para trabajadoras embarazadas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 37 bis establece la necesidad de servicios públicos para facilitar la conciliación de la vida laboral, familiar y personal."
+    },
+    {
+        "enunciado": "¿Qué derechos protege la Ley 12/2007 en relación con el acoso sexual en el empleo?",
+        "opciones": [
+            "Acceso prioritario a medidas de conciliación.",
+            "Protocolo obligatorio para prevenir el acoso.",
+            "Creación de un fondo para compensaciones económicas.",
+            "Formación anual sobre igualdad de género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 30 obliga a las entidades a implementar protocolos que prevengan y gestionen casos de acoso sexual o por razón de sexo."
+    },
+    {
+        "enunciado": "¿Qué principio general establece la Ley 12/2007 para eliminar la feminización de la pobreza?",
+        "opciones": [
+            "Priorizar el acceso de mujeres a empleos públicos.",
+            "Adoptar medidas específicas para eliminar la discriminación.",
+            "Garantizar cuotas en sectores económicos clave.",
+            "Promover incentivos fiscales para mujeres emprendedoras."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 4 incluye entre los principios generales la adopción de medidas específicas para eliminar la feminización de la pobreza."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué colectivo recibe especial protección frente a múltiples formas de discriminación?",
+        "opciones": [
+            "Mujeres jóvenes.",
+            "Mujeres en riesgo de exclusión social.",
+            "Mujeres trabajadoras del sector público.",
+            "Mujeres con formación superior."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 4 establece una especial protección para mujeres o colectivos en riesgo de padecer múltiples formas de discriminación."
+    },
+    {
+        "enunciado": "¿Qué se entiende por transversalidad en la Ley 12/2007?",
+        "opciones": [
+            "Un enfoque neutral en políticas públicas.",
+            "Un instrumento para integrar la perspectiva de género en todas las acciones públicas.",
+            "La igualdad obligatoria en los presupuestos anuales.",
+            "La representación equilibrada en órganos administrativos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 define la transversalidad como el instrumento para integrar la perspectiva de género en las competencias y políticas públicas."
+    },
+    {
+        "enunciado": "¿Qué medidas deben adoptar los centros educativos según el artículo 15 de la Ley 12/2007?",
+        "opciones": [
+            "Incluir una asignatura específica sobre igualdad.",
+            "Elaborar Plan de Igualdades de igualdad de género.",
+            "Asegurar la paridad entre docentes.",
+            "Organizar talleres anuales para el alumnado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 obliga a los centros educativos a incluir Plan de Igualdades de igualdad que contemplen coeducación y prevención de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué acción incluye la Ley 12/2007 para promover la igualdad en la contratación pública?",
+        "opciones": [
+            "Dar preferencia a empresas con Plan de Igualdades de igualdad.",
+            "Exigir que las empresas tengan una Plan de Igualdadtilla femenina mayoritaria.",
+            "Penalizar a empresas sin representación femenina en cargos directivos.",
+            "Establecer incentivos solo para empresas de sectores feminizados."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 12 establece que en los contratos públicos se dará preferencia a las empresas que cuenten con Plan de Igualdades de igualdad o medidas efectivas en esta materia."
+    },
+    {
+        "enunciado": "¿Qué órgano coordina las acciones de igualdad según la Ley 12/2007?",
+        "opciones": [
+            "El Parlamento de Andalucía.",
+            "El Observatorio Andaluz de la Igualdad de Género.",
+            "La Comisión Interdepartamental para la Igualdad de Mujeres y Hombres.",
+            "El Instituto Andaluz de Estadística."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 59 crea la Comisión Interdepartamental para coordinar e impulsar las políticas de igualdad en Andalucía."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la formación en igualdad en el sistema universitario?",
+        "opciones": [
+            "Debe ser opcional y voluntaria.",
+            "Debe incluirse en los Plan de Igualdades de estudio de grado y máster.",
+            "Solo aplica a carreras relacionadas con las ciencias sociales.",
+            "Debe desarrollarse mediante actividades extracurriculares."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 20 establece que la formación en igualdad debe incluirse en los Plan de Igualdades de estudio de grado, máster y doctorado en áreas específicas."
+    },
+    {
+        "enunciado": "¿Qué aspecto garantiza la Ley 12/2007 en los órganos colegiados de la Administración andaluza?",
+        "opciones": [
+            "Rotación anual de género.",
+            "Representación equilibrada de mujeres y hombres.",
+            "Mayor representación de mujeres en áreas sociales.",
+            "Paridad estricta en todas las decisiones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 11 exige que los órganos colegiados respeten la representación equilibrada, asegurando al menos un 40% y no más de un 60% de cada género."
+    },
+    {
+        "enunciado": "¿Qué recoge la Ley 12/2007 sobre las políticas de conciliación en las empresas privadas?",
+        "opciones": [
+            "Son voluntarias para las empresas pequeñas.",
+            "Deben incluir protocolos obligatorios de acoso laboral.",
+            "Se promueven mediante ayudas públicas para fomentar la conciliación.",
+            "Están dirigidas únicamente a mujeres trabajadoras."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 38 establece que la Administración andaluza impulsará la conciliación en las empresas mediante ayudas específicas."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 12/2007 como discriminación indirecta por razón de sexo?",
+        "opciones": [
+            "Un trato explícito desfavorable hacia mujeres.",
+            "La ausencia de medidas para la igualdad.",
+            "Una disposición aparentemente neutral que causa desventaja a un sexo.",
+            "La falta de representación equilibrada en órganos directivos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "Según el artículo 3, la discriminación indirecta ocurre cuando una norma aparentemente neutral coloca a un sexo en desventaja respecto al otro."
+    },
+    {
+        "enunciado": "¿Qué principio educativo promueve la Ley 12/2007?",
+        "opciones": [
+            "Segregación por género en ciertas materias.",
+            "Eliminación de roles y estereotipos de género.",
+            "Representación igualitaria en los consejos escolares.",
+            "Formación exclusiva para docentes femeninas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 establece que el sistema educativo debe fomentar la eliminación de prejuicios y roles asignados por género."
+    },
+    {
+        "enunciado": "¿Qué aspecto valora la Ley 12/2007 en la concesión de ayudas públicas?",
+        "opciones": [
+            "El compromiso efectivo con la igualdad de género.",
+            "El porcentaje de mujeres empleadas en la empresa.",
+            "La participación de la empresa en eventos inclusivos.",
+            "La antigüedad de la entidad solicitante."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 13 señala que las ayudas públicas se otorgan considerando las medidas de igualdad adoptadas por las entidades solicitantes."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué deben garantizar los presupuestos públicos de Andalucía?",
+        "opciones": [
+            "El aumento de la representación femenina en todas las áreas.",
+            "El uso exclusivo de lenguaje inclusivo en los informes.",
+            "Un enfoque de género en su diseño y ejecución.",
+            "La asignación de recursos para formación en igualdad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 8 establece que los presupuestos deben incluir un enfoque de género como herramienta para promover la igualdad efectiva."
+    },
+    {
+        "enunciado": "¿Qué función tienen los Plan de Igualdades de igualdad en las empresas según la Ley 12/2007?",
+        "opciones": [
+            "Garantizar la paridad salarial en todos los puestos.",
+            "Promover la integración de mujeres en sectores masculinizados.",
+            "Establecer acciones para prevenir la discriminación de género.",
+            "Asegurar la contratación de mujeres en un 50% de las vacantes."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 27 menciona que los Plan de Igualdades de igualdad son instrumentos clave para prevenir y eliminar la discriminación de género en las empresas."
+    },
+    {
+        "enunciado": "¿Qué acción debe incluirse en los currículos educativos según la Ley 12/2007?",
+        "opciones": [
+            "Promoción de la diversidad cultural y social.",
+            "Integración de conocimientos sobre igualdad y feminismo.",
+            "Asesoramiento a las familias sobre roles de género.",
+            "Estudio de casos históricos de desigualdad laboral."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 bis establece la necesidad de incorporar conocimientos sobre igualdad de género y feminismo en los currículos educativos."
+    },
+    {
+        "enunciado": "¿Qué colectivo tiene prioridad en las políticas de empleo según la Ley 12/2007?",
+        "opciones": [
+            "Mujeres víctimas de trata o explotación sexual.",
+            "Hombres mayores de 60 años.",
+            "Personas jóvenes en búsqueda de primer empleo.",
+            "Trabajadores con más de 10 años de experiencia."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 23 prioriza a mujeres víctimas de trata y explotación sexual en las políticas activas de empleo para fomentar su inserción laboral."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la prevención del acoso sexual en el ámbito laboral?",
+        "opciones": [
+            "Es responsabilidad exclusiva del trabajador denunciarlo.",
+            "Las empresas deben implementar códigos de conducta y protocolos.",
+            "Debe sancionarse solo cuando existan pruebas contundentes.",
+            "No se regula explícitamente en el ámbito laboral."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 30 obliga a las empresas a implementar protocolos y códigos de conducta para prevenir y abordar el acoso sexual y por razón de género."
+    },
+    {
+        "enunciado": "¿Qué obligación tienen los poderes públicos respecto a la imagen de mujeres y hombres según la Ley 12/2007?",
+        "opciones": [
+            "Fomentar campañas de sensibilización sobre igualdad.",
+            "Garantizar la representación paritaria en medios de comunicación.",
+            "Promover una imagen igualitaria en todos los contenidos oficiales.",
+            "Obligar a los medios privados a reflejar roles no estereotipados."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 9 señala que las administraciones públicas deben garantizar una imagen igualitaria en los documentos y contenidos que elaboren."
+    },
+    {
+        "enunciado": "¿Qué mecanismo establece la Ley 12/2007 para supervisar el cumplimiento de la igualdad en la educación?",
+        "opciones": [
+            "Inspecciones educativas periódicas.",
+            "Informes anuales del Instituto Andaluz de la Mujer.",
+            "Revisión externa por parte de organismos independientes.",
+            "Auditorías públicas de los Plan de Igualdades educativos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 19 establece que los servicios de inspección educativa supervisarán la aplicación de medidas de igualdad en los centros educativos."
+    },
+    {
+        "enunciado": "¿Qué debe incluir la Administración educativa andaluza en los materiales curriculares según la Ley 12/2007?",
+        "opciones": [
+            "Referencias a la historia del feminismo.",
+            "Estereotipos culturales sobre roles de género.",
+            "Ejemplos tradicionales de familias nucleares.",
+            "Contenidos neutrales en género."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 bis establece la integración de contenidos que incluyan la historia del feminismo y la contribución de las mujeres al desarrollo humano."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la representación equilibrada en los órganos colegiados según la Ley 12/2007?",
+        "opciones": [
+            "Garantizar la igualdad salarial en todos los sectores.",
+            "Asegurar que ningún género supere el 60% ni sea menor al 40%.",
+            "Imponer la paridad obligatoria en todos los órganos.",
+            "Promover únicamente la participación femenina."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 11 establece que la representación equilibrada busca que ningún género supere el 60% ni sea menor al 40% en los órganos colegiados."
+    },
+    {
+        "enunciado": "¿Qué función tienen las unidades de igualdad en las universidades según la Ley 12/2007?",
+        "opciones": [
+            "Supervisar la paridad en la selección de estudiantes.",
+            "Impulsar, coordinar y evaluar la perspectiva de género.",
+            "Gestionar programas exclusivos para mujeres.",
+            "Garantizar el acceso igualitario a las instalaciones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 20 menciona que las unidades de igualdad en las universidades tienen el objetivo de impulsar y evaluar la perspectiva de género."
+    },
+    {
+        "enunciado": "¿Qué deben garantizar los Plan de Igualdades de igualdad en la Administración pública según la Ley 12/2007?",
+        "opciones": [
+            "La igualdad de trato y oportunidades en el empleo público.",
+            "Un aumento del número de mujeres en cargos directivos.",
+            "La priorización de medidas de conciliación laboral.",
+            "Un informe bianual sobre desigualdades salariales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 32 indica que los Plan de Igualdades de igualdad deben garantizar la igualdad de trato y oportunidades en el empleo público."
+    },
+    {
+        "enunciado": "¿Qué medidas específicas promueve la Ley 12/2007 para las mujeres en el medio rural?",
+        "opciones": [
+            "Apoyo a proyectos empresariales liderados por mujeres.",
+            "Exención fiscal en actividades agrícolas.",
+            "Acceso prioritario a programas de formación general.",
+            "Subvenciones automáticas para todas las mujeres."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 establece que el Plan de Igualdad Estratégico debe incluir apoyo a las mujeres rurales para su plena participación en la economía y sociedad."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 respecto al lenguaje utilizado en documentos oficiales?",
+        "opciones": [
+            "Debe ser inclusivo y no sexista.",
+            "Solo se recomienda evitar expresiones discriminatorias.",
+            "Debe adaptarse al contexto cultural de la región.",
+            "No regula específicamente este aspecto."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 9 obliga a las administraciones públicas a garantizar el uso de un lenguaje inclusivo y no sexista en todos sus documentos."
+    },
+    {
+        "enunciado": "¿Qué directriz incluye la Ley 12/2007 sobre la conciliación en empresas privadas?",
+        "opciones": [
+            "Es opcional para empresas con menos de 50 empleados.",
+            "Debe fomentarse mediante la creación de servicios específicos.",
+            "Solo aplica a sectores laborales altamente feminizados.",
+            "Requiere aprobación previa del Instituto Andaluz de la Mujer."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 38 establece que las empresas privadas deben fomentar la conciliación a través de servicios y medidas que faciliten esta práctica."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la evaluación de impacto de género según la Ley 12/2007?",
+        "opciones": [
+            "Promover la formación en igualdad en el ámbito educativo.",
+            "Identificar y reducir desigualdades de género en políticas públicas.",
+            "Garantizar una cuota mínima de mujeres en órganos de gobierno.",
+            "Fomentar la participación equilibrada en actividades deportivas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 6 establece que la evaluación de impacto de género busca reducir desigualdades en las políticas públicas y garantizar la igualdad."
+    },
+    {
+        "enunciado": "¿Qué deben garantizar las administraciones públicas andaluzas según la Ley 12/2007 en materia de salud laboral?",
+        "opciones": [
+            "La protección específica para trabajadoras embarazadas.",
+            "Un acceso prioritario para mujeres en sectores peligrosos.",
+            "Un seguro obligatorio para mujeres mayores de 40 años.",
+            "La formación continua en primeros auxilios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 29 menciona que las administraciones públicas deben adoptar medidas específicas de protección para trabajadoras embarazadas."
+    },
+    {
+        "enunciado": "¿Qué obligación tienen las empresas que reciben ayudas públicas según la Ley 12/2007?",
+        "opciones": [
+            "Contratar un mínimo de 30% de mujeres.",
+            "Disponer de protocolos de igualdad y contra el acoso.",
+            "Presentar un Plan de Igualdad anual de conciliación laboral.",
+            "Demostrar experiencia en actividades de responsabilidad social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 13 establece que las empresas que reciben ayudas públicas deben contar con protocolos de igualdad y contra el acoso."
+    },
+    {
+        "enunciado": "¿Qué principio general promueve la Ley 12/2007 para garantizar la igualdad en el empleo?",
+        "opciones": [
+            "Fomentar la corresponsabilidad en el reparto de tareas familiares.",
+            "Priorizar la contratación de mujeres en todos los sectores.",
+            "Establecer cuotas obligatorias para mujeres en puestos directivos.",
+            "Promover la igualdad salarial en trabajos de igual valor."
+        ],
+        "correcta": 3,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 4 incluye como principio general la promoción de la igualdad salarial entre mujeres y hombres en trabajos de igual valor."
+    },
+    {
+        "enunciado": "¿Qué función cumple el Observatorio Andaluz de la Igualdad de Género según la Ley 12/2007?",
+        "opciones": [
+            "Supervisar la formación en igualdad en centros educativos.",
+            "Coordinar las políticas de igualdad a nivel estatal.",
+            "Analizar e investigar la situación de desigualdad de género en Andalucía.",
+            "Emitir sanciones en casos de discriminación laboral."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 61 establece que el Observatorio Andaluz de la Igualdad de Género tiene como objetivo analizar e investigar desigualdades de género en la región."
+    },
+    {
+        "enunciado": "¿Qué medida específica menciona la Ley 12/2007 para fomentar la participación de mujeres en la ciencia?",
+        "opciones": [
+            "Otorgar becas exclusivas a investigadoras.",
+            "Garantizar la paridad en todas las comisiones científicas.",
+            "Eliminar sesgos de género en procedimientos de selección y evaluación.",
+            "Aumentar el presupuesto destinado a proyectos liderados por mujeres."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 21 bis establece la necesidad de eliminar sesgos de género en los procedimientos de selección y evaluación de personal investigador."
+    },
+    {
+        "enunciado": "¿Qué recoge la Ley 12/2007 sobre la negociación colectiva en el ámbito laboral?",
+        "opciones": [
+            "Debe incluir cláusulas para promover la igualdad de oportunidades.",
+            "Es opcional incluir criterios de igualdad en los convenios.",
+            "Debe priorizar los derechos de las trabajadoras embarazadas.",
+            "Establece sanciones por incumplimiento de las cláusulas de igualdad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 28 fomenta que la negociación colectiva incluya cláusulas específicas para garantizar la igualdad de oportunidades."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la representación de mujeres en órganos colegiados deportivos?",
+        "opciones": [
+            "No se aplica a federaciones deportivas.",
+            "Es opcional según las normativas internas.",
+            "Debe garantizarse una representación equilibrada.",
+            "Requiere que el 50% de los cargos sean ocupados por mujeres."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 11 bis exige que las federaciones deportivas garanticen una representación equilibrada de mujeres y hombres en sus órganos colegiados."
+    },
+    {
+        "enunciado": "¿Qué deben garantizar las universidades andaluzas según la Ley 12/2007 para prevenir el acoso?",
+        "opciones": [
+            "La existencia de unidades de igualdad con protocolos claros.",
+            "Programas de formación para estudiantes y docentes.",
+            "Asesoramiento externo en casos de discriminación.",
+            "Cursos obligatorios sobre violencia de género en todas las carreras."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 20 establece que las universidades deben contar con unidades de igualdad que prevengan y gestionen casos de acoso."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 12/2007 sobre la publicidad sexista?",
+        "opciones": [
+            "Debe sancionarse siempre que sea detectada.",
+            "Es responsabilidad exclusiva de los medios de comunicación.",
+            "Las administraciones públicas deben garantizar su eliminación.",
+            "No se regula de forma explícita en esta ley."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 66 menciona que las administraciones públicas deben velar por la eliminación de publicidad ilícita o sexista en su ámbito de actuación."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la formación del personal público según la Ley 12/2007?",
+        "opciones": [
+            "Fomentar la conciliación laboral y personal.",
+            "Garantizar conocimientos en igualdad y enfoque feminista.",
+            "Desarrollar habilidades en negociación colectiva.",
+            "Aumentar la representación de mujeres en cargos de dirección."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 9 bis establece que el personal público debe recibir formación en igualdad con un enfoque feminista y transformador."
+    },
+    {
+        "enunciado": "¿Qué instrumento incluye la Ley 12/2007 para promover la igualdad en el empleo público?",
+        "opciones": [
+            "Informes anuales de género en cada consejería.",
+            "Criterios de desempate en oposiciones según la representación de género.",
+            "Plan de Igualdades quinquenales de conciliación obligatorios.",
+            "Cursos optativos sobre igualdad de género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 31 menciona que en caso de empate en oposiciones, se dará prioridad al género menos representado en el cuerpo correspondiente."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 12/2007 respecto a las ayudas para mujeres emprendedoras?",
+        "opciones": [
+            "Son exclusivas para sectores tecnológicos.",
+            "Incluyen apoyo financiero y medidas de formación.",
+            "Requieren una antigüedad mínima de dos años en la actividad.",
+            "Están limitadas a áreas rurales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 25 promueve ayudas específicas para mujeres emprendedoras que incluyen formación, asesoramiento y apoyo financiero."
+    },
+    {
+        "enunciado": "¿Qué obligación establece la Ley 12/2007 para las entidades locales en materia de igualdad?",
+        "opciones": [
+            "Elaborar sus propios Plan de Igualdades de igualdad en el marco del Plan de Igualdad Estratégico de Andalucía.",
+            "Crear unidades específicas para mujeres víctimas de violencia de género.",
+            "Garantizar la paridad en todos sus órganos administrativos.",
+            "Realizar evaluaciones anuales sobre igualdad salarial."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 señala que las entidades locales deben aprobar Plan de Igualdades de igualdad en coherencia con el Plan de Igualdad Estratégico de la Junta de Andalucía."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué deben garantizar las empresas para optar a la contratación pública?",
+        "opciones": [
+            "Haber implementado medidas concretas de igualdad.",
+            "Tener más del 50% de su Plan de Igualdadtilla compuesta por mujeres.",
+            "Proporcionar formación obligatoria en igualdad a todos los empleados.",
+            "Demostrar experiencia previa en gestión de proyectos inclusivos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 12 indica que las empresas deben haber desarrollado medidas concretas de igualdad para acceder a la contratación pública."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre los permisos de paternidad en la Función Pública andaluza?",
+        "opciones": [
+            "Son opcionales y deben ser negociados con cada empleado.",
+            "Están regulados únicamente para cargos directivos.",
+            "Se garantiza su existencia para fomentar la corresponsabilidad.",
+            "Dependen de las disposiciones generales del Estado."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 40 promueve los permisos de paternidad como parte de las medidas de corresponsabilidad en la Función Pública."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 12/2007 sobre la participación de las mujeres en los medios de comunicación?",
+        "opciones": [
+            "Debe garantizarse una presencia equilibrada en programas informativos.",
+            "Se deben evitar los estereotipos sexistas en contenidos y campañas públicas.",
+            "Es obligatorio un porcentaje mínimo de representación femenina.",
+            "No regula este aspecto en relación con los medios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 57 establece la importancia de evitar estereotipos sexistas en los contenidos de los medios de comunicación."
+    },
+    {
+        "enunciado": "¿Qué criterio incluye la Ley 12/2007 para evaluar las políticas públicas en igualdad?",
+        "opciones": [
+            "Número de mujeres en puestos de decisión.",
+            "Resultados de las evaluaciones de impacto de género.",
+            "Incremento anual del presupuesto para igualdad.",
+            "Cantidad de subvenciones otorgadas a mujeres emprendedoras."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 6 menciona que las políticas públicas deben ser evaluadas a través de análisis de impacto de género para medir su efectividad."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la formación de las asociaciones de madres y padres en centros educativos?",
+        "opciones": [
+            "Debe incluirse formación en igualdad de género.",
+            "Es opcional y dependerá del Plan de Igualdad de cada centro.",
+            "Se limitará a sesiones sobre coeducación.",
+            "Solo aplica en centros públicos de Andalucía."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 establece que las asociaciones de madres y padres deben recibir programas de formación en igualdad de género para fomentar esta práctica en la comunidad educativa."
+    },
+    {
+        "enunciado": "¿Qué aspecto relacionado con la salud recoge la Ley 12/2007 como fundamental para la igualdad?",
+        "opciones": [
+            "Garantizar acceso gratuito a tratamientos médicos para mujeres.",
+            "Promover investigaciones biomédicas con perspectiva de género.",
+            "Aumentar el número de hospitales especializados en atención femenina.",
+            "Crear campañas de sensibilización para hombres sobre salud femenina."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 42 establece la importancia de promover investigaciones biomédicas que incorporen la perspectiva de género."
+    },
+    {
+        "enunciado": "¿Qué deben incluir los proyectos de investigación promovidos por la Junta según la Ley 12/2007?",
+        "opciones": [
+            "Un análisis de impacto económico.",
+            "Perspectiva de género en su diseño y ejecución.",
+            "Al menos un investigador principal mujer.",
+            "Referencias a estudios previos sobre desigualdad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 21 menciona que los proyectos de investigación deben integrar la perspectiva de género para garantizar su equidad."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la igualdad salarial?",
+        "opciones": [
+            "Debe analizarse y promoverse en estudios anuales.",
+            "Se garantiza exclusivamente en el sector público.",
+            "Es responsabilidad de los sindicatos vigilar su cumplimiento.",
+            "No se regula explícitamente en esta ley."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 26 bis establece que se deben realizar estudios anuales para analizar y promover la igualdad salarial entre hombres y mujeres."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué debe incluirse en los Plan de Igualdades estratégicos de igualdad?",
+        "opciones": [
+            "Estrategias para eliminar la violencia de género.",
+            "Medidas para garantizar la representación paritaria en todos los sectores.",
+            "Líneas de intervención para apoyar a mujeres rurales.",
+            "Acciones exclusivas para fomentar la contratación femenina."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 menciona que los Plan de Igualdades estratégicos deben incluir estrategias específicas de apoyo a las mujeres rurales para su plena integración."
+    },
+    {
+        "enunciado": "¿Qué enfoque deben tener los presupuestos públicos según la Ley 12/2007?",
+        "opciones": [
+            "Eficiencia económica y social.",
+            "Inclusión de un enfoque de género.",
+            "Reducción de desigualdades salariales exclusivamente.",
+            "Asignación equitativa entre provincias andaluzas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 8 establece que los presupuestos de la Comunidad Autónoma de Andalucía deben incorporar un enfoque de género como herramienta activa de igualdad."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿qué requisito es esencial en los Plan de Igualdades de igualdad de los centros educativos?",
+        "opciones": [
+            "Fomentar la representación equilibrada en el profesorado.",
+            "Incluir medidas para la prevención de violencia de género.",
+            "Proveer material educativo gratuito.",
+            "Crear comités exclusivos para mujeres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 indica que los Plan de Igualdades de igualdad en centros educativos deben incluir acciones específicas para prevenir la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué principio rige la acción de los poderes públicos según la Ley 12/2007?",
+        "opciones": [
+            "Neutralidad ante desigualdades de género.",
+            "Adopción de medidas específicas para eliminar discriminación.",
+            "Apoyo a iniciativas privadas exclusivamente.",
+            "Provisión de recursos igualitarios sin intervención directa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 4 menciona como principio general la adopción de medidas específicas para eliminar cualquier forma de discriminación por razón de género."
+    },
+    {
+        "enunciado": "¿Qué obligación tienen las empresas andaluzas que desean recibir subvenciones públicas según la Ley 12/2007?",
+        "opciones": [
+            "Contar con un Plan de Igualdad registrado.",
+            "Tener una representación equilibrada en cargos directivos.",
+            "Proveer formación en igualdad a toda su Plan de Igualdadtilla.",
+            "Demostrar experiencia previa en igualdad salarial."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 27 exige que las empresas cuenten con un Plan de Igualdad registrado como requisito para recibir subvenciones públicas."
+    },
+    {
+        "enunciado": "¿Qué promueve la Ley 12/2007 en relación con la coeducación en centros docentes?",
+        "opciones": [
+            "Separar a alumnos y alumnas en áreas específicas.",
+            "Eliminar estereotipos de género en todas las actividades educativas.",
+            "Establecer cuotas de género para el ingreso a programas académicos.",
+            "Fomentar únicamente programas para niñas en áreas STEM."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 15 promueve la coeducación en los centros, eliminando estereotipos y fomentando relaciones igualitarias entre mujeres y hombres."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la creación de servicios para la conciliación?",
+        "opciones": [
+            "Son exclusivos para trabajadoras con hijos menores.",
+            "Deben estar disponibles tanto en el sector público como privado.",
+            "Se priorizan en áreas rurales únicamente.",
+            "No son obligatorios para las empresas pequeñas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 37 establece que las administraciones deben promover la creación de servicios para facilitar la conciliación en todos los sectores."
+    },
+    {
+        "enunciado": "¿Qué colectivo menciona expresamente la Ley 12/2007 como prioritario en políticas de inclusión social?",
+        "opciones": [
+            "Personas mayores de 65 años.",
+            "Mujeres migrantes y víctimas de trata.",
+            "Hombres en situación de desempleo prolongado.",
+            "Estudiantes de educación superior."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 47 señala que las mujeres migrantes y víctimas de trata son un colectivo prioritario en las políticas de inclusión social."
+    },
+    {
+        "enunciado": "¿Qué ámbito de actuación regula la Ley 12/2007 para garantizar la igualdad en las políticas de salud?",
+        "opciones": [
+            "La creación de centros exclusivos para mujeres.",
+            "La inclusión de la perspectiva de género en las investigaciones biomédicas.",
+            "El acceso gratuito a tratamientos ginecológicos.",
+            "La formación en género para profesionales de la salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 42 establece la importancia de incorporar la perspectiva de género en las investigaciones biomédicas y políticas de salud."
+    },
+    {
+        "enunciado": "¿Qué debe garantizar la inspección educativa según la Ley 12/2007?",
+        "opciones": [
+            "La aplicación de los Plan de Igualdades de igualdad en los centros educativos.",
+            "La capacitación en género de los docentes.",
+            "La creación de materiales coeducativos obligatorios.",
+            "La igualdad en la representación de padres y madres en los consejos escolares."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 19 establece que la inspección educativa debe supervisar y garantizar el cumplimiento de los Plan de Igualdades de igualdad en los centros."
+    },
+    {
+        "enunciado": "¿Qué acción fomenta la Ley 12/2007 para reducir la brecha salarial?",
+        "opciones": [
+            "Incrementar los salarios de sectores feminizados.",
+            "Otorgar incentivos fiscales a empresas con igualdad salarial.",
+            "Realizar estudios anuales sobre desigualdades salariales.",
+            "Promover la sindicalización obligatoria de trabajadoras."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 26 bis menciona que se deben realizar estudios anuales para analizar y reducir la brecha salarial entre mujeres y hombres."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 12/2007 como discriminación por razón de sexo?",
+        "opciones": [
+            "Trato desfavorable por motivos de maternidad.",
+            "Desigualdad salarial en sectores industriales.",
+            "Cualquier forma de acoso laboral.",
+            "Actos que vulneren la igualdad de trato por ser mujer."
+        ],
+        "correcta": 3,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 considera discriminación por razón de sexo cualquier acto que vulnere la igualdad de trato debido a la condición de mujer."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre la transversalidad de género en políticas públicas?",
+        "opciones": [
+            "Solo es obligatoria en áreas de educación.",
+            "Debe integrarse en todas las acciones públicas.",
+            "Depende de los recursos asignados por cada entidad.",
+            "Es opcional según las necesidades específicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 5 establece que la transversalidad de género debe aplicarse en todas las políticas públicas para eliminar desigualdades."
+    },
+    {
+        "enunciado": "¿Qué obligación tienen las empresas respecto al acoso según la Ley 12/2007?",
+        "opciones": [
+            "Adoptar protocolos de prevención del acoso sexual y por razón de sexo.",
+            "Incluir cláusulas en contratos laborales sobre igualdad.",
+            "Publicar anualmente estadísticas de acoso en el trabajo.",
+            "Ofrecer talleres voluntarios sobre sensibilización en género."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 30 establece que las empresas deben implementar protocolos para prevenir el acoso sexual y por razón de sexo."
+    },
+    {
+        "enunciado": "Según la Ley 12/2007, ¿cómo se define el lenguaje sexista?",
+        "opciones": [
+            "Lenguaje que excluye referencias explícitas al género femenino.",
+            "Uso discriminatorio del lenguaje por razón de sexo.",
+            "Expresiones coloquiales que refuercen roles de género.",
+            "Términos neutros que invisibilizan a las mujeres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 define el lenguaje sexista como cualquier uso discriminatorio del lenguaje por razón de sexo."
+    },
+    {
+        "enunciado": "¿Qué acción concreta fomenta la Ley 12/2007 en el ámbito rural?",
+        "opciones": [
+            "Acceso prioritario a programas de vivienda.",
+            "Formación específica para mujeres rurales.",
+            "Subvenciones exclusivas para madres solteras.",
+            "Creación de espacios comunitarios con perspectiva de género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 7 menciona la formación como una estrategia fundamental para apoyar a las mujeres en el ámbito rural."
+    },
+    {
+        "enunciado": "¿Qué indica la Ley 12/2007 sobre la representación en los consejos escolares?",
+        "opciones": [
+            "Deben garantizar un equilibrio entre ambos sexos.",
+            "No aplica a centros privados concertados.",
+            "Es opcional y depende del número de participantes.",
+            "Debe incluir un 50% de representación femenina."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 18 establece que los consejos escolares deben respetar el equilibrio entre hombres y mujeres en su composición."
+    },
+    {
+        "enunciado": "¿Qué considera la Ley 12/2007 como acoso sexual?",
+        "opciones": [
+            "Cualquier interacción incómoda en el trabajo.",
+            "Comportamientos verbales o físicos de índole sexual no deseados.",
+            "Conflictos laborales relacionados con la desigualdad salarial.",
+            "Situaciones de discriminación indirecta por género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 3 define el acoso sexual como comportamientos verbales o físicos no deseados que atentan contra la dignidad de una persona."
+    },
+    {
+        "enunciado": "¿Qué tipo de políticas incluye la Ley 12/2007 en el ámbito educativo universitario?",
+        "opciones": [
+            "Programas exclusivos para mujeres en carreras técnicas.",
+            "Incorporación obligatoria de asignaturas sobre igualdad de género.",
+            "Creación de becas para investigadoras en áreas STEM.",
+            "Paridad obligatoria en la composición de claustros docentes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 20 establece que las universidades deben incluir enseñanzas obligatorias sobre igualdad de género en sus Plan de Igualdades de estudio."
+    },
+    {
+        "enunciado": "¿Qué criterio se debe priorizar en las políticas de empleo según la Ley 12/2007?",
+        "opciones": [
+            "Acceso igualitario a formación profesional.",
+            "Reducción de la jornada laboral para mujeres.",
+            "Creación de empleos específicos para víctimas de violencia.",
+            "Favorecer el autoempleo para mujeres migrantes."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 23 prioriza el acceso igualitario a la formación profesional como una política clave para fomentar la igualdad en el empleo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 12/2007 sobre los indicadores de género en las estadísticas?",
+        "opciones": [
+            "Son opcionales según el área de estudio.",
+            "Deben incorporarse en todas las estadísticas públicas.",
+            "Solo se aplican en estudios de impacto económico.",
+            "Son relevantes únicamente para áreas rurales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "igualdad"],
+        "feedback": "El artículo 10 exige que las estadísticas públicas incluyan indicadores de género para un análisis más completo de la realidad."
+    },
+    {
+        "enunciado": "¿Cuál es el objeto de la Ley 13/2007 contra la violencia de género?",
+        "opciones": [
+            "Establecer medidas de protección únicamente para mujeres en situación de violencia de género.",
+            "Erradicar la violencia de género mediante prevención, protección integral y sensibilización.",
+            "Crear una red de albergues temporales para víctimas de violencia doméstica.",
+            "Promover la igualdad de género exclusivamente en el ámbito laboral."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El objeto de la Ley es la erradicación de la violencia de género mediante medidas de prevención, protección integral y sensibilización."
+    },
+    {
+        "enunciado": "Según la Ley 13/2007, ¿qué incluye la violencia de género?",
+        "opciones": [
+            "Solo violencia física hacia las mujeres.",
+            "Violencia física, psicológica, sexual, económica y otras manifestaciones.",
+            "Actos de discriminación laboral hacia mujeres.",
+            "Cualquier conflicto familiar o doméstico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incluye como violencia de género actos físicos, psicológicos, sexuales, económicos y otras manifestaciones específicas como el feminicidio o el acoso."
+    },
+    {
+        "enunciado": "¿Qué principio rector establece la Ley 13/2007 en relación con los poderes públicos?",
+        "opciones": [
+            "Adoptar medidas aisladas contra la violencia de género.",
+            "Coordinar acciones institucionales de manera multidisciplinar.",
+            "Promover únicamente campañas de sensibilización social.",
+            "Fomentar únicamente la igualdad en el ámbito educativo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece que los poderes públicos deben coordinar acciones institucionales de manera multidisciplinar para combatir la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué órgano de análisis y evaluación de políticas contra la violencia de género menciona la Ley?",
+        "opciones": [
+            "Instituto Andaluz de la Mujer.",
+            "Observatorio Andaluz de la Violencia de Género.",
+            "Consejo de Igualdad de Género.",
+            "Tribunal de Género de Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Observatorio Andaluz de la Violencia de Género es el órgano encargado de analizar y evaluar las políticas contra la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué ámbito de aplicación territorial tiene la Ley 13/2007?",
+        "opciones": [
+            "Toda España.",
+            "Solo las capitales de provincia en Andalucía.",
+            "La Comunidad Autónoma de Andalucía.",
+            "Ámbito internacional, bajo acuerdos específicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley 13/2007 se aplica en todo el territorio de la Comunidad Autónoma de Andalucía."
+    },
+    {
+        "enunciado": "¿Qué derecho garantiza la Ley 13/2007 para las víctimas en términos educativos?",
+        "opciones": [
+            "La gratuidad en la educación secundaria.",
+            "El derecho a la escolarización inmediata para hijos e hijas en caso de cambio de residencia.",
+            "El acceso preferente a universidades públicas.",
+            "La creación de escuelas especiales para hijos de víctimas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza la escolarización inmediata de hijos e hijas de víctimas de violencia de género en caso de cambio de residencia."
+    },
+    {
+        "enunciado": "¿Qué tipo de programas dirigidos a hombres promueve la Ley?",
+        "opciones": [
+            "De inclusión laboral para evitar la dependencia económica.",
+            "De reeducación social para prevenir la violencia de género.",
+            "De apoyo psicológico a largo plazo.",
+            "De sensibilización sobre las consecuencias legales de la violencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley promueve programas de reeducación social para prevenir la violencia de género, incluyendo tratamientos y mecanismos de readaptación."
+    },
+    {
+        "enunciado": "Según la Ley, ¿qué incluye la violencia vicaria?",
+        "opciones": [
+            "El acoso en redes sociales a mujeres.",
+            "La violencia ejercida sobre hijos e hijas para dañar a la mujer.",
+            "La explotación laboral de mujeres por su género.",
+            "El uso de medios de comunicación para denigrar a las mujeres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia vicaria incluye conductas ejercidas sobre hijos e hijas o personas dependientes con el objetivo de dañar a la mujer."
+    },
+    {
+        "enunciado": "¿Cómo define la Ley 13/2007 la violencia económica?",
+        "opciones": [
+            "Cualquier gasto no autorizado en el ámbito familiar.",
+            "La privación intencionada de recursos para el bienestar físico o psicológico de la víctima.",
+            "El uso indebido de bienes compartidos en una relación.",
+            "Negarse a aportar ingresos al hogar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia económica incluye la privación intencionada de recursos necesarios para el bienestar físico o psicológico de la víctima."
+    },
+    {
+        "enunciado": "¿Qué medidas establece la Ley en relación con la publicidad sexista?",
+        "opciones": [
+            "Solo se prohíbe en medios públicos.",
+            "Se prohíben contenidos sexistas o que justifiquen la violencia de género en medios bajo competencia autonómica.",
+            "Se permite en horarios nocturnos limitados.",
+            "Debe incluir advertencias en campañas educativas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley prohíbe contenidos sexistas o que justifiquen la violencia de género en medios de comunicación bajo competencia de la Junta de Andalucía."
+    },
+    {
+        "enunciado": "¿Qué principios rigen la actuación de los poderes públicos según la Ley 13/2007 contra la violencia de género?",
+        "opciones": [
+            "Acción puntual y reactiva frente a casos de violencia.",
+            "Confidencialidad, accesibilidad y acompañamiento de las víctimas.",
+            "Priorizar medidas económicas sobre las sociales.",
+            "Focalizarse exclusivamente en campañas mediáticas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece principios como la confidencialidad, accesibilidad y acompañamiento en todas las acciones dirigidas a erradicar la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué medidas específicas en salud contempla la Ley 13/2007?",
+        "opciones": [
+            "Tratamientos médicos básicos.",
+            "Programas específicos de prevención y detección precoz de la violencia de género.",
+            "Creación de hospitales exclusivos para mujeres víctimas.",
+            "Acceso gratuito a medicamentos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incluye medidas específicas de prevención y detección precoz en los servicios de salud para atender casos de violencia de género."
+    },
+    {
+        "enunciado": "Según la Ley, ¿qué derechos tienen las víctimas en el ámbito jurídico?",
+        "opciones": [
+            "Asistencia letrada especializada durante procesos legales relacionados con violencia de género.",
+            "Acceso preferente a servicios de asesoría general.",
+            "Exención de todas las obligaciones legales.",
+            "Acceso a defensor público solo si presentan una denuncia formal."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza asistencia letrada especializada desde el inicio de los procesos relacionados con violencia de género."
+    },
+    {
+        "enunciado": "¿Qué se entiende por violencia sexual según la Ley 13/2007?",
+        "opciones": [
+            "Cualquier acto consentido entre adultos.",
+            "Actos de naturaleza sexual no consentidos, incluyendo el abuso y la intimidación.",
+            "Relaciones íntimas fuera del matrimonio.",
+            "Imposición de decisiones sobre la vida reproductiva."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia sexual incluye actos no consentidos mediante fuerza, intimidación o abuso, según lo definido por la Ley."
+    },
+    {
+        "enunciado": "¿Qué población considera la Ley como especialmente vulnerable a la violencia de género?",
+        "opciones": [
+            "Solo mujeres jóvenes en áreas urbanas.",
+            "Mujeres inmigrantes, con discapacidad o en zonas rurales.",
+            "Cualquier persona menor de edad.",
+            "Hombres en situaciones de dependencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley identifica como especialmente vulnerables a mujeres inmigrantes, con discapacidad y aquellas que viven en zonas rurales."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene el Plan de Igualdad Integral de Sensibilización según la Ley?",
+        "opciones": [
+            "Promover la igualdad en centros laborales únicamente.",
+            "Fomentar actitudes de respeto y detección temprana de la violencia de género.",
+            "Limitar el acceso de menores a redes sociales.",
+            "Eliminar únicamente la violencia física contra mujeres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Plan de Igualdad Integral busca promover actitudes de respeto y proporcionar herramientas para la detección temprana de la violencia de género."
+    },
+    {
+        "enunciado": "¿Cómo define la Ley la violencia en la pareja?",
+        "opciones": [
+            "Conflictos ocasionales dentro de la convivencia.",
+            "Actos de agresión física exclusivamente.",
+            "Violencia ejercida por un hombre contra su pareja o expareja mujer por el hecho de serlo.",
+            "Desacuerdos económicos entre miembros de una pareja."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia en la pareja incluye agresiones del hombre contra su pareja o expareja mujer, por razones de discriminación de género."
+    },
+    {
+        "enunciado": "¿Qué papel tienen los medios de comunicación según la Ley 13/2007?",
+        "opciones": [
+            "Emitir campañas de sensibilización únicamente en fechas conmemorativas.",
+            "Garantizar que no se difundan contenidos que justifiquen o banalicen la violencia de género.",
+            "Fomentar la libertad de expresión sin restricciones temáticas.",
+            "Promover estereotipos culturales tradicionales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley exige a los medios garantizar la eliminación de contenidos que justifiquen o trivialicen la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué medidas de protección se aplican a menores en entornos de violencia de género?",
+        "opciones": [
+            "Acceso limitado a recursos educativos.",
+            "Atención psicológica especializada y confidencialidad en su escolarización.",
+            "Separación inmediata del entorno familiar.",
+            "Atención sanitaria básica exclusivamente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza atención psicológica y protección de la identidad en casos de menores expuestos a entornos de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la formación de profesionales en violencia de género?",
+        "opciones": [
+            "Es opcional para quienes trabajen en atención directa.",
+            "Debe ser obligatoria, especializada y con perspectiva de género.",
+            "Se limita a profesionales del ámbito jurídico.",
+            "Solo se aplica a nuevos empleados públicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La formación de profesionales en violencia de género es obligatoria y debe incluir una perspectiva especializada según la Ley."
+    },
+    {
+        "enunciado": "¿Qué contempla la Ley 13/2007 en cuanto a la violencia vicaria?",
+        "opciones": [
+            "La violencia ejercida por instituciones públicas.",
+            "La violencia que afecta a las mujeres en el ámbito laboral.",
+            "La violencia ejercida sobre personas dependientes de la mujer para causarle daño.",
+            "La violencia económica ejercida mediante la limitación de recursos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia vicaria incluye acciones destinadas a causar daño a la mujer mediante el maltrato a personas dependientes de ella, como hijos e hijas."
+    },
+    {
+        "enunciado": "Según la Ley 13/2007, ¿qué derecho garantiza a las víctimas en términos de información?",
+        "opciones": [
+            "Acceso gratuito a internet.",
+            "Información accesible sobre recursos, derechos y servicios disponibles.",
+            "Cursos de formación en tecnología.",
+            "Asesoramiento financiero sin coste."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza que las víctimas reciban información adecuada sobre los recursos y servicios disponibles para su protección y atención."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la coeducación según la Ley 13/2007?",
+        "opciones": [
+            "Imponer roles de género tradicionales.",
+            "Eliminar estereotipos sexistas en la educación.",
+            "Fomentar la competitividad entre hombres y mujeres.",
+            "Reducir las horas de formación obligatoria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La coeducación busca eliminar estereotipos sexistas y promover la igualdad entre mujeres y hombres en el ámbito educativo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre las medidas en el ámbito laboral para víctimas de violencia de género?",
+        "opciones": [
+            "Derechos laborales sin adaptaciones específicas.",
+            "Programas de inserción laboral y fomento del empleo autónomo.",
+            "Limitación de permisos laborales.",
+            "Acceso restringido a trabajos de media jornada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley fomenta programas de inserción laboral y trabajo autónomo para apoyar la recuperación económica de las víctimas."
+    },
+    {
+        "enunciado": "¿Qué ámbito cubren las campañas de sensibilización establecidas por la Ley?",
+        "opciones": [
+            "Solo a nivel educativo.",
+            "Toda la población, con especial atención a jóvenes y colectivos vulnerables.",
+            "Únicamente medios de comunicación locales.",
+            "Solo a víctimas de violencia de género."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "Las campañas de sensibilización están dirigidas a toda la población, poniendo énfasis en los jóvenes y colectivos más vulnerables."
+    },
+    {
+        "enunciado": "¿Cómo se define la violencia psicológica en la Ley 13/2007?",
+        "opciones": [
+            "Cualquier discusión en el ámbito familiar.",
+            "Conductas que causan sufrimiento mediante amenazas, humillaciones o coerción.",
+            "El mal uso de redes sociales para expresar opiniones.",
+            "El incumplimiento de obligaciones familiares."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia psicológica incluye amenazas, humillaciones, coerción y otras conductas que provocan sufrimiento emocional."
+    },
+    {
+        "enunciado": "¿Qué medidas propone la Ley para el tratamiento de agresores?",
+        "opciones": [
+            "Penas privativas de libertad exclusivamente.",
+            "Programas de reeducación y rehabilitación.",
+            "Eliminación del contacto con sus familias.",
+            "Sanciones económicas como única opción."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley promueve programas de reeducación y rehabilitación como parte de la prevención de la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué recurso se garantiza en la Ley para mujeres víctimas en situación de emergencia?",
+        "opciones": [
+            "Alojamiento en centros de atención integral especializados.",
+            "Acceso inmediato a ayuda financiera.",
+            "Acceso preferente a instituciones educativas.",
+            "Representación legal gratuita en cualquier proceso judicial."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "En situaciones de emergencia, las víctimas tienen derecho a alojamiento en centros especializados que garantizan su seguridad y atención integral."
+    },
+    {
+        "enunciado": "¿Qué función tiene el Observatorio Andaluz de la Violencia de Género?",
+        "opciones": [
+            "Fiscalizar las políticas de igualdad en empresas.",
+            "Asesorar y evaluar las políticas públicas contra la violencia de género.",
+            "Administrar los recursos económicos para las víctimas.",
+            "Proveer atención psicológica directamente a las mujeres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Observatorio Andaluz de la Violencia de Género evalúa y asesora en las políticas públicas destinadas a la erradicación de la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la protección de datos de las víctimas?",
+        "opciones": [
+            "Acceso público limitado a datos básicos.",
+            "Protección total de su identidad y datos personales.",
+            "Publicación de datos en casos de agresión pública.",
+            "Solo se protege la identidad de los hijos menores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza la protección total de los datos personales de las víctimas y sus familiares dependientes."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen las víctimas de violencia de género según el artículo 27 de la Ley 13/2007?",
+        "opciones": [
+            "Acceso limitado a servicios básicos.",
+            "Atención social integral, jurídica, sanitaria y psicológica especializada.",
+            "Solo derecho a la asistencia psicológica.",
+            "Derecho exclusivo a medidas económicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El artículo 27 garantiza a las víctimas una atención integral que abarca aspectos sociales, jurídicos, sanitarios y psicológicos especializados."
+    },
+    {
+        "enunciado": "¿Qué tipo de violencia se describe como el uso de tecnologías para causar daño a la mujer?",
+        "opciones": [
+            "Violencia psicológica.",
+            "Ciberviolencia de género.",
+            "Violencia económica.",
+            "Violencia institucional."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La ciberviolencia de género incluye el uso de redes sociales y tecnologías para acosar, amenazar o difamar a las mujeres."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 13/2007 en el ámbito de la educación?",
+        "opciones": [
+            "La eliminación de la coeducación.",
+            "La inclusión de valores de igualdad y prevención de la violencia de género en el currículo educativo.",
+            "El acceso preferente de mujeres víctimas a universidades.",
+            "Solo medidas disciplinarias contra agresores escolares."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incorpora valores de igualdad y prevención de la violencia de género en el currículo educativo para fomentar una educación inclusiva."
+    },
+    {
+        "enunciado": "¿Cómo define la Ley 13/2007 la violencia económica?",
+        "opciones": [
+            "Limitación del acceso a servicios sociales.",
+            "Privación intencionada de recursos para generar dependencia económica.",
+            "Negativa a compartir gastos del hogar.",
+            "Reducción del ingreso familiar por causas externas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia económica incluye privar intencionadamente de recursos a la víctima para generar una dependencia económica injustificada."
+    },
+    {
+        "enunciado": "¿Qué acciones contempla la Ley para prevenir la violencia de género en medios de comunicación?",
+        "opciones": [
+            "Prohibición de emitir contenidos que promuevan estereotipos sexistas o la violencia de género.",
+            "Creación de canales exclusivos para la promoción de la igualdad.",
+            "Regulación de horarios de programas sensacionalistas.",
+            "Subvención de campañas privadas contra la violencia de género."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley prohíbe que medios emitan contenidos que fomenten o justifiquen la violencia de género o estereotipos sexistas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la formación de profesionales en salud respecto a la violencia de género?",
+        "opciones": [
+            "Es opcional para médicos generales.",
+            "Debe incluirse en Plan de Igualdades de formación para detectar y atender casos de violencia de género.",
+            "Está limitada a psicólogos y trabajadores sociales.",
+            "Se aplica únicamente en centros especializados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incluye la formación del personal sanitario para la detección y atención adecuada a víctimas de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre el acceso a viviendas protegidas para víctimas de violencia de género?",
+        "opciones": [
+            "Deben esperar el turno regular de adjudicación.",
+            "Se prioriza su acceso en caso de necesidad urgente.",
+            "No tienen derecho a acceso preferente.",
+            "Solo se aplica en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza prioridad de acceso a viviendas protegidas para víctimas de violencia de género en situaciones de necesidad urgente."
+    },
+    {
+        "enunciado": "¿Qué papel tienen los Plan de Igualdades integrales personales según la Ley?",
+        "opciones": [
+            "Gestionar solo la asistencia psicológica de las víctimas.",
+            "Integrar todas las medidas de protección social necesarias en un expediente único.",
+            "Proveer solo asistencia legal.",
+            "Atender exclusivamente a menores en situaciones de violencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "Los Plan de Igualdades integrales personales combinan medidas de protección social adaptadas a las necesidades individuales de cada víctima."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 13/2007 respecto al seguimiento educativo en temas de igualdad?",
+        "opciones": [
+            "Es responsabilidad exclusiva de las familias.",
+            "Los Consejos Escolares deben designar responsables de igualdad.",
+            "No incluye medidas específicas para el seguimiento.",
+            "Solo aplica en escuelas públicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece que los Consejos Escolares designen responsables para el seguimiento de medidas de igualdad y prevención de la violencia de género."
+    },
+    {
+        "enunciado": "¿Cómo aborda la Ley la atención jurídica para víctimas de violencia de género?",
+        "opciones": [
+            "Se garantiza desde la presentación formal de la denuncia.",
+            "Incluye orientación jurídica previa y acompañamiento durante todo el proceso.",
+            "Se limita a asesoramiento básico.",
+            "No cubre representación legal en juicios penales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza orientación jurídica y acompañamiento especializado desde el momento previo a la denuncia hasta la conclusión del proceso."
+    },
+    {
+        "enunciado": "¿Qué objetivo persigue el artículo 8 de la Ley 13/2007 al establecer un Plan de Igualdad Integral de Sensibilización?",
+        "opciones": [
+            "Fomentar actividades recreativas en las comunidades locales.",
+            "Modificar actitudes y estereotipos sexistas y prevenir la violencia de género.",
+            "Fortalecer únicamente los sistemas judiciales de atención a las víctimas.",
+            "Limitar la representación mediática de casos de violencia doméstica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Plan de Igualdad Integral de Sensibilización busca cambiar actitudes y estereotipos que perpetúan la violencia de género, promoviendo la prevención."
+    },
+    {
+        "enunciado": "Según la Ley, ¿qué medidas deben incluirse en los protocolos de actuación sanitaria para las víctimas?",
+        "opciones": [
+            "Atención psicológica generalizada para cualquier paciente.",
+            "Pautas uniformes de actuación para tratar daños físicos y psíquicos, incluyendo relaciones con la Justicia.",
+            "Prioridad en las listas de espera para procedimientos quirúrgicos.",
+            "Seguimiento exclusivo en los casos más graves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "Los protocolos sanitarios deben incluir pautas uniformes para la atención integral y establecer nexos claros con la Administración de Justicia."
+    },
+    {
+        "enunciado": "¿Cómo define la Ley 13/2007 el acoso por razón de sexo?",
+        "opciones": [
+            "Cualquier forma de discriminación en el trabajo.",
+            "Comportamientos relacionados con el género que atenten contra la dignidad de las mujeres.",
+            "Interacciones sociales no deseadas en cualquier ámbito.",
+            "Disputas familiares derivadas de conflictos personales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El acoso por razón de sexo incluye conductas vinculadas al género que vulneran la dignidad de las mujeres, creando entornos intimidatorios."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen las víctimas respecto a la privacidad según el artículo 28?",
+        "opciones": [
+            "Difusión limitada de sus datos personales para facilitar investigaciones.",
+            "Protección total de su intimidad y datos personales, incluyendo la de sus dependientes.",
+            "Acceso limitado a sus registros médicos.",
+            "Revisión opcional de la divulgación de información por parte de terceros."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El artículo 28 garantiza la protección absoluta de la intimidad y datos personales de las víctimas y sus familiares dependientes."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la violencia de género en conflictos armados?",
+        "opciones": [
+            "No incluye este ámbito en su definición.",
+            "Reconoce todas las formas de violencia de género como asesinatos, violaciones y embarazos forzados.",
+            "Solo aborda los crímenes relacionados con la trata de personas.",
+            "Se limita a la violencia contra mujeres civiles."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley considera la violencia de género en conflictos armados e incluye crímenes como asesinatos, violaciones y embarazos forzados."
+    },
+    {
+        "enunciado": "¿Qué enfoque establece la Ley para las actividades educativas contra la violencia de género?",
+        "opciones": [
+            "Fomentar competencias individuales en lugar de valores colectivos.",
+            "Integrar valores de coeducación y resolución pacífica de conflictos en los currículos.",
+            "Reforzar roles de género tradicionales para mejorar la convivencia.",
+            "Evitar la inclusión de temas conflictivos en los Plan de Igualdades educativos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley integra la coeducación y la resolución pacífica de conflictos como elementos fundamentales en la prevención de la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley respecto a las campañas de sensibilización en redes sociales?",
+        "opciones": [
+            "Solo se realizan en medios tradicionales.",
+            "Se deben adaptar a las exigencias de cada momento y público objetivo, como jóvenes.",
+            "Están restringidas a contenidos institucionales.",
+            "No consideran el impacto en redes sociales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "Las campañas de sensibilización incluyen adaptaciones para redes sociales, con especial énfasis en llegar a públicos como la juventud."
+    },
+    {
+        "enunciado": "¿Qué reconoce la Ley sobre el feminicidio?",
+        "opciones": [
+            "Es un delito independiente solo en Andalucía.",
+            "Es el asesinato de mujeres motivado por discriminación de género.",
+            "Es equivalente a cualquier homicidio en el ámbito familiar.",
+            "No está específicamente definido."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El feminicidio es reconocido como el asesinato de mujeres por motivos de género, incluyendo en contextos de pareja o trata."
+    },
+    {
+        "enunciado": "¿Qué derecho de escolarización garantiza la Ley a hijos de víctimas de violencia de género?",
+        "opciones": [
+            "Educación gratuita en centros privados.",
+            "Escolarización inmediata en caso de cambio de residencia por violencia de género.",
+            "Solo acceso a programas de apoyo psicológico.",
+            "Admisión preferente en universidades públicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza la escolarización inmediata para hijos e hijas de víctimas que deban cambiar de residencia por violencia de género."
+    },
+    {
+        "enunciado": "¿Qué medidas establece la Ley para proteger a mujeres en el medio rural?",
+        "opciones": [
+            "Limitaciones en el acceso a programas específicos.",
+            "Medidas de protección y atención adaptadas a su contexto particular.",
+            "Obligación de trasladarse a áreas urbanas para recibir ayuda.",
+            "Restricciones en la aplicación de recursos especializados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece medidas específicas de atención y protección adaptadas a las necesidades de mujeres en zonas rurales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 13/2007 sobre la atención integral a las víctimas en centros especializados?",
+        "opciones": [
+            "Se limita a atención psicológica básica.",
+            "Incluye atención sanitaria, jurídica, social y psicológica integral.",
+            "Solo proporciona servicios de acogida temporal.",
+            "Está destinada exclusivamente a menores dependientes de las víctimas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza atención integral en centros especializados que abarcan áreas sanitarias, jurídicas, sociales y psicológicas."
+    },
+    {
+        "enunciado": "Según la Ley, ¿qué acciones son prioritarias en el ámbito de la formación profesional para el empleo?",
+        "opciones": [
+            "Enseñar oficios tradicionales sin relación con la violencia de género.",
+            "Incluir formación específica en prevención y sensibilización sobre la violencia de género.",
+            "Limitar la capacitación a mujeres sin empleo previo.",
+            "Reducir los programas destinados a hombres en situación de vulnerabilidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La formación profesional para el empleo incluye contenidos específicos para prevenir y sensibilizar sobre la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué implica el término 'violencia vicaria' según la Ley 13/2007?",
+        "opciones": [
+            "Actos de violencia económica en el entorno laboral.",
+            "Violencia ejercida sobre hijos e hijas o personas dependientes como forma de dañar a la mujer.",
+            "Agresiones realizadas únicamente en el ámbito público.",
+            "Cualquier conflicto relacionado con la custodia de menores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia vicaria se refiere a las agresiones realizadas a personas cercanas a la mujer con el objetivo de causarle daño."
+    },
+    {
+        "enunciado": "¿Qué medidas establece la Ley para combatir la violencia de género en la publicidad?",
+        "opciones": [
+            "Restringir los horarios de emisión de contenidos polémicos.",
+            "Prohibir contenidos que justifiquen o trivialicen la violencia de género.",
+            "Solo se aplican a medios de comunicación públicos.",
+            "Incluir mensajes de advertencia en anuncios sexistas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley prohíbe contenidos que justifiquen, trivialicen o fomenten la violencia de género en la publicidad."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la formación específica en el ámbito judicial según la Ley?",
+        "opciones": [
+            "Proporcionar conocimientos básicos sobre igualdad de género.",
+            "Garantizar la especialización de jueces, fiscales y forenses en violencia de género.",
+            "Promover la mediación en casos de violencia de género.",
+            "Reducir el tiempo de los procesos judiciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La formación judicial busca garantizar que los operadores jurídicos tengan la especialización necesaria para abordar casos de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 13/2007 respecto a la formación de profesionales de los medios de comunicación?",
+        "opciones": [
+            "Formación opcional en igualdad de género.",
+            "Impulso de programas de formación en prevención y tratamiento de la violencia de género.",
+            "Capacitación limitada a campañas de publicidad estatal.",
+            "No se menciona formación específica en la Ley."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley promueve la formación específica de profesionales de los medios para prevenir y tratar adecuadamente la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué recurso ofrece la Ley a las víctimas para su recuperación económica?",
+        "opciones": [
+            "Acceso exclusivo a microcréditos.",
+            "Ayudas económicas específicas y programas de inserción laboral.",
+            "Exención fiscal completa.",
+            "Acceso prioritario a empleos públicos sin proceso de selección."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley prevé ayudas económicas específicas y programas de inserción laboral para facilitar la recuperación económica de las víctimas."
+    },
+    {
+        "enunciado": "¿Qué medidas establece la Ley respecto a la protección de menores expuestos a violencia de género?",
+        "opciones": [
+            "Separación inmediata de sus familias.",
+            "Atención psicológica especializada y programas de apoyo educativo.",
+            "Acceso exclusivo a recursos sanitarios.",
+            "Sin disposiciones específicas para menores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley contempla atención psicológica especializada y apoyo educativo para menores expuestos a entornos de violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la mutilación genital femenina?",
+        "opciones": [
+            "Es una práctica cultural aceptada en ciertos casos.",
+            "Se reconoce como una forma de violencia de género que debe erradicarse.",
+            "Solo aplica a prácticas realizadas fuera del territorio nacional.",
+            "Es un tema que no aborda la Ley."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley identifica la mutilación genital femenina como una forma de violencia de género y promueve su erradicación."
+    },
+    {
+        "enunciado": "¿Qué derechos garantiza la Ley 13/2007 a las mujeres con discapacidad víctimas de violencia de género?",
+        "opciones": [
+            "Acceso limitado a recursos legales.",
+            "Medidas adaptadas a sus necesidades específicas, incluyendo accesibilidad y apoyo.",
+            "Solo apoyo en centros de atención social.",
+            "Atención médica prioritaria exclusivamente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza medidas adaptadas a las necesidades de mujeres con discapacidad, asegurando accesibilidad y apoyo integral."
+    },
+    {
+        "enunciado": "¿Qué incluye el concepto de víctima de violencia de género según la Ley 13/2007?",
+        "opciones": [
+            "Únicamente mujeres mayores de edad.",
+            "Cualquier mujer, independientemente de su edad, orientación o identidad sexual, así como hijos, hijas y personas dependientes afectadas.",
+            "Solo mujeres casadas con su agresor.",
+            "Personas de cualquier género que sufran violencia en el ámbito doméstico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley considera víctimas a las mujeres de cualquier edad, orientación o identidad sexual y a las personas dependientes afectadas por la violencia."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 13/2007 sobre la protección de datos de las víctimas?",
+        "opciones": [
+            "Los datos pueden ser compartidos bajo autorización judicial.",
+            "Se garantiza la confidencialidad absoluta de los datos personales y de ubicación de las víctimas.",
+            "Los datos solo se protegen durante los procesos judiciales.",
+            "No hay disposiciones específicas sobre protección de datos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley asegura la confidencialidad de los datos personales de las víctimas y de las personas dependientes para proteger su seguridad."
+    },
+    {
+        "enunciado": "¿Qué mecanismos de coordinación establece la Ley entre las instituciones para combatir la violencia de género?",
+        "opciones": [
+            "Protocolos de actuación conjunta entre servicios sociales, sanitarios y cuerpos de seguridad.",
+            "Cada institución actúa de manera independiente.",
+            "Solo cooperación entre servicios sanitarios y judiciales.",
+            "Un sistema único de gestión por parte de los municipios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley promueve protocolos de coordinación entre servicios sociales, sanitarios y cuerpos de seguridad para combatir la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué acciones contempla la Ley 13/2007 en el ámbito de la salud para víctimas de violencia de género?",
+        "opciones": [
+            "Exclusivamente atención en casos de emergencia.",
+            "Protocolo específico de detección, atención y seguimiento en salud mental y física.",
+            "Reducción de los tiempos de espera en consultas generales.",
+            "Acceso preferente a medicamentos básicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incluye protocolos específicos para la detección, atención y seguimiento integral en los ámbitos de salud mental y física."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre los programas dirigidos a hombres?",
+        "opciones": [
+            "Solo programas de sensibilización sin tratamiento.",
+            "Programas de prevención, reeducación y rehabilitación para reducir el riesgo de violencia de género.",
+            "Acceso exclusivo a servicios de asesoramiento jurídico.",
+            "Campañas dirigidas a limitar sus derechos laborales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley incluye programas dirigidos a hombres para prevenir la violencia de género y fomentar su reeducación y rehabilitación."
+    },
+    {
+        "enunciado": "¿Qué derechos educativos garantiza la Ley a los hijos de mujeres víctimas de violencia de género?",
+        "opciones": [
+            "Escolarización inmediata y confidencialidad en casos de traslado por violencia.",
+            "Acceso exclusivo a colegios privados.",
+            "Reducción de la jornada escolar.",
+            "Becas para estudios superiores sin requisitos adicionales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza la escolarización inmediata de hijos de víctimas de violencia de género y protege la confidencialidad en estos casos."
+    },
+    {
+        "enunciado": "¿Cómo define la Ley la violencia sexual como forma de violencia de género?",
+        "opciones": [
+            "Cualquier conducta inapropiada entre adultos consensuada.",
+            "Actos sexuales no consentidos mediante fuerza, intimidación o abuso.",
+            "Relaciones fuera del matrimonio.",
+            "Acciones únicamente en el ámbito laboral."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia sexual incluye cualquier acto de naturaleza sexual no consentido, realizado con fuerza, intimidación o abuso."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la formación en igualdad de género en el ámbito educativo?",
+        "opciones": [
+            "Es obligatoria en todas las etapas educativas.",
+            "Se limita a los niveles universitarios.",
+            "Solo se imparte en centros públicos.",
+            "No está contemplada de manera específica."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece la obligatoriedad de incluir formación en igualdad de género en todas las etapas educativas para prevenir la violencia."
+    },
+    {
+        "enunciado": "¿Qué medidas establece la Ley para la atención de mujeres inmigrantes víctimas de violencia de género?",
+        "opciones": [
+            "Solo apoyo jurídico limitado.",
+            "Atención integral adaptada, incluyendo intérpretes y recursos específicos.",
+            "Acceso restringido a servicios sociales básicos.",
+            "Exclusivamente asesoramiento en centros de acogida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza atención integral adaptada a mujeres inmigrantes, incluyendo intérpretes y recursos específicos para sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué función cumple el Consejo Audiovisual de Andalucía según la Ley?",
+        "opciones": [
+            "Supervisar el tratamiento de la violencia de género en los medios audiovisuales.",
+            "Gestionar campañas educativas exclusivamente.",
+            "Emitir sanciones en casos de discriminación laboral.",
+            "Regular los contenidos de las redes sociales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Consejo Audiovisual de Andalucía supervisa cómo los medios reflejan la violencia de género y asegura el cumplimiento de la Ley."
+    },
+    {
+        "enunciado": "¿Qué ámbito territorial cubre la aplicación de la Ley 13/2007?",
+        "opciones": [
+            "Todo el territorio español.",
+            "Únicamente las capitales de provincia.",
+            "La Comunidad Autónoma de Andalucía.",
+            "Áreas rurales exclusivamente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley 13/2007 es aplicable en todo el territorio de la Comunidad Autónoma de Andalucía."
+    },
+    {
+        "enunciado": "¿Qué principio rector establece la Ley respecto a la intervención pública contra la violencia de género?",
+        "opciones": [
+            "Realizar acciones individuales sin coordinación.",
+            "Impulsar políticas coordinadas y transversales entre diferentes ámbitos institucionales.",
+            "Priorizar únicamente medidas de carácter educativo.",
+            "Evitar la participación de organizaciones no gubernamentales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece que la intervención pública debe basarse en políticas coordinadas y transversales para combatir la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué define la Ley como violencia económica?",
+        "opciones": [
+            "La reducción de ingresos por motivos ajenos al agresor.",
+            "Privar intencionadamente de recursos económicos para generar dependencia.",
+            "Gastos excesivos por parte de las víctimas.",
+            "Negarse a compartir recursos dentro del hogar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La violencia económica se define como la privación intencionada de recursos para generar dependencia económica de la víctima."
+    },
+    {
+        "enunciado": "¿Qué medidas educativas contempla la Ley para prevenir la violencia de género?",
+        "opciones": [
+            "Promover valores tradicionales en las escuelas.",
+            "Incluir la coeducación y la resolución pacífica de conflictos en los currículos.",
+            "Fomentar actividades extracurriculares sin supervisión.",
+            "Limitar el acceso de las mujeres a la educación superior."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley promueve la coeducación y la enseñanza de la resolución pacífica de conflictos como medidas clave para prevenir la violencia de género."
+    },
+    {
+        "enunciado": "¿Qué recursos garantiza la Ley para la atención integral a las víctimas?",
+        "opciones": [
+            "Únicamente apoyo psicológico básico.",
+            "Atención jurídica, social, sanitaria y psicológica especializada.",
+            "Acceso limitado a centros de acogida.",
+            "Asesoramiento financiero exclusivo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley asegura a las víctimas una atención integral que incluye servicios jurídicos, sociales, sanitarios y psicológicos especializados."
+    },
+    {
+        "enunciado": "¿Cómo aborda la Ley la formación de profesionales de la seguridad en violencia de género?",
+        "opciones": [
+            "Deja la formación como una decisión opcional de cada entidad.",
+            "Incluye conocimientos específicos en todos los niveles de formación de seguridad.",
+            "Se limita a la formación básica de los nuevos policías.",
+            "Solo aplica a cuerpos de seguridad municipales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley establece que todos los niveles de formación en seguridad deben incluir conocimientos específicos sobre violencia de género."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley respecto a la protección de menores expuestos a violencia de género?",
+        "opciones": [
+            "Separación inmediata del entorno familiar.",
+            "Acceso a atención psicológica especializada y protección en procesos educativos.",
+            "Solo apoyo legal en casos judicializados.",
+            "Limitación del contacto con ambos progenitores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley garantiza atención psicológica y educativa para menores expuestos a violencia de género, protegiendo su bienestar integral."
+    },
+    {
+        "enunciado": "¿Qué función cumple el Observatorio Andaluz de la Violencia de Género?",
+        "opciones": [
+            "Recaudar fondos para campañas contra la violencia.",
+            "Asesorar y evaluar políticas públicas sobre violencia de género.",
+            "Emitir sentencias en casos de violencia de género.",
+            "Gestionar centros de acogida para víctimas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Observatorio Andaluz asesora y evalúa las políticas públicas destinadas a erradicar la violencia de género en Andalucía."
+    },
+    {
+        "enunciado": "¿Qué estrategias incluye el Plan de Igualdad Integral de Sensibilización contra la violencia de género?",
+        "opciones": [
+            "Solo campañas publicitarias en medios tradicionales.",
+            "Educación, comunicación, detección, prevención y sensibilización.",
+            "Fomentar únicamente la denuncia de casos de violencia.",
+            "Proveer recursos solo a víctimas con hijos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "El Plan de Igualdad Integral incluye educación, comunicación, detección y sensibilización para abordar la violencia de género de manera integral."
+    },
+    {
+        "enunciado": "¿Qué estipula la Ley respecto a la violencia en la pareja?",
+        "opciones": [
+            "Solo incluye violencia física.",
+            "Incluye violencia física, psicológica, sexual o económica ejercida contra una mujer por su pareja o expareja.",
+            "Se limita a relaciones con convivencia.",
+            "Excluye actos realizados fuera del matrimonio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema7", "violencia_genero"],
+        "feedback": "La Ley abarca todas las formas de violencia ejercidas por la pareja o expareja, incluyendo física, psicológica, sexual o económica."
+    },
+  {
+    "enunciado": "Según la Ley 12/2007 de igualdad de género en Andalucía, ¿qué principio general establece que las administraciones públicas deben garantizar la igualdad efectiva entre hombres y mujeres en todas sus actuaciones?",
+    "opciones": [
+      "El principio de equidad.",
+      "El principio de transversalidad.",
+      "El principio de corresponsabilidad.",
+      "El principio de interseccionalidad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "El principio de transversalidad obliga a las administraciones públicas a integrar la perspectiva de género en todas sus políticas, actuaciones y decisiones."
+  },
+  {
+    "enunciado": "¿Cuál es el ámbito territorial de aplicación de la Ley 12/2007 de igualdad de género en Andalucía?",
+    "opciones": [
+      "Todo el territorio nacional.",
+      "Las comunidades autónomas con estatutos reformados.",
+      "El territorio de la Comunidad Autónoma de Andalucía.",
+      "Los municipios de más de 5.000 habitantes en Andalucía."
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley 12/2007 se aplica exclusivamente dentro del territorio de la Comunidad Autónoma de Andalucía."
+  },
+  {
+    "enunciado": "¿Qué se entiende por 'acción positiva' según la Ley 12/2007 de igualdad de género en Andalucía?",
+    "opciones": [
+      "Medidas que favorecen únicamente a las mujeres en cualquier situación.",
+      "Acciones dirigidas a reducir las desigualdades específicas que afectan a las mujeres.",
+      "Políticas públicas que excluyen a los hombres en ámbitos de igualdad.",
+      "Proyectos que promueven el liderazgo exclusivo femenino."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "Las acciones positivas son medidas específicas diseñadas para eliminar o reducir las desigualdades de hecho que afectan a las mujeres frente a los hombres."
+  },
+  {
+    "enunciado": "Según la Ley 12/2007, ¿qué principio general establece la obligatoriedad de evitar la discriminación por razón de género en todas las políticas públicas?",
+    "opciones": [
+      "Principio de igualdad de oportunidades.",
+      "Principio de sostenibilidad social.",
+      "Principio de no discriminación.",
+      "Principio de inclusión."
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "El principio de no discriminación prohíbe cualquier forma de discriminación directa o indirecta basada en el género."
+  },
+  {
+    "enunciado": "¿Qué órgano tiene la responsabilidad de coordinar y supervisar las políticas de igualdad de género en Andalucía según la Ley 12/2007?",
+    "opciones": [
+      "El Parlamento de Andalucía.",
+      "El Instituto Andaluz de la Mujer.",
+      "El Consejo de Gobierno.",
+      "Las Diputaciones Provinciales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "El Instituto Andaluz de la Mujer es el órgano encargado de coordinar y supervisar las políticas de igualdad de género en la Comunidad Autónoma de Andalucía."
+  },
+  {
+    "enunciado": "En el marco de las políticas públicas, la Ley 12/2007 establece que se deben realizar auditorías de género en:",
+    "opciones": [
+      "Las cuentas públicas.",
+      "Los presupuestos de la Comunidad Autónoma.",
+      "Las contrataciones laborales del sector privado.",
+      "Las políticas urbanísticas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley 12/2007 establece la necesidad de realizar auditorías de género en los presupuestos para garantizar una distribución equitativa de los recursos públicos."
+  },
+  {
+    "enunciado": "Según la Ley 12/2007, ¿cómo se define la perspectiva de género?",
+    "opciones": [
+      "La inclusión obligatoria de mujeres en puestos directivos.",
+      "El análisis del impacto diferenciado que tienen las políticas públicas sobre hombres y mujeres.",
+      "La creación de espacios exclusivos para mujeres en ámbitos laborales.",
+      "La promoción de valores feministas en todas las instituciones públicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La perspectiva de género implica analizar el impacto de las políticas y acciones desde una visión que considere las diferencias y desigualdades entre hombres y mujeres."
+  },
+  {
+    "enunciado": "¿Qué objetivo fundamental establece la Ley 12/2007 respecto a la educación en Andalucía?",
+    "opciones": [
+      "Garantizar la presencia de mujeres en el ámbito universitario.",
+      "Eliminar los estereotipos de género en el currículo educativo.",
+      "Crear centros educativos exclusivos para niñas y niños.",
+      "Priorizar la educación de mujeres en zonas rurales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley 12/2007 establece como objetivo fundamental eliminar los estereotipos de género y fomentar la coeducación en todos los niveles educativos."
+  },
+  {
+    "enunciado": "La Ley 12/2007 establece que en los medios de comunicación públicos de Andalucía se debe:",
+    "opciones": [
+      "Fomentar contenidos que promuevan valores de igualdad de género.",
+      "Garantizar una cuota del 50% de mujeres en programas televisivos.",
+      "Restringir la emisión de contenidos protagonizados por hombres.",
+      "Eliminar los programas de entretenimiento que no promuevan la igualdad."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley impulsa a los medios públicos a fomentar contenidos que refuercen valores de igualdad y eliminen estereotipos sexistas."
+  },
+  {
+    "enunciado": "Dentro de las políticas de empleo, ¿qué establece la Ley 12/2007 para las empresas que reciban subvenciones públicas?",
+    "opciones": [
+      "Estar dirigidas exclusivamente por mujeres.",
+      "Contar con un Plan de Igualdad aprobado.",
+      "Cumplir con una cuota de paridad del 40% de mujeres.",
+      "Garantizar salarios más altos para mujeres."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "Las empresas que reciban subvenciones públicas deben contar con Plan de Igualdades de igualdad como requisito para acceder a dichas ayudas."
+  },
+  {
+    "enunciado": "De acuerdo con la Ley 12/2007 de igualdad de género en Andalucía, ¿qué principio general se centra en promover el reparto equilibrado de responsabilidades entre hombres y mujeres en los ámbitos personal, familiar y laboral?",
+    "opciones": [
+      "Principio de corresponsabilidad.",
+      "Principio de igualdad de trato.",
+      "Principio de empoderamiento.",
+      "Principio de sostenibilidad social."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "El principio de corresponsabilidad promueve el reparto equitativo de responsabilidades entre hombres y mujeres en los distintos ámbitos de la vida."
+  },
+  {
+    "enunciado": "Según la Ley 12/2007, ¿qué medida deben adoptar las administraciones públicas para garantizar la igualdad de género en sus procedimientos de contratación?",
+    "opciones": [
+      "Priorizar a empresas dirigidas exclusivamente por mujeres.",
+      "Incorporar cláusulas de igualdad de género en los contratos públicos.",
+      "Exigir la contratación paritaria en proyectos financiados con fondos públicos.",
+      "Prohibir la contratación de empresas sin representación femenina."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "Las administraciones públicas deben incluir cláusulas que garanticen la igualdad de género en los contratos y procedimientos de contratación pública."
+  },
+  {
+    "enunciado": "En el ámbito educativo, ¿qué actuación contempla la Ley 12/2007 para erradicar la desigualdad de género en los centros de enseñanza?",
+    "opciones": [
+      "La formación del profesorado en igualdad de género.",
+      "La separación por género en las aulas.",
+      "El aumento de asignaturas relacionadas con la igualdad.",
+      "La imPlan de Igualdadtación de cuotas de género en las matrículas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley 12/2007 promueve la formación del profesorado en igualdad de género como una herramienta clave para erradicar las desigualdades en el ámbito educativo."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 12/2007 respecto a las estadísticas elaboradas por las administraciones públicas de Andalucía?",
+    "opciones": [
+      "Deben recoger datos desglosados por género.",
+      "Deben centrarse en las desigualdades laborales.",
+      "Deben priorizar los datos relacionados con mujeres en zonas rurales.",
+      "Deben incluir exclusivamente indicadores de violencia de género."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley establece que las estadísticas deben recoger datos desglosados por género para identificar desigualdades y Plan de Igualdadificar políticas específicas."
+  },
+  {
+    "enunciado": "De acuerdo con la Ley 12/2007, las políticas públicas de igualdad de género deben desarrollarse mediante:",
+    "opciones": [
+      "Plan de Igualdades sectoriales específicos.",
+      "Proyectos de cooperación internacional.",
+      "Campañas puntuales de sensibilización.",
+      "Programas exclusivos para mujeres desempleadas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley establece que las políticas de igualdad deben articularse a través de Plan de Igualdades sectoriales específicos en las diferentes áreas de actuación pública."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 12/2007 respecto al lenguaje administrativo y jurídico en Andalucía?",
+    "opciones": [
+      "Debe ser inclusivo y no sexista.",
+      "Debe emplear siempre términos neutros.",
+      "Debe reflejar la superioridad de la igualdad de género.",
+      "Debe evitar toda referencia directa a géneros específicos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley obliga a que el lenguaje administrativo y jurídico sea inclusivo y no sexista, evitando formas que perpetúen la desigualdad."
+  },
+  {
+    "enunciado": "En la Ley 12/2007, ¿cómo se contempla el tratamiento de la violencia de género en las políticas públicas andaluzas?",
+    "opciones": [
+      "Como un tema específico de las políticas de seguridad.",
+      "Como una prioridad transversal en todas las políticas públicas.",
+      "Como una competencia exclusiva del Instituto Andaluz de la Mujer.",
+      "Como un problema de ámbito exclusivamente familiar."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley establece que la lucha contra la violencia de género debe ser una prioridad transversal en todas las políticas públicas andaluzas."
+  },
+  {
+    "enunciado": "Según la Ley 12/2007, ¿qué principio debe regir la integración de la perspectiva de género en el ámbito de la salud pública?",
+    "opciones": [
+      "Principio de paridad.",
+      "Principio de equidad de género.",
+      "Principio de prevención.",
+      "Principio de universalidad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "El principio de equidad de género garantiza que las políticas de salud consideren las necesidades específicas de hombres y mujeres para evitar desigualdades."
+  },
+  {
+    "enunciado": "En el ámbito laboral, la Ley 12/2007 incluye medidas para garantizar:",
+    "opciones": [
+      "La eliminación de la brecha salarial entre hombres y mujeres.",
+      "La creación de empleos exclusivos para mujeres.",
+      "La promoción automática de mujeres a cargos directivos.",
+      "La reducción de la jornada laboral solo para mujeres con hijos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "Una de las medidas clave de la Ley es la eliminación de la brecha salarial, promoviendo la igualdad en las condiciones laborales."
+  },
+  {
+    "enunciado": "En relación a las políticas urbanísticas, ¿qué establece la Ley 12/2007 de igualdad de género en Andalucía?",
+    "opciones": [
+      "La promoción de viviendas exclusivas para mujeres en situación de vulnerabilidad.",
+      "La incorporación de la perspectiva de género en el diseño de los espacios públicos.",
+      "La construcción de espacios separados para hombres y mujeres en zonas urbanas.",
+      "La priorización de proyectos urbanísticos liderados por mujeres."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "igualdad"],
+    "feedback": "La Ley establece que se debe incorporar la perspectiva de género en el diseño de los espacios públicos para garantizar su accesibilidad y seguridad para todos."
+  },
+  {
+    "enunciado": "¿Cuál es el principal objetivo de la Ley 13/2007 de prevención y protección integral contra la violencia de género en Andalucía?",
+    "opciones": [
+      "Regular la atención sanitaria en casos de violencia de género",
+      "Erradicar la violencia de género y garantizar la protección de las víctimas",
+      "Sancionar a los responsables de violencia de género con penas más severas",
+      "Fomentar la igualdad en el ámbito laboral"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "El objetivo principal de la Ley 13/2007 es erradicar la violencia de género y garantizar la protección y los derechos de las víctimas."
+  },
+  {
+    "enunciado": "Según el ámbito de aplicación de la Ley 13/2007, ¿qué se entiende por violencia de género?",
+    "opciones": [
+      "Cualquier forma de violencia ejercida entre miembros de una familia",
+      "La violencia física entre cualquier persona independientemente de su género",
+      "La violencia ejercida contra las mujeres por parte de los hombres en el ámbito de las relaciones afectivas",
+      "Cualquier tipo de agresión en el ámbito laboral dirigida a una mujer"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La Ley 13/2007 se centra en la violencia ejercida contra las mujeres por parte de hombres en el contexto de relaciones afectivas, presentes o pasadas."
+  },
+  {
+    "enunciado": "¿Qué principio rector establece la Ley 13/2007 para garantizar la atención integral a las víctimas de violencia de género?",
+    "opciones": [
+      "La priorización de medidas judiciales para sancionar al agresor",
+      "La coordinación entre las distintas administraciones y servicios",
+      "La creación de protocolos de seguridad exclusivamente policiales",
+      "El desarrollo de campañas publicitarias sobre igualdad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La Ley 13/2007 destaca la necesidad de coordinación entre administraciones y servicios para ofrecer una atención integral y eficaz."
+  },
+  {
+    "enunciado": "¿Qué ámbito NO está específicamente contemplado en la Ley 13/2007 como parte de su objeto y principios rectores?",
+    "opciones": [
+      "El ámbito sanitario",
+      "El ámbito educativo",
+      "El ámbito deportivo",
+      "El ámbito social"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "El ámbito deportivo no está específicamente mencionado en la Ley 13/2007, que se centra más en los sectores sanitario, educativo y social."
+  },
+  {
+    "enunciado": "De acuerdo con la Ley 13/2007, ¿qué profesionales tienen prioridad para recibir formación específica en violencia de género?",
+    "opciones": [
+      "Profesionales del ámbito sanitario",
+      "Personal de centros deportivos",
+      "Funcionarios de servicios municipales de transporte",
+      "Trabajadores del sector privado en general"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La Ley da prioridad a los profesionales del ámbito sanitario debido a su papel clave en la detección y atención de casos de violencia de género."
+  },
+  {
+    "enunciado": "¿Qué aspecto relacionado con la prevención de la violencia de género se encuentra entre los principios rectores de la Ley 13/2007?",
+    "opciones": [
+      "La sanción económica al agresor",
+      "La educación y sensibilización social en igualdad de género",
+      "El establecimiento de cuotas obligatorias en empresas",
+      "La mejora de la formación política en temas de igualdad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La educación y sensibilización social en igualdad de género es clave para prevenir la violencia de género, según los principios de la Ley 13/2007."
+  },
+  {
+    "enunciado": "Según la Ley 13/2007, ¿cuál es una de las obligaciones de las administraciones públicas andaluzas en materia de violencia de género?",
+    "opciones": [
+      "Proveer asistencia jurídica gratuita a todas las mujeres andaluzas",
+      "Garantizar la confidencialidad y protección de las víctimas",
+      "Aprobar legislación laboral para mujeres víctimas de violencia",
+      "Asignar el 50% del presupuesto público a la igualdad de género"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "Las administraciones públicas deben garantizar la confidencialidad y la protección de las víctimas para generar confianza y fomentar la denuncia."
+  },
+  {
+    "enunciado": "¿Qué población está cubierta específicamente por el ámbito de aplicación de la Ley 13/2007?",
+    "opciones": [
+      "Todas las personas residentes en Andalucía",
+      "Las mujeres andaluzas mayores de edad",
+      "Todas las mujeres víctimas de violencia de género residentes en Andalucía",
+      "Cualquier persona víctima de agresión en Andalucía"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "El ámbito de aplicación de la Ley 13/2007 se centra en todas las mujeres residentes en Andalucía que sean víctimas de violencia de género."
+  },
+  {
+    "enunciado": "¿Qué acción está incluida en la Ley 13/2007 para mejorar la formación de los profesionales sanitarios?",
+    "opciones": [
+      "La realización de cursos específicos sobre prevención de violencia de género",
+      "La obligación de obtener un título en igualdad de género",
+      "La incorporación de contenido sobre violencia de género en grados universitarios",
+      "El requisito de certificación anual sobre temas de género"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La Ley promueve la realización de cursos y formación específica para profesionales sanitarios, dada su labor esencial en la detección y atención."
+  },
+  {
+    "enunciado": "Según los principios de la Ley 13/2007, ¿qué papel tienen los medios de comunicación en la prevención de la violencia de género?",
+    "opciones": [
+      "Informar únicamente sobre casos judiciales importantes",
+      "Promover valores de igualdad y evitar contenidos discriminatorios",
+      "Emitir exclusivamente campañas aprobadas por el gobierno",
+      "Garantizar la privacidad total de los agresores"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "Los medios de comunicación deben promover valores de igualdad y no reproducir contenidos que perpetúen roles de género discriminatorios."
+  },
+  {
+    "enunciado": "¿Qué tipo de programas de formación específica establece la Ley 13/2007 para el personal sanitario?",
+    "opciones": [
+      "Programas obligatorios en detección de violencia de género",
+      "Programas optativos sobre igualdad en el ámbito familiar",
+      "Cursos generales sobre ética profesional",
+      "Talleres sobre prevención de delitos menores"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La formación específica para el personal sanitario incluye programas obligatorios en detección y atención de casos de violencia de género."
+  },
+  {
+    "enunciado": "De acuerdo con la Ley 13/2007, ¿qué factor es esencial para garantizar la eficacia en la atención a las víctimas?",
+    "opciones": [
+      "La rapidez en las sanciones judiciales",
+      "La coordinación entre las diferentes administraciones públicas",
+      "La creación de campañas publicitarias masivas",
+      "La inversión en infraestructuras tecnológicas de seguridad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "violencia_género"],
+    "feedback": "La coordinación entre las administraciones públicas es esencial para garantizar una atención integral y eficaz a las víctimas."
+  },
+  {
+    "enunciado": "¿Cuál es la finalidad principal del Plan de Igualdad Estratégico para la Igualdad de Mujeres y Hombres en Andalucía 2022-2028?",
+    "opciones": [
+      "Reducir la tasa de desempleo en Andalucía.",
+      "Establecer directrices para alcanzar la democracia paritaria y eliminar discriminaciones de género.",
+      "Promover la educación obligatoria en igualdad para todas las edades.",
+      "Aumentar la participación de Andalucía en proyectos internacionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad Estratégico busca establecer directrices para la igualdad de género en Andalucía, promoviendo la democracia paritaria y eliminando discriminaciones sociales, políticas, económicas y laborales."
+  },
+  {
+    "enunciado": "Según el Plan de Igualdad, ¿cuál es el porcentaje de mujeres matriculadas en ciclos de Formación Profesional de grado medio en Andalucía (curso 2018-2019)?",
+    "opciones": [
+      "55,14%",
+      "44,43%",
+      "26,81%",
+      "71,15%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Las mujeres están infrarrepresentadas en la Formación Profesional de grado medio, representando solo el 26,81%."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de cátedras universitarias en Andalucía está ocupado por mujeres (curso 2016-2017)?",
+    "opciones": [
+      "20,9%",
+      "32,1%",
+      "38,25%",
+      "50,33%"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El techo de cristal en la docencia universitaria es evidente, ya que solo el 20,9% de las cátedras está ocupado por mujeres."
+  },
+  {
+    "enunciado": "¿Qué principios rectores destacan en el Plan de Igualdad Estratégico?",
+    "opciones": [
+      "Neutralidad en la política pública.",
+      "Transversalidad de género, eliminación de brechas de género, empoderamiento de las mujeres e igualdad en el acceso al poder.",
+      "Enfoque individualista y meritocracia.",
+      "Prioridad exclusiva al ámbito educativo."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Los principios rectores del Plan de Igualdad incluyen transversalidad, eliminación de brechas, empoderamiento e igualdad en la toma de decisiones."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de denuncias por violencia de género se registraron en Andalucía en 2018?",
+    "opciones": [
+      "12.000",
+      "49.144",
+      "34.588",
+      "73,16%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "En 2018 se registraron 34.588 denuncias por violencia de género en Andalucía."
+  },
+  {
+    "enunciado": "Según el Plan de Igualdad, ¿qué porcentaje de personas cuidadoras no profesionales son mujeres (2018)?",
+    "opciones": [
+      "73,16%",
+      "54,4%",
+      "86,55%",
+      "45,42%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Las mujeres representan el 86,55% de las personas cuidadoras no profesionales."
+  },
+  {
+    "enunciado": "¿Qué porcentaje del personal investigador en las universidades andaluzas son mujeres?",
+    "opciones": [
+      "38,25%",
+      "50,33%",
+      "22,94%",
+      "39%"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El 38,25% del personal investigador en las universidades andaluzas son mujeres, mostrando una infrarrepresentación en este ámbito."
+  },
+  {
+    "enunciado": "¿Qué enfoque incluye el Plan de Igualdad para abordar las desigualdades de género?",
+    "opciones": [
+      "Enfoque individualista.",
+      "Enfoque interseccional.",
+      "Enfoque meritocrático.",
+      "Enfoque excluyente."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad incorpora un enfoque interseccional para analizar cómo convergen las desigualdades de género con otras formas de exclusión."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de las alcaldías en Andalucía están lideradas por mujeres (2018)?",
+    "opciones": [
+      "46,34%",
+      "41,79%",
+      "23,18%",
+      "50%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Solo el 23,18% de las alcaldías en Andalucía están lideradas por mujeres, mostrando una brecha de género significativa."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de mujeres se encuentra en riesgo de pobreza en Andalucía según el diagnóstico del Plan de Igualdad?",
+    "opciones": [
+      "27%",
+      "28,2%",
+      "30,5%",
+      "26,6%"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El diagnóstico del Plan de Igualdad revela que el 28,2% de las mujeres en Andalucía se encuentra en riesgo de pobreza."
+  },
+  {
+    "enunciado": "¿Qué instrumento se destaca en el Plan de Igualdad como clave para avanzar en la transversalidad de género?",
+    "opciones": [
+      "Presupuestos públicos.",
+      "Educación universitaria.",
+      "Leyes de violencia de género.",
+      "Programas deportivos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Los presupuestos públicos son esenciales para garantizar la transversalidad de género en las políticas públicas."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de los miembros del Tribunal Superior de Justicia de Andalucía son mujeres?",
+    "opciones": [
+      "44,6%",
+      "37,65%",
+      "46,3%",
+      "29,7%"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Las mujeres representan el 37,65% de los miembros del Tribunal Superior de Justicia de Andalucía."
+  },
+  {
+    "enunciado": "¿Qué porcentaje del personal del Servicio Andaluz de Salud (SAS) está compuesto por mujeres?",
+    "opciones": [
+      "54,4%",
+      "70,3%",
+      "86,55%",
+      "39%"
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El SAS está muy feminizado, con un 70,3% del personal compuesto por mujeres."
+  },
+  {
+    "enunciado": "Según el Plan de Igualdad, ¿qué porcentaje de mujeres participa en actividades proambientales en Andalucía?",
+    "opciones": [
+      "37,32%",
+      "32,58%",
+      "28,2%",
+      "50%"
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El 37,32% de las mujeres participa activamente en actividades proambientales en Andalucía."
+  },
+  {
+    "enunciado": "¿Cuál es uno de los objetivos principales del Plan de Igualdad Estratégico para la Igualdad de Mujeres y Hombres en Andalucía?",
+    "opciones": [
+      "Promover la igualdad de género en todas las políticas públicas.",
+      "Reducir los impuestos en Andalucía.",
+      "Aumentar la representación masculina en sectores feminizados.",
+      "Fomentar la educación gratuita para todos los niveles."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad busca integrar la igualdad de género como eje transversal en todas las políticas públicas."
+  },
+  {
+    "enunciado": "¿Qué entidad es responsable de coordinar y establecer las directrices del Plan de Igualdad Estratégico?",
+    "opciones": [
+      "El Instituto Andaluz de la Mujer (IAM).",
+      "El Ministerio de Igualdad.",
+      "La Unión Europea.",
+      "Las Universidades andaluzas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Instituto Andaluz de la Mujer es el organismo encargado de coordinar el Plan de Igualdad Estratégico en Andalucía."
+  },
+  {
+    "enunciado": "¿Qué marco internacional influyó en la elaboración del Plan de Igualdad Estratégico de Igualdad?",
+    "opciones": [
+      "La Declaración Universal de los Derechos Humanos.",
+      "La Plataforma de Acción de Beijing.",
+      "El Tratado de Lisboa.",
+      "El Acuerdo de París."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad Estratégico está alineado con la Plataforma de Acción de Beijing, que promueve la igualdad de género desde 1995."
+  },
+  {
+    "enunciado": "¿Qué concepto se promueve para reducir los estereotipos y roles tradicionales de género?",
+    "opciones": [
+      "Masculinidades igualitarias.",
+      "Autonomía financiera.",
+      "Segregación de género.",
+      "Neutralidad de género."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad fomenta las masculinidades igualitarias como una forma de combatir los estereotipos tradicionales de género."
+  },
+  {
+    "enunciado": "¿Qué principio rector del Plan de Igualdad incluye la eliminación de las causas estructurales de discriminación por género?",
+    "opciones": [
+      "Igualdad y transversalidad de género.",
+      "Feminización del trabajo.",
+      "Empoderamiento selectivo.",
+      "Neutralidad institucional."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El principio de igualdad y transversalidad de género busca eliminar las causas estructurales de la discriminación."
+  },
+  {
+    "enunciado": "¿Qué herramienta se menciona como esencial para garantizar la igualdad de género en las políticas públicas?",
+    "opciones": [
+      "Presupuestos con enfoque de género.",
+      "Educación gratuita.",
+      "Mayores incentivos fiscales.",
+      "Reformas constitucionales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El uso de presupuestos con enfoque de género es clave para avanzar en la igualdad efectiva."
+  },
+  {
+    "enunciado": "¿Qué colectivo de mujeres recibe especial atención en el Plan de Igualdad por su situación de vulnerabilidad?",
+    "opciones": [
+      "Mujeres rurales.",
+      "Mujeres deportistas.",
+      "Mujeres empresarias.",
+      "Mujeres científicas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad pone un énfasis especial en empoderar a las mujeres rurales debido a su mayor vulnerabilidad."
+  },
+  {
+    "enunciado": "¿Qué instrumento legislativo andaluz sustenta el desarrollo del Plan de Igualdad Estratégico?",
+    "opciones": [
+      "Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.",
+      "Ley Orgánica 3/2007 para la igualdad efectiva de mujeres y hombres.",
+      "Ley de Presupuestos Generales del Estado.",
+      "Estatuto de Autonomía para Andalucía."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "La Ley 12/2007 establece las bases para la promoción de la igualdad de género en Andalucía."
+  },
+  {
+    "enunciado": "¿Qué sector profesional se identifica en el Plan de Igualdad como altamente masculinizado?",
+    "opciones": [
+      "Industria de la construcción.",
+      "Educación primaria.",
+      "Trabajo social.",
+      "Atención sanitaria."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El sector de la construcción es uno de los más masculinizados, según el diagnóstico del Plan de Igualdad."
+  },
+  {
+    "enunciado": "¿Qué enfoque metodológico se destaca en el Plan de Igualdad para analizar las desigualdades de género?",
+    "opciones": [
+      "Enfoque interseccional.",
+      "Enfoque monetarista.",
+      "Enfoque empírico.",
+      "Enfoque estadístico."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El enfoque interseccional permite analizar cómo convergen diversas formas de discriminación junto al género."
+  },
+  {
+    "enunciado": "¿Qué institución presta asesoramiento a las entidades locales para elaborar sus Plan de Igualdades de igualdad?",
+    "opciones": [
+      "Consejo de Igualdad de Andalucía.",
+      "Instituto Andaluz de la Mujer.",
+      "Ministerio de Igualdad.",
+      "Unión Europea."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Instituto Andaluz de la Mujer asesora a las entidades locales en la elaboración de sus Plan de Igualdades de igualdad."
+  },
+  {
+    "enunciado": "¿Qué aspecto incluye el Plan de Igualdad para fomentar la participación igualitaria en la toma de decisiones?",
+    "opciones": [
+      "Establecimiento de cuotas de género.",
+      "Reducción de la jornada laboral.",
+      "Promoción de la movilidad internacional.",
+      "Fomento de la neutralidad en el liderazgo."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad propone cuotas de género para asegurar una representación equitativa en la toma de decisiones."
+  },
+  {
+    "enunciado": "¿Qué impacto del cambio climático aborda el Plan de Igualdad desde una perspectiva de género?",
+    "opciones": [
+      "Desigualdad en la afectación por los desastres naturales.",
+      "Falta de recursos tecnológicos.",
+      "Reducción de las oportunidades laborales.",
+      "Disminución de la representación política."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad analiza cómo el cambio climático afecta de manera diferenciada a mujeres y hombres."
+  },
+  {
+    "enunciado": "¿Qué ámbito se considera prioritario para incluir la perspectiva de género según el Plan de Igualdad?",
+    "opciones": [
+      "Urbanismo y diseño urbano.",
+      "Producción industrial.",
+      "Defensa militar.",
+      "Tecnologías espaciales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El urbanismo con perspectiva de género es una prioridad para garantizar ciudades inclusivas."
+  },
+  {
+    "enunciado": "¿Qué medida se menciona en el Plan de Igualdad para reducir las brechas de género en el deporte?",
+    "opciones": [
+      "Fomentar la participación femenina en deportes tradicionalmente masculinos.",
+      "Establecer salarios más altos para entrenadores hombres.",
+      "Reducir el número de disciplinas deportivas femeninas.",
+      "Prohibir la práctica de deportes mixtos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad fomenta la participación femenina en deportes tradicionalmente masculinos como medida de igualdad."
+  },
+  {
+    "enunciado": "¿Cuál es la función principal del enfoque interseccional que promueve el Plan de Igualdad Estratégico?",
+    "opciones": [
+      "Analizar exclusivamente las desigualdades económicas entre mujeres y hombres.",
+      "Considerar cómo convergen las desigualdades de género con otras formas de exclusión.",
+      "Eliminar todas las políticas sectoriales en favor de un único enfoque global.",
+      "Fomentar una visión neutral sobre las políticas públicas en igualdad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El enfoque interseccional analiza cómo las desigualdades de género interactúan con otras formas de exclusión, como la clase, la etnia o la discapacidad."
+  },
+  {
+    "enunciado": "Según el Plan de Igualdad, ¿qué rol desempeñan las masculinidades igualitarias en la construcción de una sociedad igualitaria?",
+    "opciones": [
+      "Consolidar roles tradicionales de género.",
+      "Fomentar la corresponsabilidad y el abandono de estereotipos tóxicos.",
+      "Mantener el statu quo en el mercado laboral.",
+      "Excluir a los hombres de las políticas de igualdad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "Las masculinidades igualitarias buscan desmantelar los roles tóxicos y fomentar la corresponsabilidad en todas las esferas de la vida."
+  },
+  {
+    "enunciado": "¿Qué directriz del Plan de Igualdad busca garantizar que las políticas públicas no reproduzcan discriminaciones por género?",
+    "opciones": [
+      "La incorporación de medidas de acción positiva.",
+      "El enfoque feminista y de derechos humanos.",
+      "El establecimiento de cuotas obligatorias en todos los ámbitos.",
+      "El uso exclusivo de estadísticas generales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El enfoque feminista y de derechos humanos garantiza que las políticas públicas consideren las desigualdades de género para evitar su reproducción."
+  },
+  {
+    "enunciado": "En el contexto del Plan de Igualdad, ¿qué significa la transversalidad de género?",
+    "opciones": [
+      "Aplicar medidas específicas únicamente en sectores tradicionalmente feminizados.",
+      "Considerar la perspectiva de género en todas las fases de las políticas públicas.",
+      "Centrar los recursos exclusivamente en mujeres en situación de pobreza.",
+      "Promover la neutralidad de género en los presupuestos públicos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "La transversalidad de género implica integrar la perspectiva de género en todas las fases de Plan de Igualdadificación y ejecución de políticas públicas."
+  },
+  {
+    "enunciado": "¿Qué objetivo tiene el principio de empoderamiento de las mujeres rurales según el Plan de Igualdad?",
+    "opciones": [
+      "Favorecer la migración hacia zonas urbanas.",
+      "Aumentar la visibilidad y participación de las mujeres en el ámbito rural.",
+      "Proteger exclusivamente los derechos laborales de las mujeres agricultoras.",
+      "Priorizar las ayudas económicas a mujeres empresarias."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad busca empoderar a las mujeres rurales aumentando su protagonismo y visibilidad en el ámbito rural y en la sociedad."
+  },
+  {
+    "enunciado": "¿Qué relación establece el Plan de Igualdad entre el cambio climático y la igualdad de género?",
+    "opciones": [
+      "Ambos temas son tratados de forma independiente en las políticas públicas.",
+      "El cambio climático afecta de manera diferenciada a hombres y mujeres.",
+      "La igualdad de género no se ve afectada por el cambio climático.",
+      "Las políticas climáticas deben ser lideradas exclusivamente por mujeres."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad reconoce que el cambio climático afecta de manera diferenciada a hombres y mujeres y debe abordarse con perspectiva de género."
+  },
+  {
+    "enunciado": "¿Qué instrumento del Plan de Igualdad busca fortalecer la corresponsabilidad en las tareas de cuidado?",
+    "opciones": [
+      "La creación de leyes específicas para la educación.",
+      "El fomento de masculinidades igualitarias y políticas de conciliación.",
+      "La prohibición de horarios flexibles en el empleo.",
+      "El aumento de los presupuestos para infraestructuras públicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad fomenta la corresponsabilidad en las tareas de cuidado a través de masculinidades igualitarias y políticas de conciliación."
+  },
+  {
+    "enunciado": "¿Qué aspecto clave debe incluirse en los diagnósticos de políticas públicas según el Plan de Igualdad?",
+    "opciones": [
+      "Datos desagregados por sexo para identificar desigualdades específicas.",
+      "Presupuestos anuales generales.",
+      "Estudios exclusivamente centrados en la población urbana.",
+      "Datos recopilados únicamente a nivel nacional."
+    ],
+    "correcta": 0,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El uso de datos desagregados por sexo permite identificar y abordar desigualdades específicas en las políticas públicas."
+  },
+  {
+    "enunciado": "¿Qué rol asigna el Plan de Igualdad al movimiento feminista en Andalucía?",
+    "opciones": [
+      "Organizar exclusivamente protestas públicas.",
+      "Actuar como un aliado clave para la concienciación y transformación social.",
+      "Supervisar las actividades de todas las administraciones públicas.",
+      "Rechazar cualquier colaboración con instituciones gubernamentales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El movimiento feminista es considerado un aliado esencial para promover la concienciación y el cambio social."
+  },
+  {
+    "enunciado": "¿Qué estrategia promueve el Plan de Igualdad para eliminar el techo de cristal en las universidades?",
+    "opciones": [
+      "Aumentar el número de cátedras reservadas exclusivamente para hombres.",
+      "Establecer mecanismos de promoción y liderazgo femenino.",
+      "Reducir el acceso de mujeres a las disciplinas técnicas.",
+      "Fomentar una neutralidad en la contratación sin acciones específicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad propone mecanismos para fomentar el liderazgo femenino y eliminar el techo de cristal en las universidades."
+  },
+  {
+    "enunciado": "¿Qué sector identifica el Plan de Igualdad como priorizado para la integración de las mujeres en roles de liderazgo?",
+    "opciones": [
+      "Medios de comunicación.",
+      "Industria tecnológica.",
+      "Administración pública.",
+      "Todos los anteriores."
+    ],
+    "correcta": 3,
+    "categorías": ["tema7", "Plan de Igualdad_igualdad_andalucia"],
+    "feedback": "El Plan de Igualdad señala la necesidad de una mayor representación de las mujeres en roles de liderazgo en todos los sectores."
+  }
+]
+
+
+
+

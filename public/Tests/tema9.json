@@ -1,0 +1,2175 @@
+[
+    {
+        "enunciado": "¿Cuál es el ámbito de aplicación de la Ley 41/2002 de Autonomía del Paciente?",
+        "opciones": [
+            "Regula únicamente los derechos de los pacientes en hospitales públicos.",
+            "Se aplica a los pacientes y profesionales en materia de autonomía e información clínica tanto en centros públicos como privados.",
+            "Cubre exclusivamente la información epidemiológica de los usuarios del Sistema Nacional de Salud.",
+            "Solo regula las actuaciones en casos de emergencias sanitarias."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El ámbito de aplicación de la Ley 41/2002 abarca tanto a pacientes como a profesionales en centros sanitarios públicos y privados, regulando aspectos como la autonomía del paciente y la documentación clínica."
+    },
+    {
+        "enunciado": "¿Qué principio básico establece la Ley 41/2002 sobre la obtención de consentimiento del paciente?",
+        "opciones": [
+            "Debe obtenerse solo en los casos de intervenciones quirúrgicas.",
+            "Es obligatorio obtener el consentimiento previo y adecuado del paciente para toda actuación sanitaria, salvo excepciones legales.",
+            "El consentimiento no es necesario si el médico lo considera adecuado.",
+            "Solo es necesario en casos de tratamientos experimentales."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que toda actuación sanitaria requiere el consentimiento previo del paciente, obtenido tras una adecuada información, salvo las excepciones previstas por la normativa."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué derechos tiene el paciente en relación con la información asistencial?",
+        "opciones": [
+            "A recibir información exclusivamente escrita sobre su salud.",
+            "A recibir información comprensible y adecuada a sus necesidades sobre cualquier intervención.",
+            "A recibir información solo cuando la solicite por escrito.",
+            "A recibir información únicamente si está acompañado por un familiar."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El paciente tiene derecho a recibir información comprensible y adecuada sobre su salud y las intervenciones, tal como lo establece la Ley 41/2002."
+    },
+    {
+        "enunciado": "¿Qué implica el derecho a la intimidad según la Ley 41/2002?",
+        "opciones": [
+            "Que solo los médicos tienen acceso a los datos de salud del paciente.",
+            "Que se requiere autorización legal para acceder a los datos de salud de una persona.",
+            "Que los datos de salud del paciente son de dominio público para fines educativos.",
+            "Que los datos de salud pueden compartirse libremente entre profesionales sanitarios."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El derecho a la intimidad garantiza que los datos de salud del paciente sean confidenciales y solo accesibles con autorización legal."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿en qué casos se requiere consentimiento informado por escrito?",
+        "opciones": [
+            "En todas las intervenciones médicas.",
+            "En intervenciones quirúrgicas, procedimientos invasivos y aquellos con riesgos significativos.",
+            "Solo en procedimientos experimentales.",
+            "Cuando el paciente lo solicite expresamente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento informado por escrito es obligatorio en intervenciones quirúrgicas, procedimientos invasivos y en casos con riesgos de repercusión significativa."
+    },
+    {
+        "enunciado": "¿Qué es el documento de instrucciones previas según la Ley 41/2002?",
+        "opciones": [
+            "Un informe médico obligatorio tras cada intervención.",
+            "Una manifestación anticipada del paciente sobre sus deseos respecto a cuidados y tratamientos futuros.",
+            "Una autorización para que el médico decida por el paciente.",
+            "Un documento que solo aplica en casos de emergencia sanitaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El documento de instrucciones previas permite al paciente expresar sus deseos sobre cuidados y tratamientos en caso de no poder comunicarlos en el futuro."
+    },
+    {
+        "enunciado": "¿Qué información mínima debe incluir la historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Solo los datos personales del paciente.",
+            "Únicamente los informes quirúrgicos y de alta.",
+            "Datos relevantes del estado de salud, evolución clínica y procedimientos realizados.",
+            "Información epidemiológica general."
+        ],
+        "correcta": 2,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica debe incluir información esencial sobre el estado de salud, evolución y los procedimientos realizados al paciente."
+    },
+    {
+        "enunciado": "¿Quién es el titular del derecho a la información asistencial según la Ley 41/2002?",
+        "opciones": [
+            "El representante legal del paciente.",
+            "El paciente, y en ciertos casos, las personas vinculadas a él por razones familiares.",
+            "El médico responsable del tratamiento.",
+            "La institución sanitaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El titular del derecho a la información es el paciente, aunque también puede compartirse con personas vinculadas por razones familiares si el paciente lo autoriza."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 respecto a la custodia de las historias clínicas?",
+        "opciones": [
+            "Pueden ser destruidas tras cinco años de ser archivadas.",
+            "Deben conservarse con garantías de seguridad y mantenimiento adecuado.",
+            "Los pacientes son responsables de custodiar su historia clínica.",
+            "Se almacenan solo en formato digital."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La custodia de las historias clínicas es responsabilidad de los centros sanitarios, quienes deben garantizar su seguridad y correcto mantenimiento."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los pacientes sobre la información para elegir médico y centro según la Ley 41/2002?",
+        "opciones": [
+            "Solo pueden elegir centro médico, no médico.",
+            "Tienen derecho a información previa para tomar decisiones informadas sobre médico y centro.",
+            "Deben aceptar al médico designado por el sistema sanitario.",
+            "No pueden acceder a información previa sobre los servicios disponibles."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los pacientes tienen derecho a recibir información previa para elegir médico y centro, garantizando una decisión informada."
+    },
+    {
+        "enunciado": "¿Qué principio orienta toda la actividad relacionada con la información y documentación clínica según la Ley 41/2002?",
+        "opciones": [
+            "La eficiencia y rapidez en la gestión sanitaria.",
+            "El respeto a la dignidad, autonomía y la intimidad del paciente.",
+            "La transparencia y acceso público a los datos clínicos.",
+            "La centralización de la información en el Sistema Nacional de Salud."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que toda actividad relacionada con la información clínica debe respetar la dignidad, autonomía y la intimidad del paciente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el derecho de los ciudadanos a conocer información epidemiológica?",
+        "opciones": [
+            "Solo tienen derecho si hay riesgo de epidemias.",
+            "Pueden acceder a información sanitaria colectiva relevante para su salud pública o individual.",
+            "La información epidemiológica está restringida a los profesionales sanitarios.",
+            "No se regula este derecho en la Ley."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley reconoce el derecho de los ciudadanos a recibir información epidemiológica en términos comprensibles y adecuados cuando esta sea relevante para la salud pública o individual."
+    },
+    {
+        "enunciado": "¿Qué condiciones establece la Ley 41/2002 para el acceso a la historia clínica con fines de investigación?",
+        "opciones": [
+            "Se permite sin restricciones para fines educativos.",
+            "Debe garantizarse el anonimato de los pacientes, salvo consentimiento expreso.",
+            "No se permite el acceso a la historia clínica para investigación.",
+            "Requiere autorización judicial en todos los casos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a la historia clínica con fines de investigación debe preservar el anonimato de los pacientes, salvo que estos consientan explícitamente no hacerlo."
+    },
+    {
+        "enunciado": "¿Qué obligación tienen los centros sanitarios respecto a la historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Conservarla durante un año tras el alta del paciente.",
+            "Garantizar su conservación durante un mínimo de cinco años y su accesibilidad.",
+            "Compartirla automáticamente con otros centros médicos.",
+            "Publicarla si es requerida para fines educativos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley obliga a los centros a conservar la historia clínica durante al menos cinco años tras el alta, asegurando su correcto mantenimiento y accesibilidad."
+    },
+    {
+        "enunciado": "¿Cómo regula la Ley 41/2002 el derecho del paciente a revocar el consentimiento informado?",
+        "opciones": [
+            "No puede ser revocado una vez firmado.",
+            "Puede revocarse libremente en cualquier momento de forma escrita.",
+            "Solo puede revocarse si el médico lo autoriza.",
+            "Es irrevocable en tratamientos de larga duración."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite al paciente revocar libremente su consentimiento informado en cualquier momento, dejando constancia de ello por escrito."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 41/2002 sobre la emisión de certificados médicos?",
+        "opciones": [
+            "Es una obligación únicamente en caso de alta hospitalaria.",
+            "Todo paciente tiene derecho a recibirlos, siendo gratuitos si así lo establece la normativa.",
+            "Solo se emiten a petición de familiares directos.",
+            "No regula esta obligación."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley garantiza el derecho de los pacientes a recibir certificados sobre su estado de salud, gratuitos en los casos establecidos legalmente."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué ocurre si un paciente renuncia a recibir información sobre su estado de salud?",
+        "opciones": [
+            "Debe firmar una renuncia documental y el médico no puede intervenir.",
+            "Se respeta su voluntad, documentándola, salvo en casos donde la salud del paciente o de terceros esté en riesgo.",
+            "La renuncia no es posible según la Ley.",
+            "El médico puede decidir informar a los familiares sin restricciones."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite al paciente renunciar a ser informado, pero establece excepciones cuando su salud o la de terceros pudiera estar en peligro."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre la información previa al consentimiento informado?",
+        "opciones": [
+            "Debe incluir solo los riesgos del procedimiento.",
+            "Debe ser comprensible, incluyendo consecuencias, riesgos y alternativas del procedimiento.",
+            "Solo es necesaria para procedimientos quirúrgicos.",
+            "Es opcional según la discreción del médico."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley exige que la información previa al consentimiento sea comprensible y contemple consecuencias, riesgos y alternativas de la intervención."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el consentimiento de menores de edad?",
+        "opciones": [
+            "Los menores no pueden prestar consentimiento en ningún caso.",
+            "Los mayores de 16 años pueden prestar consentimiento salvo excepciones de grave riesgo para su salud.",
+            "El consentimiento siempre debe ser otorgado por los representantes legales del menor.",
+            "Los menores emancipados no tienen derecho a prestar consentimiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite a los mayores de 16 años prestar consentimiento, salvo que existan actuaciones de grave riesgo para su salud, en cuyo caso será necesario el de su representante legal."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen los profesionales sanitarios respecto a la documentación clínica?",
+        "opciones": [
+            "Solo deben registrarla si el paciente lo solicita.",
+            "Están obligados a crear y mantener la documentación clínica de forma ordenada y secuencial.",
+            "Solo tienen que conservarla durante su vigencia profesional.",
+            "No tienen responsabilidades específicas sobre la documentación clínica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que los profesionales sanitarios deben gestionar y conservar la documentación clínica de manera ordenada y secuencial durante el proceso asistencial."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿cuál es el objetivo principal de la historia clínica?",
+        "opciones": [
+            "Facilitar la investigación médica.",
+            "Garantizar una asistencia adecuada al paciente.",
+            "Registrar datos estadísticos para el sistema sanitario.",
+            "Controlar la gestión administrativa de los centros."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica tiene como principal objetivo garantizar una adecuada asistencia al paciente, facilitando el conocimiento veraz de su estado de salud."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los pacientes fallecidos respecto al acceso a su historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Sus datos son de libre acceso para cualquier persona.",
+            "Solo las personas vinculadas por razones familiares pueden acceder, salvo que el fallecido lo haya prohibido.",
+            "Nadie tiene derecho a acceder a la historia clínica de un fallecido.",
+            "Los datos pueden ser publicados tras su fallecimiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a la historia clínica de un fallecido está limitado a personas vinculadas por razones familiares, respetando posibles prohibiciones del fallecido."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre la negativa del paciente a un tratamiento?",
+        "opciones": [
+            "El paciente no tiene derecho a negarse a los tratamientos propuestos.",
+            "Debe constar por escrito su negativa al tratamiento.",
+            "La negativa al tratamiento debe ser autorizada por un médico.",
+            "Solo puede negarse si el tratamiento no es urgente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite al paciente negarse a un tratamiento, y establece que esta decisión debe constar por escrito."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿quién tiene acceso a la historia clínica de un paciente con fines asistenciales?",
+        "opciones": [
+            "Cualquier profesional sanitario del centro.",
+            "Solo los profesionales directamente implicados en la atención del paciente.",
+            "El personal administrativo del centro.",
+            "Cualquier investigador autorizado."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Solo los profesionales implicados en la atención del paciente pueden acceder a su historia clínica con fines asistenciales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 respecto a la creación de un Registro nacional de instrucciones previas?",
+        "opciones": [
+            "Es obligatorio para todos los pacientes con enfermedades crónicas.",
+            "Se crea para garantizar la eficacia de las instrucciones previas en todo el territorio nacional.",
+            "Solo aplica en casos de emergencias sanitarias.",
+            "Es un registro de carácter voluntario sin regulación específica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El Registro nacional de instrucciones previas asegura la efectividad de estas disposiciones en todo el territorio nacional, conforme a la legislación vigente."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué sucede si un paciente menor de edad tiene capacidad intelectual y emocional suficiente?",
+        "opciones": [
+            "El menor no puede prestar consentimiento en ningún caso.",
+            "El menor puede prestar su consentimiento, siendo informado previamente.",
+            "El representante legal del menor debe siempre decidir por él.",
+            "El médico debe tomar la decisión sin consultar al menor."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Si el menor tiene capacidad suficiente, puede prestar su consentimiento tras ser debidamente informado."
+    },
+    {
+        "enunciado": "¿Qué límite establece la Ley 41/2002 sobre el acceso a datos clínicos para fines judiciales?",
+        "opciones": [
+            "Debe garantizarse el anonimato del paciente en todos los casos.",
+            "Solo pueden acceder jueces y tribunales mediante solicitud formal.",
+            "Los datos no pueden ser utilizados con fines judiciales.",
+            "El acceso debe limitarse a personal administrativo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a datos clínicos con fines judiciales está permitido para jueces y tribunales, asegurando siempre la confidencialidad de los datos."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿en qué circunstancias se puede actuar sin el consentimiento del paciente?",
+        "opciones": [
+            "En cualquier intervención urgente.",
+            "Cuando exista riesgo para la salud pública o un riesgo grave para el paciente.",
+            "Cuando el médico considere que el paciente no comprende la situación.",
+            "En ningún caso, siempre es necesario el consentimiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite actuar sin consentimiento en casos de riesgo para la salud pública o un riesgo grave e inmediato para el paciente."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen los servicios de salud según la Ley 41/2002?",
+        "opciones": [
+            "Solo informar sobre derechos básicos de los pacientes.",
+            "Regular procedimientos para garantizar derechos y accesos a la información y documentación clínica.",
+            "Conservar exclusivamente los datos de pacientes crónicos.",
+            "No tienen responsabilidades adicionales a las de los centros sanitarios."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los servicios de salud tienen la responsabilidad de regular procedimientos que garanticen los derechos de los pacientes y el acceso a la información y documentación clínica."
+    },
+    {
+        "enunciado": "¿Cómo regula la Ley 41/2002 la información para el alta voluntaria de un paciente?",
+        "opciones": [
+            "El paciente no tiene derecho a información sobre las consecuencias del alta.",
+            "El médico debe informar sobre las consecuencias y documentar la decisión del paciente.",
+            "El paciente solo puede darse de alta si el médico lo autoriza.",
+            "La alta voluntaria no está contemplada en la Ley."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley exige que el médico informe al paciente sobre las consecuencias del alta voluntaria y documente su decisión adecuadamente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el deber de secreto de los profesionales sanitarios?",
+        "opciones": [
+            "Es opcional según el criterio del profesional.",
+            "Solo aplica a médicos y enfermeros.",
+            "Es obligatorio para todo el personal que acceda a datos clínicos.",
+            "No se menciona en la Ley."
+        ],
+        "correcta": 2,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que todo el personal que acceda a datos clínicos, incluidos administrativos y sanitarios, está obligado a cumplir con el deber de secreto."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué derecho tiene el paciente en cuanto a la conservación de su documentación clínica?",
+        "opciones": [
+            "A exigir que se destruya tras el alta médica.",
+            "A que se conserve en condiciones de seguridad y accesibilidad durante al menos cinco años.",
+            "A recibir todos los documentos originales de su historia clínica.",
+            "A impedir que se use para cualquier tipo de investigación."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El paciente tiene derecho a que su documentación clínica sea conservada con garantías de seguridad por un periodo mínimo de cinco años."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 41/2002 sobre el acceso a la historia clínica con fines docentes?",
+        "opciones": [
+            "Es libre para cualquier docente del sector sanitario.",
+            "Requiere separar los datos identificativos de los clínico-asistenciales para garantizar el anonimato.",
+            "No está permitido el uso docente de las historias clínicas.",
+            "Solo puede ser autorizado por el Ministerio de Sanidad."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a historias clínicas con fines docentes debe asegurar el anonimato del paciente, separando los datos identificativos de los clínico-asistenciales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 respecto a la información sobre riesgos de las intervenciones?",
+        "opciones": [
+            "Debe ser siempre verbal y breve.",
+            "Debe incluir riesgos probables, consecuencias y contraindicaciones.",
+            "Solo debe proporcionarse si el paciente lo solicita.",
+            "No es obligatoria, salvo en procedimientos quirúrgicos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley obliga a que la información sobre riesgos incluya consecuencias relevantes, riesgos probables y contraindicaciones, para garantizar decisiones informadas."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué sucede si un paciente incapacitado no tiene representante legal?",
+        "opciones": [
+            "El consentimiento lo otorgan personas vinculadas por razones familiares o de hecho.",
+            "El médico decide por el paciente sin necesidad de consultar a terceros.",
+            "El juez debe designar un representante legal de inmediato.",
+            "El consentimiento no es necesario en este caso."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Si un paciente incapacitado carece de representante legal, el consentimiento lo pueden otorgar las personas vinculadas a él por razones familiares o de hecho."
+    },
+    {
+        "enunciado": "¿Qué papel tiene el médico responsable en la garantía del derecho a la información del paciente según la Ley 41/2002?",
+        "opciones": [
+            "Delegar completamente la información en otros profesionales.",
+            "Es el principal interlocutor y responsable de garantizar la información adecuada al paciente.",
+            "Solo interviene si el paciente solicita información adicional.",
+            "No tiene ninguna obligación específica sobre la información."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El médico responsable actúa como el principal interlocutor del paciente y debe garantizar que reciba la información adecuada sobre su proceso asistencial."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el consentimiento informado en menores emancipados?",
+        "opciones": [
+            "No tienen derecho a prestar consentimiento informado.",
+            "Pueden otorgar consentimiento, salvo en casos de grave riesgo para su salud.",
+            "El consentimiento siempre debe ser autorizado por un representante legal.",
+            "Solo pueden dar consentimiento si lo autoriza un juez."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los menores emancipados pueden prestar consentimiento informado, excepto en casos de grave riesgo para su salud, donde será necesario el de su representante legal."
+    },
+    {
+        "enunciado": "¿Qué documento emite el médico al finalizar el proceso asistencial según la Ley 41/2002?",
+        "opciones": [
+            "Un informe de alta que incluye resumen clínico, diagnóstico y recomendaciones.",
+            "Un certificado de salud general del paciente.",
+            "Un informe epidemiológico obligatorio.",
+            "Una nota breve sin requerimientos específicos."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El médico debe emitir un informe de alta al finalizar el proceso asistencial, con un resumen clínico, diagnóstico y recomendaciones terapéuticas."
+    },
+    {
+        "enunciado": "¿Qué límites establece la Ley 41/2002 sobre las anotaciones subjetivas de los profesionales en la historia clínica?",
+        "opciones": [
+            "No pueden ser accedidas por el paciente bajo ninguna circunstancia.",
+            "El paciente tiene derecho a acceder a ellas sin restricciones.",
+            "Los profesionales pueden reservar estas anotaciones si lo consideran necesario.",
+            "Deben ser eliminadas tras la finalización del proceso asistencial."
+        ],
+        "correcta": 2,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los profesionales tienen derecho a reservar sus anotaciones subjetivas en la historia clínica si lo consideran necesario, limitando el acceso del paciente a estas."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué sucede si las instrucciones previas de un paciente son contrarias a la 'lex artis'?",
+        "opciones": [
+            "Deben cumplirse en cualquier caso.",
+            "No serán aplicadas y se dejará constancia de ello en la historia clínica.",
+            "Se consultará al representante legal del paciente para decidir.",
+            "El médico debe ajustarlas a las circunstancias clínicas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Las instrucciones previas contrarias a la 'lex artis' no serán aplicadas, y esta decisión debe ser razonada y documentada en la historia clínica."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 41/2002 como consentimiento informado?",
+        "opciones": [
+            "La autorización verbal o escrita del médico para actuar en beneficio del paciente.",
+            "La conformidad libre, voluntaria y consciente del paciente tras recibir información adecuada.",
+            "La obligación del paciente de aceptar cualquier intervención propuesta por el médico.",
+            "La aceptación tácita del paciente en caso de urgencia médica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento informado es la conformidad libre, voluntaria y consciente del paciente, obtenida tras recibir información adecuada sobre el procedimiento."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿quién debe garantizar el acceso a la historia clínica del paciente?",
+        "opciones": [
+            "El médico tratante únicamente.",
+            "El centro sanitario mediante procedimientos adecuados.",
+            "El representante legal del paciente.",
+            "No se regula el acceso a la historia clínica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los centros sanitarios son responsables de garantizar el acceso a la historia clínica, estableciendo los procedimientos necesarios para ello."
+    },
+    {
+        "enunciado": "¿Qué debe incluir el consentimiento informado por escrito según la Ley 41/2002?",
+        "opciones": [
+            "Solo los beneficios del procedimiento.",
+            "Los riesgos, contraindicaciones y consecuencias del procedimiento.",
+            "Un resumen de las opciones disponibles sin detalles.",
+            "La firma del médico tratante exclusivamente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento informado por escrito debe incluir los riesgos, contraindicaciones y consecuencias del procedimiento, garantizando información completa al paciente."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 41/2002 sobre el derecho del paciente a la información en caso de incapacidad?",
+        "opciones": [
+            "No tiene derecho a ser informado.",
+            "Debe ser informado de manera adecuada a sus posibilidades de comprensión.",
+            "La información será exclusivamente para sus familiares.",
+            "El médico decide si es necesario informar al paciente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Incluso en caso de incapacidad, el paciente debe ser informado de manera adecuada a sus capacidades, cumpliendo con la normativa establecida."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre la confidencialidad de los datos clínicos en centros sanitarios?",
+        "opciones": [
+            "Los datos clínicos pueden compartirse libremente entre profesionales del centro.",
+            "Se deben adoptar medidas para garantizar su confidencialidad y acceso solo autorizado.",
+            "Solo el director del centro puede autorizar el acceso a los datos clínicos.",
+            "La confidencialidad es opcional según el criterio del centro."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los centros sanitarios están obligados a garantizar la confidencialidad de los datos clínicos, permitiendo su acceso únicamente a personas autorizadas."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué debe hacer el médico en caso de riesgo inmediato grave para el paciente y falta de consentimiento?",
+        "opciones": [
+            "Esperar a obtener el consentimiento formal.",
+            "Actuar para proteger la integridad del paciente, informando posteriormente a los familiares.",
+            "Derivar al paciente a otro centro sanitario.",
+            "No realizar ninguna intervención sin el consentimiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "En casos de riesgo inmediato grave, el médico puede actuar sin consentimiento para proteger al paciente, informando luego a sus familiares."
+    },
+    {
+        "enunciado": "¿Qué derecho establece la Ley 41/2002 respecto a la elección de médico y centro?",
+        "opciones": [
+            "Los pacientes no pueden elegir médico ni centro.",
+            "Los pacientes tienen derecho a información previa para elegir médico y centro según lo dispuesto por los servicios de salud.",
+            "La elección de médico está reservada para pacientes con enfermedades graves.",
+            "Solo se permite la elección de centro en casos de emergencia."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley garantiza a los pacientes el derecho a recibir información previa para tomar decisiones informadas sobre la elección de médico y centro."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 41/2002 sobre la revocación de las instrucciones previas?",
+        "opciones": [
+            "Son irrevocables una vez firmadas.",
+            "Pueden revocarse libremente en cualquier momento por el paciente.",
+            "Solo pueden ser revocadas por decisión judicial.",
+            "Se requiere la autorización del representante legal para su revocación."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Las instrucciones previas pueden ser revocadas libremente por el paciente en cualquier momento, dejando constancia por escrito de su decisión."
+    },
+    {
+        "enunciado": "¿Qué garantiza la Ley 41/2002 respecto a la calidad de la información proporcionada al paciente?",
+        "opciones": [
+            "Debe ser comprensible, adecuada a sus necesidades y verdadera.",
+            "Debe ser técnica y destinada únicamente a profesionales.",
+            "Solo debe incluir información relevante sobre enfermedades graves.",
+            "Debe ser entregada exclusivamente en formato escrito."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que la información al paciente debe ser comprensible, adecuada a sus necesidades y siempre veraz."
+    },
+    {
+        "enunciado": "¿Qué sucede si un paciente fallecido prohíbe expresamente el acceso a su historia clínica?",
+        "opciones": [
+            "Los familiares pueden acceder igualmente a toda la información.",
+            "No se permite el acceso a su historia clínica, salvo que sea necesario para proteger la salud de terceros.",
+            "La historia clínica se destruye tras su fallecimiento.",
+            "El acceso está permitido solo para fines educativos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Si el fallecido prohibió el acceso, no se permitirá salvo en casos donde sea necesario proteger la salud de terceros, según lo estipulado por la Ley."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el personal administrativo en relación con la historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Puede acceder a todos los datos clínicos del paciente sin restricciones.",
+            "Solo puede acceder a los datos relacionados con sus funciones administrativas.",
+            "Debe aprobar el uso de los datos clínicos por parte de los médicos.",
+            "No tiene permitido acceder a la historia clínica bajo ninguna circunstancia."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El personal administrativo solo puede acceder a los datos de la historia clínica necesarios para sus funciones específicas, garantizando la confidencialidad."
+    },
+    {
+        "enunciado": "¿Qué principio orienta la Ley 41/2002 respecto a la información sanitaria?",
+        "opciones": [
+            "Debe ser general y aplicable a todos los pacientes de manera uniforme.",
+            "Debe ser personalizada, comprensible y adecuada a las necesidades del paciente.",
+            "Solo debe incluir información técnica de los procedimientos médicos.",
+            "Se limita a los datos básicos requeridos por las instituciones sanitarias."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La información sanitaria debe ser personalizada, comprensible y adaptada a las necesidades individuales del paciente."
+    },
+    {
+        "enunciado": "¿Qué derechos establece la Ley 41/2002 en relación con la documentación clínica tras la finalización de un proceso asistencial?",
+        "opciones": [
+            "El paciente tiene derecho a obtener un informe de alta con un resumen de su historial y recomendaciones.",
+            "No se requiere ningún documento específico tras el alta médica.",
+            "El paciente solo puede solicitar un resumen de la atención si lo necesita para otro centro.",
+            "El informe de alta es opcional y queda a discreción del médico."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Tras finalizar el proceso asistencial, el paciente tiene derecho a recibir un informe de alta con un resumen clínico y recomendaciones terapéuticas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 respecto al uso de los datos clínicos para investigación científica?",
+        "opciones": [
+            "Pueden utilizarse libremente siempre que sea para fines científicos.",
+            "Deben garantizarse el anonimato y el consentimiento del paciente, salvo excepciones legales.",
+            "El uso está limitado a profesionales del centro sanitario.",
+            "No se permite el uso de datos clínicos para investigación en ningún caso."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El uso de datos clínicos para investigación científica debe garantizar el anonimato del paciente, salvo que este consienta explícitamente lo contrario."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué debe hacerse si un paciente manifiesta su voluntad de no ser informado sobre su salud?",
+        "opciones": [
+            "Debe respetarse su decisión y documentarse en la historia clínica.",
+            "No se puede aceptar su renuncia a la información.",
+            "La información debe proporcionarse obligatoriamente a los familiares del paciente.",
+            "El médico debe decidir si la solicitud es válida."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que la voluntad del paciente de no ser informado debe respetarse y quedar registrada en su historia clínica."
+    },
+    {
+        "enunciado": "¿Qué tipo de consentimiento es necesario para intervenciones quirúrgicas según la Ley 41/2002?",
+        "opciones": [
+            "Consentimiento verbal, con registro opcional en la historia clínica.",
+            "Consentimiento por escrito, con información suficiente sobre los riesgos y procedimientos.",
+            "Consentimiento tácito mediante la firma de un formulario estándar.",
+            "No es necesario ningún consentimiento específico."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Para intervenciones quirúrgicas, la Ley exige consentimiento informado por escrito, incluyendo información detallada sobre riesgos y procedimientos."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen los centros sanitarios en la conservación de historias clínicas según la Ley 41/2002?",
+        "opciones": [
+            "Deben conservarlas durante un mínimo de cinco años y garantizar su seguridad.",
+            "Pueden destruirlas tras el alta del paciente.",
+            "Solo deben conservarlas en formato digital.",
+            "No tienen obligaciones específicas de conservación."
+        ],
+        "correcta": 0,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los centros sanitarios tienen la responsabilidad de conservar las historias clínicas durante al menos cinco años, garantizando su seguridad."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué debe garantizar el médico antes de obtener el consentimiento informado?",
+        "opciones": [
+            "Que el paciente firme el documento sin necesidad de explicaciones.",
+            "Que el paciente reciba información comprensible sobre riesgos, beneficios y alternativas.",
+            "Que los familiares del paciente estén presentes durante la firma.",
+            "Que el paciente haya consultado previamente con otro profesional."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El médico debe garantizar que el paciente reciba información clara y comprensible sobre los riesgos, beneficios y alternativas antes de obtener su consentimiento informado."
+    },
+    {
+        "enunciado": "¿Qué especifica la Ley 41/2002 sobre el derecho de acceso a la historia clínica por parte de los familiares del paciente fallecido?",
+        "opciones": [
+            "Tienen acceso completo sin restricciones.",
+            "Pueden acceder, salvo que el fallecido lo haya prohibido expresamente.",
+            "El acceso está permitido únicamente con autorización judicial.",
+            "No se permite el acceso bajo ninguna circunstancia."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los familiares pueden acceder a la historia clínica del fallecido, salvo que este haya prohibido expresamente dicho acceso."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 41/2002 respecto al uso de datos clínicos con fines epidemiológicos?",
+        "opciones": [
+            "Prohíbe totalmente el uso de datos clínicos para estos fines.",
+            "Permite el acceso solo con anonimato garantizado y fines de salud pública.",
+            "El acceso es libre para cualquier institución de salud.",
+            "Solo los médicos tratantes pueden utilizar estos datos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El uso de datos clínicos con fines epidemiológicos está permitido, siempre que se garantice el anonimato y se utilicen para proteger la salud pública."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 41/2002 sobre la decisión del paciente de negarse al tratamiento?",
+        "opciones": [
+            "No puede negarse a ningún tratamiento recomendado por el médico.",
+            "Debe firmar un documento que acredite su negativa al tratamiento.",
+            "Solo puede negarse a tratamientos experimentales.",
+            "La negativa al tratamiento no requiere documentación formal."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El paciente puede negarse al tratamiento, pero la Ley exige que esta decisión quede documentada mediante un documento firmado."
+    },
+    {
+        "enunciado": "¿Qué debe incluir la historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Solo los diagnósticos finales y los tratamientos aplicados.",
+            "Toda la información relevante sobre el estado de salud y evolución del paciente.",
+            "Únicamente los datos personales y el consentimiento informado.",
+            "Información sobre el estado de salud del paciente en los últimos cinco años."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica debe incluir toda la información relevante sobre el estado de salud del paciente y su evolución a lo largo del proceso asistencial."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué límite se establece al acceso de la historia clínica por profesionales externos?",
+        "opciones": [
+            "No existe límite siempre que sea para fines médicos.",
+            "El acceso está restringido a los casos autorizados legalmente o con el consentimiento del paciente.",
+            "Los profesionales externos tienen libre acceso con la supervisión del médico tratante.",
+            "El acceso está permitido solo en centros públicos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a la historia clínica por parte de profesionales externos requiere autorización legal o el consentimiento expreso del paciente."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 41/2002 sobre el acceso a datos clínicos para prevenir riesgos graves de salud pública?",
+        "opciones": [
+            "Prohíbe el uso de datos identificativos en todos los casos.",
+            "Permite el acceso por profesionales sanitarios con obligación de confidencialidad.",
+            "El acceso está limitado exclusivamente a jueces y fiscales.",
+            "Requiere el consentimiento previo de cada paciente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Para prevenir riesgos graves de salud pública, los datos clínicos pueden ser accedidos por profesionales sanitarios con obligación de mantener la confidencialidad."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre las obligaciones de los profesionales sanitarios en relación con la información clínica?",
+        "opciones": [
+            "No tienen obligación de informar si el paciente no lo solicita.",
+            "Deben garantizar que el paciente reciba información adecuada y comprensible sobre su estado y tratamientos.",
+            "Solo están obligados a proporcionar información a los familiares del paciente.",
+            "Pueden delegar completamente esta tarea en el personal administrativo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley obliga a los profesionales sanitarios a proporcionar información adecuada y comprensible al paciente sobre su estado y los tratamientos propuestos."
+    },
+    {
+        "enunciado": "¿Qué derecho tiene el paciente según la Ley 41/2002 respecto a las anotaciones subjetivas de los profesionales en la historia clínica?",
+        "opciones": [
+            "El paciente puede acceder libremente a estas anotaciones.",
+            "El acceso puede ser limitado por los profesionales si lo consideran necesario.",
+            "Las anotaciones deben ser eliminadas tras la consulta médica.",
+            "El paciente no tiene derecho a acceder a ninguna anotación en la historia clínica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite que los profesionales limiten el acceso del paciente a las anotaciones subjetivas cuando lo consideren necesario."
+    },
+    {
+        "enunciado": "¿Qué información adicional debe incluirse en la historia clínica en casos de violencia hacia menores según la Ley 41/2002?",
+        "opciones": [
+            "No se requiere información adicional específica.",
+            "Debe especificarse la circunstancia de violencia en la documentación clínica.",
+            "Solo debe incluirse si lo solicita la autoridad judicial.",
+            "La información debe registrarse por separado de la historia clínica general."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "En casos de violencia hacia menores, la Ley exige que esta circunstancia quede registrada en la historia clínica del paciente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 respecto a los menores de edad que puedan comprender la situación médica?",
+        "opciones": [
+            "No tienen derecho a tomar decisiones sobre su tratamiento.",
+            "Deben ser escuchados, aunque la decisión final recaiga en sus representantes legales.",
+            "Siempre deben ser representados por un adulto, independientemente de su capacidad de comprensión.",
+            "Pueden decidir por sí mismos si están acompañados de un familiar."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley establece que los menores con capacidad de comprensión deben ser escuchados antes de que sus representantes legales tomen una decisión."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué información tiene derecho a recibir un paciente en el Sistema Nacional de Salud?",
+        "opciones": [
+            "Solo información sobre los servicios a los que tiene acceso.",
+            "Información sobre servicios, calidad, requisitos de acceso y prestaciones disponibles.",
+            "Información únicamente sobre servicios de atención primaria.",
+            "Solo información general sobre las normativas de salud."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El paciente tiene derecho a recibir información completa sobre los servicios disponibles, su calidad, requisitos de acceso y prestaciones ofrecidas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el respeto a la voluntad del paciente en las instrucciones previas?",
+        "opciones": [
+            "Deben cumplirse siempre, independientemente de la situación clínica.",
+            "Solo se aplican si son compatibles con la 'lex artis' y el ordenamiento jurídico.",
+            "Pueden ser ignoradas si lo decide el médico responsable.",
+            "Requieren aprobación judicial antes de aplicarse."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Las instrucciones previas deben cumplirse, salvo que sean contrarias a la 'lex artis', al ordenamiento jurídico o no se ajusten al supuesto previsto por el paciente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el derecho del paciente a decidir libremente sobre las opciones clínicas disponibles?",
+        "opciones": [
+            "El médico debe tomar la decisión final sin consultar al paciente.",
+            "El paciente tiene derecho a decidir libremente tras recibir información adecuada.",
+            "Las decisiones del paciente deben ser aprobadas por un familiar cercano.",
+            "Solo puede decidir si firma un consentimiento general al inicio del tratamiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley reconoce el derecho del paciente a decidir libremente sobre las opciones clínicas disponibles tras recibir información adecuada."
+    },
+    {
+        "enunciado": "¿En qué casos permite la Ley 41/2002 que un menor de edad preste consentimiento informado?",
+        "opciones": [
+            "En ningún caso, siempre es necesario el consentimiento de sus representantes legales.",
+            "Cuando sea mayor de 16 años o esté emancipado, salvo actuaciones de grave riesgo.",
+            "Solo si tiene autorización judicial previa.",
+            "Únicamente si el médico lo considera capaz de decidir."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley permite que menores mayores de 16 años o emancipados presten consentimiento informado, salvo en casos de grave riesgo para su salud."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tiene el médico respecto a la información y consentimiento en intervenciones quirúrgicas?",
+        "opciones": [
+            "Debe delegar la obtención del consentimiento en el personal administrativo.",
+            "Debe proporcionar información completa y obtener el consentimiento por escrito.",
+            "Solo necesita informar verbalmente al paciente.",
+            "No es necesario obtener consentimiento específico para intervenciones quirúrgicas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El médico es responsable de proporcionar información completa y obtener el consentimiento informado por escrito para intervenciones quirúrgicas."
+    },
+    {
+        "enunciado": "¿Qué menciona la Ley 41/2002 sobre la limitación del derecho a la información del paciente?",
+        "opciones": [
+            "No existen limitaciones, siempre debe informarse al paciente.",
+            "Puede limitarse en caso de necesidad terapéutica debidamente acreditada.",
+            "La información puede ser omitida si el médico lo decide.",
+            "Se limita únicamente en casos de investigaciones clínicas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "El derecho a la información puede limitarse por necesidad terapéutica si su conocimiento puede perjudicar gravemente la salud del paciente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre el acceso de un paciente fallecido a su historia clínica?",
+        "opciones": [
+            "No se permite el acceso bajo ninguna circunstancia.",
+            "Los familiares pueden acceder a la historia clínica salvo que el fallecido lo haya prohibido.",
+            "Solo el médico responsable puede acceder tras el fallecimiento.",
+            "Los datos se destruyen automáticamente tras el fallecimiento del paciente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Los familiares del paciente fallecido pueden acceder a su historia clínica, excepto si el fallecido dejó una prohibición expresa al respecto."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué información debe proporcionarse al paciente antes de una intervención quirúrgica?",
+        "opciones": [
+            "Solo los beneficios potenciales del procedimiento.",
+            "Riesgos probables, contraindicaciones y posibles consecuencias de la intervención.",
+            "Una descripción breve del procedimiento sin detallar riesgos.",
+            "No es necesario proporcionar información específica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Antes de una intervención quirúrgica, el paciente debe recibir información completa sobre los riesgos, contraindicaciones y posibles consecuencias."
+    },
+    {
+        "enunciado": "¿Qué límite establece la Ley 41/2002 sobre la conservación de datos clínicos en casos de estudios epidemiológicos?",
+        "opciones": [
+            "Los datos solo pueden ser usados con el consentimiento explícito del paciente.",
+            "Deben garantizarse el anonimato y la confidencialidad de los datos personales.",
+            "La conservación está prohibida en estos casos.",
+            "Se permite la conservación sin restricciones por parte de los centros sanitarios."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "En estudios epidemiológicos, la Ley exige que se garanticen el anonimato y la confidencialidad de los datos personales del paciente."
+    },
+    {
+        "enunciado": "¿Qué regula la Ley 41/2002 sobre la creación de sistemas compatibles de historias clínicas?",
+        "opciones": [
+            "Es opcional para cada Comunidad Autónoma.",
+            "Promueve la compatibilidad de historias clínicas para evitar duplicidades y mejorar la atención.",
+            "Solo aplica a hospitales públicos en el ámbito regional.",
+            "No menciona la necesidad de compatibilidad entre historias clínicas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La Ley fomenta la compatibilidad de historias clínicas para facilitar el uso compartido de información entre centros y mejorar la atención al paciente."
+    },
+    {
+        "enunciado": "¿Qué sucede si las instrucciones previas de un paciente contradicen la 'lex artis' médica?",
+        "opciones": [
+            "Deben ser cumplidas en cualquier circunstancia.",
+            "No serán aplicadas y se dejará constancia razonada en la historia clínica.",
+            "Se requiere una consulta judicial para decidir su aplicación.",
+            "El médico debe modificarlas para adaptarlas a la normativa."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "Las instrucciones previas contrarias a la 'lex artis' no serán aplicadas, y esta decisión debe ser documentada en la historia clínica del paciente."
+    },
+    {
+        "enunciado": "¿Qué obliga la Ley 41/2002 respecto al contenido de las historias clínicas?",
+        "opciones": [
+            "A incluir únicamente información sobre diagnósticos finales.",
+            "A registrar toda información relevante, desde anamnesis hasta la evolución clínica.",
+            "A documentar únicamente los procedimientos quirúrgicos realizados.",
+            "A mantener solo los datos personales del paciente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica debe incluir información detallada y relevante sobre la anamnesis, evolución clínica y procedimientos realizados durante la atención."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿en qué casos se requiere que el consentimiento informado sea prestado por escrito?",
+        "opciones": [
+            "En cualquier actuación sanitaria, sin excepción.",
+            "Solo en las intervenciones quirúrgicas y procedimientos con riesgos significativos.",
+            "Únicamente para los procedimientos invasivos y las intervenciones de investigación.",
+            "Para las intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasores o con riesgos notables."
+        ],
+        "correcta": 3,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento informado debe ser por escrito en casos de intervenciones quirúrgicas, procedimientos invasores o con riesgos significativos, como se establece en el artículo 8.2 de la Ley 41/2002."
+    },
+    {
+        "enunciado": "¿Qué principio orienta la actuación sanitaria según el artículo 2 de la Ley 41/2002?",
+        "opciones": [
+            "La eficacia en el tratamiento médico.",
+            "La dignidad, autonomía de la voluntad e intimidad del paciente.",
+            "La rapidez en la atención asistencial.",
+            "La uniformidad de procedimientos en el Sistema Nacional de Salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 2 establece que la dignidad de la persona, el respeto a su autonomía y a su intimidad son principios fundamentales en la actuación sanitaria."
+    },
+    {
+        "enunciado": "¿Cuál es la finalidad principal de la historia clínica según la Ley 41/2002?",
+        "opciones": [
+            "Servir como base para investigaciones médicas.",
+            "Garantizar la asistencia adecuada al paciente.",
+            "Facilitar la gestión administrativa en los centros de salud.",
+            "Evaluar la calidad de los servicios sanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica tiene como finalidad principal garantizar una adecuada asistencia al paciente, como se detalla en el artículo 16.1."
+    },
+    {
+        "enunciado": "¿En qué situación puede el médico limitar el derecho del paciente a la información según el artículo 5.4 de la Ley 41/2002?",
+        "opciones": [
+            "Cuando el paciente no lo solicita expresamente.",
+            "En caso de interés público o requerimientos judiciales.",
+            "Cuando el conocimiento pueda perjudicar gravemente la salud del paciente.",
+            "Si el paciente está incapacitado legalmente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 5.4 regula que el derecho a la información puede limitarse por necesidad terapéutica si el conocimiento puede perjudicar gravemente la salud del paciente."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 18 de la Ley 41/2002, ¿puede un paciente fallecido restringir el acceso a su historia clínica?",
+        "opciones": [
+            "No, la historia clínica es pública tras el fallecimiento.",
+            "Sí, mediante una prohibición expresa documentada en vida.",
+            "No, los familiares tienen acceso completo a la historia clínica.",
+            "Sí, pero solo si el médico responsable lo considera necesario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18.4 establece que un paciente puede prohibir expresamente en vida el acceso a su historia clínica tras su fallecimiento."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué derechos tiene el paciente en relación con las anotaciones subjetivas de los profesionales en la historia clínica?",
+        "opciones": [
+            "Puede acceder a ellas sin restricciones.",
+            "Tiene acceso limitado, salvo que el profesional las justifique.",
+            "No tiene derecho de acceso a las anotaciones subjetivas.",
+            "Puede solicitarlas mediante un procedimiento judicial."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18.3 señala que los profesionales pueden oponer reserva a las anotaciones subjetivas frente al derecho de acceso del paciente."
+    },
+    {
+        "enunciado": "¿Qué documento permite a una persona anticipar su voluntad sobre cuidados o tratamientos de salud, según la Ley 41/2002?",
+        "opciones": [
+            "El informe clínico de alta.",
+            "Las instrucciones previas.",
+            "El consentimiento informado.",
+            "El certificado médico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 regula las instrucciones previas como el documento donde una persona anticipa su voluntad respecto a cuidados o tratamientos futuros."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 41/2002 sobre la confidencialidad de los datos de salud?",
+        "opciones": [
+            "Los datos son confidenciales solo en casos de tratamientos invasivos.",
+            "La confidencialidad está limitada a centros públicos.",
+            "Se debe garantizar la confidencialidad de los datos en todos los casos.",
+            "No es obligatorio garantizar la confidencialidad si no hay legislación autonómica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 7.1 establece que toda persona tiene derecho a la confidencialidad de los datos referentes a su salud."
+    },
+    {
+        "enunciado": "Según el artículo 21 de la Ley 41/2002, ¿qué sucede si un paciente no acepta firmar el alta voluntaria?",
+        "opciones": [
+            "Debe abandonar el centro de inmediato.",
+            "Se procede a emitir automáticamente el alta forzosa.",
+            "El caso se pone en conocimiento del juez.",
+            "El paciente permanece internado hasta que cambie de opinión."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Si el paciente no acepta el alta voluntaria, el artículo 21.2 establece que la dirección del centro puede poner el caso en conocimiento del juez para confirmación o revocación."
+    },
+    {
+        "enunciado": "¿Qué derechos tiene un menor emancipado respecto al consentimiento informado según la Ley 41/2002?",
+        "opciones": [
+            "Puede otorgar su consentimiento como un adulto en todos los casos.",
+            "Debe siempre contar con autorización de su representante legal.",
+            "No puede tomar decisiones en intervenciones de alto riesgo.",
+            "Tiene los mismos derechos que un menor no emancipado."
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9.4 regula que un menor emancipado tiene los mismos derechos que un adulto para otorgar su consentimiento informado."
+    },
+    {
+        "enunciado": "Según el artículo 3 de la Ley 41/2002, ¿qué se entiende por 'centro sanitario'?",
+        "opciones": [
+            "El lugar físico donde se almacenan las historias clínicas de los pacientes.",
+            "El conjunto organizado de profesionales, instalaciones y medios técnicos que presta servicios para cuidar la salud de los pacientes.",
+            "Cualquier edificio donde se ofrezcan servicios médicos generales.",
+            "Un centro de atención primaria gestionado por las Comunidades Autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define 'centro sanitario' como el conjunto organizado de profesionales, instalaciones y medios técnicos que realiza actividades y presta servicios para cuidar la salud de los pacientes."
+    },
+    {
+        "enunciado": "¿Qué incluye la definición de 'historia clínica' según el artículo 3 de la Ley 41/2002?",
+        "opciones": [
+            "Solo los datos personales del paciente y su diagnóstico.",
+            "Los documentos con datos, valoraciones e informaciones sobre la situación y evolución clínica del paciente durante un proceso asistencial.",
+            "La información médica generada exclusivamente durante procedimientos quirúrgicos.",
+            "La relación entre los pacientes y sus médicos responsables."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica, según el artículo 3, incluye los documentos con datos, valoraciones e informaciones sobre la situación y evolución clínica del paciente a lo largo del proceso asistencial."
+    },
+    {
+        "enunciado": "¿Qué es el 'consentimiento informado' según el artículo 3 de la Ley 41/2002?",
+        "opciones": [
+            "La autorización verbal de un paciente para realizar una intervención.",
+            "La conformidad libre, voluntaria y consciente de un paciente tras recibir información adecuada sobre una actuación que afecta a su salud.",
+            "Un formulario estandarizado que deben firmar todos los pacientes antes de cualquier procedimiento médico.",
+            "Un documento que solo se exige en tratamientos experimentales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el consentimiento informado como la conformidad libre, voluntaria y consciente de un paciente tras recibir la información adecuada sobre una actuación que afecta a su salud."
+    },
+    {
+        "enunciado": "¿Cómo se define 'documentación clínica' en el artículo 3 de la Ley 41/2002?",
+        "opciones": [
+            "Los documentos administrativos relacionados con la gestión sanitaria.",
+            "Los registros relacionados exclusivamente con intervenciones quirúrgicas.",
+            "El soporte que contiene datos e informaciones de carácter asistencial.",
+            "Los informes médicos emitidos en hospitales públicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 describe la documentación clínica como el soporte que contiene un conjunto de datos e informaciones de carácter asistencial, sin importar su tipo o clase."
+    },
+    {
+        "enunciado": "Según el artículo 3, ¿qué se entiende por 'usuario'?",
+        "opciones": [
+            "La persona que recibe atención sanitaria hospitalaria.",
+            "La persona que utiliza los servicios sanitarios de educación, prevención o información de salud.",
+            "Cualquier individuo que solicite un informe médico en un centro sanitario.",
+            "Solo los pacientes atendidos en el Sistema Nacional de Salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define 'usuario' como la persona que utiliza los servicios sanitarios de educación, promoción de la salud, prevención de enfermedades o información sanitaria."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 3 de la Ley 41/2002, ¿qué se considera 'libre elección'?",
+        "opciones": [
+            "La capacidad del médico de decidir el mejor tratamiento para el paciente.",
+            "La facultad del paciente de elegir entre diferentes alternativas asistenciales, médicos o centros según las condiciones establecidas.",
+            "La posibilidad de solicitar una segunda opinión médica sin restricciones.",
+            "El derecho de los familiares a opinar sobre los tratamientos propuestos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define la 'libre elección' como la facultad del paciente o usuario de optar libre y voluntariamente entre alternativas asistenciales, facultativos o centros, según los términos establecidos."
+    },
+    {
+        "enunciado": "¿Cómo se define al 'médico responsable' según el artículo 3 de la Ley 41/2002?",
+        "opciones": [
+            "El médico con mayor antigüedad en el centro asistencial.",
+            "El profesional encargado de coordinar la información y asistencia sanitaria del paciente.",
+            "El médico que realiza los procedimientos quirúrgicos del paciente.",
+            "El facultativo designado por la dirección del centro para cada intervención médica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El 'médico responsable', según el artículo 3, es el profesional encargado de coordinar la información y asistencia sanitaria del paciente, siendo su principal interlocutor durante el proceso asistencial."
+    },
+    {
+        "enunciado": "¿Qué se entiende por 'intervención en el ámbito de la sanidad' según el artículo 3?",
+        "opciones": [
+            "Solo los procedimientos quirúrgicos realizados en hospitales.",
+            "Cualquier actuación con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación.",
+            "Las actividades administrativas relacionadas con la atención sanitaria.",
+            "Las consultas médicas realizadas en atención primaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 establece que una intervención en el ámbito de la sanidad incluye cualquier actuación con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación."
+    },
+    {
+        "enunciado": "Según el artículo 3, ¿qué se considera un 'informe de alta médica'?",
+        "opciones": [
+            "Un certificado que justifica la ausencia laboral por enfermedad.",
+            "El documento emitido al finalizar el proceso asistencial, que incluye datos del paciente, diagnóstico y recomendaciones terapéuticas.",
+            "Una constancia del alta voluntaria firmada por el paciente.",
+            "Un resumen estadístico de las actividades médicas realizadas en el centro."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el informe de alta médica como el documento emitido al finalizar el proceso asistencial, que incluye datos del paciente, diagnóstico y recomendaciones terapéuticas."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 3, ¿qué es 'información clínica'?",
+        "opciones": [
+            "Los datos relacionados únicamente con procedimientos quirúrgicos.",
+            "Cualquier dato que permita adquirir o ampliar conocimientos sobre la salud de una persona.",
+            "La información proporcionada exclusivamente por el médico responsable.",
+            "Los datos estadísticos utilizados en estudios epidemiológicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Según el artículo 3, la información clínica se refiere a cualquier dato que permita adquirir o ampliar conocimientos sobre el estado de salud de una persona."
+    },
+    {
+        "enunciado": "Según el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué se entiende por 'centro sanitario'?",
+        "opciones": [
+            "El lugar físico donde se almacenan las historias clínicas de los pacientes.",
+            "El conjunto organizado de profesionales, instalaciones y medios técnicos que presta servicios para cuidar la salud de los pacientes.",
+            "Cualquier edificio donde se ofrezcan servicios médicos generales.",
+            "Un centro de atención primaria gestionado por las Comunidades Autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 define 'centro sanitario' como el conjunto organizado de profesionales, instalaciones y medios técnicos que realiza actividades y presta servicios para cuidar la salud de los pacientes."
+    },
+    {
+        "enunciado": "En la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo se define la 'historia clínica' en el artículo 3?",
+        "opciones": [
+            "Como un conjunto de datos personales y médicos de los pacientes organizados en un archivo digital.",
+            "Como el conjunto de documentos con datos, valoraciones e informaciones sobre la situación y evolución clínica del paciente durante un proceso asistencial.",
+            "Como un registro de los tratamientos quirúrgicos realizados en un centro sanitario.",
+            "Como la documentación administrativa relacionada con la atención médica del paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica, según el artículo 3 de la Ley 41/2002, se define como el conjunto de documentos con datos, valoraciones e informaciones sobre la situación y evolución clínica del paciente a lo largo del proceso asistencial."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué se entiende por 'consentimiento informado'?",
+        "opciones": [
+            "La autorización verbal de un paciente para realizar cualquier intervención médica.",
+            "La conformidad libre, voluntaria y consciente de un paciente después de recibir información adecuada para que se realice una actuación que afecta a su salud.",
+            "Un formulario estandarizado que los pacientes firman antes de cualquier tratamiento invasivo.",
+            "Un documento legalmente exigido solo en intervenciones quirúrgicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 define el 'consentimiento informado' como la conformidad libre, voluntaria y consciente de un paciente, manifestada tras recibir la información adecuada para cualquier actuación que afecte a su salud."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué incluye la 'documentación clínica' según el artículo 3?",
+        "opciones": [
+            "Solo los informes médicos emitidos por hospitales públicos.",
+            "Los soportes con datos e informaciones de carácter asistencial, cualquiera sea su tipo o clase.",
+            "Las estadísticas médicas utilizadas en estudios epidemiológicos.",
+            "Los registros administrativos de los centros sanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 establece que la 'documentación clínica' incluye los soportes con datos e informaciones de carácter asistencial, sin importar su tipo o clase."
+    },
+    {
+        "enunciado": "En el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo se define al 'usuario'?",
+        "opciones": [
+            "Cualquier persona que utiliza los servicios sanitarios exclusivamente en hospitales.",
+            "El paciente que requiere atención médica urgente en un centro sanitario.",
+            "La persona que utiliza servicios sanitarios de educación, prevención de enfermedades o promoción de la salud.",
+            "Cualquier persona con acceso a los servicios de un médico general."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 define al 'usuario' como la persona que utiliza servicios sanitarios relacionados con la educación, la promoción de la salud y la prevención de enfermedades, entre otros."
+    },
+    {
+        "enunciado": "¿Qué significa 'libre elección' según el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica?",
+        "opciones": [
+            "El derecho del paciente a decidir sobre su tratamiento sin recibir información previa.",
+            "La capacidad del paciente para elegir entre varias alternativas asistenciales, médicos o centros, dentro de las condiciones establecidas.",
+            "La libertad del paciente para solicitar la asistencia de un médico externo al sistema sanitario público.",
+            "El derecho del paciente a elegir su tratamiento sin tener en cuenta las recomendaciones médicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 define la 'libre elección' como la facultad del paciente o usuario para optar libremente entre alternativas asistenciales, médicos o centros, según los términos y condiciones establecidos."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿quién es el 'médico responsable'?",
+        "opciones": [
+            "El médico con mayor rango jerárquico en el centro sanitario.",
+            "El profesional encargado de coordinar la información y asistencia sanitaria del paciente durante el proceso asistencial.",
+            "El facultativo que realiza la cirugía principal en el caso de intervenciones quirúrgicas.",
+            "El médico designado por la familia del paciente para supervisar su atención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 establece que el 'médico responsable' es el profesional encargado de coordinar la información y la asistencia sanitaria del paciente, actuando como interlocutor principal."
+    },
+    {
+        "enunciado": "En el artículo 3 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo se define 'intervención en el ámbito de la sanidad'?",
+        "opciones": [
+            "Una actuación con fines exclusivamente quirúrgicos o de diagnóstico.",
+            "Cualquier actuación con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación.",
+            "Un procedimiento médico que implique riesgos significativos para el paciente.",
+            "Una actuación realizada únicamente en el ámbito de la atención primaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 de la Ley 41/2002 define 'intervención en el ámbito de la sanidad' como cualquier actuación realizada con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación."
+    },
+    {
+        "enunciado": "Según el artículo 9 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿en qué situaciones puede un facultativo realizar una intervención sin consentimiento del paciente?",
+        "opciones": [
+            "Cuando el paciente no desea ser informado de los riesgos.",
+            "En casos de riesgo inmediato grave para la integridad física o psíquica del paciente y no sea posible obtener su autorización.",
+            "Si el médico considera que la intervención es beneficiosa para la colectividad.",
+            "En situaciones de investigación médica con consentimiento del comité ético."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que, en casos de riesgo inmediato grave para la integridad del paciente, los facultativos pueden actuar sin su consentimiento si no es posible obtener su autorización."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué significa la 'necesidad terapéutica' como límite al consentimiento informado?",
+        "opciones": [
+            "La obligación de informar al paciente aunque no lo desee.",
+            "La facultad del médico de actuar sin informar al paciente cuando el conocimiento de su situación pueda perjudicar gravemente su salud.",
+            "La imposibilidad de realizar una intervención sin un consentimiento firmado.",
+            "La limitación del consentimiento informado en pacientes menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El concepto de 'necesidad terapéutica' permite al médico actuar sin informar previamente al paciente si dicho conocimiento puede perjudicar gravemente su salud, según el artículo 9."
+    },
+    {
+        "enunciado": "Según el artículo 9 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿quién puede otorgar el consentimiento por representación?",
+        "opciones": [
+            "El cónyuge del paciente en cualquier circunstancia.",
+            "Las personas vinculadas al paciente por razones familiares o de hecho, en ausencia de representante legal, cuando este no pueda tomar decisiones.",
+            "El médico responsable, siempre que justifique su decisión.",
+            "El representante legal del paciente únicamente en casos de intervenciones quirúrgicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento por representación puede otorgarse por personas vinculadas al paciente por razones familiares o de hecho, si este no puede tomar decisiones y carece de representante legal, según el artículo 9."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cuándo puede un menor de edad otorgar su propio consentimiento informado?",
+        "opciones": [
+            "Cuando tenga al menos 14 años y esté acompañado por sus padres.",
+            "Si está emancipado o es mayor de 16 años, salvo en casos de grave riesgo para su vida o salud.",
+            "Solo si tiene autorización de sus padres o tutores legales.",
+            "En ningún caso, ya que siempre debe intervenir su representante legal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que un menor emancipado o mayor de 16 años puede otorgar su consentimiento informado, excepto en casos de grave riesgo para su vida o salud, donde decide su representante legal."
+    },
+    {
+        "enunciado": "Según el artículo 9 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué debe hacerse si el representante legal toma una decisión contraria al beneficio del paciente?",
+        "opciones": [
+            "El médico debe respetar la decisión del representante.",
+            "La decisión debe ser comunicada a la autoridad judicial o al Ministerio Fiscal.",
+            "El consentimiento se considerará inválido y se procederá según las directrices médicas.",
+            "La decisión debe ser ratificada por un comité ético del hospital."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que, si el representante legal toma decisiones contrarias al beneficio del paciente, estas deben ser comunicadas a la autoridad judicial o al Ministerio Fiscal para su resolución."
+    },
+    {
+        "enunciado": "En el marco de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cuándo puede el médico intervenir sin consultar a los familiares del paciente?",
+        "opciones": [
+            "Siempre que considere que la intervención es urgente.",
+            "En situaciones de riesgo inmediato grave para la integridad física o psíquica del paciente, cuando no sea posible contactar con sus familiares.",
+            "Cuando los familiares no están de acuerdo con el tratamiento propuesto.",
+            "Cuando el paciente haya expresado su negativa previa a ser informado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 permite al médico intervenir sin consultar a los familiares si existe un riesgo inmediato grave para el paciente y no es posible contactar con ellos."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué límite se aplica al derecho del paciente a renunciar a recibir información sobre su salud?",
+        "opciones": [
+            "No existen límites, ya que la renuncia siempre debe respetarse.",
+            "La renuncia está limitada por el interés de la salud del propio paciente, de terceros o de la colectividad.",
+            "La renuncia solo es válida si está firmada por el representante legal.",
+            "El paciente no puede renunciar si se trata de un tratamiento experimental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que el derecho del paciente a renunciar a recibir información está limitado por el interés de su propia salud, la de terceros o la colectividad."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo debe procederse si el paciente manifiesta expresamente que no desea ser informado?",
+        "opciones": [
+            "El médico debe ignorar la petición y continuar informando al paciente.",
+            "La voluntad del paciente debe ser respetada y documentada en su historia clínica.",
+            "El paciente debe firmar un consentimiento informado obligatorio.",
+            "La solicitud debe ser ratificada por un representante legal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Si el paciente no desea ser informado, su voluntad debe respetarse y documentarse en su historia clínica, conforme al artículo 9 de la Ley 41/2002."
+    },
+    {
+        "enunciado": "Según el artículo 10 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué debe incluir la información básica que se proporciona al paciente antes de recabar su consentimiento?",
+        "opciones": [
+            "Solo los riesgos probables del procedimiento.",
+            "Las consecuencias relevantes de la intervención, los riesgos probables, las contraindicaciones y los riesgos relacionados con las circunstancias personales del paciente.",
+            "Únicamente los beneficios esperados del tratamiento.",
+            "Los costes económicos del procedimiento médico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 10 establece que la información básica incluye las consecuencias relevantes de la intervención, los riesgos probables, las contraindicaciones y los riesgos relacionados con las circunstancias personales del paciente."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 10 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué tipo de riesgos deben ser comunicados al paciente?",
+        "opciones": [
+            "Solo los riesgos improbables.",
+            "Riesgos relacionados con las circunstancias personales o profesionales del paciente y riesgos probables en condiciones normales.",
+            "Únicamente los riesgos graves y poco frecuentes.",
+            "Solo aquellos riesgos que el médico considere irrelevantes para la decisión del paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 10 indica que deben comunicarse los riesgos relacionados con las circunstancias personales o profesionales del paciente, así como los riesgos probables en condiciones normales."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿es obligatorio informar sobre las contraindicaciones del procedimiento antes de recabar el consentimiento?",
+        "opciones": [
+            "No, las contraindicaciones no son parte de la información básica.",
+            "Sí, deben explicarse las contraindicaciones como parte de la información básica proporcionada al paciente.",
+            "Solo si el paciente solicita información adicional.",
+            "No, salvo que las contraindicaciones sean severas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 10 establece que las contraindicaciones son parte de la información básica que debe proporcionarse al paciente antes de obtener su consentimiento."
+    },
+    {
+        "enunciado": "En la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo debe el facultativo proporcionar la información básica para el consentimiento informado?",
+        "opciones": [
+            "De forma breve y general, sin entrar en detalles específicos.",
+            "De manera comprensible y adaptada a las necesidades del paciente.",
+            "Solo mediante un documento escrito estandarizado.",
+            "A través de una charla grupal en el centro de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 10 exige que la información básica se proporcione de manera comprensible y adaptada a las necesidades del paciente."
+    },
+    {
+        "enunciado": "Según el artículo 10 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué debe incluirse sobre las consecuencias de la intervención en el consentimiento informado?",
+        "opciones": [
+            "Solo las consecuencias positivas de la intervención.",
+            "Las consecuencias relevantes o de importancia que la intervención origina con seguridad.",
+            "Todas las posibles consecuencias, incluso las improbables.",
+            "Únicamente las consecuencias que el médico considere relevantes para el paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 10 señala que la información básica debe incluir las consecuencias relevantes o de importancia que la intervención origina con seguridad."
+    },
+    {
+        "enunciado": "Según el artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué son las instrucciones previas?",
+        "opciones": [
+            "Un documento médico donde los profesionales establecen las mejores opciones terapéuticas para el paciente.",
+            "La manifestación anticipada de la voluntad de una persona sobre cuidados y tratamientos de salud en caso de no poder expresarla personalmente.",
+            "Un formulario administrativo obligatorio antes de cualquier intervención médica.",
+            "Un informe clínico realizado después de una intervención quirúrgica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 define las instrucciones previas como la manifestación anticipada de la voluntad de una persona respecto a sus cuidados y tratamientos de salud en caso de no poder expresarse."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿quién puede otorgar instrucciones previas?",
+        "opciones": [
+            "Cualquier persona mayor de edad, capaz y libre.",
+            "Solo los pacientes con enfermedades graves.",
+            "Únicamente las personas con representación legal.",
+            "Los familiares del paciente en caso de que este sea menor de edad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Según el artículo 11, pueden otorgar instrucciones previas las personas mayores de edad, capaces y en pleno uso de su libertad."
+    },
+    {
+        "enunciado": "¿Qué finalidad tienen las instrucciones previas según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica?",
+        "opciones": [
+            "Garantizar que los familiares del paciente puedan decidir sobre los tratamientos médicos.",
+            "Permitir que se cumpla la voluntad del paciente respecto a cuidados y tratamientos de salud cuando no pueda expresarla personalmente.",
+            "Registrar las preferencias del paciente para procedimientos experimentales.",
+            "Autorizar automáticamente cualquier intervención médica necesaria en caso de emergencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Las instrucciones previas tienen como objetivo asegurar que se cumpla la voluntad del paciente sobre cuidados y tratamientos cuando no pueda expresarse, según el artículo 11."
+    },
+    {
+        "enunciado": "Según el artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿pueden incluir las instrucciones previas la designación de un representante?",
+        "opciones": [
+            "No, las instrucciones previas solo contemplan tratamientos médicos específicos.",
+            "Sí, el otorgante puede designar un representante que actúe como interlocutor con el médico o el equipo sanitario.",
+            "Solo si el representante es un familiar directo del paciente.",
+            "Únicamente en caso de pacientes con discapacidades permanentes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 permite que el otorgante de las instrucciones previas designe a un representante para actuar como interlocutor con el equipo sanitario."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cómo deben formalizarse las instrucciones previas?",
+        "opciones": [
+            "De manera verbal, ante dos testigos.",
+            "Por escrito, siguiendo el procedimiento regulado por cada servicio de salud.",
+            "Mediante una declaración ante un médico del sistema público.",
+            "Por medio de un documento firmado únicamente por el representante legal del paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 establece que las instrucciones previas deben formalizarse por escrito, conforme al procedimiento regulado por cada servicio de salud."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿en qué casos no serán aplicadas las instrucciones previas?",
+        "opciones": [
+            "Cuando sean contrarias al ordenamiento jurídico o a la 'lex artis'.",
+            "Si el paciente cambia de opinión durante una intervención médica.",
+            "Cuando el médico considere que no son relevantes para el tratamiento.",
+            "Si las instrucciones no incluyen un representante legal."
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 señala que las instrucciones previas no se aplicarán si son contrarias al ordenamiento jurídico, a la 'lex artis' o no corresponden al supuesto de hecho previsto."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿pueden las instrucciones previas ser revocadas?",
+        "opciones": [
+            "No, una vez firmadas no se pueden modificar ni revocar.",
+            "Sí, pero solo con la autorización de un médico.",
+            "Sí, pueden revocarse libremente en cualquier momento dejando constancia por escrito.",
+            "No, salvo que el paciente designe un nuevo representante."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 establece que las instrucciones previas pueden ser revocadas libremente en cualquier momento, siempre que se deje constancia por escrito."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué registro asegura la eficacia de las instrucciones previas en todo el territorio nacional?",
+        "opciones": [
+            "El Registro Nacional de Instrucciones Previas.",
+            "El archivo local del hospital donde se otorgaron las instrucciones.",
+            "El sistema electrónico de cada comunidad autónoma.",
+            "El registro del médico responsable del paciente."
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 prevé la creación del Registro Nacional de Instrucciones Previas, que asegura su eficacia en todo el territorio nacional."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿quién regula el procedimiento para garantizar el cumplimiento de las instrucciones previas?",
+        "opciones": [
+            "El Ministerio de Sanidad y Consumo.",
+            "Cada servicio de salud, dentro de su ámbito de competencia.",
+            "Los médicos responsables de cada paciente.",
+            "El Consejo General de Colegios Médicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 establece que cada servicio de salud regula el procedimiento para garantizar el cumplimiento de las instrucciones previas en su ámbito."
+    },
+    {
+        "enunciado": "En el marco del artículo 11 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿pueden las instrucciones previas incluir decisiones sobre el destino del cuerpo tras el fallecimiento?",
+        "opciones": [
+            "No, las instrucciones previas solo aplican a cuidados y tratamientos médicos.",
+            "Sí, pueden incluir decisiones sobre el destino del cuerpo o de los órganos tras el fallecimiento.",
+            "Solo en casos de donación de órganos.",
+            "Únicamente si el paciente es mayor de 65 años."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 11 establece que las instrucciones previas pueden incluir decisiones sobre cuidados de salud y el destino del cuerpo o de los órganos tras el fallecimiento."
+    },
+    {
+        "enunciado": "Según el artículo 18 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿quién tiene derecho a acceder a la documentación de la historia clínica?",
+        "opciones": [
+            "Únicamente el paciente titular de la historia clínica.",
+            "El paciente, su representante debidamente acreditado y, en algunos casos, sus familiares.",
+            "Cualquier profesional sanitario del centro médico donde se generó la historia clínica.",
+            "Solo los familiares del paciente en caso de incapacidad o fallecimiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 establece que el paciente tiene derecho de acceso a su historia clínica, así como su representante debidamente acreditado en los casos aplicables."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 18 de la Ley 41/2002, ¿qué tipo de acceso tienen los pacientes fallecidos a su historia clínica?",
+        "opciones": [
+            "No se permite el acceso a la historia clínica de pacientes fallecidos.",
+            "El acceso lo tienen las personas vinculadas al fallecido por razones familiares o de hecho, salvo que este lo haya prohibido expresamente.",
+            "Los datos son accesibles únicamente por los representantes legales.",
+            "Solo los médicos responsables pueden acceder a la historia clínica de pacientes fallecidos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "Según el artículo 18, las personas vinculadas al fallecido pueden acceder a la historia clínica, excepto si el fallecido lo prohibió expresamente."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, de 14 de noviembre, ¿qué limitaciones existen al derecho de acceso a la historia clínica del paciente?",
+        "opciones": [
+            "No existen limitaciones al derecho de acceso del paciente.",
+            "El acceso no puede ejercerse en perjuicio del derecho a la confidencialidad de datos de terceros ni de las anotaciones subjetivas de los profesionales.",
+            "Solo los profesionales médicos pueden acceder a las anotaciones subjetivas.",
+            "El derecho de acceso está restringido a los datos clínicos relacionados con enfermedades graves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 señala que el derecho de acceso del paciente no puede afectar la confidencialidad de datos de terceros ni incluir las anotaciones subjetivas de los profesionales."
+    },
+    {
+        "enunciado": "¿Qué regulación establece el artículo 18 de la Ley 41/2002 sobre el acceso de terceros a la historia clínica por riesgo para su salud?",
+        "opciones": [
+            "El acceso está totalmente prohibido para terceros.",
+            "El acceso solo se permite a familiares directos del paciente.",
+            "El acceso se limita a los datos pertinentes y no debe afectar a la intimidad del paciente fallecido ni a terceros.",
+            "Se permite el acceso completo siempre que lo autorice un juez."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 permite el acceso de terceros por riesgo para su salud, pero únicamente a los datos pertinentes y respetando la intimidad del paciente fallecido y de terceros."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, de 14 de noviembre, ¿pueden los familiares acceder a la historia clínica de un paciente incapaz sin autorización previa?",
+        "opciones": [
+            "No, necesitan una orden judicial.",
+            "Sí, siempre que actúen como representantes legales o estén debidamente autorizados.",
+            "Solo si el médico lo autoriza por escrito.",
+            "Sí, sin necesidad de autorización específica en ningún caso."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a la historia clínica de un paciente incapaz por parte de familiares está permitido si actúan como representantes legales o cuentan con autorización específica."
+    },
+    {
+        "enunciado": "Según el artículo 18 de la Ley 41/2002, ¿pueden los profesionales sanitarios acceder libremente a la historia clínica de un paciente?",
+        "opciones": [
+            "Sí, siempre que trabajen en el centro sanitario donde se generó la historia clínica.",
+            "Solo los profesionales implicados directamente en la atención al paciente tienen acceso para garantizar su adecuada asistencia.",
+            "Sí, pero solo si el paciente lo autoriza previamente.",
+            "No, el acceso está limitado a los administrativos del centro sanitario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El acceso a la historia clínica está limitado a los profesionales directamente implicados en la atención al paciente, según el artículo 18 de la Ley 41/2002."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 18 de la Ley 41/2002, ¿pueden los pacientes obtener una copia de su historia clínica?",
+        "opciones": [
+            "No, solo pueden consultarla en el centro sanitario.",
+            "Sí, los pacientes tienen derecho a obtener copia de los datos que figuran en su historia clínica.",
+            "Solo en casos de enfermedades graves o crónicas.",
+            "No, el acceso está restringido a los médicos responsables."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 establece que los pacientes tienen derecho a obtener copia de los datos contenidos en su historia clínica."
+    },
+    {
+        "enunciado": "¿Cómo regula el artículo 18 de la Ley 41/2002 el acceso a la historia clínica por parte de personal administrativo?",
+        "opciones": [
+            "El personal administrativo no puede acceder a ninguna parte de la historia clínica.",
+            "Solo puede acceder a los datos estrictamente relacionados con sus funciones.",
+            "Tiene acceso completo si el médico responsable lo autoriza.",
+            "El acceso administrativo está permitido únicamente en centros públicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 regula que el personal administrativo puede acceder únicamente a los datos relacionados con sus funciones específicas."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿cómo debe garantizarse el derecho de acceso a la historia clínica de un paciente fallecido si lo requiere un tercero por riesgo para su salud?",
+        "opciones": [
+            "Permitiendo el acceso completo a toda la documentación clínica del fallecido.",
+            "Limitando el acceso a los datos pertinentes relacionados con el riesgo para la salud del tercero.",
+            "Negando el acceso, ya que los datos de pacientes fallecidos son confidenciales.",
+            "Solicitando una autorización explícita de los familiares del fallecido."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 establece que el acceso de terceros por riesgo para su salud debe limitarse a los datos pertinentes, respetando la confidencialidad del fallecido."
+    },
+    {
+        "enunciado": "¿Qué restricciones establece el artículo 18 de la Ley 41/2002 al acceso a las anotaciones subjetivas de los profesionales en la historia clínica?",
+        "opciones": [
+            "Las anotaciones subjetivas son accesibles a todos los profesionales sanitarios del centro.",
+            "Solo son accesibles si el paciente lo autoriza expresamente.",
+            "El acceso está restringido incluso para el propio paciente.",
+            "Pueden ser consultadas libremente por el paciente y su representante legal."
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 18 especifica que las anotaciones subjetivas de los profesionales no están accesibles ni siquiera para el propio paciente."
+    },
+    {
+        "enunciado": "Según el artículo 15 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cuál es el contenido mínimo de una historia clínica?",
+        "opciones": [
+            "Datos personales del paciente y diagnóstico médico.",
+            "La hoja clínicoestadística, la anamnesis, la evolución, las órdenes médicas y el informe de alta.",
+            "Solo los informes de urgencia y las pruebas diagnósticas realizadas.",
+            "Los datos relacionados exclusivamente con tratamientos quirúrgicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece como contenido mínimo de la historia clínica: hoja clínicoestadística, anamnesis, evolución, órdenes médicas, entre otros documentos esenciales."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 15 de la Ley 41/2002, ¿qué documento es obligatorio incluir en la historia clínica en casos de hospitalización?",
+        "opciones": [
+            "El informe clínico de alta.",
+            "La autorización de ingreso.",
+            "La hoja de interconsulta.",
+            "El gráfico de constantes vitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que la autorización de ingreso es uno de los documentos obligatorios en la historia clínica de pacientes hospitalizados."
+    },
+    {
+        "enunciado": "Según el artículo 15 de la Ley 41/2002, ¿cuál es el principal propósito de la historia clínica?",
+        "opciones": [
+            "Facilitar la asistencia sanitaria mediante la constancia de datos relevantes sobre el estado de salud del paciente.",
+            "Proveer una base para la investigación médica.",
+            "Registrar información administrativa del centro sanitario.",
+            "Almacenar estadísticas médicas de los pacientes atendidos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "La historia clínica tiene como fin principal facilitar la asistencia sanitaria, dejando constancia de los datos relevantes para el conocimiento del estado de salud del paciente."
+    },
+    {
+        "enunciado": "En el artículo 15 de la Ley 41/2002, ¿qué documento se debe incluir en la historia clínica cuando se realiza una intervención quirúrgica?",
+        "opciones": [
+            "El informe de urgencia.",
+            "El informe de quirófano o de registro del parto.",
+            "El gráfico de constantes vitales.",
+            "La hoja de interconsulta."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que, en casos de intervención quirúrgica, debe incluirse en la historia clínica el informe de quirófano o de registro del parto."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, ¿qué documento es imprescindible en la historia clínica para procedimientos de anestesia?",
+        "opciones": [
+            "El informe clínico de alta.",
+            "El informe de anestesia.",
+            "La hoja de interconsulta.",
+            "El gráfico de constantes vitales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que el informe de anestesia es un documento obligatorio en la historia clínica en los procedimientos correspondientes."
+    },
+    {
+        "enunciado": "Según el artículo 15 de la Ley 41/2002, ¿qué documento debe reflejar la planificación de cuidados de enfermería en la historia clínica?",
+        "opciones": [
+            "La anamnesis.",
+            "La evolución y planificación de cuidados de enfermería.",
+            "La hoja clínicoestadística.",
+            "El informe de anatomía patológica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que la planificación de cuidados de enfermería debe quedar reflejada en la evolución y planificación de cuidados de enfermería de la historia clínica."
+    },
+    {
+        "enunciado": "¿Qué documento debe incorporarse a la historia clínica según el artículo 15 de la Ley 41/2002 cuando un paciente es atendido en urgencias?",
+        "opciones": [
+            "El informe de alta.",
+            "El informe de urgencia.",
+            "El consentimiento informado.",
+            "La hoja de interconsulta."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que el informe de urgencia debe ser incluido en la historia clínica cuando un paciente es atendido en este contexto."
+    },
+    {
+        "enunciado": "En el artículo 15 de la Ley 41/2002, ¿qué información se requiere en la historia clínica respecto a las exploraciones complementarias realizadas al paciente?",
+        "opciones": [
+            "Únicamente los resultados relevantes.",
+            "El informe completo de las exploraciones complementarias realizadas.",
+            "Solo los resultados de las pruebas de laboratorio.",
+            "No se requiere incluir exploraciones complementarias en la historia clínica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 indica que debe incluirse el informe de exploraciones complementarias en la historia clínica, con todos los resultados relevantes para la atención del paciente."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 41/2002, ¿cuándo es obligatorio incluir el consentimiento informado en la historia clínica?",
+        "opciones": [
+            "Solo para procedimientos experimentales.",
+            "En todos los casos en que se requiera autorización previa del paciente para un procedimiento.",
+            "Cuando el paciente lo solicita expresamente.",
+            "Solo en intervenciones quirúrgicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que el consentimiento informado debe incluirse en la historia clínica en todos los casos donde sea necesario recabar la autorización del paciente para un procedimiento."
+    },
+    {
+        "enunciado": "Según el artículo 15 de la Ley 41/2002, ¿qué datos se incluyen en el informe clínico de alta como parte de la historia clínica?",
+        "opciones": [
+            "Solo el diagnóstico principal.",
+            "Un resumen del historial clínico, la actividad asistencial prestada, el diagnóstico y las recomendaciones terapéuticas.",
+            "Únicamente las recomendaciones terapéuticas.",
+            "Los resultados de todas las exploraciones realizadas al paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 15 establece que el informe clínico de alta debe incluir un resumen del historial clínico, la actividad asistencial prestada, el diagnóstico y las recomendaciones terapéuticas."
+    },
+    {
+        "enunciado": "Según el artículo 9 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cuándo puede el facultativo actuar sin el consentimiento del paciente?",
+        "opciones": [
+            "Siempre que el médico lo considere necesario para el tratamiento.",
+            "Cuando existe un riesgo inmediato grave para la integridad física o psíquica del paciente y no es posible obtener su autorización.",
+            "Solo en situaciones de emergencia declaradas por las autoridades sanitarias.",
+            "Cuando el paciente se niega a firmar el consentimiento informado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 permite actuar sin consentimiento en caso de riesgo inmediato grave para el paciente si no es posible obtener su autorización."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9 de la Ley 41/2002, ¿qué límite tiene el derecho del paciente a renunciar a recibir información sobre su salud?",
+        "opciones": [
+            "No existen límites y siempre debe respetarse la renuncia del paciente.",
+            "La renuncia está limitada por el interés de la salud del propio paciente, de terceros o de la colectividad.",
+            "El paciente solo puede renunciar a ser informado en casos de tratamientos experimentales.",
+            "La renuncia solo aplica si se expresa de forma verbal ante el médico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que la renuncia del paciente a recibir información está limitada por el interés de su salud, la de terceros o la colectividad."
+    },
+    {
+        "enunciado": "Según el artículo 9 de la Ley 41/2002, ¿en qué casos puede otorgarse el consentimiento por representación?",
+        "opciones": [
+            "Cuando el paciente no quiere firmar el consentimiento informado.",
+            "Cuando el paciente no sea capaz de tomar decisiones, tenga capacidad modificada judicialmente o sea menor sin capacidad intelectual o emocional para comprender la intervención.",
+            "En cualquier caso donde el médico lo considere más conveniente.",
+            "Solo en situaciones de tratamientos experimentales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 permite el consentimiento por representación en casos de incapacidad del paciente, capacidad modificada judicialmente o minoría de edad sin capacidad de comprensión."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9, ¿qué sucede si el paciente menor de edad tiene más de 16 años y no está emancipado?",
+        "opciones": [
+            "Puede otorgar consentimiento informado en todos los casos.",
+            "Puede otorgar consentimiento informado salvo en actuaciones de grave riesgo para su vida o salud, donde decide su representante legal.",
+            "Debe contar siempre con la autorización de su tutor legal.",
+            "No puede otorgar consentimiento en ningún caso."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 señala que un menor de 16 años no emancipado puede otorgar consentimiento salvo en actuaciones de grave riesgo, en las que decide su representante legal."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué principio debe regir las decisiones del representante legal cuando otorga el consentimiento en nombre del paciente?",
+        "opciones": [
+            "La conveniencia económica del tratamiento.",
+            "El mayor beneficio para la vida o salud del paciente.",
+            "La opinión mayoritaria de los familiares cercanos.",
+            "La eficiencia del procedimiento médico propuesto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que las decisiones del representante legal deben atender siempre al mayor beneficio para la vida o salud del paciente."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9, ¿qué debe hacerse si el representante legal toma decisiones contrarias al interés del paciente?",
+        "opciones": [
+            "El médico debe aceptar la decisión y proceder según lo indicado.",
+            "La decisión debe comunicarse a la autoridad judicial o al Ministerio Fiscal para resolución.",
+            "Se ignora la decisión del representante y se actúa según la voluntad del médico.",
+            "El representante legal pierde automáticamente su capacidad de decisión."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 indica que, si el representante toma decisiones contrarias al interés del paciente, se debe informar a la autoridad judicial o al Ministerio Fiscal."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, ¿qué medidas deben adoptarse si el consentimiento por representación no puede obtenerse en una situación de urgencia?",
+        "opciones": [
+            "Se suspende la intervención hasta conseguir el consentimiento.",
+            "El profesional sanitario adopta las medidas necesarias en salvaguarda de la vida o salud del paciente.",
+            "Se solicita autorización a un comité ético del hospital.",
+            "El paciente no puede ser tratado hasta contar con una decisión judicial."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "En casos de urgencia donde no es posible obtener el consentimiento, el artículo 9 permite que los profesionales adopten las medidas necesarias para proteger la vida o salud del paciente."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9, ¿puede el paciente revocar su consentimiento informado?",
+        "opciones": [
+            "No, una vez otorgado, el consentimiento no puede ser revocado.",
+            "Sí, el paciente puede revocarlo libremente en cualquier momento por escrito.",
+            "Solo puede revocarse si el médico responsable lo aprueba.",
+            "Sí, pero únicamente si se demuestra que el procedimiento aún no ha comenzado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que el paciente puede revocar su consentimiento informado libremente en cualquier momento, siempre que lo haga por escrito."
+    },
+    {
+        "enunciado": "Según el artículo 9, ¿qué sucede si un paciente menor de edad está emancipado?",
+        "opciones": [
+            "El consentimiento debe ser otorgado por sus padres o tutores legales.",
+            "El menor emancipado tiene plena capacidad para otorgar consentimiento informado.",
+            "El menor solo puede otorgar consentimiento si es supervisado por un médico.",
+            "El consentimiento del menor debe ser validado por un juez."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 establece que un menor emancipado tiene plena capacidad para otorgar consentimiento informado, igual que una persona mayor de edad."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 9, ¿en qué casos puede la autoridad judicial intervenir en las decisiones relacionadas con el consentimiento por representación?",
+        "opciones": [
+            "Siempre que el paciente lo solicite expresamente.",
+            "Cuando las decisiones del representante legal sean contrarias al beneficio del paciente.",
+            "Solo si el médico no está de acuerdo con el tratamiento indicado.",
+            "Cuando los familiares no logran un consenso sobre el tratamiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 9 señala que la autoridad judicial debe intervenir cuando las decisiones del representante legal sean contrarias al beneficio del paciente."
+    },
+    {
+        "enunciado": "Según el artículo 3, la 'información clínica' comprende:",
+        "opciones": [
+            "Datos exclusivamente médicos sobre diagnósticos y tratamientos",
+            "Datos en cualquier formato que permitan ampliar el conocimiento sobre la salud de una persona",
+            "Información registrada únicamente en la historia clínica",
+            "Datos relacionados con intervenciones quirúrgicas o tratamientos invasivos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define la información clínica como cualquier dato que permita ampliar el conocimiento sobre el estado de salud de una persona."
+    },
+    {
+        "enunciado": "El artículo 3 define el 'médico responsable' como:",
+        "opciones": [
+            "El profesional encargado de la custodia de la historia clínica",
+            "El médico encargado de coordinar la información y asistencia sanitaria del paciente",
+            "Cualquier médico que participe en el diagnóstico de un paciente",
+            "El médico que firma el informe de alta al final del proceso asistencial"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El médico responsable es quien coordina la información y asistencia sanitaria del paciente durante el proceso asistencial."
+    },
+    {
+        "enunciado": "¿Qué diferencia establece la Ley 41/2002 entre 'paciente' y 'usuario'?",
+        "opciones": [
+            "El paciente recibe asistencia sanitaria, mientras que el usuario utiliza servicios sanitarios de prevención o promoción de la salud",
+            "El paciente tiene derecho a consentimiento informado, mientras que el usuario no",
+            "El usuario es menor de edad y el paciente es mayor de edad",
+            "No existe diferencia, ambos términos son equivalentes"
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define al paciente como quien recibe asistencia sanitaria, y al usuario como quien utiliza servicios sanitarios preventivos o promocionales."
+    },
+    {
+        "enunciado": "La 'intervención en el ámbito de la sanidad', según el artículo 3, incluye:",
+        "opciones": [
+            "Solo procedimientos quirúrgicos realizados en hospitales",
+            "Cualquier actuación con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación",
+            "Exclusivamente actuaciones terapéuticas relacionadas con enfermedades graves",
+            "Actuaciones realizadas exclusivamente en centros sanitarios públicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 incluye en la definición cualquier actuación con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación."
+    },
+    {
+        "enunciado": "El 'informe de alta médica' se define en el artículo 3 como:",
+        "opciones": [
+            "El resumen del historial clínico del paciente emitido por el médico responsable al finalizar cada proceso asistencial",
+            "El documento que contiene las indicaciones terapéuticas del tratamiento prescrito",
+            "Un informe breve emitido al ingresar un paciente en un centro sanitario",
+            "El certificado que autoriza al paciente a reincorporarse a sus actividades laborales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El informe de alta médica incluye un resumen del historial clínico, el diagnóstico y las recomendaciones terapéuticas, según el artículo 3."
+    },
+    {
+        "enunciado": "Según el artículo 3, el 'consentimiento informado' es válido cuando:",
+        "opciones": [
+            "El paciente firma el documento en presencia de dos testigos",
+            "El paciente lo otorga libre, voluntaria y conscientemente tras recibir información adecuada",
+            "Se entrega un documento por escrito al paciente con explicaciones generales",
+            "El médico considera que el paciente no necesita más explicaciones sobre el procedimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El consentimiento informado debe otorgarse libre, voluntaria y conscientemente después de recibir información adecuada."
+    },
+    {
+        "enunciado": "En la Ley 41/2002, el término 'documentación clínica' hace referencia a:",
+        "opciones": [
+            "Los registros de diagnósticos y tratamientos del paciente en soporte digital",
+            "Cualquier soporte que contenga un conjunto de datos e informaciones de carácter asistencial",
+            "La historia clínica específica de cada paciente",
+            "Los documentos emitidos exclusivamente por el médico responsable"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 especifica que la documentación clínica es cualquier soporte que contenga datos e informaciones de carácter asistencial."
+    },
+    {
+        "enunciado": "¿Cómo define el artículo 3 la 'libre elección' en el ámbito sanitario?",
+        "opciones": [
+            "La capacidad de los pacientes de rechazar cualquier tratamiento propuesto por el médico",
+            "La facultad de optar entre varias alternativas asistenciales, médicos o centros dentro de los términos establecidos",
+            "El derecho de los usuarios a recibir atención sanitaria en cualquier hospital del país",
+            "La posibilidad de elegir el tipo de tratamiento en función de preferencias personales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 establece que la libre elección permite optar entre alternativas asistenciales, médicos o centros según los términos competentes."
+    },
+    {
+        "enunciado": "El término 'servicio sanitario' en el artículo 3 se refiere a:",
+        "opciones": [
+            "El conjunto de hospitales y clínicas públicas en una comunidad autónoma",
+            "La unidad asistencial dotada de recursos técnicos y personal para actividades sanitarias",
+            "Los equipos médicos encargados de la atención primaria de salud",
+            "La prestación exclusiva de servicios preventivos en centros autorizados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el servicio sanitario como la unidad asistencial con recursos técnicos y personal para actividades sanitarias."
+    },
+    {
+        "enunciado": "¿Qué se entiende por 'certificado médico' según el artículo 3?",
+        "opciones": [
+            "Un documento que detalla el historial médico completo del paciente",
+            "La declaración escrita que da fe del estado de salud de una persona en un momento específico",
+            "Un formulario para solicitar atención sanitaria especializada",
+            "El informe de alta emitido por el médico responsable al finalizar la asistencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el certificado médico como la declaración escrita que acredita el estado de salud de una persona en un momento determinado."
+    },
+    {
+        "enunciado": "¿Cómo define el artículo 3 el concepto de 'intervención en el ámbito de la sanidad'?",
+        "opciones": [
+            "Solo los procedimientos terapéuticos que involucran hospitalización",
+            "Cualquier actuación realizada con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación",
+            "Las intervenciones quirúrgicas de alto riesgo realizadas en centros autorizados",
+            "Actuaciones exclusivamente destinadas a la prevención de enfermedades"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 incluye en esta definición cualquier actuación realizada con fines preventivos, diagnósticos, terapéuticos, rehabilitadores o de investigación."
+    },
+    {
+        "enunciado": "Según el artículo 3, ¿qué caracteriza a un 'centro sanitario'?",
+        "opciones": [
+            "Es una instalación exclusivamente pública destinada al cuidado de pacientes",
+            "Es un conjunto organizado de profesionales, instalaciones y medios técnicos para el cuidado de la salud",
+            "Es un hospital acreditado por el Sistema Nacional de Salud",
+            "Es cualquier establecimiento donde se realicen diagnósticos médicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el centro sanitario como un conjunto organizado de profesionales, instalaciones y medios técnicos para cuidar la salud de los pacientes."
+    },
+    {
+        "enunciado": "En el marco de la Ley 41/2002, el término 'usuario' se refiere a:",
+        "opciones": [
+            "Cualquier persona que requiera asistencia sanitaria",
+            "Un paciente menor de edad asistido en un centro público",
+            "Aquella persona que utiliza servicios sanitarios preventivos o de promoción de la salud",
+            "El titular de una tarjeta sanitaria expedida por una comunidad autónoma"
+        ],
+        "correcta": 2,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 especifica que el usuario es quien utiliza servicios sanitarios preventivos o de promoción de la salud."
+    },
+    {
+        "enunciado": "¿Qué define el artículo 3 como 'libre elección'?",
+        "opciones": [
+            "El derecho a elegir cualquier médico o centro, sin restricciones",
+            "La facultad de elegir entre alternativas asistenciales según los términos establecidos por los servicios de salud",
+            "La posibilidad de optar por cualquier tratamiento ofrecido por el médico responsable",
+            "El derecho a cambiar de médico en cualquier momento del proceso asistencial"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "La libre elección permite al paciente optar entre alternativas asistenciales según los términos establecidos por los servicios de salud."
+    },
+    {
+        "enunciado": "El 'informe de anestesia', según el artículo 3, es parte de:",
+        "opciones": [
+            "El contenido obligatorio en cualquier consulta médica",
+            "La documentación clínica exigida en procedimientos quirúrgicos",
+            "Los datos reservados únicamente para emergencias médicas",
+            "Los documentos generados solo en casos de pacientes menores de edad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El informe de anestesia es parte de la documentación clínica requerida en procedimientos quirúrgicos, según la Ley 41/2002."
+    },
+    {
+        "enunciado": "En la Ley 41/2002, ¿qué profesional tiene la responsabilidad de coordinar la asistencia sanitaria del paciente?",
+        "opciones": [
+            "El médico responsable",
+            "El director del centro sanitario",
+            "El médico de urgencias",
+            "El jefe de servicio"
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define al médico responsable como el encargado de coordinar la asistencia sanitaria del paciente."
+    },
+    {
+        "enunciado": "El término 'documentación clínica' incluye:",
+        "opciones": [
+            "Únicamente los registros electrónicos de pacientes",
+            "Cualquier soporte que contenga datos e informaciones de carácter asistencial",
+            "Los datos administrativos de los centros de salud",
+            "Los formularios de inscripción en centros sanitarios públicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 establece que la documentación clínica incluye cualquier soporte que contenga datos asistenciales."
+    },
+    {
+        "enunciado": "Según la Ley 41/2002, el 'certificado médico' es:",
+        "opciones": [
+            "Un informe que detalla los tratamientos futuros para el paciente",
+            "Una declaración escrita que da fe del estado de salud de una persona en un momento concreto",
+            "Un resumen del historial clínico emitido al finalizar la atención sanitaria",
+            "Un documento obligatorio para cualquier consulta médica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El certificado médico, según el artículo 3, acredita el estado de salud de una persona en un momento determinado."
+    },
+    {
+        "enunciado": "¿Cómo define el artículo 3 la 'información clínica'?",
+        "opciones": [
+            "Los datos clínicos exclusivamente relacionados con diagnósticos",
+            "Datos en cualquier formato que amplíen el conocimiento sobre el estado de salud o su preservación",
+            "Registros administrativos utilizados en el Sistema Nacional de Salud",
+            "Informes médicos redactados exclusivamente por el médico responsable"
+        ],
+        "correcta": 1,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define la información clínica como cualquier dato que amplíe el conocimiento sobre el estado de salud o su preservación."
+    },
+    {
+        "enunciado": "El término 'servicio sanitario' en la Ley 41/2002 se refiere a:",
+        "opciones": [
+            "Un conjunto organizado de instalaciones y personal destinado al cuidado de la salud",
+            "Cualquier centro que realice tratamientos médicos ambulatorios",
+            "Las clínicas privadas con recursos suficientes para hospitalización",
+            "Los hospitales reconocidos por el Sistema Nacional de Salud"
+        ],
+        "correcta": 0,
+        "categorías": ["tema9", "ley 41/2002"],
+        "feedback": "El artículo 3 define el servicio sanitario como un conjunto organizado de instalaciones y personal destinado al cuidado de la salud."
+    }
+]
+

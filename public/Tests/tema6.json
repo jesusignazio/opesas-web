@@ -1,0 +1,1805 @@
+[
+    {
+        "enunciado": "¿Qué artículo de la Ley 31/1995 regula el derecho de los trabajadores a la protección frente a los riesgos laborales?",
+        "opciones": [
+            "Artículo 14",
+            "Artículo 15",
+            "Artículo 16",
+            "Artículo 17"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 14 establece el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo, y detalla las obligaciones del empresario en este ámbito."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿quién debe garantizar la seguridad y salud de los trabajadores?",
+        "opciones": [
+            "Los propios trabajadores",
+            "El empresario",
+            "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+            "La Inspección de Trabajo y Seguridad Social"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario es quien debe garantizar la seguridad y salud de los trabajadores a su servicio, conforme a lo estipulado en la Ley."
+    },
+    {
+        "enunciado": "¿Qué principio de acción preventiva incluye adaptar el trabajo a la persona?",
+        "opciones": [
+            "Evitar los riesgos",
+            "Evaluar los riesgos",
+            "Adaptar el trabajo a la persona",
+            "Sustituir lo peligroso por lo seguro"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio de adaptación del trabajo a la persona busca reducir los efectos negativos del trabajo en la salud y mejorar las condiciones laborales."
+    },
+    {
+        "enunciado": "¿Qué debe incluir un Plan de Prevención de Riesgos Laborales según la Ley 31/1995?",
+        "opciones": [
+            "La descripción de accidentes ocurridos",
+            "Los procedimientos y recursos para la acción preventiva",
+            "El reglamento interno de la empresa",
+            "Los resultados de las inspecciones laborales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Plan de Prevención debe incluir la estructura organizativa, responsabilidades, funciones, prácticas y recursos necesarios para la acción preventiva."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 16 de la Ley 31/1995?",
+        "opciones": [
+            "La obligación de proporcionar equipos de protección",
+            "La evaluación de riesgos y planificación preventiva",
+            "El derecho a la formación en prevención",
+            "El acceso de los trabajadores a los datos médicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 16 regula la evaluación de riesgos y la planificación de las actividades preventivas en la empresa."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la política de prevención de riesgos laborales según la Ley 31/1995?",
+        "opciones": [
+            "Aumentar la productividad",
+            "Promover la mejora de las condiciones de trabajo",
+            "Evitar sanciones administrativas",
+            "Asegurar la formación de los trabajadores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El objetivo principal es mejorar las condiciones de trabajo para elevar la protección de la seguridad y la salud de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué órgano ejerce funciones de vigilancia y control en materia de prevención de riesgos laborales?",
+        "opciones": [
+            "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+            "El Comité de Seguridad y Salud",
+            "La Inspección de Trabajo y Seguridad Social",
+            "La Comisión Nacional de Seguridad y Salud en el Trabajo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Inspección de Trabajo y Seguridad Social vigila y controla el cumplimiento de la normativa de prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué trabajadores tienen derecho a una vigilancia periódica de su estado de salud según la Ley 31/1995?",
+        "opciones": [
+            "Solo los trabajadores en puestos de riesgo",
+            "Todos los trabajadores",
+            "Solo los trabajadores contratados por más de un año",
+            "Solo los representantes de los trabajadores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Todos los trabajadores tienen derecho a una vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo."
+    },
+    {
+        "enunciado": "¿Qué acciones debe tomar el empresario frente a un riesgo grave e inminente?",
+        "opciones": [
+            "Esperar instrucciones de la autoridad laboral",
+            "Informar y garantizar la evacuación si es necesario",
+            "Solicitar ayuda externa inmediatamente",
+            "Aumentar la formación de los trabajadores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe informar a los trabajadores y garantizar que puedan interrumpir su actividad y evacuar el lugar de trabajo si es necesario."
+    },
+    {
+        "enunciado": "¿Qué artículo regula la consulta y participación de los trabajadores en materia de prevención?",
+        "opciones": [
+            "Artículo 14",
+            "Artículo 18",
+            "Artículo 20",
+            "Artículo 22"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 18 establece el derecho de los trabajadores a ser consultados y a participar en cuestiones que afecten a la seguridad y salud laboral."
+    },
+    {
+        "enunciado": "¿Qué artículo de la Ley 31/1995 define los principios de la acción preventiva?",
+        "opciones": [
+            "Artículo 14",
+            "Artículo 15",
+            "Artículo 16",
+            "Artículo 17"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 15 establece los principios generales que deben guiar la acción preventiva, como evitar los riesgos y evaluar los que no se puedan evitar."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué debe garantizar el empresario al proporcionar equipos de protección individual?",
+        "opciones": [
+            "Que sean de última tecnología",
+            "Que sean adecuados y utilizados correctamente",
+            "Que sean comprados a un proveedor autorizado",
+            "Que tengan un coste mínimo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe garantizar que los equipos de protección individual sean adecuados para el trabajo y que los trabajadores los usen correctamente."
+    },
+    {
+        "enunciado": "¿Qué aspecto regula el artículo 22 de la Ley 31/1995?",
+        "opciones": [
+            "La vigilancia de la salud de los trabajadores",
+            "La formación inicial obligatoria",
+            "Las medidas frente a riesgos graves",
+            "La protección de menores de edad"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 22 se centra en la vigilancia de la salud de los trabajadores, respetando su intimidad y confidencialidad."
+    },
+    {
+        "enunciado": "¿Qué artículo establece las obligaciones de los trabajadores en prevención de riesgos laborales?",
+        "opciones": [
+            "Artículo 21",
+            "Artículo 22",
+            "Artículo 28",
+            "Artículo 29"
+        ],
+        "correcta": 3,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 29 detalla las obligaciones de los trabajadores, como utilizar correctamente los equipos y cooperar con el empresario en el cumplimiento de las medidas preventivas."
+    },
+    {
+        "enunciado": "¿Quiénes participan en el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Solo los trabajadores",
+            "Representantes de trabajadores y empresarios",
+            "Solo el empresario",
+            "Inspectores de Trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud está formado por representantes de los trabajadores y del empresario, promoviendo una participación equilibrada en la prevención."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el empresario respecto a los trabajadores especialmente sensibles a ciertos riesgos?",
+        "opciones": [
+            "Ofrecer formación adicional",
+            "Proporcionar equipos de protección individual",
+            "Garantizar una protección específica",
+            "Reducir su jornada laboral"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe garantizar una protección específica a los trabajadores especialmente sensibles, ajustando las condiciones laborales para prevenir riesgos."
+    },
+    {
+        "enunciado": "¿Cuál es la finalidad del Instituto Nacional de Seguridad e Higiene en el Trabajo según la Ley?",
+        "opciones": [
+            "Imponer sanciones por incumplimientos",
+            "Coordinar la Inspección de Trabajo",
+            "Promover y apoyar la mejora de las condiciones de seguridad y salud",
+            "Emitir permisos laborales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad e Higiene en el Trabajo tiene como misión principal promover y apoyar la mejora de las condiciones de seguridad y salud laboral."
+    },
+    {
+        "enunciado": "¿Qué documento deben conservar las empresas respecto a la prevención de riesgos laborales?",
+        "opciones": [
+            "Los contratos laborales",
+            "El plan de prevención y evaluaciones de riesgos",
+            "Las facturas de equipos de protección",
+            "El manual de formación interna"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Las empresas deben conservar el plan de prevención, las evaluaciones de riesgos y toda la documentación relacionada con las medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué principio de acción preventiva busca sustituir lo peligroso por lo que entrañe poco o ningún peligro?",
+        "opciones": [
+            "Evaluar los riesgos",
+            "Planificar la prevención",
+            "Sustituir lo peligroso por lo seguro",
+            "Adaptar el trabajo a la persona"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio de sustituir lo peligroso por lo que entrañe poco o ningún peligro es clave para minimizar los riesgos en el entorno laboral."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 20 sobre las medidas de emergencia?",
+        "opciones": [
+            "La obligación de tener una póliza de seguros",
+            "La designación de personal responsable",
+            "La obligación de formar a todos los empleados",
+            "La creación de un comité de crisis"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 20 exige la adopción de medidas de emergencia, incluyendo la designación de personal responsable y la organización de relaciones con servicios externos."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 19 de la Ley 31/1995 en relación a la formación de los trabajadores?",
+        "opciones": [
+            "Debe ser opcional y específica para cada puesto",
+            "Debe ser teórica, práctica y adecuada a los riesgos",
+            "Solo se imparte en casos de alta peligrosidad",
+            "Debe estar orientada a prevenir sanciones"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 19 establece que la formación debe ser teórica y práctica, suficiente y adecuada, además de adaptarse a los riesgos del puesto de trabajo."
+    },
+    {
+        "enunciado": "¿Qué función tiene la Inspección de Trabajo y Seguridad Social según la Ley 31/1995?",
+        "opciones": [
+            "Imponer multas económicas",
+            "Asesorar sobre normas de prevención",
+            "Vigilar y controlar el cumplimiento de la normativa",
+            "Redactar planes de prevención"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Inspección de Trabajo y Seguridad Social tiene como función principal vigilar y controlar que se cumpla la normativa sobre prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué debe hacer el empresario en caso de detectar un riesgo grave e inminente?",
+        "opciones": [
+            "Notificar al comité de seguridad y salud",
+            "Prohibir la entrada a las zonas de riesgo",
+            "Paralizar la actividad y garantizar la seguridad",
+            "Solicitar una inspección externa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Ante un riesgo grave e inminente, el empresario debe paralizar las actividades afectadas y adoptar las medidas necesarias para proteger a los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué medidas debe incluir un plan de prevención según la Ley 31/1995?",
+        "opciones": [
+            "Medidas para evitar sanciones administrativas",
+            "Estrategias de coordinación con otras empresas",
+            "Medidas técnicas, organizativas y de formación",
+            "Proyectos de mejora tecnológica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Un plan de prevención debe integrar medidas técnicas, organizativas y formativas para garantizar la seguridad y salud de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 25 sobre los trabajadores especialmente sensibles?",
+        "opciones": [
+            "Que deben recibir vigilancia médica constante",
+            "Que deben ser excluidos de tareas peligrosas",
+            "Que tienen derecho a una protección específica",
+            "Que pueden trabajar solo en turnos diurnos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 25 garantiza la protección específica para trabajadores sensibles a ciertos riesgos, adaptando las condiciones laborales a sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los trabajadores según el artículo 18 de la Ley 31/1995?",
+        "opciones": [
+            "Acceder a la información sobre los riesgos laborales",
+            "Decidir las normas de seguridad en la empresa",
+            "Imponer sanciones por incumplimientos",
+            "Dirigir las inspecciones laborales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 18 otorga a los trabajadores el derecho a recibir información sobre los riesgos laborales y las medidas de prevención aplicables."
+    },
+    {
+        "enunciado": "¿Qué trabajadores están protegidos por la Ley 31/1995 en el ámbito laboral?",
+        "opciones": [
+            "Solo los trabajadores con contrato indefinido",
+            "Cualquier trabajador por cuenta ajena",
+            "Solo trabajadores de grandes empresas",
+            "Aquellos afiliados a un sindicato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley 31/1995 protege a cualquier trabajador por cuenta ajena, independientemente de su modalidad contractual o tamaño de la empresa."
+    },
+    {
+        "enunciado": "¿Qué principio debe seguir el empresario al encomendar tareas según la Ley 31/1995?",
+        "opciones": [
+            "Evaluar las capacidades profesionales del trabajador",
+            "Priorizar la productividad sobre la seguridad",
+            "Evitar realizar evaluaciones de riesgo",
+            "Asegurarse de que los trabajadores se adapten al entorno"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe evaluar las capacidades profesionales del trabajador en materia de seguridad y salud antes de encomendarle tareas."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen los trabajadores según el artículo 29?",
+        "opciones": [
+            "Colaborar en la mejora de la productividad",
+            "Utilizar adecuadamente los equipos de protección",
+            "Designar al delegado de prevención",
+            "Organizar sesiones de formación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 29 establece la obligación de los trabajadores de usar correctamente los equipos de protección y colaborar con el empresario en prevención."
+    },
+    {
+        "enunciado": "¿Qué artículo regula la protección de la maternidad en la Ley 31/1995?",
+        "opciones": [
+            "Artículo 21",
+            "Artículo 24",
+            "Artículo 26",
+            "Artículo 28"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 26 regula la protección de la maternidad, incluyendo la evaluación de riesgos y las medidas preventivas específicas para trabajadoras embarazadas o en período de lactancia."
+    },
+    {
+        "enunciado": "¿Qué define el artículo 4 de la Ley 31/1995 como 'riesgo laboral'?",
+        "opciones": [
+            "El conjunto de condiciones de trabajo inseguras",
+            "La probabilidad de que un trabajador sufra un daño derivado del trabajo",
+            "La presencia de agentes químicos en el entorno laboral",
+            "La falta de formación en prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 4 define el riesgo laboral como la probabilidad de que un trabajador sufra un daño derivado del trabajo, considerando la severidad y probabilidad del mismo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre los equipos de trabajo?",
+        "opciones": [
+            "Deben ser utilizados únicamente por técnicos especializados",
+            "Deben ser proporcionados por los trabajadores",
+            "Deben ser seguros y adecuados para el trabajo",
+            "Deben ser inspeccionados anualmente por la Inspección de Trabajo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley obliga al empresario a garantizar que los equipos de trabajo sean seguros y adecuados para el uso previsto."
+    },
+    {
+        "enunciado": "¿Qué organismos colaboran con la Inspección de Trabajo en materia de prevención de riesgos laborales?",
+        "opciones": [
+            "Las mutuas de accidentes laborales",
+            "El Comité de Seguridad y Salud",
+            "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+            "La Comisión Nacional de Seguridad y Salud en el Trabajo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad y Salud en el Trabajo colabora con la Inspección de Trabajo, aportando apoyo técnico y científico."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene la evaluación de riesgos según el artículo 16?",
+        "opciones": [
+            "Determinar las sanciones aplicables por incumplimiento",
+            "Identificar y planificar medidas para eliminar o reducir riesgos",
+            "Calificar los riesgos en función del sector de la empresa",
+            "Cumplir con los requisitos legales mínimos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La evaluación de riesgos tiene como objetivo identificar peligros y establecer medidas preventivas para eliminarlos o minimizarlos."
+    },
+    {
+        "enunciado": "¿Qué deben hacer las empresas con trabajadores de otras empresas en su centro de trabajo?",
+        "opciones": [
+            "Proveerles de sus propios equipos de protección",
+            "Establecer medidas de coordinación e informar sobre riesgos",
+            "Asegurarse de que reciban formación en la empresa de origen",
+            "Evitar su participación en actividades de alto riesgo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley obliga a las empresas a coordinarse y a informar a trabajadores de otras empresas sobre los riesgos específicos del centro de trabajo."
+    },
+    {
+        "enunciado": "¿Qué trabajadores tienen derecho a suspender su actividad ante un riesgo grave e inminente?",
+        "opciones": [
+            "Solo los trabajadores designados como delegados de prevención",
+            "Todos los trabajadores, previa autorización del empresario",
+            "Todos los trabajadores afectados por el riesgo",
+            "Ningún trabajador, salvo que lo determine una inspección"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Todos los trabajadores expuestos a un riesgo grave e inminente tienen derecho a suspender su actividad y abandonar el lugar de trabajo."
+    },
+    {
+        "enunciado": "¿Qué es el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Un órgano de inspección gubernamental",
+            "Un órgano consultivo formado por empresarios y trabajadores",
+            "Un equipo de supervisión de la Inspección de Trabajo",
+            "Un comité interno solo para grandes empresas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud es un órgano de consulta y participación, compuesto por representantes de trabajadores y empresarios."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen los fabricantes de equipos de trabajo según la Ley 31/1995?",
+        "opciones": [
+            "Registrar los equipos en el Ministerio de Trabajo",
+            "Garantizar que los equipos cumplan con requisitos de seguridad",
+            "Impartir formación a los usuarios finales",
+            "Supervisar su uso en las empresas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los fabricantes deben garantizar que los equipos cumplan con los requisitos de seguridad necesarios para prevenir riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 respecto a la protección de menores en el ámbito laboral?",
+        "opciones": [
+            "No pueden trabajar bajo ninguna circunstancia",
+            "Solo pueden trabajar con autorización de los tutores",
+            "Deben realizar tareas no peligrosas evaluadas previamente",
+            "Pueden trabajar en cualquier puesto tras recibir formación"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los menores pueden trabajar en tareas evaluadas previamente para garantizar que no presenten riesgos específicos para su seguridad y salud."
+    },
+    {
+        "enunciado": "¿Qué documento regula las medidas específicas de prevención en cada puesto de trabajo?",
+        "opciones": [
+            "El Plan de Prevención",
+            "El Comité de Seguridad y Salud",
+            "La Evaluación de Riesgos",
+            "El Reglamento Interno de la Empresa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La evaluación de riesgos identifica los peligros específicos de cada puesto de trabajo y establece las medidas preventivas necesarias."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 5 de la Ley 31/1995 sobre los objetivos de la política de prevención?",
+        "opciones": [
+            "Reducir los costes asociados a los accidentes laborales",
+            "Promover la mejora de las condiciones de trabajo",
+            "Asegurar la formación continua de todos los trabajadores",
+            "Evitar sanciones administrativas por incumplimientos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 5 señala que el objetivo de la política de prevención es promover la mejora de las condiciones de trabajo para elevar la seguridad y salud de los trabajadores."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué principio debe prevalecer en la adopción de medidas preventivas?",
+        "opciones": [
+            "Priorizar la prevención colectiva sobre la individual",
+            "Garantizar el menor coste económico posible",
+            "Favorecer la iniciativa del trabajador",
+            "Adaptar las medidas a las demandas sindicales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley establece que las medidas de prevención colectiva deben prevalecer sobre las individuales siempre que sea posible."
+    },
+    {
+        "enunciado": "¿Qué obligaciones establece la Ley 31/1995 para los empresarios en caso de subcontratación de servicios?",
+        "opciones": [
+            "Asumir todos los riesgos asociados",
+            "Vigilar el cumplimiento de la normativa preventiva por parte de contratistas",
+            "Delegar las responsabilidades preventivas en las empresas contratadas",
+            "Proveer formación a los trabajadores externos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los empresarios deben vigilar que los contratistas y subcontratistas cumplan con la normativa de prevención en los centros de trabajo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre la formación en prevención de riesgos laborales?",
+        "opciones": [
+            "Es obligatoria solo para los trabajadores de alto riesgo",
+            "Debe ser gratuita y adaptarse a los riesgos específicos del puesto",
+            "Debe impartirse trimestralmente en todas las empresas",
+            "Es opcional en las empresas con menos de 10 empleados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La formación debe ser gratuita, adaptarse a los riesgos del puesto de trabajo y realizarse en horario laboral siempre que sea posible."
+    },
+    {
+        "enunciado": "¿Qué debe incluir el plan de prevención de riesgos laborales según el artículo 16?",
+        "opciones": [
+            "Un registro de accidentes laborales",
+            "La estructura organizativa y los recursos necesarios para la prevención",
+            "El manual de instrucciones de los equipos de trabajo",
+            "Un listado de trabajadores vulnerables"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El plan de prevención debe contener la estructura organizativa, responsabilidades y recursos necesarios para garantizar la prevención de riesgos."
+    },
+    {
+        "enunciado": "¿Quiénes tienen derecho a participar en el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Solo los delegados de prevención",
+            "Los representantes de trabajadores y empresarios",
+            "Los inspectores de trabajo",
+            "Todos los trabajadores de la empresa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud está compuesto por los representantes de los trabajadores y del empresario, promoviendo la participación en prevención."
+    },
+    {
+        "enunciado": "¿Qué medidas debe adoptar el empresario para garantizar la seguridad en caso de emergencias?",
+        "opciones": [
+            "Elaborar un plan de evacuación y formar al personal encargado",
+            "Contratar una empresa externa para gestionar emergencias",
+            "Establecer reuniones mensuales con los trabajadores",
+            "Solicitar inspecciones anuales obligatorias"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe elaborar un plan de emergencia, designar y formar al personal encargado, y garantizar la eficacia de estas medidas."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué información debe proporcionar el empresario a sus trabajadores?",
+        "opciones": [
+            "Solo los riesgos generales del sector",
+            "Los riesgos específicos del puesto y medidas preventivas",
+            "Las normativas internacionales en prevención",
+            "El presupuesto destinado a seguridad y salud"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe informar a los trabajadores sobre los riesgos específicos de su puesto y las medidas de protección aplicables."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene la vigilancia periódica de la salud según la Ley 31/1995?",
+        "opciones": [
+            "Evaluar las condiciones generales de trabajo",
+            "Detectar efectos de los riesgos laborales sobre los trabajadores",
+            "Cumplir con las normativas de la Inspección de Trabajo",
+            "Mejorar la productividad empresarial"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La vigilancia de la salud busca identificar los efectos de las condiciones laborales sobre los trabajadores y prevenir daños mayores."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre las actividades de formación en prevención?",
+        "opciones": [
+            "Deben ser realizadas exclusivamente por el empresario",
+            "Pueden ser impartidas por servicios propios o externos",
+            "Son obligatorias solo en sectores industriales",
+            "Solo se ofrecen en empresas con más de 50 empleados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La formación en prevención puede ser impartida por el empresario o a través de servicios externos, adaptándose a las necesidades de la empresa."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre los derechos de información de los trabajadores?",
+        "opciones": [
+            "Tienen derecho a información sobre los riesgos específicos y las medidas preventivas aplicables",
+            "Solo reciben información cuando se produce un accidente",
+            "Pueden solicitar información únicamente a través del delegado de prevención",
+            "La información debe ser proporcionada por la Inspección de Trabajo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley establece que los trabajadores tienen derecho a conocer los riesgos específicos de su puesto y las medidas preventivas correspondientes."
+    },
+    {
+        "enunciado": "¿Qué se considera un 'riesgo laboral grave e inminente' según la Ley 31/1995?",
+        "opciones": [
+            "Un riesgo que afecta a toda la empresa",
+            "Un peligro con alta probabilidad de ocurrencia inmediata y daños graves",
+            "Cualquier riesgo detectado durante una inspección",
+            "Un riesgo notificado por el delegado de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Se considera grave e inminente cuando es altamente probable que ocurra inmediatamente y pueda causar daños graves a la salud."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿quién es responsable de adoptar medidas preventivas frente a riesgos laborales?",
+        "opciones": [
+            "La Inspección de Trabajo",
+            "Los trabajadores",
+            "El empresario",
+            "Los delegados de prevención"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario tiene la obligación de adoptar medidas preventivas para proteger la seguridad y la salud de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué trabajadores están protegidos por la vigilancia de la salud según la Ley 31/1995?",
+        "opciones": [
+            "Aquellos expuestos a riesgos específicos",
+            "Solo los trabajadores a tiempo completo",
+            "Todos los trabajadores",
+            "Trabajadores con contrato indefinido"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Todos los trabajadores tienen derecho a la vigilancia de su salud en función de los riesgos inherentes a su actividad laboral."
+    },
+    {
+        "enunciado": "¿Qué principio de la acción preventiva está relacionado con evitar los riesgos?",
+        "opciones": [
+            "Evaluar los riesgos que no se pueden evitar",
+            "Planificar la prevención",
+            "Adoptar medidas colectivas de protección",
+            "Eliminar o minimizar los riesgos desde su origen"
+        ],
+        "correcta": 3,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio fundamental es evitar los riesgos desde su origen, siempre que sea posible."
+    },
+    {
+        "enunciado": "¿Qué deben incluir las medidas de emergencia según el artículo 20 de la Ley 31/1995?",
+        "opciones": [
+            "Un listado de empleados autorizados",
+            "Procedimientos de evacuación y primeros auxilios",
+            "Una descripción de los equipos de protección",
+            "Una copia del reglamento interno"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Las medidas de emergencia deben incluir procedimientos claros para la evacuación, primeros auxilios y lucha contra incendios."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen los delegados de prevención según la Ley 31/1995?",
+        "opciones": [
+            "Garantizar el cumplimiento de las normas",
+            "Supervisar la formación de los trabajadores",
+            "Colaborar en la mejora de la prevención en la empresa",
+            "Elaborar los planes de prevención"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los delegados de prevención tienen competencias para colaborar en la mejora de las condiciones de seguridad y salud laboral."
+    },
+    {
+        "enunciado": "¿Qué debe hacer el empresario ante un accidente laboral grave según la Ley 31/1995?",
+        "opciones": [
+            "Notificarlo inmediatamente a la autoridad laboral",
+            "Convocar al Comité de Seguridad y Salud",
+            "Paralizar toda actividad laboral",
+            "Contratar un servicio de prevención externo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe notificar cualquier accidente laboral grave a la autoridad laboral de forma inmediata."
+    },
+    {
+        "enunciado": "¿Qué artículo de la Ley 31/1995 regula la participación de los trabajadores en la prevención de riesgos laborales?",
+        "opciones": [
+            "Artículo 18",
+            "Artículo 21",
+            "Artículo 24",
+            "Artículo 30"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 18 establece el derecho de los trabajadores a participar en la prevención mediante consultas y propuestas al empresario."
+    },
+    {
+        "enunciado": "¿Qué acciones se deben tomar en actividades subcontratadas según la Ley 31/1995?",
+        "opciones": [
+            "Proveer formación específica a los trabajadores subcontratados",
+            "Informar y coordinarse para garantizar la seguridad",
+            "Transferir todas las responsabilidades al subcontratista",
+            "Solicitar inspecciones obligatorias a la autoridad laboral"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "En caso de actividades subcontratadas, se debe garantizar la coordinación y la información adecuada para la prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 26 de la Ley 31/1995 sobre la protección de la maternidad?",
+        "opciones": [
+            "La obligación de adaptar las condiciones de trabajo para evitar riesgos",
+            "La suspensión automática del contrato durante el embarazo",
+            "La exclusión de trabajadoras embarazadas de actividades nocturnas",
+            "La prohibición de trabajar durante el periodo de lactancia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 26 obliga al empresario a adaptar las condiciones o tiempo de trabajo para proteger a las trabajadoras embarazadas y lactantes frente a riesgos."
+    },
+    {
+        "enunciado": "¿Qué derecho tiene un trabajador ante un riesgo grave e inminente según la Ley 31/1995?",
+        "opciones": [
+            "Notificar al delegado de prevención",
+            "Interrumpir su actividad y abandonar el lugar de trabajo",
+            "Esperar la autorización del empresario para suspender su tarea",
+            "Solicitar una evaluación externa del riesgo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Ante un riesgo grave e inminente, el trabajador tiene derecho a interrumpir su actividad y abandonar el lugar de trabajo hasta que se garantice su seguridad."
+    },
+    {
+        "enunciado": "¿Qué organismos están encargados de promover la política de prevención de riesgos laborales según la Ley 31/1995?",
+        "opciones": [
+            "La Inspección de Trabajo y las mutuas de accidentes",
+            "El Instituto Nacional de Seguridad y Salud en el Trabajo y las Comunidades Autónomas",
+            "El Comité de Seguridad y Salud de cada empresa",
+            "Los sindicatos y asociaciones empresariales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad y Salud en el Trabajo, en colaboración con las Comunidades Autónomas, promueve la política de prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué debe incluir un plan de prevención de riesgos laborales según la Ley 31/1995?",
+        "opciones": [
+            "La lista de sanciones por incumplimientos",
+            "La evaluación de riesgos y la planificación de actividades preventivas",
+            "Un informe mensual sobre los accidentes laborales",
+            "La normativa laboral vigente en materia de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El plan de prevención debe incluir la evaluación de riesgos y la planificación de las actividades necesarias para eliminarlos o reducirlos."
+    },
+    {
+        "enunciado": "¿Qué debe garantizar el empresario respecto a los equipos de protección individual según la Ley 31/1995?",
+        "opciones": [
+            "Que sean revisados anualmente por la Inspección de Trabajo",
+            "Que sean adecuados y utilizados correctamente por los trabajadores",
+            "Que sean compartidos por todos los empleados en turnos rotativos",
+            "Que sean diseñados por el Comité de Seguridad y Salud"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe garantizar que los equipos de protección individual sean adecuados al trabajo y utilizados de forma correcta por los empleados."
+    },
+    {
+        "enunciado": "Según el artículo 24 de la Ley 31/1995, ¿qué obligación tiene el empresario titular de un centro de trabajo con empresas contratistas?",
+        "opciones": [
+            "Establecer medidas de coordinación e informar sobre riesgos",
+            "Supervisar las evaluaciones de riesgos realizadas por las contratistas",
+            "Proveer equipos de protección a los trabajadores subcontratados",
+            "Realizar inspecciones conjuntas con las autoridades laborales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 24 establece que el empresario titular debe coordinarse con las empresas contratistas e informar sobre los riesgos y medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué determina el artículo 14 sobre el deber de protección del empresario?",
+        "opciones": [
+            "Que puede delegar sus responsabilidades en los trabajadores",
+            "Que debe garantizar la seguridad y salud en todos los aspectos relacionados con el trabajo",
+            "Que solo se aplica a empresas con más de 50 empleados",
+            "Que únicamente incluye la formación en prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 14 establece que el empresario tiene el deber de garantizar la seguridad y salud de los trabajadores en todos los aspectos del trabajo."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen las empresas al cesar su actividad según el artículo 23 de la Ley 31/1995?",
+        "opciones": [
+            "Proporcionar indemnizaciones a los trabajadores",
+            "Notificar a las autoridades sanitarias y laborales la documentación preventiva",
+            "Destruir los documentos relacionados con la prevención",
+            "Garantizar el empleo de los delegados de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Al cesar su actividad, las empresas deben notificar y remitir a las autoridades competentes toda la documentación relacionada con la prevención de riesgos."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 15 sobre los principios de acción preventiva?",
+        "opciones": [
+            "Deben ser definidos por cada empresa según su sector",
+            "Incluyen evitar riesgos, evaluarlos y combatirlos en su origen",
+            "Se centran exclusivamente en la protección individual",
+            "Se aplican solo en actividades de alto riesgo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 15 establece principios como evitar los riesgos, evaluarlos y combatirlos en su origen, priorizando siempre la prevención."
+    },
+    {
+        "enunciado": "¿Qué contempla la Ley 31/1995 para trabajadores temporales o de duración determinada?",
+        "opciones": [
+            "Deben recibir una formación básica en prevención",
+            "Tienen los mismos derechos en seguridad y salud que el resto de trabajadores",
+            "Solo aplican las medidas de prevención si superan un año de contrato",
+            "Están excluidos de la vigilancia de la salud"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley garantiza que los trabajadores temporales o de duración determinada disfruten del mismo nivel de protección que los demás trabajadores."
+    },
+    {
+        "enunciado": "¿Qué obligación establece la Ley 31/1995 respecto a los trabajadores especialmente sensibles a ciertos riesgos?",
+        "opciones": [
+            "Proveerles de equipos de protección individual más avanzados",
+            "Eximirlos de realizar evaluaciones médicas periódicas",
+            "Garantizarles protección específica según sus características",
+            "Asignarles tareas administrativas únicamente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley 31/1995 establece que los trabajadores especialmente sensibles deben recibir una protección específica ajustada a sus condiciones."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué establece el artículo 9 sobre la Inspección de Trabajo?",
+        "opciones": [
+            "Tiene funciones de asesoramiento únicamente",
+            "Es responsable de elaborar los planes de prevención",
+            "Vigila y controla el cumplimiento de la normativa de prevención",
+            "Debe emitir informes técnicos para las empresas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 9 atribuye a la Inspección de Trabajo la función de vigilar y controlar que se cumpla la normativa de prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 17 sobre los equipos de trabajo?",
+        "opciones": [
+            "Deben ser adquiridos exclusivamente por proveedores homologados",
+            "Deben garantizar la seguridad y ser adecuados para su uso",
+            "Solo pueden ser utilizados por técnicos especializados",
+            "No requieren mantenimiento si están en garantía"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 17 establece que los equipos de trabajo deben ser seguros y adecuados para las tareas asignadas, además de mantenerse correctamente."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el empresario ante un riesgo grave e inminente según el artículo 21?",
+        "opciones": [
+            "Informar a los trabajadores y garantizar su evacuación",
+            "Esperar la evaluación de un inspector laboral",
+            "Solicitar al delegado de prevención que realice un informe",
+            "Revisar el plan de prevención antes de actuar"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 21 obliga al empresario a informar a los trabajadores sobre el riesgo y adoptar medidas inmediatas, como garantizar la evacuación."
+    },
+    {
+        "enunciado": "¿Qué incluye la definición de 'condiciones de trabajo' según el artículo 4 de la Ley 31/1995?",
+        "opciones": [
+            "Solo los equipos y herramientas utilizadas en la empresa",
+            "Todos los elementos que influyen en la seguridad y salud del trabajador",
+            "Los procedimientos administrativos internos de la empresa",
+            "Exclusivamente el entorno físico del lugar de trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 4 define las condiciones de trabajo como todos los elementos que afectan la seguridad y salud del trabajador, incluyendo equipos, organización y ambiente laboral."
+    },
+    {
+        "enunciado": "¿Qué función cumple el Instituto Nacional de Seguridad y Salud en el Trabajo según el artículo 8?",
+        "opciones": [
+            "Sancionar incumplimientos de la normativa de prevención",
+            "Coordinar las actividades de prevención a nivel europeo",
+            "Promover la mejora de las condiciones de seguridad y salud en el trabajo",
+            "Elaborar planes de emergencia para las empresas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad y Salud en el Trabajo promueve la mejora de las condiciones laborales y ofrece apoyo técnico en prevención."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre la protección de los menores de edad en el trabajo?",
+        "opciones": [
+            "No pueden trabajar bajo ninguna circunstancia",
+            "Solo pueden desempeñar funciones que no presenten riesgos específicos",
+            "Deben tener supervisión constante de un técnico especializado",
+            "Están autorizados a realizar cualquier tarea tras recibir formación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley protege a los menores asegurando que solo desempeñen funciones seguras y adaptadas a su nivel de experiencia y desarrollo."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 22 sobre la vigilancia de la salud de los trabajadores?",
+        "opciones": [
+            "Es obligatoria en todos los casos sin excepción",
+            "Debe ser periódica y respetar la intimidad de los trabajadores",
+            "Solo aplica para trabajadores en sectores de alto riesgo",
+            "Puede ser realizada por cualquier supervisor designado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 22 dispone que la vigilancia de la salud debe ser periódica y realizada respetando siempre la intimidad y dignidad de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué regula el artículo 29 de la Ley 31/1995 sobre las obligaciones de los trabajadores?",
+        "opciones": [
+            "Utilizar correctamente los equipos de protección y cumplir las medidas preventivas",
+            "Elaborar informes sobre riesgos detectados",
+            "Realizar inspecciones internas de seguridad",
+            "Diseñar el plan de prevención junto al empresario"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 29 establece que los trabajadores deben usar adecuadamente los equipos de protección y cooperar con el empresario en la prevención."
+    },
+    {
+        "enunciado": "¿Qué acciones debe tomar el empresario al identificar situaciones de emergencia según el artículo 20?",
+        "opciones": [
+            "Paralizar todas las actividades laborales",
+            "Formar y designar personal encargado de aplicar medidas de emergencia",
+            "Contratar servicios externos de emergencia",
+            "Notificar a la autoridad laboral de inmediato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe formar y designar personal para implementar medidas de emergencia, como evacuación y primeros auxilios, garantizando su eficacia."
+    },
+    {
+        "enunciado": "¿Qué define el artículo 2 de la Ley 31/1995 como objetivo principal de la norma?",
+        "opciones": [
+            "Reducir los costes asociados a accidentes laborales",
+            "Promover la seguridad y salud de los trabajadores mediante medidas preventivas",
+            "Garantizar el cumplimiento de las inspecciones laborales",
+            "Desarrollar exclusivamente programas de formación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 2 establece que el objetivo principal de la Ley es promover la seguridad y salud de los trabajadores mediante la prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre las medidas de protección colectiva?",
+        "opciones": [
+            "Deben aplicarse solo si fallan las individuales",
+            "Deben prevalecer sobre las medidas de protección individual siempre que sea posible",
+            "Son opcionales en empresas de menos de 50 trabajadores",
+            "Requieren ser aprobadas por la Inspección de Trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley establece que las medidas de protección colectiva deben prevalecer sobre las individuales siempre que sea posible, para maximizar la seguridad."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el empresario según el artículo 14 de la Ley 31/1995?",
+        "opciones": [
+            "Garantizar la seguridad y salud de los trabajadores en todos los aspectos relacionados con el trabajo",
+            "Proporcionar únicamente formación básica en prevención",
+            "Delegar todas las responsabilidades preventivas en servicios externos",
+            "Supervisar las evaluaciones realizadas por los delegados de prevención"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 14 obliga al empresario a garantizar la seguridad y salud de los trabajadores en todos los aspectos relacionados con su actividad laboral."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 18 sobre la información a los trabajadores?",
+        "opciones": [
+            "La información debe centrarse en los riesgos generales del sector",
+            "Debe ser específica para el puesto de trabajo y las medidas de prevención aplicables",
+            "Solo aplica para empresas con más de 50 empleados",
+            "Debe ser proporcionada directamente por los delegados de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 18 indica que el empresario debe proporcionar información específica sobre los riesgos del puesto de trabajo y las medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 31/1995 como equipo de protección individual?",
+        "opciones": [
+            "Cualquier herramienta utilizada por el trabajador",
+            "Un equipo destinado a proteger al trabajador contra riesgos específicos",
+            "La maquinaria de uso general en la empresa",
+            "Los sistemas de ventilación en el lugar de trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley define el equipo de protección individual como aquel que protege al trabajador frente a riesgos específicos para su seguridad y salud."
+    },
+    {
+        "enunciado": "¿Qué principio de acción preventiva busca planificar la prevención de forma integrada?",
+        "opciones": [
+            "Evitar los riesgos",
+            "Sustituir lo peligroso por lo seguro",
+            "Adaptar el trabajo a la persona",
+            "Planificar la prevención, integrándola en la técnica y la organización"
+        ],
+        "correcta": 3,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio de planificación busca integrar la prevención en todas las fases del proceso laboral, incluyendo técnica, organización y condiciones de trabajo."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los trabajadores según el artículo 21 en caso de riesgo grave e inminente?",
+        "opciones": [
+            "Recibir formación adicional sobre el riesgo",
+            "Suspender su actividad sin esperar autorización",
+            "Notificar al empresario y esperar instrucciones",
+            "Solicitar una inspección urgente de la autoridad laboral"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 21 otorga a los trabajadores el derecho a interrumpir su actividad y abandonar el lugar de trabajo ante un riesgo grave e inminente."
+    },
+    {
+        "enunciado": "¿Qué función tiene la evaluación de riesgos según la Ley 31/1995?",
+        "opciones": [
+            "Cumplir con los requisitos legales mínimos",
+            "Identificar los riesgos y establecer medidas preventivas",
+            "Justificar las inversiones en seguridad de la empresa",
+            "Revisar las sanciones aplicables por incumplimientos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La evaluación de riesgos permite identificar peligros en el entorno laboral y planificar medidas efectivas para eliminarlos o reducirlos."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre la formación de los trabajadores en prevención de riesgos?",
+        "opciones": [
+            "Es obligatoria solo al iniciar el contrato",
+            "Debe ser específica, suficiente y adaptada al puesto de trabajo",
+            "Se realiza únicamente en sectores de alto riesgo",
+            "Debe ser impartida por instituciones gubernamentales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La formación en prevención debe ser adecuada al puesto de trabajo, suficiente para los riesgos detectados y revisada cuando cambien las condiciones laborales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 respecto a los delegados de prevención?",
+        "opciones": [
+            "Son elegidos por los representantes de los trabajadores",
+            "Son designados directamente por el empresario",
+            "Deben ser miembros del Comité de Seguridad y Salud",
+            "Tienen la obligación de redactar los planes de prevención"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los delegados de prevención son elegidos por y entre los representantes de los trabajadores, y su función es garantizar la seguridad y salud en el trabajo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre la coordinación de actividades empresariales en un mismo centro de trabajo?",
+        "opciones": [
+            "Cada empresa debe gestionar sus propios riesgos de manera independiente",
+            "Es obligatorio coordinarse para aplicar la normativa de prevención y garantizar la seguridad de todos los trabajadores",
+            "Solo es necesario coordinarse en empresas con más de 50 empleados",
+            "La empresa principal asume toda la responsabilidad de la prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley exige la coordinación entre empresas para aplicar medidas de prevención y proteger a todos los trabajadores en un mismo centro de trabajo."
+    },
+    {
+        "enunciado": "¿Qué obliga al empresario el artículo 25 respecto a trabajadores sensibles a ciertos riesgos?",
+        "opciones": [
+            "Asignarles exclusivamente tareas administrativas",
+            "Evaluar los riesgos específicos y adoptar medidas adecuadas",
+            "Proveer equipos de protección personal sin considerar los riesgos",
+            "Reducir su jornada laboral para evitar exposiciones"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 25 obliga al empresario a evaluar los riesgos específicos y adaptar las medidas preventivas para proteger a los trabajadores especialmente sensibles."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué incluye la planificación de la actividad preventiva?",
+        "opciones": [
+            "La relación de accidentes ocurridos en la empresa",
+            "Los plazos, responsables y recursos necesarios para implementar las medidas preventivas",
+            "Un listado de equipos y herramientas utilizadas por los trabajadores",
+            "Los resultados de las auditorías externas de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La planificación de la actividad preventiva debe incluir los plazos, responsables y recursos necesarios para garantizar la implementación de las medidas."
+    },
+    {
+        "enunciado": "¿Qué función tiene el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Sancionar incumplimientos de las normas de prevención",
+            "Supervisar las actividades preventivas en la empresa",
+            "Servir como órgano de consulta y participación entre trabajadores y empresarios",
+            "Elaborar el plan de prevención para la empresa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud es un órgano consultivo y de participación entre trabajadores y empresarios en temas de prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 19 de la Ley 31/1995 sobre la formación de los trabajadores?",
+        "opciones": [
+            "Debe ser gratuita y realizarse preferentemente durante la jornada laboral",
+            "Es opcional para los trabajadores con contratos temporales",
+            "Debe ser general y no específica para el puesto de trabajo",
+            "Solo aplica para los trabajadores en sectores peligrosos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 19 establece que la formación debe ser gratuita, adecuada al puesto y realizada preferentemente durante la jornada laboral."
+    },
+    {
+        "enunciado": "¿Qué deben hacer las empresas al cesar su actividad según el artículo 23 de la Ley 31/1995?",
+        "opciones": [
+            "Notificar a la autoridad laboral y remitir la documentación de prevención",
+            "Destruir los documentos relacionados con la prevención",
+            "Asignar la gestión de prevención a la Inspección de Trabajo",
+            "Transferir toda la información al Comité de Seguridad y Salud"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Las empresas que cesen su actividad deben notificar a la autoridad laboral y remitir la documentación relativa a las medidas preventivas aplicadas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 respecto a las trabajadoras embarazadas?",
+        "opciones": [
+            "No pueden realizar actividades nocturnas bajo ninguna circunstancia",
+            "Deben ser excluidas de cualquier actividad considerada de riesgo",
+            "El empresario debe adaptar las condiciones de trabajo para evitar riesgos específicos",
+            "Solo se aplica la protección a partir del tercer trimestre de embarazo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley obliga al empresario a adaptar las condiciones o tiempos de trabajo para evitar riesgos específicos que afecten a trabajadoras embarazadas."
+    },
+    {
+        "enunciado": "¿Qué medidas debe tomar el empresario ante situaciones de emergencia según el artículo 20?",
+        "opciones": [
+            "Contratar un servicio externo de emergencia",
+            "Designar y formar al personal encargado de la evacuación y primeros auxilios",
+            "Solicitar asesoramiento a la Inspección de Trabajo",
+            "Revisar las condiciones laborales antes de actuar"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe designar y formar al personal encargado de aplicar medidas de emergencia, como evacuación y primeros auxilios."
+    },
+    {
+        "enunciado": "¿Qué regula el artículo 4 de la Ley 31/1995 sobre las definiciones clave en prevención?",
+        "opciones": [
+            "Los procedimientos para realizar auditorías preventivas",
+            "Conceptos como prevención, riesgo laboral y condiciones de trabajo",
+            "Las responsabilidades legales de los delegados de prevención",
+            "El ámbito de aplicación de la ley en sectores específicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 4 define conceptos clave como prevención, riesgo laboral, daños derivados del trabajo y condiciones de trabajo, fundamentales para la normativa."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 15 sobre los principios de la acción preventiva?",
+        "opciones": [
+            "Debe evaluarse el impacto económico de las medidas preventivas",
+            "Se prioriza la adopción de medidas colectivas sobre las individuales",
+            "Las medidas preventivas solo deben aplicarse si hay un riesgo confirmado",
+            "Se permite que los trabajadores elijan las medidas preventivas aplicables"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 15 establece que se deben priorizar las medidas colectivas frente a las individuales, siempre que sea posible, para garantizar mayor eficacia preventiva."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 14 de la Ley 31/1995 sobre el deber de protección del empresario?",
+        "opciones": [
+            "Debe garantizar la seguridad y salud de los trabajadores solo en casos de alto riesgo",
+            "Está obligado a garantizar la seguridad y salud de los trabajadores en todos los aspectos relacionados con el trabajo",
+            "Solo aplica el deber de protección en empresas con más de 10 empleados",
+            "Puede delegar la totalidad de su responsabilidad en un servicio de prevención externo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 14 establece que el empresario tiene la obligación de garantizar la seguridad y salud de los trabajadores en todos los aspectos del trabajo."
+    },
+    {
+        "enunciado": "Según el artículo 18 de la Ley 31/1995, ¿qué información deben recibir los trabajadores?",
+        "opciones": [
+            "Información sobre los riesgos generales de la industria",
+            "Información específica sobre los riesgos de su puesto y las medidas preventivas aplicables",
+            "Únicamente información proporcionada por los delegados de prevención",
+            "Información basada en accidentes ocurridos previamente en la empresa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 18 establece que los trabajadores deben ser informados de los riesgos específicos de su puesto y las medidas preventivas necesarias."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 respecto a los trabajadores temporales?",
+        "opciones": [
+            "Deben recibir la misma protección en seguridad y salud que el resto de trabajadores",
+            "Solo tienen derecho a medidas preventivas si tienen un contrato de más de un año",
+            "Están exentos de las evaluaciones de riesgos específicas",
+            "Solo reciben formación en prevención si lo solicita el empresario"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley 31/1995 garantiza que los trabajadores temporales tienen los mismos derechos en seguridad y salud que los trabajadores con contratos indefinidos."
+    },
+    {
+        "enunciado": "¿Qué función cumple la evaluación de riesgos según la Ley 31/1995?",
+        "opciones": [
+            "Cumplir con un requisito administrativo obligatorio",
+            "Detectar peligros y planificar las medidas necesarias para eliminarlos o reducirlos",
+            "Reducir los costes de la empresa relacionados con accidentes",
+            "Evitar la intervención de la Inspección de Trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La evaluación de riesgos tiene como objetivo identificar los peligros existentes y planificar las medidas preventivas adecuadas para controlarlos."
+    },
+    {
+        "enunciado": "¿Qué principio preventivo establece la Ley 31/1995 sobre la eliminación de riesgos?",
+        "opciones": [
+            "Sustituir lo peligroso por lo que entrañe poco o ningún peligro",
+            "Transferir el riesgo a una empresa subcontratada",
+            "Evaluar el riesgo sin necesidad de actuar inmediatamente",
+            "Aplicar medidas únicamente si se confirman accidentes previos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Uno de los principios fundamentales de la Ley 31/1995 es sustituir lo peligroso por lo seguro, reduciendo así los riesgos en su origen."
+    },
+    {
+        "enunciado": "¿Qué derecho tienen los trabajadores ante un riesgo grave e inminente según el artículo 21?",
+        "opciones": [
+            "Recibir formación adicional antes de continuar su actividad",
+            "Interrumpir su actividad y abandonar el lugar de trabajo",
+            "Esperar instrucciones del empresario o de la autoridad laboral",
+            "Delegar en los representantes de los trabajadores la decisión de actuar"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 21 otorga a los trabajadores el derecho de interrumpir su actividad y abandonar el lugar de trabajo si existe un riesgo grave e inminente."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 19 de la Ley 31/1995 sobre la formación en prevención?",
+        "opciones": [
+            "Debe ser impartida únicamente al inicio del contrato",
+            "Debe ser específica, suficiente y adecuada a los riesgos del puesto",
+            "Es opcional en empresas de menos de 50 trabajadores",
+            "Debe ser gestionada exclusivamente por los delegados de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 19 establece que la formación debe adaptarse a los riesgos del puesto de trabajo, ser suficiente y realizada de manera gratuita."
+    },
+    {
+        "enunciado": "¿Qué medidas debe incluir un plan de emergencia según la Ley 31/1995?",
+        "opciones": [
+            "Solo procedimientos de evacuación",
+            "Procedimientos de evacuación, lucha contra incendios y primeros auxilios",
+            "Únicamente un listado de responsables de seguridad",
+            "La evaluación de riesgos del lugar de trabajo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Un plan de emergencia debe incluir medidas claras para la evacuación, lucha contra incendios y primeros auxilios, asegurando la protección de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué regula el artículo 26 sobre la protección de la maternidad?",
+        "opciones": [
+            "La obligación de suspender el contrato durante el embarazo",
+            "La evaluación y adaptación de las condiciones laborales para evitar riesgos",
+            "La exclusión de trabajadoras embarazadas de actividades nocturnas",
+            "La obligación de realizar un informe médico trimestral"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 26 regula la protección de la maternidad, estableciendo la necesidad de evaluar y adaptar las condiciones laborales para prevenir riesgos."
+    },
+    {
+        "enunciado": "¿Qué obliga la Ley 31/1995 a hacer con la documentación sobre prevención en caso de cese de actividad empresarial?",
+        "opciones": [
+            "Destruirla tras la última auditoría interna",
+            "Transferirla a la autoridad laboral competente",
+            "Entregarla a los representantes de los trabajadores",
+            "Publicarla en un boletín oficial para garantizar la transparencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "En caso de cese de actividad, la Ley obliga a transferir la documentación sobre prevención a la autoridad laboral competente para su archivo y seguimiento."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 15 de la Ley 31/1995 sobre los principios de acción preventiva?",
+        "opciones": [
+            "Evitar los riesgos y combatirlos en su origen",
+            "Revisar los riesgos solo tras un accidente",
+            "Garantizar la aplicación de medidas de protección individual",
+            "Aplicar medidas preventivas únicamente en actividades de alto riesgo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 15 establece como principios fundamentales evitar los riesgos y combatirlos en su origen para garantizar la seguridad de los trabajadores."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué trabajadores tienen derecho a la vigilancia de la salud?",
+        "opciones": [
+            "Solo aquellos expuestos a sustancias peligrosas",
+            "Todos los trabajadores en función de los riesgos inherentes a su puesto",
+            "Únicamente los trabajadores con contratos indefinidos",
+            "Aquellos que lo soliciten explícitamente al empresario"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La vigilancia de la salud se aplica a todos los trabajadores, según los riesgos específicos asociados a su actividad laboral."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el empresario respecto a la información en prevención según la Ley 31/1995?",
+        "opciones": [
+            "Informar a los trabajadores solo durante las inspecciones laborales",
+            "Proveer información clara y comprensible sobre los riesgos y medidas preventivas",
+            "Delegar la información exclusivamente en los delegados de prevención",
+            "Garantizar que los trabajadores reciban información una vez al año"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe garantizar que todos los trabajadores reciban información adecuada y comprensible sobre los riesgos y las medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué acción debe tomar un trabajador ante un riesgo grave e inminente según la Ley 31/1995?",
+        "opciones": [
+            "Esperar la evaluación del delegado de prevención",
+            "Interrumpir su actividad y abandonar el lugar de trabajo",
+            "Solicitar un informe técnico antes de actuar",
+            "Continuar su actividad con precaución"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Ante un riesgo grave e inminente, el trabajador tiene derecho a interrumpir su actividad y abandonar el lugar de trabajo de inmediato."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 24 sobre la coordinación de actividades empresariales?",
+        "opciones": [
+            "Las empresas deben coordinarse para garantizar la aplicación coherente de medidas preventivas",
+            "Cada empresa debe gestionar únicamente los riesgos propios",
+            "La responsabilidad recae siempre en la empresa principal",
+            "No se requiere coordinación en actividades con baja exposición a riesgos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El artículo 24 obliga a las empresas a coordinarse para asegurar la implementación efectiva de las medidas preventivas en centros de trabajo compartidos."
+    },
+    {
+        "enunciado": "¿Qué documento regula las medidas específicas de prevención en cada puesto de trabajo?",
+        "opciones": [
+            "El plan de prevención de riesgos laborales",
+            "La evaluación de riesgos",
+            "El reglamento interno de la empresa",
+            "El manual de instrucciones de seguridad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La evaluación de riesgos identifica los peligros específicos de cada puesto y define las medidas necesarias para prevenirlos."
+    },
+    {
+        "enunciado": "¿Qué incluye la protección específica para trabajadoras embarazadas según la Ley 31/1995?",
+        "opciones": [
+            "La adaptación de las condiciones de trabajo para evitar riesgos",
+            "La reducción automática de la jornada laboral",
+            "La obligación de trabajar exclusivamente en turnos diurnos",
+            "La exención de usar equipos de protección individual"
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Ley 31/1995 establece que las trabajadoras embarazadas deben recibir protección específica mediante la adaptación de condiciones laborales para evitar riesgos."
+    },
+    {
+        "enunciado": "¿Qué función tiene el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Aprobar el plan de prevención de la empresa",
+            "Actuar como órgano de consulta y participación en prevención",
+            "Realizar inspecciones periódicas en el centro de trabajo",
+            "Determinar las sanciones en caso de incumplimientos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud actúa como un órgano consultivo y participativo en temas de seguridad y salud dentro de la empresa."
+    },
+    {
+        "enunciado": "¿Qué principio preventivo promueve adaptar el trabajo a la persona?",
+        "opciones": [
+            "Evitar los riesgos",
+            "Combatir los riesgos en su origen",
+            "Adaptar el trabajo a la persona para reducir efectos negativos",
+            "Sustituir lo peligroso por lo seguro"
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio de adaptar el trabajo a la persona busca minimizar los efectos negativos de las tareas laborales en la salud del trabajador."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 8 sobre el Instituto Nacional de Seguridad y Salud en el Trabajo?",
+        "opciones": [
+            "Tiene la función de imponer sanciones a las empresas",
+            "Es responsable de promover la mejora de las condiciones de seguridad y salud",
+            "Debe realizar inspecciones obligatorias en centros laborales",
+            "Tiene la tarea de evaluar a los delegados de prevención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad y Salud en el Trabajo se encarga de promover y apoyar mejoras en las condiciones de seguridad y salud laboral."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995 de Prevención de Riesgos Laborales, ¿qué principio preventivo debe aplicarse prioritariamente por el empresario?",
+        "opciones": [
+            "Combatir los riesgos en su origen.",
+            "Adoptar medidas que antepongan la protección individual.",
+            "Evitar distracciones e imprudencias de los trabajadores.",
+            "Realizar controles periódicos de las condiciones laborales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El principio fundamental es combatir los riesgos en su origen, asegurando que se minimicen antes de que se materialicen."
+    },
+    {
+        "enunciado": "¿Qué institución actúa como centro de referencia nacional para la Agencia Europea de Seguridad y Salud en el Trabajo según la Ley 31/1995?",
+        "opciones": [
+            "Inspección de Trabajo y Seguridad Social.",
+            "Ministerio de Trabajo y Economía Social.",
+            "Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+            "Consejo Económico y Social."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Instituto Nacional de Seguridad e Higiene en el Trabajo actúa como centro de referencia para la coordinación con la Agencia Europea."
+    },
+    {
+        "enunciado": "En caso de riesgo grave e inminente, ¿qué acción debe tomar el trabajador según la Ley 31/1995?",
+        "opciones": [
+            "Solicitar instrucciones al empresario antes de actuar.",
+            "Interrumpir su actividad y abandonar el lugar de trabajo si es necesario.",
+            "Continuar trabajando mientras informa a un superior.",
+            "Presentar una reclamación por escrito al comité de seguridad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El trabajador tiene derecho a interrumpir su actividad y abandonar el lugar si considera que existe un riesgo grave e inminente."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 31/1995 sobre la formación en prevención de riesgos laborales?",
+        "opciones": [
+            "Debe impartirse exclusivamente al inicio de la contratación.",
+            "Es obligatoria solo para trabajadores con riesgo grave e inminente.",
+            "Debe ser teórica y práctica, adecuada al puesto, y actualizada según los riesgos.",
+            "Solo es necesaria cuando se introducen cambios tecnológicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La formación debe ser teórica y práctica, suficiente, adecuada y repetirse si cambian los riesgos."
+    },
+    {
+        "enunciado": "Según el artículo 16 de la Ley 31/1995, ¿qué documento debe incluir la estructura organizativa y los procedimientos para prevenir riesgos?",
+        "opciones": [
+            "El plan de emergencias.",
+            "El plan de prevención de riesgos laborales.",
+            "La memoria anual de seguridad.",
+            "El informe de vigilancia de la salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El plan de prevención de riesgos laborales debe contener la organización y los procedimientos para gestionar los riesgos."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes es un requisito obligatorio para los equipos de trabajo según la Ley 31/1995?",
+        "opciones": [
+            "Ser reparados por cualquier trabajador capacitado.",
+            "Ser utilizados únicamente bajo supervisión externa.",
+            "Ser adecuados al trabajo y garantizar la seguridad de los trabajadores.",
+            "Tener una vida útil superior a 5 años, independientemente del riesgo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los equipos de trabajo deben ser adecuados para la tarea y garantizar la seguridad y salud de los trabajadores al usarlos."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿quién debe financiar las medidas de seguridad y salud en el trabajo?",
+        "opciones": [
+            "El trabajador a través de una cuota adicional.",
+            "El empresario como parte de sus responsabilidades.",
+            "La Administración Pública en su totalidad.",
+            "Un fondo especial de las mutuas de accidentes laborales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El empresario debe asumir todos los costes relacionados con las medidas de seguridad y salud en el trabajo, sin trasladarlos a los trabajadores."
+    },
+    {
+        "enunciado": "En el marco de la Ley 31/1995, ¿qué acción está obligada a realizar una empresa en caso de trabajar en un centro compartido con otras empresas?",
+        "opciones": [
+            "Designar un coordinador general de seguridad.",
+            "Informar sobre los riesgos específicos y medidas preventivas.",
+            "Solicitar permiso a las demás empresas antes de operar.",
+            "Realizar una evaluación conjunta de riesgos para todo el centro."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La empresa debe informar a las demás empresas sobre los riesgos y las medidas preventivas relacionadas con su actividad."
+    },
+    {
+        "enunciado": "¿Qué considera la Ley 31/1995 como 'riesgo laboral grave e inminente'?",
+        "opciones": [
+            "Una probabilidad remota de daño en el futuro.",
+            "Un riesgo que podría materializarse de forma inmediata con consecuencias graves.",
+            "Cualquier situación que implique un esfuerzo físico intenso.",
+            "Un accidente que ya haya ocurrido previamente en la empresa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Un riesgo grave e inminente es aquel que podría ocurrir de forma inmediata y causar daños graves a la salud del trabajador."
+    },
+    {
+        "enunciado": "De acuerdo con la Ley 31/1995, ¿qué deben garantizar las medidas de vigilancia de la salud?",
+        "opciones": [
+            "La confidencialidad de los datos de salud.",
+            "La imposición de exámenes médicos obligatorios a todos los trabajadores.",
+            "El acceso total del empresario a los informes médicos.",
+            "El seguimiento exclusivo de enfermedades comunes."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La vigilancia de la salud debe respetar la confidencialidad de los datos y la dignidad del trabajador."
+    },
+    {
+        "enunciado": "¿Qué es el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Un órgano colegiado asesor para el Ministerio de Trabajo.",
+            "El órgano paritario de participación en la empresa en materia de prevención de riesgos laborales.",
+            "Un equipo designado por el empresario para vigilar la salud de los trabajadores.",
+            "Un grupo formado exclusivamente por Delegados de Prevención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud es un órgano paritario donde participan representantes de la empresa y de los trabajadores para tratar temas de prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿En qué tipo de empresas es obligatorio constituir un Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "En todas las empresas, independientemente del número de trabajadores.",
+            "En empresas con más de 50 trabajadores.",
+            "En empresas del sector industrial únicamente.",
+            "Solo en empresas donde se hayan producido accidentes graves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud es obligatorio en empresas con más de 50 trabajadores, aunque su creación puede pactarse en otros casos."
+    },
+    {
+        "enunciado": "¿Quiénes componen el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Representantes de los trabajadores únicamente.",
+            "Representantes del empresario y de los trabajadores en igual número.",
+            "Miembros de la Inspección de Trabajo y del empresario.",
+            "Solo los Delegados de Prevención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud está compuesto por igual número de representantes del empresario y de los trabajadores, incluyendo los Delegados de Prevención."
+    },
+    {
+        "enunciado": "¿Qué funciones tiene el Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Negociar convenios colectivos.",
+            "Coordinar actividades empresariales de prevención.",
+            "Participar en la elaboración y evaluación de los planes de prevención en la empresa.",
+            "Gestionar las indemnizaciones por accidentes laborales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud colabora en la elaboración y evaluación de planes y programas preventivos en la empresa."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una competencia específica del Comité de Seguridad y Salud según la Ley 31/1995?",
+        "opciones": [
+            "Emitir sanciones disciplinarias por incumplimientos de seguridad.",
+            "Realizar inspecciones periódicas de seguridad en la empresa.",
+            "Aprobar los presupuestos anuales de prevención.",
+            "Representar legalmente a los trabajadores en conflictos laborales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "El Comité de Seguridad y Salud puede realizar inspecciones periódicas en la empresa para identificar y prevenir riesgos laborales."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿cómo se clasifican las infracciones en materia de prevención de riesgos laborales?",
+        "opciones": [
+            "Leves, moderadas y graves.",
+            "Leves, graves y muy graves.",
+            "Administrativas, civiles y penales.",
+            "Básicas, avanzadas y críticas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Las infracciones se clasifican en leves, graves y muy graves, dependiendo de su impacto y el incumplimiento de la normativa."
+    },
+    {
+        "enunciado": "¿Qué tipo de infracción es no proporcionar a los trabajadores equipos de protección individual cuando son necesarios?",
+        "opciones": [
+            "Leve.",
+            "Grave.",
+            "Muy grave.",
+            "No es considerada una infracción."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La no provisión de equipos de protección individual constituye una infracción grave, ya que pone en riesgo directo la seguridad de los trabajadores."
+    },
+    {
+        "enunciado": "¿Qué consecuencia puede derivarse de una infracción muy grave en prevención de riesgos laborales?",
+        "opciones": [
+            "Multa económica y suspensión de la actividad empresarial.",
+            "Un aviso formal de las autoridades competentes.",
+            "La destitución automática del responsable de prevención.",
+            "La obligación de formar a los trabajadores implicados."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Las infracciones muy graves pueden implicar sanciones económicas significativas y, en algunos casos, la suspensión de actividades."
+    },
+    {
+        "enunciado": "¿Qué órgano es responsable de determinar las sanciones por infracciones a la Ley 31/1995?",
+        "opciones": [
+            "El Comité de Seguridad y Salud.",
+            "La Inspección de Trabajo y Seguridad Social.",
+            "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+            "El Ministerio de Justicia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "La Inspección de Trabajo y Seguridad Social es la autoridad competente para proponer sanciones por incumplimientos en prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes situaciones podría considerarse una infracción leve en prevención de riesgos laborales?",
+        "opciones": [
+            "No informar a los trabajadores sobre los riesgos de su puesto.",
+            "No registrar un accidente laboral que no cause incapacidad.",
+            "Exponer a los trabajadores a productos químicos peligrosos sin protección.",
+            "No realizar una evaluación inicial de riesgos en la empresa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "No registrar un accidente menor podría ser considerado una infracción leve, ya que afecta al cumplimiento administrativo, pero no directamente a la seguridad."
+    },
+    {
+        "enunciado": "¿Qué son los Delegados de Prevención según la Ley 31/1995?",
+        "opciones": [
+            "Representantes sindicales designados por el empresario.",
+            "Trabajadores designados para supervisar exclusivamente los equipos de protección.",
+            "Representantes de los trabajadores con funciones específicas en materia de prevención de riesgos laborales.",
+            "Miembros externos contratados para evaluar los riesgos laborales de la empresa."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los Delegados de Prevención son los representantes de los trabajadores encargados de velar por el cumplimiento de la normativa en prevención de riesgos laborales."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿qué facultad tienen los Delegados de Prevención en relación con las inspecciones?",
+        "opciones": [
+            "Emitir sanciones administrativas por incumplimientos detectados.",
+            "Realizar inspecciones en la empresa acompañando a la Inspección de Trabajo y Seguridad Social.",
+            "Elaborar los informes técnicos obligatorios de evaluación de riesgos.",
+            "Determinar los equipos de protección individual obligatorios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los Delegados de Prevención pueden acompañar a la Inspección de Trabajo y Seguridad Social durante las visitas a la empresa."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una competencia de los Delegados de Prevención según la Ley 31/1995?",
+        "opciones": [
+            "Proponer medidas para la mejora de la prevención en la empresa.",
+            "Aprobar el presupuesto destinado a seguridad laboral.",
+            "Contratar servicios externos de prevención.",
+            "Representar al empresario en reuniones del Comité de Seguridad y Salud."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los Delegados de Prevención pueden proponer medidas para mejorar la seguridad y salud laboral en la empresa."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los Delegados de Prevención en relación con la información en materia preventiva?",
+        "opciones": [
+            "Acceder a toda la información sobre riesgos y medidas preventivas de la empresa.",
+            "Solicitar información solo sobre accidentes graves.",
+            "Recibir informes únicamente por parte del Comité de Seguridad y Salud.",
+            "Pedir acceso a los datos médicos individuales de los trabajadores."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los Delegados de Prevención tienen derecho a acceder a toda la información relacionada con los riesgos laborales y las medidas preventivas."
+    },
+    {
+        "enunciado": "¿En qué casos pueden los Delegados de Prevención solicitar la paralización de actividades laborales?",
+        "opciones": [
+            "Cuando no se han entregado equipos de protección individual.",
+            "En situaciones de riesgo grave e inminente para los trabajadores.",
+            "Cuando no se haya realizado formación en prevención.",
+            "En caso de incumplimiento del calendario de evaluaciones de riesgos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Los Delegados de Prevención pueden solicitar la paralización de actividades si detectan un riesgo grave e inminente para la seguridad o salud de los trabajadores."
+    },
+    {
+        "enunciado": "Según el artículo 35 de la Ley 31/1995, ¿cuántos Delegados de Prevención corresponde tener en una empresa con 101 trabajadores?",
+        "opciones": [
+            "1 Delegado de Prevención.",
+            "2 Delegados de Prevención.",
+            "3 Delegados de Prevención.",
+            "4 Delegados de Prevención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "En empresas de 101 a 500 trabajadores, la Ley establece que debe haber 2 Delegados de Prevención."
+    },
+    {
+        "enunciado": "¿Cuál es el número de Delegados de Prevención para una empresa con más de 4.000 trabajadores según el artículo 35 de la Ley 31/1995?",
+        "opciones": [
+            "6 Delegados de Prevención.",
+            "8 Delegados de Prevención.",
+            "9 Delegados de Prevención.",
+            "12 Delegados de Prevención."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Para empresas con más de 4.000 trabajadores, se requieren 9 Delegados de Prevención."
+    },
+    {
+        "enunciado": "En una empresa de 750 trabajadores, ¿cuántos Delegados de Prevención deben ser designados según el artículo 35 de la Ley 31/1995?",
+        "opciones": [
+            "2 Delegados de Prevención.",
+            "3 Delegados de Prevención.",
+            "4 Delegados de Prevención.",
+            "6 Delegados de Prevención."
+        ],
+        "correcta": 2,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "Para empresas con 501 a 1.000 trabajadores, la Ley establece 4 Delegados de Prevención."
+    },
+    {
+        "enunciado": "Según la Ley 31/1995, ¿cuántos Delegados de Prevención corresponden a una empresa con 20 trabajadores?",
+        "opciones": [
+            "Ninguno.",
+            "1 Delegado de Prevención.",
+            "2 Delegados de Prevención.",
+            "3 Delegados de Prevención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "En empresas con hasta 49 trabajadores, corresponde un único Delegado de Prevención."
+    },
+    {
+        "enunciado": "¿Qué número de Delegados de Prevención debe designarse en una empresa con 3.500 trabajadores según el artículo 35 de la Ley 31/1995?",
+        "opciones": [
+            "6 Delegados de Prevención.",
+            "7 Delegados de Prevención.",
+            "8 Delegados de Prevención.",
+            "9 Delegados de Prevención."
+        ],
+        "correcta": 0,
+        "categorías": ["tema6", "PRL"],
+        "feedback": "En empresas con 2.001 a 3.999 trabajadores, corresponde un total de 6 Delegados de Prevención."
+    }
+]
+
+
+

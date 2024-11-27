@@ -1,0 +1,3109 @@
+[
+  {
+    "enunciado": "¿Qué principio se menciona en la Ley 14/1986, General de Sanidad, como fundamental para el acceso al Sistema Nacional de Salud?",
+    "opciones": [
+      "Gratuidad total de los servicios sanitarios.",
+      "Equidad y universalidad.",
+      "Prioridad a los residentes nacionales.",
+      "Subsidios específicos para servicios privados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 enfatiza la equidad y la universalidad como principios clave para garantizar el acceso a los servicios sanitarios."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿cuál es una de las competencias de las Administraciones Públicas en materia de sanidad?",
+    "opciones": [
+      "Establecer las tarifas de servicios privados.",
+      "Asegurar la prevención, promoción y atención sanitaria.",
+      "Regular el acceso exclusivo a medicamentos innovadores.",
+      "Privatizar la gestión de los centros de salud."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La ley asigna a las Administraciones Públicas la responsabilidad de asegurar la prevención, promoción y atención sanitaria integral."
+  },
+  {
+    "enunciado": "¿Qué se garantiza a través del Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Atención sanitaria solo a trabajadores activos.",
+      "Cobertura exclusiva para residentes nacionales.",
+      "Acceso universal a servicios básicos.",
+      "Acceso limitado según el ingreso económico."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El acceso universal a los servicios básicos es uno de los pilares fundamentales establecidos por la Ley 14/1986."
+  },
+  {
+    "enunciado": "¿Cómo se organiza territorialmente el Sistema Sanitario Público de Andalucía según su marco legal?",
+    "opciones": [
+      "Por provincias exclusivamente.",
+      "Por áreas de salud y zonas básicas.",
+      "Por municipios y regiones.",
+      "Por unidades hospitalarias únicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El sistema se organiza en áreas de salud y zonas básicas, atendiendo a factores geográficos y demográficos para garantizar la accesibilidad."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación de los ciudadanos en el sistema sanitario?",
+    "opciones": [
+      "No contempla ninguna forma de participación.",
+      "Se limita a la participación en encuestas.",
+      "Fomenta la participación activa a través de consejos de salud.",
+      "Permite participación solo en aspectos financieros."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La ley fomenta la participación ciudadana activa, como en consejos de salud, para influir en la política sanitaria."
+  },
+  {
+    "enunciado": "¿Qué función tiene la Administración de la Junta de Andalucía en el Sistema Sanitario Público según la Ley 14/1986?",
+    "opciones": [
+      "Establecer normas internacionales de salud.",
+      "Garantizar la planificación, asignación de recursos y supervisión.",
+      "Proveer únicamente atención primaria.",
+      "Delegar toda la gestión a empresas privadas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Junta de Andalucía tiene un papel clave en la planificación, asignación de recursos y supervisión del sistema sanitario público."
+  },
+  {
+    "enunciado": "¿Qué principio guía la actuación de los servicios sanitarios según la Ley 14/1986?",
+    "opciones": [
+      "Centralización estricta de recursos.",
+      "Autonomía y descentralización en la gestión.",
+      "Provisión exclusiva de servicios especializados.",
+      "Dependencia de organizaciones internacionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La autonomía y descentralización son fundamentales para garantizar la adaptabilidad y eficacia del sistema sanitario."
+  },
+  {
+    "enunciado": "¿Cuál es una característica fundamental del Sistema Sanitario Público de Andalucía según la Ley 14/1986?",
+    "opciones": [
+      "Financiación pública y aseguramiento único.",
+      "Atención limitada a grupos prioritarios.",
+      "Gestión exclusivamente privada.",
+      "Acceso condicionado por la edad del usuario."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público de Andalucía se basa en financiación pública y aseguramiento único para garantizar equidad."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué nivel de atención constituye el acceso ordinario al sistema sanitario?",
+    "opciones": [
+      "Atención hospitalaria especializada.",
+      "Atención primaria de salud.",
+      "Servicios de emergencia únicamente.",
+      "Unidades de cuidados intensivos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención primaria constituye el primer nivel de acceso ordinario, ofreciendo un enfoque integral a la salud."
+  },
+  {
+    "enunciado": "¿Qué principio regula la incorporación de nuevos servicios en el Sistema Sanitario Público según la Ley 14/1986?",
+    "opciones": [
+      "Evaluación de efectividad y eficiencia.",
+      "Demanda popular inmediata.",
+      "Inclusión automática por innovaciones tecnológicas.",
+      "Aprobación exclusiva por organismos internacionales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La incorporación de nuevos servicios requiere evaluación previa en términos de efectividad, eficiencia y asignación de recursos."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 en relación con la coordinación del Sistema Nacional de Salud?",
+    "opciones": [
+      "Un control centralizado por el Ministerio de Sanidad.",
+      "Una coordinación entre los servicios de salud de las comunidades autónomas.",
+      "Autonomía total para cada comunidad autónoma sin coordinación.",
+      "Gestión compartida con organismos internacionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 establece la coordinación entre los servicios de salud de las comunidades autónomas como parte del Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Cuál es la función principal de las áreas de salud según la Ley 14/1986?",
+    "opciones": [
+      "Ofrecer únicamente atención especializada.",
+      "Planificar y desarrollar actuaciones sanitarias integrales.",
+      "Centralizar la administración sanitaria nacional.",
+      "Supervisar exclusivamente los recursos financieros."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las áreas de salud son responsables de la planificación y desarrollo de actuaciones sanitarias integrales en su ámbito territorial."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿cómo se asegura la equidad en la atención sanitaria?",
+    "opciones": [
+      "Limitando la atención a grupos específicos.",
+      "Proporcionando servicios en función de la contribución económica.",
+      "Garantizando acceso universal y financiado públicamente.",
+      "Creando tarifas diferenciadas por región."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La equidad se garantiza mediante el acceso universal a los servicios sanitarios y su financiación pública."
+  },
+  {
+    "enunciado": "¿Qué función tienen los municipios en el ámbito sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Regular la atención especializada en hospitales.",
+      "Ejercer competencias en salud pública y control ambiental.",
+      "Establecer normas nacionales en sanidad.",
+      "Proveer exclusivamente servicios farmacéuticos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen competencias en salud pública, incluyendo el control del medio ambiente y la promoción de la salud."
+  },
+  {
+    "enunciado": "¿Qué garantiza el Sistema Sanitario Público de Andalucía según la Ley 14/1986?",
+    "opciones": [
+      "Acceso restringido a servicios básicos.",
+      "Atención integral y equitativa a toda la población.",
+      "Provisión exclusiva de servicios privados.",
+      "Reducción de servicios en zonas rurales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público de Andalucía garantiza atención integral y equitativa para toda la población, independientemente de su situación."
+  },
+  {
+    "enunciado": "¿Cómo define la Ley 14/1986 la participación de los trabajadores en el sistema sanitario?",
+    "opciones": [
+      "No se contempla en ningún ámbito.",
+      "Se limita a la supervisión de recursos financieros.",
+      "Fomenta su participación activa en la gestión y planificación.",
+      "Restringe su influencia a consultas externas."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley promueve la participación activa de los trabajadores en la gestión y planificación del sistema sanitario."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué elemento es fundamental para mejorar la calidad del sistema sanitario?",
+    "opciones": [
+      "Centralización de la gestión en el nivel estatal.",
+      "Participación ciudadana y evaluación constante.",
+      "Eliminación de servicios no rentables.",
+      "Reducción del personal sanitario."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La participación ciudadana y la evaluación continua son clave para garantizar la calidad del sistema sanitario según la Ley 14/1986."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la atención sanitaria en casos de urgencia?",
+    "opciones": [
+      "Se limita a residentes legales.",
+      "Debe ser provista de manera inmediata a todas las personas.",
+      "Requiere autorización previa del aseguramiento público.",
+      "Se gestiona exclusivamente en hospitales privados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza que la atención sanitaria de urgencia se proporcione de forma inmediata a todas las personas que lo requieran."
+  },
+  {
+    "enunciado": "¿Cuál es uno de los objetivos del Plan Andaluz de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Privatizar los servicios de atención primaria.",
+      "Definir estrategias y prioridades en salud pública.",
+      "Reducir el acceso a medicamentos costosos.",
+      "Centralizar la toma de decisiones sanitarias."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Plan Andaluz de Salud tiene como objetivo definir estrategias y prioridades para mejorar la salud pública y optimizar los recursos."
+  },
+  {
+    "enunciado": "¿Qué característica define la atención primaria según la Ley 14/1986?",
+    "opciones": [
+      "Atención exclusiva a enfermedades graves.",
+      "Prestación accesible e integral en zonas básicas de salud.",
+      "Gestión limitada a hospitales especializados.",
+      "Foco en la reducción de costes únicamente."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención primaria se caracteriza por ser accesible, integral y ofrecida en zonas básicas de salud como primer nivel de atención."
+  },
+  {
+    "enunciado": "¿Qué principio organiza el Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Centralización total de servicios sanitarios.",
+      "Coordinación de las Comunidades Autónomas bajo criterios comunes.",
+      "Autonomía completa de cada Comunidad Autónoma sin supervisión.",
+      "Gestión de servicios solo por empresas privadas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 establece la coordinación de las Comunidades Autónomas para garantizar un Sistema Nacional de Salud eficiente."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿cómo se garantiza el acceso a los servicios sanitarios públicos?",
+    "opciones": [
+      "Mediante la asignación de recursos solo a hospitales.",
+      "A través de la financiación pública y la equidad territorial.",
+      "Con tarifas diferenciadas según nivel económico.",
+      "A través de seguros privados obligatorios."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El acceso a los servicios sanitarios públicos se garantiza con financiación pública y equidad, promoviendo la igualdad territorial."
+  },
+  {
+    "enunciado": "¿Qué función tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Regular las tarifas de los servicios sanitarios.",
+      "Supervisar y asesorar sobre la ejecución de políticas sanitarias.",
+      "Controlar exclusivamente la distribución de medicamentos.",
+      "Promover la construcción de hospitales privados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área supervisan y asesoran en la ejecución de políticas sanitarias en su ámbito."
+  },
+  {
+    "enunciado": "¿Qué define al Sistema Sanitario Público de Andalucía según la Ley 14/1986?",
+    "opciones": [
+      "Un sistema basado en seguros privados.",
+      "Conjunto de recursos y actuaciones públicas orientadas a la salud.",
+      "Atención restringida a patologías graves.",
+      "Un enfoque exclusivo en la atención hospitalaria."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público de Andalucía integra recursos y actuaciones públicas para garantizar el derecho a la salud."
+  },
+  {
+    "enunciado": "¿Qué principio promueve la Ley 14/1986 en la gestión de los servicios sanitarios?",
+    "opciones": [
+      "Centralización total de decisiones.",
+      "Descentralización y autonomía en la gestión.",
+      "Privatización de todas las prestaciones.",
+      "Exclusión de la participación ciudadana."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La descentralización y autonomía en la gestión de los servicios sanitarios son principios clave promovidos por la Ley 14/1986."
+  },
+  {
+    "enunciado": "¿Cómo regula la Ley 14/1986 la inclusión de nuevos servicios sanitarios?",
+    "opciones": [
+      "Por aprobación exclusiva del gobierno central.",
+      "A través de evaluación de eficacia, eficiencia y equidad.",
+      "Por demanda popular sin criterios técnicos.",
+      "Mediante la imposición directa de organismos internacionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La inclusión de nuevos servicios sanitarios requiere evaluación previa basada en criterios de eficacia, eficiencia y equidad."
+  },
+  {
+    "enunciado": "¿Qué papel desempeñan los municipios según la Ley 14/1986?",
+    "opciones": [
+      "Gestionar exclusivamente centros hospitalarios.",
+      "Participar en salud pública y control ambiental.",
+      "Delegar todas sus competencias al nivel autonómico.",
+      "Proveer medicamentos gratuitos en todas las áreas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen un papel activo en la salud pública, incluyendo el control ambiental y la promoción de la salud."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué caracteriza la atención especializada?",
+    "opciones": [
+      "Se limita únicamente a hospitales privados.",
+      "Es accesible solo con autorización previa.",
+      "Incluye asistencia en hospitales y centros especializados.",
+      "Se restringe a consultas externas."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención especializada se presta en hospitales y centros de especialidades, complementando la atención primaria."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 sobre la atención en situaciones de emergencia?",
+    "opciones": [
+      "Acceso solo a residentes con seguro público.",
+      "Provisión inmediata a todas las personas.",
+      "Limitación del acceso por criterios económicos.",
+      "Atención exclusiva en centros urbanos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 garantiza que la atención en emergencias sea inmediata y accesible a todas las personas."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación de los ciudadanos en el sistema sanitario?",
+    "opciones": [
+      "Se limita a la consulta en encuestas.",
+      "Promueve su integración en órganos consultivos y de gestión.",
+      "Prohíbe cualquier forma de participación directa.",
+      "Exige participación solo en aspectos financieros."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación de los ciudadanos en órganos consultivos y de gestión, promoviendo un sistema más inclusivo."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 en relación con el acceso a la atención sanitaria?",
+    "opciones": [
+      "Acceso exclusivo para ciudadanos con ingresos bajos.",
+      "Universalidad en el acceso a todos los ciudadanos.",
+      "Acceso restringido por residencia en zonas urbanas.",
+      "Gratuidad solo para menores de edad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 asegura el acceso universal a la atención sanitaria para todos los ciudadanos, sin discriminación."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿cuál es uno de los principios organizativos del Sistema Sanitario Público?",
+    "opciones": [
+      "Centralización total de las decisiones administrativas.",
+      "Descentralización y participación ciudadana.",
+      "Externalización obligatoria de los servicios médicos.",
+      "Prioridad a la atención hospitalaria sobre la primaria."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El sistema se organiza bajo principios de descentralización y participación ciudadana para garantizar eficacia y adaptabilidad."
+  },
+  {
+    "enunciado": "¿Cómo regula la Ley 14/1986 la financiación del Sistema Sanitario Público?",
+    "opciones": [
+      "A través de seguros médicos privados obligatorios.",
+      "Por medio de financiación pública y recursos del Estado.",
+      "Por aportaciones directas de los ciudadanos al momento del servicio.",
+      "Mediante convenios con organismos internacionales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La financiación del Sistema Sanitario Público se basa en recursos públicos, asegurando equidad y acceso gratuito al servicio."
+  },
+  {
+    "enunciado": "¿Qué caracteriza a la atención primaria según la Ley 14/1986?",
+    "opciones": [
+      "Se ofrece exclusivamente en hospitales generales.",
+      "Es el nivel básico y accesible para todas las personas.",
+      "Se limita a la prevención de enfermedades crónicas.",
+      "Está dirigida solo a grupos de alto riesgo."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención primaria es el primer nivel de acceso, ofreciendo servicios integrales y accesibles a toda la población."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la inclusión de prestaciones sanitarias nuevas?",
+    "opciones": [
+      "Se incorporan automáticamente al aprobarse nuevos tratamientos.",
+      "Requieren evaluación de efectividad y financiación adecuada.",
+      "Dependen exclusivamente de la demanda ciudadana.",
+      "Solo se incluyen tras aprobación de entidades privadas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La inclusión de nuevas prestaciones requiere una evaluación técnica sobre su efectividad y la garantía de financiación."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo principal del Plan Andaluz de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Coordinar las iniciativas privadas en salud.",
+      "Planificar estrategias para mejorar la salud pública.",
+      "Reducir el gasto en atención sanitaria.",
+      "Centralizar todas las decisiones de salud en una entidad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Plan Andaluz de Salud busca establecer estrategias para mejorar la salud pública y optimizar los recursos disponibles."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre el papel de los trabajadores en el sistema sanitario?",
+    "opciones": [
+      "No tienen derecho a participar en la gestión.",
+      "Su participación está limitada a consultas externas.",
+      "Pueden participar activamente en la gestión de recursos.",
+      "Tienen exclusividad en decisiones relacionadas con sueldos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación activa de los trabajadores en la gestión, promoviendo un sistema más eficiente y democrático."
+  },
+  {
+    "enunciado": "¿Cómo garantiza la Ley 14/1986 la calidad del Sistema Sanitario Público?",
+    "opciones": [
+      "Centralizando la atención en zonas urbanas.",
+      "Fomentando la evaluación continua y participación social.",
+      "Excluyendo servicios para enfermedades raras.",
+      "Dependiendo exclusivamente de financiación privada."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La calidad del sistema se garantiza a través de evaluaciones constantes y la participación de ciudadanos y profesionales."
+  },
+  {
+    "enunciado": "¿Qué elemento es fundamental para la ordenación territorial del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "La organización en áreas de salud y zonas básicas.",
+      "La gestión única a nivel regional.",
+      "El establecimiento de unidades hospitalarias exclusivas.",
+      "La creación de redes exclusivamente privadas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La organización en áreas de salud y zonas básicas permite una atención accesible y adaptada a las necesidades territoriales."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué papel tienen los ciudadanos en la formulación de políticas sanitarias?",
+    "opciones": [
+      "No tienen participación directa.",
+      "Pueden influir mediante su integración en órganos de participación.",
+      "Se limita su rol a la recepción de servicios.",
+      "Participan solo si están inscritos en un seguro público."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley promueve la integración de los ciudadanos en órganos de participación para influir en las políticas sanitarias."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la equidad en el sistema sanitario?",
+    "opciones": [
+      "Garantiza la equidad solo en áreas urbanas.",
+      "Promueve la equidad mediante la distribución uniforme de recursos.",
+      "Otorga prioridad de servicios a las comunidades rurales.",
+      "Condiciona la equidad al nivel de ingresos del usuario."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 promueve la equidad al garantizar una distribución uniforme de recursos para todos los ciudadanos."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué función tienen las Administraciones Públicas en salud?",
+    "opciones": [
+      "Supervisar únicamente los servicios de salud privados.",
+      "Coordinar y garantizar la provisión de servicios sanitarios.",
+      "Delegar todas las funciones al nivel municipal.",
+      "Focalizarse solo en la atención hospitalaria."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las Administraciones Públicas tienen el deber de coordinar y garantizar la provisión de servicios sanitarios a través del Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Qué principio de gestión sanitaria establece la Ley 14/1986?",
+    "opciones": [
+      "Centralización rígida de recursos.",
+      "Autonomía en la gestión de cada nivel del sistema.",
+      "Dependencia exclusiva de fondos internacionales.",
+      "Exclusión de la participación ciudadana."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley favorece la autonomía en la gestión, permitiendo que cada nivel del sistema responda mejor a las necesidades locales."
+  },
+  {
+    "enunciado": "¿Cómo garantiza la Ley 14/1986 el derecho a la protección de la salud?",
+    "opciones": [
+      "Estableciendo tarifas variables según región.",
+      "A través de servicios universales, integrales y financiados públicamente.",
+      "Limitando el acceso a pacientes con enfermedades crónicas.",
+      "Imponiendo seguros privados obligatorios."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El derecho a la protección de la salud se asegura mediante un sistema sanitario universal, integral y de financiación pública."
+  },
+  {
+    "enunciado": "¿Qué papel tienen los órganos de participación ciudadana según la Ley 14/1986?",
+    "opciones": [
+      "Garantizar la representación exclusiva de sindicatos.",
+      "Proveer apoyo administrativo a los servicios hospitalarios.",
+      "Asesorar y supervisar la política sanitaria.",
+      "Supervisar únicamente el gasto en medicamentos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los órganos de participación ciudadana tienen funciones de asesoramiento y supervisión de la política sanitaria."
+  },
+  {
+    "enunciado": "¿Qué principios deben guiar la actuación sanitaria según la Ley 14/1986?",
+    "opciones": [
+      "Eficiencia, equidad y participación ciudadana.",
+      "Privatización total de los servicios sanitarios.",
+      "Exclusividad en la atención a poblaciones rurales.",
+      "Centralización de la toma de decisiones."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La actuación sanitaria se basa en principios como la eficiencia, equidad y la participación de los ciudadanos en la gestión."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 sobre los derechos de los usuarios del sistema sanitario?",
+    "opciones": [
+      "Acceso limitado según disponibilidad presupuestaria.",
+      "Respeto a la dignidad y confidencialidad.",
+      "Restricción de derechos en situaciones de emergencia.",
+      "Participación solo en actividades administrativas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza el respeto a la dignidad y confidencialidad como parte fundamental de los derechos de los usuarios."
+  },
+  {
+    "enunciado": "¿Qué nivel de atención sanitaria es considerado el primer contacto en el sistema según la Ley 14/1986?",
+    "opciones": [
+      "Atención especializada en hospitales.",
+      "Atención primaria en zonas básicas de salud.",
+      "Atención farmacéutica en farmacias locales.",
+      "Atención de urgencias únicamente."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención primaria es el primer nivel de contacto, proporcionando servicios accesibles en las zonas básicas de salud."
+  },
+  {
+    "enunciado": "¿Qué determina la Ley 14/1986 sobre las competencias municipales en salud?",
+    "opciones": [
+      "Supervisar exclusivamente hospitales regionales.",
+      "Ejercer funciones en salud pública y control ambiental.",
+      "Coordinar únicamente servicios de emergencia.",
+      "Proveer atención especializada a poblaciones urbanas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen competencias en salud pública, incluyendo control ambiental y promoción de la salud en su ámbito."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la evaluación de los servicios sanitarios?",
+    "opciones": [
+      "Se realiza solo en hospitales privados.",
+      "Es obligatoria para garantizar calidad y eficiencia.",
+      "Es opcional según las decisiones de cada comunidad autónoma.",
+      "Se limita a análisis financieros anuales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La evaluación de los servicios sanitarios es clave para garantizar la calidad y eficiencia en el Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo principal del Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Proveer servicios sanitarios gratuitos solo a grupos vulnerables.",
+      "Garantizar atención integral, equitativa y universal.",
+      "Fomentar la privatización de servicios médicos.",
+      "Centralizar todos los servicios sanitarios en el gobierno nacional."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Nacional de Salud busca garantizar atención integral, equitativa y universal, accesible para toda la población."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 respecto al uso de recursos en el sistema sanitario?",
+    "opciones": [
+      "Los recursos públicos tienen prioridad sobre los privados.",
+      "Los recursos se destinan exclusivamente a atención hospitalaria.",
+      "Se promueve el uso exclusivo de seguros privados.",
+      "Los recursos se distribuyen según aportaciones individuales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley prioriza el uso de recursos sanitarios públicos para garantizar un sistema equitativo y accesible."
+  },
+  {
+    "enunciado": "Según la Ley 14/1986, ¿qué principios deben guiar la planificación sanitaria?",
+    "opciones": [
+      "Centralización y supervisión estatal.",
+      "Autonomía, descentralización y participación ciudadana.",
+      "Exclusividad en el desarrollo de tecnología médica.",
+      "Restricción de servicios en zonas rurales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La planificación sanitaria debe guiarse por principios como la autonomía, descentralización y participación activa de los ciudadanos."
+  },
+  {
+    "enunciado": "¿Qué garantiza el Sistema Sanitario Público de Andalucía según la Ley 14/1986?",
+    "opciones": [
+      "La cobertura total solo para enfermedades crónicas.",
+      "Acceso universal y atención integral de calidad.",
+      "Prioridad a pacientes en centros privados.",
+      "Atención exclusiva para residentes de zonas urbanas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público de Andalucía garantiza acceso universal y atención integral con altos estándares de calidad."
+  },
+  {
+    "enunciado": "¿Cómo se organiza territorialmente el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Por provincias exclusivamente.",
+      "En áreas de salud y zonas básicas de salud.",
+      "A través de distritos exclusivamente hospitalarios.",
+      "Según criterios económicos de cada región."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El sistema sanitario se organiza en áreas de salud y zonas básicas, asegurando una distribución equitativa y accesible de servicios."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación de los trabajadores sanitarios?",
+    "opciones": [
+      "No está contemplada en la gestión del sistema.",
+      "Se limita a la supervisión de procedimientos administrativos.",
+      "Se fomenta su participación activa en la toma de decisiones.",
+      "Está restringida a funciones relacionadas con formación."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley promueve la participación activa de los trabajadores sanitarios en la gestión y toma de decisiones del sistema."
+  },
+  {
+    "enunciado": "¿Qué papel tienen los municipios en el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Gestionar exclusivamente los servicios de urgencias.",
+      "Participar en la promoción de la salud y control del medio ambiente.",
+      "Supervisar los servicios farmacéuticos locales.",
+      "Centralizar la administración sanitaria en su territorio."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen un papel importante en la promoción de la salud, la educación sanitaria y el control del medio ambiente."
+  },
+  {
+    "enunciado": "¿Qué principio rige la inclusión de nuevas prestaciones sanitarias según la Ley 14/1986?",
+    "opciones": [
+      "Evaluación basada en efectividad, eficiencia y equidad.",
+      "Propuestas de los ciudadanos sin criterios técnicos.",
+      "Imposición de estándares internacionales obligatorios.",
+      "Inclusión automática de tratamientos innovadores."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La inclusión de nuevas prestaciones sanitarias debe basarse en una evaluación rigurosa de su efectividad, eficiencia y equidad."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 respecto a la atención de emergencias?",
+    "opciones": [
+      "Se limita a residentes con seguro público.",
+      "Debe ser inmediata para todas las personas.",
+      "Se condiciona al pago previo por el usuario.",
+      "Solo aplica en hospitales especializados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención de emergencias según la Ley 14/1986 debe ser inmediata y accesible para cualquier persona que lo requiera."
+  },
+  {
+    "enunciado": "¿Qué función tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Supervisar el uso de recursos financieros exclusivamente.",
+      "Asesorar y realizar el seguimiento de las políticas sanitarias.",
+      "Controlar únicamente la distribución de medicamentos.",
+      "Gestionar la contratación de personal sanitario."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área tienen como función asesorar y realizar un seguimiento de las políticas sanitarias en su territorio."
+  },
+  {
+    "enunciado": "¿Qué principio fundamental establece la Ley 14/1986 para el acceso a los servicios sanitarios?",
+    "opciones": [
+      "Gratuidad solo para residentes nacionales.",
+      "Universalidad y equidad en el acceso.",
+      "Prioridad según el nivel socioeconómico.",
+      "Acceso condicionado a la región geográfica."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 garantiza el acceso universal y equitativo a los servicios sanitarios como un derecho para todos los ciudadanos."
+  },
+  {
+    "enunciado": "¿Cómo define la Ley 14/1986 el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Un conjunto de servicios solo para zonas urbanas.",
+      "Una red integrada de recursos para garantizar el derecho a la salud.",
+      "Un sistema basado únicamente en seguros privados.",
+      "Un servicio limitado a hospitales especializados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público de Andalucía es una red integrada que garantiza el derecho a la salud de manera equitativa."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la financiación del sistema sanitario?",
+    "opciones": [
+      "Es responsabilidad exclusiva de cada comunidad autónoma.",
+      "Debe basarse en aportaciones privadas mayoritarias.",
+      "Se fundamenta en financiación pública y equidad.",
+      "Solo cubre servicios esenciales básicos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La financiación del sistema sanitario se basa en recursos públicos para garantizar el acceso equitativo a los servicios."
+  },
+  {
+    "enunciado": "¿Qué principio organiza la atención primaria según la Ley 14/1986?",
+    "opciones": [
+      "Centralización en grandes hospitales.",
+      "Proximidad y accesibilidad en zonas básicas de salud.",
+      "Gestión exclusiva de entidades privadas.",
+      "Enfoque exclusivo en enfermedades graves."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención primaria se organiza en zonas básicas de salud para garantizar la proximidad y accesibilidad de los servicios."
+  },
+  {
+    "enunciado": "¿Qué función tienen los municipios en el ámbito sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Controlar exclusivamente centros privados.",
+      "Promover la salud y realizar el control sanitario ambiental.",
+      "Limitarse a la construcción de hospitales regionales.",
+      "Participar solo en la gestión administrativa."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen funciones clave en la promoción de la salud y el control sanitario del medio ambiente según la Ley 14/1986."
+  },
+  {
+    "enunciado": "¿Qué principio guía la inclusión de nuevos servicios en el Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Evaluación de su eficacia, eficiencia y coste.",
+      "Adopción automática de tecnologías innovadoras.",
+      "Demanda de los usuarios sin estudios técnicos.",
+      "Imposición de organismos internacionales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La inclusión de nuevos servicios está sujeta a evaluaciones de su eficacia, eficiencia y relación costo-beneficio."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 respecto a los derechos de los usuarios?",
+    "opciones": [
+      "Atención limitada a situaciones de urgencia.",
+      "Derecho a información, confidencialidad y libre elección de médico.",
+      "Acceso condicionado al lugar de residencia.",
+      "Restricción de servicios a usuarios sin seguros privados."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza derechos fundamentales como la confidencialidad, el acceso a información y la libre elección de médico."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación ciudadana en el sistema sanitario?",
+    "opciones": [
+      "No contempla ningún mecanismo de participación.",
+      "Fomenta la integración en órganos consultivos y de gestión.",
+      "Limita la participación a encuestas de satisfacción.",
+      "Permite participación solo en temas financieros."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación ciudadana a través de órganos consultivos y de gestión para influir en las decisiones sanitarias."
+  },
+  {
+    "enunciado": "¿Qué características definen al Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Universal, financiado públicamente y de calidad.",
+      "Exclusivo para residentes con seguro médico.",
+      "Dependiente de donaciones privadas.",
+      "Limitado a la atención de enfermedades graves."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Nacional de Salud es universal, financiado con recursos públicos y orientado a ofrecer servicios de calidad."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre las áreas de salud?",
+    "opciones": [
+      "Son responsables solo de la atención especializada.",
+      "Se delimitan para planificar y coordinar servicios en su territorio.",
+      "Están limitadas a funciones administrativas.",
+      "Funcionan exclusivamente en zonas rurales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las áreas de salud se organizan para planificar y coordinar los servicios sanitarios dentro de un territorio definido."
+  },
+  {
+    "enunciado": "¿Qué principio organizativo es esencial en el Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "Autonomía y descentralización.",
+      "Centralización absoluta de decisiones.",
+      "Gestión exclusiva por el gobierno central.",
+      "Dependencia de financiación privada."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Nacional de Salud se organiza bajo los principios de autonomía y descentralización para adaptarse a las necesidades locales."
+  },
+  {
+    "enunciado": "¿Cómo garantiza la Ley 14/1986 la accesibilidad de los servicios sanitarios?",
+    "opciones": [
+      "Mediante la construcción de hospitales en zonas urbanas.",
+      "A través de la organización en áreas y zonas básicas de salud.",
+      "Con incentivos para el uso de servicios privados.",
+      "Limitando el acceso a zonas de alta densidad poblacional."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley establece áreas y zonas básicas de salud para asegurar que los servicios sean accesibles y estén bien distribuidos."
+  },
+  {
+    "enunciado": "¿Qué función tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Supervisar exclusivamente los recursos financieros.",
+      "Asesorar y supervisar la política sanitaria a nivel local.",
+      "Gestionar la contratación de personal sanitario.",
+      "Establecer las tarifas de los servicios de salud."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área son responsables de asesorar y supervisar la implementación de políticas sanitarias en su ámbito."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 sobre la atención en situaciones de urgencia?",
+    "opciones": [
+      "Acceso inmediato para cualquier persona.",
+      "Atención solo para residentes registrados.",
+      "Provisión limitada por la capacidad hospitalaria.",
+      "Servicios condicionados a la presentación de un seguro."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La atención en situaciones de urgencia debe ser proporcionada de manera inmediata a cualquier persona, sin discriminación."
+  },
+  {
+    "enunciado": "¿Qué papel desempeñan los municipios en el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Promoción de la salud y control sanitario ambiental.",
+      "Gestión exclusiva de los centros hospitalarios.",
+      "Supervisión de los servicios farmacéuticos locales.",
+      "Participación limitada a zonas rurales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen un rol clave en la promoción de la salud y el control del medio ambiente dentro de su ámbito territorial."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la financiación del sistema sanitario?",
+    "opciones": [
+      "Se basa en aportaciones privadas voluntarias.",
+      "Depende de convenios con aseguradoras internacionales.",
+      "Es pública para garantizar el acceso universal.",
+      "Se financia exclusivamente con impuestos locales."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La financiación del sistema sanitario es pública, asegurando el acceso universal y la equidad en los servicios prestados."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 en cuanto a los derechos de los usuarios del sistema sanitario?",
+    "opciones": [
+      "Acceso exclusivo a residentes nacionales.",
+      "Confidencialidad, libre elección de médico e información adecuada.",
+      "Restricción de derechos a casos de urgencia.",
+      "Acceso condicionado al cumplimiento de obligaciones fiscales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza derechos como la confidencialidad, la información adecuada y la libre elección de médico para todos los usuarios."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la calidad de los servicios sanitarios?",
+    "opciones": [
+      "Se mide exclusivamente por indicadores económicos.",
+      "Debe evaluarse continuamente para mejorar la atención.",
+      "Depende de la satisfacción de los proveedores privados.",
+      "Está condicionada por la densidad poblacional de cada área."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La calidad del sistema sanitario debe ser evaluada continuamente para garantizar mejoras en la atención y satisfacción de los usuarios."
+  },
+  {
+    "enunciado": "¿Qué prioridad establece la Ley 14/1986 para los servicios del Sistema Nacional de Salud?",
+    "opciones": [
+      "La atención integral de la salud pública y personal.",
+      "La exclusividad en tratamientos de alta tecnología.",
+      "El desarrollo de centros privados como prioridad.",
+      "La limitación de servicios a zonas urbanas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley establece como prioridad la atención integral de la salud, abarcando la promoción, prevención, asistencia y rehabilitación."
+  },
+  {
+    "enunciado": "¿Qué función tienen los profesionales sanitarios según la Ley 14/1986?",
+    "opciones": [
+      "No tienen derecho a participar en decisiones de gestión.",
+      "Deben ser parte activa en la planificación y evaluación.",
+      "Están limitados a actividades estrictamente asistenciales.",
+      "Su función se restringe al ámbito hospitalario."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley promueve la participación activa de los profesionales sanitarios en la planificación, evaluación y gestión del sistema."
+  },
+  {
+    "enunciado": "¿Qué principio de la Ley 14/1986 asegura el acceso igualitario a los servicios de salud?",
+    "opciones": [
+      "Privatización de los servicios sanitarios.",
+      "Universalidad y equidad en el acceso.",
+      "Acceso condicionado a criterios económicos.",
+      "Prioridad para residentes en zonas urbanas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 establece la universalidad y equidad como principios básicos para garantizar el acceso igualitario a la atención sanitaria."
+  },
+  {
+    "enunciado": "¿Cómo define la Ley 14/1986 la descentralización en el Sistema Nacional de Salud?",
+    "opciones": [
+      "Como la transferencia de toda la gestión al nivel municipal.",
+      "Como un mecanismo para limitar competencias autonómicas.",
+      "Como un principio para adaptar los servicios a las necesidades locales.",
+      "Como un proceso para favorecer únicamente la atención primaria."
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La descentralización permite que los servicios sanitarios se adapten a las necesidades locales, respetando las competencias de las comunidades autónomas."
+  },
+  {
+    "enunciado": "¿Qué característica define al Sistema Sanitario Público según la Ley 14/1986?",
+    "opciones": [
+      "Financiación pública y aseguramiento único.",
+      "Gestión exclusiva por empresas privadas.",
+      "Acceso limitado a tratamientos específicos.",
+      "Dependencia de donaciones internacionales."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Sanitario Público se caracteriza por estar financiado con recursos públicos y contar con un aseguramiento único para toda la población."
+  },
+  {
+    "enunciado": "¿Qué función tienen las zonas básicas de salud según la Ley 14/1986?",
+    "opciones": [
+      "Supervisar exclusivamente la atención hospitalaria.",
+      "Organizar la prestación de atención primaria accesible.",
+      "Centralizar los servicios de alta especialización.",
+      "Controlar exclusivamente las farmacias locales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las zonas básicas de salud se encargan de organizar la prestación de servicios de atención primaria, garantizando accesibilidad y proximidad."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre los derechos de los ciudadanos en el sistema sanitario?",
+    "opciones": [
+      "Acceso condicionado a la capacidad de pago.",
+      "Derecho a una segunda opinión médica y a la información clara.",
+      "Limitación del acceso a servicios especializados.",
+      "Restricción de derechos a pacientes no residentes."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza derechos fundamentales como la segunda opinión médica y el acceso a información comprensible sobre los tratamientos."
+  },
+  {
+    "enunciado": "¿Qué objetivo tiene la organización en áreas de salud según la Ley 14/1986?",
+    "opciones": [
+      "Concentrar servicios solo en grandes ciudades.",
+      "Facilitar la planificación y coordinación de servicios sanitarios.",
+      "Privatizar la gestión de los servicios locales.",
+      "Exclusivamente mejorar los índices económicos de los hospitales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las áreas de salud están diseñadas para planificar y coordinar los servicios, adaptándose a las características del territorio."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 sobre la atención sanitaria de urgencias?",
+    "opciones": [
+      "Acceso inmediato y sin discriminación.",
+      "Provisión limitada a pacientes con seguro privado.",
+      "Cobertura exclusiva en hospitales especializados.",
+      "Atención condicionada al lugar de residencia."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza que las urgencias sean atendidas de forma inmediata y sin discriminación, independientemente de la situación del paciente."
+  },
+  {
+    "enunciado": "¿Qué papel tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Establecer normativas de salud a nivel nacional.",
+      "Asesorar y supervisar la ejecución de las políticas sanitarias locales.",
+      "Controlar únicamente la distribución de medicamentos.",
+      "Gestionar exclusivamente los servicios de urgencias."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área supervisan la ejecución de políticas sanitarias y asesoran en su implementación dentro de su territorio."
+  },
+  {
+    "enunciado": "¿Qué principio regula la inclusión de nuevas prestaciones sanitarias en el sistema según la Ley 14/1986?",
+    "opciones": [
+      "Adopción basada en estudios de eficacia y sostenibilidad.",
+      "Incorporación automática de todos los avances tecnológicos.",
+      "Decisión exclusiva del sector privado.",
+      "Evaluación dependiente de demandas ciudadanas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La incorporación de nuevas prestaciones requiere evaluaciones rigurosas sobre su eficacia, sostenibilidad y beneficio social."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación ciudadana en el sistema sanitario?",
+    "opciones": [
+      "Promueve su integración en órganos de gestión y consulta.",
+      "Limita la participación a decisiones administrativas menores.",
+      "Restringe su rol a encuestas de satisfacción.",
+      "Excluye completamente a los ciudadanos de la toma de decisiones."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación ciudadana en órganos de consulta y gestión, promoviendo una mayor implicación en el sistema sanitario."
+  },
+  {
+    "enunciado": "¿Qué principio establece la Ley 14/1986 para la organización del Sistema Nacional de Salud?",
+    "opciones": [
+      "Centralización total en el gobierno estatal.",
+      "Coordinación entre las Comunidades Autónomas.",
+      "Gestión exclusiva por empresas privadas.",
+      "Dependencia de financiación internacional."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 promueve la coordinación entre las Comunidades Autónomas para garantizar un Sistema Nacional de Salud eficiente."
+  },
+  {
+    "enunciado": "¿Cómo organiza la Ley 14/1986 los servicios sanitarios en el territorio?",
+    "opciones": [
+      "Por provincias únicamente.",
+      "En áreas de salud y zonas básicas.",
+      "Según el nivel económico de cada región.",
+      "Solo en centros urbanos principales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los servicios sanitarios se organizan territorialmente en áreas de salud y zonas básicas, asegurando accesibilidad y equidad."
+  },
+  {
+    "enunciado": "¿Qué función tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Supervisar exclusivamente la construcción de hospitales.",
+      "Asesorar y seguir la ejecución de políticas sanitarias locales.",
+      "Gestionar la financiación de los centros de salud.",
+      "Controlar únicamente el acceso a medicamentos."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área se encargan de asesorar y realizar el seguimiento de las políticas sanitarias dentro de su jurisdicción."
+  },
+  {
+    "enunciado": "¿Qué garantiza la Ley 14/1986 sobre la atención de urgencias?",
+    "opciones": [
+      "Atención inmediata a cualquier persona.",
+      "Restricción a residentes con seguro médico.",
+      "Provisión limitada según la capacidad hospitalaria.",
+      "Atención exclusiva en centros privados."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza la atención inmediata y sin discriminación en casos de urgencia, para cualquier persona que la necesite."
+  },
+  {
+    "enunciado": "¿Qué papel tienen los municipios en el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Solo gestionar centros hospitalarios.",
+      "Promoción de la salud y control ambiental.",
+      "Supervisión exclusiva de farmacias locales.",
+      "Atención especializada a grupos de alto riesgo."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los municipios tienen competencias en la promoción de la salud y el control sanitario del medio ambiente dentro de sus territorios."
+  },
+  {
+    "enunciado": "¿Qué principio guía la inclusión de nuevas prestaciones en el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Evaluación de su eficacia, sostenibilidad y coste.",
+      "Adopción automática de cualquier innovación tecnológica.",
+      "Decisión exclusiva de las autoridades locales.",
+      "Exclusión de servicios no rentables."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La incorporación de nuevas prestaciones debe basarse en una evaluación rigurosa de su eficacia, sostenibilidad y costes asociados."
+  },
+  {
+    "enunciado": "¿Qué derechos de los ciudadanos garantiza la Ley 14/1986?",
+    "opciones": [
+      "Confidencialidad, información y libre elección de médico.",
+      "Acceso limitado a servicios básicos.",
+      "Prioridad solo para residentes legales.",
+      "Restricción de derechos en casos no urgentes."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza derechos fundamentales como la confidencialidad, el acceso a información y la libre elección de médico."
+  },
+  {
+    "enunciado": "¿Qué objetivo persiguen las áreas de salud según la Ley 14/1986?",
+    "opciones": [
+      "Centralizar servicios en hospitales urbanos.",
+      "Coordinar y planificar servicios sanitarios en su ámbito.",
+      "Privatizar la gestión de todos los centros locales.",
+      "Fomentar servicios exclusivos para trabajadores."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las áreas de salud tienen como objetivo coordinar y planificar los servicios sanitarios de manera eficiente y adaptada a su territorio."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la calidad en los servicios sanitarios?",
+    "opciones": [
+      "Debe ser evaluada constantemente para garantizar mejoras.",
+      "Es responsabilidad exclusiva de los centros privados.",
+      "Depende exclusivamente del presupuesto asignado.",
+      "Solo se aplica en zonas de alta densidad poblacional."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley establece que la calidad de los servicios sanitarios debe ser evaluada de forma continua para garantizar su mejora."
+  },
+  {
+    "enunciado": "¿Cómo fomenta la Ley 14/1986 la participación ciudadana en el sistema sanitario?",
+    "opciones": [
+      "Integrándolos en órganos consultivos y de gestión.",
+      "Limitándola a consultas sobre políticas públicas.",
+      "Restringiéndola a usuarios con seguro público.",
+      "Fomentando su exclusión de los procesos decisivos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación ciudadana mediante su integración en órganos consultivos y de gestión sanitaria."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre el acceso a los servicios sanitarios?",
+    "opciones": [
+      "Acceso restringido según el nivel de ingresos.",
+      "Universalidad para todos los ciudadanos.",
+      "Prioridad para residentes nacionales únicamente.",
+      "Exclusividad para pacientes con seguro privado."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley 14/1986 garantiza la universalidad del acceso a los servicios sanitarios, sin discriminación por situación económica o social."
+  },
+  {
+    "enunciado": "¿Cómo se financia el Sistema Nacional de Salud según la Ley 14/1986?",
+    "opciones": [
+      "A través de impuestos públicos.",
+      "Mediante contribuciones voluntarias de los ciudadanos.",
+      "Con fondos de organizaciones internacionales.",
+      "Por donaciones de entidades privadas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "El Sistema Nacional de Salud está financiado principalmente por impuestos públicos, garantizando sostenibilidad y acceso universal."
+  },
+  {
+    "enunciado": "¿Qué papel tienen las comunidades autónomas en el sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Son responsables de la planificación y gestión de los servicios.",
+      "Solo supervisan la atención primaria.",
+      "Deben subordinarse al gobierno central en todas las decisiones.",
+      "Pueden optar por no participar en el Sistema Nacional de Salud."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las comunidades autónomas tienen un papel crucial en la planificación y gestión del sistema sanitario en sus territorios."
+  },
+  {
+    "enunciado": "¿Qué función tienen los Consejos de Salud de Área según la Ley 14/1986?",
+    "opciones": [
+      "Establecer políticas nacionales de salud.",
+      "Asesorar y supervisar la implementación de políticas locales.",
+      "Controlar exclusivamente los presupuestos de salud.",
+      "Gestionar la contratación de personal sanitario."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Los Consejos de Salud de Área asesoran y supervisan la ejecución de políticas sanitarias en su ámbito territorial."
+  },
+  {
+    "enunciado": "¿Qué principios organizativos destacan en la Ley 14/1986?",
+    "opciones": [
+      "Centralización y dependencia financiera internacional.",
+      "Descentralización y coordinación entre niveles administrativos.",
+      "Prioridad de servicios privados sobre públicos.",
+      "Autonomía exclusiva de cada municipio en salud."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley se basa en la descentralización y coordinación entre los diferentes niveles administrativos para garantizar un servicio eficiente."
+  },
+  {
+    "enunciado": "¿Qué derechos se garantizan a los usuarios del sistema sanitario según la Ley 14/1986?",
+    "opciones": [
+      "Confidencialidad, información y libre elección de médico.",
+      "Atención exclusiva en casos de emergencia.",
+      "Acceso condicionado a la contribución económica.",
+      "Cobertura limitada a enfermedades graves."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley garantiza derechos fundamentales como la confidencialidad, el acceso a información adecuada y la libre elección de médico."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre las zonas básicas de salud?",
+    "opciones": [
+      "Se centran en la atención hospitalaria de alta especialización.",
+      "Son unidades que organizan la atención primaria en su territorio.",
+      "Dependen exclusivamente de financiación municipal.",
+      "Solo existen en áreas urbanas con alta densidad de población."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "Las zonas básicas de salud organizan la atención primaria, siendo la base territorial para la prestación de servicios accesibles y cercanos."
+  },
+  {
+    "enunciado": "¿Cómo garantiza la Ley 14/1986 la equidad en la atención sanitaria?",
+    "opciones": [
+      "Distribuyendo recursos según las necesidades territoriales.",
+      "Dando prioridad a zonas urbanas con mayor población.",
+      "Limitando servicios en áreas rurales para optimizar recursos.",
+      "Asignando más servicios a las regiones económicamente fuertes."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La equidad se asegura mediante la distribución justa de recursos en función de las necesidades específicas de cada territorio."
+  },
+  {
+    "enunciado": "¿Qué principio rige la inclusión de nuevos servicios según la Ley 14/1986?",
+    "opciones": [
+      "Adopción automática de avances tecnológicos.",
+      "Evaluación de su eficacia, eficiencia y sostenibilidad.",
+      "Decisión exclusiva del gobierno central.",
+      "Propuestas populares sin necesidad de evaluación técnica."
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La inclusión de nuevos servicios debe pasar por una evaluación rigurosa que considere su eficacia, eficiencia y sostenibilidad."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 14/1986 sobre la participación ciudadana en el sistema sanitario?",
+    "opciones": [
+      "Promueve su integración en órganos consultivos y de gestión.",
+      "Limita la participación a consultas públicas no vinculantes.",
+      "Restringe la participación a expertos en salud pública.",
+      "Excluye a los ciudadanos de los procesos de toma de decisiones."
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley14/1986"],
+    "feedback": "La Ley fomenta la participación activa de los ciudadanos en órganos consultivos y de gestión del sistema sanitario."
+  },
+    {
+        "enunciado": "¿Qué objetivo prioritario tienen los medios y actuaciones del sistema sanitario según la Ley 14/1986, General de Sanidad?",
+        "opciones": [
+            "La curación de enfermedades graves.",
+            "La promoción de la salud y prevención de enfermedades.",
+            "La construcción de hospitales en cada municipio.",
+            "La atención exclusiva a los trabajadores asegurados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "Según el artículo 3, el sistema sanitario orienta sus actuaciones prioritariamente a la promoción de la salud y la prevención de enfermedades."
+    },
+    {
+        "enunciado": "¿Cuál es una característica fundamental del Sistema Nacional de Salud según la Ley 14/1986?",
+        "opciones": [
+            "Prestación de atención integral de la salud.",
+            "Financiación exclusivamente privada.",
+            "Cobertura solo para ciudadanos españoles.",
+            "Gestión centralizada desde el Estado."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 46 destaca la prestación de atención integral de la salud como una característica fundamental del Sistema Nacional de Salud."
+    },
+    {
+        "enunciado": "¿Qué principio básico deben respetar las Áreas de Salud en su delimitación territorial?",
+        "opciones": [
+            "Garantizar la proximidad de los servicios a los usuarios.",
+            "Tener una extensión mínima de 500 km².",
+            "Tener al menos un hospital especializado.",
+            "Cubrir exclusivamente áreas urbanas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "Las Áreas de Salud se delimitan considerando factores como la proximidad de los servicios a los usuarios, según el artículo 56."
+    },
+    {
+        "enunciado": "¿Qué órgano participa en la gestión de las Áreas de Salud según la Ley 14/1986?",
+        "opciones": [
+            "El Ministerio de Sanidad exclusivamente.",
+            "El Consejo de Salud del Área.",
+            "El Consejo de Ministros.",
+            "La Organización Mundial de la Salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El Consejo de Salud del Área es un órgano colegiado de participación comunitaria según el artículo 58."
+    },
+    {
+        "enunciado": "¿Qué competencia tienen las Comunidades Autónomas en materia sanitaria según la Ley 14/1986?",
+        "opciones": [
+            "El control exclusivo del sistema de sanidad exterior.",
+            "La gestión de sus propios Servicios de Salud.",
+            "La aprobación de tratados internacionales en sanidad.",
+            "La regulación directa de la sanidad exterior."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "Las Comunidades Autónomas gestionan sus Servicios de Salud de acuerdo con los principios de la Ley, como establece el artículo 41."
+    },
+    {
+        "enunciado": "¿Qué derecho tienen los usuarios del Sistema Nacional de Salud según el artículo 10 de la Ley 14/1986?",
+        "opciones": [
+            "Acceso a la información sobre los servicios sanitarios.",
+            "Elección de su médico únicamente en atención hospitalaria.",
+            "Acceso gratuito a medicamentos sin restricciones.",
+            "Atención solo en centros privados homologados."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 10 garantiza a los usuarios el derecho a la información sobre los servicios sanitarios a los que pueden acceder."
+    },
+    {
+        "enunciado": "Según la Ley 14/1986, ¿cómo se financian las obligaciones del Sistema Nacional de Salud?",
+        "opciones": [
+            "Solo con recursos del sector privado.",
+            "Con recursos de las Administraciones Públicas, cotizaciones y tasas.",
+            "Mediante donaciones voluntarias de los ciudadanos.",
+            "Únicamente a través de impuestos especiales de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 46 establece que la financiación incluye recursos públicos, cotizaciones y tasas específicas."
+    },
+    {
+        "enunciado": "¿Cuál es la base de la planificación de los Servicios de Salud en las Comunidades Autónomas según la Ley 14/1986?",
+        "opciones": [
+            "Los planes estratégicos nacionales.",
+            "Las divisiones geográficas según necesidades sanitarias.",
+            "Los acuerdos internacionales.",
+            "La distribución de ingresos fiscales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "Según el artículo 51, la base de planificación son las demarcaciones geográficas organizadas por necesidades sanitarias."
+    },
+    {
+        "enunciado": "¿Qué tipo de acciones sanitarias incluyen las Zonas Básicas de Salud según la Ley 14/1986?",
+        "opciones": [
+            "Solo las acciones de prevención de enfermedades.",
+            "Todas las actividades de promoción, prevención, curación y rehabilitación.",
+            "Solo actividades hospitalarias especializadas.",
+            "Acciones limitadas a enfermedades crónicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 63 detalla que las Zonas Básicas de Salud desarrollan actividades integrales de promoción, prevención, curación y rehabilitación."
+    },
+    {
+        "enunciado": "¿Quiénes deben participar en el Consejo de Salud de una Comunidad Autónoma según la Ley 14/1986?",
+        "opciones": [
+            "Solo los representantes sindicales.",
+            "Solo los representantes de las Corporaciones Locales.",
+            "Los interesados, representantes sindicales y empresariales.",
+            "Solo los directivos de los hospitales de la región."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 53 asegura la participación de los interesados, representantes sindicales y empresariales en el Consejo de Salud."
+    },
+    {
+        "enunciado": "¿Qué artículo de la Constitución Española reconoce el derecho a la protección de la salud, base de la Ley 14/1986?",
+        "opciones": [
+            "El artículo 40.",
+            "El artículo 43.",
+            "El artículo 49.",
+            "El artículo 50."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 43 de la Constitución Española establece el derecho de todos los ciudadanos a la protección de la salud, fundamento de esta Ley."
+    },
+    {
+        "enunciado": "Según la Ley 14/1986, ¿qué características deben tener las Áreas de Salud?",
+        "opciones": [
+            "Deben incluir un hospital de referencia para cada 100.000 habitantes.",
+            "Deben ajustarse a factores geográficos, demográficos y epidemiológicos.",
+            "Deben ser gestionadas exclusivamente por el Estado.",
+            "Deben tener menos de 50.000 habitantes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 56 indica que las Áreas de Salud deben considerar factores como geografía, demografía y epidemiología para garantizar su eficacia."
+    },
+    {
+        "enunciado": "¿Qué órgano regula la organización y gestión de los Servicios de Salud en cada Comunidad Autónoma?",
+        "opciones": [
+            "El Consejo de Ministros.",
+            "El Consejo de Salud de Área.",
+            "El Servicio de Salud de la Comunidad Autónoma.",
+            "El Ministerio de Sanidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "Según el artículo 50, cada Comunidad Autónoma organiza sus Servicios de Salud como órgano de gestión bajo su responsabilidad."
+    },
+    {
+        "enunciado": "¿Qué población mínima deben cubrir las Áreas de Salud según la Ley 14/1986?",
+        "opciones": [
+            "50.000 habitantes.",
+            "100.000 habitantes.",
+            "200.000 habitantes.",
+            "500.000 habitantes."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 56 establece que las Áreas de Salud deben atender a una población no inferior a 200.000 habitantes."
+    },
+    {
+        "enunciado": "¿Qué función principal tienen los Consejos de Salud de Área según la Ley 14/1986?",
+        "opciones": [
+            "Coordinar las políticas de salud del Estado.",
+            "Participar en la gestión y consulta de la política sanitaria del Área.",
+            "Recaudar fondos para el sistema sanitario.",
+            "Organizar programas de salud internacionales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 58 señala que los Consejos de Salud de Área tienen funciones de participación comunitaria y consulta en la gestión sanitaria."
+    },
+    {
+        "enunciado": "¿Qué requisitos deben cumplir los Centros de Salud según la Ley 14/1986?",
+        "opciones": [
+            "Operar exclusivamente en áreas urbanas.",
+            "Estar diseñados como centros integrales de atención primaria.",
+            "Atender únicamente a población infantil y anciana.",
+            "Centrarse en la rehabilitación de enfermedades graves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 63 indica que los Centros de Salud son centros integrales que desarrollan actividades de promoción, prevención, curación y rehabilitación."
+    },
+    {
+        "enunciado": "¿Qué principio debe garantizar la política de salud pública según la Ley 14/1986?",
+        "opciones": [
+            "La superación de los desequilibrios territoriales y sociales.",
+            "La priorización de recursos en áreas urbanas.",
+            "El acceso restringido para grupos de riesgo.",
+            "La financiación exclusivamente mediante tasas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 3 establece que la política de salud pública debe estar orientada a superar los desequilibrios territoriales y sociales."
+    },
+    {
+        "enunciado": "¿Qué derecho tiene el ciudadano en relación con los procedimientos de investigación médica según la Ley 14/1986?",
+        "opciones": [
+            "Aceptar automáticamente cualquier investigación.",
+            "Ser informado y autorizar por escrito su participación.",
+            "Solicitar su exclusión inmediata de cualquier ensayo.",
+            "Participar únicamente en investigaciones en hospitales privados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 10 establece que el ciudadano debe ser informado y autorizar por escrito su participación en procedimientos relacionados con proyectos docentes o de investigación."
+    },
+    {
+        "enunciado": "¿Cómo deben gestionarse los servicios sanitarios en el Sistema Nacional de Salud según la Ley 14/1986?",
+        "opciones": [
+            "De forma centralizada desde el Ministerio de Sanidad.",
+            "Con desconcentración en las Áreas de Salud.",
+            "Exclusivamente por organismos privados.",
+            "Sin participación de las Comunidades Autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "La Ley establece en el artículo 56 que los servicios sanitarios deben gestionarse de forma desconcentrada a través de las Áreas de Salud."
+    },
+    {
+        "enunciado": "¿Qué principio debe respetarse en las medidas preventivas de salud según la Ley 14/1986?",
+        "opciones": [
+            "Proporcionalidad con los fines perseguidos.",
+            "Intervención exclusiva de autoridades internacionales.",
+            "Aplicación únicamente a enfermedades crónicas.",
+            "Rechazo de cualquier colaboración con las autoridades."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "ley14/1986"],
+        "feedback": "El artículo 28 establece que las medidas preventivas deben ser proporcionales a los fines de protección de la salud."
+    },
+  {
+    "enunciado": "¿Qué artículo de la Ley 2/1998, de Salud de Andalucía, establece los principios inspiradores de las actuaciones sobre protección de la salud?",
+    "opciones": ["Artículo 1", "Artículo 2", "Artículo 3", "Artículo 4"],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 2 establece los principios de universalización, equidad, planificación, entre otros, en las actuaciones de protección de la salud."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué derechos tienen los nacionales de Estados no pertenecientes a la Unión Europea respecto al sistema sanitario público andaluz?",
+    "opciones": [
+      "Solo el acceso a prestaciones vitales de emergencia",
+      "Los derechos reconocidos por las leyes, tratados y convenios suscritos por España",
+      "Los mismos derechos que los ciudadanos españoles",
+      "No tienen ningún derecho al sistema sanitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 3 establece que estos derechos son los reconocidos por las leyes y tratados internacionales suscritos por España."
+  },
+  {
+    "enunciado": "¿Cuál es el órgano máximo de participación ciudadana en el Sistema Sanitario Público de Andalucía según la Ley 2/1998?",
+    "opciones": [
+      "El Consejo de Gobierno de la Junta de Andalucía",
+      "El Consejo Andaluz de Salud",
+      "La Consejería de Salud",
+      "Los Consejos de Salud de Área"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Consejo Andaluz de Salud, regulado en el artículo 11, es el órgano máximo de participación ciudadana en política sanitaria."
+  },
+  {
+    "enunciado": "¿Qué tipo de asistencia incluye la atención integral de salud en el Sistema Sanitario Público de Andalucía según el artículo 18?",
+    "opciones": [
+      "Solo atención primaria",
+      "Atención primaria y especializada, junto con salud pública y rehabilitación",
+      "Solo atención especializada",
+      "Solo atención en urgencias"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 18 menciona la atención integral de salud, que incluye promoción, prevención, asistencia curativa y rehabilitadora."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué deben garantizar las administraciones públicas andaluzas para proteger el derecho a la salud?",
+    "opciones": [
+      "Solo financiamiento privado del sistema sanitario",
+      "Limitación de recursos según cada municipio",
+      "Acceso igualitario y equidad en las prestaciones sanitarias",
+      "Atención solo en hospitales de titularidad pública"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El principio de equidad y acceso igualitario a las prestaciones está recogido en los artículos iniciales de la Ley."
+  },
+  {
+    "enunciado": "¿Qué artículo de la Ley 2/1998 define las prestaciones mínimas del Sistema Sanitario Público de Andalucía?",
+    "opciones": ["Artículo 2", "Artículo 3", "Artículo 4", "Artículo 5"],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 4 menciona que las prestaciones mínimas serán, como mínimo, las del Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes NO es una obligación de los ciudadanos según el artículo 8 de la Ley 2/1998?",
+    "opciones": [
+      "Cuidar las instalaciones de los centros sanitarios",
+      "Firmar el consentimiento informado para tratamientos",
+      "Colaborar en el mantenimiento del sistema de salud",
+      "Negarse al tratamiento sin firmar documento alguno"
+    ],
+    "correcta": 3,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 8 indica que si el ciudadano se niega al tratamiento, debe firmar un documento que refleje su decisión."
+  },
+  {
+    "enunciado": "¿Qué artículo establece la obligación de garantizar un medio ambiente favorable a la salud?",
+    "opciones": ["Artículo 6", "Artículo 7", "Artículo 8", "Artículo 9"],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 7 recoge la obligación de las Administraciones Públicas de garantizar un medio ambiente favorable a la salud."
+  },
+  {
+    "enunciado": "¿Qué criterios deben seguir las actuaciones en salud laboral según la Ley 2/1998?",
+    "opciones": [
+      "Los establecidos exclusivamente por la Junta de Andalucía",
+      "Los de la Ley General de Sanidad y la Ley de Prevención de Riesgos Laborales",
+      "Normas internacionales sobre salud laboral",
+      "No se establecen criterios específicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 16 menciona que las actuaciones en salud laboral seguirán lo dispuesto en la Ley General de Sanidad y la Ley de Prevención de Riesgos Laborales."
+  },
+  {
+    "enunciado": "Según el artículo 43, ¿qué integra el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Solo los centros públicos de atención primaria",
+      "Todos los recursos públicos orientados a la salud, incluyendo promoción y prevención",
+      "Centros privados con convenios exclusivamente",
+      "Solo los hospitales gestionados por la Junta de Andalucía"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Sistema Sanitario Público de Andalucía abarca todos los recursos públicos orientados a garantizar la protección de la salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 1 de la Ley 2/1998, de Salud de Andalucía?",
+    "opciones": [
+      "La organización territorial del sistema sanitario andaluz",
+      "El objeto, principios y alcance de la Ley",
+      "Los derechos de los trabajadores sanitarios",
+      "Los mecanismos de participación ciudadana en salud"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 1 define el objeto de la Ley, los principios y el alcance general en materia de salud en Andalucía."
+  },
+  {
+    "enunciado": "Según el artículo 6 de la Ley 2/1998, ¿cuál es un derecho de los ciudadanos respecto a los servicios sanitarios?",
+    "opciones": [
+      "Elegir el hospital de cualquier comunidad autónoma",
+      "Recibir información comprensible sobre su estado de salud",
+      "Exigir atención médica gratuita en cualquier parte del mundo",
+      "Acceder directamente a cualquier tratamiento sin evaluación previa"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 reconoce el derecho a recibir información adecuada y comprensible sobre el estado de salud del ciudadano."
+  },
+  {
+    "enunciado": "¿Qué principio inspira la descentralización de los servicios según la Ley 2/1998?",
+    "opciones": [
+      "Equidad territorial",
+      "Autonomía en la gestión",
+      "Centralización organizativa",
+      "Externalización de servicios"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La descentralización, mencionada en el artículo 2, busca una gestión autónoma y eficiente en el ámbito sanitario."
+  },
+  {
+    "enunciado": "¿Qué órganos pueden regular las normas de funcionamiento de los Consejos de Salud de Área según la Ley 2/1998?",
+    "opciones": [
+      "La Consejería de Salud",
+      "El Consejo Andaluz de Salud",
+      "El Consejo de Gobierno de la Junta de Andalucía",
+      "Los Ayuntamientos de cada área"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Consejo de Gobierno tiene la competencia para reglamentar los Consejos de Salud de Área, según el artículo 13."
+  },
+  {
+    "enunciado": "¿Qué artículo regula las obligaciones individuales de los ciudadanos en relación con el sistema sanitario?",
+    "opciones": [
+      "Artículo 6",
+      "Artículo 7",
+      "Artículo 8",
+      "Artículo 9"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 8 recoge las obligaciones individuales, como cuidar las instalaciones y colaborar con el mantenimiento del sistema."
+  },
+  {
+    "enunciado": "¿Cuál es el propósito principal del Plan Andaluz de Salud según el artículo 30?",
+    "opciones": [
+      "Recaudar fondos para servicios médicos privados",
+      "Planificar las actividades, programas y recursos en materia de salud",
+      "Eliminar las desigualdades económicas en Andalucía",
+      "Garantizar la supervisión de profesionales sanitarios"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Plan Andaluz de Salud, según el artículo 30, es el marco referencial para planificar acciones sanitarias en Andalucía."
+  },
+  {
+    "enunciado": "¿Qué artículo define las características del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Artículo 43",
+      "Artículo 44",
+      "Artículo 45",
+      "Artículo 46"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 44 describe las características fundamentales, como la extensión universal de servicios y la financiación pública."
+  },
+  {
+    "enunciado": "Según el artículo 15, ¿cuál es una de las actuaciones de salud pública promovida por la administración andaluza?",
+    "opciones": [
+      "Atención personalizada a extranjeros no residentes",
+      "Educación para la salud de la población",
+      "Gestión directa de hospitales privados",
+      "Regulación exclusiva de actividades deportivas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La educación para la salud es clave para la promoción de la salud, según el artículo 15 de la Ley."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 24 sobre las infracciones sanitarias?",
+    "opciones": [
+      "Solo pueden ser sancionadas por autoridades locales",
+      "Son aquellas definidas en normas estatales y autonómicas",
+      "Incluyen únicamente actividades relacionadas con medicamentos",
+      "No existen criterios de clasificación específicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 24 establece que las infracciones están tipificadas tanto en normas estatales como autonómicas."
+  },
+  {
+    "enunciado": "¿Qué tipo de asistencia sanitaria incluye la atención especializada según el artículo 54?",
+    "opciones": [
+      "Solo consulta ambulatoria",
+      "Atención programada y urgente en hospitales y centros especializados",
+      "Exclusivamente asistencia domiciliaria",
+      "Servicios limitados a urgencias hospitalarias"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 54 menciona que la atención especializada incluye actividades programadas y urgentes en hospitales."
+  },
+  {
+    "enunciado": "¿Qué artículo de la Ley 2/1998 establece que todos los ciudadanos en Andalucía tienen derecho a las prestaciones vitales de emergencia?",
+    "opciones": [
+      "Artículo 3",
+      "Artículo 4",
+      "Artículo 6",
+      "Artículo 7"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 3 asegura que todas las personas en Andalucía tienen garantizadas las prestaciones vitales de emergencia."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué principio debe guiar la planificación de los servicios sanitarios?",
+    "opciones": [
+      "Rentabilidad económica",
+      "Eficiencia y equidad",
+      "Privatización progresiva",
+      "Acceso limitado según área geográfica"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El principio de eficiencia y equidad guía la planificación sanitaria, como se menciona en el artículo 2."
+  },
+  {
+    "enunciado": "¿Qué órgano se encarga de la gestión y administración del Servicio Andaluz de Salud según el artículo 64?",
+    "opciones": [
+      "El Consejo Andaluz de Salud",
+      "La Consejería de Salud",
+      "El Servicio Andaluz de Salud",
+      "Los Ayuntamientos"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 64 describe al Servicio Andaluz de Salud como el organismo encargado de la gestión y administración del sistema."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 14 de la Ley 2/1998 sobre participación ciudadana?",
+    "opciones": [
+      "La creación del Consejo Andaluz de Salud",
+      "La participación territorial en otros niveles organizativos",
+      "Los derechos de los profesionales sanitarios",
+      "El acceso de los ciudadanos a información sobre su salud"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 14 establece la posibilidad de crear órganos de participación en otros niveles del Sistema Sanitario Público."
+  },
+  {
+    "enunciado": "Según el artículo 43, ¿qué niveles de atención incluye el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Atención primaria, especializada y salud pública",
+      "Solo atención especializada y hospitalaria",
+      "Atención preventiva y curativa exclusivamente",
+      "Salud ocupacional y servicios privados"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Sistema incluye atención primaria, especializada y salud pública, promoviendo un enfoque integral de la salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 19 sobre la intervención pública en salud?",
+    "opciones": [
+      "Solo regula acciones preventivas en hospitales públicos",
+      "Establece registros y análisis para decisiones sanitarias",
+      "Prohíbe cualquier intervención sanitaria en empresas privadas",
+      "Limita la autoridad sanitaria a emergencias exclusivamente"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 19 regula la recopilación y análisis de información para apoyar decisiones de intervención pública en salud."
+  },
+  {
+    "enunciado": "¿Qué papel desempeña el Consejo de Administración del Servicio Andaluz de Salud según el artículo 68?",
+    "opciones": [
+      "Regula exclusivamente los hospitales privados",
+      "Aprueba la Memoria anual de gestión y define criterios de actuación",
+      "Supervisa las actuaciones de los Ayuntamientos",
+      "Solo ejecuta las decisiones del Consejo de Gobierno"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Consejo de Administración define criterios de actuación y aprueba la Memoria anual del Servicio Andaluz de Salud."
+  },
+  {
+    "enunciado": "¿Qué derechos específicos tienen los niños según el artículo 6 de la Ley 2/1998?",
+    "opciones": [
+      "Solo los derechos generales del sistema",
+      "Derechos específicos de salud y protección según la Ley 1/1998",
+      "Acceso prioritario a hospitales privados",
+      "Exclusivamente atención en casos de emergencia"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza a los niños derechos específicos en salud, en concordancia con la Ley 1/1998 de Atención al Menor."
+  },
+  {
+    "enunciado": "¿Qué criterios utiliza la Ley 2/1998 para delimitar las zonas básicas de salud?",
+    "opciones": [
+      "Criterios exclusivamente económicos",
+      "Factores geográficos, demográficos y epidemiológicos",
+      "Solo características culturales y sociales",
+      "Infraestructura de transporte público"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La delimitación de zonas básicas de salud se basa en factores geográficos, demográficos y epidemiológicos, según el artículo 50."
+  },
+  {
+    "enunciado": "¿Qué función principal cumple la atención primaria según el artículo 52?",
+    "opciones": [
+      "Atender solo casos urgentes",
+      "Ser el primer nivel de acceso a la atención integral de salud",
+      "Gestionar exclusivamente consultas hospitalarias",
+      "Administrar tratamientos farmacológicos avanzados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 52 define la atención primaria como el primer nivel de acceso, ofreciendo atención integral de salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 5 de la Ley 2/1998 sobre la actuación sanitaria de la Administración Pública de la Junta de Andalucía?",
+    "opciones": [
+      "Se basa únicamente en criterios económicos",
+      "Debe regirse por principios de planificación, participación, cooperación y coordinación",
+      "Depende exclusivamente de las normativas estatales",
+      "Se limita a la atención en hospitales públicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 5 especifica que la actuación sanitaria debe basarse en planificación, participación, cooperación y coordinación."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué derecho tienen los ciudadanos respecto al acceso a su historial clínico?",
+    "opciones": [
+      "Ninguno, ya que los datos son confidenciales",
+      "Acceso restringido solo bajo autorización judicial",
+      "Acceso directo y garantizado bajo el artículo 6",
+      "Acceso limitado a un resumen del historial clínico"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza el derecho de los ciudadanos al acceso a su historial clínico completo."
+  },
+  {
+    "enunciado": "¿Qué deben garantizar los centros sanitarios según el artículo 10 de la Ley 2/1998?",
+    "opciones": [
+      "Información accesible sobre derechos y deberes de los usuarios",
+      "Acceso gratuito a servicios privados de salud",
+      "Solo la atención a emergencias",
+      "El cumplimiento exclusivo de normas estatales"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 10 exige que los centros sanitarios dispongan de información accesible sobre los derechos y deberes de los usuarios."
+  },
+  {
+    "enunciado": "¿Qué competencias en salud pública tienen los municipios según el artículo 38 de la Ley 2/1998?",
+    "opciones": [
+      "Ninguna, ya que toda responsabilidad es de la Junta de Andalucía",
+      "Control sanitario del medio ambiente y promoción de la salud",
+      "Regulación de los hospitales locales",
+      "Supervisión de la formación médica especializada"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 38 detalla competencias municipales como el control sanitario del medio ambiente y la promoción de la salud."
+  },
+  {
+    "enunciado": "¿Qué criterio debe seguir la inclusión de nuevas prestaciones en el Sistema Sanitario Público de Andalucía según el artículo 4?",
+    "opciones": [
+      "Ser propuestas exclusivamente por centros privados",
+      "Evaluación previa de su efectividad, eficiencia y coste",
+      "La aprobación directa del Consejo de Administración",
+      "Estar financiadas únicamente por recursos municipales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 4 establece que las nuevas prestaciones deben pasar una evaluación de efectividad, eficiencia y coste."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 23 de la Ley 2/1998 sobre las funciones de inspección?",
+    "opciones": [
+      "Solo aplica a centros privados",
+      "Permite inspecciones en cualquier momento en centros sanitarios",
+      "Se limita a la supervisión de registros administrativos",
+      "Exige notificación previa para cualquier inspección"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 23 otorga a los inspectores autoridad para realizar inspecciones en cualquier momento en centros sanitarios."
+  },
+  {
+    "enunciado": "¿Qué derechos tienen los ciudadanos a una segunda opinión según la Ley 2/1998?",
+    "opciones": [
+      "No tienen derecho a solicitar una segunda opinión",
+      "Solo pueden solicitarla para enfermedades graves",
+      "Tienen derecho a una segunda opinión facultativa en términos reglamentarios",
+      "Solo está disponible en centros hospitalarios privados"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 establece que los ciudadanos tienen derecho a una segunda opinión en los términos establecidos reglamentariamente."
+  },
+  {
+    "enunciado": "¿Qué principio organizativo menciona la Ley 2/1998 para el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Centralización de todos los servicios en hospitales",
+      "Coordinación de recursos y descentralización territorial",
+      "Privatización de los servicios básicos",
+      "Focalización exclusiva en la atención primaria"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La Ley enfatiza la coordinación y descentralización como principios organizativos del sistema sanitario andaluz."
+  },
+  {
+    "enunciado": "¿Qué define el artículo 16 sobre las actuaciones en salud laboral?",
+    "opciones": [
+      "Están reguladas únicamente por la Junta de Andalucía",
+      "Se basan en la Ley General de Sanidad y la Ley de Prevención de Riesgos Laborales",
+      "Incluyen únicamente inspecciones en empresas públicas",
+      "Solo aplican a trabajadores del sector sanitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 16 establece que las actuaciones en salud laboral se rigen por la Ley General de Sanidad y la Ley de Prevención de Riesgos Laborales."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 2/1998 sobre la atención sanitaria en caso de riesgo grave para la salud pública?",
+    "opciones": [
+      "Requiere siempre el consentimiento del paciente",
+      "Puede realizarse sin consentimiento por razones de urgencia",
+      "Solo aplica a residentes en Andalucía",
+      "Debe ser autorizada previamente por un juez"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 establece que en casos de riesgo grave para la salud pública, se pueden adoptar medidas sin consentimiento del paciente."
+  },
+  {
+    "enunciado": "¿Qué artículo de la Ley 2/1998 establece que las prestaciones sanitarias ofertadas deben incluir, como mínimo, las del Sistema Nacional de Salud?",
+    "opciones": [
+      "Artículo 2",
+      "Artículo 3",
+      "Artículo 4",
+      "Artículo 5"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 4 asegura que las prestaciones sanitarias en Andalucía deben ser al menos las establecidas para el Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Cuál es el objeto principal de la Ley 2/1998 según el artículo 1?",
+    "opciones": [
+      "Definir las competencias de los profesionales sanitarios",
+      "Regulación para hacer efectivo el derecho a la protección de la salud",
+      "Establecer normas sobre sanidad privada",
+      "Regular exclusivamente la atención en hospitales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 1 establece como objeto principal de la Ley garantizar el derecho a la protección de la salud en Andalucía."
+  },
+  {
+    "enunciado": "Según el artículo 18, ¿qué incluye la atención integral de salud en el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Solo asistencia hospitalaria",
+      "Promoción, prevención, curación y rehabilitación",
+      "Servicios limitados a atención ambulatoria",
+      "Tratamientos especializados únicamente"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 18 define la atención integral como un enfoque que abarca promoción, prevención, curación y rehabilitación."
+  },
+  {
+    "enunciado": "¿Qué derechos tienen los ciudadanos al respecto de la confidencialidad de su información según la Ley 2/1998?",
+    "opciones": [
+      "No se garantiza confidencialidad en los centros privados",
+      "Solo se aplica confidencialidad en urgencias",
+      "Tienen derecho a la confidencialidad de toda su información clínica",
+      "La confidencialidad depende del tipo de tratamiento recibido"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 asegura el derecho a la confidencialidad de toda la información relacionada con el proceso de salud del ciudadano."
+  },
+  {
+    "enunciado": "Según el artículo 9, ¿qué debe garantizar la Administración andaluza a los ciudadanos?",
+    "opciones": [
+      "Información suficiente sobre derechos y deberes",
+      "Atención prioritaria en hospitales privados",
+      "Acceso exclusivo a medicamentos genéricos",
+      "Tratamiento médico solo en casos urgentes"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 9 estipula que la Administración debe garantizar información suficiente y comprensible sobre los derechos y deberes en el sistema sanitario."
+  },
+  {
+    "enunciado": "¿Qué principio clave regula la participación de los trabajadores del sistema sanitario según el artículo 2?",
+    "opciones": [
+      "Planificación exclusiva por los directores de hospitales",
+      "Participación activa en la gestión de recursos asistenciales",
+      "Limitación de participación a nivel administrativo",
+      "Prohibición de participación en decisiones estratégicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 2 resalta la importancia de la participación activa de los trabajadores en la gestión de recursos asistenciales."
+  },
+  {
+    "enunciado": "¿Qué función cumple el Consejo Andaluz de Salud según el artículo 11?",
+    "opciones": [
+      "Es un órgano exclusivo de supervisión administrativa",
+      "Coordina la ejecución de las políticas estatales de salud",
+      "Asesora y fomenta la participación ciudadana en salud",
+      "Regula directamente los servicios de atención primaria"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 11 define al Consejo Andaluz de Salud como un órgano que fomenta la participación ciudadana y asesora en políticas sanitarias."
+  },
+  {
+    "enunciado": "¿Qué actuaciones están incluidas en la salud pública según el artículo 15?",
+    "opciones": [
+      "Solo control de enfermedades transmisibles",
+      "Vigilancia epidemiológica y promoción de la salud",
+      "Supervisión exclusiva de productos farmacéuticos",
+      "Atención médica personalizada para epidemias"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 15 aborda la vigilancia epidemiológica, la promoción de salud y otras actuaciones esenciales en salud pública."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 39 sobre las disposiciones municipales en salud?",
+    "opciones": [
+      "Los municipios no pueden emitir disposiciones en salud",
+      "Pueden establecer disposiciones sanitarias dentro de su ámbito territorial",
+      "Regulan exclusivamente la gestión de hospitales locales",
+      "Limitan su intervención a actividades de promoción de la salud"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 39 permite a los municipios establecer disposiciones de carácter sanitario en su ámbito territorial."
+  },
+  {
+    "enunciado": "¿Qué sanciones pueden imponerse según el artículo 27 por infracciones sanitarias graves?",
+    "opciones": [
+      "Solo advertencias administrativas",
+      "Multas y medidas de cierre temporal o definitivo",
+      "Exclusivamente sanciones económicas",
+      "Prohibición permanente de operar en el sector sanitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 27 establece que las sanciones incluyen multas y medidas de cierre temporal o definitivo dependiendo de la gravedad."
+  },
+  {
+    "enunciado": "Según el artículo 6 de la Ley 2/1998, ¿qué derecho tienen los ciudadanos en relación con la libre elección de médico?",
+    "opciones": [
+      "Elegir médico solo dentro de su municipio",
+      "Libre elección de médico, profesional sanitario y centro sanitario en los términos reglamentarios",
+      "Seleccionar un médico únicamente en casos de emergencia",
+      "No tienen derecho a elegir médico"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza la libre elección de médico, profesional sanitario y centro en los términos establecidos reglamentariamente."
+  },
+  {
+    "enunciado": "¿Qué principio organizativo promueve el artículo 44 sobre el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Financiación privada de los servicios",
+      "Uso preferente de recursos sanitarios públicos",
+      "Gestión exclusivamente local de los servicios",
+      "Atención limitada a población activa"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 44 establece el uso preferente de los recursos sanitarios públicos como un principio clave del Sistema."
+  },
+  {
+    "enunciado": "Según el artículo 15, ¿cuál de las siguientes es una actuación de la salud pública promovida en Andalucía?",
+    "opciones": [
+      "Atención hospitalaria gratuita",
+      "Educación para la salud y promoción de estilos de vida saludables",
+      "Prestación exclusiva de medicamentos",
+      "Supervisión de actividades comerciales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 15 incluye entre las actuaciones de salud pública la educación para la salud y promoción de estilos de vida saludables."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 19 sobre la intervención pública en materia de salud?",
+    "opciones": [
+      "Solo regula el uso de medicamentos",
+      "Incluye registros, análisis y autorización sanitaria de actividades con impacto en la salud",
+      "Limita la intervención a emergencias epidemiológicas",
+      "Prohíbe la colaboración con empresas privadas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 19 abarca acciones como registros, análisis e intervenciones relacionadas con la autorización sanitaria de actividades."
+  },
+  {
+    "enunciado": "¿Qué artículo regula la atención especializada dentro del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Artículo 18",
+      "Artículo 50",
+      "Artículo 54",
+      "Artículo 56"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 54 establece que la atención especializada se presta en hospitales y centros especializados, incluyendo acciones programadas y urgentes."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué competencias tienen los municipios en materia de salud pública?",
+    "opciones": [
+      "Solo supervisión de centros privados",
+      "Control sanitario de actividades y promoción de salud",
+      "Gestión de hospitales comarcales",
+      "Exclusivamente atención en emergencias"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 38 asigna a los municipios competencias como el control sanitario de actividades y la promoción de salud pública."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 7 sobre el medio ambiente y la salud?",
+    "opciones": [
+      "Solo se aplica a áreas rurales",
+      "Obliga a las administraciones a garantizar un medio ambiente favorable a la salud",
+      "Excluye las zonas industriales de esta regulación",
+      "Se limita a recomendaciones no vinculantes"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 7 dispone que las administraciones públicas deben garantizar un medio ambiente favorable a la salud de los ciudadanos."
+  },
+  {
+    "enunciado": "¿Qué principios recoge el artículo 2 como fundamentales en las actuaciones sanitarias?",
+    "opciones": [
+      "Universalización, equidad y descentralización",
+      "Privatización, eficiencia económica y accesibilidad restringida",
+      "Exclusividad en atención hospitalaria y financiamiento privado",
+      "Centralización y promoción de la iniciativa privada"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 2 menciona la universalización, equidad y descentralización como principios básicos de las actuaciones sanitarias."
+  },
+  {
+    "enunciado": "¿Qué función tiene el Plan Andaluz de Salud según el artículo 30?",
+    "opciones": [
+      "Regular la actividad de los hospitales privados",
+      "Coordinar las actuaciones sanitarias en el ámbito autonómico",
+      "Establecer normas legales para la salud laboral",
+      "Garantizar fondos para tratamientos especializados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 30 define el Plan Andaluz de Salud como un instrumento para coordinar todas las actuaciones sanitarias en Andalucía."
+  },
+  {
+    "enunciado": "Según el artículo 6, ¿qué garantía tienen los ciudadanos respecto a los tiempos de acceso a las prestaciones sanitarias?",
+    "opciones": [
+      "Acceso inmediato a cualquier servicio sanitario",
+      "Acceso garantizado en un tiempo máximo según lo reglamentado",
+      "Solo acceso a tratamientos de urgencia",
+      "Acceso sin límite de tiempo dependiendo de la disponibilidad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza a los ciudadanos el acceso a prestaciones sanitarias en un tiempo máximo establecido reglamentariamente."
+  },
+  {
+    "enunciado": "Según el artículo 6 de la Ley 2/1998, ¿qué derecho tienen los ciudadanos en relación con la libre elección de médico?",
+    "opciones": [
+      "Elegir médico solo dentro de su municipio",
+      "Libre elección de médico, profesional sanitario y centro sanitario en los términos reglamentarios",
+      "Seleccionar un médico únicamente en casos de emergencia",
+      "No tienen derecho a elegir médico"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza la libre elección de médico, profesional sanitario y centro en los términos establecidos reglamentariamente."
+  },
+  {
+    "enunciado": "¿Qué principio organizativo promueve el artículo 44 sobre el Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Financiación privada de los servicios",
+      "Uso preferente de recursos sanitarios públicos",
+      "Gestión exclusivamente local de los servicios",
+      "Atención limitada a población activa"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 44 establece el uso preferente de los recursos sanitarios públicos como un principio clave del Sistema."
+  },
+  {
+    "enunciado": "Según el artículo 15, ¿cuál de las siguientes es una actuación de la salud pública promovida en Andalucía?",
+    "opciones": [
+      "Atención hospitalaria gratuita",
+      "Educación para la salud y promoción de estilos de vida saludables",
+      "Prestación exclusiva de medicamentos",
+      "Supervisión de actividades comerciales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 15 incluye entre las actuaciones de salud pública la educación para la salud y promoción de estilos de vida saludables."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 19 sobre la intervención pública en materia de salud?",
+    "opciones": [
+      "Solo regula el uso de medicamentos",
+      "Incluye registros, análisis y autorización sanitaria de actividades con impacto en la salud",
+      "Limita la intervención a emergencias epidemiológicas",
+      "Prohíbe la colaboración con empresas privadas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 19 abarca acciones como registros, análisis e intervenciones relacionadas con la autorización sanitaria de actividades."
+  },
+  {
+    "enunciado": "¿Qué artículo regula la atención especializada dentro del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Artículo 18",
+      "Artículo 50",
+      "Artículo 54",
+      "Artículo 56"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 54 establece que la atención especializada se presta en hospitales y centros especializados, incluyendo acciones programadas y urgentes."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué competencias tienen los municipios en materia de salud pública?",
+    "opciones": [
+      "Solo supervisión de centros privados",
+      "Control sanitario de actividades y promoción de salud",
+      "Gestión de hospitales comarcales",
+      "Exclusivamente atención en emergencias"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 38 asigna a los municipios competencias como el control sanitario de actividades y la promoción de salud pública."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 7 sobre el medio ambiente y la salud?",
+    "opciones": [
+      "Solo se aplica a áreas rurales",
+      "Obliga a las administraciones a garantizar un medio ambiente favorable a la salud",
+      "Excluye las zonas industriales de esta regulación",
+      "Se limita a recomendaciones no vinculantes"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 7 dispone que las administraciones públicas deben garantizar un medio ambiente favorable a la salud de los ciudadanos."
+  },
+  {
+    "enunciado": "¿Qué principios recoge el artículo 2 como fundamentales en las actuaciones sanitarias?",
+    "opciones": [
+      "Universalización, equidad y descentralización",
+      "Privatización, eficiencia económica y accesibilidad restringida",
+      "Exclusividad en atención hospitalaria y financiamiento privado",
+      "Centralización y promoción de la iniciativa privada"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 2 menciona la universalización, equidad y descentralización como principios básicos de las actuaciones sanitarias."
+  },
+  {
+    "enunciado": "¿Qué función tiene el Plan Andaluz de Salud según el artículo 30?",
+    "opciones": [
+      "Regular la actividad de los hospitales privados",
+      "Coordinar las actuaciones sanitarias en el ámbito autonómico",
+      "Establecer normas legales para la salud laboral",
+      "Garantizar fondos para tratamientos especializados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 30 define el Plan Andaluz de Salud como un instrumento para coordinar todas las actuaciones sanitarias en Andalucía."
+  },
+  {
+    "enunciado": "Según el artículo 6, ¿qué garantía tienen los ciudadanos respecto a los tiempos de acceso a las prestaciones sanitarias?",
+    "opciones": [
+      "Acceso inmediato a cualquier servicio sanitario",
+      "Acceso garantizado en un tiempo máximo según lo reglamentado",
+      "Solo acceso a tratamientos de urgencia",
+      "Acceso sin límite de tiempo dependiendo de la disponibilidad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza a los ciudadanos el acceso a prestaciones sanitarias en un tiempo máximo establecido reglamentariamente."
+  },
+  {
+    "enunciado": "¿Qué principio destaca la Ley 2/1998 para garantizar la igualdad en la prestación de servicios sanitarios?",
+    "opciones": [
+      "Centralización de los recursos",
+      "Equidad en el acceso a los servicios",
+      "Discriminación positiva por criterios económicos",
+      "Privatización de la gestión sanitaria"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La Ley 2/1998 resalta la equidad como un principio fundamental para garantizar la igualdad en el acceso a los servicios sanitarios."
+  },
+  {
+    "enunciado": "¿Qué derechos específicos menciona el artículo 6 para las personas en grupos de riesgo sanitario?",
+    "opciones": [
+      "Atención preferente solo en hospitales públicos",
+      "Programas especiales y preferentes de actuación sanitaria",
+      "Acceso restringido a medicamentos innovadores",
+      "Ningún derecho adicional al resto de ciudadanos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 establece que las personas en grupos de riesgo tienen derecho a programas y actuaciones sanitarias especiales y preferentes."
+  },
+  {
+    "enunciado": "Según el artículo 11, ¿quién regula la organización y funciones del Consejo Andaluz de Salud?",
+    "opciones": [
+      "El Parlamento de Andalucía",
+      "El Consejo de Gobierno de la Junta de Andalucía",
+      "Los Ayuntamientos",
+      "La Consejería de Salud"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El Consejo de Gobierno de la Junta de Andalucía es el encargado de regular la organización y funciones del Consejo Andaluz de Salud."
+  },
+  {
+    "enunciado": "¿Qué actuaciones de salud laboral promueve la Ley 2/1998 según el artículo 16?",
+    "opciones": [
+      "Exclusivamente formación en prevención de riesgos",
+      "Evaluación y control de las actividades sanitarias en empresas",
+      "Inspección de instalaciones deportivas públicas",
+      "Suministro de material médico a centros de trabajo"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 16 promueve la evaluación y control de las actividades sanitarias realizadas en las empresas como parte de la salud laboral."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 52 sobre la atención primaria de salud en Andalucía?",
+    "opciones": [
+      "Es un nivel opcional en la prestación sanitaria",
+      "Constituye el primer nivel de acceso ordinario de la población",
+      "Se limita a servicios de urgencias ambulatorias",
+      "Solo incluye actividades preventivas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 52 establece que la atención primaria es el primer nivel de acceso ordinario y ofrece una atención integral de la salud."
+  },
+  {
+    "enunciado": "¿Qué medidas puede tomar la autoridad sanitaria en caso de riesgo inminente para la salud, según el artículo 21?",
+    "opciones": [
+      "Emitir recomendaciones no vinculantes",
+      "Suspender actividades o cerrar instalaciones",
+      "Delegar toda responsabilidad en los Ayuntamientos",
+      "Esperar la autorización judicial para actuar"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 21 permite a la autoridad sanitaria adoptar medidas como suspender actividades o cerrar instalaciones para proteger la salud pública."
+  },
+  {
+    "enunciado": "¿Qué delimita el artículo 47 sobre las áreas de salud en Andalucía?",
+    "opciones": [
+      "Las áreas se determinan solo por densidad poblacional",
+      "Se delimitan atendiendo a factores geográficos, demográficos y sanitarios",
+      "Son establecidas directamente por los municipios",
+      "Solo aplican a zonas rurales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 47 delimita las áreas de salud considerando factores geográficos, demográficos, sanitarios y otros criterios."
+  },
+  {
+    "enunciado": "Según la Ley 2/1998, ¿qué responsabilidad tienen los ciudadanos al negarse a un tratamiento propuesto?",
+    "opciones": [
+      "Firmar un documento que refleje su rechazo informado",
+      "Negarse sin necesidad de documentación",
+      "Cumplir las indicaciones médicas obligatoriamente",
+      "Aceptar cualquier tratamiento si es de carácter urgente"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 8 obliga a los ciudadanos a firmar un documento que refleje su rechazo informado al tratamiento propuesto."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 68 sobre el Consejo de Administración del Servicio Andaluz de Salud?",
+    "opciones": [
+      "Sus funciones y composición como órgano de dirección",
+      "Su capacidad para gestionar hospitales privados",
+      "El diseño de políticas educativas sanitarias",
+      "La regulación exclusiva de la atención primaria"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 68 regula las funciones y composición del Consejo de Administración, que es el órgano de dirección del Servicio Andaluz de Salud."
+  },
+  {
+    "enunciado": "¿Qué derecho garantiza la Ley 2/1998 respecto a la segunda opinión médica?",
+    "opciones": [
+      "No está reconocido como un derecho en Andalucía",
+      "Está garantizado en los términos que se establezcan reglamentariamente",
+      "Solo aplica a enfermedades graves",
+      "Se limita a casos de atención en centros privados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La Ley 2/1998 garantiza el derecho a una segunda opinión médica en los términos reglamentariamente establecidos."
+  },
+  {
+    "enunciado": "¿Qué principio establece el artículo 2 sobre la integración funcional de los recursos sanitarios?",
+    "opciones": [
+      "Subordinación a los centros privados",
+      "Independencia total de los servicios",
+      "Integración funcional de todos los recursos públicos",
+      "Gestión exclusiva por organismos internacionales"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 2 señala la integración funcional de los recursos sanitarios públicos como un principio clave para la organización del sistema."
+  },
+  {
+    "enunciado": "¿Qué derechos garantiza el artículo 6 sobre el acceso a información sanitaria de los ciudadanos?",
+    "opciones": [
+      "Solo acceso a información básica",
+      "Derecho a ser informados sobre su estado de salud, diagnóstico, y tratamientos disponibles",
+      "Acceso limitado según el tipo de enfermedad",
+      "Información disponible solo en casos de emergencia"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 asegura que los ciudadanos tienen derecho a recibir información clara y comprensible sobre su estado de salud y opciones de tratamiento."
+  },
+  {
+    "enunciado": "Según el artículo 22, ¿quiénes tienen competencias sanitarias en Andalucía?",
+    "opciones": [
+      "Solo el Consejo de Gobierno de la Junta de Andalucía",
+      "El Consejo de Gobierno, la Consejería de Salud y los Alcaldes",
+      "Exclusivamente las corporaciones locales",
+      "Organismos internacionales y nacionales de salud"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 22 establece que las competencias sanitarias recaen en el Consejo de Gobierno, la Consejería de Salud y los Alcaldes."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 31 sobre el Plan Andaluz de Salud?",
+    "opciones": [
+      "Su contenido, metodología y evaluación",
+      "La financiación de los hospitales públicos",
+      "La privatización de servicios básicos",
+      "El diseño exclusivo de áreas de salud rurales"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 31 describe el contenido, la metodología de elaboración y los mecanismos de evaluación del Plan Andaluz de Salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 8 sobre las obligaciones de los ciudadanos respecto al mantenimiento del sistema sanitario?",
+    "opciones": [
+      "No tienen ninguna obligación específica",
+      "Deben usar los recursos de manera responsable y cuidar las instalaciones",
+      "Solo tienen obligaciones en los hospitales públicos",
+      "Están obligados a donar recursos al sistema sanitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 8 señala que los ciudadanos deben colaborar con el mantenimiento del sistema sanitario y usar sus recursos de forma adecuada."
+  },
+  {
+    "enunciado": "Según el artículo 44, ¿cuál es una característica fundamental del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Privatización progresiva",
+      "Aseguramiento único y financiación pública",
+      "Gestión descentralizada a empresas privadas",
+      "Exclusividad en atención primaria"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 44 define al aseguramiento único y la financiación pública como características esenciales del sistema sanitario andaluz."
+  },
+  {
+    "enunciado": "¿Qué garantiza el artículo 9 sobre la efectividad de los derechos de los ciudadanos?",
+    "opciones": [
+      "Información insuficiente sobre servicios disponibles",
+      "Pleno ejercicio de derechos mediante reglamentación específica",
+      "Acceso restringido solo a prestaciones de urgencia",
+      "Derechos limitados a grupos específicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 9 garantiza que la reglamentación específica permita el pleno ejercicio de los derechos establecidos en la Ley."
+  },
+  {
+    "enunciado": "Según el artículo 18, ¿qué nivel de atención incluye la asistencia sanitaria integral?",
+    "opciones": [
+      "Solo prevención de enfermedades",
+      "Atención primaria y especializada, incluyendo rehabilitación",
+      "Exclusivamente asistencia hospitalaria",
+      "Atención focalizada en enfermedades crónicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 18 menciona que la asistencia sanitaria integral abarca atención primaria, especializada y acciones de rehabilitación."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 27 sobre las sanciones por infracciones sanitarias graves?",
+    "opciones": [
+      "Solo se aplican en casos de daño ambiental",
+      "Incluyen multas y posibles medidas como clausura temporal de instalaciones",
+      "Son aplicables únicamente en centros de titularidad privada",
+      "Se limitan a advertencias administrativas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 27 establece sanciones que incluyen multas y medidas como la clausura temporal de instalaciones en casos graves."
+  },
+  {
+    "enunciado": "¿Qué determina el artículo 47 sobre la organización territorial del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Se organiza en áreas de salud delimitadas por criterios diversos",
+      "Limita las áreas a núcleos urbanos exclusivamente",
+      "No regula la organización territorial",
+      "Permite solo una división administrativa estatal"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 47 establece que el sistema sanitario se organiza en áreas de salud delimitadas por factores geográficos, demográficos y otros."
+  },
+  {
+    "enunciado": "¿Qué objetivo principal tiene la Ley 2/1998 según su artículo 1?",
+    "opciones": [
+      "Regular exclusivamente los derechos de los profesionales sanitarios",
+      "Establecer la normativa sobre medicamentos",
+      "Garantizar el derecho a la protección de la salud en Andalucía",
+      "Definir el sistema de financiación para centros privados"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 1 de la Ley 2/1998 establece como objetivo principal garantizar el derecho a la protección de la salud de los ciudadanos en Andalucía."
+  },
+  {
+    "enunciado": "Según el artículo 6, ¿qué derechos tienen los ciudadanos respecto a su intimidad en los servicios sanitarios?",
+    "opciones": [
+      "No tienen ningún derecho específico",
+      "El respeto a su intimidad es un derecho fundamental, sin discriminación alguna",
+      "Solo tienen derecho a la intimidad en centros privados",
+      "La intimidad depende de la disponibilidad del personal sanitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza a los ciudadanos el respeto a su intimidad en todos los servicios sanitarios, sin ningún tipo de discriminación."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 4 sobre las prestaciones sanitarias en Andalucía?",
+    "opciones": [
+      "La exclusión de prestaciones no aprobadas por el Estado",
+      "Que deben incluir al menos las establecidas para el Sistema Nacional de Salud",
+      "La gratuidad de todas las prestaciones en centros privados",
+      "La exclusión de tratamientos no urgentes"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 4 asegura que las prestaciones en Andalucía deben incluir, como mínimo, las definidas en el Sistema Nacional de Salud."
+  },
+  {
+    "enunciado": "¿Qué función tiene el Consejo Andaluz de Salud según el artículo 11?",
+    "opciones": [
+      "Aprobar presupuestos sanitarios",
+      "Asesorar y fomentar la participación ciudadana en la política sanitaria",
+      "Supervisar exclusivamente la formación sanitaria",
+      "Coordinar actividades de hospitales privados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 11 define al Consejo Andaluz de Salud como un órgano asesor y de participación ciudadana en las políticas sanitarias."
+  },
+  {
+    "enunciado": "¿Qué garantiza el artículo 9 respecto a los derechos y deberes de los ciudadanos en salud?",
+    "opciones": [
+      "Acceso gratuito a todos los servicios en cualquier comunidad autónoma",
+      "Información adecuada y comprensible sobre sus derechos y los servicios disponibles",
+      "Solo la garantía de atención en urgencias hospitalarias",
+      "La limitación de derechos a quienes no contribuyen al sistema"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 9 obliga a la Administración a proporcionar información adecuada y comprensible sobre los derechos y servicios sanitarios."
+  },
+  {
+    "enunciado": "Según el artículo 15, ¿cuál es una de las actuaciones promovidas en salud pública?",
+    "opciones": [
+      "Promoción de estilos de vida saludables",
+      "Supervisión de instalaciones deportivas",
+      "Regulación exclusiva de centros privados",
+      "Atención domiciliaria a pacientes crónicos"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 15 promueve actuaciones en salud pública como la educación para la salud y el fomento de estilos de vida saludables."
+  },
+  {
+    "enunciado": "¿Qué responsabilidades tienen los municipios en salud pública según el artículo 38?",
+    "opciones": [
+      "Control sanitario del medio ambiente y promoción de la salud",
+      "Solo participación en órganos de gestión sanitaria",
+      "Gestión directa de hospitales locales",
+      "No tienen competencias en salud pública"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 38 asigna a los municipios responsabilidades como el control sanitario del medio ambiente y la promoción de la salud."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 47 sobre la organización del Sistema Sanitario Público de Andalucía?",
+    "opciones": [
+      "Establece zonas básicas de salud para áreas rurales exclusivamente",
+      "Organiza el sistema en áreas de salud delimitadas por diversos criterios",
+      "Centraliza toda la gestión sanitaria en la capital autonómica",
+      "Limita las áreas de salud a grandes núcleos urbanos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 47 organiza el sistema en áreas de salud delimitadas por criterios geográficos, demográficos y otros relevantes."
+  },
+  {
+    "enunciado": "¿Qué sanciones contempla el artículo 27 para infracciones sanitarias muy graves?",
+    "opciones": [
+      "Solo multas administrativas",
+      "Multas y cierre de instalaciones si es necesario para la salud pública",
+      "Suspensión temporal de servicios sin multas",
+      "Exclusivamente advertencias y recomendaciones"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 27 establece sanciones como multas y, en casos graves, el cierre de instalaciones para proteger la salud pública."
+  },
+  {
+    "enunciado": "¿Qué define el artículo 52 sobre la atención primaria en el sistema sanitario?",
+    "opciones": [
+      "Es el nivel secundario en la jerarquía de atención",
+      "Constituye el primer nivel de acceso integral para la población",
+      "Se limita a servicios de urgencia en zonas rurales",
+      "Es un nivel opcional para servicios especializados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 52 establece la atención primaria como el primer nivel de acceso integral al sistema sanitario."
+  },
+  {
+    "enunciado": "¿Qué derecho garantiza el artículo 6 de la Ley 2/1998 respecto al consentimiento informado?",
+    "opciones": [
+      "No se requiere consentimiento para tratamientos menores",
+      "El derecho a ser informado previamente y a consentir libremente los procedimientos",
+      "Solo se aplica a tratamientos quirúrgicos",
+      "Es obligatorio para todos los ciudadanos aceptar tratamientos propuestos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 6 garantiza a los ciudadanos el derecho a recibir información y a consentir de forma libre y voluntaria los procedimientos médicos."
+  },
+  {
+    "enunciado": "Según el artículo 16, ¿qué ámbito regula la Ley 2/1998 en materia de salud laboral?",
+    "opciones": [
+      "Solo aplica a trabajadores del sector público",
+      "Se limita a medidas preventivas en industrias privadas",
+      "Regula la prevención, promoción y vigilancia de la salud en el ámbito laboral",
+      "Excluye actividades relacionadas con riesgos psicosociales"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 16 establece que la Ley regula la prevención, promoción y vigilancia de la salud de los trabajadores en el ámbito laboral."
+  },
+  {
+    "enunciado": "¿Qué función tiene el Consejo de Administración del Servicio Andaluz de Salud según el artículo 68?",
+    "opciones": [
+      "Definir políticas internacionales de salud",
+      "Gestionar exclusivamente recursos económicos",
+      "Aprobar estrategias de actuación y coordinar las funciones del sistema",
+      "Supervisar únicamente la formación de los profesionales sanitarios"
+    ],
+    "correcta": 2,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 68 asigna al Consejo de Administración la función de coordinar y definir estrategias para el correcto funcionamiento del sistema sanitario."
+  },
+  {
+    "enunciado": "¿Qué regula el artículo 7 sobre la protección del medio ambiente y su relación con la salud?",
+    "opciones": [
+      "No establece ninguna relación directa",
+      "Obliga a la Administración a garantizar un medio ambiente saludable",
+      "Se limita a actividades industriales de alto impacto",
+      "Solo aplica en zonas urbanas con alta densidad de población"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 7 establece la obligación de las administraciones públicas de garantizar un medio ambiente saludable para la población."
+  },
+  {
+    "enunciado": "Según el artículo 18, ¿qué incluye la asistencia sanitaria integral?",
+    "opciones": [
+      "Exclusivamente atención médica en hospitales",
+      "Promoción, prevención, curación y rehabilitación de la salud",
+      "Solo servicios de urgencias y atención primaria",
+      "Atención limitada a enfermedades graves"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 18 menciona que la asistencia sanitaria integral abarca la promoción, prevención, curación y rehabilitación de la salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 9 respecto a la información proporcionada a los ciudadanos sobre los servicios sanitarios?",
+    "opciones": [
+      "Se limita a información básica sobre hospitales",
+      "Debe ser suficiente, clara y accesible para garantizar el ejercicio de sus derechos",
+      "Solo incluye información para residentes permanentes",
+      "No se menciona la obligación de informar a los ciudadanos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 9 asegura que los ciudadanos deben recibir información clara y accesible para ejercer plenamente sus derechos en el sistema sanitario."
+  },
+  {
+    "enunciado": "¿Qué principio organiza la prestación de servicios en las zonas básicas de salud según el artículo 50?",
+    "opciones": [
+      "Distribución equitativa basada en la densidad poblacional",
+      "Coordinación territorial de recursos en base a criterios geográficos y epidemiológicos",
+      "Centralización de recursos en áreas urbanas",
+      "Atención limitada a población trabajadora activa"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 50 establece la coordinación territorial basada en criterios geográficos, demográficos y epidemiológicos para organizar las zonas básicas de salud."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 27 sobre la gravedad de las infracciones sanitarias?",
+    "opciones": [
+      "Clasifica las infracciones como leves, graves y muy graves",
+      "No diferencia entre tipos de infracciones",
+      "Solo considera infracciones relacionadas con el medio ambiente",
+      "Las infracciones son sancionadas con advertencias exclusivamente"
+    ],
+    "correcta": 0,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 27 clasifica las infracciones sanitarias en leves, graves y muy graves, aplicando sanciones proporcionales a su gravedad."
+  },
+  {
+    "enunciado": "¿Qué derecho tienen los ciudadanos respecto a la participación en las decisiones sobre su atención médica según la Ley 2/1998?",
+    "opciones": [
+      "Ninguno, ya que las decisiones las toma exclusivamente el personal médico",
+      "Derecho a participar en la toma de decisiones que afecten a su salud",
+      "Solo pueden decidir en situaciones de emergencia",
+      "La participación está limitada a los tratamientos experimentales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "La Ley 2/1998 garantiza a los ciudadanos el derecho a participar en las decisiones sobre los tratamientos y actuaciones que afectan su salud."
+  },
+  {
+    "enunciado": "¿Qué función tiene el Plan Andaluz de Salud según el artículo 30?",
+    "opciones": [
+      "Definir exclusivamente la atención en hospitales privados",
+      "Ser el marco estratégico para coordinar las políticas de salud pública en Andalucía",
+      "Limitar las competencias de los ayuntamientos en materia sanitaria",
+      "Regular los precios de los medicamentos en la comunidad"
+    ],
+    "correcta": 1,
+    "categorías": ["tema3", "ley 2/1998"],
+    "feedback": "El artículo 30 establece que el Plan Andaluz de Salud es el instrumento estratégico que coordina las políticas de salud pública en Andalucía."
+  },
+    {
+        "enunciado": "Según la Ley 2/1998, de 15 de junio, de Salud de Andalucía, ¿cuál es el objeto principal de la ley?",
+        "opciones": [
+            "Garantizar el acceso universal a la salud en Andalucía.",
+            "Establecer la financiación de los servicios sanitarios.",
+            "Regular las actuaciones para hacer efectivo el derecho a la protección de la salud.",
+            "Definir la estructura organizativa del Servicio Andaluz de Salud."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El objeto de la ley, según el Artículo 1, es regular las actuaciones para garantizar el derecho a la protección de la salud."
+    },
+    {
+        "enunciado": "¿Qué principio de la Ley 2/1998 fomenta la participación de los ciudadanos en el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "Eficiencia en la gestión.",
+            "Participación de los ciudadanos.",
+            "Coordinación de los recursos.",
+            "Descentralización de los servicios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "La ley establece la participación de los ciudadanos como uno de sus principios básicos para la mejora del sistema sanitario."
+    },
+    {
+        "enunciado": "¿Qué derecho incluye la posibilidad de acceder a una segunda opinión médica según la Ley 2/1998?",
+        "opciones": [
+            "El derecho a la información sobre su historial clínico.",
+            "El derecho a la libre elección de médico.",
+            "El derecho a la segunda opinión médica.",
+            "El derecho a la confidencialidad de los datos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 6 regula que los ciudadanos tienen derecho a una segunda opinión médica en los términos establecidos reglamentariamente."
+    },
+    {
+        "enunciado": "¿Qué ámbito abarca el Sistema Sanitario Público de Andalucía según la Ley 2/1998?",
+        "opciones": [
+            "Solo los centros de titularidad pública.",
+            "Los recursos públicos y privados vinculados al sistema.",
+            "Centros de investigación biomédica exclusivamente.",
+            "Servicios sociales y sanitarios compartidos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 43 establece que el Sistema Sanitario Público incluye recursos públicos y privados vinculados al sistema."
+    },
+    {
+        "enunciado": "¿Qué principios establece la Ley 2/1998 en relación con la atención sanitaria?",
+        "opciones": [
+            "Acceso universal, equidad y calidad.",
+            "Planificación, descentralización y competencia.",
+            "Privatización, descentralización y sostenibilidad.",
+            "Competencia, calidad y planificación."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "La ley prioriza principios como el acceso universal, la equidad y la mejora continua de la calidad."
+    },
+    {
+        "enunciado": "Según la Ley 2/1998, ¿quiénes son titulares de los derechos establecidos en el sistema sanitario de Andalucía?",
+        "opciones": [
+            "Solo los ciudadanos españoles residentes en Andalucía.",
+            "Todos los residentes en España, independientemente de su nacionalidad.",
+            "Cualquier persona que se encuentre en territorio andaluz.",
+            "Exclusivamente los nacionales de la Unión Europea."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 3 especifica que los derechos son para residentes españoles y extranjeros, según lo determine la legislación."
+    },
+    {
+        "enunciado": "La Ley 2/1998 establece como deber de los ciudadanos en materia sanitaria:",
+        "opciones": [
+            "Garantizar el mantenimiento de los centros.",
+            "Cumplir las normas y colaborar con el sistema.",
+            "Presentar sus reclamaciones cuando sea necesario.",
+            "Proveer recursos al sistema sanitario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 8 describe como deber el cumplimiento de normas y la colaboración con el uso adecuado de los recursos."
+    },
+    {
+        "enunciado": "¿Qué órgano regula la participación ciudadana en el Sistema Sanitario Público de Andalucía según la Ley 2/1998?",
+        "opciones": [
+            "El Parlamento de Andalucía.",
+            "El Consejo de Salud de Área.",
+            "El Consejo Andaluz de Salud.",
+            "El Servicio Andaluz de Salud."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Consejo Andaluz de Salud, mencionado en el Artículo 11, es el órgano colegiado para la participación ciudadana."
+    },
+    {
+        "enunciado": "¿Qué tipo de prestaciones incluye el Sistema Sanitario Público de Andalucía según la Ley 2/1998?",
+        "opciones": [
+            "Solo las básicas del Sistema Nacional de Salud.",
+            "Prestaciones básicas y evaluadas adicionales.",
+            "Solo servicios de atención primaria.",
+            "Exclusivamente tratamientos farmacológicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 4 establece que las prestaciones incluyen las básicas y aquellas adicionales evaluadas por su efectividad."
+    },
+    {
+        "enunciado": "La Ley 2/1998 define como objetivo del Plan Andaluz de Salud:",
+        "opciones": [
+            "Garantizar la equidad territorial.",
+            "Determinar las políticas de salud de España.",
+            "Planificar y priorizar actuaciones en salud en Andalucía.",
+            "Descentralizar la gestión sanitaria a los municipios."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Plan Andaluz de Salud, descrito en el Artículo 30, busca planificar y priorizar las actuaciones en salud."
+    },
+    {
+        "enunciado": "Según el Artículo 2 de la Ley 2/1998, ¿qué principio establece la integración funcional en el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "La descentralización de los servicios sanitarios.",
+            "La concepción integral de la salud.",
+            "La integración funcional de todos los recursos sanitarios públicos.",
+            "La promoción del interés social por el sistema sanitario."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El principio de integración funcional busca unificar todos los recursos públicos del sistema para garantizar una prestación eficiente y coordinada."
+    },
+    {
+        "enunciado": "Según el Artículo 6 de la Ley 2/1998, ¿en qué casos se puede exceptuar el consentimiento informado del paciente?",
+        "opciones": [
+            "Cuando la vida del paciente esté en peligro y no sea posible obtener su autorización.",
+            "Cuando exista riesgo para la salud pública o para la seguridad nacional.",
+            "Siempre que el médico considere que el paciente no tiene capacidad de decidir.",
+            "Cuando no se pueda localizar a familiares cercanos del paciente."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El consentimiento puede omitirse si existe un riesgo inmediato grave para la integridad del paciente y no es posible obtener su autorización."
+    },
+    {
+        "enunciado": "En el marco del Artículo 3 de la Ley 2/1998, ¿cuál es la cobertura sanitaria mínima garantizada para los extranjeros no residentes en Andalucía?",
+        "opciones": [
+            "Prestaciones básicas del Sistema Nacional de Salud.",
+            "Todas las prestaciones del Sistema Sanitario Público de Andalucía.",
+            "Atención sanitaria urgente y vital de emergencia.",
+            "Acceso a medicación esencial en farmacias públicas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El artículo asegura la cobertura de las prestaciones vitales de emergencia para todos los que se encuentren en territorio andaluz."
+    },
+    {
+        "enunciado": "Según el Artículo 43 de la Ley 2/1998, ¿qué caracteriza al Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "Es una red exclusiva de hospitales y centros públicos.",
+            "Es un sistema de aseguramiento público y financiación privada.",
+            "Es un conjunto de recursos públicos y privados vinculados a garantizar la salud.",
+            "Está compuesto exclusivamente por servicios dependientes del Servicio Andaluz de Salud."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Sistema Sanitario Público incluye recursos públicos y privados vinculados a las Administraciones sanitarias de la Junta de Andalucía."
+    },
+    {
+        "enunciado": "En virtud del Artículo 44, ¿qué elemento es obligatorio en la prestación del Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "La gratuidad en todos los servicios de salud.",
+            "El aseguramiento único y la financiación pública.",
+            "El uso exclusivo de recursos sanitarios públicos.",
+            "La autonomía completa de gestión en cada área de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El aseguramiento único y la financiación pública son pilares fundamentales del sistema, según lo dispuesto en el Artículo 44."
+    },
+    {
+        "enunciado": "¿Qué papel juega el Consejo Andaluz de Salud según el Artículo 11 de la Ley 2/1998?",
+        "opciones": [
+            "Coordinar la gestión sanitaria en las áreas de salud.",
+            "Ser el órgano superior de planificación del sistema sanitario.",
+            "Fomentar la participación ciudadana en la formulación de políticas sanitarias.",
+            "Ejercer como autoridad reguladora de los servicios sanitarios públicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Consejo Andaluz de Salud fomenta la participación de la ciudadanía en las políticas sanitarias y en el control de su ejecución."
+    },
+    {
+        "enunciado": "¿Qué establece el Artículo 50 sobre las zonas básicas de salud en el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "Son la base territorial para la prestación de servicios hospitalarios.",
+            "Garantizan la provisión de recursos únicamente en áreas rurales.",
+            "Constituyen el marco de planificación para la atención primaria accesible.",
+            "Deben contar con hospitales especializados de referencia regional."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El artículo 50 define las zonas básicas de salud como el marco territorial esencial para la atención primaria de salud."
+    },
+    {
+        "enunciado": "El Artículo 8 menciona los deberes de los ciudadanos. ¿Cuál de estos no es uno de ellos?",
+        "opciones": [
+            "Firmar un documento en caso de rechazar el tratamiento sugerido.",
+            "Respetar las normas de los centros y al personal sanitario.",
+            "Garantizar el cumplimiento de la calidad en los servicios sanitarios.",
+            "Usar adecuadamente los recursos del sistema sanitario."
+        ],
+        "correcta": 2,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "Garantizar la calidad es una responsabilidad del sistema, no un deber ciudadano. Los ciudadanos deben respetar normas y colaborar con el uso adecuado."
+    },
+    {
+        "enunciado": "¿Qué actuación corresponde a los municipios según el Artículo 38 de la Ley 2/1998?",
+        "opciones": [
+            "La gestión de los hospitales de su demarcación territorial.",
+            "El control sanitario del medio ambiente y actividades locales.",
+            "La promoción de la investigación sanitaria en su territorio.",
+            "La formación especializada del personal sanitario en sus áreas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Artículo 38 asigna a los municipios competencias como el control sanitario del medio ambiente y actividades relacionadas con la salud."
+    },
+    {
+        "enunciado": "¿Qué distingue al Plan Andaluz de Salud según el Artículo 30 de la Ley 2/1998?",
+        "opciones": [
+            "Es un documento indicativo y de referencia para las políticas sanitarias.",
+            "Tiene un carácter vinculante para los sistemas sanitarios de toda España.",
+            "Se elabora exclusivamente para zonas rurales en Andalucía.",
+            "Es competencia de los municipios aprobar sus contenidos principales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema3", "Ley 2/1998"],
+        "feedback": "El Plan Andaluz de Salud es un marco de referencia indicativo para todas las actuaciones sanitarias en Andalucía, tal como estipula el Artículo 30."
+    }
+]
+
+

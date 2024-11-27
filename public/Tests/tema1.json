@@ -1,0 +1,365 @@
+[
+  {
+    "enunciado": "¿Cuáles son los valores superiores del ordenamiento jurídico español según el artículo 1 de la Constitución?",
+    "opciones": [
+      "Libertad, justicia, igualdad y pluralismo político",
+      "Paz, solidaridad, progreso y democracia",
+      "Unidad, progreso, justicia y orden público",
+      "Pluralismo, equidad, seguridad y desarrollo"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 1 establece que los valores superiores son la libertad, la justicia, la igualdad y el pluralismo político."
+  },
+  {
+    "enunciado": "¿En qué artículo se garantiza el derecho a la protección de la salud?",
+    "opciones": [
+      "Artículo 43",
+      "Artículo 15",
+      "Artículo 27",
+      "Artículo 10"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 reconoce el derecho a la protección de la salud y establece las competencias de los poderes públicos en su garantía."
+  },
+  {
+    "enunciado": "¿Quién ostenta la soberanía nacional según la Constitución Española?",
+    "opciones": [
+      "El Rey",
+      "El Gobierno",
+      "El pueblo español",
+      "El Parlamento"
+    ],
+    "correcta": 2,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+  },
+  {
+    "enunciado": "¿Cuál es la forma política del Estado español según la Constitución?",
+    "opciones": [
+      "República federal",
+      "Monarquía parlamentaria",
+      "Estado autonómico",
+      "Confederación de Estados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 1.3 señala que la forma política del Estado español es la monarquía parlamentaria."
+  },
+  {
+    "enunciado": "¿Qué garantiza el artículo 14 de la Constitución?",
+    "opciones": [
+      "El derecho a la igualdad ante la ley",
+      "El derecho a la libertad de expresión",
+      "El derecho a la educación gratuita",
+      "El derecho a una vivienda digna"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 14 establece que todos los españoles son iguales ante la ley, sin discriminación por ninguna circunstancia personal o social."
+  },
+  {
+    "enunciado": "¿Qué atribución NO corresponde al Rey según el artículo 62?",
+    "opciones": [
+      "Sancionar y promulgar las leyes",
+      "Nombrar al Presidente del Gobierno",
+      "Ejercer el derecho de gracia",
+      "Convocar un referéndum sin autorización"
+    ],
+    "correcta": 3,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 62 establece las funciones del Rey, pero la convocatoria de referéndum requiere autorización previa según el artículo 92."
+  },
+  {
+    "enunciado": "¿Qué derechos incluye el artículo 20 de la Constitución?",
+    "opciones": [
+      "Derecho al honor, a la intimidad y a la propia imagen",
+      "Derecho a expresar y difundir libremente pensamientos, ideas y opiniones",
+      "Derecho de reunión pacífica y sin armas",
+      "Derecho a la vida y a la integridad física y moral"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 20 reconoce derechos relacionados con la libertad de expresión, como difundir ideas y opiniones."
+  },
+  {
+    "enunciado": "Según el artículo 43, ¿qué medidas deben tomar los poderes públicos para garantizar la salud pública?",
+    "opciones": [
+      "Sancionar el consumo de tabaco",
+      "Fomentar la educación sanitaria y la prevención",
+      "Establecer hospitales en cada comunidad autónoma",
+      "Prohibir alimentos poco saludables"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 menciona que los poderes públicos deben organizar y tutelar la salud pública, incluyendo medidas preventivas y educativas."
+  },
+  {
+    "enunciado": "¿Qué derechos garantiza el artículo 15 de la Constitución?",
+    "opciones": [
+      "Derecho a la integridad física y moral, y a no ser sometido a tortura",
+      "Derecho a la protección de datos personales",
+      "Derecho a la inviolabilidad del domicilio",
+      "Derecho a la libertad de expresión"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 15 establece el derecho a la vida, a la integridad física y moral, y prohíbe la tortura y tratos inhumanos."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 56 sobre la figura del Rey?",
+    "opciones": [
+      "Es el jefe del Gobierno",
+      "Es inviolable y no está sujeto a responsabilidad",
+      "Es elegido por sufragio universal",
+      "Es el máximo representante del poder legislativo"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 56 establece que el Rey es inviolable y no está sujeto a responsabilidad por sus actos."
+  },
+  {
+    "enunciado": "¿Qué derecho garantiza el artículo 43 de la Constitución Española?",
+    "opciones": [
+      "El derecho a la educación",
+      "El derecho a la protección de la salud",
+      "El derecho al trabajo",
+      "El derecho a la vivienda"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 de la Constitución Española garantiza el derecho a la protección de la salud."
+  },
+  {
+    "enunciado": "Según el artículo 43, ¿qué competencia tienen los poderes públicos en relación con la salud pública?",
+    "opciones": [
+      "Organizar y tutelar la salud pública",
+      "Regular la producción de medicamentos",
+      "Financiar exclusivamente hospitales privados",
+      "Garantizar únicamente servicios básicos de salud"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias."
+  },
+  {
+    "enunciado": "¿Qué medidas fomenta la Constitución en relación con la salud según el artículo 43?",
+    "opciones": [
+      "La promoción de la educación sanitaria y el deporte",
+      "La gratuidad de todos los tratamientos médicos",
+      "El acceso obligatorio a seguros privados de salud",
+      "La formación obligatoria de médicos en cada comunidad"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 menciona que los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte."
+  },
+  {
+    "enunciado": "¿Qué áreas relacionadas con la salud se mencionan específicamente en el artículo 43?",
+    "opciones": [
+      "La gestión hospitalaria y la investigación médica",
+      "La prevención, las prestaciones sanitarias y el deporte",
+      "La sanidad privada y la cobertura universal",
+      "La farmacología y la educación médica"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 menciona la organización de la salud pública mediante medidas preventivas, prestaciones necesarias, y el fomento del deporte y la educación sanitaria."
+  },
+  {
+    "enunciado": "¿Qué principios guían la actuación de los poderes públicos respecto a la salud según el artículo 43?",
+    "opciones": [
+      "Universalidad y gratuidad absoluta",
+      "Equidad y cooperación internacional",
+      "Prevención, educación y tutela de la salud pública",
+      "Centralización y eficiencia económica"
+    ],
+    "correcta": 2,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 establece que los poderes públicos deben centrarse en la prevención, la educación y la organización de la salud pública."
+  },
+  {
+    "enunciado": "¿Qué establece el artículo 43.3 de la Constitución sobre la actividad física?",
+    "opciones": [
+      "Es obligatoria en todos los centros educativos",
+      "Debe ser regulada por las comunidades autónomas",
+      "Los poderes públicos deben fomentar la educación física y el deporte",
+      "Se considera secundaria frente a las actividades intelectuales"
+    ],
+    "correcta": 2,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43.3 indica que los poderes públicos fomentarán la educación física y el deporte como parte de la salud pública."
+  },
+  {
+    "enunciado": "¿Cómo define el artículo 43 el deber de los poderes públicos en la organización de la salud?",
+    "opciones": [
+      "Como una función secundaria frente a otros derechos",
+      "Como un deber de garantizar exclusivamente tratamientos curativos",
+      "Como un compromiso con la prevención y servicios necesarios",
+      "Como una responsabilidad delegada únicamente al sector privado"
+    ],
+    "correcta": 2,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 resalta que los poderes públicos deben organizar la salud pública a través de medidas preventivas y servicios necesarios."
+  },
+  {
+    "enunciado": "¿Qué servicios deben ser tutelados por los poderes públicos según el artículo 43?",
+    "opciones": [
+      "Únicamente la atención hospitalaria",
+      "Prestaciones y servicios necesarios para la salud pública",
+      "Farmacias y laboratorios de análisis clínico",
+      "Consultorios médicos de carácter privado"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 establece que los poderes públicos deben tutelar prestaciones y servicios necesarios en materia de salud pública."
+  },
+  {
+    "enunciado": "¿Qué ámbito relacionado con la salud no menciona explícitamente el artículo 43?",
+    "opciones": [
+      "Educación sanitaria",
+      "Investigación científica en medicina",
+      "Deporte y educación física",
+      "Medidas preventivas de salud pública"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "Aunque la investigación científica es importante, el artículo 43 no la menciona explícitamente, centrándose en la organización y promoción de la salud."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo principal de las políticas de salud pública según el artículo 43?",
+    "opciones": [
+      "Garantizar acceso exclusivo a servicios de salud privados",
+      "Fomentar la equidad territorial en el acceso a la salud",
+      "Proteger el derecho a la salud mediante medidas preventivas y educativas",
+      "Centralizar la gestión de los sistemas sanitarios en el Gobierno"
+    ],
+    "correcta": 2,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 enfatiza que los poderes públicos deben proteger el derecho a la salud mediante medidas preventivas, servicios necesarios y educación."
+  },
+  {
+    "enunciado": "¿Qué enfoque deben adoptar los poderes públicos en relación con la salud pública según la Constitución?",
+    "opciones": [
+      "Reforzar exclusivamente la atención hospitalaria",
+      "Fomentar medidas preventivas y prestaciones necesarias",
+      "Centralizar todos los servicios sanitarios en el Gobierno",
+      "Privatizar la gestión sanitaria"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y servicios necesarios."
+  },
+  {
+    "enunciado": "¿Cómo deben actuar los poderes públicos en materia de educación sanitaria según el artículo 43?",
+    "opciones": [
+      "Proporcionar educación sanitaria únicamente en universidades",
+      "Fomentar la educación sanitaria en todos los niveles",
+      "Subordinarla a otras prioridades económicas",
+      "Imponerla como una obligación en empresas privadas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 menciona que los poderes públicos fomentarán la educación sanitaria como parte integral de sus funciones."
+  },
+  {
+    "enunciado": "¿Qué aspecto relacionado con la salud física y mental está implícito en el artículo 43?",
+    "opciones": [
+      "La exclusión de la salud mental de los servicios básicos",
+      "El reconocimiento de medidas preventivas y educativas generales",
+      "El tratamiento obligatorio en instituciones públicas",
+      "La financiación exclusiva de terapias físicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 implica que las medidas preventivas y educativas en salud abarcan tanto aspectos físicos como mentales."
+  },
+  {
+    "enunciado": "¿Qué rol tienen los poderes públicos en la promoción de la actividad física según el artículo 43?",
+    "opciones": [
+      "Implementar políticas de ocio y deporte obligatorias",
+      "Fomentar la educación física como parte de la salud pública",
+      "Regular únicamente eventos deportivos nacionales",
+      "Limitar la educación física a centros especializados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 menciona que los poderes públicos fomentarán la educación física y el deporte como parte de la promoción de la salud."
+  },
+  {
+    "enunciado": "¿Qué principio rige la organización de la salud mental en el marco constitucional?",
+    "opciones": [
+      "Atención centralizada en hospitales psiquiátricos",
+      "Integración en medidas preventivas y servicios necesarios",
+      "Delegación exclusiva a entidades privadas",
+      "Atención prioritaria únicamente en casos graves"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "La salud mental está implícita en la obligación de los poderes públicos de organizar servicios necesarios y medidas preventivas para la salud general."
+  },
+  {
+    "enunciado": "Según la Constitución, ¿qué tipo de salud debe protegerse por parte de los poderes públicos?",
+    "opciones": [
+      "Exclusivamente la salud física",
+      "Salud física, mental y social",
+      "Principalmente la salud infantil",
+      "Únicamente la salud ocupacional"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "Aunque la Constitución no detalla tipos específicos, la referencia a la salud pública incluye su dimensión física, mental y social."
+  },
+  {
+    "enunciado": "¿Qué vínculo existe entre la salud mental y la educación según el artículo 43?",
+    "opciones": [
+      "La educación sanitaria incluye aspectos de salud mental",
+      "La salud mental no forma parte de la educación sanitaria",
+      "La educación se limita a cuestiones físicas",
+      "No se reconoce ninguna relación entre salud y educación"
+    ],
+    "correcta": 0,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "La educación sanitaria, fomentada por los poderes públicos, abarca aspectos relacionados con la salud mental, según el marco del artículo 43."
+  },
+  {
+    "enunciado": "¿Qué deben garantizar los poderes públicos respecto a la salud mental en el ámbito preventivo?",
+    "opciones": [
+      "La construcción de más hospitales psiquiátricos",
+      "Programas educativos y servicios de apoyo psicosocial",
+      "La privatización de los servicios de psicología",
+      "La prohibición de terapias alternativas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 enfatiza la prevención como una obligación de los poderes públicos, lo que incluye programas educativos y apoyo en salud mental."
+  },
+  {
+    "enunciado": "¿Cómo aborda la Constitución el derecho a la salud mental en relación con el deporte?",
+    "opciones": [
+      "Lo limita exclusivamente a deportistas profesionales",
+      "Fomenta el deporte como herramienta para el bienestar integral",
+      "No establece ninguna relación entre deporte y salud mental",
+      "Delega la promoción del deporte a instituciones privadas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El artículo 43 promueve la educación física y el deporte, reconociendo implícitamente su impacto positivo en la salud mental y física."
+  },
+  {
+    "enunciado": "¿Qué enfoque constitucional se aplica para abordar problemas de salud mental en la población?",
+    "opciones": [
+      "Intervenciones restrictivas y centralizadas",
+      "Medidas de prevención y servicios accesibles",
+      "Privatización de los servicios de salud mental",
+      "Educación sanitaria limitada a salud física"
+    ],
+    "correcta": 1,
+    "categorías": ["tema1", "Constitución"],
+    "feedback": "El enfoque constitucional incluye medidas preventivas y la provisión de servicios necesarios, aplicables también a la salud mental."
+  }
+]
+
+
+

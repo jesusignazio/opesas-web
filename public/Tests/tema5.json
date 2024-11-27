@@ -1,0 +1,1984 @@
+[
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018 de Protección de Datos Personales, ¿cuál es el objeto principal de esta ley?",
+        "opciones": [
+            "Garantizar únicamente los derechos digitales de los ciudadanos.",
+            "Adaptar la normativa española al Reglamento General de Protección de Datos y garantizar los derechos digitales.",
+            "Regular exclusivamente el uso de datos personales por parte de empresas privadas.",
+            "Eliminar cualquier normativa previa relacionada con la protección de datos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El objeto de la Ley es adaptar la normativa española al Reglamento (UE) 2016/679 y garantizar los derechos digitales, según el artículo 1 de la ley."
+    },
+    {
+        "enunciado": "¿Qué edad mínima debe tener un menor para que su consentimiento en el tratamiento de datos personales sea válido según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "12 años",
+            "13 años",
+            "14 años",
+            "15 años"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 7 de la Ley Orgánica 3/2018 establece que los menores de 14 años necesitan el consentimiento de sus representantes legales para el tratamiento de datos personales."
+    },
+    {
+        "enunciado": "¿Qué principio establece la obligación de que los datos personales sean exactos y, si es necesario, actualizados?",
+        "opciones": [
+            "Principio de exactitud",
+            "Principio de proporcionalidad",
+            "Principio de transparencia",
+            "Principio de integridad y confidencialidad"
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de exactitud, contemplado en el artículo 4 de la Ley Orgánica 3/2018, exige que los datos sean precisos y actualizados."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿qué derechos se garantizan a los ciudadanos respecto a sus datos personales?",
+        "opciones": [
+            "Derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición.",
+            "Derechos de consulta y copia.",
+            "Derecho a la seguridad y el anonimato.",
+            "Derecho a la propiedad de los datos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley Orgánica 3/2018 regula en su Título III derechos como el acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos relacionados con infracciones penales?",
+        "opciones": [
+            "Está prohibido en cualquier caso.",
+            "Debe estar amparado en una norma de rango legal.",
+            "Es permitido únicamente por empresas privadas.",
+            "Requiere consentimiento explícito del afectado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 10 de la Ley establece que el tratamiento de datos relacionados con infracciones penales debe estar amparado por una norma de rango legal."
+    },
+    {
+        "enunciado": "¿Cuál es el plazo máximo para la supresión de datos obtenidos mediante videovigilancia, salvo excepciones?",
+        "opciones": [
+            "15 días",
+            "1 mes",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 22 de la Ley Orgánica 3/2018 establece un plazo máximo de un mes para la supresión de datos obtenidos por videovigilancia, salvo excepciones."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 respecto al deber de confidencialidad en el tratamiento de datos?",
+        "opciones": [
+            "Se aplica únicamente a empleados públicos.",
+            "Es obligatorio para todas las personas involucradas en el tratamiento de datos.",
+            "Solo aplica durante la relación laboral del responsable del tratamiento.",
+            "Es opcional si el afectado da su consentimiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 5 de la Ley establece que todas las personas involucradas en el tratamiento de datos están sujetas al deber de confidencialidad, incluso tras finalizar su relación laboral."
+    },
+    {
+        "enunciado": "¿Qué principio prohíbe el uso del consentimiento tácito para el tratamiento de datos personales?",
+        "opciones": [
+            "Principio de integridad",
+            "Principio de consentimiento explícito",
+            "Principio de transparencia",
+            "Principio de proporcionalidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley Orgánica 3/2018, en línea con el Reglamento (UE) 2016/679, requiere un consentimiento explícito, excluyendo el consentimiento tácito."
+    },
+    {
+        "enunciado": "¿Qué derecho permite al interesado obtener sus datos personales en un formato estructurado y reutilizable?",
+        "opciones": [
+            "Derecho de rectificación",
+            "Derecho a la portabilidad",
+            "Derecho de supresión",
+            "Derecho de acceso"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a la portabilidad, regulado en el artículo 17 de la Ley Orgánica 3/2018, permite al interesado recibir sus datos en un formato estructurado y reutilizable."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos personales de menores de 14 años?",
+        "opciones": [
+            "Es válido sin restricciones.",
+            "Requiere consentimiento de sus representantes legales.",
+            "Está prohibido en todos los casos.",
+            "Solo puede realizarse con autorización judicial."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 7.2 de la Ley Orgánica 3/2018 requiere el consentimiento de los representantes legales para el tratamiento de datos de menores de 14 años."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿cuál es la edad mínima para que un menor pueda otorgar consentimiento válido para el tratamiento de sus datos personales sin necesidad de autorización adicional?",
+        "opciones": [
+            "12 años",
+            "13 años",
+            "14 años",
+            "15 años"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La edad mínima establecida es de 14 años, según el artículo 7 de la Ley Orgánica 3/2018."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente el derecho a la portabilidad según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Permite al afectado oponerse al tratamiento de sus datos personales.",
+            "Autoriza al responsable a transferir datos personales entre empresas sin previo aviso.",
+            "Faculta al interesado a recibir sus datos personales en un formato estructurado y legible para transferirlos a otro responsable.",
+            "Obliga al responsable a conservar los datos del interesado durante cinco años."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a la portabilidad permite al interesado recibir sus datos en un formato estructurado y transferirlos a otro responsable."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿qué plazo máximo se establece para la conservación de datos obtenidos mediante videovigilancia, salvo excepciones legales?",
+        "opciones": [
+            "15 días",
+            "1 mes",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 22 de la Ley establece un plazo máximo de un mes para la conservación de datos de videovigilancia, salvo excepciones justificadas."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos especialmente protegidos, como la orientación sexual o creencias religiosas?",
+        "opciones": [
+            "Está permitido siempre que haya consentimiento tácito.",
+            "Debe estar amparado por una norma legal con medidas adicionales de seguridad.",
+            "Solo se puede realizar con autorización de una autoridad judicial.",
+            "Está prohibido en todos los casos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El tratamiento de datos sensibles debe estar respaldado por una norma legal y cumplir medidas adicionales de seguridad, según el artículo 9 de la Ley."
+    },
+    {
+        "enunciado": "¿Qué derecho protege al interesado frente a decisiones basadas únicamente en tratamientos automatizados que produzcan efectos jurídicos significativos?",
+        "opciones": [
+            "Derecho de oposición",
+            "Derecho de supresión",
+            "Derecho a no ser objeto de decisiones automatizadas",
+            "Derecho de acceso"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a no ser objeto de decisiones automatizadas está regulado en el artículo 22 del Reglamento (UE) 2016/679, integrado en la Ley Orgánica 3/2018."
+    },
+    {
+        "enunciado": "¿Qué tipo de datos personales permite tratar la Ley Orgánica 3/2018 sin consentimiento, en caso de ser necesario para cumplir una obligación legal?",
+        "opciones": [
+            "Datos biométricos",
+            "Datos de contacto en el ámbito laboral",
+            "Datos relacionados con ideología política",
+            "Datos sobre salud"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 19 permite tratar datos de contacto en el ámbito laboral sin consentimiento, si es necesario para cumplir obligaciones legales."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿en qué casos se permite el acceso a los datos personales de personas fallecidas?",
+        "opciones": [
+            "Nunca se permite el acceso a datos de personas fallecidas.",
+            "Solo si el fallecido lo autorizó antes de su muerte.",
+            "Cuando lo soliciten herederos o familiares cercanos, salvo que el fallecido lo haya prohibido.",
+            "Únicamente con autorización judicial."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 3 establece que los herederos o familiares pueden acceder a los datos salvo prohibición expresa del fallecido."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el responsable del tratamiento de datos según el principio de transparencia establecido en la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Ofrecer información clara y accesible sobre el tratamiento de datos personales.",
+            "Notificar al afectado cada vez que sus datos sean compartidos.",
+            "Eliminar los datos personales de forma automática tras un año.",
+            "Proveer un abogado gratuito en caso de reclamaciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de transparencia obliga a proporcionar información clara y accesible sobre el tratamiento de datos, según el artículo 11 de la Ley."
+    },
+    {
+        "enunciado": "¿Cuál es el tiempo máximo de respuesta que tiene el responsable para atender una solicitud de ejercicio de derechos según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "10 días",
+            "1 mes",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 12 del Reglamento (UE) 2016/679 establece que las solicitudes de derechos deben ser atendidas en un plazo de un mes, salvo excepciones."
+    },
+    {
+        "enunciado": "¿Qué medidas se deben tomar en caso de que los datos tratados sean inexactos, según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Solicitar al afectado que actualice los datos.",
+            "Bloquear los datos hasta recibir una actualización.",
+            "Adoptar medidas razonables para rectificar o suprimir los datos inexactos sin dilación.",
+            "Transferir los datos a un sistema externo para evaluación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 4 establece que deben tomarse medidas razonables para rectificar o eliminar datos inexactos lo antes posible."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos por obligación legal o interés público?",
+        "opciones": [
+            "Debe ser aprobado únicamente por una autoridad judicial.",
+            "Solo se permite si hay consentimiento explícito del afectado.",
+            "Debe estar respaldado por una norma con rango de ley que especifique las condiciones del tratamiento.",
+            "Está permitido sin necesidad de regulación específica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 8 establece que el tratamiento por obligación legal o interés público debe estar respaldado por una norma con rango de ley."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿cuál es el objetivo del deber de confidencialidad en el tratamiento de datos personales?",
+        "opciones": [
+            "Garantizar que los datos no se pierdan durante su almacenamiento.",
+            "Proteger los datos personales contra accesos no autorizados incluso después de finalizada la relación laboral.",
+            "Permitir el uso de datos para fines comerciales sin conocimiento del afectado.",
+            "Evitar duplicaciones innecesarias en los sistemas de información."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El deber de confidencialidad protege los datos personales contra accesos no autorizados incluso tras la finalización de la relación laboral, según el artículo 5."
+    },
+    {
+        "enunciado": "¿Qué principio garantiza que el consentimiento del afectado sea específico, informado y no tácito?",
+        "opciones": [
+            "Principio de proporcionalidad",
+            "Principio de integridad",
+            "Principio de consentimiento explícito",
+            "Principio de minimización de datos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley Orgánica 3/2018 exige que el consentimiento sea explícito y no tácito, conforme al artículo 6 y el Reglamento (UE) 2016/679."
+    },
+    {
+        "enunciado": "¿En qué caso permite la Ley Orgánica 3/2018 la creación de sistemas de exclusión publicitaria?",
+        "opciones": [
+            "Cuando los datos se usen para mejorar campañas publicitarias.",
+            "Para evitar el envío de comunicaciones comerciales no deseadas.",
+            "Siempre que se incluyan todos los datos personales disponibles.",
+            "Si los usuarios han dado su consentimiento implícito."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 23 permite la creación de sistemas de exclusión publicitaria para evitar el envío de comunicaciones no deseadas."
+    },
+    {
+        "enunciado": "¿Qué derecho permite al interesado solicitar la rectificación de datos inexactos o incompletos?",
+        "opciones": [
+            "Derecho de acceso",
+            "Derecho de oposición",
+            "Derecho de rectificación",
+            "Derecho a la portabilidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho de rectificación, regulado en el artículo 14, permite al interesado solicitar la corrección de datos incorrectos o incompletos."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿qué plazo máximo tiene el responsable para bloquear los datos en caso de solicitud de supresión?",
+        "opciones": [
+            "15 días",
+            "1 mes",
+            "2 meses",
+            "3 meses"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley establece que el responsable debe bloquear los datos en un plazo máximo de un mes tras la solicitud de supresión."
+    },
+    {
+        "enunciado": "¿Qué obliga la Ley Orgánica 3/2018 en el caso de tratamientos de datos para sistemas de información crediticia?",
+        "opciones": [
+            "Informar al afectado antes de incluir sus datos y garantizar su exactitud.",
+            "Incluir todos los datos disponibles de los clientes.",
+            "Realizar tratamientos sin restricciones legales.",
+            "Almacenar los datos durante al menos 10 años."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 20 obliga a informar al afectado antes de incluir sus datos en sistemas crediticios y garantizar la exactitud de los mismos."
+    },
+    {
+        "enunciado": "¿Qué se entiende por datos personales según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Solo información financiera sobre un individuo.",
+            "Cualquier información que identifique o pueda identificar a una persona física.",
+            "Solo datos de contacto utilizados en el ámbito laboral.",
+            "Información genérica sobre hábitos de consumo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley considera datos personales cualquier información que identifique o pueda identificar a una persona física, siguiendo el Reglamento (UE) 2016/679."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿qué tratamiento de datos se permite sin consentimiento explícito del afectado?",
+        "opciones": [
+            "Tratamiento de datos sensibles con fines comerciales.",
+            "Tratamiento necesario para cumplir una obligación legal.",
+            "Tratamiento de datos genéticos para estudios de mercado.",
+            "Tratamiento automatizado de datos sin restricciones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 8 permite el tratamiento de datos sin consentimiento explícito cuando es necesario para cumplir obligaciones legales."
+    },
+    {
+        "enunciado": "¿Qué medida deben tomar los responsables al realizar videovigilancia según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Colocar un dispositivo informativo visible sobre el tratamiento de datos.",
+            "Eliminar las grabaciones automáticamente cada 24 horas.",
+            "Notificar a todos los transeúntes sobre la grabación.",
+            "Solicitar autorización judicial antes de instalar las cámaras."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 22 requiere que se informe mediante un dispositivo visible sobre la existencia del tratamiento y la posibilidad de ejercer derechos."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el consentimiento para tratamientos con múltiples finalidades?",
+        "opciones": [
+            "Debe ser tácito y aplicarse a todas las finalidades de manera automática.",
+            "Debe ser único, sin necesidad de especificar las finalidades.",
+            "Debe ser específico y otorgarse para cada finalidad de manera inequívoca.",
+            "No se requiere consentimiento para tratamientos con múltiples finalidades."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley Orgánica 3/2018 establece que el consentimiento debe ser específico y otorgado de forma inequívoca para cada finalidad, según el artículo 6."
+    },
+    {
+        "enunciado": "¿Qué derecho permite al interesado solicitar que sus datos personales no sean utilizados para fines de mercadotecnia directa?",
+        "opciones": [
+            "Derecho de supresión",
+            "Derecho de oposición",
+            "Derecho de rectificación",
+            "Derecho a la limitación del tratamiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho de oposición permite al interesado solicitar que sus datos no sean utilizados para fines de mercadotecnia directa, según el artículo 18."
+    },
+    {
+        "enunciado": "Según la Ley Orgánica 3/2018, ¿qué principio rige el tratamiento de datos relacionados con menores de edad?",
+        "opciones": [
+            "Principio de transparencia",
+            "Principio de interés superior del menor",
+            "Principio de proporcionalidad",
+            "Principio de seguridad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley establece el principio de interés superior del menor como fundamental en el tratamiento de datos personales relacionados con menores, especialmente en el artículo 7."
+    },
+    {
+        "enunciado": "¿Qué obliga a los responsables del tratamiento la Ley Orgánica 3/2018 respecto a los datos de las personas fallecidas?",
+        "opciones": [
+            "Eliminar todos los datos de personas fallecidas automáticamente.",
+            "Respetar las instrucciones del fallecido sobre el acceso, rectificación o supresión de sus datos.",
+            "Compartir los datos con herederos sin restricciones.",
+            "Conservar los datos de forma indefinida por razones de archivo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 3 indica que los responsables deben respetar las instrucciones del fallecido sobre el acceso o tratamiento de sus datos personales."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre la inclusión de datos en sistemas de información crediticia?",
+        "opciones": [
+            "Los datos deben mantenerse por un período mínimo de 10 años.",
+            "Se requiere notificar al afectado antes de incluir sus datos.",
+            "No se aplican restricciones si los datos son financieros.",
+            "Solo puede incluirse información positiva del historial crediticio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 20 establece que debe notificarse al afectado antes de incluir sus datos en un sistema de información crediticia."
+    },
+    {
+        "enunciado": "¿Qué derechos pueden ejercer los herederos respecto a los datos personales de una persona fallecida según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Derechos de acceso, rectificación y supresión, salvo que el fallecido lo haya prohibido expresamente.",
+            "Solo el derecho de acceso, sin posibilidad de rectificación o supresión.",
+            "No pueden ejercer derechos sobre datos de personas fallecidas.",
+            "Solo pueden acceder a datos patrimoniales del fallecido."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 3 de la Ley permite a los herederos ejercer los derechos de acceso, rectificación y supresión, salvo prohibición expresa del fallecido."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre la conservación de datos obtenidos mediante cámaras de videovigilancia?",
+        "opciones": [
+            "Deben conservarse durante al menos seis meses.",
+            "Se permite la conservación indefinida si hay un contrato de seguridad.",
+            "Deben suprimirse en un plazo máximo de un mes, salvo excepciones justificadas.",
+            "No existe un límite para la conservación de estas grabaciones."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 22 establece un plazo máximo de un mes para conservar los datos obtenidos por videovigilancia, salvo excepciones."
+    },
+    {
+        "enunciado": "¿Qué medida debe adoptar un responsable cuando se recaben datos personales para varias finalidades?",
+        "opciones": [
+            "Solicitar un único consentimiento general para todas las finalidades.",
+            "Indicar claramente cada finalidad y recabar consentimiento explícito para cada una.",
+            "No informar de las finalidades si el tratamiento es legal.",
+            "Permitir al interesado optar por no ser informado sobre las finalidades."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 6 establece que el consentimiento debe ser explícito y específico para cada finalidad del tratamiento."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos en el ámbito laboral mediante sistemas de geolocalización?",
+        "opciones": [
+            "Está prohibido en todos los casos.",
+            "Solo se permite con el consentimiento del empleado.",
+            "Debe informarse previamente a los empleados sobre su uso y finalidad.",
+            "Requiere autorización de la Agencia Española de Protección de Datos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 90 establece que los empleados deben ser informados previamente sobre el uso de sistemas de geolocalización y su finalidad."
+    },
+    {
+        "enunciado": "¿Qué principio establece la obligación de limitar el tratamiento de datos personales al mínimo necesario para el objetivo perseguido?",
+        "opciones": [
+            "Principio de minimización de datos",
+            "Principio de proporcionalidad",
+            "Principio de integridad",
+            "Principio de transparencia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de minimización de datos, regulado en el Reglamento (UE) 2016/679 e integrado en la Ley, obliga a limitar el tratamiento al mínimo necesario."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 respecto al consentimiento de los menores de 14 años para el tratamiento de sus datos personales?",
+        "opciones": [
+            "Debe ser otorgado únicamente por el menor.",
+            "Requiere el consentimiento de los titulares de la patria potestad o tutela.",
+            "Es válido si se obtiene mediante consentimiento tácito.",
+            "No se permite el tratamiento de datos de menores de 14 años en ningún caso."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 7.2 de la Ley establece que el consentimiento para tratar datos de menores de 14 años debe ser otorgado por los titulares de la patria potestad o tutela."
+    },
+    {
+        "enunciado": "¿Qué principio prohíbe la recopilación de más datos de los necesarios para los fines del tratamiento según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Principio de proporcionalidad",
+            "Principio de minimización de datos",
+            "Principio de integridad y confidencialidad",
+            "Principio de transparencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de minimización de datos obliga a no recopilar más información de la necesaria para los fines establecidos, conforme al Reglamento (UE) 2016/679."
+    },
+    {
+        "enunciado": "¿En qué caso permite la Ley Orgánica 3/2018 el tratamiento de datos sensibles, como los relativos a salud o religión?",
+        "opciones": [
+            "Solo si el afectado da su consentimiento implícito.",
+            "Siempre que se adopten medidas de seguridad básicas.",
+            "Cuando el tratamiento esté amparado por una norma legal específica.",
+            "Está prohibido en todos los casos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 9 establece que el tratamiento de datos sensibles debe estar amparado por una norma legal específica que garantice seguridad adicional."
+    },
+    {
+        "enunciado": "¿Qué derecho permite al afectado solicitar la limitación del tratamiento de sus datos personales?",
+        "opciones": [
+            "Derecho de rectificación",
+            "Derecho de oposición",
+            "Derecho a la limitación del tratamiento",
+            "Derecho de acceso"
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a la limitación del tratamiento, regulado en el artículo 16, permite al afectado restringir el uso de sus datos personales en ciertos supuestos."
+    },
+    {
+        "enunciado": "¿Qué requisito deben cumplir los datos incluidos en sistemas de información crediticia según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Pueden incluirse sin informar al afectado.",
+            "Deben referirse a deudas vencidas y exigibles no reclamadas judicialmente.",
+            "Deben mantenerse durante al menos 10 años.",
+            "Solo pueden ser consultados por el propio afectado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 20 indica que los datos en sistemas de información crediticia deben referirse a deudas vencidas, exigibles y no reclamadas judicialmente."
+    },
+    {
+        "enunciado": "¿Qué derecho protege a los ciudadanos frente a la elaboración de perfiles automatizados con efectos significativos según la Ley Orgánica 3/2018?",
+        "opciones": [
+            "Derecho a la desconexión digital",
+            "Derecho de acceso",
+            "Derecho de oposición",
+            "Derecho a no ser objeto de decisiones automatizadas"
+        ],
+        "correcta": 3,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a no ser objeto de decisiones automatizadas protege frente a la elaboración de perfiles que produzcan efectos significativos, según el artículo 22 del Reglamento (UE) 2016/679."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene el responsable del tratamiento al tratar datos personales de empleados mediante sistemas de videovigilancia?",
+        "opciones": [
+            "Notificar al empleado cada vez que se active la grabación.",
+            "Eliminar las grabaciones cada 15 días.",
+            "Informar previamente sobre la instalación y finalidad de las cámaras.",
+            "Solicitar autorización judicial antes de grabar."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 89 establece que los empleados deben ser informados previamente sobre el uso de videovigilancia en el entorno laboral."
+    },
+    {
+        "enunciado": "¿Qué principio garantiza que el tratamiento de datos personales sea adecuado, pertinente y limitado?",
+        "opciones": [
+            "Principio de proporcionalidad",
+            "Principio de limitación de la finalidad",
+            "Principio de exactitud",
+            "Principio de minimización de datos"
+        ],
+        "correcta": 3,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de minimización de datos asegura que el tratamiento sea adecuado, pertinente y limitado a lo necesario, según el Reglamento (UE) 2016/679."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos de personas fallecidas?",
+        "opciones": [
+            "Se prohíbe el acceso a sus datos en todos los casos.",
+            "Solo pueden ser tratados con autorización judicial.",
+            "Los familiares o herederos pueden solicitar acceso, rectificación o supresión salvo que el fallecido lo haya prohibido.",
+            "Pueden ser utilizados libremente por entidades públicas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 3 permite a familiares o herederos ejercer derechos sobre los datos del fallecido, salvo prohibición expresa."
+    },
+    {
+        "enunciado": "¿Qué acción debe tomar el responsable si los datos tratados resultan inexactos?",
+        "opciones": [
+            "Eliminarlos de inmediato sin mayor verificación.",
+            "Transferirlos a un archivo externo para revisión.",
+            "Adoptar medidas razonables para rectificarlos o suprimirlos sin demora.",
+            "Solicitar al afectado que corrija los datos por su cuenta."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 4 establece que deben tomarse medidas razonables para rectificar o suprimir los datos inexactos sin dilación."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "Regular el acceso a la información pública y fomentar la transparencia en la gestión pública.",
+            "Garantizar la privacidad de los ciudadanos en su relación con la administración pública.",
+            "Promover exclusivamente la participación ciudadana en asuntos locales.",
+            "Establecer un sistema de control financiero de las administraciones públicas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El objetivo principal de la Ley 1/2014 es regular el acceso a la información pública y fomentar la transparencia en la gestión de los asuntos públicos."
+    },
+    {
+        "enunciado": "Según la Ley 1/2014 de Transparencia Pública de Andalucía, ¿qué entidades están obligadas a cumplir con sus disposiciones?",
+        "opciones": [
+            "Solo las administraciones públicas autonómicas.",
+            "Todas las entidades públicas y privadas que reciban fondos públicos.",
+            "Únicamente los organismos locales en Andalucía.",
+            "Solo los órganos del gobierno de la Junta de Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 aplica a todas las entidades públicas y privadas que gestionen fondos públicos o desempeñen funciones públicas."
+    },
+    {
+        "enunciado": "¿Qué principio fundamental establece la Ley 1/2014 para garantizar la transparencia en la gestión pública?",
+        "opciones": [
+            "El principio de exclusividad.",
+            "El principio de confidencialidad.",
+            "El principio de publicidad activa.",
+            "El principio de discrecionalidad administrativa."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El principio de publicidad activa obliga a las entidades a publicar de forma proactiva información relevante sobre su gestión."
+    },
+    {
+        "enunciado": "¿Qué derecho garantiza la Ley 1/2014 de Transparencia Pública de Andalucía a los ciudadanos?",
+        "opciones": [
+            "El derecho a solicitar empleo en organismos públicos.",
+            "El derecho de acceso a la información pública.",
+            "El derecho a participar en reuniones de órganos colegiados.",
+            "El derecho exclusivo a información sobre actividades culturales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 garantiza el derecho de acceso a la información pública como parte de su compromiso con la transparencia."
+    },
+    {
+        "enunciado": "¿Qué plazo establece la Ley 1/2014 para responder a las solicitudes de acceso a la información pública?",
+        "opciones": [
+            "15 días hábiles.",
+            "30 días naturales.",
+            "20 días hábiles.",
+            "40 días naturales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 establece un plazo máximo de 20 días hábiles para responder a las solicitudes de acceso a información pública."
+    },
+    {
+        "enunciado": "¿En qué artículo de la Ley 1/2014 se regula la publicidad activa?",
+        "opciones": [
+            "Artículo 5.",
+            "Artículo 8.",
+            "Artículo 12.",
+            "Artículo 15."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La publicidad activa está regulada en el artículo 8 de la Ley 1/2014, donde se detallan las obligaciones de publicación de información."
+    },
+    {
+        "enunciado": "¿Qué organismo se encarga de velar por el cumplimiento de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "El Parlamento de Andalucía.",
+            "El Consejo de Gobierno de Andalucía.",
+            "El Consejo de Transparencia y Protección de Datos de Andalucía.",
+            "El Defensor del Pueblo Andaluz."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el organismo encargado de supervisar el cumplimiento de la ley."
+    },
+    {
+        "enunciado": "¿Qué tipo de información deben publicar las entidades públicas según la Ley 1/2014?",
+        "opciones": [
+            "Solo información presupuestaria.",
+            "Información relativa a su organización, funcionamiento y actividades.",
+            "Exclusivamente datos estadísticos sobre servicios públicos.",
+            "Información cultural y educativa generada en la comunidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La ley establece que las entidades públicas deben publicar información sobre su organización, funcionamiento, normativa aplicable, y más."
+    },
+    {
+        "enunciado": "¿Qué formato deben tener los datos publicados según la Ley 1/2014 para garantizar su reutilización?",
+        "opciones": [
+            "Formato cerrado y protegido.",
+            "Formato abierto y reutilizable.",
+            "Formato en papel exclusivamente.",
+            "Formato gráfico y de difícil modificación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 fomenta que los datos se publiquen en formato abierto y reutilizable para facilitar su acceso y uso."
+    },
+    {
+        "enunciado": "¿Qué sucede si una entidad incumple las obligaciones de transparencia según la Ley 1/2014?",
+        "opciones": [
+            "Se le aplica una sanción administrativa.",
+            "Se le otorga una prórroga para cumplir las obligaciones.",
+            "Se inicia un procedimiento penal automáticamente.",
+            "No ocurre nada, ya que la ley no contempla sanciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El incumplimiento de las obligaciones de transparencia puede dar lugar a sanciones administrativas según lo establecido en la ley."
+    },
+    {
+        "enunciado": "¿Qué tipo de información está excluida del derecho de acceso según la Ley 1/2014?",
+        "opciones": [
+            "Información que afecte a la protección de datos personales.",
+            "Información presupuestaria de las administraciones públicas.",
+            "Información sobre la organización interna de las entidades.",
+            "Información de acceso general sobre servicios públicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La información que afecta a la protección de datos personales está excluida del derecho de acceso para proteger la privacidad."
+    },
+    {
+        "enunciado": "¿Qué se entiende por 'transparencia' según la Ley 1/2014?",
+        "opciones": [
+            "La publicación de toda información sin restricciones.",
+            "La accesibilidad, comprensión y disponibilidad de información pública.",
+            "La publicación de información solo bajo solicitud previa.",
+            "La protección de la confidencialidad en las administraciones públicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La transparencia implica la accesibilidad, comprensión y disponibilidad de información pública de manera proactiva."
+    },
+    {
+        "enunciado": "¿Qué documento debe elaborarse anualmente según la Ley 1/2014 para evaluar el cumplimiento de la transparencia?",
+        "opciones": [
+            "Un plan estratégico de transparencia.",
+            "Un informe de evaluación sobre la transparencia.",
+            "Un registro de solicitudes de información.",
+            "Una guía práctica sobre transparencia pública."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El informe de evaluación anual sobre transparencia permite analizar el cumplimiento de las obligaciones establecidas por la ley."
+    },
+    {
+        "enunciado": "¿Qué mecanismo permite a los ciudadanos participar en la mejora de la transparencia según la Ley 1/2014?",
+        "opciones": [
+            "La presentación de sugerencias y propuestas.",
+            "La solicitud de amparo al Defensor del Pueblo.",
+            "La denuncia penal contra las administraciones públicas.",
+            "La participación directa en las reuniones de órganos colegiados."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 promueve la participación ciudadana mediante la presentación de sugerencias y propuestas para mejorar la transparencia."
+    },
+    {
+        "enunciado": "¿Qué plazo tiene la administración para resolver las solicitudes de acceso a información pública según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "10 días naturales.",
+            "15 días hábiles.",
+            "20 días hábiles.",
+            "30 días naturales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La administración tiene un plazo máximo de 20 días hábiles para resolver las solicitudes de acceso, según lo establecido en la Ley 1/2014."
+    },
+    {
+        "enunciado": "Según la Ley 1/2014 de Transparencia Pública de Andalucía, ¿qué derecho tienen los ciudadanos sobre la información pública?",
+        "opciones": [
+            "El derecho a recibir información sin necesidad de solicitarla.",
+            "El derecho de acceso a la información pública, con límites legales.",
+            "El derecho exclusivo a documentos clasificados.",
+            "El derecho a modificar información pública según su interés."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 garantiza el derecho de acceso a la información pública, salvo en casos de límites legales como la protección de datos personales."
+    },
+    {
+        "enunciado": "¿Qué principio regula la publicación de información pública en la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "El principio de confidencialidad.",
+            "El principio de publicidad activa.",
+            "El principio de exclusividad.",
+            "El principio de opacidad restringida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 establece el principio de publicidad activa, que obliga a las entidades a publicar información de forma proactiva y accesible."
+    },
+    {
+        "enunciado": "¿Qué organismo supervisa el cumplimiento de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "El Defensor del Pueblo Andaluz.",
+            "El Consejo de Transparencia y Protección de Datos de Andalucía.",
+            "El Parlamento de Andalucía.",
+            "El Tribunal de Cuentas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el encargado de supervisar la correcta aplicación de la Ley 1/2014."
+    },
+    {
+        "enunciado": "¿Qué tipos de datos deben publicarse en formato reutilizable según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "Datos personales de los empleados públicos.",
+            "Información presupuestaria, organizativa y estadística.",
+            "Solo datos históricos de las administraciones.",
+            "Información confidencial sobre contratos públicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 obliga a publicar información presupuestaria, organizativa y otros datos relevantes en formatos reutilizables y abiertos."
+    },
+    {
+        "enunciado": "¿Qué excepción al derecho de acceso establece la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "La protección de datos personales.",
+            "El interés económico del solicitante.",
+            "La falta de recursos en la administración.",
+            "El volumen de solicitudes presentadas por un ciudadano."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 protege la privacidad, estableciendo que no se podrá acceder a información que comprometa datos personales sensibles."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen las entidades privadas que reciben fondos públicos según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "No tienen obligaciones de transparencia.",
+            "Publicar únicamente sus balances financieros.",
+            "Cumplir las mismas obligaciones de transparencia que las públicas.",
+            "Responder exclusivamente a solicitudes directas de la administración."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "Las entidades privadas que reciben fondos públicos están obligadas a cumplir con las disposiciones de transparencia establecidas por la Ley 1/2014."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene el portal de transparencia establecido por la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "Centralizar toda la información pública relevante y garantizar su acceso.",
+            "Recopilar denuncias sobre incumplimientos de transparencia.",
+            "Controlar exclusivamente el presupuesto público.",
+            "Publicar información interna confidencial de las administraciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "El portal de transparencia tiene como objetivo centralizar y facilitar el acceso a la información pública de manera clara y accesible."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley 1/2014 respecto a la reutilización de la información publicada?",
+        "opciones": [
+            "Prohíbe reutilizar la información publicada.",
+            "Permite la reutilización solo en casos de interés económico.",
+            "Promueve la reutilización en formatos abiertos y accesibles.",
+            "Obliga a obtener permiso previo para cualquier reutilización."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 fomenta la reutilización de la información publicada, siempre que esté en formatos abiertos y reutilizables."
+    },
+    {
+        "enunciado": "¿En qué casos puede denegarse una solicitud de acceso a la información según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "Cuando se afecte la seguridad pública o la protección de datos personales.",
+            "Cuando el solicitante no resida en Andalucía.",
+            "Cuando el acceso a la información suponga un costo económico para la administración.",
+            "Cuando la solicitud sea sobre información de más de cinco años de antigüedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 permite denegar solicitudes si afectan a la seguridad pública, la privacidad o cualquier otro límite legal establecido."
+    },
+    {
+        "enunciado": "¿Qué información debe incluir la publicidad activa según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+        "opciones": [
+            "Solo información sobre actividades culturales.",
+            "Información sobre contratos, presupuestos y normativa aplicable.",
+            "Datos únicamente relacionados con la organización interna.",
+            "Informes exclusivamente solicitados por los ciudadanos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La publicidad activa incluye información sobre contratos, presupuestos, normativa y cualquier dato relevante para garantizar la transparencia."
+    },
+    {
+        "enunciado": "¿Qué responsabilidad tienen los altos cargos según la Ley 1/2014 en materia de transparencia?",
+        "opciones": [
+            "Deben delegar sus obligaciones de transparencia.",
+            "Garantizar la correcta aplicación de las medidas de transparencia.",
+            "No tienen responsabilidades específicas según la ley.",
+            "Pueden decidir qué información publicar según su criterio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "Los altos cargos tienen la responsabilidad de garantizar el cumplimiento de las medidas de transparencia dentro de sus competencias."
+    },
+    {
+        "enunciado": "¿Qué derechos tienen los ciudadanos si su solicitud de acceso a la información es denegada según la Ley 1/2014?",
+        "opciones": [
+            "Pueden interponer una reclamación ante el Consejo de Transparencia y Protección de Datos.",
+            "No tienen derecho a reclamar.",
+            "Deben presentar una nueva solicitud después de un plazo de tres meses.",
+            "Pueden recurrir exclusivamente al Tribunal Supremo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "Los ciudadanos pueden presentar una reclamación ante el Consejo de Transparencia si su solicitud es denegada."
+    },
+    {
+        "enunciado": "¿Cómo promueve la Ley 1/2014 la participación ciudadana en la transparencia pública?",
+        "opciones": [
+            "Mediante la exclusión de ciudadanos en los procesos de decisión.",
+            "Facilitando herramientas para que los ciudadanos presenten sugerencias y opiniones.",
+            "Prohibiendo el acceso a datos sensibles por parte de los ciudadanos.",
+            "Exigiendo a los ciudadanos solicitar información mediante procedimientos judiciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "Ley 1/2014"],
+        "feedback": "La Ley 1/2014 fomenta la participación ciudadana al permitir que los ciudadanos propongan mejoras y sugieran acciones en materia de transparencia."
+    },
+  {
+    "enunciado": "¿Cuál es el objetivo principal de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Promover la participación ciudadana y garantizar el acceso a la información pública",
+      "Regular las relaciones laborales en la administración pública",
+      "Establecer normas para la gestión económica de los recursos públicos",
+      "Controlar exclusivamente la actividad de las empresas privadas"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El objetivo principal de la Ley 1/2014 es promover la participación ciudadana y garantizar el acceso a la información pública para fomentar la transparencia en la gestión pública."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014 de Transparencia Pública de Andalucía, ¿qué principio rige la gestión de la información pública?",
+    "opciones": [
+      "El principio de discrecionalidad",
+      "El principio de transparencia activa",
+      "El principio de confidencialidad total",
+      "El principio de neutralidad política"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece el principio de transparencia activa, que implica que la información relevante debe publicarse de forma proactiva y accesible sin necesidad de ser solicitada."
+  },
+  {
+    "enunciado": "¿Qué obligaciones tienen los sujetos obligados por la Ley 1/2014 en cuanto a la publicación de información?",
+    "opciones": [
+      "Publicar únicamente los contratos con empresas privadas",
+      "Proveer acceso a toda la información en su totalidad sin excepciones",
+      "Garantizar la publicación actualizada y accesible de información relevante",
+      "Publicar información solo cuando sea solicitada por un ciudadano"
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a los sujetos responsables a publicar información de forma actualizada, accesible y comprensible para fomentar la transparencia."
+  },
+  {
+    "enunciado": "¿Quiénes están sujetos a las disposiciones de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Solo las administraciones públicas",
+      "Administraciones públicas, entidades privadas que gestionen fondos públicos y partidos políticos",
+      "Solo los ciudadanos con actividad económica",
+      "Exclusivamente los ayuntamientos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 afecta tanto a administraciones públicas como a entidades privadas que gestionen fondos públicos y a los partidos políticos, entre otros."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué información deben publicar las administraciones públicas de forma obligatoria?",
+    "opciones": [
+      "Solo los datos económicos del presupuesto anual",
+      "Los contratos, convenios, subvenciones y datos relevantes de gestión pública",
+      "La lista completa de empleados públicos",
+      "Exclusivamente las decisiones judiciales en su contra"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a las administraciones públicas a publicar información como contratos, convenios, subvenciones y otros datos relevantes de gestión pública."
+  },
+  {
+    "enunciado": "¿Cuál es el plazo máximo para resolver las solicitudes de acceso a la información según la Ley 1/2014?",
+    "opciones": [
+      "30 días hábiles",
+      "20 días hábiles",
+      "10 días naturales",
+      "No existe un plazo definido"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El plazo máximo para resolver las solicitudes de acceso a la información es de 20 días hábiles, según la Ley 1/2014 de Transparencia Pública de Andalucía."
+  },
+  {
+    "enunciado": "¿Qué organismo supervisa el cumplimiento de la Ley 1/2014 en Andalucía?",
+    "opciones": [
+      "El Parlamento de Andalucía",
+      "El Consejo de Transparencia y Protección de Datos de Andalucía",
+      "El Tribunal Constitucional",
+      "La Junta de Control Administrativo"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el organismo encargado de supervisar el cumplimiento de la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Qué derecho garantiza la Ley 1/2014 de Transparencia Pública de Andalucía a los ciudadanos?",
+    "opciones": [
+      "El derecho al acceso a la información pública",
+      "El derecho a modificar registros administrativos",
+      "El derecho a participar en elecciones internas",
+      "El derecho a sancionar a las administraciones públicas"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 garantiza a los ciudadanos el derecho al acceso a la información pública, fomentando la transparencia y la rendición de cuentas."
+  },
+  {
+    "enunciado": "¿Qué ocurre si un sujeto obligado incumple la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "No tiene ninguna consecuencia legal",
+      "Se le puede imponer una sanción administrativa o económica",
+      "Es denunciado automáticamente ante el Tribunal Supremo",
+      "Pierde el acceso a los fondos públicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El incumplimiento de la Ley 1/2014 puede conllevar sanciones administrativas o económicas según la gravedad del caso."
+  },
+  {
+    "enunciado": "¿Qué se entiende por transparencia activa según la Ley 1/2014?",
+    "opciones": [
+      "La obligación de publicar información sin necesidad de que sea solicitada",
+      "La necesidad de responder solicitudes de información específicas",
+      "La publicación de información únicamente en papel",
+      "La restricción de acceso a la información por seguridad"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La transparencia activa implica que los sujetos obligados deben publicar de forma proactiva información relevante sin necesidad de solicitudes específicas."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 1/2014 de Transparencia Pública de Andalucía en relación con el derecho de acceso a la información?",
+    "opciones": [
+      "Es un derecho limitado únicamente a los residentes en Andalucía",
+      "Es un derecho universal y gratuito para todos los ciudadanos",
+      "Solo es aplicable a los empleados públicos",
+      "Depende del criterio de las administraciones públicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que el derecho de acceso a la información pública es universal y gratuito para todos los ciudadanos, sin restricciones."
+  },
+  {
+    "enunciado": "¿Qué tipo de información están obligados a publicar los sujetos responsables según la Ley 1/2014?",
+    "opciones": [
+      "Solo información financiera de los últimos tres años",
+      "Información relativa a su funcionamiento, normativa y procedimientos",
+      "Información que no tenga relación directa con sus actividades",
+      "Documentos históricos únicamente"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a los sujetos responsables a publicar información sobre su funcionamiento, normativa, procedimientos y otra información relevante para garantizar la transparencia."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué principio garantiza que la información pública esté disponible en formatos reutilizables?",
+    "opciones": [
+      "Principio de interoperabilidad",
+      "Principio de reutilización",
+      "Principio de confidencialidad",
+      "Principio de neutralidad tecnológica"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El principio de reutilización, según la Ley 1/2014, asegura que la información pública esté disponible en formatos abiertos y reutilizables para facilitar su uso por la ciudadanía."
+  },
+  {
+    "enunciado": "¿Qué limita el acceso a la información pública según la Ley 1/2014?",
+    "opciones": [
+      "La falta de interés del solicitante",
+      "La protección de datos personales, la seguridad y otros límites legales",
+      "La saturación administrativa de los organismos públicos",
+      "El tipo de formato en que se encuentra la información"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 limita el acceso a la información pública en casos como la protección de datos personales, la seguridad nacional o cuando existan otras restricciones legales aplicables."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿cómo deben ser las resoluciones de acceso a la información pública?",
+    "opciones": [
+      "Verbales y confidenciales",
+      "Motivadas y notificadas por escrito",
+      "Opcionales según la carga administrativa",
+      "Automáticas y sin posibilidad de recurso"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Las resoluciones de acceso a la información pública deben ser motivadas, es decir, justificar las decisiones, y notificarse por escrito al solicitante."
+  },
+  {
+    "enunciado": "¿Qué define la Ley 1/2014 como transparencia activa?",
+    "opciones": [
+      "La publicación espontánea de información relevante por los sujetos obligados",
+      "La respuesta obligatoria a las solicitudes de información",
+      "El almacenamiento privado de documentos importantes",
+      "La elaboración de informes internos confidenciales"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La transparencia activa implica que los sujetos obligados deben publicar información relevante de manera proactiva, sin que sea necesario que la ciudadanía la solicite."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué obligación tienen los partidos políticos en relación con la transparencia?",
+    "opciones": [
+      "Solo deben publicar información relacionada con sus campañas electorales",
+      "Deben publicar información sobre su financiación y gestión económica",
+      "Están exentos de las obligaciones de transparencia",
+      "Solo deben responder solicitudes de información de sus afiliados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a los partidos políticos a publicar información sobre su financiación y gestión económica para garantizar la transparencia."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 1/2014 sobre la publicidad de los contratos públicos?",
+    "opciones": [
+      "Solo deben publicarse contratos con un valor superior a 1 millón de euros",
+      "Debe publicarse toda la información relevante sobre los contratos públicos",
+      "No es obligatorio publicar información sobre contratos públicos",
+      "Solo se publican contratos relacionados con servicios sociales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 exige que se publique toda la información relevante sobre los contratos públicos, incluyendo los adjudicatarios y las condiciones del contrato."
+  },
+  {
+    "enunciado": "¿Cómo se resuelven las reclamaciones por denegación de acceso a la información según la Ley 1/2014?",
+    "opciones": [
+      "Por el Consejo de Transparencia y Protección de Datos de Andalucía",
+      "Por el Tribunal Supremo",
+      "Por el Defensor del Pueblo",
+      "No se contempla ningún mecanismo de reclamación"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Las reclamaciones por denegación de acceso a la información son resueltas por el Consejo de Transparencia y Protección de Datos de Andalucía."
+  },
+  {
+    "enunciado": "¿Qué tipo de sanciones contempla la Ley 1/2014 por incumplimiento de las obligaciones de transparencia?",
+    "opciones": [
+      "Penales únicamente",
+      "Administrativas y económicas, según la gravedad",
+      "Solo sanciones simbólicas",
+      "No se contemplan sanciones específicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 contempla sanciones administrativas y económicas para quienes incumplan las obligaciones de transparencia, dependiendo de la gravedad del incumplimiento."
+  },
+  {
+    "enunciado": "¿Qué garantiza el artículo 1 de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "El acceso limitado a la información económica de la Junta de Andalucía",
+      "La transparencia de la actividad pública y el derecho de acceso a la información",
+      "La publicación de datos exclusivamente en formatos impresos",
+      "La centralización de todos los datos públicos en un único portal nacional"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El artículo 1 de la Ley 1/2014 garantiza la transparencia de la actividad pública y el derecho de acceso a la información como elementos esenciales para la democracia."
+  },
+  {
+    "enunciado": "¿Qué sujetos están obligados a cumplir la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Solo las administraciones autonómicas",
+      "Cualquier entidad que reciba fondos públicos en Andalucía",
+      "Exclusivamente las empresas privadas",
+      "Solo las organizaciones sin ánimo de lucro"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a cumplir sus disposiciones a cualquier entidad que reciba fondos públicos en Andalucía, ya sean públicas o privadas."
+  },
+  {
+    "enunciado": "¿Qué información relativa a subvenciones debe ser publicada según la Ley 1/2014?",
+    "opciones": [
+      "Únicamente el importe total otorgado por año",
+      "El importe, objetivo y beneficiarios de cada subvención",
+      "Solo el nombre de los beneficiarios",
+      "No es obligatorio publicar información sobre subvenciones"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 exige la publicación del importe, objetivo y beneficiarios de cada subvención para garantizar la transparencia y el control público."
+  },
+  {
+    "enunciado": "¿Qué implica el principio de transparencia activa según la Ley 1/2014?",
+    "opciones": [
+      "La divulgación proactiva de información pública relevante",
+      "La obligación de publicar información solo si se solicita formalmente",
+      "El derecho de las administraciones a no divulgar datos sensibles",
+      "La publicación de información únicamente en documentos físicos"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El principio de transparencia activa obliga a los sujetos responsables a divulgar información relevante de manera proactiva, sin necesidad de que sea solicitada."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿en qué casos se puede denegar el acceso a la información pública?",
+    "opciones": [
+      "En casos que afecten a la seguridad, la protección de datos personales o el secreto profesional",
+      "En todos los casos en que la información sea compleja de obtener",
+      "Si el solicitante no acredita interés legítimo",
+      "Si la información tiene más de 5 años de antigüedad"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El acceso a la información pública puede denegarse en casos en que afecte a la seguridad, la protección de datos personales, el secreto profesional o esté restringido por ley."
+  },
+  {
+    "enunciado": "¿Cómo define la Ley 1/2014 la información que debe estar disponible para los ciudadanos?",
+    "opciones": [
+      "Información parcial y bajo solicitud directa",
+      "Información pública accesible, comprensible y actualizada",
+      "Información solo de carácter económico",
+      "Información exclusivamente digital"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que la información pública debe ser accesible, comprensible y estar actualizada para garantizar su utilidad para los ciudadanos."
+  },
+  {
+    "enunciado": "¿Qué medidas establece la Ley 1/2014 para fomentar la reutilización de la información pública?",
+    "opciones": [
+      "Obligar a las administraciones a destruir los datos no solicitados",
+      "Publicar información en formatos abiertos y accesibles",
+      "Limitar el acceso a datos que puedan ser reutilizados con fines económicos",
+      "Exigir el pago de una tasa para acceder a la información reutilizable"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 fomenta la reutilización de la información pública publicándola en formatos abiertos y accesibles que permitan su aprovechamiento."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿cuál es la finalidad principal del Consejo de Transparencia y Protección de Datos de Andalucía?",
+    "opciones": [
+      "Controlar las actividades económicas de las empresas privadas",
+      "Supervisar y garantizar el cumplimiento de las obligaciones de transparencia",
+      "Elaborar normativas fiscales para las administraciones públicas",
+      "Gestionar los fondos de las administraciones autonómicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía tiene como finalidad supervisar y garantizar el cumplimiento de las obligaciones de transparencia establecidas en la Ley."
+  },
+  {
+    "enunciado": "¿Qué deben incluir las resoluciones de acceso a la información pública según la Ley 1/2014?",
+    "opciones": [
+      "Una justificación motivada, el plazo y el modo de entrega",
+      "Solo una aprobación o rechazo sin explicaciones adicionales",
+      "Un informe técnico con datos exclusivamente económicos",
+      "Un documento confidencial accesible solo para funcionarios"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Las resoluciones deben incluir una justificación motivada, el plazo para acceder a la información y el modo en que será entregada al solicitante."
+  },
+  {
+    "enunciado": "¿Qué tipo de información sobre altos cargos debe ser publicada según la Ley 1/2014?",
+    "opciones": [
+      "Solo el salario anual",
+      "Su nombre, competencias, retribuciones y posibles conflictos de interés",
+      "Solo el puesto que ocupan",
+      "No es obligatorio publicar información sobre altos cargos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que debe publicarse información sobre los altos cargos como su nombre, competencias, retribuciones y posibles conflictos de interés."
+  },
+  {
+    "enunciado": "¿Qué se entiende por información pública según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Solo los datos económicos de las administraciones públicas",
+      "El conjunto de contenidos o documentos en poder de las entidades obligadas por la ley",
+      "Exclusivamente la información solicitada por los ciudadanos",
+      "Los datos publicados en redes sociales por entidades públicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 define como información pública todos los contenidos o documentos en poder de las entidades obligadas, independientemente de su formato."
+  },
+  {
+    "enunciado": "¿Qué principio debe regir la interpretación de las obligaciones de transparencia según la Ley 1/2014?",
+    "opciones": [
+      "Principio de proporcionalidad",
+      "Principio de máxima publicidad",
+      "Principio de discrecionalidad administrativa",
+      "Principio de exclusividad de acceso"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece el principio de máxima publicidad, según el cual la transparencia debe ser interpretada favoreciendo el acceso a la información pública."
+  },
+  {
+    "enunciado": "¿Qué deben garantizar los sujetos obligados por la Ley 1/2014 en cuanto a la accesibilidad de la información?",
+    "opciones": [
+      "Que solo esté disponible en horarios de oficina",
+      "Que la información sea accesible en formatos comprensibles y reutilizables",
+      "Que solo se proporcione información a los residentes en Andalucía",
+      "Que la información se entregue únicamente en formato físico"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a los sujetos responsables a garantizar que la información sea accesible en formatos comprensibles, abiertos y reutilizables para facilitar su uso."
+  },
+  {
+    "enunciado": "¿Qué requisito deben cumplir las solicitudes de acceso a la información pública según la Ley 1/2014?",
+    "opciones": [
+      "Estar motivadas y justificadas por el solicitante",
+      "Indicar claramente la información que se solicita sin necesidad de motivación",
+      "Incluir los datos personales y fiscales del solicitante",
+      "Ser presentadas exclusivamente de forma presencial"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Según la Ley 1/2014, las solicitudes deben identificar la información deseada, pero no requieren una motivación específica ni justificación."
+  },
+  {
+    "enunciado": "¿Qué excepciones contempla la Ley 1/2014 al derecho de acceso a la información pública?",
+    "opciones": [
+      "Información clasificada como secreta, datos personales y seguridad pública",
+      "Documentos relacionados con proyectos de infraestructura",
+      "Toda la información relacionada con contratos públicos",
+      "No existen excepciones al derecho de acceso a la información"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El acceso a la información pública puede ser restringido por razones como la protección de datos personales, la seguridad pública y la información clasificada como secreta."
+  },
+  {
+    "enunciado": "¿Qué debe incluirse en el Portal de Transparencia según la Ley 1/2014?",
+    "opciones": [
+      "Solo los datos económicos de las administraciones públicas",
+      "Información estructurada sobre contratos, subvenciones, presupuestos y normativa aplicable",
+      "Documentos históricos y archivos cerrados",
+      "Solo la información relacionada con los altos cargos de las administraciones"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Portal de Transparencia debe incluir información estructurada como contratos, subvenciones, presupuestos y normativa para garantizar el acceso ciudadano a la gestión pública."
+  },
+  {
+    "enunciado": "¿Qué plazo establece la Ley 1/2014 para resolver las solicitudes de acceso a la información pública?",
+    "opciones": [
+      "10 días hábiles",
+      "20 días hábiles, ampliables en casos justificados",
+      "30 días naturales, sin posibilidad de ampliación",
+      "No hay un plazo definido en la ley"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece un plazo máximo de 20 días hábiles para resolver las solicitudes, con posibilidad de ampliación en casos justificados."
+  },
+  {
+    "enunciado": "¿Qué tipo de información deben publicar las empresas privadas que reciben fondos públicos según la Ley 1/2014?",
+    "opciones": [
+      "Solo los proyectos en los que utilicen fondos públicos",
+      "Información sobre el uso y destino de los fondos públicos recibidos",
+      "Solo su facturación total anual",
+      "No están obligadas a publicar ninguna información"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Las empresas privadas que reciben fondos públicos están obligadas a publicar información sobre el uso y destino de dichos fondos, según la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Qué característica debe tener la información pública publicada por los sujetos obligados según la Ley 1/2014?",
+    "opciones": [
+      "Debe estar en formato exclusivamente digital",
+      "Debe ser comprensible, accesible y estar actualizada",
+      "Debe ser confidencial y accesible solo bajo solicitud",
+      "Debe estar disponible únicamente para usuarios registrados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La información pública debe ser comprensible, accesible y estar actualizada para cumplir con los principios de la Ley 1/2014 de Transparencia Pública de Andalucía."
+  },
+  {
+    "enunciado": "¿Quién es el encargado de garantizar el cumplimiento de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "El Defensor del Pueblo Andaluz",
+      "El Consejo de Transparencia y Protección de Datos de Andalucía",
+      "El Tribunal Superior de Justicia de Andalucía",
+      "El Parlamento de Andalucía"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el organismo responsable de supervisar y garantizar el cumplimiento de la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Qué objetivo fundamental persigue la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Regular la relación entre administraciones públicas y empresas privadas",
+      "Fomentar la transparencia, la rendición de cuentas y la participación ciudadana",
+      "Establecer un marco para la protección de datos personales exclusivamente",
+      "Incrementar la recaudación fiscal de las administraciones públicas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El objetivo de la Ley 1/2014 es fomentar la transparencia, la rendición de cuentas y la participación de los ciudadanos en la gestión pública."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué tipo de publicidad está incluida dentro de la transparencia activa?",
+    "opciones": [
+      "Publicidad relativa a datos históricos únicamente",
+      "Publicidad de oficio de información relevante para la ciudadanía",
+      "Publicidad exclusiva de actos administrativos confidenciales",
+      "Publicidad únicamente bajo solicitud formal de los ciudadanos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La transparencia activa implica la obligación de publicar de oficio información relevante sin que los ciudadanos tengan que solicitarla."
+  },
+  {
+    "enunciado": "¿Qué información sobre contratos públicos exige la Ley 1/2014 que se publique?",
+    "opciones": [
+      "Solo los contratos relacionados con proyectos de gran impacto social",
+      "Todos los contratos, incluyendo el objeto, importe, adjudicatario y procedimiento de adjudicación",
+      "Únicamente los contratos que superen los 500.000 euros",
+      "No es obligatorio publicar información sobre contratos públicos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a publicar información detallada sobre todos los contratos públicos, incluyendo su objeto, importe, adjudicatario y el procedimiento seguido."
+  },
+  {
+    "enunciado": "¿Qué debe hacer una administración pública si una solicitud de acceso a la información afecta a derechos de terceros según la Ley 1/2014?",
+    "opciones": [
+      "Denegar automáticamente la solicitud",
+      "Notificar a los terceros afectados para que puedan presentar alegaciones",
+      "Eliminar cualquier referencia a los terceros en la información solicitada",
+      "Conceder acceso únicamente a parte de la información"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Si una solicitud afecta a derechos de terceros, la administración debe notificar a los terceros para que puedan alegar lo que estimen oportuno."
+  },
+  {
+    "enunciado": "¿Cuál es la responsabilidad principal de las entidades privadas que reciben subvenciones públicas según la Ley 1/2014?",
+    "opciones": [
+      "Publicar solo un informe anual de actividades",
+      "Hacer pública la información relacionada con el uso de dichas subvenciones",
+      "No tienen ninguna obligación de transparencia",
+      "Garantizar la confidencialidad de los proyectos subvencionados"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Las entidades privadas que reciben subvenciones públicas están obligadas a publicar información relacionada con el uso y destino de dichas ayudas."
+  },
+  {
+    "enunciado": "¿Qué criterio debe aplicarse si existen dudas sobre la interpretación de las disposiciones de la Ley 1/2014?",
+    "opciones": [
+      "Se debe priorizar el derecho de acceso a la información",
+      "Se debe proteger siempre la confidencialidad administrativa",
+      "La decisión queda a criterio exclusivo de la administración pública",
+      "Se prioriza la negativa para evitar conflictos legales"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que, en caso de duda, debe priorizarse el derecho de acceso a la información para garantizar la transparencia."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 1/2014 en relación con los datos de carácter económico-financiero de las administraciones públicas?",
+    "opciones": [
+      "Deben ser publicados de forma periódica y comprensible",
+      "Deben mantenerse en secreto por motivos de seguridad",
+      "Solo deben publicarse cuando sean solicitados por los ciudadanos",
+      "No es obligatorio publicar datos económico-financieros"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece la obligación de publicar periódicamente información económico-financiera de las administraciones públicas en formatos comprensibles."
+  },
+  {
+    "enunciado": "¿Cómo deben garantizar los sujetos obligados la protección de datos personales según la Ley 1/2014?",
+    "opciones": [
+      "Publicando toda la información sin restricciones",
+      "Excluyendo los datos personales de las publicaciones de transparencia",
+      "Aplicando medidas que permitan la compatibilidad entre transparencia y protección de datos",
+      "Limitando el acceso a la información únicamente a funcionarios"
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 exige que los sujetos obligados adopten medidas que permitan compatibilizar la transparencia con la protección de los datos personales."
+  },
+  {
+    "enunciado": "¿Qué papel desempeñan los ciudadanos en la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Tienen un rol pasivo, recibiendo información únicamente si es publicada",
+      "Pueden solicitar información, participar y exigir responsabilidades a los poderes públicos",
+      "Solo pueden solicitar acceso a la información económica",
+      "No tienen ningún derecho reconocido en esta ley"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Los ciudadanos tienen un papel activo en la Ley 1/2014, pudiendo solicitar información, participar en los asuntos públicos y exigir responsabilidades."
+  },
+  {
+    "enunciado": "¿Qué obligación tienen las administraciones públicas respecto al estado de las solicitudes de acceso a la información?",
+    "opciones": [
+      "No están obligadas a informar sobre el estado de las solicitudes",
+      "Deben informar del estado de tramitación a los solicitantes",
+      "Solo están obligadas a informar si se deniega el acceso",
+      "Pueden decidir discrecionalmente si informan o no"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a las administraciones públicas a informar a los solicitantes sobre el estado de tramitación de sus solicitudes de acceso a la información."
+  },
+  {
+    "enunciado": "¿Qué principio establece la Ley 1/2014 de Transparencia Pública de Andalucía para la gestión de la información pública?",
+    "opciones": [
+      "Principio de confidencialidad",
+      "Principio de gratuidad",
+      "Principio de eficiencia administrativa",
+      "Principio de accesibilidad y reutilización"
+    ],
+    "correcta": 3,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece el principio de accesibilidad y reutilización, asegurando que la información sea fácilmente accesible y pueda ser reutilizada por la ciudadanía."
+  },
+  {
+    "enunciado": "¿Qué ámbito territorial cubre la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Todo el territorio nacional",
+      "Exclusivamente la Comunidad Autónoma de Andalucía",
+      "Los municipios andaluces con más de 10.000 habitantes",
+      "Los organismos de la Unión Europea con sede en Andalucía"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 se aplica exclusivamente en el ámbito de la Comunidad Autónoma de Andalucía, regulando la transparencia de las administraciones y entidades bajo su jurisdicción."
+  },
+  {
+    "enunciado": "¿Qué plazo tiene el Consejo de Transparencia y Protección de Datos de Andalucía para resolver una reclamación?",
+    "opciones": [
+      "15 días hábiles",
+      "1 mes",
+      "3 meses",
+      "6 meses"
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía tiene un plazo máximo de 3 meses para resolver una reclamación, según la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Qué información relacionada con el personal de las administraciones públicas debe ser publicada según la Ley 1/2014?",
+    "opciones": [
+      "Solo el número total de empleados públicos",
+      "Los órganos a los que pertenecen y las retribuciones anuales",
+      "Información detallada de todos los expedientes de los empleados públicos",
+      "Ninguna información relacionada con el personal"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que debe publicarse información sobre los órganos administrativos y las retribuciones del personal de las administraciones públicas."
+  },
+  {
+    "enunciado": "¿Qué criterio establece la Ley 1/2014 para priorizar la publicación de información pública?",
+    "opciones": [
+      "El nivel de interés económico de la información",
+      "La relevancia y utilidad para la ciudadanía",
+      "La cantidad de solicitudes recibidas sobre la información",
+      "El costo asociado a la publicación de los datos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que debe priorizarse la publicación de información relevante y útil para la ciudadanía, fomentando así la transparencia."
+  },
+  {
+    "enunciado": "¿Cómo deben presentar los ciudadanos una solicitud de acceso a la información pública según la Ley 1/2014?",
+    "opciones": [
+      "Por escrito, sin necesidad de justificar el motivo",
+      "Por vía exclusivamente digital a través del Portal de Transparencia",
+      "De forma presencial, presentando una justificación formal",
+      "A través de un formulario que incluya motivos detallados de la solicitud"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 permite que las solicitudes de acceso se presenten por escrito, sin necesidad de justificar los motivos de la petición."
+  },
+  {
+    "enunciado": "¿Qué ocurre si un sujeto obligado incumple con la publicación de información prevista en la Ley 1/2014?",
+    "opciones": [
+      "Se le aplica una sanción administrativa dependiendo de la gravedad",
+      "Pierde automáticamente la financiación pública",
+      "Se archiva la queja sin ninguna consecuencia",
+      "Se informa al Parlamento de Andalucía para que intervenga"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El incumplimiento de las obligaciones de publicación establecidas en la Ley 1/2014 puede dar lugar a sanciones administrativas."
+  },
+  {
+    "enunciado": "¿Qué establece la Ley 1/2014 sobre la periodicidad de la actualización de la información pública?",
+    "opciones": [
+      "Debe actualizarse al menos cada cinco años",
+      "Debe actualizarse periódicamente y de forma inmediata cuando sea relevante",
+      "Solo debe actualizarse si hay cambios sustanciales",
+      "No se establece ninguna obligación de actualización"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que la información pública debe actualizarse periódicamente y de forma inmediata cuando existan cambios relevantes."
+  },
+  {
+    "enunciado": "¿Qué órgano tiene la responsabilidad de sancionar el incumplimiento de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "El Consejo de Transparencia y Protección de Datos de Andalucía",
+      "El Defensor del Pueblo Andaluz",
+      "El Tribunal Superior de Justicia de Andalucía",
+      "La Consejería de Hacienda de Andalucía"
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el órgano responsable de sancionar los incumplimientos de la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Qué obligación tienen las entidades públicas según la Ley 1/2014 en relación con las cuentas anuales?",
+    "opciones": [
+      "Publicarlas solo si reciben solicitudes de acceso específicas",
+      "Hacerlas públicas de manera periódica y detallada",
+      "Mantenerlas disponibles únicamente para auditores externos",
+      "Publicarlas solo al finalizar cada legislatura"
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 obliga a las entidades públicas a publicar sus cuentas anuales de forma periódica y detallada como medida de transparencia financiera."
+  },
+    {
+        "enunciado": "¿Qué permite el artículo 3 de la Ley Orgánica 3/2018 en relación con los datos personales de personas fallecidas?",
+        "opciones": [
+            "El acceso a los datos por cualquier persona interesada.",
+            "Que los herederos puedan solicitar la rectificación o supresión de los datos si el fallecido no lo prohibió expresamente.",
+            "La transferencia automática de datos personales al patrimonio del fallecido.",
+            "La supresión inmediata de los datos personales tras el fallecimiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El artículo 3 permite a los herederos solicitar la rectificación o supresión de los datos, salvo prohibición expresa del fallecido o disposición legal contraria."
+    },
+    {
+        "enunciado": "¿Qué criterio no exonera al responsable del tratamiento de la inexactitud de los datos según el artículo 4?",
+        "opciones": [
+            "Que los datos hayan sido obtenidos de un registro público.",
+            "Que los datos provengan directamente del afectado.",
+            "Que los datos sean inexactos por error del intermediario.",
+            "Que los datos hayan sido obtenidos de otro responsable por derecho a la portabilidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El responsable no es exonerado cuando la inexactitud deriva de un error en la transmisión de un intermediario o mediador."
+    },
+    {
+        "enunciado": "¿Cuál es la edad mínima a partir de la cual un menor puede consentir el tratamiento de sus datos personales sin necesidad de autorización de sus representantes legales?",
+        "opciones": [
+            "12 años.",
+            "16 años.",
+            "14 años.",
+            "18 años."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "La Ley establece que los menores de 14 años necesitan autorización de los titulares de la patria potestad para consentir el tratamiento de sus datos."
+    },
+    {
+        "enunciado": "El tratamiento de datos para cumplir con una obligación legal, ¿en qué condiciones puede realizarse?",
+        "opciones": [
+            "Cuando el afectado lo consienta.",
+            "Cuando lo prevea una norma de rango legal o de Derecho de la Unión Europea.",
+            "Cuando el tratamiento sea autorizado por el delegado de protección de datos.",
+            "Cuando sea necesario para ejecutar un contrato entre las partes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El cumplimiento de una obligación legal exige el respaldo de una norma con rango de ley o del Derecho de la Unión Europea."
+    },
+    {
+        "enunciado": "Según el artículo 6, ¿qué característica debe tener el consentimiento para ser válido?",
+        "opciones": [
+            "Ser tácito y voluntario.",
+            "Ser inequívoco, libre y específico.",
+            "Estar condicionado al contrato laboral.",
+            "Ser revocable únicamente con autorización judicial."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El consentimiento debe ser libre, específico, informado e inequívoco, como establece el artículo 6."
+    },
+    {
+        "enunciado": "¿Qué derechos incluye la Ley Orgánica 3/2018 bajo el principio de transparencia en el tratamiento?",
+        "opciones": [
+            "Acceso, rectificación y supresión.",
+            "Oposición y portabilidad.",
+            "Información al afectado y acceso a sus datos.",
+            "Supresión y limitación del tratamiento."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El principio de transparencia asegura que el afectado sea informado y pueda acceder a sus datos."
+    },
+    {
+        "enunciado": "¿Qué requisito adicional establece la Ley para el tratamiento de datos en menores de 14 años?",
+        "opciones": [
+            "Debe notificarse a la Agencia Española de Protección de Datos.",
+            "Requiere el consentimiento de ambos progenitores.",
+            "Es necesario el consentimiento del titular de la patria potestad o tutela.",
+            "Solo puede realizarse con autorización judicial previa."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El tratamiento de datos de menores de 14 años necesita el consentimiento del titular de la patria potestad o tutela."
+    },
+    {
+        "enunciado": "¿Qué ocurre si el afectado no especifica los datos sobre los que desea ejercer el derecho de acceso?",
+        "opciones": [
+            "El responsable debe proporcionar toda la información disponible.",
+            "El responsable puede denegar el acceso.",
+            "El responsable puede pedir al afectado que detalle los datos o actividades de tratamiento.",
+            "El afectado pierde el derecho a solicitar información."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El responsable puede solicitar más información para especificar los datos o actividades antes de proporcionar acceso."
+    },
+    {
+        "enunciado": "¿Qué duración máxima se establece para conservar imágenes captadas mediante videovigilancia?",
+        "opciones": [
+            "Un mes.",
+            "Una semana.",
+            "Seis meses.",
+            "Indefinidamente mientras sean necesarias."
+        ],
+        "correcta": 0,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "Las imágenes deben eliminarse en un plazo máximo de un mes, salvo que sean necesarias para procedimientos legales."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizar el responsable si la solicitud de acceso del afectado se considera repetitiva?",
+        "opciones": [
+            "Proporcionar la información de todos modos.",
+            "Informar al afectado del motivo de denegación.",
+            "Notificar a la Agencia Española de Protección de Datos.",
+            "Exigir una tasa administrativa al afectado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El responsable puede denegar solicitudes repetitivas, informando al afectado del motivo."
+    },
+    {
+        "enunciado": "¿Qué establece la Ley sobre el consentimiento para finalidades múltiples?",
+        "opciones": [
+            "Debe ser implícito en todos los casos.",
+            "Se requiere un consentimiento único para todas las finalidades.",
+            "Debe ser específico e inequívoco para cada finalidad.",
+            "No se permite la recolección de datos con finalidades múltiples."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El consentimiento para múltiples finalidades debe otorgarse de forma específica e inequívoca para cada una."
+    },
+    {
+        "enunciado": "¿Qué derecho garantiza que un afectado pueda recibir sus datos personales en un formato estructurado y reutilizable?",
+        "opciones": [
+            "Derecho de acceso.",
+            "Derecho de rectificación.",
+            "Derecho a la portabilidad.",
+            "Derecho de oposición."
+        ],
+        "correcta": 2,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El derecho a la portabilidad permite al afectado recibir sus datos en un formato reutilizable."
+    },
+    {
+        "enunciado": "¿Qué debe hacer un responsable si utiliza sistemas automatizados de elaboración de perfiles?",
+        "opciones": [
+            "Solicitar consentimiento tácito del afectado.",
+            "Informar sobre esta práctica y garantizar el derecho a oponerse.",
+            "Excluir a menores de este tipo de tratamiento.",
+            "Consultar previamente con la Agencia Española de Protección de Datos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El afectado debe ser informado sobre la elaboración de perfiles y sus derechos relacionados."
+    },
+    {
+        "enunciado": "Según la Ley, ¿en qué casos pueden tratarse datos sensibles como religión o orientación sexual sin el consentimiento del afectado?",
+        "opciones": [
+            "En investigaciones biomédicas.",
+            "Cuando lo exija una norma con rango de ley.",
+            "Si el afectado lo autoriza verbalmente.",
+            "Nunca es posible tratar datos sensibles sin consentimiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema5", "lo 3/2018"],
+        "feedback": "El tratamiento de datos sensibles sin consentimiento solo está permitido si lo respalda una norma con rango de ley."
+    },
+    
+  {
+    "enunciado": "¿Cuál de los siguientes principios se recoge en la Ley 1/2014 de Transparencia Pública de Andalucía como pilar fundamental de la transparencia?",
+    "opciones": [
+      "Confidencialidad",
+      "Proporcionalidad",
+      "Accesibilidad universal",
+      "Neutralidad institucional"
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El principio de accesibilidad universal asegura que la información pública esté disponible para todas las personas, sin discriminación, de acuerdo con lo dispuesto en la Ley 1/2014."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué se entiende por 'publicidad activa'?",
+    "opciones": [
+      "El derecho de cualquier ciudadano a solicitar información pública sin necesidad de motivación.",
+      "La obligación de las entidades públicas de publicar información relevante sin necesidad de solicitud previa.",
+      "El proceso de responder a solicitudes de información pública de forma ágil.",
+      "La comunicación de información mediante campañas de sensibilización sobre la transparencia."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La publicidad activa implica que las entidades públicas están obligadas a divulgar información relevante de manera proactiva y accesible, sin necesidad de una solicitud previa."
+  },
+  {
+    "enunciado": "¿Qué plazo máximo establece la Ley 1/2014 para responder a una solicitud de acceso a la información pública?",
+    "opciones": [
+      "10 días hábiles",
+      "15 días naturales",
+      "20 días hábiles",
+      "30 días naturales"
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El plazo máximo para responder a una solicitud de acceso a la información es de 20 días hábiles, salvo excepciones contempladas en la Ley 1/2014."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014 de Transparencia Pública de Andalucía, ¿qué derechos tienen los ciudadanos en relación con la transparencia?",
+    "opciones": [
+      "Solo el derecho de acceso a la información pública.",
+      "Derecho de acceso a la información pública y a recibir información clara y comprensible.",
+      "Derecho a exigir la rendición de cuentas y a participar directamente en la elaboración de políticas públicas.",
+      "Derecho a la información pública, a la participación ciudadana y a la evaluación de políticas públicas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Los ciudadanos tienen derecho de acceso a la información pública, que debe ser clara, comprensible y puesta a disposición de manera accesible, según la Ley 1/2014."
+  },
+  {
+    "enunciado": "¿Quiénes están obligados a cumplir con las disposiciones de la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Solo las administraciones públicas autonómicas.",
+      "Administraciones públicas, empresas públicas y concesionarios de servicios públicos.",
+      "Únicamente las entidades de derecho público de carácter autonómico.",
+      "Partidos políticos, sindicatos y organizaciones empresariales, exclusivamente."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 establece que deben cumplir con sus disposiciones las administraciones públicas, empresas públicas y concesionarios de servicios públicos, entre otros."
+  },
+  {
+    "enunciado": "En la Ley 1/2014 de Transparencia Pública de Andalucía, ¿qué información deben publicar las entidades públicas como parte de la publicidad activa?",
+    "opciones": [
+      "Solo la información relacionada con contrataciones públicas.",
+      "Información sobre presupuestos, contratos, subvenciones y retribuciones de altos cargos.",
+      "Información sobre procedimientos administrativos y normativa interna.",
+      "Solo datos de interés general sobre su actividad institucional."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La publicidad activa incluye información sobre presupuestos, contratos, subvenciones y las retribuciones de altos cargos, entre otros aspectos relevantes."
+  },
+  {
+    "enunciado": "¿Qué requisito debe cumplir una solicitud de acceso a la información pública, según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "Debe estar debidamente motivada por el solicitante.",
+      "Debe realizarse exclusivamente a través de medios electrónicos.",
+      "Debe identificar claramente la información solicitada.",
+      "Debe ser aprobada previamente por el responsable del organismo público."
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Una solicitud de acceso a la información pública debe identificar claramente la información requerida, pero no necesita ser motivada ni realizada exclusivamente de forma electrónica."
+  },
+  {
+    "enunciado": "¿Qué sucede si una entidad pública no responde a una solicitud de acceso a la información pública en el plazo establecido por la Ley 1/2014?",
+    "opciones": [
+      "Se considera que la solicitud ha sido rechazada.",
+      "El solicitante debe presentar una nueva solicitud.",
+      "Se considera silencio administrativo positivo, concediendo el acceso.",
+      "La entidad tiene un plazo adicional de 10 días para responder."
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "Si no hay respuesta en el plazo establecido, se aplica el silencio administrativo positivo, lo que significa que el acceso a la información se considera concedido, salvo excepciones legales."
+  },
+  {
+    "enunciado": "¿Qué principio relacionado con el fomento de la transparencia destaca en la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "opciones": [
+      "El principio de control interno.",
+      "El principio de rendición de cuentas.",
+      "El principio de privacidad de la información.",
+      "El principio de neutralidad."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La Ley 1/2014 promueve la rendición de cuentas como un principio esencial para garantizar la transparencia en las actuaciones de las entidades públicas."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes es una causa legítima para denegar el acceso a información pública según la Ley 1/2014?",
+    "opciones": [
+      "Que la información sea irrelevante para el solicitante.",
+      "Que la solicitud sea presentada por un ciudadano extranjero.",
+      "Que la información afecte a la seguridad pública o a derechos fundamentales protegidos.",
+      "Que la entidad no disponga de los recursos necesarios para atender la solicitud."
+    ],
+    "correcta": 2,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El acceso a información pública puede denegarse si su divulgación afecta a la seguridad pública o a derechos fundamentales, como establece la Ley 1/2014."
+  },
+  {
+    "enunciado": "Según la Ley 1/2014, ¿qué órgano es responsable de garantizar el cumplimiento de la transparencia en Andalucía?",
+    "opciones": [
+      "El Tribunal Superior de Justicia de Andalucía.",
+      "El Consejo de Transparencia y Protección de Datos de Andalucía.",
+      "El Defensor del Pueblo Andaluz.",
+      "El Parlamento de Andalucía."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "El Consejo de Transparencia y Protección de Datos de Andalucía es el órgano encargado de velar por el cumplimiento de las obligaciones de transparencia."
+  },
+  {
+    "enunciado": "¿Cómo define la Ley 1/2014 la información pública?",
+    "opciones": [
+      "Cualquier dato elaborado por la administración pública.",
+      "Los contenidos o documentos en poder de cualquier entidad sujeta a la Ley, relacionados con sus funciones públicas.",
+      "Solo los datos administrativos que tienen valor jurídico.",
+      "La información generada por organismos públicos exclusivamente en formato digital."
+    ],
+    "correcta": 1,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La información pública se refiere a cualquier contenido en poder de las entidades sujetas a la Ley, vinculado a sus funciones y actividades públicas."
+  },
+  {
+    "enunciado": "¿Qué tipo de información no puede ser denegada bajo ninguna circunstancia según la Ley 1/2014?",
+    "opciones": [
+      "Información sobre violaciones de derechos humanos.",
+      "Información clasificada como confidencial.",
+      "Información relativa a la defensa y seguridad del Estado.",
+      "Información protegida por la Ley de Protección de Datos."
+    ],
+    "correcta": 0,
+    "categorías": ["tema5", "Ley 1/2014"],
+    "feedback": "La información sobre violaciones de derechos humanos debe estar siempre accesible, de acuerdo con la Ley 1/2014 y otras normativas internacionales."
+  }
+  ]
+
