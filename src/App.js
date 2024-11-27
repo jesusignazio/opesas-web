@@ -13,14 +13,33 @@ function App() {
     const [error, setError] = useState(null); // Estado para errores
 
     const cargarPreguntas = (archivo) => {
-        fetch(`/Tests/${archivo}`)
+    
+        fetch(`/opesas-web/Tests/${archivo}`)
             .then((response) => {
-                if (!response.ok) throw new Error('Error al cargar el archivo.');
-                return response.json();
+                console.log("Fetch response status:", response.status);
+    
+                // Inspect the raw response body as text before parsing
+                return response.text().then((text) => {
+    
+                    // Try parsing the response as JSON
+                    try {
+                        const jsonData = JSON.parse(text);
+                        return jsonData;
+                    } catch (error) {
+                        throw new Error("Error parsing JSON: " + error.message);
+                    }
+                });
             })
-            .then((data) => setPreguntas(data))
-            .catch((err) => setError(err.message));
+            .then((data) => {
+                setPreguntas(data);
+            })
+            .catch((err) => {
+                console.error("Fetch error:", err.message);
+                setError(err.message);
+            });
     };
+    
+    
 
     const getBlockColor = (bloque) => {
         const colors = {
@@ -248,11 +267,10 @@ function App() {
                                                     href="#"
                                                     onClick={() => {
                                                         showPreguntas(true);
-                                                        console.log("onClick");
-                                                        console.log(elementPreguntas);
-                                                        setCasos(true);
+                                                        setCasos(false);
                                                         setInicio(false);
                                                         cargarPreguntas(item.archivo);
+
                                                     }}
                                                     style={{
                                                         textDecoration: 'none',
@@ -337,8 +355,12 @@ function App() {
                                                     className="nav-link"
                                                     href="#"
                                                     onClick={() => {
+                                                        showPreguntas(true);
+                                                        setCasos(false);
                                                         setInicio(false);
+                                                        console.log("States updateddd:", { elementPreguntas, casos, inicio });
                                                         cargarPreguntas(item.archivo);
+                                                        console.log("Archivo", item.archivo);
                                                     }}
                                                     style={{
                                                         textDecoration: 'none',
@@ -362,34 +384,35 @@ function App() {
             </div>
     
             {/* Contenido principal */}
-            <div
-                style={{
-                    flexGrow: 1,
-                    width: 'calc(100% - 250px)', // Asegura que el contenido principal ocupe el espacio restante
-                    padding: '1rem',
-                    boxSizing: 'border-box', // Asegura que el padding no afecte el tamaño del contenedor
-                    height: '100vh', // 100% del alto de la vista
-                    overflow: 'auto', // Permite desplazamiento si el contenido es largo
-                }}
-            >
-                {elementPreguntas ? (
-    <PreguntasComponent preguntas={preguntas} />
-) : inicio ? (
-    <div>
-        <h1>Bienvenido</h1>
-        <p>Este es el contenido estático de Inicio.</p>
-    </div>
-) : casos ? (
-    <div>
-        <h1>Casos</h1>
-        <p>Este es el contenido estático de Casos.</p>
-    </div>
-) : null}
+<div
+    style={{
+        flexGrow: 1,
+        width: 'calc(100% - 250px)', // Asegura que el contenido principal ocupe el espacio restante
+        padding: '1rem',
+        boxSizing: 'border-box', // Asegura que el padding no afecte el tamaño del contenedor
+        height: '100vh', // 100% del alto de la vista
+        overflow: 'auto', // Permite desplazamiento si el contenido es largo
+    }}
+>
 
-            </div>
+    {elementPreguntas ? (
+        <PreguntasComponent preguntas={preguntas} />
+    ) : inicio ? (
+        <div>
+            <h1>Bienvenido</h1>
+            <p>Este es el contenido estático de Inicio.</p>
         </div>
+    ) : casos ? (
+        <div>
+            <h1>Casos</h1>
+            <p>Este es el contenido estático de Casos.</p>
+        </div>
+    ) : (
+        null
+    )}
+</div>
+    </div>
     );
-    
 }
 
 export default App;
