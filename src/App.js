@@ -9,11 +9,12 @@ function App() {
     const [casos, setCasos] = useState(false);
     const [elementPreguntas, showPreguntas] = useState(false);
     const [searchTerm, setSearchTerm] = useState('');
+    const [titulo_tema, setTituloTema] = useState("");
     const [preguntas, setPreguntas] = useState([]); // Estado para las preguntas cargadas
     const [error, setError] = useState(null); // Estado para errores
 
-    const cargarPreguntas = (archivo) => {
-    
+    const cargarPreguntas = (archivo, titulo) => {
+        setTituloTema(titulo); // Establece el título del tema
         fetch(`/opesas-web/Tests/${archivo}`)
             .then((response) => {
                 console.log("Fetch response status:", response.status);
@@ -258,7 +259,7 @@ function App() {
                                                     overflow: 'hidden', // Evita que se desborde
                                                     whiteSpace: 'nowrap', // Evita que el texto se envuelva
                                                     textOverflow: 'ellipsis', // Agrega puntos suspensivos
-                                                    maxWidth: '230px', // Asegura que el texto no se desborde
+                                                    maxWidth: '300px', // Asegura que el texto no se desborde
                                                     display: 'flex',
                                                     alignItems: 'center',
                                                 }}
@@ -269,7 +270,7 @@ function App() {
                                                         showPreguntas(true);
                                                         setCasos(false);
                                                         setInicio(false);
-                                                        cargarPreguntas(item.archivo);
+                                                        cargarPreguntas(item.archivo, item.title);
 
                                                     }}
                                                     style={{
@@ -358,9 +359,7 @@ function App() {
                                                         showPreguntas(true);
                                                         setCasos(false);
                                                         setInicio(false);
-                                                        console.log("States updateddd:", { elementPreguntas, casos, inicio });
-                                                        cargarPreguntas(item.archivo);
-                                                        console.log("Archivo", item.archivo);
+                                                        cargarPreguntas(item.archivo, item.title);
                                                     }}
                                                     style={{
                                                         textDecoration: 'none',
@@ -396,7 +395,7 @@ function App() {
 >
 
     {elementPreguntas ? (
-        <PreguntasComponent preguntas={preguntas} />
+        <PreguntasComponent preguntas={preguntas} titulo={titulo_tema}/>
     ) : inicio ? (
         <div>
             <h1>Bienvenido</h1>
