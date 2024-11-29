@@ -1,0 +1,1877 @@
+[
+    {
+        "preguntas": [
+            {
+                "enunciado": "¿Cuál de las siguientes intervenciones es más adecuada para abordar los determinantes sociales de la salud en una comunidad rural?",
+                "opciones": [
+                    "Implementar campañas de vacunación masiva.",
+                    "Construir infraestructura para acceso a agua potable.",
+                    "Capacitar al personal sanitario en atención primaria.",
+                    "Distribuir material educativo sobre enfermedades comunes."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Abordar determinantes sociales de la salud, como el acceso al agua potable, tiene un impacto directo en la calidad de vida y la prevención de enfermedades."
+            },
+            {
+                "enunciado": "¿Qué estrategia educativa es más efectiva para aumentar la adherencia a tratamientos médicos en pacientes crónicos?",
+                "opciones": [
+                    "Utilizar recordatorios electrónicos personalizados.",
+                    "Realizar sesiones grupales sobre los beneficios del tratamiento.",
+                    "Proporcionar descuentos en medicamentos esenciales.",
+                    "Distribuir folletos informativos detallados sobre los tratamientos."
+                ],
+                "correcta": 0,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Los recordatorios electrónicos personalizados han demostrado ser efectivos para aumentar la adherencia, ya que ayudan a mantener el tratamiento presente en la rutina del paciente."
+            },
+            {
+                "enunciado": "En el contexto de la promoción de la salud, ¿qué papel juega la intersectorialidad?",
+                "opciones": [
+                    "Coordinar las acciones de diferentes sectores para abordar los problemas de salud desde múltiples frentes.",
+                    "Garantizar la provisión de servicios médicos gratuitos para toda la población.",
+                    "Desarrollar políticas de salud exclusivamente dentro del sector sanitario.",
+                    "Incrementar la financiación pública para programas de salud preventiva."
+                ],
+                "correcta": 0,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La intersectorialidad implica la colaboración entre sectores como educación, vivienda y transporte para abordar los determinantes sociales de la salud de manera integral."
+            },
+            {
+                "enunciado": "Según el Modelo de Autoeficacia de Bandura, ¿qué estrategia es clave para fortalecer la confianza de las personas en su capacidad para adoptar conductas saludables?",
+                "opciones": [
+                    "Proporcionar información detallada sobre las conductas saludables.",
+                    "Organizar talleres prácticos con simulaciones controladas.",
+                    "Difundir campañas masivas sobre beneficios de la salud.",
+                    "Ofrecer incentivos económicos por la adopción de conductas."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Los talleres prácticos permiten que las personas experimenten y se sientan más seguras sobre su capacidad para implementar conductas saludables."
+            },
+            {
+                "enunciado": "¿Qué criterio es indispensable para priorizar problemas de salud en un diagnóstico comunitario?",
+                "opciones": [
+                    "La percepción de gravedad del problema por parte de los líderes locales.",
+                    "La disponibilidad de recursos para intervenir en el problema.",
+                    "La frecuencia del problema dentro de la comunidad.",
+                    "La facilidad de implementar una solución rápida y económica."
+                ],
+                "correcta": 2,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La frecuencia de un problema en la comunidad es un criterio objetivo y esencial para priorizar la intervención."
+            },
+            {
+                "enunciado": "¿Qué acción fomenta más efectivamente la participación comunitaria en un programa de promoción de la salud?",
+                "opciones": [
+                    "Realizar reuniones informativas con expertos en salud.",
+                    "Involucrar a los miembros de la comunidad en la planificación y ejecución.",
+                    "Proporcionar incentivos económicos por participar en las actividades.",
+                    "Enviar encuestas para recopilar opiniones sobre las necesidades locales."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La participación activa de la comunidad en la planificación y ejecución genera un mayor sentido de pertenencia y compromiso con el programa."
+            },
+            {
+                "enunciado": "¿Qué enfoque es más adecuado para medir el impacto a largo plazo de un programa de educación para la salud?",
+                "opciones": [
+                    "Evaluar el cambio en las tasas de mortalidad relacionadas con el problema abordado.",
+                    "Medir el nivel de satisfacción de los participantes al final del programa.",
+                    "Comparar conocimientos adquiridos entre los participantes antes y después del programa.",
+                    "Realizar observaciones periódicas sobre las conductas de los beneficiarios."
+                ],
+                "correcta": 3,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Las observaciones periódicas permiten identificar si los cambios en las conductas de los beneficiarios se mantienen a largo plazo, lo que refleja un impacto sostenido."
+            },
+            {
+                "enunciado": "¿Qué concepto clave de la educación para la salud resalta la importancia de capacitar a las personas para que tomen decisiones informadas sobre su salud?",
+                "opciones": [
+                    "Accesibilidad a los servicios de salud.",
+                    "Empoderamiento de la comunidad.",
+                    "Promoción de conductas saludables.",
+                    "Gestión integral de la atención."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "El empoderamiento implica dotar a las personas de conocimientos y herramientas para que puedan tomar decisiones autónomas e informadas sobre su salud."
+            },
+            {
+                "enunciado": "¿Qué característica distingue a la promoción de la salud de la prevención de enfermedades?",
+                "opciones": [
+                    "Se enfoca exclusivamente en individuos de alto riesgo.",
+                    "Aborda los determinantes sociales y condiciones estructurales de la salud.",
+                    "Busca la erradicación de enfermedades específicas en la comunidad.",
+                    "Utiliza campañas masivas como principal estrategia de intervención."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La promoción de la salud adopta un enfoque amplio que incluye los determinantes sociales y busca mejorar las condiciones generales de vida, más allá de prevenir enfermedades específicas."
+            },
+            {
+                "enunciado": "¿Qué técnica es más adecuada para recopilar información sobre las prácticas culturales relacionadas con la salud en una comunidad?",
+                "opciones": [
+                    "Realizar entrevistas semiestructuradas con los líderes comunitarios.",
+                    "Aplicar cuestionarios estandarizados en toda la comunidad.",
+                    "Analizar registros históricos y estadísticas de la región.",
+                    "Distribuir material educativo y evaluar las respuestas."
+                ],
+                "correcta": 0,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Las entrevistas semiestructuradas permiten explorar en profundidad las percepciones y prácticas culturales directamente de quienes las viven."
+            }
+        ]
+    },
+    {
+        "preguntas": [
+            {
+                "enunciado": "¿Qué herramienta es más útil para identificar las necesidades de salud percibidas por una comunidad específica?",
+                "opciones": [
+                    "Encuestas de auto-reporte a gran escala.",
+                    "Reuniones comunitarias con dinámicas participativas.",
+                    "Revisión de indicadores de salud pública nacionales.",
+                    "Análisis de tendencias de consumo de servicios médicos locales."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Las reuniones comunitarias permiten captar las necesidades percibidas directamente desde la perspectiva de los miembros de la comunidad, promoviendo un enfoque participativo."
+            },
+            {
+                "enunciado": "En el Modelo de Creencias de Salud, ¿cómo se define la 'susceptibilidad percibida'?",
+                "opciones": [
+                    "El grado de vulnerabilidad que una persona cree tener ante una enfermedad.",
+                    "La percepción de la eficacia de una medida preventiva específica.",
+                    "La probabilidad de que una persona siga las recomendaciones médicas.",
+                    "El nivel de riesgo real determinado por factores clínicos objetivos."
+                ],
+                "correcta": 0,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La susceptibilidad percibida refleja cuán vulnerable se siente una persona frente a una enfermedad, lo cual influye en su disposición para adoptar medidas preventivas."
+            },
+            {
+                "enunciado": "¿Cuál es el principal desafío de implementar programas de educación para la salud en comunidades con diversidad cultural?",
+                "opciones": [
+                    "La falta de infraestructura sanitaria adecuada.",
+                    "La resistencia cultural a los enfoques tradicionales de salud pública.",
+                    "La necesidad de adaptar los mensajes a los valores y creencias locales.",
+                    "El limitado acceso a medios de comunicación masiva."
+                ],
+                "correcta": 2,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Es crucial adaptar los mensajes y estrategias educativas a los valores, creencias y prácticas culturales de la comunidad para asegurar su efectividad."
+            },
+            {
+                "enunciado": "¿Qué indicador es más relevante para medir el éxito de un programa de educación para la salud sobre la prevención del tabaquismo?",
+                "opciones": [
+                    "La reducción en la cantidad de cigarrillos vendidos en la región.",
+                    "El aumento en el número de personas que conocen los riesgos del tabaquismo.",
+                    "El porcentaje de participantes que dejan de fumar tras la intervención.",
+                    "La cantidad de talleres educativos realizados durante el programa."
+                ],
+                "correcta": 2,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "El porcentaje de personas que dejan de fumar es un indicador directo de la efectividad del programa en cambiar conductas relacionadas con el tabaquismo."
+            },
+            {
+                "enunciado": "¿Cuál de los siguientes enfoques es más útil para evaluar el impacto de un programa de prevención de obesidad en escolares?",
+                "opciones": [
+                    "Medir el índice de masa corporal (IMC) promedio antes y después del programa.",
+                    "Analizar las actitudes hacia la comida saludable entre los estudiantes.",
+                    "Monitorear la asistencia a las sesiones educativas del programa.",
+                    "Observar los cambios en la política alimentaria de las escuelas involucradas."
+                ],
+                "correcta": 0,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "El IMC promedio permite evaluar cambios objetivos en el estado físico de los participantes y es un indicador directo del impacto del programa."
+            },
+            {
+                "enunciado": "En la educación para la salud, ¿qué característica define un objetivo bien formulado?",
+                "opciones": [
+                    "Es amplio y permite múltiples interpretaciones.",
+                    "Es específico, medible, alcanzable, relevante y limitado en el tiempo (SMART).",
+                    "Se centra únicamente en aumentar el conocimiento de los participantes.",
+                    "Depende exclusivamente del apoyo financiero externo."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Los objetivos SMART aseguran claridad y viabilidad en la implementación y evaluación de los programas educativos."
+            },
+            {
+                "enunciado": "¿Qué técnica puede ser más efectiva para fomentar la alfabetización en salud en una población con bajos niveles educativos?",
+                "opciones": [
+                    "Distribuir manuales técnicos sobre salud preventiva.",
+                    "Utilizar dramatizaciones y juegos educativos en sesiones comunitarias.",
+                    "Organizar conferencias magistrales impartidas por especialistas.",
+                    "Difundir mensajes de texto con recomendaciones específicas."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Las dramatizaciones y juegos educativos hacen la información más accesible y comprensible, especialmente para poblaciones con bajos niveles educativos."
+            },
+            {
+                "enunciado": "¿Qué elemento es esencial para garantizar la equidad en la educación para la salud?",
+                "opciones": [
+                    "Asegurar la gratuidad de todos los servicios de salud.",
+                    "Adaptar los programas a las necesidades y características de cada grupo.",
+                    "Implementar campañas masivas que lleguen a toda la población.",
+                    "Priorizar los temas de salud más frecuentes a nivel nacional."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La equidad implica adaptar los programas a las necesidades específicas de diferentes grupos, teniendo en cuenta sus contextos y características."
+            },
+            {
+                "enunciado": "¿Qué estrategia es clave para promover conductas saludables en el trabajo con comunidades indígenas?",
+                "opciones": [
+                    "Imponer regulaciones estrictas sobre prácticas no saludables.",
+                    "Respetar y trabajar desde las tradiciones y saberes locales.",
+                    "Centrarse exclusivamente en los problemas de salud más críticos.",
+                    "Proporcionar recursos tecnológicos avanzados para la intervención."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Respetar las tradiciones locales y construir a partir de los saberes indígenas facilita la aceptación y sostenibilidad de las estrategias de promoción de la salud."
+            },
+            {
+                "enunciado": "En el ámbito escolar, ¿cuál es la mejor manera de integrar la educación para la salud en el currículo?",
+                "opciones": [
+                    "Incluir temas de salud como una asignatura separada.",
+                    "Incorporar conceptos de salud en todas las materias del currículo.",
+                    "Proporcionar sesiones esporádicas de educación en salud.",
+                    "Ofrecer programas extracurriculares sobre temas de salud."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Integrar conceptos de salud en diferentes materias permite un abordaje transversal y continuo, aumentando su impacto educativo."
+            },
+            {
+                "enunciado": "¿Qué enfoque es más efectivo para abordar la obesidad infantil desde una perspectiva de promoción de la salud?",
+                "opciones": [
+                    "Prohibir alimentos ultraprocesados en los colegios.",
+                    "Involucrar a las familias en actividades de alimentación y ejercicio.",
+                    "Aumentar la oferta de alimentos saludables en las cafeterías escolares.",
+                    "Realizar campañas publicitarias sobre los peligros de la obesidad."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "La participación activa de las familias garantiza un enfoque integral que aborda tanto los hábitos del hogar como los escolares."
+            },
+            {
+                "enunciado": "¿Qué característica define un mensaje educativo efectivo en un programa de promoción de la salud?",
+                "opciones": [
+                    "Es complejo y basado en evidencias científicas avanzadas.",
+                    "Es breve, claro y relevante para la población objetivo.",
+                    "Utiliza terminología técnica para garantizar precisión.",
+                    "Se centra en advertir sobre riesgos sin ofrecer soluciones."
+                ],
+                "correcta": 1,
+                "categorías": [
+                    "tema31",
+                    "eps"
+                ],
+                "feedback": "Un mensaje educativo debe ser claro, comprensible y directamente relevante para las necesidades y características de la población objetivo."
+            }
+        ]
+    },
+    {
+        "preguntas": [
+          {
+            "enunciado": "En el marco de la Carta de Ottawa, ¿cuál de los siguientes principios promueve la acción comunitaria como un pilar de la promoción de la salud?",
+            "opciones": [
+              "Construir entornos favorables.",
+              "Reorientar los servicios de salud.",
+              "Fortalecer la acción comunitaria.",
+              "Desarrollar habilidades personales."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Fortalecer la acción comunitaria es uno de los pilares de la Carta de Ottawa, destacando la importancia de la participación activa de las comunidades en la promoción de su propia salud."
+          },
+          {
+            "enunciado": "¿Qué indicador sería más relevante para evaluar un programa comunitario de prevención de enfermedades cardiovasculares?",
+            "opciones": [
+              "El número de participantes que asistieron a las sesiones educativas.",
+              "La reducción en la prevalencia de factores de riesgo como el tabaquismo y la obesidad.",
+              "El aumento en la disponibilidad de información sobre enfermedades cardiovasculares.",
+              "La cantidad de materiales informativos distribuidos en la comunidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La reducción de factores de riesgo como el tabaquismo y la obesidad indica un cambio directo en las conductas de la población, reflejando el impacto real del programa."
+          },
+          {
+            "enunciado": "¿Qué estrategia fomenta la sostenibilidad de las intervenciones educativas en salud en contextos rurales?",
+            "opciones": [
+              "Establecer alianzas con líderes locales para la gestión del programa.",
+              "Garantizar un financiamiento constante por parte de organizaciones externas.",
+              "Utilizar tecnologías avanzadas para alcanzar a más personas.",
+              "Priorizar la distribución de información escrita en formato impreso."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La colaboración con líderes locales asegura que las intervenciones sean culturalmente relevantes y aceptadas, lo que aumenta su sostenibilidad a largo plazo."
+          },
+          {
+            "enunciado": "¿Cuál es la principal barrera para la adopción de medidas preventivas en salud en comunidades con bajos niveles socioeconómicos?",
+            "opciones": [
+              "Falta de interés en las actividades educativas.",
+              "Acceso limitado a recursos y servicios básicos.",
+              "Resistencia cultural hacia los cambios de conducta.",
+              "Exceso de información técnica y poco accesible."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El acceso limitado a recursos básicos como atención médica y alimentos saludables dificulta la implementación de medidas preventivas efectivas."
+          },
+          {
+            "enunciado": "¿Qué técnica es más adecuada para evaluar el aprendizaje de los participantes en un taller de educación para la salud?",
+            "opciones": [
+              "Realizar encuestas anónimas al inicio y al final del taller.",
+              "Medir la asistencia a las sesiones del taller.",
+              "Observar cambios en las conductas de los participantes a largo plazo.",
+              "Organizar una discusión grupal inmediatamente después del taller."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Las encuestas pre y post permiten evaluar cambios en los conocimientos y actitudes de manera cuantitativa, ofreciendo datos medibles sobre el impacto del taller."
+          },
+          {
+            "enunciado": "¿Cuál es el enfoque más adecuado para trabajar la prevención de enfermedades de transmisión sexual en adolescentes?",
+            "opciones": [
+              "Impartir conferencias magistrales sobre los riesgos de las ETS.",
+              "Incorporar la educación sexual en el currículo escolar.",
+              "Proporcionar acceso gratuito a métodos anticonceptivos sin contexto educativo.",
+              "Distribuir información escrita sobre las consecuencias de las ETS."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La educación sexual integrada en el currículo permite un aprendizaje continuo y contextualizado, abordando de forma integral la prevención de ETS."
+          },
+          {
+            "enunciado": "¿Qué método es más eficaz para identificar percepciones erróneas sobre la vacunación en una comunidad?",
+            "opciones": [
+              "Analizar estadísticas nacionales sobre cobertura de vacunación.",
+              "Realizar entrevistas abiertas con los miembros de la comunidad.",
+              "Consultar con profesionales de salud sobre las actitudes locales.",
+              "Distribuir encuestas anónimas en los centros de salud."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Las entrevistas abiertas permiten explorar en profundidad las creencias y percepciones erróneas directamente desde la perspectiva de la comunidad."
+          },
+          {
+            "enunciado": "¿Qué estrategia es clave para integrar la perspectiva de género en programas de promoción de la salud?",
+            "opciones": [
+              "Diseñar actividades específicas solo para mujeres.",
+              "Analizar cómo los roles de género afectan la salud de hombres y mujeres.",
+              "Evitar hablar de género para mantener la neutralidad en los programas.",
+              "Proporcionar información sobre salud reproductiva exclusivamente."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La perspectiva de género implica analizar cómo los roles sociales afectan la salud de manera diferenciada y diseñar estrategias inclusivas y equitativas."
+          },
+          {
+            "enunciado": "¿Qué aspecto es fundamental para garantizar el éxito de un programa de prevención de diabetes en una comunidad?",
+            "opciones": [
+              "Proporcionar acceso gratuito a medicamentos para la diabetes.",
+              "Desarrollar estrategias educativas adaptadas a las características locales.",
+              "Implementar una dieta estandarizada para todos los participantes.",
+              "Realizar actividades exclusivamente en centros de salud."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Adaptar las estrategias educativas a las necesidades y contextos locales asegura una mejor aceptación e implementación del programa."
+          },
+          {
+            "enunciado": "En un programa de educación para la salud, ¿qué enfoque pedagógico fomenta la mayor participación activa de los beneficiarios?",
+            "opciones": [
+              "Exposiciones magistrales realizadas por expertos.",
+              "Sesiones interactivas basadas en la resolución de problemas reales.",
+              "Distribución de materiales audiovisuales atractivos.",
+              "Aplicación de evaluaciones individuales al finalizar el programa."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Las sesiones interactivas basadas en problemas reales involucran activamente a los participantes, fomentando el aprendizaje y la aplicación práctica de los conocimientos."
+          },
+          {
+            "enunciado": "¿Qué característica distingue a un programa de promoción de la salud exitoso?",
+            "opciones": [
+              "Se centra en la educación sin considerar otros factores contextuales.",
+              "Adapta sus estrategias a las necesidades específicas de la población objetivo.",
+              "Se implementa exclusivamente en áreas urbanas con mayor acceso a recursos.",
+              "Evita la participación directa de la comunidad para garantizar la profesionalidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La adaptación a las necesidades específicas de la población objetivo permite mayor relevancia, aceptación y efectividad de las estrategias implementadas."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál de las siguientes intervenciones es más efectiva para reducir el riesgo de enfermedades no transmisibles en comunidades urbanas?",
+            "opciones": [
+              "Distribuir folletos educativos sobre estilos de vida saludables.",
+              "Establecer políticas públicas que regulen el acceso a alimentos ultraprocesados.",
+              "Organizar eventos masivos de actividad física en parques públicos.",
+              "Capacitar a profesionales de la salud en prevención primaria."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Las políticas públicas pueden tener un impacto amplio y sostenible al modificar las condiciones estructurales que fomentan hábitos poco saludables."
+          },
+          {
+            "enunciado": "¿Qué enfoque es esencial para prevenir el síndrome metabólico en poblaciones vulnerables?",
+            "opciones": [
+              "Realizar tamizajes masivos para identificar casos de riesgo.",
+              "Diseñar estrategias que combinen educación nutricional y promoción del ejercicio físico.",
+              "Implementar restricciones legales sobre alimentos con alto contenido calórico.",
+              "Ofrecer programas de manejo del estrés exclusivamente en centros urbanos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La combinación de educación nutricional y promoción de la actividad física aborda múltiples factores de riesgo asociados al síndrome metabólico."
+          },
+          {
+            "enunciado": "¿Cuál es la principal ventaja de usar herramientas digitales en programas de educación para la salud?",
+            "opciones": [
+              "Reducen completamente la necesidad de personal humano.",
+              "Permiten alcanzar a una audiencia más amplia y diversa.",
+              "Eliminan la necesidad de material educativo impreso.",
+              "Aseguran un mayor compromiso por parte de los participantes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Las herramientas digitales amplían el alcance de los programas y facilitan el acceso a información de salud en diferentes contextos."
+          },
+          {
+            "enunciado": "¿Qué criterio es prioritario al desarrollar programas de promoción de la salud para adultos mayores?",
+            "opciones": [
+              "Centrarse exclusivamente en la prevención de caídas.",
+              "Promover la interacción social junto con actividades físicas y cognitivas.",
+              "Reducir la carga de información para evitar saturación cognitiva.",
+              "Garantizar el acceso a recursos económicos para tratamientos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La promoción de la interacción social, junto con actividades que estimulen el cuerpo y la mente, mejora la calidad de vida integral de los adultos mayores."
+          },
+          {
+            "enunciado": "¿Qué estrategia es más efectiva para abordar la resistencia a la vacunación en una población?",
+            "opciones": [
+              "Realizar campañas masivas de comunicación que refuten mitos comunes.",
+              "Implementar sanciones legales para quienes no se vacunen.",
+              "Organizar grupos de discusión con líderes comunitarios influyentes.",
+              "Proporcionar incentivos económicos a quienes completen su esquema de vacunación."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Trabajar con líderes comunitarios facilita la aceptación al generar confianza y credibilidad, adaptando los mensajes a las preocupaciones locales."
+          },
+          {
+            "enunciado": "¿Qué factor es clave para evaluar la calidad de un mensaje educativo en salud?",
+            "opciones": [
+              "Que incluya terminología médica avanzada.",
+              "Que sea comprensible, relevante y adaptado al público objetivo.",
+              "Que esté respaldado por múltiples referencias bibliográficas.",
+              "Que se distribuya de manera masiva en redes sociales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Un mensaje educativo debe ser claro, relevante y ajustado a las características del público para ser efectivo."
+          },
+          {
+            "enunciado": "¿Qué modelo teórico enfatiza la importancia de la percepción del costo-beneficio para adoptar conductas saludables?",
+            "opciones": [
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio.",
+              "Modelo de Creencias de Salud.",
+              "Teoría del Aprendizaje Social."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo de Creencias de Salud plantea que las personas adoptan conductas saludables cuando perciben que los beneficios superan los costos o barreras percibidas."
+          },
+          {
+            "enunciado": "En un programa de prevención de la hipertensión, ¿qué indicador sería el más apropiado para medir el impacto a corto plazo?",
+            "opciones": [
+              "La reducción en el promedio de presión arterial de los participantes.",
+              "El número de medicamentos antihipertensivos prescritos en la comunidad.",
+              "El aumento en el conocimiento sobre los factores de riesgo entre los participantes.",
+              "La cantidad de personas inscritas en el programa de prevención."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El conocimiento sobre factores de riesgo es un indicador inicial útil, ya que la modificación de conductas y resultados clínicos suele tomar más tiempo."
+          },
+          {
+            "enunciado": "¿Qué estrategia educativa es más efectiva para trabajar con personas con bajo nivel de alfabetización?",
+            "opciones": [
+              "Usar materiales audiovisuales con mensajes claros y directos.",
+              "Distribuir guías escritas simplificadas con imágenes ilustrativas.",
+              "Realizar talleres presenciales con un enfoque teórico.",
+              "Fomentar la lectura de textos básicos sobre temas de salud."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los materiales audiovisuales son accesibles y comprensibles, lo que facilita la transmisión de mensajes en poblaciones con bajo nivel de alfabetización."
+          },
+          {
+            "enunciado": "En el diseño de un programa de educación en salud, ¿por qué es importante incluir la evaluación de necesidades?",
+            "opciones": [
+              "Permite utilizar únicamente recursos disponibles en el momento.",
+              "Garantiza que el programa se alinee con las prioridades reales de la comunidad.",
+              "Reduce el tiempo necesario para implementar el programa.",
+              "Evita la necesidad de ajustes durante la ejecución del programa."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La evaluación de necesidades asegura que las intervenciones respondan a problemas específicos de la población, aumentando su relevancia y efectividad."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más adecuado para prevenir el estrés laboral en empresas con alta rotación de personal?",
+            "opciones": [
+              "Implementar horarios estrictos y supervisión constante.",
+              "Organizar talleres periódicos sobre manejo del estrés.",
+              "Reducir la carga laboral asignada por empleado.",
+              "Proporcionar servicios de apoyo psicológico solo a supervisores."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los talleres sobre manejo del estrés ofrecen herramientas prácticas y ayudan a crear un ambiente más saludable para los empleados."
+          },
+          {
+            "enunciado": "¿Qué aspecto es clave para diseñar materiales educativos dirigidos a adolescentes?",
+            "opciones": [
+              "Usar un lenguaje técnico para generar credibilidad.",
+              "Incorporar elementos gráficos y dinámicos que capten su atención.",
+              "Centrarse exclusivamente en temas relacionados con la sexualidad.",
+              "Proporcionar información extensa y detallada sobre cada tema."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los elementos gráficos y dinámicos facilitan el interés y la comprensión de los adolescentes, haciendo los materiales más atractivos y efectivos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué método participativo es más adecuado para identificar problemas de salud en una comunidad rural?",
+            "opciones": [
+              "Realizar observaciones sistemáticas en la comunidad.",
+              "Organizar grupos focales con diferentes segmentos de la población.",
+              "Distribuir encuestas en centros de salud cercanos.",
+              "Analizar datos de morbilidad reportados en los hospitales locales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los grupos focales permiten recopilar información detallada y diversa directamente de los miembros de la comunidad, fomentando la participación activa."
+          },
+          {
+            "enunciado": "¿Qué componente es fundamental en la evaluación de un programa de educación en salud para asegurar su efectividad?",
+            "opciones": [
+              "Revisar únicamente los resultados a largo plazo.",
+              "Incorporar indicadores cuantitativos y cualitativos.",
+              "Medir el número de participantes alcanzados por la intervención.",
+              "Utilizar únicamente datos secundarios disponibles."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La combinación de indicadores cuantitativos y cualitativos proporciona una visión más completa sobre el impacto y la aceptación del programa."
+          },
+          {
+            "enunciado": "¿Cuál es el principal beneficio de incluir un enfoque intergeneracional en programas de promoción de la salud?",
+            "opciones": [
+              "Facilita la transferencia de conocimientos tradicionales sobre salud.",
+              "Reduce el costo de las intervenciones al involucrar a más personas.",
+              "Fomenta la creación de actividades diseñadas exclusivamente para niños.",
+              "Promueve una especialización de los mensajes educativos para cada edad."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Un enfoque intergeneracional fomenta el aprendizaje mutuo y la transferencia de conocimientos entre generaciones, fortaleciendo los lazos comunitarios."
+          },
+          {
+            "enunciado": "¿Qué técnica es más adecuada para identificar la disposición al cambio en un grupo objetivo?",
+            "opciones": [
+              "Realizar entrevistas a profundidad con un pequeño grupo representativo.",
+              "Aplicar el modelo transteórico para clasificar a los individuos según su etapa de cambio.",
+              "Utilizar encuestas cerradas con preguntas sobre comportamientos actuales.",
+              "Observar comportamientos directamente en su entorno cotidiano."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El modelo transteórico permite identificar en qué etapa de cambio se encuentra cada persona, ayudando a personalizar las intervenciones educativas."
+          },
+          {
+            "enunciado": "En el contexto de la prevención del VIH, ¿cuál de las siguientes estrategias es más efectiva para abordar los estigmas asociados?",
+            "opciones": [
+              "Difundir campañas educativas masivas sobre la transmisión del VIH.",
+              "Organizar talleres que promuevan el diálogo abierto sobre el tema.",
+              "Proporcionar información técnica en los centros de salud locales.",
+              "Establecer programas obligatorios de pruebas diagnósticas en la comunidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los talleres que fomentan el diálogo abierto ayudan a romper tabúes y reducir los estigmas asociados al VIH al crear un espacio de confianza."
+          },
+          {
+            "enunciado": "¿Qué estrategia de comunicación es más adecuada para transmitir información sobre prevención de desastres naturales?",
+            "opciones": [
+              "Crear aplicaciones móviles que incluyan planes de acción.",
+              "Impartir conferencias técnicas dirigidas a profesionales.",
+              "Distribuir manuales detallados en cada hogar.",
+              "Organizar simulacros comunitarios con acompañamiento educativo."
+            ],
+            "correcta": 3,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los simulacros comunitarios permiten practicar las medidas de prevención de manera participativa y reforzar conocimientos en un entorno realista."
+          },
+          {
+            "enunciado": "¿Qué modelo teórico respalda el uso de incentivos para motivar cambios en conductas de salud?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría del Refuerzo Operante, basada en el trabajo de Skinner, sugiere que los incentivos positivos aumentan la probabilidad de que una conducta deseada se repita."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más apropiado para diseñar un programa de salud mental en adolescentes?",
+            "opciones": [
+              "Promover campañas que resalten las consecuencias negativas de los problemas de salud mental.",
+              "Incorporar actividades de aprendizaje socioemocional en el currículo escolar.",
+              "Fomentar el uso de redes sociales para compartir información sobre salud mental.",
+              "Organizar sesiones educativas dirigidas únicamente a los padres."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El aprendizaje socioemocional integrado en las escuelas permite que los adolescentes desarrollen habilidades para gestionar emociones y relaciones, fortaleciendo su salud mental."
+          },
+          {
+            "enunciado": "¿Qué factor es más importante al planificar una intervención educativa en comunidades migrantes?",
+            "opciones": [
+              "Ofrecer la intervención exclusivamente en el idioma local.",
+              "Adaptar los mensajes educativos a las experiencias culturales y sociales de los migrantes.",
+              "Centrarse únicamente en temas de salud pública generales.",
+              "Proporcionar asistencia económica para mejorar las condiciones de vida."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La adaptación cultural de los mensajes es clave para que los migrantes puedan relacionarse con la información y aplicarla en sus vidas."
+          },
+          {
+            "enunciado": "En la prevención de enfermedades transmitidas por vectores, como el dengue, ¿qué acción es más efectiva para fomentar el cambio de comportamiento en las comunidades?",
+            "opciones": [
+              "Distribuir insecticidas de forma gratuita en la población.",
+              "Realizar campañas visuales sobre la importancia de eliminar criaderos.",
+              "Organizar brigadas comunitarias para eliminar fuentes de agua estancada.",
+              "Proveer tratamiento médico gratuito a quienes contraigan la enfermedad."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La participación activa de las comunidades en la eliminación de criaderos refuerza la concienciación y la acción colectiva frente a las enfermedades transmitidas por vectores."
+          },
+          {
+            "enunciado": "¿Qué estrategia es más adecuada para promover la lactancia materna exclusiva en una comunidad?",
+            "opciones": [
+              "Implementar talleres educativos para madres y familias.",
+              "Distribuir folletos con información técnica sobre lactancia.",
+              "Proporcionar alternativas económicas a la leche de fórmula.",
+              "Ofrecer incentivos económicos a las madres que amamantan."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "Los talleres educativos dirigidos a madres y sus familias fortalecen el conocimiento y apoyo necesario para fomentar la lactancia materna exclusiva."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué modelo teórico sostiene que el comportamiento humano se puede moldear a través de refuerzos positivos o negativos?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría del Refuerzo Operante, desarrollada por B.F. Skinner, establece que los comportamientos pueden ser modificados mediante refuerzos positivos o negativos."
+          },
+          {
+            "enunciado": "¿Cuál de los modelos enfatiza que las creencias sobre la susceptibilidad y gravedad de una enfermedad influyen en la adopción de medidas preventivas?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo de Creencias de Salud plantea que las percepciones de susceptibilidad y gravedad son fundamentales para la toma de decisiones en salud."
+          },
+          {
+            "enunciado": "¿Qué modelo teórico incluye la autoeficacia como un componente central para explicar la adopción de conductas saludables?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría Social Cognitiva, de Albert Bandura, resalta la autoeficacia como un determinante clave para realizar cambios en el comportamiento."
+          },
+          {
+            "enunciado": "¿Qué modelo describe el cambio de comportamiento como un proceso que atraviesa etapas desde la precontemplación hasta el mantenimiento?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 3,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo Transteórico del Cambio explica cómo las personas progresan a través de etapas al adoptar un nuevo comportamiento saludable."
+          },
+          {
+            "enunciado": "¿Qué modelo se centra en el aprendizaje basado en la observación y en cómo el entorno influye en el comportamiento humano?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría Social Cognitiva se basa en la observación y aprendizaje vicario, destacando cómo el entorno y los modelos sociales influyen en el comportamiento."
+          },
+          {
+            "enunciado": "Según este modelo, las barreras percibidas pueden impedir que las personas adopten conductas saludables, incluso cuando reconocen su susceptibilidad a una enfermedad.",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo de Creencias de Salud identifica las barreras percibidas como factores que pueden limitar la adopción de comportamientos preventivos."
+          },
+          {
+            "enunciado": "¿Qué modelo plantea que los reforzadores y castigos son esenciales para aumentar o disminuir la probabilidad de que un comportamiento ocurra nuevamente?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría del Refuerzo Operante utiliza los conceptos de refuerzos y castigos para explicar y modificar comportamientos."
+          },
+          {
+            "enunciado": "Este modelo explica que las personas pueden permanecer en una etapa específica durante un tiempo prolongado antes de avanzar hacia el cambio de comportamiento.",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 3,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo Transteórico del Cambio identifica etapas como la precontemplación y contemplación, donde las personas pueden permanecer antes de actuar."
+          },
+          {
+            "enunciado": "¿Qué modelo utiliza la expectativa de resultados como un factor clave para predecir la probabilidad de que una persona adopte un comportamiento?",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps"],
+            "feedback": "La Teoría Social Cognitiva incluye la expectativa de resultados, es decir, la creencia de que un comportamiento conducirá a un resultado deseado."
+          },
+          {
+            "enunciado": "Según este modelo, un individuo evalúa los costos y beneficios antes de decidir adoptar una conducta de salud.",
+            "opciones": [
+              "Teoría del Refuerzo Operante.",
+              "Modelo de Creencias de Salud.",
+              "Teoría Social Cognitiva.",
+              "Modelo Transteórico del Cambio."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps"],
+            "feedback": "El Modelo de Creencias de Salud postula que las personas consideran los costos y beneficios percibidos al decidir adoptar conductas saludables."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué se entiende por determinantes sociales de la salud según la Organización Mundial de la Salud (OMS)?",
+            "opciones": [
+              "Factores genéticos que afectan la salud de una persona.",
+              "Factores relacionados con el acceso a servicios de salud y estilos de vida individuales.",
+              "Condiciones en las que las personas nacen, crecen, trabajan, viven y envejecen, incluyendo los sistemas de salud.",
+              "Las enfermedades más comunes que afectan a las comunidades desfavorecidas."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Los determinantes sociales de la salud incluyen las condiciones sociales, económicas y ambientales que influyen en el bienestar de las personas a lo largo de su vida."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes NO es un determinante social de la salud?",
+            "opciones": [
+              "Educación y nivel de alfabetización.",
+              "Acceso a agua potable y saneamiento.",
+              "El código genético individual.",
+              "Condiciones laborales y empleo."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Si bien los factores genéticos son importantes, no forman parte de los determinantes sociales de la salud, que se centran en condiciones sociales y ambientales."
+          },
+          {
+            "enunciado": "¿Qué factor se considera un determinante social estructural de la salud?",
+            "opciones": [
+              "La disponibilidad de alimentos saludables.",
+              "El nivel socioeconómico de una persona.",
+              "La capacidad de una persona para realizar ejercicio físico.",
+              "La genética de una población específica."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "El nivel socioeconómico es un determinante estructural, ya que influye en el acceso a recursos, educación y oportunidades, afectando indirectamente otros determinantes intermedios."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más adecuado para abordar los determinantes sociales de la salud en una comunidad vulnerable?",
+            "opciones": [
+              "Promover el autocuidado individual con recursos disponibles.",
+              "Implementar políticas públicas que reduzcan desigualdades sociales.",
+              "Incentivar cambios en los estilos de vida sin considerar el contexto.",
+              "Aumentar la inversión en investigación médica avanzada."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Las políticas públicas orientadas a reducir desigualdades sociales son esenciales para abordar las raíces de las inequidades en salud relacionadas con los determinantes sociales."
+          },
+          {
+            "enunciado": "¿Qué papel juega la educación como determinante social de la salud?",
+            "opciones": [
+              "Es un factor indirecto que influye poco en el acceso a servicios de salud.",
+              "Tiene impacto únicamente en la infancia y adolescencia.",
+              "Determina en gran medida las oportunidades laborales y económicas de una persona.",
+              "Solo afecta la capacidad de tomar decisiones sobre la salud en adultos."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "La educación afecta el empleo, los ingresos y el acceso a recursos, influyendo directamente en las condiciones de vida y el bienestar general."
+          },
+          {
+            "enunciado": "¿Qué determinante social de la salud se relaciona con la calidad del entorno en el que viven las personas?",
+            "opciones": [
+              "Infraestructura y transporte.",
+              "Condiciones de vivienda y saneamiento.",
+              "Acceso a la atención médica especializada.",
+              "Redes sociales y apoyo comunitario."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Las condiciones de vivienda y saneamiento son determinantes clave que impactan directamente la salud al influir en la exposición a riesgos y enfermedades."
+          },
+          {
+            "enunciado": "¿Cómo influyen las condiciones laborales como determinantes sociales de la salud?",
+            "opciones": [
+              "Solo afectan a la salud física de los trabajadores.",
+              "Impactan tanto la salud física como mental a través del estrés, la exposición a riesgos y las oportunidades de desarrollo.",
+              "Son irrelevantes si el individuo tiene acceso a servicios de salud gratuitos.",
+              "Están exclusivamente vinculadas con accidentes laborales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Las condiciones laborales afectan tanto la salud física como mental, influyendo en el bienestar general y en la calidad de vida de los trabajadores."
+          },
+          {
+            "enunciado": "¿Qué medida es más efectiva para reducir las inequidades en salud relacionadas con los determinantes sociales?",
+            "opciones": [
+              "Proveer acceso universal a servicios médicos.",
+              "Implementar políticas que mejoren el acceso a educación y empleo digno.",
+              "Aumentar la inversión en tecnología médica avanzada.",
+              "Ofrecer incentivos económicos a las comunidades más pobres."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Las políticas que mejoran el acceso a educación y empleo digno atacan las raíces de las inequidades, creando un impacto sostenible en los determinantes sociales."
+          },
+          {
+            "enunciado": "¿Qué determinante social puede influir directamente en la esperanza de vida de una población?",
+            "opciones": [
+              "El acceso a actividades recreativas.",
+              "El ingreso económico promedio de las familias.",
+              "La preferencia por ciertos alimentos.",
+              "La calidad de la infraestructura hospitalaria local."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "El ingreso económico promedio impacta la capacidad de las familias para acceder a alimentación, vivienda y salud, influyendo directamente en la esperanza de vida."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más adecuado para promover la equidad en salud en comunidades desfavorecidas?",
+            "opciones": [
+              "Incrementar la capacitación de los profesionales de salud.",
+              "Abordar los determinantes sociales mediante políticas multisectoriales.",
+              "Proveer medicamentos gratuitos a toda la población.",
+              "Fomentar campañas masivas sobre estilos de vida saludables."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Abordar los determinantes sociales de manera multisectorial permite actuar sobre las causas profundas de las desigualdades en salud."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué característica define a los determinantes sociales intermedios de la salud?",
+            "opciones": [
+              "Están relacionados con las desigualdades en ingresos y poder político.",
+              "Se refieren a las condiciones materiales de vida como vivienda y empleo.",
+              "Incluyen únicamente factores relacionados con el acceso a servicios médicos.",
+              "Son factores exclusivamente biológicos que afectan la salud."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Los determinantes sociales intermedios abarcan las condiciones materiales de vida, como el empleo, la vivienda y el acceso a recursos básicos."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes sería un ejemplo de un determinante social estructural?",
+            "opciones": [
+              "La calidad del agua potable disponible en una comunidad.",
+              "El nivel de desigualdad económica en un país.",
+              "Las oportunidades para realizar actividad física en un barrio.",
+              "El acceso a servicios de salud de bajo costo."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "La desigualdad económica es un determinante estructural porque influye en múltiples condiciones sociales y de salud, afectando a toda la población."
+          },
+          {
+            "enunciado": "¿Qué sector, además del sanitario, tiene un impacto significativo en los determinantes sociales de la salud?",
+            "opciones": [
+              "El sector del entretenimiento.",
+              "El sector educativo.",
+              "El sector de la industria tecnológica.",
+              "El sector financiero privado."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "El sector educativo influye directamente en la salud al mejorar el acceso a conocimientos, habilidades y oportunidades que impactan en el bienestar general."
+          },
+          {
+            "enunciado": "¿Cómo afectan las redes sociales y el apoyo comunitario a la salud de una persona?",
+            "opciones": [
+              "Promueven la competencia entre individuos, lo que mejora la productividad.",
+              "Proveen apoyo emocional, práctico y recursos que reducen el estrés y mejoran el bienestar.",
+              "Sustituyen completamente la necesidad de servicios médicos formales.",
+              "Aumentan la dependencia de los servicios de salud debido a la desinformación."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Las redes sociales y el apoyo comunitario mejoran el bienestar emocional y físico, actuando como amortiguadores frente al estrés y las adversidades."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes factores relacionados con la infancia es un determinante social crítico para la salud futura?",
+            "opciones": [
+              "El acceso temprano a tratamientos médicos complejos.",
+              "La exposición a entornos seguros y estimulantes durante el desarrollo.",
+              "La predisposición genética a enfermedades crónicas.",
+              "El uso de tecnología educativa avanzada desde la primera infancia."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Un entorno seguro y estimulante durante la infancia sienta las bases para un desarrollo saludable, afectando la salud física, mental y social en el futuro."
+          },
+          {
+            "enunciado": "¿Qué estrategia es más efectiva para reducir las inequidades en el acceso a servicios de salud en zonas rurales?",
+            "opciones": [
+              "Aumentar el número de hospitales en las áreas urbanas cercanas.",
+              "Fortalecer los servicios de atención primaria con un enfoque comunitario.",
+              "Implementar campañas educativas masivas sobre salud preventiva.",
+              "Reducir los costos de los medicamentos esenciales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Fortalecer la atención primaria en zonas rurales mejora el acceso a servicios básicos, abordando las desigualdades en salud de manera directa y sostenible."
+          },
+          {
+            "enunciado": "¿Qué indicador es más útil para medir los efectos de los determinantes sociales en la salud de una población?",
+            "opciones": [
+              "El índice de natalidad de la región.",
+              "La tasa de alfabetización y acceso a la educación.",
+              "El promedio de consultas médicas realizadas por habitante.",
+              "La cantidad de hospitales por cada mil habitantes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "La tasa de alfabetización es un indicador clave, ya que la educación influye directamente en el acceso a recursos, la adopción de conductas saludables y la capacidad de tomar decisiones informadas."
+          },
+          {
+            "enunciado": "¿Qué impacto tiene la pobreza como determinante social de la salud?",
+            "opciones": [
+              "Incrementa la resiliencia de las personas frente a enfermedades.",
+              "Limita el acceso a recursos esenciales como alimentación, vivienda y atención médica.",
+              "Mejora la cohesión social al promover la cooperación en comunidades desfavorecidas.",
+              "No tiene un impacto directo en los resultados de salud si hay acceso a servicios gratuitos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "La pobreza afecta negativamente la salud al restringir el acceso a recursos esenciales, exponiendo a las personas a mayores riesgos y peores resultados en salud."
+          },
+          {
+            "enunciado": "¿Qué acción es fundamental para abordar los determinantes sociales en comunidades urbanas marginales?",
+            "opciones": [
+              "Construir hospitales con tecnología avanzada en las áreas cercanas.",
+              "Implementar programas de mejoramiento de vivienda y acceso a agua potable.",
+              "Distribuir información técnica sobre enfermedades comunes.",
+              "Aumentar la formación académica del personal médico local."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "La mejora de las condiciones de vivienda y acceso a servicios básicos como agua potable aborda directamente los determinantes sociales que afectan a las comunidades marginales."
+          },
+          {
+            "enunciado": "¿Por qué los determinantes sociales de la salud son fundamentales para la planificación de políticas públicas?",
+            "opciones": [
+              "Permiten identificar las principales causas genéticas de las enfermedades.",
+              "Proveen un marco para diseñar políticas que reduzcan las desigualdades y mejoren el bienestar general.",
+              "Se enfocan exclusivamente en las enfermedades más frecuentes en cada región.",
+              "Permiten priorizar el gasto en tecnologías médicas avanzadas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
+            "feedback": "Los determinantes sociales ayudan a diseñar políticas que aborden las desigualdades estructurales, promoviendo un impacto positivo y equitativo en la salud de la población."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál de las siguientes estrategias educativas es más efectiva para promover hábitos saludables en niños en edad escolar?",
+            "opciones": [
+              "Impartir clases magistrales sobre nutrición y actividad física.",
+              "Diseñar actividades prácticas como huertos escolares y juegos activos.",
+              "Distribuir folletos informativos para los padres.",
+              "Implementar sanciones para quienes no sigan las normas de alimentación saludable."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Las actividades prácticas como los huertos escolares combinan aprendizaje activo y hábitos saludables, generando un impacto positivo en los niños."
+          },
+          {
+            "enunciado": "¿Qué intervención es más efectiva para prevenir el estrés laboral en una empresa?",
+            "opciones": [
+              "Reducir las horas de trabajo sin modificar las condiciones laborales.",
+              "Ofrecer talleres regulares sobre manejo del estrés y bienestar emocional.",
+              "Prohibir el uso de dispositivos electrónicos durante las pausas laborales.",
+              "Aumentar los controles de desempeño para mejorar la productividad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Los talleres sobre manejo del estrés ayudan a los empleados a identificar y gestionar sus emociones, mejorando su bienestar general y su desempeño laboral."
+          },
+          {
+            "enunciado": "¿Cuál es un elemento clave en los programas de salud comunitaria para fomentar la participación activa de los miembros?",
+            "opciones": [
+              "Proveer incentivos económicos por asistir a las actividades.",
+              "Involucrar a los líderes comunitarios en la planificación y ejecución.",
+              "Diseñar actividades que se desarrollen exclusivamente en centros urbanos.",
+              "Utilizar terminología técnica en los mensajes educativos para aumentar su credibilidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Involucrar a los líderes comunitarios garantiza que las actividades sean culturalmente relevantes y aceptadas por la comunidad, fomentando la participación activa."
+          },
+          {
+            "enunciado": "¿Qué barrera es más común en el acceso a servicios de salud para comunidades migrantes?",
+            "opciones": [
+              "Falta de conocimiento sobre enfermedades comunes.",
+              "Dificultades para adaptarse a los horarios de atención médica.",
+              "Barreras lingüísticas y culturales que limitan la comunicación efectiva.",
+              "Costos altos de transporte hacia los centros de salud urbanos."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Las barreras lingüísticas y culturales son obstáculos frecuentes para que las comunidades migrantes accedan a servicios de salud, afectando la calidad de la atención."
+          },
+          {
+            "enunciado": "¿Qué medida puede mejorar la ergonomía en un ambiente de trabajo de oficina?",
+            "opciones": [
+              "Aumentar la duración de las jornadas laborales para cumplir con los objetivos.",
+              "Proporcionar sillas ajustables y escritorios a la altura adecuada.",
+              "Reducir las pausas laborales para mantener la concentración.",
+              "Implementar actividades físicas obligatorias fuera del horario de trabajo."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La ergonomía adecuada, como el uso de sillas ajustables, ayuda a prevenir problemas musculoesqueléticos y mejora la productividad de los empleados."
+          },
+          {
+            "enunciado": "¿Qué estrategia es clave para promover la salud mental en el contexto escolar?",
+            "opciones": [
+              "Establecer campañas de prevención exclusivamente para los estudiantes con problemas visibles.",
+              "Integrar el aprendizaje socioemocional en el currículo escolar.",
+              "Priorizar la evaluación del desempeño académico sobre el bienestar emocional.",
+              "Implementar políticas disciplinarias estrictas para fomentar la responsabilidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "El aprendizaje socioemocional enseña habilidades para gestionar emociones, establecer relaciones positivas y tomar decisiones responsables, promoviendo la salud mental."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más efectivo para fomentar el empoderamiento en programas de salud comunitaria?",
+            "opciones": [
+              "Diseñar intervenciones que sean planificadas únicamente por expertos en salud.",
+              "Promover la formación de comités locales que lideren las acciones de salud.",
+              "Establecer metas estrictas sin consultar a los miembros de la comunidad.",
+              "Centrarse exclusivamente en la entrega de información técnica y recursos materiales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La formación de comités locales facilita el empoderamiento al permitir que la comunidad participe activamente en la toma de decisiones y ejecución de las acciones."
+          },
+          {
+            "enunciado": "¿Qué estrategia puede facilitar la integración cultural de los migrantes en los servicios de salud?",
+            "opciones": [
+              "Proporcionar materiales educativos traducidos y adaptados a su cultura.",
+              "Solicitar que aprendan el idioma local antes de recibir atención médica.",
+              "Diseñar servicios de salud basados exclusivamente en estándares universales.",
+              "Implementar campañas que promuevan la asimilación cultural completa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Proveer materiales educativos traducidos y culturalmente adaptados ayuda a que los migrantes comprendan mejor la información y se sientan incluidos en los servicios de salud."
+          },
+          {
+            "enunciado": "¿Qué aspecto es clave en un programa de promoción de la salud laboral?",
+            "opciones": [
+              "Centrarse únicamente en la productividad empresarial.",
+              "Promover un equilibrio entre la vida laboral y personal.",
+              "Reducir la interacción entre los empleados para evitar conflictos.",
+              "Imponer horarios estrictos para optimizar las tareas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "El equilibrio entre la vida laboral y personal mejora la salud mental y física de los trabajadores, aumentando su bienestar y productividad."
+          },
+          {
+            "enunciado": "¿Qué rol juega la colaboración intersectorial en la promoción de la salud escolar?",
+            "opciones": [
+              "Garantizar que solo los docentes sean responsables de las actividades de salud.",
+              "Facilitar recursos y apoyo de sectores como salud, educación y comunidad.",
+              "Centrarse exclusivamente en la provisión de alimentos saludables en las escuelas.",
+              "Asegurar que las actividades se limiten a campañas internas del colegio."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La colaboración intersectorial asegura un enfoque integral, combinando esfuerzos de salud, educación y comunidad para promover el bienestar en el entorno escolar."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué estrategia es más efectiva para reducir el ausentismo laboral relacionado con el estrés?",
+            "opciones": [
+              "Establecer un programa de pausas activas y manejo del estrés.",
+              "Aumentar las metas laborales para mejorar la productividad.",
+              "Proporcionar capacitación técnica sin abordar temas de salud mental.",
+              "Imponer sanciones por días de ausencia injustificados."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Las pausas activas y programas de manejo del estrés ayudan a prevenir el agotamiento y mejoran la salud mental, reduciendo el ausentismo laboral."
+          },
+          {
+            "enunciado": "¿Qué elemento es fundamental para un programa escolar que promueva una alimentación saludable?",
+            "opciones": [
+              "Proveer alimentos saludables sin acompañamiento educativo.",
+              "Involucrar a estudiantes, docentes y familias en actividades como menús participativos.",
+              "Imponer sanciones a los estudiantes que consuman alimentos ultraprocesados.",
+              "Distribuir únicamente materiales impresos sobre nutrición."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Involucrar a todos los actores escolares fomenta un cambio cultural hacia hábitos alimenticios saludables, promoviendo una mayor adherencia a las prácticas."
+          },
+          {
+            "enunciado": "¿Qué acción comunitaria es clave para fortalecer la salud pública en áreas rurales?",
+            "opciones": [
+              "Centralizar los servicios médicos en áreas urbanas cercanas.",
+              "Capacitar promotores de salud locales para realizar intervenciones comunitarias.",
+              "Limitar los programas de salud a campañas de vacunación periódicas.",
+              "Utilizar exclusivamente telemedicina para consultas en comunidades."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La capacitación de promotores de salud locales permite atender necesidades específicas de la comunidad, mejorando el acceso y la calidad de las intervenciones."
+          },
+          {
+            "enunciado": "En el contexto de salud laboral, ¿qué característica tiene una política efectiva de prevención de riesgos?",
+            "opciones": [
+              "Se enfoca exclusivamente en accidentes laborales graves.",
+              "Integra la evaluación de riesgos psicosociales, físicos y organizativos.",
+              "Se centra únicamente en proporcionar equipos de protección personal.",
+              "Aplica sanciones estrictas a los empleados que incumplan las normas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Una política integral aborda riesgos psicosociales, físicos y organizativos, promoviendo un entorno laboral seguro y saludable para todos los empleados."
+          },
+          {
+            "enunciado": "¿Qué intervención es más efectiva para promover el acceso a servicios de salud en comunidades migrantes?",
+            "opciones": [
+              "Ofrecer servicios con horarios flexibles y personal multilingüe.",
+              "Exigir documentación completa antes de acceder a los servicios.",
+              "Centralizar los servicios de salud en áreas de alta densidad migratoria.",
+              "Proveer información exclusivamente en formato digital."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Los servicios con horarios flexibles y personal multilingüe eliminan barreras lingüísticas y prácticas, mejorando el acceso a la atención médica para los migrantes."
+          },
+          {
+            "enunciado": "¿Qué estrategia puede mejorar la implementación de programas de salud escolar en comunidades con recursos limitados?",
+            "opciones": [
+              "Colaborar con organizaciones locales y ONG para maximizar recursos.",
+              "Implementar únicamente intervenciones virtuales para reducir costos.",
+              "Concentrar los programas en escuelas con mejor infraestructura.",
+              "Proveer materiales educativos sin actividades prácticas."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La colaboración con organizaciones locales y ONG asegura la movilización de recursos y conocimientos, aumentando la viabilidad de los programas en comunidades desfavorecidas."
+          },
+          {
+            "enunciado": "En salud comunitaria, ¿qué técnica promueve el empoderamiento local?",
+            "opciones": [
+              "Imponer programas diseñados por especialistas externos.",
+              "Fomentar el diálogo participativo para identificar necesidades y soluciones.",
+              "Establecer metas estrictas sin consulta comunitaria.",
+              "Proveer información técnica sin considerar las dinámicas sociales locales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "El diálogo participativo facilita que la comunidad identifique y priorice sus propias necesidades, lo que refuerza el empoderamiento y la apropiación de las acciones."
+          },
+          {
+            "enunciado": "¿Qué rol tiene la ergonomía en la prevención de problemas de salud en trabajos físicamente exigentes?",
+            "opciones": [
+              "Se centra exclusivamente en la comodidad del trabajador.",
+              "Reduce el riesgo de lesiones musculoesqueléticas y mejora la productividad.",
+              "Evita el uso de equipos especializados en el entorno laboral.",
+              "Promueve únicamente el cumplimiento de estándares legales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "La ergonomía mejora la seguridad y el confort de los trabajadores, reduciendo el riesgo de lesiones musculoesqueléticas y aumentando su eficiencia laboral."
+          },
+          {
+            "enunciado": "¿Cuál es el objetivo principal de integrar programas de aprendizaje socioemocional en las escuelas?",
+            "opciones": [
+              "Mejorar exclusivamente el rendimiento académico de los estudiantes.",
+              "Fomentar habilidades para la gestión emocional y relaciones interpersonales positivas.",
+              "Reemplazar las actividades recreativas por sesiones de aprendizaje técnico.",
+              "Aumentar la cantidad de evaluaciones psicológicas en el entorno escolar."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "El aprendizaje socioemocional fortalece habilidades clave para la gestión de emociones, la resolución de conflictos y la construcción de relaciones saludables."
+          },
+          {
+            "enunciado": "¿Qué enfoque es más efectivo para abordar el estrés en trabajadores de atención al cliente?",
+            "opciones": [
+              "Proveer entrenamientos regulares en manejo de emociones y atención al público.",
+              "Reducir el tiempo de interacción con los clientes para evitar conflictos.",
+              "Imponer metas estrictas para mejorar la eficiencia.",
+              "Limitar las oportunidades de comunicación entre los empleados para evitar distracciones."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "eps_grupos_específicos"],
+            "feedback": "Los entrenamientos en manejo de emociones ayudan a los trabajadores a gestionar el estrés derivado de la interacción constante con clientes, mejorando su bienestar y desempeño."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué indicador sería más adecuado para evaluar el impacto de un programa de salud destinado a reducir la obesidad infantil?",
+            "opciones": [
+              "El porcentaje de niños que completaron las sesiones educativas.",
+              "La disminución del índice de masa corporal promedio entre los participantes.",
+              "El número de folletos informativos distribuidos en las escuelas.",
+              "La cantidad de horas dedicadas al diseño del programa."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La disminución del índice de masa corporal (IMC) es un indicador directo y medible del impacto del programa en la salud física de los participantes."
+          },
+          {
+            "enunciado": "En un programa de promoción de la actividad física, ¿cuál sería un ejemplo de un indicador cualitativo para evaluar su éxito?",
+            "opciones": [
+              "El número de sesiones realizadas durante el programa.",
+              "El nivel de satisfacción de los participantes con las actividades.",
+              "El aumento en la asistencia a las sesiones de actividad física.",
+              "La reducción en los casos reportados de enfermedades relacionadas con el sedentarismo."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El nivel de satisfacción de los participantes es un indicador cualitativo que evalúa las percepciones y experiencias de quienes participaron en el programa."
+          },
+          {
+            "enunciado": "¿Qué característica define a un indicador de sostenibilidad en programas de salud?",
+            "opciones": [
+              "Permite medir el impacto inmediato del programa en los participantes.",
+              "Evalúa si las actividades y beneficios pueden mantenerse a largo plazo.",
+              "Se enfoca únicamente en la cantidad de recursos financieros utilizados.",
+              "Se basa en la opinión de los responsables del programa sin involucrar a los beneficiarios."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Un indicador de sostenibilidad evalúa si los resultados y actividades del programa pueden continuar una vez que finalice el apoyo externo."
+          },
+          {
+            "enunciado": "En la evaluación de un programa de vacunación, ¿qué método cuantitativo sería más útil?",
+            "opciones": [
+              "Realizar entrevistas abiertas con las familias de los niños vacunados.",
+              "Analizar el porcentaje de cobertura de vacunación alcanzado en la población objetivo.",
+              "Organizar grupos focales para entender las percepciones sobre las vacunas.",
+              "Estudiar las experiencias de los trabajadores de salud que aplicaron las vacunas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El análisis de la cobertura de vacunación proporciona datos cuantitativos claros sobre el alcance del programa en la población objetivo."
+          },
+          {
+            "enunciado": "En un estudio de caso sobre la implementación de un programa de salud comunitaria, ¿qué aspecto debería destacarse para identificar mejores prácticas?",
+            "opciones": [
+              "La cantidad de recursos financieros empleados en el programa.",
+              "Las estrategias que lograron mayor aceptación y participación comunitaria.",
+              "Los desafíos logísticos que enfrentaron los gestores del programa.",
+              "El número total de reuniones realizadas durante la implementación."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Identificar las estrategias exitosas permite replicarlas en otros contextos y mejorar la efectividad de programas similares en el futuro."
+          },
+          {
+            "enunciado": "¿Qué método cualitativo sería más apropiado para evaluar la percepción de los beneficiarios sobre un programa de salud mental?",
+            "opciones": [
+              "Aplicar una encuesta estructurada con preguntas cerradas.",
+              "Realizar entrevistas a profundidad con los participantes.",
+              "Analizar los registros de asistencia al programa.",
+              "Calcular el costo por beneficiario del programa."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las entrevistas a profundidad permiten explorar en detalle las percepciones, experiencias y opiniones de los participantes sobre el programa."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes sería un ejemplo de un indicador de impacto a largo plazo de un programa de prevención del tabaquismo?",
+            "opciones": [
+              "El número de sesiones educativas realizadas.",
+              "El porcentaje de participantes que dejaron de fumar y se mantuvieron sin recaídas a lo largo de un año.",
+              "El nivel de conocimiento adquirido por los participantes sobre los riesgos del tabaco.",
+              "La cantidad de recursos invertidos en materiales educativos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El porcentaje de participantes que dejaron de fumar y se mantuvieron sin recaídas mide el éxito del programa en generar un cambio sostenido en el comportamiento."
+          },
+          {
+            "enunciado": "En la evaluación de un programa de alimentación saludable, ¿qué indicador podría medir la sostenibilidad del impacto del programa?",
+            "opciones": [
+              "El cambio en los hábitos alimenticios de los participantes después de seis meses.",
+              "La cantidad de talleres educativos realizados durante el programa.",
+              "El costo total del programa dividido entre el número de beneficiarios.",
+              "El nivel de satisfacción inmediata de los participantes al finalizar el programa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El cambio en los hábitos alimenticios después de seis meses evalúa si los beneficios del programa persisten a mediano y largo plazo."
+          },
+          {
+            "enunciado": "¿Qué herramienta es más útil para analizar los datos recolectados durante la evaluación de un programa de salud?",
+            "opciones": [
+              "Estadísticas descriptivas para interpretar los datos cuantitativos.",
+              "Redes sociales para difundir los resultados del programa.",
+              "Reuniones con expertos para validar exclusivamente los hallazgos cualitativos.",
+              "Simulaciones informáticas para prever el futuro impacto del programa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las estadísticas descriptivas son fundamentales para analizar patrones y tendencias en los datos cuantitativos recolectados durante la evaluación."
+          },
+          {
+            "enunciado": "En la evaluación de programas de salud, ¿qué característica tiene un indicador SMART?",
+            "opciones": [
+              "Es específico, medible, alcanzable, relevante y limitado en el tiempo.",
+              "Se basa únicamente en observaciones subjetivas de los participantes.",
+              "Evalúa exclusivamente los resultados inmediatos del programa.",
+              "Proporciona datos amplios y generales sin necesidad de análisis detallado."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Un indicador SMART asegura claridad, relevancia y viabilidad, facilitando el seguimiento y la medición efectiva de los resultados del programa."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué indicador de sostenibilidad puede medir el éxito a largo plazo de un programa de salud comunitaria?",
+            "opciones": [
+              "El nivel de compromiso de los líderes comunitarios después de la finalización del programa.",
+              "El número total de beneficiarios alcanzados durante el programa.",
+              "La cantidad de materiales educativos distribuidos en la comunidad.",
+              "La reducción en los costos operativos del programa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El compromiso continuo de los líderes comunitarios asegura que las actividades del programa se mantengan activas después de la intervención externa."
+          },
+          {
+            "enunciado": "En un programa de prevención de enfermedades infecciosas, ¿qué método cualitativo puede complementar la evaluación de los resultados?",
+            "opciones": [
+              "Análisis de encuestas estructuradas con preguntas cerradas.",
+              "Entrevistas con trabajadores de salud para evaluar la percepción de los desafíos.",
+              "Cálculo del costo por intervención implementada.",
+              "Revisión de estadísticas nacionales sobre enfermedades infecciosas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las entrevistas con trabajadores de salud proporcionan información cualitativa valiosa sobre los desafíos y el impacto percibido del programa."
+          },
+          {
+            "enunciado": "¿Qué herramienta de análisis es ideal para evaluar el impacto financiero de un programa de salud?",
+            "opciones": [
+              "El análisis costo-beneficio, que compara los gastos con los beneficios generados.",
+              "Grupos focales para evaluar las percepciones de los participantes.",
+              "Estadísticas descriptivas de la población objetivo.",
+              "Encuestas abiertas aplicadas a los beneficiarios."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El análisis costo-beneficio permite determinar si los beneficios económicos generados por el programa superan los costos de implementación."
+          },
+          {
+            "enunciado": "En un estudio de caso sobre un programa de promoción de la salud en escuelas, ¿qué dato es clave para evaluar su efectividad?",
+            "opciones": [
+              "La frecuencia de las actividades deportivas realizadas por los estudiantes.",
+              "El aumento en el conocimiento sobre nutrición saludable entre los estudiantes.",
+              "El número de docentes capacitados en salud escolar.",
+              "La duración total de las sesiones de educación en salud."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El aumento en el conocimiento sobre nutrición saludable indica si el programa logró su objetivo educativo principal."
+          },
+          {
+            "enunciado": "¿Qué método es más útil para medir la satisfacción de los participantes en un programa de salud mental?",
+            "opciones": [
+              "Aplicar una encuesta de satisfacción al finalizar el programa.",
+              "Medir la asistencia total a las sesiones del programa.",
+              "Calcular el costo por sesión del programa.",
+              "Revisar los cambios en las estadísticas de salud mental de la región."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las encuestas de satisfacción brindan información directa sobre las percepciones y experiencias de los participantes, cruciales para mejorar futuros programas."
+          },
+          {
+            "enunciado": "¿Qué enfoque es clave para garantizar que un programa de salud sea evaluado de manera integral?",
+            "opciones": [
+              "Utilizar solo métodos cuantitativos para obtener datos objetivos.",
+              "Combinar métodos cualitativos y cuantitativos para capturar diferentes perspectivas.",
+              "Enfocarse exclusivamente en indicadores de impacto económico.",
+              "Limitar la evaluación a los resultados inmediatos observados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La combinación de métodos cualitativos y cuantitativos proporciona una visión integral de los resultados, considerando tanto datos numéricos como experiencias subjetivas."
+          },
+          {
+            "enunciado": "En un programa para aumentar la actividad física en adultos mayores, ¿qué indicador podría usarse para medir su impacto?",
+            "opciones": [
+              "El número de personas que se inscribieron en las actividades.",
+              "La reducción en el uso de medicamentos relacionados con enfermedades crónicas.",
+              "La cantidad de sesiones de actividad física organizadas.",
+              "El costo total de los equipos utilizados en las sesiones."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La reducción en el uso de medicamentos puede ser un indicador indirecto pero efectivo del impacto positivo de la actividad física en la salud de los adultos mayores."
+          },
+          {
+            "enunciado": "¿Qué tipo de evaluación es más apropiada para medir los resultados inmediatos de un programa de salud?",
+            "opciones": [
+              "Evaluación formativa durante el diseño del programa.",
+              "Evaluación de proceso para analizar la implementación.",
+              "Evaluación de resultados para medir los cambios alcanzados.",
+              "Evaluación de impacto a largo plazo."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La evaluación de resultados mide los efectos inmediatos o a corto plazo, como cambios en conocimientos, actitudes o comportamientos."
+          },
+          {
+            "enunciado": "¿Qué aspecto es esencial para incluir en un estudio de caso sobre un programa exitoso de salud comunitaria?",
+            "opciones": [
+              "La lista completa de recursos materiales utilizados.",
+              "Las estrategias replicables que contribuyeron al éxito del programa.",
+              "El tiempo total empleado por los gestores en la planificación.",
+              "La cantidad de reuniones realizadas con los líderes locales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Destacar estrategias replicables permite que otros programas adopten prácticas efectivas, mejorando su diseño e implementación."
+          },
+          {
+            "enunciado": "¿Qué indicador de impacto sería clave para evaluar un programa de promoción de la salud mental en adolescentes?",
+            "opciones": [
+              "El aumento en la asistencia a las sesiones escolares de educación en salud mental.",
+              "El número de docentes capacitados en el manejo de crisis emocionales.",
+              "La reducción en los casos reportados de depresión y ansiedad en los adolescentes.",
+              "La cantidad de materiales informativos distribuidos en la escuela."
+            ],
+            "correcta": 2,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La reducción en los casos reportados de depresión y ansiedad mide directamente el impacto del programa en la salud mental de los adolescentes."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué indicador de sostenibilidad evalúa si un programa de salud comunitaria seguirá funcionando después de que finalice la financiación externa?",
+            "opciones": [
+              "La cantidad de personal capacitado para continuar las actividades.",
+              "El porcentaje de beneficiarios alcanzados durante el programa.",
+              "La duración total del programa antes de su cierre.",
+              "El costo total de las intervenciones realizadas."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Evaluar la cantidad de personal capacitado permite determinar si existen recursos humanos preparados para mantener el programa activo."
+          },
+          {
+            "enunciado": "¿Qué método cualitativo es más útil para identificar barreras en la implementación de un programa de salud escolar?",
+            "opciones": [
+              "Aplicar cuestionarios estructurados a los docentes.",
+              "Realizar grupos focales con estudiantes, padres y docentes.",
+              "Medir la asistencia a las sesiones educativas.",
+              "Calcular el presupuesto asignado a cada escuela."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Los grupos focales permiten explorar las percepciones y experiencias de los diferentes actores involucrados, identificando barreras específicas."
+          },
+          {
+            "enunciado": "En la evaluación de un programa de prevención de enfermedades cardiovasculares, ¿qué indicador de impacto sería relevante?",
+            "opciones": [
+              "La cantidad de charlas realizadas sobre hábitos saludables.",
+              "El porcentaje de participantes que mejoraron su presión arterial en seis meses.",
+              "El costo total de los recursos educativos utilizados.",
+              "La reducción en el consumo de medicamentos entre los participantes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El porcentaje de participantes que mejoraron su presión arterial refleja un cambio en su salud física directamente relacionado con el programa."
+          },
+          {
+            "enunciado": "¿Qué herramienta es más adecuada para comparar los costos y beneficios de un programa de salud?",
+            "opciones": [
+              "Análisis de costo-beneficio.",
+              "Entrevistas semiestructuradas con los beneficiarios.",
+              "Revisión de estadísticas nacionales de salud.",
+              "Encuestas de satisfacción aplicadas a los participantes."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El análisis de costo-beneficio ayuda a evaluar si los beneficios financieros y sociales de un programa justifican los costos involucrados en su implementación."
+          },
+          {
+            "enunciado": "¿Qué indicador cuantitativo sería más útil para medir el alcance de un programa de vacunación masiva?",
+            "opciones": [
+              "El porcentaje de población objetivo vacunada.",
+              "La cantidad de materiales promocionales distribuidos.",
+              "El número de centros de vacunación habilitados.",
+              "La satisfacción del personal sanitario con la logística del programa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El porcentaje de población objetivo vacunada es un indicador directo y claro del alcance y efectividad del programa."
+          },
+          {
+            "enunciado": "¿Qué método cualitativo es más apropiado para evaluar las experiencias de los participantes en un programa de salud mental?",
+            "opciones": [
+              "Entrevistas a profundidad con los beneficiarios.",
+              "Encuestas estructuradas con opciones de respuesta cerrada.",
+              "Revisión de datos clínicos previos al programa.",
+              "Análisis del costo por participante atendido."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las entrevistas a profundidad permiten explorar las vivencias y percepciones de los beneficiarios, obteniendo información detallada sobre sus experiencias."
+          },
+          {
+            "enunciado": "En un programa de promoción de la salud laboral, ¿qué indicador podría medir el impacto en el bienestar de los empleados?",
+            "opciones": [
+              "La reducción en las tasas de ausentismo por motivos de salud.",
+              "El número de talleres realizados sobre manejo del estrés.",
+              "El costo total de la implementación del programa.",
+              "La cantidad de empleados inscritos en las actividades."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La reducción en las tasas de ausentismo es un indicador claro del impacto positivo del programa en la salud y el bienestar de los empleados."
+          },
+          {
+            "enunciado": "¿Qué característica define un indicador de impacto a corto plazo en un programa de salud comunitaria?",
+            "opciones": [
+              "Evalúa los cambios observados en los beneficiarios al final del programa.",
+              "Se centra en los resultados económicos a largo plazo.",
+              "Analiza la sostenibilidad del programa tras varios años de implementación.",
+              "Mide exclusivamente el número de participantes atendidos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Un indicador de impacto a corto plazo mide los resultados inmediatos o los cambios observados en los beneficiarios al concluir el programa."
+          },
+          {
+            "enunciado": "En un programa de educación en salud escolar, ¿qué indicador cualitativo podría medir su éxito?",
+            "opciones": [
+              "Las opiniones de los docentes sobre el impacto del programa en los estudiantes.",
+              "El número de estudiantes que asistieron a las sesiones educativas.",
+              "La cantidad de material educativo distribuido en las escuelas.",
+              "El costo promedio por sesión educativa realizada."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las opiniones de los docentes brindan una perspectiva cualitativa valiosa sobre el impacto del programa en el comportamiento y aprendizaje de los estudiantes."
+          },
+          {
+            "enunciado": "¿Qué aspecto es fundamental al diseñar un estudio de caso sobre un programa de salud exitoso?",
+            "opciones": [
+              "Incluir únicamente los resultados positivos alcanzados.",
+              "Describir los desafíos enfrentados y cómo se superaron.",
+              "Priorizar los detalles financieros sobre los logros sociales.",
+              "Evitar analizar la replicabilidad del programa en otros contextos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Describir los desafíos y las soluciones implementadas permite aprender de la experiencia y mejorar la planificación de futuros programas."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "En un programa de salud dirigido a reducir el consumo de tabaco, ¿qué indicador puede medir su impacto a mediano plazo?",
+            "opciones": [
+              "El porcentaje de participantes que dejaron de fumar después de seis meses.",
+              "El número total de campañas publicitarias realizadas.",
+              "La cantidad de sesiones educativas impartidas.",
+              "El costo total invertido en materiales de promoción."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El porcentaje de participantes que dejaron de fumar en un plazo de seis meses muestra cambios conductuales significativos relacionados con el programa."
+          },
+          {
+            "enunciado": "¿Qué método sería más adecuado para evaluar el alcance de un programa de prevención de diabetes en comunidades rurales?",
+            "opciones": [
+              "Realizar encuestas para determinar el porcentaje de personas con conocimiento sobre la diabetes.",
+              "Organizar entrevistas grupales con los promotores de salud involucrados.",
+              "Medir la cantidad de consultas realizadas en los centros de salud locales.",
+              "Analizar los registros de pacientes diagnosticados en la región."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las encuestas permiten identificar qué proporción de la población objetivo adquirió conocimientos relevantes, evaluando el alcance educativo del programa."
+          },
+          {
+            "enunciado": "En un programa escolar para fomentar el ejercicio físico, ¿qué indicador cuantitativo sería más relevante?",
+            "opciones": [
+              "El número de estudiantes que participan regularmente en actividades físicas.",
+              "La percepción de los padres sobre el impacto del programa en la salud de sus hijos.",
+              "La cantidad de materiales educativos distribuidos en las aulas.",
+              "El costo total de implementar las actividades deportivas."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "El número de participantes regulares en actividades físicas refleja directamente la efectividad del programa para involucrar a los estudiantes en el ejercicio."
+          },
+          {
+            "enunciado": "¿Qué aspecto es clave para analizar la sostenibilidad de un programa de promoción de la salud?",
+            "opciones": [
+              "La dependencia de financiación externa para mantener el programa.",
+              "El nivel de aceptación y participación activa de la comunidad beneficiaria.",
+              "El número de organizaciones involucradas en la implementación.",
+              "El tiempo necesario para capacitar al personal durante la fase inicial."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La aceptación y participación de la comunidad son cruciales para garantizar que las actividades y resultados se mantengan a largo plazo sin necesidad de intervención externa constante."
+          },
+          {
+            "enunciado": "En la evaluación de un programa de alimentación saludable, ¿qué indicador cualitativo puede ser útil?",
+            "opciones": [
+              "Las experiencias de los participantes al cambiar sus hábitos alimenticios.",
+              "El número de talleres realizados sobre nutrición.",
+              "La cantidad de folletos distribuidos en la comunidad.",
+              "El costo total del programa en relación con los participantes alcanzados."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Recoger las experiencias de los participantes ayuda a comprender los desafíos y éxitos percibidos, lo que contribuye a mejorar futuros programas."
+          },
+          {
+            "enunciado": "¿Qué tipo de evaluación se centra en revisar si las actividades de un programa se implementaron según lo planeado?",
+            "opciones": [
+              "Evaluación de impacto.",
+              "Evaluación de proceso.",
+              "Evaluación de resultados.",
+              "Evaluación de sostenibilidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La evaluación de proceso analiza cómo se ejecutaron las actividades y si estas se realizaron según los objetivos iniciales del programa."
+          },
+          {
+            "enunciado": "¿Qué método cualitativo es más apropiado para identificar buenas prácticas en la implementación de un programa comunitario de salud?",
+            "opciones": [
+              "Entrevistas con los líderes comunitarios y beneficiarios del programa.",
+              "Encuestas estructuradas con preguntas cerradas aplicadas a los participantes.",
+              "Revisión de datos estadísticos sobre el alcance del programa.",
+              "Análisis financiero detallado del costo-beneficio del programa."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Las entrevistas con líderes y beneficiarios permiten identificar estrategias efectivas y aspectos destacados en la implementación del programa."
+          },
+          {
+            "enunciado": "¿Qué característica tiene un indicador de impacto a largo plazo en un programa de salud?",
+            "opciones": [
+              "Se basa en mediciones inmediatas de los resultados del programa.",
+              "Evalúa cambios sostenidos en la salud de la población objetivo.",
+              "Se enfoca exclusivamente en la cantidad de beneficiarios alcanzados.",
+              "Analiza únicamente los costos asociados al programa."
+            ],
+            "correcta": 1,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "Un indicador de impacto a largo plazo evalúa cambios sostenibles en la salud o comportamientos de la población mucho después de finalizar el programa."
+          },
+          {
+            "enunciado": "¿Qué indicador sería útil para evaluar la eficiencia de un programa de salud escolar?",
+            "opciones": [
+              "La relación entre el costo del programa y el número de estudiantes alcanzados.",
+              "La cantidad de sesiones educativas impartidas por docente.",
+              "El porcentaje de estudiantes que participaron activamente en el programa.",
+              "El tiempo dedicado por los docentes a preparar las actividades."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La relación costo-beneficiarios proporciona una medida de eficiencia al mostrar cómo se utilizaron los recursos para impactar al mayor número de estudiantes posible."
+          },
+          {
+            "enunciado": "En un programa para prevenir el sobrepeso en adolescentes, ¿qué indicador podría evaluar su efectividad?",
+            "opciones": [
+              "La disminución en la prevalencia de sobrepeso entre los participantes.",
+              "El número de docentes capacitados en temas de nutrición.",
+              "La cantidad de alimentos saludables distribuidos en las escuelas.",
+              "El costo total del programa dividido entre el número de adolescentes inscritos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
+            "feedback": "La disminución en la prevalencia de sobrepeso entre los participantes es un indicador directo de la efectividad del programa para mejorar la salud de los adolescentes."
+          }
+        ]
+      }
+                                                                    
+]

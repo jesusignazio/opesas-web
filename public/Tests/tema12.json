@@ -1,0 +1,1646 @@
+[
+    {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué diferencia principal existe entre la demografía estática y la dinámica?",
+            "opciones": [
+              "La demografía estática estudia cambios temporales, mientras que la dinámica analiza solo características de la población.",
+              "La demografía estática analiza características generales de la población en un momento dado, mientras que la dinámica estudia cambios a lo largo del tiempo.",
+              "La demografía dinámica se enfoca en datos económicos y sociales, mientras que la estática aborda datos geográficos.",
+              "Ambas estudian únicamente la estructura etaria de la población en períodos específicos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La demografía estática se centra en las características de una población en un momento dado, como censos, mientras que la dinámica aborda cambios en su estructura y distribución a lo largo del tiempo."
+          },
+          {
+            "enunciado": "¿Qué característica no es un atributo esencial de los indicadores de salud según la OMS?",
+            "opciones": [
+              "Especificidad",
+              "Simplicidad",
+              "Estabilidad",
+              "Sensibilidad"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La estabilidad no es un atributo mencionado por la OMS; los indicadores deben ser específicos, sensibles, válidos y confiables, entre otros atributos."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011 de Salud Pública de Andalucía, uno de sus fines esenciales es:",
+            "opciones": [
+              "Incrementar el gasto sanitario de la región.",
+              "Promover la equidad en salud entre todas las personas y poblaciones de Andalucía.",
+              "Aumentar los servicios hospitalarios en las áreas rurales.",
+              "Reducir exclusivamente las enfermedades de transmisión viral."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La ley se enfoca en promover la equidad en salud, buscando que las personas compartan con justicia los avances en salud y bienestar."
+          },
+          {
+            "enunciado": "¿Qué define la tasa de prevalencia en epidemiología?",
+            "opciones": [
+              "El número de nuevos casos de una enfermedad en un tiempo específico.",
+              "El número total de casos existentes (nuevos y antiguos) en una población específica en un momento dado.",
+              "La relación entre casos comunitarios y hospitalarios de una enfermedad.",
+              "La velocidad con la que aparece una enfermedad en una población."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La prevalencia mide el número total de casos existentes en un momento determinado, a diferencia de la incidencia, que mide casos nuevos."
+          },
+          {
+            "enunciado": "¿Qué tipo de necesidad de salud se define como la percepción subjetiva del individuo sobre su estado de salud?",
+            "opciones": [
+              "Normativa",
+              "Sentida",
+              "Expresada",
+              "Comparativa"
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La necesidad sentida refleja la percepción subjetiva que tiene el individuo sobre su estado de salud."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes no es un indicador demográfico?",
+            "opciones": [
+              "Tasa de mortalidad general",
+              "Tasa de alfabetización",
+              "Esperanza de vida al nacer",
+              "Tasa de morbilidad"
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de alfabetización es un indicador social, no demográfico."
+          },
+          {
+            "enunciado": "¿Qué método de identificación de necesidades de salud utiliza encuestas para producir datos nuevos?",
+            "opciones": [
+              "Análisis por indicadores",
+              "Análisis por consenso",
+              "Análisis mediante encuesta",
+              "Estudio normativo"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis mediante encuesta obtiene datos nuevos para producir estadísticas específicas de la población en estudio."
+          },
+          {
+            "enunciado": "¿Qué diferencia existe entre la población de hecho y la población de derecho?",
+            "opciones": [
+              "La población de derecho incluye solo a quienes están empadronados en una región.",
+              "La población de hecho incluye solo a los visitantes de una región.",
+              "La población de derecho excluye a los transeúntes, mientras que la población de hecho los incluye.",
+              "No existe ninguna diferencia relevante."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La población de hecho incluye residentes presentes y transeúntes, mientras que la población de derecho abarca únicamente a los oficialmente registrados."
+          },
+          {
+            "enunciado": "Un buen indicador de salud debe ser:",
+            "opciones": [
+              "Abstracto y general",
+              "Sensitivo pero poco específico",
+              "Fácil de interpretar y relevante",
+              "Difícil de obtener pero confiable"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los indicadores deben ser fáciles de interpretar, relevantes y reflejar cambios específicos en la población."
+          },
+          {
+            "enunciado": "En la clasificación de indicadores de salud, los relacionados con condiciones del medio incluyen:",
+            "opciones": [
+              "Tasa de mortalidad infantil",
+              "Tasa de alfabetización",
+              "Calidad del agua y saneamiento",
+              "Gasto en salud"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Indicadores como la calidad del agua y el saneamiento reflejan condiciones del medio, esenciales para evaluar el entorno."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, el Sistema de Vigilancia e Información en Salud Pública tiene como objetivo:",
+            "opciones": [
+              "Controlar exclusivamente las enfermedades de transmisión directa.",
+              "Recopilar, analizar y difundir información para desarrollar actuaciones de salud pública.",
+              "Reemplazar los sistemas tradicionales de salud por modelos digitales.",
+              "Garantizar el acceso gratuito a servicios hospitalarios."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El Sistema de Vigilancia recopila y analiza datos para planificar y mejorar las acciones de salud pública."
+          },
+          {
+            "enunciado": "¿Qué técnica de consenso utiliza cuestionarios sucesivos para obtener información?",
+            "opciones": [
+              "Técnica Delphi",
+              "Técnica de grupo nominal",
+              "Brainstorming",
+              "Encuestas tradicionales"
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La técnica Delphi emplea cuestionarios iterativos para llegar a un consenso entre expertos."
+          },
+          {
+            "enunciado": "¿Qué herramienta mide la calidad de vida relacionada con la salud en pacientes de diversas afecciones?",
+            "opciones": [
+              "Encuesta nacional de salud",
+              "Cuestionario COOP/WONCA",
+              "Índice de Swaroop",
+              "Tasa de incidencia"
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El cuestionario COOP/WONCA es ampliamente usado para evaluar la calidad de vida relacionada con la salud."
+          },
+          {
+            "enunciado": "La tasa de mortalidad infantil incluye:",
+            "opciones": [
+              "Muertes antes de los 5 años por cada mil nacidos vivos.",
+              "Muertes antes de los 28 días de vida únicamente.",
+              "Muertes de menores de 1 año por cada mil nacidos vivos.",
+              "Solo muertes neonatales tardías."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad infantil mide muertes antes de los 12 meses de vida por cada mil nacidos vivos."
+          },
+          {
+            "enunciado": "¿Qué acción se incluye dentro de las prestaciones en salud pública según la Ley 16/2011?",
+            "opciones": [
+              "La garantía de un sistema de salud gratuito universal.",
+              "La farmacovigilancia y el control sanitario de productos terapéuticos.",
+              "La financiación de estudios genéticos avanzados.",
+              "El cierre de hospitales ineficientes."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La Ley 16/2011 incluye la farmacovigilancia como una acción clave dentro de las prestaciones en salud pública."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué indicador de salud está relacionado con el número de fallecimientos por una enfermedad específica en un período dado?",
+            "opciones": [
+              "Tasa de incidencia",
+              "Tasa de mortalidad específica",
+              "Índice de Swaroop",
+              "Tasa de prevalencia"
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad específica mide las defunciones por una enfermedad concreta en un tiempo determinado."
+          },
+          {
+            "enunciado": "¿Cuál es el propósito principal del análisis de datos en salud pública?",
+            "opciones": [
+              "Revisar y publicar estadísticas nacionales exclusivamente.",
+              "Elaborar políticas sin datos cuantitativos previos.",
+              "Transformar datos para resaltar información útil para la toma de decisiones.",
+              "Detectar exclusivamente enfermedades infecciosas."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis de datos busca transformar la información en conocimiento útil para planificar y tomar decisiones en salud pública."
+          },
+          {
+            "enunciado": "El índice de Swaroop evalúa:",
+            "opciones": [
+              "La proporción de muertes en menores de 1 año.",
+              "La mortalidad proporcional en personas mayores de 50 años.",
+              "La calidad de vida relacionada con la salud.",
+              "El impacto económico de las intervenciones de salud."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El índice de Swaroop mide el porcentaje de muertes en mayores de 50 años sobre el total de fallecimientos, reflejando avances sanitarios."
+          },
+          {
+            "enunciado": "¿Qué representa la tasa de incidencia en epidemiología?",
+            "opciones": [
+              "La magnitud total de casos nuevos y antiguos en una población.",
+              "El número de nuevos casos de una enfermedad en un período específico.",
+              "El porcentaje de muertes por una causa específica.",
+              "La velocidad de recuperación de los pacientes."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de incidencia mide la velocidad de aparición de nuevos casos en una población en un tiempo determinado."
+          },
+          {
+            "enunciado": "En el marco de la Ley 16/2011, una acción clave de vigilancia sanitaria es:",
+            "opciones": [
+              "Regular el acceso a medicamentos de alta complejidad.",
+              "Coordinar respuestas ante emergencias sanitarias y amenazas emergentes.",
+              "Centralizar todos los sistemas de salud en un único modelo.",
+              "Limitar la recopilación de datos a enfermedades infecciosas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La vigilancia incluye la detección y respuesta a emergencias sanitarias, así como la gestión de amenazas emergentes."
+          },
+          {
+            "enunciado": "La calidad de vida relacionada con la salud (CVRS) incorpora:",
+            "opciones": [
+              "Solo datos clínicos y objetivos de los pacientes.",
+              "Dimensiones experimentadas directamente por el individuo, como el bienestar físico y emocional.",
+              "Factores externos como la economía y la política nacional.",
+              "La evaluación genética y bioquímica del paciente."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La CVRS incluye aspectos como el bienestar emocional y físico, desde la perspectiva subjetiva del individuo."
+          },
+          {
+            "enunciado": "¿Qué característica hace único al cuestionario COOP/WONCA?",
+            "opciones": [
+              "Se aplica solo en estudios internacionales.",
+              "Evalúa exclusivamente indicadores económicos de salud.",
+              "Es un instrumento genérico aplicable a diversos contextos de salud.",
+              "Es obligatorio para todas las instituciones de salud pública."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El cuestionario COOP/WONCA es genérico, aplicable en diferentes poblaciones y contextos para medir calidad de vida relacionada con la salud."
+          },
+          {
+            "enunciado": "El análisis de datos mediante indicadores se caracteriza por:",
+            "opciones": [
+              "Crear datos nuevos específicos.",
+              "Analizar datos existentes para deducir necesidades.",
+              "Combinar encuestas y consensos.",
+              "Aplicar exclusivamente técnicas cualitativas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Este enfoque interpreta datos ya existentes para identificar necesidades de salud, en lugar de generar datos nuevos."
+          },
+          {
+            "enunciado": "¿Qué técnica de consenso utiliza un grupo de expertos para generar ideas mediante discusión directa?",
+            "opciones": [
+              "Técnica Delphi",
+              "Grupo nominal",
+              "Brainstorming",
+              "Encuesta por cuestionarios"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El brainstorming o tormenta de ideas facilita la generación de propuestas en grupo a través de discusiones abiertas."
+          },
+          {
+            "enunciado": "En el análisis de datos, la estadística inferencial permite:",
+            "opciones": [
+              "Resumir datos con medidas como la media o la mediana.",
+              "Hacer predicciones sobre una población basada en muestras.",
+              "Eliminar datos inconsistentes antes del análisis.",
+              "Representar gráficamente todos los resultados."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La estadística inferencial permite extrapolar resultados de una muestra para sacar conclusiones sobre la población."
+          },
+          {
+            "enunciado": "La tasa de mortalidad neonatal incluye:",
+            "opciones": [
+              "Muertes ocurridas entre el nacimiento y los 28 días de vida.",
+              "Muertes de niños menores de 5 años.",
+              "Muertes de recién nacidos en las primeras 72 horas.",
+              "Todas las defunciones materno-infantiles."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad neonatal mide las muertes ocurridas dentro de los primeros 28 días de vida."
+          },
+          {
+            "enunciado": "Una proporción es:",
+            "opciones": [
+              "El cociente entre dos cifras de distinta naturaleza.",
+              "Un tipo de medida epidemiológica que no permite comparaciones.",
+              "El cociente entre dos cifras de la misma naturaleza, donde el numerador está contenido en el denominador.",
+              "Siempre equivalente a una tasa."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Una proporción compara dos cifras de la misma naturaleza, expresando la relación del numerador respecto al total."
+          },
+          {
+            "enunciado": "¿Qué tipo de indicador mide la relación entre las defunciones por una causa específica y el total de defunciones?",
+            "opciones": [
+              "Tasa bruta de mortalidad",
+              "Tasa de incidencia",
+              "Mortalidad proporcional",
+              "Razón de prevalencia"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad proporcional relaciona las defunciones por una causa con el total de fallecimientos en la población."
+          },
+          {
+            "enunciado": "Una de las prioridades de los planes locales de salud en Andalucía incluye:",
+            "opciones": [
+              "Centralizar todos los servicios médicos en hospitales urbanos.",
+              "Reducir desigualdades en salud basadas en género, cultura y nivel socioeconómico.",
+              "Eliminar todos los riesgos laborales en el sector industrial.",
+              "Garantizar acceso gratuito a servicios especializados en el extranjero."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La reducción de desigualdades en salud es una prioridad clave para los planes locales, atendiendo factores como género y socioeconomía."
+          },
+          {
+            "enunciado": "En salud pública, los indicadores económicos pueden incluir:",
+            "opciones": [
+              "Tasa de alfabetización",
+              "Consumo de alimentos y renta per cápita",
+              "Porcentaje de niños vacunados",
+              "Tasa de incidencia de enfermedades crónicas"
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Indicadores como el consumo de alimentos y la renta per cápita reflejan aspectos económicos relacionados con la salud."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué característica distingue a los indicadores cualitativos en salud?",
+            "opciones": [
+              "Expresan cantidades relacionadas con enfermedades crónicas.",
+              "Miden variables como calidad de vida y bienestar percibido.",
+              "Reflejan únicamente datos económicos en contextos médicos.",
+              "Son aplicables exclusivamente a enfermedades infecciosas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los indicadores cualitativos reflejan aspectos subjetivos como la calidad de vida, mientras que los cuantitativos son más numéricos."
+          },
+          {
+            "enunciado": "La definición de salud según la OMS incluye:",
+            "opciones": [
+              "La ausencia de enfermedad y el bienestar físico.",
+              "El bienestar físico, mental y social completo.",
+              "El cumplimiento de estándares biomédicos específicos.",
+              "El estado funcional del sistema sanitario."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La OMS define salud como el estado de bienestar físico, mental y social, no limitado a la ausencia de enfermedad."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, la evaluación del impacto en salud tiene como objetivo:",
+            "opciones": [
+              "Medir exclusivamente los costos de políticas sanitarias.",
+              "Valorar efectos directos e indirectos de planes y programas en la salud de la población.",
+              "Analizar únicamente los riesgos ambientales asociados al agua potable.",
+              "Calcular tasas de mortalidad y morbilidad de forma indirecta."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La evaluación del impacto en salud valora los posibles efectos de políticas y programas en la salud colectiva, tanto directos como indirectos."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes medidas es una tasa en epidemiología?",
+            "opciones": [
+              "Relación entre hombres y mujeres en una población.",
+              "Número de nacimientos por cada mil habitantes en un año.",
+              "Porcentaje de viviendas con acceso a agua potable.",
+              "Cantidad total de casos de una enfermedad en un tiempo específico."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de natalidad es un ejemplo clásico de tasa, expresando eventos en relación con la población total y un tiempo dado."
+          },
+          {
+            "enunciado": "¿Qué organismo en España publica los censos de población?",
+            "opciones": [
+              "El Instituto Nacional de Salud Pública (INSP).",
+              "El Instituto Nacional de Estadística (INE).",
+              "El Consejo General de Salud Pública.",
+              "La Secretaría General de Demografía y Salud."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El INE es responsable de elaborar y publicar los censos de población en España, cada diez años."
+          },
+          {
+            "enunciado": "En términos demográficos, los números absolutos carecen de utilidad práctica cuando:",
+            "opciones": [
+              "Son utilizados para estimar tasas de natalidad.",
+              "Se busca comparar diferentes territorios con tamaños poblacionales distintos.",
+              "Representan estadísticas relacionadas con mortalidad infantil.",
+              "Se usan para establecer prioridades en políticas de salud."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los números absolutos son difíciles de comparar entre territorios con tamaños poblacionales diferentes, para lo cual se utilizan tasas o proporciones."
+          },
+          {
+            "enunciado": "En el análisis de necesidades de salud, la 'necesidad normativa' se refiere a:",
+            "opciones": [
+              "La percepción del individuo sobre su estado de salud.",
+              "Lo que un experto define como necesario en relación a estándares óptimos.",
+              "La demanda real de servicios sanitarios por parte de una población.",
+              "Las comparaciones entre grupos poblacionales similares."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La necesidad normativa es definida por expertos y se basa en estándares deseables o óptimos de salud."
+          },
+          {
+            "enunciado": "La morbilidad es un indicador que se utiliza para:",
+            "opciones": [
+              "Medir la cantidad de individuos enfermos en una población durante un tiempo específico.",
+              "Calcular la proporción de defunciones por enfermedades crónicas.",
+              "Determinar la mortalidad infantil en áreas rurales.",
+              "Evaluar el número total de camas hospitalarias disponibles."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La morbilidad mide la cantidad de individuos enfermos o afectados por una enfermedad en un tiempo y lugar determinados."
+          },
+          {
+            "enunciado": "En la Ley 16/2011, una acción clave de promoción de la salud es:",
+            "opciones": [
+              "Implementar programas obligatorios de vacunación.",
+              "Fomentar la educación y sensibilización ciudadana sobre modos de vida saludables.",
+              "Centralizar las estadísticas de mortalidad en Andalucía.",
+              "Restringir las prácticas médicas no tradicionales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de la salud incluye fomentar modos de vida saludables mediante educación y sensibilización ciudadana."
+          },
+          {
+            "enunciado": "¿Qué define la tasa bruta de mortalidad?",
+            "opciones": [
+              "El número de muertes por cada mil habitantes en un tiempo determinado.",
+              "El porcentaje de defunciones por enfermedades crónicas.",
+              "La relación entre defunciones neonatales y maternas.",
+              "El número de fallecimientos registrados en hospitales exclusivamente."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa bruta de mortalidad mide el número de muertes por cada mil habitantes en un período específico, generalmente un año."
+          },
+          {
+            "enunciado": "Los instrumentos específicos de medición de calidad de vida relacionada con la salud (CVRS):",
+            "opciones": [
+              "Son aplicables a cualquier población independientemente del diagnóstico.",
+              "Se enfocan en dimensiones propias de una enfermedad o síndrome concreto.",
+              "Evalúan exclusivamente el bienestar emocional de los pacientes.",
+              "No son válidos para poblaciones con múltiples patologías."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los instrumentos específicos de CVRS miden dimensiones particulares de enfermedades o síndromes específicos, siendo sensibles a sus efectos."
+          },
+          {
+            "enunciado": "¿Qué componente debe estar presente en el denominador de una tasa epidemiológica?",
+            "opciones": [
+              "El número total de eventos registrados.",
+              "La población expuesta al riesgo del evento medido.",
+              "El número de casos nuevos detectados.",
+              "El número de defunciones relacionadas con la enfermedad estudiada."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El denominador de una tasa epidemiológica debe incluir la población expuesta al riesgo del evento analizado."
+          },
+          {
+            "enunciado": "Una constante en las tasas epidemiológicas permite:",
+            "opciones": [
+              "Establecer comparaciones entre territorios con tamaños similares.",
+              "Evitar la interpretación de cifras en valores menores a la unidad.",
+              "Eliminar la necesidad de incluir el denominador en el cálculo.",
+              "Aplicar la tasa exclusivamente a enfermedades de alta incidencia."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Multiplicar por una constante permite interpretar tasas en términos más comprensibles, evitando cifras menores a la unidad."
+          },
+          {
+            "enunciado": "El análisis por indicadores en la planificación sanitaria se caracteriza por:",
+            "opciones": [
+              "Detectar cambios mediante nuevas encuestas.",
+              "Utilizar datos existentes para inferir necesidades.",
+              "Centrarse exclusivamente en la opinión de expertos.",
+              "Aplicar siempre técnicas cualitativas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis por indicadores utiliza datos existentes para deducir necesidades sin generar nueva información."
+          },
+          {
+            "enunciado": "En la Ley 16/2011, la policía sanitaria mortuoria incluye:",
+            "opciones": [
+              "El análisis de datos sobre enfermedades de transmisión directa.",
+              "La regulación y control de actividades relacionadas con la gestión de cadáveres.",
+              "La supervisión de entierros exclusivamente religiosos.",
+              "El diseño de políticas sobre vacunación."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La policía sanitaria mortuoria regula actividades relacionadas con la gestión y disposición de cadáveres."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "En epidemiología, las razones (ratios) difieren de las proporciones porque:",
+            "opciones": [
+              "El numerador no está contenido en el denominador.",
+              "Se expresan exclusivamente como porcentajes.",
+              "Reflejan siempre tasas brutas.",
+              "Incluyen únicamente casos de enfermedades crónicas."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Una razón compara dos cantidades donde el numerador no está contenido en el denominador, como en el caso de la razón de masculinidad."
+          },
+          {
+            "enunciado": "En la clasificación de indicadores de salud, los relacionados con medios sanitarios incluyen:",
+            "opciones": [
+              "Tasa de mortalidad infantil.",
+              "Cobertura de vacunación.",
+              "Número de camas hospitalarias por cada 1.000 habitantes.",
+              "Porcentaje de viviendas con acceso a agua potable."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los indicadores de medios sanitarios incluyen datos como el número de camas hospitalarias disponibles."
+          },
+          {
+            "enunciado": "¿Cuál es una característica clave de la vigilancia continua del estado de salud según la Ley 16/2011?",
+            "opciones": [
+              "Se realiza únicamente ante brotes epidémicos.",
+              "Incorpora la recopilación sistemática y análisis de datos relevantes para la salud pública.",
+              "Requiere la aprobación previa de organismos internacionales.",
+              "Solo aplica a enfermedades de transmisión viral."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La vigilancia continua incluye la recopilación y análisis sistemático de datos para orientar acciones de salud pública."
+          },
+          {
+            "enunciado": "¿Qué acción es parte de las prestaciones de salud pública según la Ley 16/2011?",
+            "opciones": [
+              "Garantizar atención gratuita en hospitales privados.",
+              "Promover la calidad acústica del entorno.",
+              "Aumentar la densidad de población urbana.",
+              "Elaborar censos poblacionales cada cinco años."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de la calidad acústica del entorno es una acción clave incluida en las prestaciones de salud pública."
+          },
+          {
+            "enunciado": "¿Qué elemento no es un atributo de un buen indicador de salud?",
+            "opciones": [
+              "Validez",
+              "Especificidad",
+              "Complejidad",
+              "Relevancia"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Un buen indicador de salud debe ser relevante, válido y específico; la complejidad dificulta su interpretación y aplicación."
+          },
+          {
+            "enunciado": "¿Qué define la 'prevalencia de período'?",
+            "opciones": [
+              "El número de casos nuevos de una enfermedad en un intervalo de tiempo específico.",
+              "El total de casos existentes en una población en un momento dado.",
+              "El número total de casos presentes en una población durante un intervalo de tiempo.",
+              "La velocidad de propagación de una enfermedad en una comunidad."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La prevalencia de período mide todos los casos existentes durante un intervalo de tiempo, incluyendo nuevos y antiguos."
+          },
+          {
+            "enunciado": "La técnica Delphi en el análisis de necesidades de salud es útil para:",
+            "opciones": [
+              "Realizar encuestas masivas a la población general.",
+              "Obtener consensos de expertos a través de cuestionarios iterativos.",
+              "Calcular indicadores de salud específicos.",
+              "Crear estadísticas indirectas basadas en datos incompletos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La técnica Delphi utiliza cuestionarios sucesivos para lograr consensos entre expertos, siendo útil en el análisis de necesidades."
+          },
+          {
+            "enunciado": "En la planificación sanitaria, una necesidad comparativa surge cuando:",
+            "opciones": [
+              "Un grupo tiene acceso limitado a servicios en comparación con otro con condiciones similares.",
+              "Los individuos perciben subjetivamente que necesitan atención médica.",
+              "Los expertos identifican estándares óptimos no alcanzados.",
+              "La demanda de servicios supera la capacidad instalada."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La necesidad comparativa identifica inequidades entre grupos con condiciones similares pero acceso desigual a servicios."
+          },
+          {
+            "enunciado": "La mortalidad infantil incluye muertes:",
+            "opciones": [
+              "Ocurridas antes de los cinco años.",
+              "Ocurridas durante el primer año de vida.",
+              "Registradas en las primeras 48 horas de vida.",
+              "Asociadas a complicaciones prenatales exclusivamente."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad infantil abarca todas las defunciones ocurridas en menores de 1 año, incluyendo neonatales y postneonatales."
+          },
+          {
+            "enunciado": "Un cuestionario genérico para medir calidad de vida relacionada con la salud (CVRS):",
+            "opciones": [
+              "Se aplica exclusivamente a enfermedades específicas.",
+              "Permite comparaciones entre poblaciones con distintos diagnósticos.",
+              "Es menos válido que un cuestionario específico.",
+              "No es útil en estudios de salud pública."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los cuestionarios genéricos son útiles para comparar poblaciones con diferentes condiciones de salud."
+          },
+          {
+            "enunciado": "La promoción de la salud según la Ley 16/2011 incluye:",
+            "opciones": [
+              "Fomentar opciones saludables en la alimentación y actividad física.",
+              "Priorizar la construcción de nuevos hospitales.",
+              "Centralizar las bases de datos epidemiológicas en sistemas internacionales.",
+              "Limitar las actividades al ámbito urbano."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de salud busca fomentar opciones saludables, como buena alimentación y ejercicio, en todos los entornos."
+          },
+          {
+            "enunciado": "¿Qué aspecto no está incluido en el análisis de datos en salud pública?",
+            "opciones": [
+              "Depuración y eliminación de datos inconsistentes.",
+              "Procesamiento con pruebas estadísticas adecuadas.",
+              "Interpretación para generar conclusiones relevantes.",
+              "Imposición de medidas restrictivas basadas en hallazgos."
+            ],
+            "correcta": 3,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis de datos en salud pública no implica imponer medidas restrictivas; su objetivo es informar la toma de decisiones."
+          },
+          {
+            "enunciado": "En epidemiología, las tasas se caracterizan por:",
+            "opciones": [
+              "Comparar dos cantidades sin relación entre sí.",
+              "Expresar el número de eventos respecto a una población en riesgo durante un tiempo.",
+              "Reflejar la magnitud de un problema sin necesidad de un denominador.",
+              "Incluir solo datos absolutos sobre casos registrados."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas relacionan eventos específicos con una población en riesgo durante un período definido."
+          },
+          {
+            "enunciado": "En la Ley 16/2011, el control sanitario de publicidad busca:",
+            "opciones": [
+              "Limitar las campañas de salud pública.",
+              "Regular la promoción de productos que puedan representar riesgos para la salud.",
+              "Aumentar la visibilidad de tratamientos experimentales.",
+              "Evitar la publicación de estadísticas de salud negativas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El control sanitario de la publicidad regula la promoción de productos para evitar riesgos a la salud pública."
+          },
+          {
+            "enunciado": "El análisis de la mortalidad es útil en salud pública porque:",
+            "opciones": [
+              "Es el único indicador que mide calidad de vida.",
+              "Permite evaluar la eficacia de los sistemas de salud en la prevención de enfermedades.",
+              "Es exclusivo de enfermedades infecciosas.",
+              "No se correlaciona con los indicadores socioeconómicos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad evalúa la efectividad de los sistemas sanitarios y está vinculada a factores socioeconómicos y de salud pública."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál de las siguientes no es una fuente de información primaria en salud pública?",
+            "opciones": [
+              "Censos de población",
+              "Padrón de población",
+              "Estudios bibliográficos",
+              "Encuestas y muestreos"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los estudios bibliográficos son una fuente de información secundaria, mientras que las otras opciones son primarias."
+          },
+          {
+            "enunciado": "¿Qué se evalúa mediante la tasa de mortalidad materna?",
+            "opciones": [
+              "El impacto económico de las defunciones en mujeres en edad fértil.",
+              "La calidad de la atención sanitaria durante el embarazo, parto y puerperio.",
+              "El número total de embarazos registrados en un año.",
+              "El acceso a servicios hospitalarios en áreas rurales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad materna es un indicador de las condiciones de atención prenatal, obstétrica y postnatal."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, un factor prioritario para la promoción de la salud es:",
+            "opciones": [
+              "Aumentar los hospitales en las capitales de provincia.",
+              "Mejorar las condiciones de salud en el transporte y la vivienda.",
+              "Proveer medicamentos genéricos a bajo costo.",
+              "Desarrollar únicamente sistemas de vigilancia epidemiológica."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de la salud según la ley incluye mejorar las condiciones del entorno, como transporte y vivienda."
+          },
+          {
+            "enunciado": "En la epidemiología, las tasas específicas se utilizan para:",
+            "opciones": [
+              "Calcular indicadores generales de mortalidad y morbilidad.",
+              "Describir la incidencia de eventos en subgrupos específicos de población.",
+              "Comparar la efectividad de tratamientos médicos.",
+              "Medir exclusivamente factores socioeconómicos relacionados con la salud."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas específicas miden eventos como mortalidad o incidencia en subgrupos definidos, como edades o géneros."
+          },
+          {
+            "enunciado": "Un indicador de salud que mide condiciones ambientales incluiría:",
+            "opciones": [
+              "Porcentaje de viviendas con acceso a agua potable.",
+              "Tasa de alfabetización de la población adulta.",
+              "Número de consultas médicas por habitante.",
+              "Gasto público en salud por habitante."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El acceso a agua potable refleja una condición ambiental importante que afecta directamente la salud pública."
+          },
+          {
+            "enunciado": "¿Qué indicador no se considera parte de los indicadores demográficos?",
+            "opciones": [
+              "Tasa de natalidad",
+              "Esperanza de vida al nacer",
+              "Número de médicos por habitante",
+              "Tasa de mortalidad infantil"
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El número de médicos por habitante es un indicador de recursos sanitarios, no demográfico."
+          },
+          {
+            "enunciado": "La Ley 16/2011 establece que la vigilancia en salud debe:",
+            "opciones": [
+              "Realizarse exclusivamente en zonas rurales con alta incidencia de enfermedades.",
+              "Ser sistemática y abarcar factores relevantes para la salud colectiva.",
+              "Centrarse únicamente en enfermedades de declaración obligatoria.",
+              "Depender exclusivamente de sistemas internacionales de reporte."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La vigilancia debe ser sistemática y abarcar factores relevantes para la salud colectiva en cualquier contexto."
+          },
+          {
+            "enunciado": "La diferencia principal entre incidencia y prevalencia es:",
+            "opciones": [
+              "La incidencia mide casos nuevos, mientras que la prevalencia incluye casos existentes y nuevos.",
+              "La prevalencia es más específica que la incidencia.",
+              "La incidencia solo mide enfermedades infecciosas.",
+              "Ambas se calculan siempre con datos anuales."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La incidencia mide solo casos nuevos, mientras que la prevalencia incluye todos los casos existentes y nuevos en un periodo."
+          },
+          {
+            "enunciado": "Un aspecto clave del análisis por encuesta en salud pública es:",
+            "opciones": [
+              "Usar exclusivamente indicadores previamente establecidos.",
+              "Generar datos nuevos adaptados a las necesidades del estudio.",
+              "Centrarse en las opiniones de expertos exclusivamente.",
+              "Evitar preguntas sobre condiciones específicas de salud."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis por encuesta genera datos nuevos, diseñados para responder preguntas específicas del estudio."
+          },
+          {
+            "enunciado": "En epidemiología, una proporción puede expresarse como:",
+            "opciones": [
+              "Un cociente entre dos valores de distinta naturaleza.",
+              "Un porcentaje que compara el numerador respecto al total.",
+              "Un ratio que no requiere denominador.",
+              "Un índice basado en tasas específicas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Una proporción se expresa como un porcentaje que compara el numerador respecto al total."
+          },
+          {
+            "enunciado": "En el análisis de la calidad de vida relacionada con la salud, los instrumentos específicos:",
+            "opciones": [
+              "Permiten comparaciones entre diferentes diagnósticos.",
+              "Son menos sensibles a cambios en una enfermedad concreta.",
+              "Se enfocan en aspectos propios de una enfermedad o síndrome.",
+              "No consideran factores subjetivos reportados por los pacientes."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los instrumentos específicos evalúan aspectos particulares de enfermedades concretas, siendo más sensibles a sus cambios."
+          },
+          {
+            "enunciado": "El registro civil como fuente de información incluye:",
+            "opciones": [
+              "Solo nacimientos y defunciones.",
+              "Datos de nacimientos, matrimonios, divorcios y defunciones.",
+              "Únicamente defunciones registradas en hospitales.",
+              "Censos actualizados cada diez años."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El registro civil recopila datos de nacimientos, matrimonios, divorcios y defunciones, entre otros."
+          },
+          {
+            "enunciado": "En la Ley 16/2011, la prevención de problemas de salud incluye:",
+            "opciones": [
+              "Exclusivamente la vacunación de menores de edad.",
+              "Medidas como el control de factores de riesgo y el diagnóstico precoz.",
+              "Solo el seguimiento de enfermedades congénitas.",
+              "Garantizar la construcción de más hospitales en zonas urbanas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La prevención incluye múltiples estrategias, como el control de factores de riesgo y el diagnóstico precoz."
+          },
+          {
+            "enunciado": "En el análisis de mortalidad infantil, la mortalidad neonatal tardía ocurre:",
+            "opciones": [
+              "En los primeros 7 días de vida.",
+              "Entre los 7 y 28 días de vida.",
+              "En el primer año de vida.",
+              "Antes de las primeras 72 horas de vida."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad neonatal tardía incluye las muertes ocurridas entre los 7 y 28 días de vida."
+          },
+          {
+            "enunciado": "La proporción de defunciones en mayores de 50 años se mide mediante:",
+            "opciones": [
+              "La tasa de mortalidad infantil.",
+              "El índice de Swaroop.",
+              "La prevalencia ajustada.",
+              "La tasa de incidencia específica."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El índice de Swaroop mide el porcentaje de muertes en personas mayores de 50 años respecto al total de defunciones."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "La tasa de mortalidad en menores de 5 años es un indicador que:",
+            "opciones": [
+              "Se centra en defunciones durante el primer año de vida.",
+              "Evalúa únicamente problemas de salud en niños hospitalizados.",
+              "Refleja condiciones sociales, económicas y sanitarias en una población.",
+              "Calcula la incidencia de enfermedades infecciosas en niños menores de 5 años."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad en menores de 5 años es un indicador amplio que refleja condiciones sociales, económicas y de salud pública."
+          },
+          {
+            "enunciado": "Un ejemplo de un indicador de salud positivo es:",
+            "opciones": [
+              "Tasa de mortalidad infantil.",
+              "Prevalencia de enfermedades crónicas.",
+              "Esperanza de vida saludable.",
+              "Mortalidad por causas específicas."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Indicadores como la esperanza de vida saludable destacan aspectos positivos del bienestar de la población."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, ¿qué acción pertenece al sistema de vigilancia en salud pública?",
+            "opciones": [
+              "Construcción de hospitales en áreas urbanas.",
+              "Realización de campañas de alfabetización.",
+              "Monitoreo de factores de riesgo y determinantes de salud.",
+              "Distribución gratuita de medicamentos esenciales."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El sistema de vigilancia monitorea factores de riesgo y determinantes de salud para planificar intervenciones efectivas."
+          },
+          {
+            "enunciado": "El análisis de necesidades mediante indicadores asume que:",
+            "opciones": [
+              "Los datos cualitativos son suficientes para planificar estrategias.",
+              "Los indicadores proporcionan medidas indirectas del estado de salud.",
+              "La percepción de los individuos es más relevante que los datos estadísticos.",
+              "Solo debe utilizarse en estudios específicos de corto alcance."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los indicadores sanitarios constituyen medidas directas o indirectas del estado de salud de una población."
+          },
+          {
+            "enunciado": "La Ley 16/2011 establece como actuación preventiva:",
+            "opciones": [
+              "La obligatoriedad de consultas médicas trimestrales.",
+              "El diagnóstico precoz de enfermedades congénitas y problemas de desarrollo infantil.",
+              "La eliminación de riesgos laborales en industrias específicas.",
+              "El control absoluto de todas las infecciones nosocomiales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El diagnóstico precoz de enfermedades congénitas y problemas de desarrollo infantil es una medida preventiva clave."
+          },
+          {
+            "enunciado": "Una diferencia clave entre la tasa y una proporción es que la tasa:",
+            "opciones": [
+              "No requiere un denominador.",
+              "Es siempre menor a 1.",
+              "Incluye un elemento temporal para medir eventos por unidad de población.",
+              "Solo se aplica en estudios de mortalidad."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa incluye un elemento temporal que mide eventos en relación con la población expuesta durante un período."
+          },
+          {
+            "enunciado": "La mortalidad neonatal precoz incluye:",
+            "opciones": [
+              "Muertes ocurridas en los primeros 7 días de vida.",
+              "Defunciones entre el nacimiento y los 28 días de vida.",
+              "Muertes de neonatos entre el séptimo y vigésimo octavo día de vida.",
+              "Defunciones ocurridas entre las primeras 24 y 72 horas de vida."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad neonatal precoz se refiere a las defunciones ocurridas durante los primeros 7 días de vida."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes no es una dimensión incluida en la calidad de vida relacionada con la salud (CVRS)?",
+            "opciones": [
+              "Bienestar emocional.",
+              "Movilidad y cuidado personal.",
+              "Funcionamiento cognitivo.",
+              "Condiciones macroeconómicas de la región."
+            ],
+            "correcta": 3,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La CVRS evalúa aspectos percibidos directamente por los pacientes, pero no incluye factores macroeconómicos externos."
+          },
+          {
+            "enunciado": "Un cuestionario genérico para medir CVRS es adecuado porque:",
+            "opciones": [
+              "Se centra exclusivamente en enfermedades específicas.",
+              "Permite comparar resultados entre diferentes diagnósticos y poblaciones.",
+              "Requiere menos recursos para su implementación en casos complejos.",
+              "Se enfoca exclusivamente en dimensiones biológicas del paciente."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los cuestionarios genéricos son útiles para realizar comparaciones entre diferentes condiciones y diagnósticos."
+          },
+          {
+            "enunciado": "En epidemiología, la sensibilidad de un indicador de salud se refiere a:",
+            "opciones": [
+              "Su capacidad para captar únicamente los cambios positivos en una población.",
+              "Su habilidad para detectar cambios en la situación que mide.",
+              "Su relación con la validez estadística de los resultados.",
+              "La facilidad para calcularlo en poblaciones grandes."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La sensibilidad de un indicador mide su capacidad para detectar cambios en la población o situación estudiada."
+          },
+          {
+            "enunciado": "La tasa de mortalidad proporcional o índice de Swaroop mide:",
+            "opciones": [
+              "El porcentaje de fallecimientos en menores de 5 años.",
+              "La proporción de defunciones en mayores de 50 años respecto al total.",
+              "El impacto de enfermedades crónicas en la esperanza de vida.",
+              "La incidencia de mortalidad específica en áreas rurales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El índice de Swaroop mide el porcentaje de defunciones en mayores de 50 años, reflejando avances en salud pública."
+          },
+          {
+            "enunciado": "Un atributo clave de un buen indicador de salud pública es:",
+            "opciones": [
+              "Su complejidad técnica.",
+              "Su capacidad de ser entendido fácilmente por expertos exclusivamente.",
+              "La facilidad para interpretarlo en contextos variados.",
+              "La necesidad de actualizarse anualmente."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Un buen indicador debe ser fácil de interpretar, permitiendo que sea útil para la toma de decisiones en salud pública."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, una prestación clave en salud pública es:",
+            "opciones": [
+              "Realizar encuestas de salud mensualmente.",
+              "Promover exclusivamente la salud mental.",
+              "Vigilar la calidad acústica del entorno como un factor de riesgo.",
+              "Garantizar tratamientos experimentales a toda la población."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La vigilancia de la calidad acústica es una prestación relevante en la Ley 16/2011 para proteger la salud pública."
+          },
+          {
+            "enunciado": "La calidad de vida relacionada con la salud (CVRS) se diferencia de otros indicadores porque:",
+            "opciones": [
+              "Se basa exclusivamente en datos objetivos.",
+              "Refleja únicamente aspectos biológicos.",
+              "Incluye la percepción subjetiva del bienestar del paciente.",
+              "Es aplicable solo a enfermedades crónicas."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La CVRS incorpora la percepción subjetiva del paciente, diferenciándose de otros indicadores más objetivos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "En la Ley 16/2011, ¿qué función cumple el Sistema de Información de Vigilancia en Salud?",
+            "opciones": [
+              "Coordinar exclusivamente respuestas a emergencias internacionales.",
+              "Registrar de manera sistemática datos relacionados con la salud pública.",
+              "Desarrollar programas de vacunación masiva en comunidades rurales.",
+              "Monitorear solo enfermedades crónicas y sus determinantes."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El Sistema de Información de Vigilancia recopila y analiza datos de manera sistemática para apoyar decisiones en salud pública."
+          },
+          {
+            "enunciado": "¿Qué característica distingue a las tasas específicas de las tasas generales?",
+            "opciones": [
+              "Se aplican solo a enfermedades infecciosas.",
+              "Miden eventos en poblaciones específicas, como grupos de edad o sexo.",
+              "Reflejan exclusivamente tendencias anuales.",
+              "No requieren un denominador poblacional."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas específicas analizan eventos en subgrupos poblacionales, como una edad o género específicos."
+          },
+          {
+            "enunciado": "¿Cuál es una diferencia clave entre los indicadores positivos y negativos en salud pública?",
+            "opciones": [
+              "Los positivos miden bienestar, mientras que los negativos evalúan problemas de salud como mortalidad.",
+              "Los negativos son más útiles en estudios epidemiológicos.",
+              "Los positivos solo consideran datos cualitativos.",
+              "Los negativos son menos específicos en su interpretación."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los indicadores positivos reflejan bienestar (como la esperanza de vida), mientras que los negativos evalúan problemas como mortalidad o morbilidad."
+          },
+          {
+            "enunciado": "En epidemiología, la 'incidencia acumulada' se refiere a:",
+            "opciones": [
+              "El número de casos nuevos en un periodo específico en relación a una población fija.",
+              "La magnitud total de casos en un intervalo de tiempo.",
+              "La proporción de eventos adversos en una intervención.",
+              "La prevalencia puntual en una población específica."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La incidencia acumulada mide los casos nuevos de una enfermedad en un período dado respecto a una población en riesgo."
+          },
+          {
+            "enunciado": "¿Qué técnica de consenso fomenta la participación abierta en la generación de ideas?",
+            "opciones": [
+              "Técnica Delphi.",
+              "Análisis por indicadores.",
+              "Brainstorming.",
+              "Encuestas específicas."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El brainstorming o tormenta de ideas es una técnica abierta para la generación creativa de propuestas en grupo."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, ¿cuál es un objetivo clave de la promoción de la salud?",
+            "opciones": [
+              "Priorizar la atención hospitalaria sobre la atención primaria.",
+              "Sensibilizar a la ciudadanía sobre estilos de vida saludables.",
+              "Fomentar el uso exclusivo de tecnologías de salud avanzadas.",
+              "Reducir los costos de los medicamentos genéricos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de la salud incluye sensibilizar a la población sobre hábitos saludables para prevenir enfermedades."
+          },
+          {
+            "enunciado": "En el análisis de datos epidemiológicos, eliminar datos atípicos es importante porque:",
+            "opciones": [
+              "Siempre mejoran la validez de los resultados.",
+              "Evitan que los datos contaminados distorsionen las conclusiones.",
+              "Aumentan la precisión de las tasas brutas.",
+              "Garantizan que todas las muestras sean homogéneas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Eliminar datos atípicos evita que resultados anómalos afecten la precisión y validez del análisis."
+          },
+          {
+            "enunciado": "Un indicador de salud económica podría ser:",
+            "opciones": [
+              "Tasa de mortalidad infantil.",
+              "Porcentaje de viviendas con agua potable.",
+              "Renta per cápita.",
+              "Número de camas hospitalarias disponibles."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La renta per cápita es un indicador económico que puede relacionarse con las condiciones de salud en una población."
+          },
+          {
+            "enunciado": "¿Cuál es el propósito principal de las tasas ajustadas?",
+            "opciones": [
+              "Facilitar la comparación entre poblaciones con diferentes estructuras.",
+              "Excluir datos no relevantes para el análisis.",
+              "Representar únicamente casos nuevos de una enfermedad.",
+              "Simplificar cálculos epidemiológicos en estudios masivos."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas ajustadas permiten comparar poblaciones con diferentes características, como edades o sexos, normalizando los resultados."
+          },
+          {
+            "enunciado": "En la clasificación de necesidades de salud, las expresadas corresponden a:",
+            "opciones": [
+              "Normas deseables establecidas por expertos.",
+              "Percepciones subjetivas de los individuos.",
+              "Demandas manifiestas de atención sanitaria.",
+              "Comparaciones entre grupos poblacionales."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las necesidades expresadas son las que se manifiestan como demandas de servicios tras percibirse por los individuos."
+          },
+          {
+            "enunciado": "La Ley 16/2011 incluye la prevención de enfermedades mediante:",
+            "opciones": [
+              "Fomentar una planificación familiar efectiva.",
+              "Aumentar el gasto público en infraestructuras.",
+              "Promover el uso de dispositivos médicos avanzados.",
+              "Centralizar los recursos de atención en áreas urbanas."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La planificación familiar efectiva es una medida preventiva clave incluida en la Ley 16/2011."
+          },
+          {
+            "enunciado": "El cuestionario COOP/WONCA es útil porque:",
+            "opciones": [
+              "Evalúa exclusivamente calidad de vida en enfermedades crónicas.",
+              "Está diseñado para medir calidad de vida de manera rápida y fiable.",
+              "Es obligatorio en todos los sistemas de salud europeos.",
+              "Solo aplica a estudios de campo en poblaciones específicas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El cuestionario COOP/WONCA mide la calidad de vida de forma eficiente y confiable en diversos contextos de salud."
+          },
+          {
+            "enunciado": "En el análisis de mortalidad infantil, la tasa neonatal temprana se refiere a:",
+            "opciones": [
+              "Defunciones en los primeros 28 días.",
+              "Muertes entre los 7 y 28 días.",
+              "Muertes ocurridas en los primeros 7 días.",
+              "Defunciones registradas durante el primer mes completo."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa neonatal temprana incluye las muertes ocurridas durante los primeros 7 días de vida."
+          },
+          {
+            "enunciado": "Un indicador de condiciones del medio podría incluir:",
+            "opciones": [
+              "El número de médicos por cada 1.000 habitantes.",
+              "El porcentaje de hogares con saneamiento adecuado.",
+              "La tasa de alfabetización de la población adulta.",
+              "La inversión gubernamental en hospitales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El porcentaje de hogares con saneamiento adecuado refleja condiciones ambientales que impactan la salud."
+          },
+          {
+            "enunciado": "En epidemiología, las tasas de ataque se usan para:",
+            "opciones": [
+              "Estimar el impacto económico de una epidemia.",
+              "Medir la velocidad de propagación de una enfermedad en una población específica.",
+              "Calcular la tasa de prevalencia en enfermedades crónicas.",
+              "Determinar la proporción de población expuesta a factores de riesgo."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas de ataque miden la velocidad de propagación de una enfermedad en un tiempo y población específicos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "Un objetivo principal de la Ley 16/2011 es:",
+            "opciones": [
+              "Centralizar todos los servicios de salud en hospitales públicos.",
+              "Promover la equidad en salud y reducir desigualdades entre poblaciones.",
+              "Establecer medidas obligatorias de vacunación a nivel nacional.",
+              "Garantizar el acceso gratuito a medicamentos para enfermedades raras."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La Ley 16/2011 busca promover la equidad en salud, reduciendo desigualdades relacionadas con factores socioeconómicos y demográficos."
+          },
+          {
+            "enunciado": "En demografía, la población de derecho se refiere a:",
+            "opciones": [
+              "La población empadronada y presente físicamente en el territorio.",
+              "La población registrada oficialmente, independientemente de su presencia.",
+              "Los residentes temporales en un área geográfica específica.",
+              "La población estimada a partir de censos nacionales antiguos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La población de derecho incluye a todas las personas oficialmente registradas en un lugar, estén presentes o no."
+          },
+          {
+            "enunciado": "El cálculo de la esperanza de vida se basa en:",
+            "opciones": [
+              "La prevalencia de enfermedades infecciosas.",
+              "Las tasas de mortalidad en diferentes grupos de edad.",
+              "El porcentaje de la población económicamente activa.",
+              "El acceso a servicios de salud especializados."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La esperanza de vida se calcula utilizando las tasas de mortalidad en distintos grupos de edad, reflejando las condiciones de salud."
+          },
+          {
+            "enunciado": "Un indicador clave para evaluar el acceso a servicios de salud es:",
+            "opciones": [
+              "La tasa de alfabetización de adultos.",
+              "El número de consultas médicas por habitante.",
+              "El porcentaje de población económicamente activa.",
+              "La prevalencia de enfermedades crónicas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El número de consultas médicas por habitante mide el uso y acceso a servicios de salud en una población."
+          },
+          {
+            "enunciado": "En epidemiología, la prevalencia puntual mide:",
+            "opciones": [
+              "El número de casos nuevos en un tiempo específico.",
+              "El total de casos existentes en un momento determinado.",
+              "La relación entre casos hospitalarios y ambulatorios.",
+              "El porcentaje de recuperación en pacientes crónicos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La prevalencia puntual refleja el número total de casos existentes en un momento específico, sin importar cuándo comenzaron."
+          },
+          {
+            "enunciado": "La mortalidad proporcional refleja:",
+            "opciones": [
+              "El número total de defunciones por cada mil habitantes.",
+              "El porcentaje de defunciones atribuibles a una causa específica.",
+              "El impacto económico de las defunciones en una población.",
+              "La comparación entre tasas de mortalidad de diferentes regiones."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La mortalidad proporcional indica el porcentaje de defunciones debidas a una causa específica respecto al total de muertes."
+          },
+          {
+            "enunciado": "¿Qué dimensión no está incluida en los indicadores de calidad de vida relacionada con la salud?",
+            "opciones": [
+              "Bienestar psicológico.",
+              "Estado físico funcional.",
+              "Condiciones laborales del entorno.",
+              "Satisfacción social y emocional."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las condiciones laborales no forman parte directa de los indicadores de calidad de vida relacionada con la salud, que se enfocan en aspectos personales."
+          },
+          {
+            "enunciado": "El análisis por consenso en el diagnóstico de necesidades de salud se caracteriza por:",
+            "opciones": [
+              "Basarse en estadísticas preexistentes exclusivamente.",
+              "Obtener acuerdos mediante discusiones y consultas con expertos.",
+              "Aplicar encuestas masivas a la población general.",
+              "Usar únicamente datos objetivos en el proceso."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis por consenso utiliza la opinión de expertos para identificar necesidades de salud y definir prioridades."
+          },
+          {
+            "enunciado": "La tasa de mortalidad general incluye:",
+            "opciones": [
+              "Defunciones por causas específicas.",
+              "Todas las defunciones en una población en un tiempo dado.",
+              "Muertes neonatales y postneonatales exclusivamente.",
+              "Fallecimientos por enfermedades crónicas solamente."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad general mide todas las defunciones ocurridas en una población durante un período específico."
+          },
+          {
+            "enunciado": "El objetivo principal de un sistema de vigilancia epidemiológica es:",
+            "opciones": [
+              "Calcular tasas de incidencia para todos los grupos de edad.",
+              "Identificar, evaluar y controlar riesgos de salud en la población.",
+              "Centralizar las políticas de salud pública a nivel internacional.",
+              "Detectar exclusivamente enfermedades infecciosas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El sistema de vigilancia busca identificar riesgos de salud, evaluar su impacto y establecer controles eficaces."
+          },
+          {
+            "enunciado": "Un cuestionario específico de CVRS es más adecuado cuando:",
+            "opciones": [
+              "Se necesita comparar poblaciones con diferentes diagnósticos.",
+              "Se requiere evaluar el impacto de una enfermedad concreta.",
+              "Se busca medir factores sociales amplios relacionados con la salud.",
+              "Se analiza exclusivamente el estado físico del paciente."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los cuestionarios específicos son ideales para evaluar enfermedades concretas, siendo sensibles a sus efectos particulares."
+          },
+          {
+            "enunciado": "La Ley 16/2011 incorpora como elemento clave de la vigilancia sanitaria:",
+            "opciones": [
+              "El análisis de datos ambientales y su impacto en la salud pública.",
+              "La construcción de infraestructuras en zonas rurales.",
+              "La distribución gratuita de medicamentos esenciales.",
+              "La promoción de servicios de atención médica privada."
+            ],
+            "correcta": 0,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis de factores ambientales es una actividad esencial de la vigilancia sanitaria según la Ley 16/2011."
+          },
+          {
+            "enunciado": "Una ventaja del análisis por encuestas en la evaluación de necesidades de salud es:",
+            "opciones": [
+              "Proporcionar exclusivamente datos cualitativos.",
+              "Generar información específica y actual sobre la población.",
+              "Evitar la necesidad de aplicar técnicas estadísticas complejas.",
+              "Reducir los costos de implementación de manera significativa."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El análisis por encuestas genera información directa y actualizada sobre las necesidades de la población."
+          },
+          {
+            "enunciado": "En la planificación sanitaria, una necesidad normativa se define como:",
+            "opciones": [
+              "La percepción subjetiva del individuo sobre su salud.",
+              "La demanda manifiesta de servicios sanitarios.",
+              "Lo que los expertos consideran necesario según estándares óptimos.",
+              "La comparación entre necesidades sentidas y expresadas."
+            ],
+            "correcta": 2,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La necesidad normativa se basa en lo que los expertos determinan como necesario, alineado con estándares establecidos."
+          },
+          {
+            "enunciado": "La tasa de letalidad mide:",
+            "opciones": [
+              "El número de defunciones en relación a la población total.",
+              "El porcentaje de defunciones entre los casos diagnosticados de una enfermedad.",
+              "El impacto económico de las defunciones en una región.",
+              "La prevalencia de enfermedades crónicas en un grupo específico."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de letalidad calcula el porcentaje de defunciones entre los casos diagnosticados de una enfermedad específica."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "En epidemiología, ¿qué define mejor la 'letalidad'?",
+            "opciones": [
+              "El número de muertes en una población específica durante un año.",
+              "El porcentaje de casos de una enfermedad que resultan en muerte.",
+              "La proporción de defunciones en menores de 5 años.",
+              "El impacto económico de las enfermedades crónicas."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La letalidad mide el porcentaje de casos de una enfermedad que resultan en muerte, mostrando su gravedad."
+          },
+          {
+            "enunciado": "El sistema de vigilancia epidemiológica debe ser:",
+            "opciones": [
+              "Exclusivamente retrospectivo.",
+              "Proactivo, continuo y sistemático.",
+              "Útil solo en brotes de enfermedades infecciosas.",
+              "Dependiente de sistemas internacionales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El sistema de vigilancia debe ser proactivo y sistemático para identificar y prevenir riesgos de salud pública."
+          },
+          {
+            "enunciado": "En la Ley 16/2011, una acción clave de la prevención de enfermedades incluye:",
+            "opciones": [
+              "Incrementar los hospitales en áreas urbanas.",
+              "El diagnóstico precoz de patologías prioritarias.",
+              "Proporcionar exclusivamente vacunas contra enfermedades infantiles.",
+              "Aumentar el acceso a medicamentos de alta complejidad."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El diagnóstico precoz es una acción esencial en la prevención de enfermedades según la Ley 16/2011."
+          },
+          {
+            "enunciado": "Un indicador sanitario que mide recursos disponibles sería:",
+            "opciones": [
+              "Tasa de mortalidad general.",
+              "Número de camas hospitalarias por cada 1.000 habitantes.",
+              "Esperanza de vida al nacer.",
+              "Porcentaje de vacunación en menores de 5 años."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El número de camas hospitalarias es un indicador clave para evaluar los recursos disponibles en un sistema de salud."
+          },
+          {
+            "enunciado": "En el análisis de datos, las tasas ajustadas son importantes porque:",
+            "opciones": [
+              "Excluyen datos innecesarios de poblaciones específicas.",
+              "Permiten comparaciones más precisas entre diferentes poblaciones.",
+              "Eliminan la necesidad de un denominador poblacional.",
+              "Simplifican el cálculo de la prevalencia."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Las tasas ajustadas permiten comparar poblaciones con diferentes características eliminando el efecto de factores como la edad."
+          },
+          {
+            "enunciado": "La prevalencia de una enfermedad es más útil que la incidencia para:",
+            "opciones": [
+              "Medir la velocidad de propagación de una enfermedad.",
+              "Determinar la carga total de enfermedad en una población.",
+              "Analizar brotes epidémicos recientes.",
+              "Estimar el tiempo necesario para controlar una enfermedad."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La prevalencia mide la carga total de enfermedad, incluyendo casos antiguos y nuevos, en una población en un momento dado."
+          },
+          {
+            "enunciado": "Un ejemplo de un indicador negativo de salud sería:",
+            "opciones": [
+              "Esperanza de vida al nacer.",
+              "Tasa de mortalidad infantil.",
+              "Cobertura de vacunación.",
+              "Porcentaje de personas con acceso a agua potable."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad infantil es un indicador negativo, ya que mide problemas o deficiencias en salud pública."
+          },
+          {
+            "enunciado": "Según la Ley 16/2011, un objetivo clave de la promoción de la salud es:",
+            "opciones": [
+              "Incrementar la construcción de hospitales rurales.",
+              "Reducir desigualdades mediante la mejora de determinantes sociales.",
+              "Garantizar acceso universal a medicamentos genéricos.",
+              "Centralizar todos los sistemas de salud pública en un único organismo."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La promoción de la salud busca mejorar los determinantes sociales para reducir desigualdades en salud."
+          },
+          {
+            "enunciado": "¿Qué característica define a una población 'en riesgo' en epidemiología?",
+            "opciones": [
+              "Todos los individuos que han sido diagnosticados con una enfermedad.",
+              "Individuos susceptibles de desarrollar una enfermedad específica.",
+              "La totalidad de personas en una región geográfica.",
+              "Individuos con acceso limitado a servicios médicos."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Una población 'en riesgo' incluye a los individuos susceptibles de desarrollar una enfermedad debido a sus características o exposición."
+          },
+          {
+            "enunciado": "¿Qué mide la tasa de ataque en un brote epidémico?",
+            "opciones": [
+              "El número de muertes causadas por la enfermedad.",
+              "El porcentaje de personas expuestas que desarrollan la enfermedad.",
+              "El tiempo promedio de recuperación de los afectados.",
+              "El impacto económico del brote en la región."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de ataque mide la proporción de personas expuestas que desarrollan la enfermedad durante un brote."
+          },
+          {
+            "enunciado": "La técnica Delphi se diferencia de otras técnicas de consenso porque:",
+            "opciones": [
+              "Es una herramienta cuantitativa basada en encuestas masivas.",
+              "Utiliza cuestionarios iterativos para obtener consenso entre expertos.",
+              "Se aplica únicamente en estudios de campo de gran escala.",
+              "Excluye opiniones cualitativas para garantizar objetividad."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La técnica Delphi emplea cuestionarios iterativos para alcanzar consenso entre expertos, ideal en contextos de incertidumbre."
+          },
+          {
+            "enunciado": "El índice de Swaroop es un indicador que mide:",
+            "opciones": [
+              "El porcentaje de defunciones por enfermedades crónicas.",
+              "La proporción de muertes en mayores de 50 años respecto al total.",
+              "La incidencia de enfermedades infecciosas en mayores de 60 años.",
+              "El porcentaje de defunciones atribuibles a causas ambientales."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El índice de Swaroop mide el porcentaje de muertes en personas mayores de 50 años, reflejando mejoras en la salud."
+          },
+          {
+            "enunciado": "En el contexto de calidad de vida, los cuestionarios específicos son preferibles cuando:",
+            "opciones": [
+              "Se evalúan poblaciones heterogéneas.",
+              "Se busca medir dimensiones propias de una enfermedad particular.",
+              "Es necesario obtener resultados generales sobre bienestar.",
+              "La comparación entre diferentes grupos es la prioridad."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "Los cuestionarios específicos son ideales para medir aspectos concretos de una enfermedad o condición específica."
+          },
+          {
+            "enunciado": "Un indicador de acceso a servicios básicos podría ser:",
+            "opciones": [
+              "La tasa de mortalidad específica.",
+              "El porcentaje de hogares con acceso a agua potable.",
+              "La incidencia acumulada de enfermedades respiratorias.",
+              "La tasa de alfabetización en la población adulta."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "El acceso a agua potable es un indicador clave para evaluar el acceso a servicios básicos que afectan la salud pública."
+          },
+          {
+            "enunciado": "La tasa de mortalidad infantil mide:",
+            "opciones": [
+              "El número total de muertes en menores de 5 años.",
+              "Las defunciones de niños menores de 1 año por cada 1.000 nacidos vivos.",
+              "El porcentaje de defunciones neonatales durante el primer mes.",
+              "El impacto de las condiciones económicas en la salud infantil."
+            ],
+            "correcta": 1,
+            "categorias": ["tema12", "epidemiologia"],
+            "feedback": "La tasa de mortalidad infantil refleja las defunciones en menores de 1 año por cada 1.000 nacidos vivos."
+          }
+        ]
+      }                           
+]
