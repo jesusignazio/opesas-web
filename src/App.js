@@ -65,10 +65,10 @@ function App() {
             { title: '45: Manejo de heridas y cuidados de la piel', archivo: 'tema45.json', bloque: 1 }
         ],
         '2: Epidemiología y salud pública': [
-            { title: '12: Epidemiología, demografía, salud pública y planes de salud', archivo: 'tema12.json', bloque: 2 },
-            { title: '31: Educación para la salud: planificación y técnicas', archivo: 'tema31.json', bloque: 2 },
-            { title: '33: Epidemiología: prevención, infecciones, higiene y aislamiento', archivo: 'tema33.json', bloque: 2 },
-            { title: '37: Promoción de actividad física y alimentación saludable', archivo: 'tema37.json', bloque: 2 },
+            { title: '•12: Epidemiología, demografía, salud pública y planes de salud', archivo: 'tema12.json', bloque: 2 },
+            { title: '•31: Educación para la salud: planificación y técnicas', archivo: 'tema31.json', bloque: 2 },
+            { title: '•33: Epidemiología: prevención, infecciones, higiene y aislamiento', archivo: 'tema33.json', bloque: 2 },
+            { title: '•37: Promoción de actividad física y alimentación saludable', archivo: 'tema37.json', bloque: 2 },
             { title: '41: Prevención y atención a adicciones y tabaquismo', archivo: 'tema41.json', bloque: 2 },
             { title: '59: Examen de salud para mayores de 65 años', archivo: 'tema59.json', bloque: 2 },
             { title: '62: Comunidad: promoción de salud y participación comunitaria', archivo: 'tema62.json', bloque: 2 }
@@ -148,16 +148,16 @@ function App() {
             { title: '24: Gestión por procesos asistenciales integrados (PAIs)', archivo: 'tema24.json', bloque: 8 },
             { title: '75: Plan de Humanización del Sistema Sanitario Público de Andalucía', archivo: 'tema75.json', bloque: 8 }
         ], '9: Legislación': [
-            { title: '1: Constitución Española: valores, derechos, salud, Jefatura y Poderes', archivo: 'tema1.json', bloque: 9 },
-            { title: '2: Estatuto Andalucía: derechos, salud, competencias y organización institucional', archivo: 'tema2.json', bloque: 9 },
-            { title: '3: Organización sanitaria: sistema público, derechos, planes y estrategias', archivo: 'tema3.json', bloque: 9 },
-            { title: '4: Estructura sanitaria: Atención Primaria, Especializada y áreas especiales', archivo: 'tema4.json', bloque: 9 },
-            { title: '5: Protección de datos y transparencia: derechos, principios, acceso', archivo: 'tema5.json', bloque: 9 },
-            { title: '6: Prevención riesgos laborales: derechos, organización, participación y consulta', archivo: 'tema6.json', bloque: 9 },
-            { title: '7: Igualdad género y violencia: principios, políticas, formación y planes', archivo: 'tema7.json', bloque: 9 },
-            { title: '8: Estatuto personal sanitario: derechos, deberes, movilidad, retribuciones, régimen', archivo: 'tema8.json', bloque: 9 },
-            { title: '9: Autonomía del paciente: información, intimidad, derechos y documentación clínica', archivo: 'tema9.json', bloque: 9 },
-            { title: '10: TIC en SAS: sistemas, puesto digital, ciberseguridad, código conducta', archivo: 'tema10.json', bloque: 9 },
+            { title: '•1: Constitución Española: valores, derechos, salud, Jefatura y Poderes', archivo: 'tema1.json', bloque: 9 },
+            { title: '•2: Estatuto Andalucía: derechos, salud, competencias y organización institucional', archivo: 'tema2.json', bloque: 9 },
+            { title: '•3: Organización sanitaria: sistema público, derechos, planes y estrategias', archivo: 'tema3.json', bloque: 9 },
+            { title: '•4: Estructura sanitaria: Atención Primaria, Especializada y áreas especiales', archivo: 'tema4.json', bloque: 9 },
+            { title: '•5: Protección de datos y transparencia: derechos, principios, acceso', archivo: 'tema5.json', bloque: 9 },
+            { title: '•6: Prevención riesgos laborales: derechos, organización, participación y consulta', archivo: 'tema6.json', bloque: 9 },
+            { title: '•7: Igualdad género y violencia: principios, políticas, formación y planes', archivo: 'tema7.json', bloque: 9 },
+            { title: '•8: Estatuto personal sanitario: derechos, deberes, movilidad, retribuciones, régimen', archivo: 'tema8.json', bloque: 9 },
+            { title: '•9: Autonomía del paciente: información, intimidad, derechos y documentación clínica', archivo: 'tema9.json', bloque: 9 },
+            { title: '•10: TIC en SAS: sistemas, puesto digital, ciberseguridad, código conducta', archivo: 'tema10.json', bloque: 9 },
         ],
     };
 
