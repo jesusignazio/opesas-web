@@ -1,0 +1,917 @@
+[
+    {
+        "enunciado": "¿Qué nivel de prioridad del Sistema Español de Triaje (SET) corresponde a un paciente clasificado con el color verde?",
+        "opciones": [
+          "Requiere atención inmediata por riesgo vital.",
+          "Demorable más de 4 horas de forma segura.",
+          "Urgente con potencial riesgo vital que requiere diagnóstico.",
+          "No urgente, con baja complejidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El color verde en el Sistema Español de Triaje (SET) corresponde a una prioridad demorable más de 4 horas de forma segura, lo que significa que el paciente puede esperar sin comprometer su salud."
+      },
+      
+      {
+        "enunciado": "Según el Sistema Español de Triaje (SET), ¿cuál es la puntuación máxima en el Triage-Revised Trauma Score (T-RTS)?",
+        "opciones": [
+          "8 puntos",
+          "12 puntos",
+          "15 puntos",
+          "20 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_avanzado"],
+        "feedback": "El T-RTS tiene una puntuación máxima de 12, basada en la valoración de la frecuencia respiratoria, presión arterial sistólica y escala de coma de Glasgow."
+      },
+      
+      {
+        "enunciado": "En el contexto del Plan Andaluz de Urgencias y Emergencias, ¿qué demoras máximas se establecen para los pacientes clasificados como Prioridad 3?",
+        "opciones": [
+          "15 minutos",
+          "30 minutos",
+          "60 minutos",
+          "120 minutos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "Para los pacientes clasificados como Prioridad 3, el tiempo máximo de respuesta establecido es de 60 minutos, según el Plan Andaluz de Urgencias y Emergencias."
+      },
+      
+      {
+        "enunciado": "¿Qué función tiene el Responsable de Triaje en un nivel 1 de emergencia sanitaria según el protocolo de actuación extrahospitalaria?",
+        "opciones": [
+          "Realiza maniobras avanzadas de estabilización.",
+          "Coordina la evacuación de las víctimas.",
+          "Organiza el primer triaje básico en el área de rescate.",
+          "Dirige la dispersión hospitalaria."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Responsable de Triaje, según el protocolo, organiza el primer triaje básico en el área de rescate y colabora en la agrupación de las víctimas hacia el área asistencial."
+      },
+      
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una característica del Sistema Español de Triaje (SET)?",
+        "opciones": [
+          "Basado en 5 niveles de priorización.",
+          "Aplica discriminadores específicos y generales.",
+          "Utiliza una escala de 4 niveles de priorización.",
+          "Incorpora algoritmos de ayuda a la decisión clínica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El SET utiliza una escala de 5 niveles de priorización, no de 4. Esta última corresponde a otros sistemas locales o adaptados."
+      },
+      {
+        "enunciado": "¿Qué diferencia fundamental establece la OMS entre una urgencia y una emergencia?",
+        "opciones": [
+          "La urgencia requiere atención inmediata y la emergencia no.",
+          "La emergencia tiene riesgo vital inminente, mientras que la urgencia no necesariamente.",
+          "La urgencia exige transporte especializado, la emergencia no.",
+          "La emergencia se produce fuera del horario laboral normal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "conceptos_basicos"],
+        "feedback": "Según la OMS, la emergencia implica un riesgo vital inminente y debe ser atendida en menos de una hora, mientras que la urgencia, aunque requiere atención inmediata, no necesariamente implica peligro de muerte."
+      },
+      
+      {
+        "enunciado": "¿Qué nivel de atención extrahospitalaria del SSPA incluye unidades móviles para urgencias y emergencias?",
+        "opciones": [
+          "Servicios de urgencias hospitalarias (SUH)",
+          "Dispositivos de Cuidados Críticos y Urgencias (DCCU)",
+          "Equipos Básicos de Atención Primaria (EBAP)",
+          "Servicios de Coordinación Avanzada (SCA)"
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "atención_extrahospitalaria"],
+        "feedback": "Los Dispositivos de Cuidados Críticos y Urgencias (DCCU) del SSPA son equipos móviles que operan fuera de las infraestructuras fijas y están dotados de UVI móviles y ambulancias convencionales."
+      },
+      
+      {
+        "enunciado": "¿Cuál es la principal función del Puesto de Mando Avanzado (PMA) en situaciones de catástrofe?",
+        "opciones": [
+          "Coordinación de los recursos sanitarios y no sanitarios en el lugar del incidente.",
+          "Realización de triaje avanzado en el área de socorro.",
+          "Supervisión de las evacuaciones hospitalarias.",
+          "Gestión de los equipos de logística y transporte."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Puesto de Mando Avanzado (PMA) actúa como el núcleo de coordinación entre todos los recursos operativos en el lugar del incidente, asegurando una respuesta integrada y eficiente."
+      },
+      
+      {
+        "enunciado": "Según el método START utilizado en catástrofes, ¿qué prioridad se asigna a un paciente que respira tras abrir su vía aérea pero tiene alteración del estado mental?",
+        "opciones": [
+          "Negra",
+          "Verde",
+          "Amarilla",
+          "Roja"
+        ],
+        "correcta": 3,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "En el método START, la alteración del estado mental implica prioridad roja, ya que requiere una intervención inmediata para estabilizar al paciente."
+      },
+      
+      {
+        "enunciado": "¿Qué línea estratégica del Plan Andaluz de Urgencias y Emergencias busca potenciar la digitalización y la innovación tecnológica?",
+        "opciones": [
+          "Fortalecimiento de los sistemas de información de urgencias.",
+          "Desarrollo de la Enfermería de Práctica Avanzada (EPA).",
+          "Impulso de protocolos de derivación y actuación.",
+          "Reordenación funcional del sistema de urgencias."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El fortalecimiento de los sistemas de información de urgencias tiene como objetivo incorporar tecnologías digitales y mejorar la gestión del conocimiento en este ámbito."
+      },
+      
+      {
+        "enunciado": "En el triaje avanzado de estabilización (ATLS), ¿qué criterio tiene mayor prioridad?",
+        "opciones": [
+          "Alteración cardiovascular.",
+          "Problema crítico en la ventilación.",
+          "Hemorragia controlada.",
+          "Alteración del nivel de conciencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_avanzado"],
+        "feedback": "Los problemas críticos en la ventilación tienen máxima prioridad en el triaje avanzado, ya que comprometen rápidamente la vida si no se solucionan."
+      },
+      
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el Plan de Emergencia es INCORRECTA?",
+        "opciones": [
+          "Es un mecanismo jerárquico y funcional para coordinar recursos.",
+          "Es gestionado exclusivamente por autoridades sanitarias.",
+          "Incluye recursos públicos y privados.",
+          "Define directrices para la intervención en catástrofes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_emergencias"],
+        "feedback": "El Plan de Emergencia no es gestionado exclusivamente por autoridades sanitarias; incluye la colaboración de múltiples organismos para una respuesta integral."
+      },
+      
+      {
+        "enunciado": "¿Qué sistema de clasificación utiliza la escala de Glasgow como parte de su evaluación?",
+        "opciones": [
+          "Triage-Revised Trauma Score (T-RTS).",
+          "Escala de Manchester.",
+          "Método START.",
+          "Sistema Español de Triaje (SET)."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "El T-RTS incorpora la escala de Glasgow, junto con la frecuencia respiratoria y la presión arterial sistólica, para valorar la gravedad del paciente."
+      },
+      
+      {
+        "enunciado": "En el contexto del SSPA, ¿qué tipo de transporte realizan las Unidades de Enfermería de la Red Sanitaria de Transporte de Críticos?",
+        "opciones": [
+          "Primario en emergencias vitales.",
+          "Secundario en procesos de riesgo moderado o bajo.",
+          "Urgencias no hospitalarias.",
+          "Traslado de pacientes fallecidos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "transporte_críticos"],
+        "feedback": "Las Unidades de Enfermería realizan transporte secundario, asegurando la continuidad de cuidados para pacientes con riesgos moderados o bajos."
+      },
+      
+      {
+        "enunciado": "Según el Sistema Español de Triaje (SET), ¿qué discriminador específico permite distinguir entre los niveles II y III?",
+        "opciones": [
+          "Dolor.",
+          "Signos vitales anormales.",
+          "Hemorragia masiva.",
+          "Nivel de conciencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_discriminadores"],
+        "feedback": "Los signos vitales anormales son un discriminador específico que permite diferenciar entre un paciente crítico nivel II y uno nivel III según el SET."
+      },
+      
+      {
+        "enunciado": "¿Qué organismo coordina las emergencias sanitarias extrahospitalarias en Andalucía?",
+        "opciones": [
+          "EPES.",
+          "CCUE.",
+          "CCES.",
+          "PAUE."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "coordinación_emergencias"],
+        "feedback": "El Centro Coordinador de Emergencias Sanitarias (CCES) gestiona y coordina las emergencias sanitarias extrahospitalarias en Andalucía."
+      },
+      
+      {
+        "enunciado": "¿Qué significa la prioridad negra en el triaje de catástrofes?",
+        "opciones": [
+          "Paciente fallecido.",
+          "Paciente con posibilidad de recuperación a largo plazo.",
+          "Paciente que puede esperar más de 6 horas para la atención.",
+          "Paciente no crítico con resolución domiciliaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "La prioridad negra indica un paciente fallecido o con lesiones incompatibles con la vida, donde no se aplican medidas de reanimación."
+      },
+      
+      {
+        "enunciado": "En el modelo de triaje de Manchester, ¿qué nivel se asocia a situaciones muy urgentes con riesgo vital?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "El Nivel II de la escala de Manchester corresponde a situaciones muy urgentes que requieren atención en un plazo máximo de 10 minutos."
+    },
+    {
+        "enunciado": "¿Qué nivel de emergencia según el Plan de Emergencias de Andalucía se activa cuando hay más de 60 víctimas potenciales?",
+        "opciones": [
+          "Nivel 1.",
+          "Nivel 2.",
+          "Nivel 3.",
+          "Nivel 4."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El nivel 3 de emergencia se activa cuando hay más de 60 víctimas potenciales, requiriendo recursos extraordinarios e incluso de otros servicios provinciales."
+      },
+      
+      {
+        "enunciado": "¿Cuál es el objetivo principal del Plan Andaluz de Urgencias y Emergencias (PAUE)?",
+        "opciones": [
+          "Reducir los tiempos de respuesta en la atención extrahospitalaria.",
+          "Garantizar la equidad en la prestación de los servicios de urgencias.",
+          "Homogeneizar y mejorar la asistencia urgente en el SSPA.",
+          "Implementar un sistema único de triaje en los hospitales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El objetivo del PAUE es homogeneizar y mejorar la asistencia urgente en el ámbito hospitalario y extrahospitalario del SSPA."
+      },
+      
+      {
+        "enunciado": "Según el método START, ¿qué determina la prioridad verde en el triaje de una catástrofe?",
+        "opciones": [
+          "Ausencia de respuesta a estímulos.",
+          "Capacidad para caminar.",
+          "Frecuencia respiratoria menor de 30.",
+          "Ausencia de pulso radial."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "En el método START, los pacientes que pueden caminar se clasifican con prioridad verde, indicando que su situación no es crítica."
+      },
+      
+      {
+        "enunciado": "¿Qué ventaja destaca del Sistema Español de Triaje (SET) frente a otros sistemas de triaje?",
+        "opciones": [
+          "Solo puede ser utilizado por médicos.",
+          "Incluye integración digital de constantes vitales.",
+          "Requiere equipos avanzados de monitorización.",
+          "Utiliza únicamente discriminadores subjetivos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El SET permite integrar de forma digital las constantes vitales, lo que minimiza errores y facilita la toma de decisiones clínicas en el triaje."
+      },
+      {
+        "enunciado": "En el triaje avanzado de evacuación, ¿qué herramienta se utiliza para priorizar el traslado hospitalario?",
+        "opciones": [
+          "Glasgow Coma Scale (GCS).",
+          "Método START.",
+          "Triage-Revised Trauma Score (T-RTS).",
+          "Escala de severidad clínica (ESC)."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_avanzado"],
+        "feedback": "El T-RTS se emplea en el triaje avanzado de evacuación para determinar el orden de traslado de pacientes en base a parámetros fisiológicos."
+      },
+      
+      {
+        "enunciado": "¿Qué establece el tiempo de espera de primera consulta facultativa (TEPCOF) en un servicio de urgencias?",
+        "opciones": [
+          "El tiempo desde el cierre de triaje hasta la primera evaluación médica.",
+          "El tiempo total de permanencia en el área de observación.",
+          "El tiempo desde la llegada del paciente hasta su admisión.",
+          "El tiempo desde el inicio de la consulta médica hasta el alta."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "tiempos_urgencias"],
+        "feedback": "El TEPCOF mide el tiempo desde que se cierra el proceso de triaje hasta que el médico realiza la primera evaluación clínica del paciente."
+      },
+      
+      {
+        "enunciado": "¿Qué característica es exclusiva del circuito de atención básica en urgencias hospitalarias?",
+        "opciones": [
+          "Monitorización continua para pacientes críticos.",
+          "Atención a prioridades 4 y 5 con consultas de acto único.",
+          "Utilización de algoritmos avanzados de triaje.",
+          "Realización de pruebas diagnósticas complejas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "circuitos_urgencias"],
+        "feedback": "El circuito de atención básica está diseñado para consultas de acto único, como las prioridades 4 y 5, sin necesidad de pruebas diagnósticas avanzadas."
+      },
+      
+      {
+        "enunciado": "¿Qué nivel de la Escala de Manchester implica una demora máxima de 60 minutos?",
+        "opciones": [
+          "Nivel II: Muy urgente.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente.",
+          "Nivel V: No urgente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "El nivel III de la Escala de Manchester, clasificado como 'Urgente', establece una demora máxima de 60 minutos para la atención médica."
+      },
+      
+      {
+        "enunciado": "¿Qué definición describe mejor el concepto de catástrofe según la OMS?",
+        "opciones": [
+          "Cualquier evento con un número elevado de víctimas.",
+          "Alteración del orden normal con desproporción entre necesidades y recursos.",
+          "Emergencia limitada en tiempo y espacio.",
+          "Situación fortuita con riesgo potencial de muerte."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "conceptos_basicos"],
+        "feedback": "La OMS define una catástrofe como una alteración significativa del orden normal que desborda los recursos disponibles, generando una desproporción crítica."
+      },
+      
+      {
+        "enunciado": "En el sistema de triaje de Manchester, ¿qué discriminador general incluye 'nivel de conciencia'?",
+        "opciones": [
+          "Dolor.",
+          "Riesgo vital.",
+          "Agudeza.",
+          "Temperatura."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "El 'nivel de conciencia' es un discriminador general que evalúa el riesgo vital del paciente y guía la prioridad de atención en el sistema de Manchester."
+      },
+      
+      {
+        "enunciado": "¿Cuál es la prioridad máxima según el Sistema Español de Triaje (SET) y su tiempo de atención?",
+        "opciones": [
+          "Prioridad I: Inmediata.",
+          "Prioridad II: En 7 minutos.",
+          "Prioridad III: En 30 minutos.",
+          "Prioridad IV: En 45 minutos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "La Prioridad I del SET exige atención inmediata sin ningún tipo de demora, ya que implica situaciones críticas como reanimación."
+      },
+      
+      {
+        "enunciado": "¿Qué procedimiento de triaje se recomienda en incidentes NBQ para priorizar descontaminación y evacuación?",
+        "opciones": [
+          "Modelo START.",
+          "Triage-Revised Trauma Score (T-RTS).",
+          "Método de Cone y Koenig.",
+          "Escala de Manchester."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "En incidentes NBQ, el método de Cone y Koenig es esencial, ya que integra la prioridad de descontaminación y evacuación según los síntomas tóxicos observados."
+      },
+      {
+        "enunciado": "En el Plan Andaluz de Urgencias y Emergencias, ¿qué se entiende por 'Tiempo Asistencial Total en el Área de Consultas' (TATCO)?",
+        "opciones": [
+          "Tiempo entre la llegada del paciente y su primera consulta.",
+          "Tiempo total desde el cierre de admisión hasta el alta o traslado a observación.",
+          "Duración de la primera consulta médica hasta el alta.",
+          "Periodo desde la apertura del triaje hasta la salida efectiva del área de consultas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "tiempos_urgencias"],
+        "feedback": "El TATCO mide el tiempo total que transcurre desde el cierre de admisión hasta que el paciente es dado de alta o trasladado al área de observación."
+      },
+      
+      {
+        "enunciado": "¿Qué nivel de emergencia, según el Plan Territorial de Emergencia de Andalucía (PTEAnd), se activa con menos de 10 víctimas potenciales?",
+        "opciones": [
+          "Nivel 1.",
+          "Nivel 2.",
+          "Nivel 3.",
+          "No requiere activación de nivel."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Nivel 1 del PTEAnd se activa en emergencias con menos de 10 víctimas potenciales, donde los daños son poco significativos."
+      },
+      
+      {
+        "enunciado": "En el Sistema Español de Triaje (SET), ¿qué característica facilita la toma de decisiones clínicas rápidas?",
+        "opciones": [
+          "La evaluación subjetiva del profesional.",
+          "La integración digital de constantes vitales.",
+          "La clasificación en tres niveles prioritarios.",
+          "La ausencia de protocolos avanzados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El SET destaca por su capacidad de integrar digitalmente constantes vitales, lo que agiliza la priorización clínica y reduce el margen de error."
+      },
+      
+      {
+        "enunciado": "¿Qué discriminador general del Sistema de Triaje de Manchester se usa para evaluar el tiempo de evolución de los síntomas?",
+        "opciones": [
+          "Agudeza.",
+          "Nivel de conciencia.",
+          "Riesgo vital.",
+          "Dolor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "La agudeza es un discriminador general en el sistema Manchester que evalúa el tiempo de evolución de los síntomas para clasificar la urgencia."
+      },
+      
+      {
+        "enunciado": "En una situación de emergencia colectiva, ¿qué nivel de prioridad se asigna a pacientes con lesiones potencialmente exanguinantes?",
+        "opciones": [
+          "T1 (rojo): Prioridad inmediata.",
+          "T2 (amarillo): Prioridad urgente.",
+          "T3 (verde): Prioridad demorable.",
+          "T4 (negro): Fallecido."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Las lesiones potencialmente exanguinantes se consideran de máxima prioridad (T1, rojo) y requieren evacuación inmediata."
+      },
+      
+      {
+        "enunciado": "¿Qué establece el protocolo START sobre un paciente que no respira después de abrir su vía aérea?",
+        "opciones": [
+          "Se clasifica como T4 (negro).",
+          "Se clasifica como T1 (rojo).",
+          "Se inicia ventilación mecánica inmediatamente.",
+          "Se traslada al área de atención verde."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Según el protocolo START, un paciente que no respira tras apertura de la vía aérea se clasifica como T4 (negro) y se considera fallecido."
+      },
+      
+      {
+        "enunciado": "En el ámbito hospitalario, ¿cuál es la función principal del circuito pediátrico en urgencias?",
+        "opciones": [
+          "Atender casos de prioridad 1 exclusivamente.",
+          "Manejar pacientes menores de 14 años con prioridades 2 a 5.",
+          "Gestionar urgencias obstétricas y ginecológicas en menores de edad.",
+          "Priorizar la hospitalización de niños con patologías crónicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "circuitos_urgencias"],
+        "feedback": "El circuito pediátrico está diseñado específicamente para atender a pacientes menores de 14 años con prioridades entre 2 y 5."
+      },
+      
+      {
+        "enunciado": "¿Qué nivel del Sistema Español de Triaje (SET) corresponde al color naranja?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "El color naranja en el SET indica el Nivel III, correspondiente a casos urgentes que requieren atención en un tiempo máximo de 30 minutos."
+      },
+      
+      {
+        "enunciado": "¿Cuál es el tiempo máximo de atención para pacientes clasificados como Prioridad 5 en el Plan Andaluz de Urgencias y Emergencias?",
+        "opciones": [
+          "120 minutos.",
+          "60 minutos.",
+          "240 minutos.",
+          "100 minutos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El Plan Andaluz de Urgencias y Emergencias establece un tiempo máximo de atención de 120 minutos para pacientes clasificados como Prioridad 5."
+      },
+      
+      {
+        "enunciado": "En el modelo START, ¿qué parámetro se evalúa al comprobar la respuesta mental de un paciente?",
+        "opciones": [
+          "Capacidad de caminar.",
+          "Presión arterial sistólica.",
+          "Respuesta a órdenes simples.",
+          "Presencia de pulso radial."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "La respuesta mental en el método START se evalúa mediante la capacidad del paciente para seguir órdenes simples, lo que ayuda a determinar su prioridad."
+      },
+      
+      {
+        "enunciado": "¿Qué tiempo máximo de atención establece el Sistema de Triaje de Manchester para un paciente clasificado en Nivel IV?",
+        "opciones": [
+          "30 minutos.",
+          "60 minutos.",
+          "120 minutos.",
+          "240 minutos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "En el Sistema de Triaje de Manchester, los pacientes de Nivel IV tienen un tiempo máximo de atención de 120 minutos, al no presentar riesgo vital inmediato."
+      },
+      
+      {
+        "enunciado": "¿Cuál es la responsabilidad principal del primer equipo de emergencias en un nivel 1 de emergencia sanitaria?",
+        "opciones": [
+          "Realizar triaje avanzado en el área de socorro.",
+          "Coordinar la evacuación de víctimas al hospital.",
+          "Organizar la asistencia sanitaria en el lugar del incidente.",
+          "Gestionar el parque de ambulancias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "En un nivel 1 de emergencia sanitaria, el primer equipo de emergencias es responsable de organizar la asistencia sanitaria en el lugar del incidente."
+      },
+      
+      {
+        "enunciado": "¿Qué característica define al transporte secundario realizado por unidades de soporte vital avanzado (SVA)?",
+        "opciones": [
+          "Traslado urgente por riesgo vital inminente.",
+          "Continuidad de cuidados similares al centro de origen.",
+          "Traslado exclusivo a unidades de cuidados intensivos.",
+          "Uso limitado a pacientes pediátricos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "transporte_críticos"],
+        "feedback": "El transporte secundario realizado por unidades SVA asegura la continuidad de los cuidados iniciados en el centro de origen para pacientes de riesgo moderado o bajo."
+      },
+      {
+        "enunciado": "En el Plan Andaluz de Urgencias y Emergencias, ¿qué se entiende por 'Tiempo Asistencial Total en el Área de Consultas' (TATCO)?",
+        "opciones": [
+          "Tiempo entre la llegada del paciente y su primera consulta.",
+          "Tiempo total desde el cierre de admisión hasta el alta o traslado a observación.",
+          "Duración de la primera consulta médica hasta el alta.",
+          "Periodo desde la apertura del triaje hasta la salida efectiva del área de consultas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "tiempos_urgencias"],
+        "feedback": "El TATCO mide el tiempo total desde que se cierra la admisión hasta que el paciente es dado de alta o trasladado al área de observación, incluyendo todos los procesos en el área de consultas."
+      },
+      {
+        "enunciado": "¿Qué nivel de emergencia según el Plan Territorial de Emergencia de Andalucía (PTEAnd) se activa con menos de 10 víctimas potenciales?",
+        "opciones": [
+          "Nivel 1.",
+          "Nivel 2.",
+          "Nivel 3.",
+          "No requiere activación de nivel."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Nivel 1 de emergencia corresponde a situaciones con menos de 10 víctimas, donde los daños son limitados y no requieren activación de recursos extraordinarios."
+      },
+      {
+        "enunciado": "En el Sistema Español de Triaje (SET), ¿qué característica facilita la toma de decisiones clínicas rápidas?",
+        "opciones": [
+          "La evaluación subjetiva del profesional.",
+          "La integración digital de constantes vitales.",
+          "La clasificación en tres niveles prioritarios.",
+          "La ausencia de protocolos avanzados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El SET integra digitalmente constantes vitales como la presión arterial o la temperatura, ayudando a tomar decisiones clínicas rápidas y precisas."
+      },
+      {
+        "enunciado": "¿Qué discriminador general del Sistema de Triaje de Manchester se usa para evaluar el tiempo de evolución de los síntomas?",
+        "opciones": [
+          "Agudeza.",
+          "Nivel de conciencia.",
+          "Riesgo vital.",
+          "Dolor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "La 'agudeza' evalúa el tiempo de evolución de los síntomas en el sistema Manchester, ayudando a priorizar la atención según la rapidez de progresión."
+      },
+      {
+        "enunciado": "En una situación de emergencia colectiva, ¿qué nivel de prioridad se asigna a pacientes con lesiones potencialmente exanguinantes?",
+        "opciones": [
+          "T1 (rojo): Prioridad inmediata.",
+          "T2 (amarillo): Prioridad urgente.",
+          "T3 (verde): Prioridad demorable.",
+          "T4 (negro): Fallecido."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Las lesiones exanguinantes se clasifican como T1 (rojo), la máxima prioridad en emergencias colectivas, indicando la necesidad de intervención inmediata. Otras prioridades incluyen T2 (amarillo, urgencias en 2-4 horas), T3 (verde, demorable más de 4 horas) y T4 (negro, fallecido)."
+      },
+      {
+        "enunciado": "¿Qué establece el protocolo START sobre un paciente que no respira después de abrir su vía aérea?",
+        "opciones": [
+          "Se clasifica como T4 (negro).",
+          "Se clasifica como T1 (rojo).",
+          "Se inicia ventilación mecánica inmediatamente.",
+          "Se traslada al área de atención verde."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Según el protocolo START, un paciente que no respira tras apertura de la vía aérea se clasifica como T4 (negro), considerándose fallecido. Los niveles T1, T2 y T3 corresponden a diferentes grados de prioridad según la gravedad."
+      },
+      {
+        "enunciado": "En el ámbito hospitalario, ¿cuál es la función principal del circuito pediátrico en urgencias?",
+        "opciones": [
+          "Atender casos de prioridad 1 exclusivamente.",
+          "Manejar pacientes menores de 14 años con prioridades 2 a 5.",
+          "Gestionar urgencias obstétricas y ginecológicas en menores de edad.",
+          "Priorizar la hospitalización de niños con patologías crónicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "circuitos_urgencias"],
+        "feedback": "El circuito pediátrico se especializa en la atención de pacientes menores de 14 años con prioridades 2 (muy urgentes) a 5 (no urgentes), asegurando una atención adecuada según la edad y gravedad."
+      },
+      {
+        "enunciado": "¿Qué nivel del Sistema Español de Triaje (SET) corresponde al color naranja?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "El color naranja en el SET corresponde al Nivel III, que implica urgencias con atención necesaria en un máximo de 30 minutos. Otros niveles incluyen: Nivel I (azul, inmediato), Nivel II (rojo, 7 minutos), Nivel IV (verde, 45 minutos) y Nivel V (negro, 60 minutos)."
+      },
+      {
+        "enunciado": "¿Cuál es el tiempo máximo de atención para pacientes clasificados como Prioridad 5 en el Plan Andaluz de Urgencias y Emergencias?",
+        "opciones": [
+          "120 minutos.",
+          "60 minutos.",
+          "240 minutos.",
+          "100 minutos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El Plan Andaluz establece para Prioridad 5 un tiempo máximo de 120 minutos. Otros tiempos son: Prioridad 1 (inmediato), Prioridad 2 (15 minutos), Prioridad 3 (60 minutos) y Prioridad 4 (100 minutos)."
+      },
+      {
+        "enunciado": "En el modelo START, ¿qué parámetro se evalúa al comprobar la respuesta mental de un paciente?",
+        "opciones": [
+          "Capacidad de caminar.",
+          "Presión arterial sistólica.",
+          "Respuesta a órdenes simples.",
+          "Presencia de pulso radial."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "La respuesta a órdenes simples es el parámetro evaluado en el modelo START para determinar la función neurológica del paciente, ayudando a establecer la prioridad del triaje."
+      },
+      {
+        "enunciado": "¿Qué nivel de emergencia del Plan Territorial de Emergencia de Andalucía (PTEAnd) puede requerir recursos de ámbito comarcal o provincial?",
+        "opciones": [
+          "Nivel 1.",
+          "Nivel 2.",
+          "Nivel 3.",
+          "Nivel 4."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Nivel 2 se activa en emergencias con entre 10 y 60 víctimas potenciales, requiriendo recursos extraordinarios comarcales o provinciales. El Nivel 1 cubre menos de 10 víctimas, y el Nivel 3 más de 60."
+      },
+      {
+        "enunciado": "En el Sistema Español de Triaje (SET), ¿qué nivel se asocia al color negro?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel IV: Menos urgente.",
+          "Nivel V: No urgente."
+        ],
+        "correcta": 3,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "El color negro en el SET corresponde al Nivel V (no urgente), con un tiempo máximo de atención de 60 minutos. Los otros niveles incluyen: Nivel I (inmediato), Nivel II (7 minutos), Nivel III (30 minutos) y Nivel IV (45 minutos)."
+      },
+      {
+        "enunciado": "¿Qué componente del primer equipo de emergencias se encarga del triaje en el lugar del incidente?",
+        "opciones": [
+          "El Responsable de Evacuación.",
+          "El Mando Sanitario.",
+          "El Responsable de Triaje.",
+          "El Director del Centro Coordinador."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Responsable de Triaje del primer equipo organiza el triaje inicial básico en el área de rescate, asignando prioridades según la gravedad de las víctimas."
+      },
+      {
+        "enunciado": "En el sistema de triaje de Manchester, ¿qué nivel requiere atención médica en un plazo máximo de 10 minutos?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Muy urgente.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "El Nivel II (muy urgente) del sistema Manchester requiere atención médica en un máximo de 10 minutos. El Nivel I (reanimación) es inmediato, mientras que los niveles III, IV y V permiten mayores demoras."
+      },
+      {
+        "enunciado": "En el método START, ¿qué prioridad se asigna a un paciente con una frecuencia respiratoria superior a 30 por minuto?",
+        "opciones": [
+          "T1 (rojo): Prioridad inmediata.",
+          "T2 (amarillo): Prioridad urgente.",
+          "T3 (verde): Prioridad demorable.",
+          "T4 (negro): Fallecido."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Una frecuencia respiratoria superior a 30 rpm clasifica al paciente como T1 (rojo) en el método START, indicando necesidad de intervención inmediata."
+      },
+      {
+        "enunciado": "¿Qué establece el Plan Andaluz de Urgencias y Emergencias sobre la protocolización de procesos clínicos en los servicios de urgencias hospitalarios (SUH)?",
+        "opciones": [
+          "Deben incluir todos los posibles escenarios clínicos.",
+          "Deben ser aplicados únicamente en el área de observación.",
+          "Deben cubrir los procesos más prevalentes y estar consensuados.",
+          "Deben ser elaborados por cada facultativo de manera individual."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El PAUE establece que los protocolos en los SUH deben enfocarse en procesos prevalentes, estar consensuados entre servicios y beneficiar al menos al 80% de los pacientes."
+      },
+      {
+        "enunciado": "En el Sistema Español de Triaje (SET), ¿qué nivel de prioridad incluye situaciones que requieren monitorización continua pero sin riesgo vital inmediato?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El Nivel III del SET incluye situaciones urgentes que pueden requerir monitorización continua, pero sin riesgo vital inmediato, con un tiempo de respuesta máximo de 30 minutos."
+      },
+      {
+        "enunciado": "¿Qué tiempo de demora máxima recomienda el Plan Andaluz de Urgencias y Emergencias para una prioridad 2?",
+        "opciones": [
+          "Inmediata.",
+          "15 minutos.",
+          "30 minutos.",
+          "60 minutos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El PAUE establece una demora máxima de 15 minutos para la prioridad 2 (muy urgente). Otros tiempos son: inmediata (prioridad 1), 60 minutos (prioridad 3), 100 minutos (prioridad 4) y 120 minutos (prioridad 5)."
+      },
+      {
+        "enunciado": "¿Qué circuito de urgencias hospitalarias maneja exclusivamente patologías obstétricas y ginecológicas?",
+        "opciones": [
+          "Circuito Pediátrico.",
+          "Circuito Obstétrico-Ginecológico.",
+          "Circuito Polivalente.",
+          "Circuito de Atención Básica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "circuitos_urgencias"],
+        "feedback": "El circuito Obstétrico-Ginecológico está diseñado exclusivamente para mujeres con problemas obstétricos y ginecológicos, cubriendo prioridades 2 a 5 según la gravedad."
+      },
+      {
+        "enunciado": "¿Qué función específica tiene el Responsable de Evacuación en un nivel 2 de emergencia sanitaria?",
+        "opciones": [
+          "Realizar triaje avanzado.",
+          "Coordinar el parking de ambulancias y el punto de carga.",
+          "Dirigir el Puesto de Mando Avanzado.",
+          "Supervisar la logística sanitaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Responsable de Evacuación organiza el parking de ambulancias y el punto de carga, asegurando la regulación adecuada de las salidas en un nivel 2 de emergencia."
+      },
+      {
+        "enunciado": "En el Sistema Español de Triaje (SET), ¿qué nivel se asigna a pacientes con un dolor intenso pero sin riesgo vital inminente?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_escalas"],
+        "feedback": "En el SET, el Nivel III corresponde a pacientes con dolor intenso y potencial riesgo, pero sin compromiso vital inmediato. El tiempo máximo de atención es de 30 minutos."
+      },
+      {
+        "enunciado": "¿Qué se evalúa en el triaje avanzado de estabilización según el protocolo ATLS?",
+        "opciones": [
+          "Frecuencia respiratoria y estado mental.",
+          "Control de hemorragias y nivel de conciencia.",
+          "Problemas críticos en las vías respiratorias, ventilación y circulación.",
+          "Temperatura corporal y saturación de oxígeno."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_avanzado"],
+        "feedback": "El triaje avanzado de estabilización según el ATLS evalúa problemas críticos en vías respiratorias, ventilación y circulación, priorizando la atención según su gravedad."
+      },
+      {
+        "enunciado": "En el Plan Andaluz de Urgencias y Emergencias, ¿qué objetivo tiene la protocolización en los SUAP (Servicios de Urgencias de Atención Primaria)?",
+        "opciones": [
+          "Atender solo emergencias con riesgo vital.",
+          "Reducir el tiempo de traslado de pacientes al hospital.",
+          "Consensuar procesos clínicos prevalentes para mejorar la atención.",
+          "Limitar la atención a patologías no urgentes."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "En los SUAP, la protocolización busca consensuar procesos clínicos prevalentes para mejorar la calidad de la atención y facilitar criterios de derivación al hospital."
+      },
+      {
+        "enunciado": "¿Qué tipo de prioridad en el método START se asigna a un paciente con pulso radial ausente?",
+        "opciones": [
+          "T1 (rojo): Prioridad inmediata.",
+          "T2 (amarillo): Prioridad urgente.",
+          "T3 (verde): Prioridad demorable.",
+          "T4 (negro): Fallecido."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "La ausencia de pulso radial clasifica al paciente como T1 (rojo) en el método START, ya que indica un problema crítico que requiere intervención inmediata."
+      },
+      {
+        "enunciado": "En el Plan Territorial de Emergencia de Andalucía (PTEAnd), ¿qué nivel de emergencia se activa ante daños graves que afectan a más de 60 víctimas potenciales?",
+        "opciones": [
+          "Nivel 1.",
+          "Nivel 2.",
+          "Nivel 3.",
+          "Nivel 4."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "actuación_catástrofes"],
+        "feedback": "El Nivel 3 del PTEAnd se activa ante daños graves con más de 60 víctimas potenciales, requiriendo recursos interprovinciales e incluso nacionales."
+      },
+      {
+        "enunciado": "En el sistema de triaje de Manchester, ¿qué discriminador general evalúa la severidad del dolor?",
+        "opciones": [
+          "Agudeza.",
+          "Nivel de conciencia.",
+          "Riesgo vital.",
+          "Dolor."
+        ],
+        "correcta": 3,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_manchester"],
+        "feedback": "El discriminador 'dolor' en el sistema Manchester evalúa la intensidad percibida por el paciente, orientando su prioridad de atención según los protocolos establecidos."
+      },
+      {
+        "enunciado": "Según el protocolo START, ¿qué clasificación se asigna a un paciente que camina pero presenta heridas menores?",
+        "opciones": [
+          "T1 (rojo): Prioridad inmediata.",
+          "T2 (amarillo): Prioridad urgente.",
+          "T3 (verde): Prioridad demorable.",
+          "T4 (negro): Fallecido."
+        ],
+        "correcta": 2,
+        "categorías": ["tema42", "respuestas_urgencias", "triaje_catástrofes"],
+        "feedback": "Un paciente que camina y presenta heridas menores se clasifica como T3 (verde) en el método START, indicando que puede esperar más de 4 horas para recibir atención."
+      },
+      {
+        "enunciado": "¿Qué nivel del Sistema Español de Triaje (SET) se corresponde con un paciente en riesgo vital que necesita atención inmediata?",
+        "opciones": [
+          "Nivel I: Reanimación.",
+          "Nivel II: Emergencia.",
+          "Nivel III: Urgente.",
+          "Nivel IV: Menos urgente."
+        ],
+        "correcta": 0,
+        "categorías": ["tema42", "respuestas_urgencias", "sistemas_triaje"],
+        "feedback": "El Nivel I (Reanimación) en el SET es el más crítico y exige atención inmediata para pacientes en riesgo vital. Otros niveles permiten tiempos de espera mayores según la gravedad."
+      },
+      {
+        "enunciado": "¿Qué tiempo de demora máxima recomienda el Plan Andaluz de Urgencias y Emergencias para pacientes de prioridad 4?",
+        "opciones": [
+          "60 minutos.",
+          "100 minutos.",
+          "120 minutos.",
+          "240 minutos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "plan_andaluz"],
+        "feedback": "El tiempo máximo para prioridad 4 es de 100 minutos. Otros tiempos incluyen: inmediata (prioridad 1), 15 minutos (prioridad 2), 60 minutos (prioridad 3) y 120 minutos (prioridad 5)."
+      },
+      {
+        "enunciado": "En el circuito de atención básica en urgencias hospitalarias, ¿qué tipo de pruebas diagnósticas pueden realizarse?",
+        "opciones": [
+          "Análisis completos y estudios avanzados.",
+          "Radiología simple y tiras reactivas.",
+          "Monitorización continua y electrocardiogramas.",
+          "Ecografías y resonancias magnéticas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema42", "respuestas_urgencias", "circuitos_urgencias"],
+        "feedback": "En el circuito de atención básica, las pruebas diagnósticas son limitadas a tiras reactivas y radiología simple, siendo suficiente para prioridades bajas como 4 y 5."
+      }
+
+]

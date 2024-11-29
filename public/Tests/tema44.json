@@ -1,0 +1,1643 @@
+[
+    {
+        "enunciado": "¿Cuál es el principal objetivo de la visita prequirúrgica de enfermería?",
+        "opciones": [
+            "Administrar medicación preanestésica.",
+            "Proporcionar información y reducir la ansiedad del paciente.",
+            "Realizar una exploración física completa del paciente.",
+            "Determinar la dieta adecuada antes de la cirugía."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "La visita prequirúrgica busca personalizar los cuidados y reducir la ansiedad del paciente mediante información clara sobre el procedimiento quirúrgico."
+    },
+    {
+        "enunciado": "En el periodo intraoperatorio, ¿quién es responsable de mantener la comunicación entre los miembros del equipo quirúrgico?",
+        "opciones": [
+            "El cirujano.",
+            "La enfermera instrumentista.",
+            "La enfermera circulante.",
+            "El anestesista."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "La enfermera circulante desempeña un papel crucial al coordinar actividades, vigilar la seguridad del paciente y mantener la comunicación entre el equipo."
+    },
+    {
+        "enunciado": "¿Qué fase de la anestesia general se caracteriza por la pérdida de la conciencia?",
+        "opciones": [
+            "Premedicación.",
+            "Inducción.",
+            "Anestesia.",
+            "Despertar."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "La fase de inducción es clave, ya que es el momento en que el paciente pierde la conciencia, permitiendo iniciar el procedimiento quirúrgico."
+    },
+    {
+        "enunciado": "¿Qué clasificación anestésica (ASA) describe a un paciente con un trastorno sistémico grave que pone en peligro su vida?",
+        "opciones": [
+            "ASA II.",
+            "ASA III.",
+            "ASA IV.",
+            "ASA V."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "ASA IV corresponde a un paciente con un trastorno sistémico grave que pone en peligro su vida y no es corregible mediante la intervención."
+    },
+    {
+        "enunciado": "¿Cuál es una de las causas más frecuentes de alteración del intercambio gaseoso en el postoperatorio inmediato?",
+        "opciones": [
+            "Obstrucción de la vía aérea.",
+            "Arritmias cardíacas.",
+            "Alteración del equilibrio hidroelectrolítico.",
+            "Dolor agudo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "La obstrucción de la vía aérea es una complicación común en el postoperatorio inmediato, tratable con oxigenoterapia y una posición adecuada."
+    },
+    {
+        "enunciado": "¿Qué parámetro no se evalúa en el Test de Aldrette para el alta postquirúrgica?",
+        "opciones": [
+            "Actividad motora.",
+            "Nivel de conciencia.",
+            "Temperatura corporal.",
+            "Color."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El Test de Aldrette incluye parámetros como actividad motora, respiración, circulación, nivel de conciencia y color, pero no evalúa la temperatura corporal."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal de la preparación intestinal preoperatoria?",
+        "opciones": [
+            "Reducir el riesgo de broncoaspiración.",
+            "Prevenir la distensión abdominal durante la cirugía.",
+            "Garantizar la visualización del área quirúrgica y prevenir estreñimiento postoperatorio.",
+            "Evitar infecciones nosocomiales."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "La preparación intestinal permite limpiar el tracto, facilitando la visualización del área quirúrgica y previniendo el estreñimiento postoperatorio."
+    },
+    {
+        "enunciado": "¿Qué tipo de anestesia regional está indicada en pacientes con alteración de la vía respiratoria?",
+        "opciones": [
+            "Anestesia epidural.",
+            "Anestesia raquídea.",
+            "Bloqueo de Bier.",
+            "Anestesia local."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "La anestesia raquídea es adecuada en pacientes con alteración de la vía respiratoria, ya que evita riesgos asociados a la intubación."
+    },
+    {
+        "enunciado": "¿Qué factor incrementa el riesgo de lesiones en la posición de litotomía durante una cirugía?",
+        "opciones": [
+            "La presión sobre el plexo braquial.",
+            "La disminución de la expansión pulmonar.",
+            "El riesgo de lesión del nervio ciático externo.",
+            "La hiperextensión cervical."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "En la posición de litotomía, el nervio ciático externo está en riesgo, por lo que se deben tomar precauciones para prevenir lesiones."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la colocación de drenajes tras una cirugía?",
+        "opciones": [
+            "Facilitar la administración de medicamentos.",
+            "Evitar el cierre en falso de abscesos y controlar fugas.",
+            "Reducir el dolor postoperatorio.",
+            "Prevenir infecciones nosocomiales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "Los drenajes permiten evacuar líquidos o gases acumulados, evitando infecciones y controlando posibles fugas tras la cirugía."
+    },
+    {
+        "enunciado": "¿Qué técnica de ventilación es útil para prevenir atelectasias en el postoperatorio tardío?",
+        "opciones": [
+            "Bostezo y espirometría.",
+            "Oxigenoterapia.",
+            "Cambios posturales frecuentes.",
+            "Sonda de ventilación invasiva."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El bostezo y la espirometría son maniobras efectivas para maximizar la insuflación alveolar y prevenir atelectasias en el postoperatorio."
+    },
+    {
+        "enunciado": "¿Qué característica define a los drenajes de aspiración continua como el de Redón?",
+        "opciones": [
+            "Se utilizan solo para líquidos linfáticos.",
+            "Están diseñados para funcionar por gravedad.",
+            "Generan vacío para evacuar líquidos acumulados.",
+            "Están fabricados exclusivamente de polietileno."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "Los drenajes de Redón emplean un sistema de vacío para evacuar líquidos, siendo ideales en postoperatorios donde se requiera una evacuación eficiente."
+    },
+    {
+        "enunciado": "¿Qué acción de la enfermera circulante contribuye a minimizar la ansiedad del paciente durante la cirugía?",
+        "opciones": [
+            "Registrar las constantes vitales del paciente.",
+            "Informar al paciente sobre los pasos previos y durante la intervención.",
+            "Controlar el suministro de material estéril.",
+            "Asegurar la integridad del campo quirúrgico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "La enfermera circulante reduce la ansiedad informando al paciente sobre los procedimientos, creando un ambiente de confianza."
+    },
+    {
+        "enunciado": "En el periodo postoperatorio inmediato, ¿qué acción es fundamental para prevenir hipotensión en el paciente?",
+        "opciones": [
+            "Administrar líquidos intravenosos de forma adecuada.",
+            "Realizar cambios posturales frecuentes.",
+            "Aplicar oxigenoterapia.",
+            "Monitorizar el nivel de conciencia del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "La hipotensión en el postoperatorio inmediato se previene administrando líquidos intravenosos para mantener el equilibrio hidroelectrolítico."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizarse antes de trasladar al paciente al quirófano?",
+        "opciones": [
+            "Administrar un sedante intravenoso.",
+            "Revisar la historia clínica y el consentimiento informado.",
+            "Confirmar la dieta líquida del paciente.",
+            "Realizar una valoración completa de su estado respiratorio."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "Antes de la cirugía, es esencial revisar la historia clínica y el consentimiento informado para asegurar que todo esté en orden."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal de la visita prequirúrgica de enfermería?",
+        "opciones": [
+            "Administrar la medicación preanestésica.",
+            "Evaluar el estado emocional y proporcionar información.",
+            "Determinar el tipo de anestesia que se utilizará.",
+            "Realizar una exploración física exhaustiva del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "El propósito principal de la visita prequirúrgica de enfermería es disminuir la ansiedad del paciente y su familia, proporcionando información y personalizando los cuidados."
+    },
+    {
+        "enunciado": "¿Qué área del bloque quirúrgico requiere el uso de gorro, mascarilla y patucos incluso cuando no se esté realizando una intervención?",
+        "opciones": [
+            "Área de intercambio.",
+            "Área limpia.",
+            "Área estéril.",
+            "Área sucia."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "El área estéril del bloque quirúrgico requiere el uso de gorro, mascarilla y patucos para mantener la asepsia, incluso en ausencia de intervenciones."
+    },
+    {
+        "enunciado": "¿Qué posición quirúrgica es más adecuada para procedimientos pélvicos y cirugía abdominal inferior?",
+        "opciones": [
+            "Decúbito supino.",
+            "Trendelemburg.",
+            "Litotomía.",
+            "Decúbito prono."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "La posición de Trendelemburg, donde la cabeza está más baja que el tronco, facilita el acceso quirúrgico en procedimientos pélvicos y abdominales inferiores."
+    },
+    {
+        "enunciado": "Según los criterios ASA, ¿a qué clasificación corresponde un paciente con una enfermedad grave que causa alguna limitación funcional?",
+        "opciones": [
+            "ASA II.",
+            "ASA III.",
+            "ASA IV.",
+            "ASA V."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "Un paciente con una enfermedad grave que causa alguna limitación funcional pertenece a la clasificación ASA III."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una complicación frecuente en el postoperatorio inmediato?",
+        "opciones": [
+            "Atelectasia.",
+            "Infección del sitio quirúrgico.",
+            "Hipovolemia.",
+            "Fístulas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "La atelectasia, o colapso de los alvéolos pulmonares, es una complicación frecuente en el postoperatorio inmediato debido a la inmovilidad y los efectos de la anestesia."
+    },
+    {
+        "enunciado": "¿Cuál es la escala utilizada para valorar la recuperación postanestésica en cirugía ambulatoria?",
+        "opciones": [
+            "Escala de Goldberg.",
+            "Test de Aldrette.",
+            "Escala de Ramsay.",
+            "Test de Barthel."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El Test de Aldrette es utilizado para valorar la recuperación postanestésica, evaluando parámetros como actividad motora, respiración, circulación, nivel de conciencia y color."
+    },
+    {
+        "enunciado": "¿Cuál es la función de un drenaje de tipo 'Redón'?",
+        "opciones": [
+            "Evacuar líquido linfático acumulado.",
+            "Mantener la permeabilidad de la vía aérea.",
+            "Evacuar contenido gástrico residual.",
+            "Proporcionar analgesia postoperatoria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El drenaje de Redón se utiliza para evacuar líquidos o sangre acumulados en el área quirúrgica mediante un sistema de aspiración continua."
+    },
+    {
+        "enunciado": "¿Qué aspecto debe revisarse antes de trasladar al paciente al quirófano?",
+        "opciones": [
+            "La posición quirúrgica.",
+            "El protocolo de anestesia.",
+            "La documentación completa, incluidos resultados y consentimiento informado.",
+            "La presencia de material estéril en quirófano."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "Es crucial que la documentación, incluidos los resultados de pruebas complementarias y el consentimiento informado, esté completa antes de trasladar al paciente al quirófano."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas anestésicas requiere la inyección del anestésico en el espacio subaracnoideo?",
+        "opciones": [
+            "Anestesia epidural.",
+            "Anestesia intratecal.",
+            "Bloqueo troncular.",
+            "Anestesia local."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "La anestesia intratecal implica la inyección del anestésico en el espacio subaracnoideo, mezclándose con el líquido cefalorraquídeo."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizarse ante un drenaje que no expulsa contenido de forma súbita?",
+        "opciones": [
+            "Cerrar el drenaje de inmediato.",
+            "Aplicar presión manual en la zona.",
+            "Informar al médico y comprobar posibles obstrucciones o dobleces en el tubo.",
+            "Retirar el drenaje y realizar una cura diaria."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "Ante un drenaje que no expulsa contenido, es fundamental informar al médico y verificar si hay obstrucciones o dobleces en el tubo."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal de la visita prequirúrgica de enfermería?",
+        "opciones": [
+            "Administrar la medicación preanestésica.",
+            "Evaluar el estado emocional y proporcionar información.",
+            "Determinar el tipo de anestesia que se utilizará.",
+            "Realizar una exploración física exhaustiva del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "El propósito principal de la visita prequirúrgica de enfermería es disminuir la ansiedad del paciente y su familia, proporcionando información personalizada. Además, asegura que el paciente esté preparado emocionalmente para afrontar la intervención quirúrgica."
+    },
+    {
+        "enunciado": "¿Qué área del bloque quirúrgico requiere el uso de gorro, mascarilla y patucos incluso cuando no se esté realizando una intervención?",
+        "opciones": [
+            "Área de intercambio.",
+            "Área limpia.",
+            "Área estéril.",
+            "Área sucia."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "El área estéril del bloque quirúrgico requiere medidas estrictas de asepsia, incluyendo el uso de gorro, mascarilla y patucos, para prevenir cualquier contaminación en los procedimientos quirúrgicos."
+    },
+    {
+        "enunciado": "¿Qué posición quirúrgica es más adecuada para procedimientos pélvicos y cirugía abdominal inferior?",
+        "opciones": [
+            "Decúbito supino.",
+            "Trendelemburg.",
+            "Litotomía.",
+            "Decúbito prono."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "intraoperatorio"
+        ],
+        "feedback": "La posición de Trendelemburg, con la cabeza más baja que el tronco, es ideal para procedimientos pélvicos y cirugía abdominal inferior, ya que mejora la exposición quirúrgica al desplazar las vísceras."
+    },
+    {
+        "enunciado": "Según los criterios ASA, ¿a qué clasificación corresponde un paciente con una enfermedad grave que causa alguna limitación funcional?",
+        "opciones": [
+            "ASA II.",
+            "ASA III.",
+            "ASA IV.",
+            "ASA V."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "Los criterios ASA clasifican a los pacientes según su estado físico: ASA I incluye pacientes sanos sin enfermedades sistémicas; ASA II abarca enfermedades sistémicas leves o moderadas sin limitaciones funcionales; ASA III corresponde a enfermedades graves con limitación funcional; ASA IV incluye desórdenes sistémicos que amenazan la vida, y ASA V describe pacientes moribundos con pocas expectativas de supervivencia, incluso con cirugía."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una complicación frecuente en el postoperatorio inmediato?",
+        "opciones": [
+            "Atelectasia.",
+            "Infección del sitio quirúrgico.",
+            "Hipovolemia.",
+            "Fístulas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "La atelectasia, o colapso de los alvéolos pulmonares, ocurre frecuentemente en el postoperatorio inmediato debido a la inmovilidad y los efectos de la anestesia. Es importante realizar ejercicios respiratorios y movilización precoz para prevenirla."
+    },
+    {
+        "enunciado": "¿Cuál es la escala utilizada para valorar la recuperación postanestésica en cirugía ambulatoria?",
+        "opciones": [
+            "Escala de Goldberg.",
+            "Test de Aldrette.",
+            "Escala de Ramsay.",
+            "Test de Barthel."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El Test de Aldrette evalúa cinco parámetros básicos (actividad motora, respiración, circulación, nivel de conciencia y color) para valorar la recuperación postanestésica, siendo clave en la decisión de alta en cirugía ambulatoria."
+    },
+    {
+        "enunciado": "¿Cuál es la función de un drenaje de tipo 'Redón'?",
+        "opciones": [
+            "Evacuar líquido linfático acumulado.",
+            "Mantener la permeabilidad de la vía aérea.",
+            "Evacuar contenido gástrico residual.",
+            "Proporcionar analgesia postoperatoria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "El drenaje de Redón es un dispositivo de aspiración continua utilizado para evacuar líquidos o sangre del área quirúrgica, reduciendo el riesgo de infecciones y promoviendo la cicatrización."
+    },
+    {
+        "enunciado": "¿Qué aspecto debe revisarse antes de trasladar al paciente al quirófano?",
+        "opciones": [
+            "La posición quirúrgica.",
+            "El protocolo de anestesia.",
+            "La documentación completa, incluidos resultados y consentimiento informado.",
+            "La presencia de material estéril en quirófano."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "preoperatorio"
+        ],
+        "feedback": "Antes del traslado al quirófano, se debe asegurar que la documentación esté completa, incluyendo resultados de pruebas complementarias y el consentimiento informado, elementos clave para la seguridad del paciente."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas anestésicas requiere la inyección del anestésico en el espacio subaracnoideo?",
+        "opciones": [
+            "Anestesia epidural.",
+            "Anestesia intratecal.",
+            "Bloqueo troncular.",
+            "Anestesia local."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "anestesia"
+        ],
+        "feedback": "La anestesia intratecal implica la inyección del anestésico en el espacio subaracnoideo, mezclándose con el líquido cefalorraquídeo para bloquear la transmisión nerviosa en las raíces raquídeas."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizarse ante un drenaje que no expulsa contenido de forma súbita?",
+        "opciones": [
+            "Cerrar el drenaje de inmediato.",
+            "Aplicar presión manual en la zona.",
+            "Informar al médico y comprobar posibles obstrucciones o dobleces en el tubo.",
+            "Retirar el drenaje y realizar una cura diaria."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema44",
+            "urg_quirurgico",
+            "postoperatorio"
+        ],
+        "feedback": "Ante un drenaje que deja de expulsar contenido, se debe informar al médico y verificar si hay obstrucciones, dobleces o bloqueos en el tubo antes de tomar otras acciones."
+    },
+    {
+        "enunciado": "¿Qué objetivo fundamental persigue la administración de medicación preanestésica?",
+        "opciones": [
+          "Prevenir infecciones en el campo quirúrgico.",
+          "Asegurar que el paciente esté en ayuno adecuado.",
+          "Disminuir la ansiedad y preparar al paciente para la anestesia.",
+          "Facilitar la intubación endotraqueal durante la cirugía."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "preoperatorio"],
+        "feedback": "La medicación preanestésica busca disminuir la ansiedad, sedar al paciente, reducir secreciones y prevenir reacciones adversas durante la anestesia."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas NO es una recomendación para reducir infecciones del sitio quirúrgico?",
+        "opciones": [
+          "Duchar al paciente con jabón antiséptico antes de la cirugía.",
+          "Rasurar el campo quirúrgico con una maquinilla eléctrica justo antes de la intervención.",
+          "Mantener uñas cortas y realizar lavado prequirúrgico de manos durante al menos 2 minutos.",
+          "Administrar profilaxis antibiótica siempre después de la cirugía."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La profilaxis antibiótica debe administrarse antes de la cirugía en intervenciones de riesgo, no después, para prevenir infecciones."
+      },
+      {
+        "enunciado": "¿Qué diagnóstico de enfermería es más frecuente en el intraoperatorio?",
+        "opciones": [
+          "Alteración de la imagen corporal.",
+          "Riesgo de lesión relacionado con la posición quirúrgica.",
+          "Déficit de autocuidado.",
+          "Riesgo de infección relacionado con la herida quirúrgica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "Durante el intraoperatorio, una posición quirúrgica inadecuada puede causar lesiones nerviosas, musculares o cutáneas, lo que hace crucial la vigilancia en este aspecto."
+      },
+      {
+        "enunciado": "¿Qué tipo de anestesia se administra en el espacio epidural sin perforar la duramadre?",
+        "opciones": [
+          "Anestesia intratecal.",
+          "Anestesia epidural.",
+          "Anestesia local.",
+          "Bloqueo troncular."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "anestesia"],
+        "feedback": "La anestesia epidural se administra en el espacio epidural, sin perforar la duramadre, y es común en procedimientos obstétricos y cirugías abdominales."
+      },
+      {
+        "enunciado": "¿Qué elemento se evalúa en el Test de Aldrette para valorar la recuperación postanestésica?",
+        "opciones": [
+          "Reflejo pupilar.",
+          "Frecuencia cardiaca basal.",
+          "Nivel de conciencia.",
+          "Respuesta al dolor."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El Test de Aldrette incluye la evaluación del nivel de conciencia, junto con actividad motora, respiración, circulación y color, para determinar si el paciente está listo para ser dado de alta de la sala de recuperación."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes se utiliza principalmente en cirugía de vías biliares?",
+        "opciones": [
+          "Drenaje de Redón.",
+          "Drenaje Penrose.",
+          "Tubo en T o de Kher.",
+          "Drenaje de Jackson-Pratt."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El tubo en T o de Kher es ideal para vaciar la bilis en cirugías de vías biliares, permitiendo un adecuado drenaje y control postoperatorio."
+      },
+      {
+        "enunciado": "¿Cuál es el diagnóstico de enfermería más común en el postoperatorio inmediato?",
+        "opciones": [
+          "Ansiedad relacionada con el procedimiento quirúrgico.",
+          "Alteración del intercambio gaseoso.",
+          "Riesgo de infección por el drenaje quirúrgico.",
+          "Déficit de autocuidado: alimentación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "En el postoperatorio inmediato, la alteración del intercambio gaseoso es frecuente debido a hipoventilación o complicaciones respiratorias relacionadas con la anestesia."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica se utiliza comúnmente en cirugías ginecológicas?",
+        "opciones": [
+          "Decúbito supino.",
+          "Litotomía.",
+          "Fowler.",
+          "Trendelemburg."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de litotomía, con las piernas elevadas y apoyadas en estribos, es utilizada principalmente en cirugías ginecológicas y urológicas."
+      },
+      {
+        "enunciado": "¿Qué recurso puede ayudar a reducir la ansiedad prequirúrgica del paciente?",
+        "opciones": [
+          "Proporcionar información detallada sobre los riesgos de la cirugía.",
+          "Aumentar la medicación sedante preanestésica.",
+          "Utilizar técnicas de relajación y escucha activa.",
+          "Evitar el contacto con la familia para reducir estímulos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "preoperatorio"],
+        "feedback": "Las técnicas de relajación, junto con la escucha activa y la información personalizada, ayudan significativamente a disminuir la ansiedad del paciente antes de la cirugía."
+      },
+      {
+        "enunciado": "¿Qué parámetro se debe monitorizar especialmente en un paciente con anestesia epidural postoperatoria?",
+        "opciones": [
+          "Respuesta a estímulos dolorosos.",
+          "Nivel de líquido cefalorraquídeo.",
+          "Función motora y sensorial de las extremidades inferiores.",
+          "Estado de las vías respiratorias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "En pacientes con anestesia epidural, es crucial monitorizar la función motora y sensorial de las extremidades inferiores para identificar posibles complicaciones como retención urinaria o efectos adversos del bloqueo."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje utiliza la fuerza de gravedad o la presión de los órganos circundantes para evacuar líquidos?",
+        "opciones": [
+          "Drenaje por aspiración continua.",
+          "Drenaje simple.",
+          "Drenaje mixto.",
+          "Drenaje activo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje simple utiliza la fuerza de gravedad, la presión de los órganos o la capilaridad para evacuar líquidos sin necesidad de sistemas de aspiración activa."
+      },
+      {
+        "enunciado": "¿Cuál es una característica de los drenajes de aspiración continua?",
+        "opciones": [
+          "Se basan únicamente en la fuerza de gravedad.",
+          "No requieren sujeción externa.",
+          "Utilizan un sistema que genera vacío para retirar el contenido acumulado.",
+          "Están diseñados únicamente para heridas superficiales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "Los drenajes de aspiración continua, como el drenaje de Redón, utilizan sistemas que generan vacío para evacuar eficazmente líquidos o sangre del área quirúrgica."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje combina un tubo y gasas en su interior para favorecer el vaciado mediante capilaridad?",
+        "opciones": [
+          "Drenaje de Redón.",
+          "Drenaje en cigarrillo.",
+          "Drenaje Penrose.",
+          "Drenaje de Saratoga."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje en cigarrillo combina un tubo de látex con gasas en su interior, lo que facilita el vaciado mediante capilaridad y es útil para heridas infectadas o cavidades profundas."
+      },
+      {
+        "enunciado": "¿Qué drenaje es ideal para evacuar líquidos biliares en cirugías de las vías biliares?",
+        "opciones": [
+          "Drenaje de Jackson-Pratt.",
+          "Drenaje Penrose.",
+          "Tubo en T o Kher.",
+          "Drenaje de Abramson."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El tubo en T o Kher es diseñado específicamente para evacuar bilis, conectándose a bolsas colectoras en procedimientos de vías biliares."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes pertenece al grupo de los mixtos?",
+        "opciones": [
+          "Drenaje de Mikulicz.",
+          "Drenaje de Redón.",
+          "Drenaje Penrose.",
+          "Drenaje en T o Kher."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Mikulicz es un drenaje mixto que combina gasas para absorber líquidos y tubos para evacuar sólidos, ideal en heridas con contenido heterogéneo."
+      },
+      {
+        "enunciado": "¿Qué ventaja presenta el drenaje de Redón en comparación con otros tipos de drenajes?",
+        "opciones": [
+          "No necesita un sistema de vacío para funcionar.",
+          "Puede evacuar grandes volúmenes de aire y líquidos.",
+          "Es altamente flexible y evita la obstrucción.",
+          "Utiliza presión negativa para un drenaje eficiente y continuo."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Redón utiliza presión negativa generada por un sistema de vacío, lo que permite un drenaje eficiente y continuo de líquidos y sangre acumulados."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje se caracteriza por su flexibilidad y transparencia, además de tener múltiples orificios?",
+        "opciones": [
+          "Drenaje Penrose.",
+          "Drenaje de Saratoga.",
+          "Drenaje en cigarrillo.",
+          "Drenaje Tejadillo o Silastic."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje Tejadillo o Silastic está hecho de silicona, es flexible y transparente, y sus múltiples orificios lo hacen ideal para procedimientos abdominales, además de poder conectarse a sistemas de aspiración."
+      },
+      {
+        "enunciado": "¿Qué drenaje incluye una luz central para evacuar líquidos y otras para introducir aire o soluciones irrigantes?",
+        "opciones": [
+          "Drenaje de Redón.",
+          "Drenaje de Abramson.",
+          "Drenaje en T o Kher.",
+          "Drenaje de Jackson-Pratt."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Abramson cuenta con una luz central para evacuar el contenido y otras para permitir la irrigación de soluciones o la introducción de aire filtrado, ideal para el manejo de infecciones complicadas."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje es frecuentemente utilizado para heridas infectadas que se cierran por segunda intención?",
+        "opciones": [
+          "Drenaje en cigarrillo.",
+          "Drenaje con gasas en mecha.",
+          "Drenaje Tejadillo.",
+          "Drenaje de Saratoga."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "Los drenajes con gasas en mecha son ideales para heridas infectadas que se cierran por segunda intención, ya que favorecen la eliminación de exudados mediante capilaridad."
+      },
+      {
+        "enunciado": "¿Cuál es el principal uso del drenaje de Jackson-Pratt?",
+        "opciones": [
+          "Drenaje de bilis en cirugía hepática.",
+          "Evacuación de sangre y líquidos mediante un sistema cerrado de succión.",
+          "Control de infecciones profundas en cavidades abdominales.",
+          "Vaciado de abscesos con líquidos viscosos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Jackson-Pratt es un sistema cerrado que utiliza succión para evacuar sangre y líquidos, minimizando el riesgo de infecciones."
+      },
+      {
+        "enunciado": "¿Qué característica distingue a los drenajes mixtos?",
+        "opciones": [
+          "Utilizan solo la presión negativa para extraer líquidos.",
+          "Combinan diferentes sistemas para potenciar su funcionalidad.",
+          "Son rígidos y se emplean en heridas superficiales.",
+          "Requieren una única luz para evacuar líquidos o sólidos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "Los drenajes mixtos combinan características de varios tipos de drenajes, como tubos y gasas, para potenciar su utilidad en casos complejos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes funciona por capilaridad y se utiliza en heridas pequeñas con poco contenido líquido?",
+        "opciones": [
+          "Drenaje de Mikulicz.",
+          "Drenaje filiforme.",
+          "Drenaje en T o Kher.",
+          "Drenaje de Redón."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje filiforme utiliza hilos delgados que favorecen la evacuación de líquidos por capilaridad, siendo adecuado para heridas pequeñas con poco exudado."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje incluye gasas impregnadas que permiten la absorción de líquidos mientras mantienen el sitio limpio?",
+        "opciones": [
+          "Drenaje con gasas en mecha.",
+          "Drenaje Tejadillo.",
+          "Drenaje en cigarrillo.",
+          "Drenaje de Jackson-Pratt."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "Los drenajes con gasas en mecha son ideales para heridas que requieren drenaje continuo y control de la infección mediante absorción de líquidos."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje es más efectivo para grandes acumulaciones de sangre y linfa en procedimientos de resección?",
+        "opciones": [
+          "Drenaje de Redón.",
+          "Drenaje de Penrose.",
+          "Drenaje de Abramson.",
+          "Drenaje de Saratoga."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Saratoga, con dos luces para succión y aireación, es ideal para evacuar grandes cantidades de sangre y linfa en intervenciones de alta complejidad."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje utiliza un sistema de succión cerrado para evitar infecciones y expulsar líquido acumulado?",
+        "opciones": [
+          "Drenaje de Mikulicz.",
+          "Drenaje de Jackson-Pratt.",
+          "Drenaje en cigarrillo.",
+          "Drenaje Penrose."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Jackson-Pratt utiliza un sistema cerrado de succión que minimiza el riesgo de infecciones y permite una eficiente evacuación de líquidos."
+      },
+      {
+        "enunciado": "¿Qué drenaje se recomienda para prevenir fugas tras cirugías mayores?",
+        "opciones": [
+          "Drenaje Penrose.",
+          "Drenaje de Redón.",
+          "Drenaje filiforme.",
+          "Drenaje Tejadillo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Redón es especialmente útil tras cirugías mayores, ya que su sistema de aspiración continua ayuda a prevenir fugas y controla hemorragias internas."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes es particularmente útil para vaciar abscesos profundos y prevenir el cierre prematuro?",
+        "opciones": [
+          "Drenaje de Penrose.",
+          "Drenaje en cigarrillo.",
+          "Drenaje con gasas en mecha.",
+          "Drenaje Tejadillo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje con gasas en mecha se utiliza frecuentemente en abscesos profundos, ya que ayuda a drenar el contenido y evita un cierre prematuro que podría agravar la infección."
+      },
+      {
+        "enunciado": "¿Qué drenaje es adecuado para evitar contaminación en heridas quirúrgicas al evacuar líquidos mediante tubos rígidos o flexibles?",
+        "opciones": [
+          "Drenaje de Saratoga.",
+          "Drenaje de Penrose.",
+          "Drenaje con tubos de goma o polietileno.",
+          "Drenaje de Jackson-Pratt."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "Los drenajes con tubos de goma o polietileno son versátiles, adecuados para evacuar líquidos de cavidades profundas y evitar contaminación en heridas quirúrgicas."
+      },
+      {
+        "enunciado": "¿Qué drenaje se utiliza principalmente para heridas quirúrgicas con poco contenido líquido y sin coágulos?",
+        "opciones": [
+          "Drenaje filiforme.",
+          "Drenaje con gasas en mecha.",
+          "Drenaje de Saratoga.",
+          "Drenaje Tejadillo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje filiforme es ideal para heridas quirúrgicas pequeñas con poco contenido líquido, ya que expulsa el exudado por capilaridad sin obstruirse por coágulos."
+      },
+      {
+        "enunciado": "¿Qué drenaje combina un tubo de plástico y gasas para optimizar el vaciado de líquidos y sólidos?",
+        "opciones": [
+          "Drenaje de Jackson-Pratt.",
+          "Drenaje de Pasman.",
+          "Drenaje en cigarrillo.",
+          "Drenaje de Abramson."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "postoperatorio"],
+        "feedback": "El drenaje de Pasman utiliza una combinación de tubo de plástico y gasas, lo que favorece el vaciado eficiente de líquidos y sólidos, siendo útil en zonas como la cavidad tiroidea."
+      },
+      {
+        "enunciado": "¿Cuál es la posición quirúrgica más comúnmente utilizada en procedimientos abdominales y cirugía vascular?",
+        "opciones": [
+          "Trendelemburg.",
+          "Decúbito supino.",
+          "Litotomía.",
+          "Decúbito prono."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de decúbito supino, donde el paciente está acostado boca arriba, es la más utilizada en procedimientos abdominales, torácicos y cirugía vascular."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica requiere al paciente boca abajo, con la camilla elevada a nivel abdominal para cirugías rectales?",
+        "opciones": [
+          "Fowler.",
+          "Kraske o Navaja.",
+          "Litotomía.",
+          "Trendelemburg."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición Kraske o Navaja coloca al paciente en decúbito prono con la camilla elevada en la región abdominal, siendo ideal para cirugías rectales y coccígeas."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica eleva las piernas del paciente, siendo especialmente útil en procedimientos ginecológicos y urológicos?",
+        "opciones": [
+          "Decúbito supino.",
+          "Litotomía.",
+          "Decúbito lateral.",
+          "Trendelenburg."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de litotomía eleva las piernas del paciente y las coloca en estribos, facilitando el acceso para procedimientos ginecológicos, urológicos y rectales."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica coloca la cabeza del paciente más baja que el tronco, facilitando procedimientos pélvicos?",
+        "opciones": [
+          "Trendelemburg.",
+          "Fowler.",
+          "Antitrendelemburg.",
+          "Decúbito lateral."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de Trendelemburg, con la cabeza más baja que el tronco, mejora la visualización y acceso en cirugías pélvicas y abdominales inferiores."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica se utiliza para intervenciones en la cara, boca y cuello, colocando al paciente sentado?",
+        "opciones": [
+          "Fowler.",
+          "Kraske.",
+          "Litotomía.",
+          "Decúbito lateral."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de Fowler, donde el paciente está semi-sentado, es adecuada para procedimientos en la cara, boca, cuello y algunas cirugías craneales."
+      },
+      {
+        "enunciado": "¿Cuál es la principal desventaja de la posición de Trendelemburg en procedimientos largos?",
+        "opciones": [
+          "Compromiso de la expansión pulmonar.",
+          "Aumento del riesgo de tromboembolismo.",
+          "Dificultad para el acceso a las extremidades superiores.",
+          "Mayor riesgo de úlceras por presión en las prominencias óseas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de Trendelemburg puede dificultar la expansión pulmonar debido al desplazamiento de las vísceras hacia el diafragma, especialmente en procedimientos prolongados."
+      },
+      {
+        "enunciado": "¿En qué posición quirúrgica se coloca al paciente en decúbito lateral con la mesa quirúrgica flexionada en los flancos?",
+        "opciones": [
+          "Decúbito lateral.",
+          "Nefrectomía.",
+          "Fowler.",
+          "Kraske."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de nefrectomía es una modificación de decúbito lateral con flexión en los flancos, utilizada comúnmente en cirugías renales."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica facilita el drenaje pulmonar y el acceso quirúrgico en procedimientos pulmonares?",
+        "opciones": [
+          "Fowler.",
+          "Decúbito lateral.",
+          "Litotomía.",
+          "Trendelemburg."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de decúbito lateral es utilizada en procedimientos pulmonares, permitiendo un mejor acceso quirúrgico y facilitando el drenaje del pulmón no operado."
+      },
+      {
+        "enunciado": "¿Qué posición quirúrgica requiere al paciente en decúbito prono con soporte para el tronco y las extremidades libres?",
+        "opciones": [
+          "Laminectomía.",
+          "Fowler.",
+          "Nefrectomía.",
+          "Antitrendelemburg."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de laminectomía se utiliza para cirugías de columna, colocando al paciente en decúbito prono y asegurando soporte adecuado para el tronco y extremidades."
+      },
+      {
+        "enunciado": "¿Cuál es el riesgo asociado a la posición de litotomía durante procedimientos largos?",
+        "opciones": [
+          "Atelectasias por compresión torácica.",
+          "Lesión del nervio ciático externo.",
+          "Dificultad en el acceso al campo quirúrgico.",
+          "Mayor riesgo de infecciones nosocomiales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "intraoperatorio"],
+        "feedback": "La posición de litotomía puede aumentar el riesgo de lesión del nervio ciático externo, especialmente en procedimientos prolongados, debido a la compresión en la región pélvica."
+      },
+      {
+        "enunciado": "¿Cómo se define una herida quirúrgica limpia?",
+        "opciones": [
+          "Aquella en la que no se abren tractos gastrointestinal, respiratorio o genitourinario y no presenta signos de infección.",
+          "Aquella en la que existe una infección activa en el momento de la cirugía.",
+          "Herida quirúrgica que involucra tejido infectado pero está adecuadamente drenada.",
+          "Herida quirúrgica con apertura controlada de un tracto gastrointestinal pero sin contaminación significativa."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas limpias no abren tractos que contengan microorganismos, como los gastrointestinales o genitourinarios, y no presentan signos de infección preoperatoria."
+      },
+      {
+        "enunciado": "¿Qué características definen una herida quirúrgica limpia-contaminada?",
+        "opciones": [
+          "Se produce por una incisión quirúrgica en tejido infectado.",
+          "Incluye una apertura controlada de un tracto contaminado con mínima contaminación.",
+          "Herida quirúrgica sin abertura de tractos ni presencia de infección.",
+          "Herida traumática con material extraño y contaminación significativa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida quirúrgica limpia-contaminada se produce cuando hay una apertura controlada de un tracto como el gastrointestinal o respiratorio, con mínima contaminación."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica corresponde a una intervención realizada en presencia de infección activa?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida contaminada.",
+          "Herida infectada o sucia.",
+          "Herida limpia-contaminada."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida quirúrgica infectada o sucia está asociada con infecciones activas, como abscesos o heridas traumáticas con contaminación significativa."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se clasifica como contaminada?",
+        "opciones": [
+          "Una herida traumática reciente con material extraño y sin infección activa.",
+          "Una herida quirúrgica con apertura controlada del tracto digestivo.",
+          "Una incisión realizada sin abrir tractos contaminados.",
+          "Una herida quirúrgica infectada en el momento de la intervención."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas contaminadas incluyen heridas traumáticas recientes o con materiales extraños y aquellas donde hay una ruptura técnica en la asepsia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ejemplos es una herida quirúrgica limpia-contaminada?",
+        "opciones": [
+          "Cirugía abdominal con perforación intestinal.",
+          "Colecistectomía laparoscópica sin signos de infección.",
+          "Herniorrafia inguinal sin apertura de cavidades.",
+          "Apendicectomía con mínima contaminación en un caso no complicado."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una apendicectomía sin complicaciones es una herida quirúrgica limpia-contaminada, ya que implica la apertura controlada de un tracto contaminado con mínima contaminación."
+      },
+      {
+        "enunciado": "¿Qué intervención quirúrgica es un ejemplo de herida limpia?",
+        "opciones": [
+          "Herniorrafia inguinal sin complicaciones.",
+          "Cirugía colorrectal.",
+          "Apendicectomía complicada con perforación.",
+          "Desbridamiento de abscesos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "La herniorrafia inguinal sin apertura de cavidades contaminadas ni signos de infección es un ejemplo típico de herida quirúrgica limpia."
+      },
+      {
+        "enunciado": "¿Qué característica es común en una herida quirúrgica infectada?",
+        "opciones": [
+          "Se produce una apertura controlada de un tracto contaminado con mínima contaminación.",
+          "Está asociada con perforaciones de vísceras o abscesos preexistentes.",
+          "No involucra tractos respiratorios, digestivos o genitourinarios.",
+          "Se produce en un ambiente estéril con cierre primario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas infectadas suelen estar asociadas a perforaciones de vísceras, abscesos o infecciones preexistentes que contaminan el sitio quirúrgico."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida se considera limpia-contaminada en cirugía colorrectal?",
+        "opciones": [
+          "Cuando hay una perforación intestinal.",
+          "Cuando la apertura del tracto digestivo es controlada sin contaminación significativa.",
+          "Cuando no se abren tractos ni se manipulan tejidos infectados.",
+          "Cuando hay presencia de material purulento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "En cirugía colorrectal, las heridas limpias-contaminadas implican la apertura controlada del tracto digestivo sin contaminación significativa."
+      },
+      {
+        "enunciado": "¿Qué tipo de intervención quirúrgica se clasifica como herida contaminada?",
+        "opciones": [
+          "Apendicectomía complicada con perforación y peritonitis.",
+          "Trauma reciente con material extraño y contaminación moderada.",
+          "Herniorrafia sin apertura de cavidades.",
+          "Colecistectomía laparoscópica sin complicaciones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas contaminadas incluyen aquellas asociadas a traumas recientes con material extraño y contaminación moderada, pero sin signos de infección activa."
+      },
+      {
+        "enunciado": "¿Cuál es un criterio esencial para clasificar una herida como limpia?",
+        "opciones": [
+          "Ausencia de infección y no apertura de tractos contaminados.",
+          "Presencia de infección activa en el sitio quirúrgico.",
+          "Apertura controlada de tractos respiratorios con contaminación mínima.",
+          "Herida traumática reciente con material extraño."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Para clasificar una herida como limpia, no debe haber infección ni apertura de tractos contaminados, y la intervención debe realizarse en condiciones estrictamente asépticas."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica incluye una incisión en un área previamente infectada?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas infectadas o sucias incluyen incisiones en áreas previamente infectadas o con material purulento presente."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se clasifica cuando hay una ruptura técnica en la asepsia durante el procedimiento?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida contaminada.",
+          "Herida limpia-contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas contaminadas pueden ser resultado de rupturas en la técnica aséptica o de traumatismos recientes con contaminación significativa."
+      },
+      {
+        "enunciado": "¿Qué diferencia una herida limpia-contaminada de una contaminada?",
+        "opciones": [
+          "Las heridas limpias-contaminadas siempre presentan infección activa.",
+          "En las heridas contaminadas hay ruptura en la técnica aséptica o trauma reciente.",
+          "Las heridas limpias-contaminadas incluyen perforaciones viscerales con peritonitis.",
+          "Las heridas contaminadas no se asocian a traumatismos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas contaminadas incluyen rupturas en la técnica aséptica o traumas recientes, mientras que las limpias-contaminadas se caracterizan por aperturas controladas de tractos contaminados sin infección activa."
+      },
+      {
+        "enunciado": "¿En qué clasificación entra una herida quirúrgica si el tracto genitourinario se abre pero se realiza un control adecuado para evitar contaminación significativa?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida quirúrgica se clasifica como limpia-contaminada cuando hay apertura controlada de tractos potencialmente contaminados, como el genitourinario, sin contaminación significativa."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se asocia con traumatismos abiertos y tratamiento tardío?",
+        "opciones": [
+          "Herida limpia-contaminada.",
+          "Herida limpia.",
+          "Herida infectada o sucia.",
+          "Herida contaminada."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas infectadas o sucias incluyen traumatismos abiertos tratados tardíamente o con contaminación significativa que no ha sido controlada adecuadamente."
+      },
+      {
+        "enunciado": "¿Qué herida quirúrgica puede involucrar un tracto gastrointestinal perforado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida quirúrgica infectada o sucia puede incluir perforaciones del tracto gastrointestinal, lo que implica una alta carga de contaminación y riesgo de infección."
+      },
+      {
+        "enunciado": "¿Qué clasificación corresponde a una cirugía colorrectal en la que se controla adecuadamente la contaminación?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "En una cirugía colorrectal con control adecuado de la contaminación, la herida quirúrgica se clasifica como limpia-contaminada debido a la apertura controlada de un tracto potencialmente contaminado."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica tiene mayor riesgo de infecciones postoperatorias?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas infectadas o sucias tienen el mayor riesgo de infecciones postoperatorias debido a la presencia de microorganismos patógenos activos en el momento de la intervención."
+      },
+      {
+        "enunciado": "¿Qué procedimiento quirúrgico suele considerarse una herida quirúrgica contaminada?",
+        "opciones": [
+          "Herniorrafia sin apertura de cavidades.",
+          "Cirugía de emergencia con ruptura de la técnica aséptica.",
+          "Colecistectomía laparoscópica sin complicaciones.",
+          "Cirugía colorrectal con mínima contaminación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una cirugía de emergencia con ruptura de la técnica aséptica se clasifica como una herida quirúrgica contaminada debido al mayor riesgo de contaminación durante el procedimiento."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica clasifica a una apendicectomía con absceso asociado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una apendicectomía con absceso asociado se clasifica como herida infectada o sucia debido a la presencia de un foco infeccioso activo en el área quirúrgica."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica implica la apertura accidental del tracto gastrointestinal con contaminación significativa?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas quirúrgicas contaminadas incluyen aperturas accidentales de tractos como el gastrointestinal, donde hay contaminación significativa sin signos de infección activa."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica representa una cirugía de trauma abdominal con contenido visceral expuesto y peritonitis?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una cirugía de trauma abdominal con exposición de contenido visceral y peritonitis se clasifica como herida infectada o sucia debido a la presencia de infección activa en el área quirúrgica."
+      },
+      {
+        "enunciado": "¿Qué tipo de intervención quirúrgica sería un ejemplo de herida limpia-contaminada?",
+        "opciones": [
+          "Cirugía de hernia inguinal sin apertura de cavidades.",
+          "Apendicectomía sin complicaciones.",
+          "Desbridamiento de un absceso.",
+          "Cirugía ortopédica sin infección activa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una apendicectomía sin complicaciones es una herida limpia-contaminada porque implica la apertura controlada de un tracto potencialmente contaminado, como el gastrointestinal."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica corresponde a un desbridamiento de tejido necrosado infectado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "El desbridamiento de tejido necrosado infectado se clasifica como herida infectada o sucia, debido a la presencia de material purulento o infección activa en el sitio quirúrgico."
+      },
+      {
+        "enunciado": "¿Qué clasificación de herida quirúrgica aplica para una cirugía electiva en un tracto genitourinario sin infección activa pero con apertura controlada?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "En cirugías electivas donde se realiza una apertura controlada del tracto genitourinario sin contaminación significativa, la herida se clasifica como limpia-contaminada."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica implica la ruptura accidental de la técnica estéril durante el procedimiento?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una ruptura accidental de la técnica estéril clasifica a la herida como contaminada, ya que aumenta el riesgo de contaminación sin necesariamente haber infección activa."
+      },
+      {
+        "enunciado": "¿Qué clasificación de herida quirúrgica aplica para una cirugía de emergencia con contenido visceral derramado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una cirugía de emergencia con contenido visceral derramado se clasifica como herida infectada o sucia, debido a la alta carga de contaminación y la posibilidad de infección activa."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica es más frecuente en cirugías de emergencia no controladas?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida contaminada.",
+          "Herida limpia-contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las cirugías de emergencia suelen clasificarse como heridas contaminadas cuando no hay control adecuado de la asepsia y existe riesgo de contaminación significativa."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se asocia con el uso de drenajes en áreas potencialmente contaminadas?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas limpias-contaminadas pueden implicar el uso de drenajes para controlar secreciones en áreas potencialmente contaminadas y prevenir infecciones."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica implica una herida traumática reciente con material extraño pero sin signos de infección activa?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas traumáticas recientes con material extraño y sin infección activa se clasifican como heridas contaminadas debido a la posible exposición a microorganismos."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se asocia con procedimientos en los que el tracto respiratorio superior se abre sin contaminación significativa?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida quirúrgica limpia-contaminada se produce en procedimientos con apertura controlada del tracto respiratorio superior, siempre que no haya contaminación significativa."
+      },
+      {
+        "enunciado": "¿Cuál es la clasificación de una herida quirúrgica asociada a un trauma abierto con un retraso en el tratamiento mayor a 6 horas?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Las heridas traumáticas abiertas tratadas tardíamente, especialmente más de 6 horas después del trauma, se clasifican como infectadas o sucias debido al alto riesgo de infección."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica corresponde a una apendicectomía con perforación y peritonitis localizada?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una apendicectomía con perforación y peritonitis localizada se clasifica como herida infectada o sucia, ya que implica infección activa en el sitio quirúrgico."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica es una laparotomía exploratoria con perforación intestinal encontrada durante la cirugía?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una laparotomía exploratoria que identifica una perforación intestinal se clasifica como herida infectada o sucia debido a la alta contaminación bacteriana."
+      },
+      {
+        "enunciado": "¿Cómo se clasifica una herida quirúrgica si hay derrame fecal durante una cirugía colorrectal?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Un derrame fecal durante una cirugía colorrectal cambia la clasificación a herida contaminada debido a la contaminación significativa del área quirúrgica."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica representa una colecistectomía laparoscópica con derrame de bilis controlado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una colecistectomía laparoscópica con derrame controlado de bilis es una herida limpia-contaminada, ya que el tracto contaminado fue abierto bajo control."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica se clasifica una cirugía en una hernia estrangulada con tejido necrótico?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "La cirugía de una hernia estrangulada con tejido necrótico se clasifica como herida infectada o sucia debido a la presencia de tejido desvitalizado e infección potencial."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica clasifica una apendicectomía de emergencia en un caso no complicado?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una apendicectomía de emergencia no complicada es una herida limpia-contaminada, ya que implica la apertura controlada de un tracto potencialmente contaminado."
+      },
+      {
+        "enunciado": "¿Qué clasificación corresponde a una herida traumática limpia tratada quirúrgicamente dentro de las primeras 6 horas?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una herida traumática limpia tratada quirúrgicamente en menos de 6 horas se clasifica como contaminada debido a la posible introducción de microorganismos durante el trauma."
+      },
+      {
+        "enunciado": "¿Qué tipo de herida quirúrgica incluye una incisión en tejido previamente inflado con material purulento?",
+        "opciones": [
+          "Herida limpia.",
+          "Herida limpia-contaminada.",
+          "Herida contaminada.",
+          "Herida infectada o sucia."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "heridas_quirurgicas"],
+        "feedback": "Una incisión en tejido que contiene material purulento se clasifica como herida infectada o sucia debido a la infección activa en el sitio quirúrgico."
+      },
+      {
+        "enunciado": "¿Qué características definen a un paciente clasificado como ASA I según los criterios anestésicos?",
+        "opciones": [
+          "Un paciente con alteraciones sistémicas leves o moderadas.",
+          "Un paciente sano sin alteraciones orgánicas, bioquímicas o psiquiátricas.",
+          "Un paciente con enfermedad grave que limita su actividad funcional.",
+          "Un paciente con una alteración sistémica que pone en peligro su vida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA I describe a un paciente completamente sano, sin enfermedades sistémicas o alteraciones orgánicas que afecten su función."
+      },
+      {
+        "enunciado": "¿Cómo se clasifica un paciente con hipertensión arterial controlada y sin limitaciones funcionales según la escala ASA?",
+        "opciones": [
+          "ASA I.",
+          "ASA II.",
+          "ASA III.",
+          "ASA IV."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "Un paciente con hipertensión arterial controlada sin limitaciones funcionales pertenece a la categoría ASA II, que incluye alteraciones sistémicas leves o moderadas sin impacto funcional significativo."
+      },
+      {
+        "enunciado": "¿Qué nivel de clasificación ASA corresponde a un paciente con insuficiencia cardíaca descompensada que pone en riesgo su vida?",
+        "opciones": [
+          "ASA II.",
+          "ASA III.",
+          "ASA IV.",
+          "ASA V."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA IV incluye pacientes con alteraciones sistémicas graves que amenazan su vida, como la insuficiencia cardíaca descompensada."
+      },
+      {
+        "enunciado": "¿Qué significa la clasificación ASA V?",
+        "opciones": [
+          "Paciente sano sometido a cirugía electiva.",
+          "Paciente con alteraciones leves o moderadas.",
+          "Paciente con una enfermedad grave que limita la funcionalidad.",
+          "Paciente moribundo con pocas expectativas de supervivencia, incluso con cirugía."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA V se refiere a pacientes moribundos que tienen mínimas expectativas de supervivencia incluso si se realiza la intervención quirúrgica."
+      },
+      {
+        "enunciado": "¿Cómo se clasifica a un paciente con diabetes mellitus y complicaciones microvasculares leves?",
+        "opciones": [
+          "ASA I.",
+          "ASA II.",
+          "ASA III.",
+          "ASA IV."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "Un paciente con diabetes mellitus controlada y sin complicaciones graves pertenece a la categoría ASA II debido a una alteración sistémica leve o moderada sin limitaciones funcionales."
+      },
+      {
+        "enunciado": "¿Qué categoría ASA corresponde a un paciente con una enfermedad grave que limita la actividad funcional pero no pone en peligro su vida de inmediato?",
+        "opciones": [
+          "ASA II.",
+          "ASA III.",
+          "ASA IV.",
+          "ASA V."
+        ],
+        "correcta": 1,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA III describe a pacientes con enfermedades graves que limitan la funcionalidad pero no representan un peligro inmediato para la vida."
+      },
+      {
+        "enunciado": "¿Qué clasificación ASA es apropiada para un paciente con shock séptico que requiere cirugía urgente?",
+        "opciones": [
+          "ASA III.",
+          "ASA IV.",
+          "ASA V.",
+          "ASA II."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA IV se asigna a pacientes con alteraciones sistémicas graves que representan una amenaza significativa para la vida, como el shock séptico."
+      },
+      {
+        "enunciado": "Un paciente programado para cirugía urgente después de un accidente con hemorragia masiva se clasifica como:",
+        "opciones": [
+          "ASA III.",
+          "ASA IV.",
+          "ASA V.",
+          "ASA E (urgencia)."
+        ],
+        "correcta": 3,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "La clasificación ASA puede incluir un sufijo 'E' para indicar que la cirugía es de emergencia, como en el caso de hemorragia masiva."
+      },
+      {
+        "enunciado": "¿Qué nivel ASA corresponde a un paciente pediátrico sin patologías que será sometido a una cirugía menor?",
+        "opciones": [
+          "ASA I.",
+          "ASA II.",
+          "ASA III.",
+          "ASA IV."
+        ],
+        "correcta": 0,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "Un paciente pediátrico sano y sin alteraciones sistémicas se clasifica como ASA I, lo que indica ausencia de riesgos adicionales para la cirugía."
+      },
+      {
+        "enunciado": "¿Cómo clasificarías a un paciente con insuficiencia renal crónica terminal en hemodiálisis programado para un acceso vascular?",
+        "opciones": [
+          "ASA II.",
+          "ASA III.",
+          "ASA IV.",
+          "ASA V."
+        ],
+        "correcta": 2,
+        "categorías": ["tema44", "urg_quirurgico", "ASA"],
+        "feedback": "ASA IV incluye a pacientes con condiciones graves que amenazan la vida, como la insuficiencia renal terminal, aunque la cirugía esté destinada a mejorar su manejo."
+      }
+                                            
+]

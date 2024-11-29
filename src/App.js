@@ -59,9 +59,9 @@ function App() {
 
     const groupedMenuItems = {
         '1: Urgencias': [
-            { title: '42: Respuestas a urgencias y emergencias en el SSPA', archivo: 'tema42.json', bloque: 1 },
-            { title: '43: Cuidados en paciente crítico: soporte vital y traslados', archivo: 'tema43.json', bloque: 1 },
-            { title: '44: Valoración y cuidados al paciente quirúrgico', archivo: 'tema44.json', bloque: 1 },
+            { title: '•42: Respuestas a urgencias y emergencias en el SSPA', archivo: 'tema42.json', bloque: 1 },
+            { title: '•43: Cuidados en paciente crítico: soporte vital y traslados', archivo: 'tema43.json', bloque: 1 },
+            { title: '•44: Valoración y cuidados al paciente quirúrgico', archivo: 'tema44.json', bloque: 1 },
             { title: '45: Manejo de heridas y cuidados de la piel', archivo: 'tema45.json', bloque: 1 }
         ],
         '2: Epidemiología y salud pública': [
@@ -71,7 +71,7 @@ function App() {
             { title: '•37: Promoción de actividad física y alimentación saludable', archivo: 'tema37.json', bloque: 2 },
             { title: '•41: Prevención y atención a adicciones y tabaquismo', archivo: 'tema41.json', bloque: 2 },
             { title: '•59: Examen de salud para mayores de 65 años', archivo: 'tema59.json', bloque: 2 },
-            { title: '62: Comunidad: promoción de salud y participación comunitaria', archivo: 'tema62.json', bloque: 2 }
+            { title: '•62: Comunidad: promoción de salud y participación comunitaria', archivo: 'tema62.json', bloque: 2 }
         ],
         '3: Materno-infantil': [
             { title: '47: Desarrollo de la conducta humana', archivo: 'tema47.json', bloque: 3 },
