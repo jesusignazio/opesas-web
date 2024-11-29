@@ -1,0 +1,15 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el consumo de tabaco en Andalucía es correcta según los últimos datos disponibles?",
+        "opciones": [
+          "La prevalencia de tabaquismo diario es superior en mujeres que en hombres.",
+          "La edad media de inicio del tabaquismo es más baja en mujeres que en hombres.",
+          "El consumo de tabaco ha aumentado significativamente en las últimas dos décadas.",
+          "El porcentaje de fumadores es más alto en provincias como Cádiz y Huelva."
+        ],
+        "correcta": 3,
+        "categorías": ["tema37", "tabaco"],
+        "feedback": "La opción correcta es la 4. Las provincias de Cádiz y Huelva presentan mayores tasas de prevalencia de consumo de tabaco en comparación con otras regiones de Andalucía. Por otro lado, el consumo de tabaco ha tendido a disminuir en términos generales en las últimas décadas en Andalucía y el inicio es similar entre hombres y mujeres según datos recientes."
+      }
+
+]

@@ -1,0 +1,2671 @@
+[
+    {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál es la principal diferencia entre infección y enfermedad infecciosa?",
+            "opciones": [
+              "La infección implica la penetración de microorganismos, mientras que la enfermedad implica síntomas clínicos.",
+              "La infección es causada por virus, y la enfermedad por bacterias.",
+              "La infección afecta a animales, y la enfermedad a humanos.",
+              "La infección se produce en condiciones hospitalarias, mientras que la enfermedad ocurre en la comunidad."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La infección es la penetración y multiplicación de microorganismos en el huésped. La enfermedad aparece cuando estos superan las barreras inmunitarias, causando síntomas."
+          },
+          {
+            "enunciado": "¿Qué mecanismo de transmisión corresponde al contacto con un objeto contaminado?",
+            "opciones": [
+              "Transmisión directa",
+              "Transmisión indirecta",
+              "Reservorio telúrico",
+              "Transmisión por aerosoles"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión indirecta ocurre cuando el agente es vehiculizado por fómites u otros objetos contaminados."
+          },
+          {
+            "enunciado": "¿Qué es un reservorio telúrico?",
+            "opciones": [
+              "Un tipo de reservorio humano.",
+              "Un reservorio inanimado, como el suelo.",
+              "Una fuente de transmisión directa.",
+              "Un reservorio exclusivo de bacterias Gram negativas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Un reservorio telúrico es inanimado, como el suelo, donde el agente causal puede desarrollarse."
+          },
+          {
+            "enunciado": "¿Qué medidas se consideran efectivas para prevenir la transmisión por contacto directo?",
+            "opciones": [
+              "Uso de barreras físicas como guantes y mascarillas.",
+              "Control de vectores como mosquitos y roedores.",
+              "Mejoras en el saneamiento ambiental.",
+              "Uso exclusivo de antisépticos de alta resistencia."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El uso de guantes, mascarillas y otras barreras físicas es esencial para prevenir el contacto directo con agentes infecciosos."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes NO es un ejemplo de mecanismo de transmisión indirecta?",
+            "opciones": [
+              "Fómites",
+              "Vectores",
+              "Gotitas de Flügge",
+              "Aguas contaminadas"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Las gotitas de Flügge representan un mecanismo de transmisión directa, al propagarse directamente a través del aire."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué caracteriza a un huésped susceptible en la cadena epidemiológica?",
+            "opciones": [
+              "Posee barreras inmunitarias totalmente funcionales.",
+              "Es incapaz de transmitir la infección a otros organismos.",
+              "Tiene mayor probabilidad de ser infectado debido a una inmunidad comprometida o inexistente.",
+              "Es un reservorio natural del agente infeccioso."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Un huésped susceptible tiene una mayor probabilidad de ser infectado por un agente causal debido a una respuesta inmunitaria comprometida o inexistente."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes vías de transmisión corresponde a la transmisión directa?",
+            "opciones": [
+              "A través de vectores como mosquitos.",
+              "Por contacto físico, como una mordedura.",
+              "Por el uso compartido de objetos contaminados.",
+              "A través de alimentos mal cocidos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión directa ocurre cuando el agente pasa directamente del reservorio al huésped a través de contacto físico, como en el caso de mordeduras o arañazos."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es más efectiva para controlar la transmisión de enfermedades por vectores?",
+            "opciones": [
+              "Uso de mascarillas quirúrgicas.",
+              "Desratización y desinsectación.",
+              "Aislamiento hospitalario del paciente infectado.",
+              "Control del agua y los alimentos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La desratización y desinsectación son medidas clave para controlar la transmisión de enfermedades propagadas por vectores como insectos o roedores."
+          },
+          {
+            "enunciado": "¿Qué concepto define mejor el término 'fuente de infección'?",
+            "opciones": [
+              "Un tipo específico de agente infeccioso.",
+              "El medio por el cual un agente causal sale del reservorio.",
+              "El ser animado o inanimado desde donde se transmite el agente causal.",
+              "Un tipo de huésped con baja capacidad inmunitaria."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La fuente de infección es el ser animado o inanimado desde el cual el agente causal se transmite al huésped susceptible."
+          },
+          {
+            "enunciado": "¿Qué microorganismos son comúnmente responsables de enfermedades transmisibles?",
+            "opciones": [
+              "Solo bacterias.",
+              "Virus, bacterias, hongos y parásitos.",
+              "Organismos saprofitos.",
+              "Solo virus y bacterias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Los microorganismos que causan enfermedades transmisibles incluyen virus, bacterias, hongos y parásitos, todos capaces de propagarse en huéspedes susceptibles."
+          },
+          {
+            "enunciado": "¿Qué agente causal es considerado una proteína mal plegada con capacidad infecciosa?",
+            "opciones": [
+              "Virus",
+              "Prión",
+              "Bacteria",
+              "Fungi"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Los priones son proteínas mal plegadas con capacidad infecciosa, responsables de enfermedades como la encefalopatía espongiforme bovina."
+          },
+          {
+            "enunciado": "¿Qué vía de entrada al huésped es más común en infecciones respiratorias?",
+            "opciones": [
+              "Vía digestiva",
+              "Vía respiratoria",
+              "Vía sanguínea",
+              "Vía urinaria"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La vía respiratoria es la más común para infecciones que afectan al sistema respiratorio, como las causadas por virus respiratorios."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre las gotitas de Flügge?",
+            "opciones": [
+              "Son responsables únicamente de transmisión indirecta.",
+              "Son partículas menores de 5 micras.",
+              "Se expulsan al toser, hablar o estornudar.",
+              "Solo transmiten infecciones bacterianas."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Las gotitas de Flügge se expulsan al toser, hablar o estornudar, y son una vía importante de transmisión de enfermedades respiratorias."
+          },
+          {
+            "enunciado": "¿Cuál es el objetivo de las medidas sobre la población susceptible en la prevención de enfermedades transmisibles?",
+            "opciones": [
+              "Eliminar el reservorio de la infección.",
+              "Reducir la probabilidad de infección mediante vacunas y educación sanitaria.",
+              "Erradicar los agentes infecciosos del ambiente.",
+              "Aislar a los pacientes infectados para evitar brotes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Las medidas sobre la población susceptible buscan reducir el riesgo de infección mediante intervenciones como la vacunación y la educación para la salud."
+          },
+          {
+            "enunciado": "¿Qué elemento de la cadena epidemiológica describe el medio por el cual un agente causal abandona el reservorio?",
+            "opciones": [
+              "Huésped susceptible",
+              "Puerta de salida",
+              "Mecanismo de transmisión",
+              "Fuente de infección"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La puerta de salida es el medio que utiliza el agente causal para abandonar el reservorio, como las vías respiratorias o urinarias."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál es un ejemplo de una enfermedad transmisible de origen zoonótico?",
+            "opciones": [
+              "Tuberculosis humana",
+              "Rabia",
+              "Difteria",
+              "Faringitis estreptocócica"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La rabia es una enfermedad zoonótica, ya que se transmite de animales a humanos, generalmente a través de mordeduras."
+          },
+          {
+            "enunciado": "¿Qué tipo de mecanismo de transmisión implica el uso de un vector biológico como un mosquito?",
+            "opciones": [
+              "Transmisión directa",
+              "Transmisión indirecta",
+              "Reservorio inanimado",
+              "Transmisión por fómites"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión indirecta incluye la participación de vectores biológicos, como los mosquitos en la malaria."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes opciones corresponde a una medida preventiva sobre el mecanismo de transmisión?",
+            "opciones": [
+              "Vacunación de la población susceptible",
+              "Uso de barreras físicas como guantes",
+              "Eliminación de vectores mediante desinsectación",
+              "Diagnóstico precoz del reservorio humano"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La desinsectación es una medida que interrumpe el mecanismo de transmisión al eliminar vectores como mosquitos y otros insectos."
+          },
+          {
+            "enunciado": "¿Qué caracteriza a las gotitas de Wells en la transmisión aérea?",
+            "opciones": [
+              "Tienen más de 5 micras y se depositan rápidamente.",
+              "Son menores de 5 micras y pueden quedar suspendidas en el aire.",
+              "Son partículas sólidas que transportan agentes infecciosos.",
+              "Se transmiten únicamente por contacto físico directo."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Las gotitas de Wells, menores de 5 micras, pueden permanecer suspendidas en el aire y actuar como vehículo de transmisión aérea."
+          },
+          {
+            "enunciado": "¿Qué término describe al agente infeccioso que puede causar enfermedad en un huésped susceptible?",
+            "opciones": [
+              "Vector",
+              "Reservorio",
+              "Agente causal",
+              "Fomite"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El agente causal es cualquier microorganismo vivo capaz de causar enfermedad en un huésped susceptible."
+          },
+          {
+            "enunciado": "¿Qué medida de control es esencial cuando el reservorio es humano?",
+            "opciones": [
+              "Desinfección del medio ambiente",
+              "Sacrificio del portador",
+              "Diagnóstico y tratamiento precoz",
+              "Control de vectores en el entorno"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Cuando el reservorio es humano, las medidas de control incluyen el diagnóstico y tratamiento precoz, así como el aislamiento según sea necesario."
+          },
+          {
+            "enunciado": "¿Qué vía de transmisión está asociada con el consumo de agua o alimentos contaminados?",
+            "opciones": [
+              "Transmisión aérea",
+              "Transmisión digestiva",
+              "Transmisión directa",
+              "Transmisión por vectores"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión digestiva ocurre a través de la ingesta de agua o alimentos contaminados con agentes patógenos."
+          },
+          {
+            "enunciado": "¿Qué característica distingue una enfermedad infecciosa de una enfermedad transmisible?",
+            "opciones": [
+              "Las enfermedades transmisibles siempre son zoonóticas.",
+              "Las enfermedades infecciosas se producen únicamente por contacto directo.",
+              "Solo las enfermedades transmisibles tienen la capacidad de difundirse de un organismo a otro.",
+              "Las enfermedades infecciosas son causadas exclusivamente por bacterias."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Una enfermedad transmisible puede difundirse entre organismos, mientras que una enfermedad infecciosa no necesariamente tiene esta capacidad."
+          },
+          {
+            "enunciado": "¿Qué acción preventiva corresponde a la profilaxis activa?",
+            "opciones": [
+              "Administración de inmunoglobulinas",
+              "Uso de antisépticos en la piel",
+              "Vacunación",
+              "Aislamiento de casos sospechosos"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La profilaxis activa implica la administración de vacunas para generar inmunidad contra enfermedades específicas."
+          },
+          {
+            "enunciado": "¿Qué medida se emplea para evitar la transmisión de un agente a través de fómites?",
+            "opciones": [
+              "Higiene de manos y desinfección de objetos",
+              "Uso de mascarillas",
+              "Eliminación de aguas residuales",
+              "Control del aire acondicionado"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La higiene de manos y la desinfección de objetos son medidas esenciales para prevenir la transmisión por fómites."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué característica define a un reservorio como telúrico?",
+            "opciones": [
+              "Es exclusivo de infecciones bacterianas.",
+              "Se encuentra en animales salvajes.",
+              "Es un reservorio inanimado como el suelo.",
+              "Solo afecta a huéspedes inmunocomprometidos."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Un reservorio telúrico es inanimado, como el suelo, y puede albergar agentes causales capaces de infectar a huéspedes susceptibles."
+          },
+          {
+            "enunciado": "¿Qué medida sobre la fuente de infección se aplica a un reservorio animal?",
+            "opciones": [
+              "Vacunación masiva de la población humana.",
+              "Sacrificio y control del animal infectado.",
+              "Control del agua potable.",
+              "Uso de mascarillas por el personal sanitario."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Cuando el reservorio es animal, las medidas incluyen diagnóstico, tratamiento y, en algunos casos, sacrificio para prevenir la transmisión."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes NO es una puerta de entrada típica para agentes infecciosos?",
+            "opciones": [
+              "Vía respiratoria",
+              "Vía digestiva",
+              "Vía sanguínea",
+              "Vía dérmica sin lesiones"
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La piel intacta es una barrera natural efectiva contra agentes infecciosos, mientras que las vías respiratoria, digestiva y sanguínea son puertas de entrada comunes."
+          },
+          {
+            "enunciado": "¿Qué mecanismo de transmisión implica contacto piel con piel?",
+            "opciones": [
+              "Transmisión aérea",
+              "Transmisión indirecta",
+              "Transmisión directa",
+              "Transmisión por vectores"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión directa ocurre mediante contacto piel con piel o entre mucosas, como en infecciones por herpes simple."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes opciones es una medida de profilaxis pasiva?",
+            "opciones": [
+              "Administración de inmunoglobulinas",
+              "Vacunación masiva",
+              "Uso de desinfectantes en el ambiente",
+              "Control de vectores en áreas urbanas"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La profilaxis pasiva incluye la administración de inmunoglobulinas, proporcionando inmunidad inmediata pero temporal."
+          },
+          {
+            "enunciado": "¿Qué microorganismo es responsable de la transmisión de enfermedades mediante aerosoles?",
+            "opciones": [
+              "Escherichia coli",
+              "Mycobacterium tuberculosis",
+              "Plasmodium falciparum",
+              "Clostridium difficile"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Mycobacterium tuberculosis es un patógeno que se transmite a través de aerosoles, especialmente en espacios cerrados y mal ventilados."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es específica para la transmisión de enfermedades por vía aérea?",
+            "opciones": [
+              "Aislamiento respiratorio de los pacientes infectados",
+              "Uso exclusivo de guantes estériles",
+              "Vacunación contra enfermedades zoonóticas",
+              "Desratización de áreas urbanas"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El aislamiento respiratorio y el uso de mascarillas son medidas esenciales para prevenir la transmisión aérea de patógenos como la tuberculosis."
+          },
+          {
+            "enunciado": "¿Qué concepto se refiere a la capacidad de un agente infeccioso para causar enfermedad?",
+            "opciones": [
+              "Virulencia",
+              "Transmisibilidad",
+              "Infectividad",
+              "Patogenicidad"
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La patogenicidad es la capacidad de un agente para causar enfermedad en un huésped susceptible."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes NO es un mecanismo de transmisión indirecta?",
+            "opciones": [
+              "Fómites",
+              "Transmisión por aerosoles",
+              "Vectores biológicos",
+              "Contacto piel con piel"
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El contacto piel con piel es un mecanismo de transmisión directa, mientras que fómites, aerosoles y vectores son formas indirectas."
+          },
+          {
+            "enunciado": "¿Qué característica distingue a las gotitas de Flügge de las de Wells?",
+            "opciones": [
+              "Flügge tiene menor tamaño y mayor tiempo en el aire.",
+              "Wells son más pequeñas y permanecen más tiempo suspendidas en el aire.",
+              "Ambas tienen el mismo tamaño pero diferente contenido patógeno.",
+              "Flügge se transmiten únicamente por contacto con fómites."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Las gotitas de Wells, más pequeñas que las de Flügge, pueden permanecer suspendidas en el aire durante más tiempo, facilitando la transmisión aérea."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué término describe la capacidad de un agente infeccioso para propagarse de un huésped a otro?",
+            "opciones": [
+              "Virulencia",
+              "Transmisibilidad",
+              "Infectividad",
+              "Patogenicidad"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisibilidad se refiere a la capacidad de un agente infeccioso de pasar de un huésped a otro y propagarse en una población."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes conceptos mide la capacidad de un agente para invadir y multiplicarse en el huésped?",
+            "opciones": [
+              "Virulencia",
+              "Patogenicidad",
+              "Infectividad",
+              "Transmisibilidad"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La infectividad mide la capacidad de un agente para establecerse y multiplicarse dentro de un huésped susceptible."
+          },
+          {
+            "enunciado": "¿Qué término define la severidad de la enfermedad causada por un agente infeccioso?",
+            "opciones": [
+              "Virulencia",
+              "Transmisibilidad",
+              "Infectividad",
+              "Patogenicidad"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La virulencia describe la severidad de los síntomas o el daño causado por un agente infeccioso en el huésped."
+          },
+          {
+            "enunciado": "¿Cómo se define la patogenicidad de un agente infeccioso?",
+            "opciones": [
+              "La capacidad de un agente para multiplicarse en el huésped.",
+              "La habilidad de causar enfermedad en el huésped.",
+              "La facilidad con la que se propaga entre los huéspedes.",
+              "La intensidad de los síntomas que produce en el huésped."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La patogenicidad se refiere a la capacidad de un agente para causar enfermedad, independientemente de la gravedad de los síntomas."
+          },
+          {
+            "enunciado": "¿Qué relación existe entre virulencia y patogenicidad?",
+            "opciones": [
+              "La virulencia mide la probabilidad de transmisión, mientras que la patogenicidad evalúa el daño causado.",
+              "Ambos términos son sinónimos que describen la capacidad de un agente de causar enfermedad.",
+              "La patogenicidad es la capacidad de causar enfermedad, y la virulencia mide la gravedad de esta.",
+              "La virulencia se relaciona con la capacidad de multiplicación, mientras que la patogenicidad es la severidad de la enfermedad."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La patogenicidad se refiere a la capacidad de causar enfermedad, mientras que la virulencia mide cuán grave o severa es dicha enfermedad."
+          },
+          {
+            "enunciado": "¿Qué concepto está más relacionado con la tasa de reproducción básica (R0) de un agente infeccioso?",
+            "opciones": [
+              "Virulencia",
+              "Infectividad",
+              "Transmisibilidad",
+              "Patogenicidad"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisibilidad está relacionada con la tasa de reproducción básica (R0), que mide cuántos nuevos casos genera un caso en una población susceptible."
+          },
+          {
+            "enunciado": "¿Cuál de los siguientes agentes tendría alta virulencia pero baja transmisibilidad?",
+            "opciones": [
+              "Virus del sarampión",
+              "Virus del ébola",
+              "Bacteria Escherichia coli",
+              "Virus de la gripe estacional"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El virus del ébola es altamente virulento, causando enfermedad severa, pero su transmisibilidad es baja en comparación con enfermedades como el sarampión."
+          },
+          {
+            "enunciado": "¿Qué término se utiliza para describir un agente infeccioso que es altamente transmisible pero poco patógeno?",
+            "opciones": [
+              "De alta infectividad",
+              "De baja virulencia",
+              "De alta patogenicidad",
+              "De baja infectividad"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Un agente de baja virulencia puede propagarse fácilmente sin causar síntomas graves en la mayoría de los infectados."
+          },
+          {
+            "enunciado": "¿Qué característica distingue la infectividad de la transmisibilidad?",
+            "opciones": [
+              "La infectividad mide cuán fácilmente se propaga un agente, mientras que la transmisibilidad mide su capacidad para causar enfermedad.",
+              "La infectividad mide la capacidad de multiplicación en el huésped, mientras que la transmisibilidad mide la propagación entre huéspedes.",
+              "Ambos términos son equivalentes y miden la facilidad de propagación de un agente infeccioso.",
+              "La transmisibilidad evalúa la capacidad de invasión del huésped, mientras que la infectividad evalúa su severidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La infectividad mide la capacidad de un agente para multiplicarse en el huésped, mientras que la transmisibilidad se refiere a su propagación entre huéspedes."
+          },
+          {
+            "enunciado": "¿Qué término mejor describe un microorganismo que causa síntomas graves en pocos individuos pero se propaga con dificultad?",
+            "opciones": [
+              "Alta transmisibilidad y baja virulencia",
+              "Baja infectividad y alta patogenicidad",
+              "Alta virulencia y baja transmisibilidad",
+              "Alta patogenicidad y alta infectividad"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Un microorganismo con alta virulencia y baja transmisibilidad causa síntomas graves en pocos individuos debido a su dificultad para propagarse."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué caracteriza a la transmisión aérea como mecanismo de transmisión de enfermedades?",
+            "opciones": [
+              "Implica el contacto piel con piel entre el reservorio y el huésped.",
+              "Ocurre cuando el agente infeccioso viaja en partículas suspendidas en el aire.",
+              "Requiere el uso de vectores biológicos como mosquitos.",
+              "Se produce a través de fómites contaminados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión aérea ocurre cuando el agente infeccioso viaja en partículas suspendidas en el aire, como gotitas de Wells."
+          },
+          {
+            "enunciado": "¿Cuál es un ejemplo clásico de transmisión directa?",
+            "opciones": [
+              "El contacto con sangre contaminada a través de una aguja.",
+              "El uso compartido de toallas contaminadas.",
+              "La transmisión de infecciones respiratorias al toser sobre otra persona.",
+              "La picadura de un mosquito portador de malaria."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión directa incluye el contacto inmediato entre el reservorio y el huésped, como en la transmisión de infecciones respiratorias al toser."
+          },
+          {
+            "enunciado": "¿Qué describe mejor la transmisión indirecta?",
+            "opciones": [
+              "Es el contacto directo entre el huésped y el reservorio.",
+              "Es la propagación de un agente infeccioso a través de fómites u otros intermediarios.",
+              "Implica la propagación de aerosoles por el aire.",
+              "Es exclusiva de enfermedades transmitidas por agua."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión indirecta ocurre cuando el agente es vehiculizado por intermediarios, como fómites, agua o alimentos contaminados."
+          },
+          {
+            "enunciado": "¿Qué característica define a la transmisión por vectores?",
+            "opciones": [
+              "El agente viaja en partículas de menos de 5 micras.",
+              "El uso de fómites para transmitir la enfermedad.",
+              "La intervención de un organismo vivo como intermediario, por ejemplo, mosquitos.",
+              "El contacto físico directo entre el huésped y el reservorio."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión por vectores involucra a organismos vivos como mosquitos, que actúan como intermediarios para propagar agentes infecciosos."
+          },
+          {
+            "enunciado": "¿Qué tipo de transmisión es responsable de la propagación de tuberculosis en ambientes cerrados?",
+            "opciones": [
+              "Transmisión indirecta",
+              "Transmisión directa",
+              "Transmisión aérea",
+              "Transmisión por vectores"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La tuberculosis se propaga principalmente por transmisión aérea, cuando las partículas infecciosas permanecen suspendidas en el aire."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes opciones NO corresponde a un ejemplo de transmisión indirecta?",
+            "opciones": [
+              "El uso de utensilios contaminados.",
+              "La transmisión de infecciones gastrointestinales por alimentos contaminados.",
+              "La inhalación de partículas de gotitas de Wells.",
+              "El contacto directo con una persona infectada."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El contacto directo con una persona infectada es un mecanismo de transmisión directa, no indirecta."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es más efectiva contra la transmisión por vectores?",
+            "opciones": [
+              "Vacunación masiva de la población.",
+              "Uso de barreras físicas como mosquiteras y repelentes.",
+              "Aislamiento respiratorio del paciente infectado.",
+              "Higiene de manos estricta entre los cuidadores."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "El uso de mosquiteras, repelentes y la desinsectación son medidas clave para prevenir la transmisión por vectores."
+          },
+          {
+            "enunciado": "¿Qué agente infeccioso se transmite típicamente por vía aérea?",
+            "opciones": [
+              "Virus del dengue",
+              "Mycobacterium tuberculosis",
+              "Escherichia coli",
+              "Plasmodium falciparum"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Mycobacterium tuberculosis se transmite por vía aérea, a través de aerosoles expulsados al toser, hablar o estornudar."
+          },
+          {
+            "enunciado": "¿Qué término describe la transmisión de una enfermedad a través de la picadura de un insecto?",
+            "opciones": [
+              "Transmisión indirecta",
+              "Transmisión directa",
+              "Transmisión aérea",
+              "Transmisión por vectores"
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "La transmisión por vectores ocurre cuando un agente infeccioso es propagado por un insecto, como en el caso del dengue o la malaria."
+          },
+          {
+            "enunciado": "¿Qué medida reduce el riesgo de transmisión aérea en hospitales?",
+            "opciones": [
+              "Higiene de manos adecuada.",
+              "Uso de guantes y delantales desechables.",
+              "Implementación de sistemas de ventilación con presión negativa.",
+              "Uso de utensilios individuales para los pacientes."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "cadena_epidemiologica", "enfermedades_transmisibles"],
+            "feedback": "Los sistemas de ventilación con presión negativa son esenciales para reducir la propagación de agentes infecciosos transmitidos por vía aérea en hospitales."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué medida de prevención está dirigida a reducir la transmisión de enfermedades a través de las manos?",
+            "opciones": [
+              "Uso de barreras físicas como mosquiteras.",
+              "Higiene de manos frecuente con agua y jabón o soluciones hidroalcohólicas.",
+              "Vacunación contra enfermedades comunes.",
+              "Aislamiento respiratorio de los pacientes infectados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La higiene de manos es una de las medidas más efectivas para prevenir la transmisión de enfermedades transmisibles."
+          },
+          {
+            "enunciado": "¿Qué acción forma parte de las medidas sobre la fuente de infección cuando el reservorio es humano?",
+            "opciones": [
+              "Diagnóstico precoz y tratamiento oportuno.",
+              "Uso de insecticidas para eliminar vectores.",
+              "Control del agua potable y saneamiento.",
+              "Vacunación masiva de la población."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El diagnóstico precoz y el tratamiento adecuado ayudan a reducir la capacidad de transmisión de una fuente humana de infección."
+          },
+          {
+            "enunciado": "¿Qué medida está específicamente dirigida a controlar la transmisión por contacto directo?",
+            "opciones": [
+              "Uso de mascarillas quirúrgicas.",
+              "Aislamiento de pacientes infectados y uso adecuado de guantes.",
+              "Higiene y desinfección de superficies.",
+              "Vacunación y quimioprofilaxis."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El aislamiento y el uso de guantes son fundamentales para controlar la transmisión directa por contacto."
+          },
+          {
+            "enunciado": "¿Qué tipo de profilaxis se utiliza para generar inmunidad activa contra enfermedades transmisibles?",
+            "opciones": [
+              "Profilaxis pasiva mediante inmunoglobulinas.",
+              "Profilaxis activa mediante vacunas.",
+              "Profilaxis con antibióticos de amplio espectro.",
+              "Profilaxis ambiental mediante desinfectantes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La profilaxis activa se realiza mediante la administración de vacunas, generando una respuesta inmunitaria protectora."
+          },
+          {
+            "enunciado": "¿Qué medidas se deben tomar para evitar la transmisión indirecta en el ambiente hospitalario?",
+            "opciones": [
+              "Uso de soluciones desinfectantes en superficies y utensilios.",
+              "Control de vectores mediante desinsectación.",
+              "Aislamiento estricto de pacientes inmunocomprometidos.",
+              "Lavado quirúrgico de manos antes de procedimientos invasivos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La desinfección de superficies y utensilios reduce el riesgo de transmisión indirecta en hospitales."
+          },
+          {
+            "enunciado": "¿Qué medida es esencial para controlar enfermedades transmitidas por vectores biológicos como los mosquitos?",
+            "opciones": [
+              "Aislamiento de pacientes sospechosos.",
+              "Uso de repelentes, mosquiteros y campañas de desinsectación.",
+              "Vacunación de la población en riesgo.",
+              "Higiene de manos antes y después del contacto con pacientes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El control de vectores mediante repelentes, mosquiteros y desinsectación es clave para prevenir enfermedades transmitidas por insectos."
+          },
+          {
+            "enunciado": "¿Cuál de las siguientes acciones corresponde a una medida de prevención sobre el reservorio telúrico?",
+            "opciones": [
+              "Desinfección del suelo y control ambiental.",
+              "Diagnóstico y tratamiento de pacientes infectados.",
+              "Control de alimentos y agua contaminados.",
+              "Uso de barreras físicas como guantes."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La desinfección del suelo y el control del ambiente son medidas clave cuando el reservorio de la infección es telúrico."
+          },
+          {
+            "enunciado": "¿Qué estrategia educativa puede ayudar a prevenir enfermedades transmisibles?",
+            "opciones": [
+              "Aislamiento de los casos sospechosos.",
+              "Promoción del lavado de manos en la comunidad.",
+              "Uso de insecticidas en áreas urbanas.",
+              "Implementación de sistemas de filtración de agua."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "Promover el lavado de manos en la comunidad es una estrategia educativa efectiva para prevenir enfermedades."
+          },
+          {
+            "enunciado": "¿Qué medida es específica para prevenir la transmisión de enfermedades por alimentos?",
+            "opciones": [
+              "Cocción adecuada y conservación a temperaturas seguras.",
+              "Higiene de manos antes de comer.",
+              "Uso de guantes durante la manipulación de alimentos.",
+              "Uso de repelentes para evitar insectos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "Cocinar y conservar los alimentos a temperaturas seguras ayuda a prevenir la transmisión de enfermedades alimentarias."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva está enfocada en la protección de la población susceptible?",
+            "opciones": [
+              "Vacunación y educación sanitaria.",
+              "Desinfección del ambiente y superficies.",
+              "Uso de mascarillas en ambientes hospitalarios.",
+              "Higiene adecuada en la preparación de alimentos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La vacunación y la educación sanitaria son fundamentales para proteger a las poblaciones susceptibles frente a enfermedades transmisibles."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué caracteriza a la profilaxis activa?",
+            "opciones": [
+              "Proporciona inmunidad inmediata mediante la administración de anticuerpos.",
+              "Genera inmunidad duradera al estimular el sistema inmunológico del huésped.",
+              "Se utiliza únicamente en situaciones de emergencia médica.",
+              "Consiste en la desinfección del ambiente hospitalario."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis activa se basa en la administración de vacunas que estimulan el sistema inmunológico para generar una respuesta protectora."
+          },
+          {
+            "enunciado": "¿Qué medida representa un ejemplo de profilaxis pasiva?",
+            "opciones": [
+              "Vacunación contra el sarampión.",
+              "Administración de inmunoglobulinas tras la exposición a hepatitis B.",
+              "Uso de antibióticos como tratamiento preventivo.",
+              "Aislamiento de pacientes infectados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis pasiva consiste en la administración de anticuerpos, como inmunoglobulinas, proporcionando inmunidad inmediata pero temporal."
+          },
+          {
+            "enunciado": "¿Qué tipo de profilaxis se utiliza para prevenir infecciones tras la exposición a un agente infeccioso?",
+            "opciones": [
+              "Profilaxis activa mediante vacunas.",
+              "Profilaxis pasiva mediante inmunoglobulinas.",
+              "Profilaxis con desinfectantes ambientales.",
+              "Profilaxis por aislamiento preventivo."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "Tras la exposición a un agente infeccioso, se utiliza profilaxis pasiva, como inmunoglobulinas, para proporcionar protección inmediata."
+          },
+          {
+            "enunciado": "¿Qué diferencia principal existe entre profilaxis activa y pasiva?",
+            "opciones": [
+              "La activa proporciona inmunidad inmediata y la pasiva es duradera.",
+              "La activa estimula el sistema inmunitario y la pasiva proporciona anticuerpos directamente.",
+              "La pasiva se utiliza antes de la exposición y la activa después de la exposición.",
+              "La pasiva es efectiva contra virus y la activa contra bacterias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis activa estimula el sistema inmunitario para generar una respuesta, mientras que la pasiva introduce anticuerpos preparados para protección inmediata."
+          },
+          {
+            "enunciado": "¿En qué situaciones es más apropiada la profilaxis pasiva?",
+            "opciones": [
+              "Antes de viajar a áreas con enfermedades endémicas.",
+              "Tras la exposición a un agente infeccioso y cuando no hay tiempo para una respuesta inmune activa.",
+              "En campañas masivas de vacunación.",
+              "Para prevenir infecciones hospitalarias mediante medidas de asepsia."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis pasiva es adecuada tras la exposición a un agente infeccioso, proporcionando protección inmediata cuando no hay tiempo para generar una respuesta activa."
+          },
+          {
+            "enunciado": "¿Qué intervención se considera profilaxis activa?",
+            "opciones": [
+              "Aplicación de la vacuna contra la gripe.",
+              "Suministro de suero antitetánico tras una herida contaminada.",
+              "Uso de antibióticos en pacientes inmunodeprimidos.",
+              "Esterilización de equipos médicos en un hospital."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La vacunación es un ejemplo de profilaxis activa, ya que prepara al sistema inmunitario para reconocer y combatir futuras infecciones."
+          },
+          {
+            "enunciado": "¿Qué desventaja tiene la profilaxis pasiva en comparación con la activa?",
+            "opciones": [
+              "Proporciona inmunidad de larga duración.",
+              "No estimula una memoria inmunológica duradera.",
+              "Requiere más tiempo para ser efectiva.",
+              "Es ineficaz contra agentes virales."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis pasiva no estimula el sistema inmunológico para crear memoria inmunitaria, lo que limita su duración de protección."
+          },
+          {
+            "enunciado": "¿Qué medida representa una forma de profilaxis pre-exposición?",
+            "opciones": [
+              "Vacunación contra la fiebre amarilla antes de viajar a zonas endémicas.",
+              "Administración de inmunoglobulinas tras contacto con un paciente infectado.",
+              "Uso de mascarillas en un brote hospitalario.",
+              "Higiene de manos antes de realizar procedimientos médicos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La vacunación antes de viajar a zonas endémicas es un ejemplo de profilaxis pre-exposición para proteger contra enfermedades específicas."
+          },
+          {
+            "enunciado": "¿Qué agente se utiliza típicamente en profilaxis activa?",
+            "opciones": [
+              "Vacunas que contienen antígenos específicos.",
+              "Inmunoglobulinas de origen humano.",
+              "Antibióticos de amplio espectro.",
+              "Antisépticos aplicados en heridas."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "Las vacunas contienen antígenos que estimulan una respuesta inmune activa, preparando al cuerpo contra futuras infecciones."
+          },
+          {
+            "enunciado": "¿En qué caso estaría indicada la profilaxis post-exposición con inmunoglobulinas?",
+            "opciones": [
+              "Antes de viajar a áreas endémicas de malaria.",
+              "Tras un contacto de alto riesgo con un paciente con rabia.",
+              "Para prevenir infecciones durante procedimientos quirúrgicos.",
+              "Durante campañas de vacunación contra el sarampión."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades", "profilaxis"],
+            "feedback": "La profilaxis post-exposición con inmunoglobulinas está indicada en casos como la exposición al virus de la rabia, para protección inmediata."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué medida preventiva se aplica principalmente para evitar infecciones respiratorias en ambientes cerrados?",
+            "opciones": [
+              "Uso de guantes estériles.",
+              "Implementación de sistemas de ventilación adecuados.",
+              "Aplicación de desinfectantes en superficies.",
+              "Administración de inmunoglobulinas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La ventilación adecuada reduce la concentración de aerosoles infecciosos en ambientes cerrados, previniendo infecciones respiratorias."
+          },
+          {
+            "enunciado": "¿Qué acción forma parte de las precauciones estándar para prevenir infecciones relacionadas con la atención sanitaria?",
+            "opciones": [
+              "Vacunación obligatoria de todo el personal sanitario.",
+              "Uso correcto de equipo de protección personal como guantes y mascarillas.",
+              "Aislamiento de todos los pacientes ingresados.",
+              "Control de vectores en el entorno hospitalario."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El uso adecuado de equipos de protección personal es parte de las precauciones estándar para reducir la transmisión de infecciones."
+          },
+          {
+            "enunciado": "¿Qué estrategia se utiliza para prevenir enfermedades transmitidas por el agua?",
+            "opciones": [
+              "Aislamiento respiratorio de pacientes infectados.",
+              "Control de vectores en fuentes hídricas.",
+              "Tratamiento y cloración del agua potable.",
+              "Vacunación contra enfermedades gastrointestinales."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El tratamiento y cloración del agua potable eliminan agentes patógenos, previniendo enfermedades transmitidas por el agua."
+          },
+          {
+            "enunciado": "¿Qué medida se utiliza para evitar infecciones transmitidas por alimentos?",
+            "opciones": [
+              "Control de residuos sólidos.",
+              "Vacunación masiva de manipuladores de alimentos.",
+              "Cocción adecuada y almacenamiento en condiciones higiénicas.",
+              "Aislamiento de pacientes infectados."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La cocción adecuada y el almacenamiento higiénico son esenciales para prevenir infecciones transmitidas por alimentos."
+          },
+          {
+            "enunciado": "¿Qué medida es clave para prevenir infecciones nosocomiales relacionadas con la manipulación de catéteres?",
+            "opciones": [
+              "Lavado de manos antes y después de cada procedimiento.",
+              "Aislamiento estricto del paciente.",
+              "Vacunación contra enfermedades bacterianas.",
+              "Control del ambiente hospitalario mediante desinfección diaria."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El lavado de manos antes y después de manipular catéteres es una medida clave para prevenir infecciones nosocomiales."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es esencial para evitar la transmisión por contacto directo?",
+            "opciones": [
+              "Uso de guantes y lavado de manos adecuado.",
+              "Cloración del agua potable.",
+              "Aislamiento respiratorio del paciente.",
+              "Vacunación de la población susceptible."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El uso de guantes y el lavado de manos son medidas fundamentales para prevenir la transmisión por contacto directo."
+          },
+          {
+            "enunciado": "¿Cuál es una medida efectiva para controlar enfermedades transmitidas por vectores como el dengue?",
+            "opciones": [
+              "Aislamiento de pacientes en áreas protegidas.",
+              "Uso de repelentes y eliminación de criaderos de mosquitos.",
+              "Vacunación masiva de la población en riesgo.",
+              "Higiene estricta en la preparación de alimentos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El uso de repelentes y la eliminación de criaderos son estrategias efectivas para controlar enfermedades transmitidas por vectores."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva reduce el riesgo de transmisión de infecciones por vía sanguínea?",
+            "opciones": [
+              "Uso exclusivo de guantes estériles durante procedimientos invasivos.",
+              "Cloración de agua en áreas hospitalarias.",
+              "Vacunación contra el VIH.",
+              "Eliminación de fómites en el ambiente hospitalario."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "El uso de guantes estériles durante procedimientos invasivos minimiza el riesgo de transmisión por vía sanguínea."
+          },
+          {
+            "enunciado": "¿Qué acción preventiva es específica para evitar la transmisión por fómites?",
+            "opciones": [
+              "Desinfección regular de superficies y objetos compartidos.",
+              "Vacunación del personal sanitario.",
+              "Implementación de barreras físicas como mascarillas.",
+              "Aislamiento de pacientes inmunocomprometidos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "La desinfección de superficies y objetos compartidos es esencial para prevenir la transmisión por fómites."
+          },
+          {
+            "enunciado": "¿Qué medida se incluye en las estrategias de prevención comunitaria contra enfermedades infecciosas?",
+            "opciones": [
+              "Higiene de manos frecuente en la comunidad.",
+              "Uso exclusivo de sistemas de aire acondicionado.",
+              "Aislamiento estricto de pacientes sospechosos.",
+              "Desratización en entornos hospitalarios."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_prevencion_enfermedades"],
+            "feedback": "Promover la higiene de manos en la comunidad es una estrategia clave para reducir la propagación de enfermedades infecciosas."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué concepto describe la ausencia de microorganismos patógenos en materiales o superficies?",
+            "opciones": [
+              "Desinfección",
+              "Asepsia",
+              "Antisepsia",
+              "Esterilización"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia se refiere a la ausencia de microorganismos en materiales o superficies, lograda mediante técnicas de limpieza y desinfección."
+          },
+          {
+            "enunciado": "¿Qué diferencia principal existe entre desinfección y esterilización?",
+            "opciones": [
+              "La desinfección elimina microorganismos en superficies vivas, mientras que la esterilización se realiza en objetos inanimados.",
+              "La esterilización elimina todos los microorganismos, incluidas las esporas, mientras que la desinfección no elimina todas las esporas.",
+              "La desinfección utiliza únicamente agentes físicos, mientras que la esterilización requiere agentes químicos.",
+              "La esterilización se aplica únicamente en entornos hospitalarios, mientras que la desinfección es exclusiva del hogar."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización elimina todos los microorganismos, incluidas las esporas, mientras que la desinfección no asegura la eliminación de todas las esporas."
+          },
+          {
+            "enunciado": "¿Qué nivel de desinfección es necesario para equipos médicos que no pueden exponerse al calor?",
+            "opciones": [
+              "Bajo nivel de desinfección.",
+              "Desinfección intermedia.",
+              "Desinfección de alto nivel.",
+              "Esterilización química."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección de alto nivel es adecuada para equipos que no pueden esterilizarse con calor, asegurando la eliminación de microorganismos patógenos excepto esporas."
+          },
+          {
+            "enunciado": "¿Qué tipo de agente se utiliza en la antisepsia?",
+            "opciones": [
+              "Desinfectantes químicos aplicados a superficies inanimadas.",
+              "Antisépticos aplicados en tejidos vivos como piel o mucosas.",
+              "Agentes esterilizantes de uso hospitalario.",
+              "Productos de limpieza domésticos comunes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia utiliza antisépticos diseñados específicamente para destruir o inhibir microorganismos en tejidos vivos como piel o mucosas."
+          },
+          {
+            "enunciado": "¿Qué método de esterilización es más seguro para material quirúrgico?",
+            "opciones": [
+              "Esterilización por radiación ultravioleta.",
+              "Esterilización por vapor a presión (autoclave).",
+              "Esterilización con óxido de etileno.",
+              "Esterilización química con glutaraldehído."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización por vapor a presión, realizada en autoclaves, es el método más seguro y efectivo para materiales quirúrgicos debido a su capacidad de eliminar microorganismos y esporas."
+          },
+          {
+            "enunciado": "¿Qué medida debe aplicarse antes de realizar la desinfección de una superficie?",
+            "opciones": [
+              "Aplicar directamente un desinfectante químico sin limpieza previa.",
+              "Esterilizar la superficie para eliminar todos los microorganismos.",
+              "Lavar la superficie con agua y jabón para eliminar residuos orgánicos.",
+              "Frotar la superficie con alcohol al 70% inmediatamente."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "Lavar previamente con agua y jabón elimina residuos orgánicos, lo que aumenta la eficacia del desinfectante que se aplicará posteriormente."
+          },
+          {
+            "enunciado": "¿Cuál es una ventaja del alcohol etílico como antiséptico?",
+            "opciones": [
+              "Es efectivo contra bacterias grampositivas, esporas y virus con envoltura.",
+              "Tiene acción bactericida rápida y no deja residuos químicos.",
+              "Es activo frente a todas las esporas bacterianas.",
+              "No pierde efectividad en presencia de materia orgánica."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El alcohol etílico es un antiséptico eficaz contra bacterias y virus con envoltura, y actúa rápidamente al aplicarse."
+          },
+          {
+            "enunciado": "¿Qué sustancia antiséptica se utiliza comúnmente en procedimientos quirúrgicos para la piel del paciente?",
+            "opciones": [
+              "Peróxido de hidrógeno.",
+              "Alcohol al 70%.",
+              "Povidona yodada.",
+              "Hipoclorito sódico."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La povidona yodada es ampliamente utilizada en procedimientos quirúrgicos debido a su capacidad antiséptica y su eficacia en la piel del paciente."
+          },
+          {
+            "enunciado": "¿Qué desinfectante es altamente efectivo para eliminar microorganismos pero no debe usarse en superficies metálicas?",
+            "opciones": [
+              "Hipoclorito sódico.",
+              "Alcohol etílico.",
+              "Povidona yodada.",
+              "Glutaraldehído."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El hipoclorito sódico es un desinfectante potente, pero puede causar corrosión en superficies metálicas, por lo que debe evitarse en este tipo de materiales."
+          },
+          {
+            "enunciado": "¿Qué método de esterilización es ideal para instrumentos quirúrgicos sensibles a la humedad?",
+            "opciones": [
+              "Esterilización por vapor a presión.",
+              "Esterilización con gas plasma de peróxido de hidrógeno.",
+              "Esterilización por rayos ultravioleta.",
+              "Esterilización química con hipoclorito sódico."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El gas plasma de peróxido de hidrógeno es ideal para instrumentos sensibles a la humedad, ya que utiliza bajas temperaturas y no deja residuos tóxicos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué tipo de desinfección elimina casi todos los microorganismos, excepto algunas esporas resistentes?",
+            "opciones": [
+              "Desinfección de bajo nivel.",
+              "Desinfección intermedia.",
+              "Desinfección de alto nivel.",
+              "Esterilización."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección de alto nivel es efectiva contra casi todos los microorganismos, aunque no elimina todas las esporas resistentes."
+          },
+          {
+            "enunciado": "¿Qué acción se considera una técnica de antisepsia?",
+            "opciones": [
+              "Uso de clorhexidina en una herida quirúrgica.",
+              "Aplicación de hipoclorito sódico en una superficie.",
+              "Esterilización de instrumentos quirúrgicos en autoclave.",
+              "Desinfección de pisos con solución de amonio cuaternario."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La clorhexidina es un antiséptico que se aplica en tejidos vivos, como heridas quirúrgicas, para prevenir infecciones."
+          },
+          {
+            "enunciado": "¿Cuál es un ejemplo de un método físico de desinfección?",
+            "opciones": [
+              "Esterilización con óxido de etileno.",
+              "Desinfección por rayos ultravioleta.",
+              "Uso de soluciones de glutaraldehído.",
+              "Aplicación de alcohol etílico al 70%."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección por rayos ultravioleta es un método físico utilizado para inactivar microorganismos en superficies y ambientes."
+          },
+          {
+            "enunciado": "¿Qué diferencia principal tiene la antisepsia frente a la desinfección?",
+            "opciones": [
+              "La antisepsia se realiza en tejidos vivos, mientras que la desinfección se aplica en superficies inanimadas.",
+              "La antisepsia elimina todos los microorganismos, incluidas esporas, mientras que la desinfección no.",
+              "La antisepsia utiliza agentes químicos, mientras que la desinfección utiliza agentes físicos.",
+              "La antisepsia es exclusiva de ambientes hospitalarios, mientras que la desinfección se realiza en hogares."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia se realiza en tejidos vivos, como piel o mucosas, mientras que la desinfección se aplica en superficies inanimadas."
+          },
+          {
+            "enunciado": "¿Qué método de esterilización es más adecuado para equipos médicos delicados que no soportan altas temperaturas?",
+            "opciones": [
+              "Esterilización por vapor a presión.",
+              "Esterilización por gas óxido de etileno.",
+              "Esterilización por radiación ultravioleta.",
+              "Esterilización química con alcohol al 70%."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización por gas óxido de etileno es ideal para equipos delicados, ya que no utiliza calor y es compatible con materiales sensibles."
+          },
+          {
+            "enunciado": "¿Cuál es el objetivo principal de las medidas de asepsia quirúrgica?",
+            "opciones": [
+              "Eliminar microorganismos de la superficie de la piel del paciente.",
+              "Evitar la entrada de microorganismos a una herida quirúrgica.",
+              "Garantizar la limpieza general del ambiente hospitalario.",
+              "Controlar la propagación de enfermedades zoonóticas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia quirúrgica busca evitar la entrada de microorganismos en heridas quirúrgicas mediante técnicas estrictas de limpieza y esterilización."
+          },
+          {
+            "enunciado": "¿Qué método de desinfección es más efectivo para áreas críticas en hospitales, como quirófanos?",
+            "opciones": [
+              "Desinfección con amonio cuaternario.",
+              "Desinfección con hipoclorito sódico.",
+              "Desinfección con alcohol al 70%.",
+              "Desinfección por vapor a presión."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El hipoclorito sódico es ampliamente utilizado en áreas críticas debido a su capacidad para eliminar una amplia gama de microorganismos."
+          },
+          {
+            "enunciado": "¿Qué ventaja tiene la clorhexidina como agente antiséptico en comparación con el alcohol al 70%?",
+            "opciones": [
+              "Es efectiva contra todas las esporas bacterianas.",
+              "Tiene acción antimicrobiana prolongada.",
+              "No irrita la piel bajo ninguna circunstancia.",
+              "Elimina más rápidamente los microorganismos en heridas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La clorhexidina tiene una acción antimicrobiana residual, lo que la hace efectiva durante más tiempo en comparación con el alcohol."
+          },
+          {
+            "enunciado": "¿Qué agente químico se considera de alto nivel para desinfectar equipos médicos reutilizables?",
+            "opciones": [
+              "Alcohol etílico.",
+              "Glutaraldehído.",
+              "Hipoclorito sódico.",
+              "Povidona yodada."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El glutaraldehído es un agente químico de alto nivel utilizado para desinfectar equipos médicos reutilizables sensibles al calor."
+          },
+          {
+            "enunciado": "¿Qué tipo de control se utiliza para garantizar la efectividad de los procesos de esterilización?",
+            "opciones": [
+              "Control químico mediante el uso de detergentes específicos.",
+              "Control biológico utilizando esporas resistentes.",
+              "Control físico mediante lavado previo con agua y jabón.",
+              "Control ambiental mediante eliminación de microorganismos en el aire."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El control biológico utiliza esporas bacterianas para comprobar la eficacia de los procesos de esterilización, asegurando la eliminación total de microorganismos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué tipo de técnica se utiliza para eliminar microorganismos presentes en instrumentos quirúrgicos?",
+            "opciones": [
+              "Desinfección de alto nivel.",
+              "Esterilización.",
+              "Antisepsia.",
+              "Asepsia."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización elimina todos los microorganismos, incluidas las esporas, siendo el método indicado para instrumentos quirúrgicos."
+          },
+          {
+            "enunciado": "¿Qué diferencia existe entre un desinfectante y un antiséptico?",
+            "opciones": [
+              "El desinfectante se usa en tejidos vivos y el antiséptico en superficies inanimadas.",
+              "El antiséptico es más efectivo contra esporas bacterianas que el desinfectante.",
+              "El desinfectante se aplica en superficies inanimadas, mientras que el antiséptico se utiliza en tejidos vivos.",
+              "El antiséptico y el desinfectante son términos sinónimos."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El desinfectante se utiliza en superficies inanimadas, mientras que el antiséptico está diseñado para su uso en tejidos vivos."
+          },
+          {
+            "enunciado": "¿Qué agente se recomienda para la desinfección de superficies contaminadas con sangre?",
+            "opciones": [
+              "Hipoclorito sódico.",
+              "Clorhexidina.",
+              "Alcohol al 70%.",
+              "Povidona yodada."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El hipoclorito sódico es ideal para la desinfección de superficies contaminadas con sangre, ya que es efectivo contra microorganismos patógenos."
+          },
+          {
+            "enunciado": "¿Qué método de desinfección física utiliza temperaturas moderadas para reducir microorganismos en líquidos?",
+            "opciones": [
+              "Pasteurización.",
+              "Hervido.",
+              "Autoclave.",
+              "Radiación ultravioleta."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La pasteurización utiliza temperaturas moderadas para eliminar microorganismos en líquidos, preservando su calidad original."
+          },
+          {
+            "enunciado": "¿Qué técnica es esencial antes de aplicar un antiséptico en la piel del paciente?",
+            "opciones": [
+              "Eliminar la flora residente mediante desinfección química.",
+              "Lavar la zona con agua y jabón para retirar suciedad visible.",
+              "Aplicar alcohol al 70% directamente sobre la piel.",
+              "Aislar la zona con materiales estériles antes de proceder."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El lavado con agua y jabón elimina la suciedad visible, mejorando la eficacia del antiséptico aplicado posteriormente."
+          },
+          {
+            "enunciado": "¿Qué sustancia es más adecuada para la esterilización de instrumentos termolábiles?",
+            "opciones": [
+              "Hipoclorito sódico.",
+              "Óxido de etileno.",
+              "Alcohol al 70%.",
+              "Peróxido de hidrógeno."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El óxido de etileno es ideal para la esterilización de instrumentos termolábiles, ya que no requiere altas temperaturas."
+          },
+          {
+            "enunciado": "¿Qué método de esterilización destruye microorganismos al liberar oxígeno y formar radicales libres?",
+            "opciones": [
+              "Esterilización por autoclave.",
+              "Esterilización con gas plasma de peróxido de hidrógeno.",
+              "Esterilización por radiación ionizante.",
+              "Esterilización química con glutaraldehído."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "El gas plasma de peróxido de hidrógeno esteriliza mediante la liberación de oxígeno, que destruye microorganismos y esporas."
+          },
+          {
+            "enunciado": "¿Qué sustancia antiséptica tiene acción prolongada pero no es efectiva contra esporas bacterianas?",
+            "opciones": [
+              "Povidona yodada.",
+              "Alcohol al 70%.",
+              "Clorhexidina.",
+              "Hipoclorito sódico."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La clorhexidina tiene acción prolongada contra bacterias y hongos, pero no es efectiva contra esporas bacterianas."
+          },
+          {
+            "enunciado": "¿Qué técnica se emplea para garantizar la eliminación de microorganismos en equipos reutilizables dentro de un hospital?",
+            "opciones": [
+              "Esterilización por vapor.",
+              "Desinfección intermedia.",
+              "Antisepsia química.",
+              "Uso de amonio cuaternario."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización por vapor elimina todos los microorganismos, incluidas esporas, y es adecuada para equipos médicos reutilizables."
+          },
+          {
+            "enunciado": "¿Qué método de control ambiental reduce el riesgo de transmisión de microorganismos en quirófanos?",
+            "opciones": [
+              "Uso de lámparas de radiación ultravioleta.",
+              "Desinfección diaria con alcohol al 70%.",
+              "Aislamiento de pacientes con infecciones activas.",
+              "Control de residuos sanitarios en bolsas específicas."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "Las lámparas de radiación ultravioleta se utilizan para reducir microorganismos en el aire y superficies de quirófanos, mejorando la seguridad ambiental."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué término se refiere a la eliminación completa de todos los microorganismos, incluidas las esporas?",
+            "opciones": [
+              "Desinfección",
+              "Asepsia",
+              "Esterilización",
+              "Antisepsia"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización elimina todos los microorganismos, incluidas las esporas, siendo el nivel más alto de control microbiológico."
+          },
+          {
+            "enunciado": "¿Qué proceso busca evitar la contaminación por microorganismos en tejidos vivos o superficies?",
+            "opciones": [
+              "Antisepsia",
+              "Asepsia",
+              "Esterilización",
+              "Desinfección"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia consiste en técnicas que previenen la contaminación por microorganismos, como el uso de guantes y ambientes estériles."
+          },
+          {
+            "enunciado": "¿Qué término describe el uso de sustancias químicas para eliminar microorganismos en tejidos vivos como la piel?",
+            "opciones": [
+              "Desinfección",
+              "Antisepsia",
+              "Esterilización",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia utiliza antisépticos en tejidos vivos, como la piel, para eliminar o inhibir microorganismos."
+          },
+          {
+            "enunciado": "¿Qué técnica es adecuada para reducir microorganismos en objetos inanimados, pero no elimina todas las esporas?",
+            "opciones": [
+              "Esterilización",
+              "Asepsia",
+              "Desinfección",
+              "Antisepsia"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección reduce microorganismos en superficies inanimadas, pero no garantiza la eliminación completa de todas las esporas."
+          },
+          {
+            "enunciado": "¿Qué término se refiere a un ambiente libre de microorganismos patógenos?",
+            "opciones": [
+              "Asepsia",
+              "Antisepsia",
+              "Desinfección",
+              "Esterilización"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia describe un ambiente libre de microorganismos patógenos, como un quirófano o una herida protegida."
+          },
+          {
+            "enunciado": "¿Qué procedimiento se aplica para desinfectar instrumentos quirúrgicos antes de su uso?",
+            "opciones": [
+              "Esterilización",
+              "Asepsia",
+              "Antisepsia",
+              "Desinfección"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización es el proceso necesario para garantizar que los instrumentos quirúrgicos estén completamente libres de microorganismos."
+          },
+          {
+            "enunciado": "¿Qué proceso químico se aplica para reducir microorganismos en superficies de uso diario, como mesas o barandales?",
+            "opciones": [
+              "Antisepsia",
+              "Desinfección",
+              "Esterilización",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección es el proceso adecuado para reducir microorganismos en superficies de uso diario mediante productos químicos."
+          },
+          {
+            "enunciado": "¿Qué proceso es imprescindible para eliminar esporas bacterianas en equipos médicos reutilizables?",
+            "opciones": [
+              "Asepsia",
+              "Antisepsia",
+              "Desinfección",
+              "Esterilización"
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización elimina esporas bacterianas y es esencial para garantizar la seguridad de los equipos médicos reutilizables."
+          },
+          {
+            "enunciado": "¿Qué técnica utiliza agentes físicos o químicos para prevenir infecciones en tejidos vivos?",
+            "opciones": [
+              "Desinfección",
+              "Asepsia",
+              "Antisepsia",
+              "Esterilización"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia utiliza agentes diseñados para tejidos vivos, como piel o mucosas, para prevenir infecciones."
+          },
+          {
+            "enunciado": "¿Qué procedimiento se utiliza para garantizar la eliminación de microorganismos en quirófanos antes de una cirugía?",
+            "opciones": [
+              "Desinfección del ambiente quirúrgico.",
+              "Esterilización de todo el material quirúrgico y superficies.",
+              "Asepsia general mediante técnicas de limpieza.",
+              "Antisepsia previa en las áreas quirúrgicas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización es necesaria para eliminar completamente los microorganismos en el ambiente y material de un quirófano antes de la cirugía."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué proceso utiliza vapor a presión para garantizar la eliminación completa de microorganismos y esporas?",
+            "opciones": [
+              "Desinfección",
+              "Esterilización",
+              "Asepsia",
+              "Antisepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización mediante autoclave utiliza vapor a presión para eliminar todos los microorganismos, incluidas las esporas."
+          },
+          {
+            "enunciado": "¿Qué procedimiento está diseñado específicamente para prevenir infecciones en heridas abiertas?",
+            "opciones": [
+              "Desinfección",
+              "Antisepsia",
+              "Esterilización",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia se aplica en tejidos vivos, como heridas abiertas, utilizando sustancias que inhiben el crecimiento de microorganismos."
+          },
+          {
+            "enunciado": "¿Qué técnica implica mantener un ambiente libre de microorganismos patógenos para evitar la contaminación?",
+            "opciones": [
+              "Esterilización",
+              "Asepsia",
+              "Desinfección",
+              "Antisepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia consiste en mantener un ambiente libre de microorganismos patógenos, fundamental en procedimientos quirúrgicos."
+          },
+          {
+            "enunciado": "¿Qué término describe la destrucción de microorganismos en superficies y objetos, pero no garantiza la eliminación de esporas?",
+            "opciones": [
+              "Esterilización",
+              "Desinfección",
+              "Antisepsia",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección elimina microorganismos en superficies y objetos, pero no asegura la eliminación completa de las esporas."
+          },
+          {
+            "enunciado": "¿Qué proceso utiliza agentes químicos para limpiar la piel antes de una intervención quirúrgica?",
+            "opciones": [
+              "Antisepsia",
+              "Desinfección",
+              "Asepsia",
+              "Esterilización"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La antisepsia implica el uso de agentes químicos diseñados para aplicar sobre piel o tejidos vivos antes de procedimientos quirúrgicos."
+          },
+          {
+            "enunciado": "¿Qué proceso es obligatorio para instrumentos quirúrgicos reutilizables antes de cada uso?",
+            "opciones": [
+              "Antisepsia",
+              "Desinfección",
+              "Esterilización",
+              "Asepsia"
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización es obligatoria para garantizar que los instrumentos quirúrgicos estén completamente libres de microorganismos antes de su uso."
+          },
+          {
+            "enunciado": "¿Qué técnica incluye el uso de barreras físicas como guantes estériles y campos quirúrgicos?",
+            "opciones": [
+              "Asepsia",
+              "Antisepsia",
+              "Esterilización",
+              "Desinfección"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La asepsia incluye el uso de barreras físicas como guantes estériles y campos quirúrgicos para prevenir la contaminación."
+          },
+          {
+            "enunciado": "¿Qué procedimiento es necesario para garantizar la seguridad de líquidos intravenosos antes de su administración?",
+            "opciones": [
+              "Antisepsia",
+              "Esterilización",
+              "Desinfección",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización es crucial para líquidos intravenosos, eliminando todos los microorganismos y esporas que puedan causar infecciones."
+          },
+          {
+            "enunciado": "¿Qué proceso es más adecuado para eliminar microorganismos en superficies de contacto frecuente, como manijas de puertas?",
+            "opciones": [
+              "Desinfección",
+              "Esterilización",
+              "Antisepsia",
+              "Asepsia"
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La desinfección es adecuada para eliminar microorganismos en superficies de contacto frecuente, mejorando la seguridad en el ambiente."
+          },
+          {
+            "enunciado": "¿Qué proceso utiliza agentes químicos o físicos para garantizar la eliminación de todos los microorganismos en instrumentos médicos?",
+            "opciones": [
+              "Antisepsia",
+              "Esterilización",
+              "Desinfección",
+              "Asepsia"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "medidas_preventivas_en_salud"],
+            "feedback": "La esterilización utiliza agentes químicos o físicos para garantizar la eliminación total de microorganismos y esporas en instrumentos médicos."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Cuál es el objetivo principal del aislamiento hospitalario?",
+            "opciones": [
+              "Reducir los costos asociados al cuidado del paciente.",
+              "Garantizar la privacidad del paciente durante su estancia.",
+              "Prevenir la transmisión de infecciones dentro del hospital.",
+              "Mejorar la recuperación del paciente mediante la soledad."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento hospitalario tiene como objetivo principal prevenir la transmisión de infecciones dentro del entorno hospitalario, tanto entre pacientes como al personal."
+          },
+          {
+            "enunciado": "¿Qué tipo de aislamiento es adecuado para pacientes con tuberculosis activa?",
+            "opciones": [
+              "Aislamiento por contacto.",
+              "Aislamiento respiratorio.",
+              "Aislamiento protector.",
+              "Aislamiento estándar."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento respiratorio es necesario para pacientes con tuberculosis activa para prevenir la transmisión de aerosoles infecciosos."
+          },
+          {
+            "enunciado": "¿Qué tipo de precaución se incluye en el aislamiento por contacto?",
+            "opciones": [
+              "Uso de guantes y bata al entrar en la habitación del paciente.",
+              "Instalación de sistemas de presión negativa.",
+              "Uso de mascarillas N95 para todo el personal.",
+              "Separación física del paciente mediante una barrera de plástico."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento por contacto requiere guantes y bata para evitar la transmisión de microorganismos a través de superficies o contacto directo."
+          },
+          {
+            "enunciado": "¿Qué caracteriza al aislamiento protector?",
+            "opciones": [
+              "Protege a los pacientes inmunocomprometidos de infecciones externas.",
+              "Se aplica a pacientes con enfermedades respiratorias contagiosas.",
+              "Previene infecciones transmitidas por contacto directo.",
+              "Incluye medidas para eliminar vectores como insectos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento protector protege a los pacientes inmunocomprometidos de infecciones externas, limitando su exposición a microorganismos."
+          },
+          {
+            "enunciado": "¿Qué medida es obligatoria en el aislamiento respiratorio?",
+            "opciones": [
+              "Uso de mascarillas quirúrgicas por parte del personal.",
+              "Habitaciones con presión negativa para contener aerosoles.",
+              "Prohibición de visitas familiares en cualquier circunstancia.",
+              "Esterilización diaria de todas las superficies de la habitación."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "Las habitaciones con presión negativa son esenciales en el aislamiento respiratorio para evitar que los aerosoles infecciosos salgan al exterior."
+          },
+          {
+            "enunciado": "¿Qué precaución es común en todos los tipos de aislamiento hospitalario?",
+            "opciones": [
+              "Lavado de manos antes y después del contacto con el paciente.",
+              "Uso obligatorio de sistemas de presión negativa.",
+              "Prohibición de contacto directo con los pacientes.",
+              "Esterilización del aire dentro de las habitaciones."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El lavado de manos es una medida esencial y común a todos los tipos de aislamiento para prevenir la propagación de infecciones."
+          },
+          {
+            "enunciado": "¿Qué tipo de aislamiento es necesario para un paciente con varicela?",
+            "opciones": [
+              "Aislamiento por gotas.",
+              "Aislamiento respiratorio y por contacto.",
+              "Aislamiento protector.",
+              "Aislamiento estándar."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento respiratorio y por contacto es necesario para la varicela, ya que el virus puede transmitirse tanto por aerosoles como por contacto directo."
+          },
+          {
+            "enunciado": "¿Qué tipo de infección requiere aislamiento por gotas?",
+            "opciones": [
+              "Tuberculosis activa.",
+              "Influenza estacional.",
+              "Hepatitis B.",
+              "Neumonía adquirida en comunidad."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento por gotas se utiliza para infecciones como la influenza, donde los patógenos se transmiten mediante gotitas expulsadas al hablar, toser o estornudar."
+          },
+          {
+            "enunciado": "¿Qué medida se utiliza en el aislamiento por contacto para prevenir la propagación de microorganismos?",
+            "opciones": [
+              "Instalación de habitaciones con presión negativa.",
+              "Uso exclusivo de utensilios y equipos para el paciente.",
+              "Limpieza del aire con filtros HEPA.",
+              "Prohibición del ingreso de visitantes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "En el aislamiento por contacto, el uso exclusivo de utensilios y equipos para cada paciente ayuda a prevenir la propagación de microorganismos."
+          },
+          {
+            "enunciado": "¿Qué característica distingue al aislamiento estándar de otros tipos de aislamiento?",
+            "opciones": [
+              "Se aplica a todos los pacientes, independientemente de su diagnóstico.",
+              "Incluye el uso obligatorio de presión negativa en todas las habitaciones.",
+              "Requiere el uso exclusivo de mascarillas N95.",
+              "Prohíbe el uso de guantes durante el contacto con pacientes."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento estándar incluye precauciones básicas aplicadas a todos los pacientes, como higiene de manos y uso de guantes, para prevenir infecciones."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué tipo de aislamiento requiere el uso de mascarillas N95 para el personal de salud?",
+            "opciones": [
+              "Aislamiento por contacto",
+              "Aislamiento respiratorio",
+              "Aislamiento por gotas",
+              "Aislamiento protector"
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento respiratorio requiere el uso de mascarillas N95 para proteger al personal de salud de infecciones transmitidas por aerosoles."
+          },
+          {
+            "enunciado": "¿Qué medida adicional se debe implementar en el aislamiento protector para pacientes inmunodeprimidos?",
+            "opciones": [
+              "Prohibición de visitas familiares sin excepción.",
+              "Filtración del aire con sistemas HEPA en la habitación.",
+              "Uso de guantes y batas para todo el personal.",
+              "Desinfección diaria del entorno del paciente."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "En el aislamiento protector, los sistemas HEPA son esenciales para filtrar partículas y microorganismos, reduciendo el riesgo de infecciones externas."
+          },
+          {
+            "enunciado": "¿Qué pacientes requieren aislamiento estándar?",
+            "opciones": [
+              "Solo aquellos con infecciones respiratorias.",
+              "Todos los pacientes, independientemente de su estado de salud.",
+              "Pacientes con enfermedades altamente contagiosas.",
+              "Únicamente pacientes inmunocomprometidos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento estándar se aplica universalmente a todos los pacientes, como medida básica para prevenir infecciones en hospitales."
+          },
+          {
+            "enunciado": "¿Qué equipo es obligatorio al tratar a un paciente bajo aislamiento por contacto?",
+            "opciones": [
+              "Mascarilla quirúrgica.",
+              "Guantes y bata desechables.",
+              "Mascarilla N95 y protector facial.",
+              "Filtro HEPA en la habitación."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El uso de guantes y bata desechables es obligatorio en el aislamiento por contacto para evitar la propagación de microorganismos a través de superficies o contacto directo."
+          },
+          {
+            "enunciado": "¿Qué característica principal distingue al aislamiento por gotas?",
+            "opciones": [
+              "Requiere presión negativa en la habitación del paciente.",
+              "Se aplica a enfermedades transmitidas por partículas mayores de 5 micras.",
+              "Incluye el uso obligatorio de guantes y batas desechables.",
+              "Solo se utiliza para pacientes con enfermedades crónicas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento por gotas es necesario para enfermedades transmitidas por partículas mayores de 5 micras, como la gripe o el sarampión."
+          },
+          {
+            "enunciado": "¿Qué tipo de habitación debe usarse para pacientes en aislamiento respiratorio?",
+            "opciones": [
+              "Habitación con ventilación estándar.",
+              "Habitación con presión positiva.",
+              "Habitación con presión negativa.",
+              "Habitación compartida con otros pacientes con la misma infección."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "Las habitaciones con presión negativa son necesarias en el aislamiento respiratorio para evitar la dispersión de aerosoles infecciosos al exterior."
+          },
+          {
+            "enunciado": "¿Qué medida es común en los aislamientos por contacto, por gotas y respiratorio?",
+            "opciones": [
+              "Uso de mascarillas N95 para todo el personal.",
+              "Aislamiento completo del paciente sin visitas familiares.",
+              "Higiene de manos antes y después del contacto con el paciente.",
+              "Presión negativa en todas las habitaciones de aislamiento."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "La higiene de manos antes y después del contacto con el paciente es una medida universal en todos los tipos de aislamiento para prevenir la transmisión."
+          },
+          {
+            "enunciado": "¿Qué tipo de aislamiento es más adecuado para prevenir infecciones cruzadas en pacientes con infecciones por microorganismos multirresistentes?",
+            "opciones": [
+              "Aislamiento por gotas.",
+              "Aislamiento estándar.",
+              "Aislamiento por contacto.",
+              "Aislamiento protector."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "El aislamiento por contacto es esencial para evitar infecciones cruzadas en pacientes con microorganismos multirresistentes, limitando el contacto con el entorno."
+          },
+          {
+            "enunciado": "¿Qué tipo de aislamiento combina precauciones por contacto y respiratorias?",
+            "opciones": [
+              "Aislamiento estándar.",
+              "Aislamiento respiratorio únicamente.",
+              "Aislamiento mixto para enfermedades como la varicela.",
+              "Aislamiento protector."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "Algunas enfermedades como la varicela requieren un aislamiento mixto, que incluye precauciones tanto por contacto como respiratorias debido a sus modos de transmisión."
+          },
+          {
+            "enunciado": "¿Qué requisito es esencial para permitir visitas en el aislamiento protector?",
+            "opciones": [
+              "Las visitas deben usar guantes y batas desechables.",
+              "Las visitas deben someterse a pruebas de detección de infecciones antes de ingresar.",
+              "Solo se permite el acceso de personal médico autorizado.",
+              "Las visitas deben usar mascarillas quirúrgicas y mantener estricta higiene de manos."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "aislamiento_hospitalario"],
+            "feedback": "En el aislamiento protector, las visitas deben usar mascarillas quirúrgicas y realizar higiene de manos para proteger al paciente inmunocomprometido."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué objetivo principal tiene el Plan de Gestión de Residuos del Servicio Andaluz de Salud?",
+            "opciones": [
+              "Reducir los costos de eliminación de residuos hospitalarios.",
+              "Garantizar el manejo adecuado y seguro de los residuos sanitarios.",
+              "Incrementar la generación de residuos reciclables.",
+              "Evitar la supervisión externa en la gestión de residuos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "El Plan de Gestión de Residuos del Servicio Andaluz de Salud tiene como objetivo garantizar el manejo adecuado y seguro de los residuos sanitarios, protegiendo la salud pública y el medio ambiente."
+          },
+          {
+            "enunciado": "¿Cómo se clasifican los residuos sanitarios según el Plan de Gestión de Residuos del SAS?",
+            "opciones": [
+              "Residuos orgánicos e inorgánicos.",
+              "Residuos sólidos, líquidos y gaseosos.",
+              "Residuos peligrosos y no peligrosos.",
+              "Residuos biosanitarios, químicos y asimilables a urbanos."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos sanitarios se clasifican en biosanitarios, químicos y asimilables a urbanos según el Plan de Gestión del SAS, facilitando su manejo y disposición."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuos incluye el grupo de residuos biosanitarios específicos?",
+            "opciones": [
+              "Restos de comida del personal hospitalario.",
+              "Material punzante y cortante usado en procedimientos clínicos.",
+              "Residuos químicos como medicamentos caducados.",
+              "Papel y cartón reciclable utilizado en el hospital."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios específicos incluyen material punzante y cortante utilizado en procedimientos clínicos, que requieren un manejo especial para evitar riesgos."
+          },
+          {
+            "enunciado": "¿Qué color de contenedor se utiliza para residuos biosanitarios no específicos en el SAS?",
+            "opciones": [
+              "Rojo.",
+              "Amarillo.",
+              "Negro.",
+              "Verde."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios no específicos se depositan en contenedores amarillos, siguiendo la normativa del SAS para un manejo adecuado."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuos deben ser eliminados en contenedores rígidos y de color rojo?",
+            "opciones": [
+              "Residuos asimilables a urbanos.",
+              "Residuos químicos peligrosos.",
+              "Residuos cortopunzantes.",
+              "Residuos reciclables."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos cortopunzantes, como agujas y bisturíes, se eliminan en contenedores rígidos y rojos para evitar accidentes y contaminación."
+          },
+          {
+            "enunciado": "¿Qué medida debe tomarse con los residuos biosanitarios específicos antes de su transporte?",
+            "opciones": [
+              "Reutilizarlos siempre que sea posible.",
+              "Esterilizarlos en autoclave si es necesario.",
+              "Colocarlos en bolsas verdes para reciclaje.",
+              "Almacenarlos en áreas comunes junto con residuos urbanos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios específicos deben ser esterilizados en autoclave o sometidos a otros procesos de descontaminación antes de su transporte."
+          },
+          {
+            "enunciado": "¿Qué responsabilidad tiene el personal sanitario en la gestión de residuos según el SAS?",
+            "opciones": [
+              "Seleccionar los residuos según su clasificación y depositarlos en los contenedores adecuados.",
+              "Transportar los residuos a las plantas de tratamiento.",
+              "Reducir la generación de residuos peligrosos mediante su reutilización.",
+              "Disponer todos los residuos en contenedores generales sin clasificación."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "El personal sanitario debe clasificar los residuos correctamente y depositarlos en los contenedores adecuados, contribuyendo a su manejo seguro y eficiente."
+          },
+          {
+            "enunciado": "¿Qué residuos se consideran asimilables a urbanos según el Plan de Gestión del SAS?",
+            "opciones": [
+              "Material de oficina, restos de alimentos y envases vacíos.",
+              "Agujas, jeringas y guantes usados.",
+              "Residuos químicos peligrosos y medicamentos caducados.",
+              "Muestras biológicas utilizadas en diagnóstico."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos asimilables a urbanos incluyen material de oficina, restos de alimentos y envases vacíos, manejados de forma similar a los residuos domésticos."
+          },
+          {
+            "enunciado": "¿Qué procedimiento está indicado para residuos químicos peligrosos en el SAS?",
+            "opciones": [
+              "Almacenamiento temporal en contenedores comunes.",
+              "Tratamiento específico según su naturaleza química.",
+              "Eliminación en contenedores de residuos biosanitarios específicos.",
+              "Reutilización en actividades secundarias del hospital."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos químicos peligrosos requieren un tratamiento específico según su composición para evitar daños al medio ambiente y a la salud."
+          },
+          {
+            "enunciado": "¿Cuál es el destino final recomendado para los residuos biosanitarios específicos según el SAS?",
+            "opciones": [
+              "Vertederos comunes.",
+              "Plantas de reciclaje.",
+              "Incineración controlada o tratamiento previo.",
+              "Almacenamiento indefinido en instalaciones hospitalarias."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios específicos deben someterse a incineración controlada o tratamientos previos según la normativa, garantizando su eliminación segura."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué residuos deben ser eliminados en contenedores de color negro según el Plan de Gestión del SAS?",
+            "opciones": [
+              "Residuos asimilables a urbanos.",
+              "Residuos biosanitarios no específicos.",
+              "Residuos químicos peligrosos.",
+              "Residuos biosanitarios específicos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos asimilables a urbanos, como papel, cartón o restos de comida, se eliminan en contenedores negros para su disposición convencional."
+          },
+          {
+            "enunciado": "¿Qué normativa regula la gestión de residuos sanitarios en el Servicio Andaluz de Salud?",
+            "opciones": [
+              "Ley General de Residuos y Saneamiento.",
+              "Decreto sobre Gestión de Residuos Sanitarios de Andalucía.",
+              "Directiva Europea sobre Residuos Peligrosos.",
+              "Reglamento Nacional de Gestión Hospitalaria."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "El Decreto sobre Gestión de Residuos Sanitarios de Andalucía establece las directrices específicas para el manejo de estos residuos en el SAS."
+          },
+          {
+            "enunciado": "¿Qué responsabilidad tiene la gerencia de los centros sanitarios según el Plan de Gestión del SAS?",
+            "opciones": [
+              "Transportar directamente los residuos a las plantas de reciclaje.",
+              "Asegurar la correcta segregación, almacenamiento y disposición de los residuos.",
+              "Revisar semanalmente la cantidad de residuos generados.",
+              "Elaborar un informe anual sobre el reciclaje de residuos no peligrosos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "La gerencia de los centros sanitarios debe garantizar la correcta segregación, almacenamiento y disposición de los residuos según las normativas vigentes."
+          },
+          {
+            "enunciado": "¿Qué residuos se consideran biosanitarios no específicos?",
+            "opciones": [
+              "Material de oficina y restos de comida.",
+              "Guantes, apósitos y gasas con poca contaminación biológica.",
+              "Muestras biológicas para análisis clínicos.",
+              "Agujas y bisturíes utilizados en procedimientos quirúrgicos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios no específicos incluyen materiales como guantes o gasas con contaminación biológica limitada y se manejan con menor rigurosidad que los específicos."
+          },
+          {
+            "enunciado": "¿Qué es obligatorio en la segregación de residuos sanitarios en los centros del SAS?",
+            "opciones": [
+              "Realizar la clasificación en la planta de tratamiento final.",
+              "Segregar los residuos en el lugar de generación.",
+              "Mezclar todos los residuos biosanitarios en un único contenedor.",
+              "Usar únicamente bolsas plásticas transparentes para todos los residuos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "La segregación debe realizarse en el lugar de generación para garantizar un manejo seguro y evitar la mezcla de residuos con distintos niveles de riesgo."
+          },
+          {
+            "enunciado": "¿Qué acción está prohibida según el Plan de Gestión de Residuos del SAS?",
+            "opciones": [
+              "Clasificar los residuos biosanitarios específicos y no específicos.",
+              "Incinerar residuos químicos sin tratamiento previo.",
+              "Utilizar bolsas de color diferente al establecido para cada tipo de residuo.",
+              "Transportar residuos en vehículos no autorizados."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "El transporte de residuos sanitarios en vehículos no autorizados está prohibido para garantizar la seguridad y el cumplimiento de las normativas."
+          },
+          {
+            "enunciado": "¿Qué medida es fundamental para el manejo seguro de residuos cortopunzantes?",
+            "opciones": [
+              "Desecharlos en bolsas de plástico antes de su traslado.",
+              "Usar contenedores rígidos y estancos para su disposición.",
+              "Mezclarlos con residuos biosanitarios no específicos.",
+              "Esterilizarlos en autoclave dentro de las áreas hospitalarias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos cortopunzantes deben depositarse en contenedores rígidos y estancos para evitar accidentes y contaminación durante su manejo."
+          },
+          {
+            "enunciado": "¿Qué responsabilidad tiene el personal encargado del transporte interno de residuos en los hospitales?",
+            "opciones": [
+              "Clasificar los residuos antes de su traslado.",
+              "Asegurar que los residuos estén debidamente empaquetados y etiquetados.",
+              "Mezclar los residuos no peligrosos para optimizar el espacio.",
+              "Realizar el transporte sin contacto directo con los residuos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "El personal encargado del transporte debe asegurarse de que los residuos estén empaquetados y etiquetados según su clasificación para garantizar la seguridad."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuos debe gestionarse como químicos peligrosos?",
+            "opciones": [
+              "Restos de comida de los pacientes.",
+              "Fármacos citotóxicos y sus envases.",
+              "Material reciclable como vidrio y plástico.",
+              "Guantes y gasas contaminados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los fármacos citotóxicos y sus envases se consideran residuos químicos peligrosos y requieren un manejo específico para evitar riesgos ambientales y de salud."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuo puede ser reciclado según el Plan de Gestión de Residuos del SAS?",
+            "opciones": [
+              "Residuos asimilables a urbanos, como papel y cartón.",
+              "Residuos biosanitarios específicos.",
+              "Residuos cortopunzantes tratados.",
+              "Residuos químicos tras su neutralización."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos asimilables a urbanos, como papel y cartón, pueden ser reciclados, promoviendo la sostenibilidad ambiental en los hospitales."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué contenedor es adecuado para desechar medicamentos caducados o sobrantes?",
+            "opciones": [
+              "Contenedor amarillo.",
+              "Contenedor verde.",
+              "Contenedor específico para residuos químicos peligrosos.",
+              "Contenedor negro para residuos urbanos."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los medicamentos caducados o sobrantes deben desecharse en contenedores específicos para residuos químicos peligrosos según el plan del SAS."
+          },
+          {
+            "enunciado": "¿Qué procedimiento debe realizarse antes del transporte externo de residuos biosanitarios específicos?",
+            "opciones": [
+              "Clasificación y segregación en bolsas de diferentes colores.",
+              "Almacenamiento en frío para retrasar la descomposición.",
+              "Descontaminación mediante autoclave u otro método adecuado.",
+              "Revisión por parte del personal administrativo del hospital."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Antes de su transporte externo, los residuos biosanitarios específicos deben ser descontaminados para garantizar la seguridad."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuos pueden manejarse como asimilables a urbanos?",
+            "opciones": [
+              "Material reciclable como plástico, papel y cartón.",
+              "Residuos biosanitarios no específicos.",
+              "Fármacos caducados.",
+              "Muestras biológicas utilizadas en análisis clínicos."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los materiales reciclables como plástico, papel y cartón pueden clasificarse como residuos asimilables a urbanos para su manejo convencional."
+          },
+          {
+            "enunciado": "¿Qué característica debe tener un contenedor para residuos cortopunzantes?",
+            "opciones": [
+              "Debe ser flexible y de gran capacidad.",
+              "Debe ser rígido, estanco y resistente a perforaciones.",
+              "Debe estar hecho de materiales biodegradables.",
+              "Debe permitir la reutilización después de una limpieza adecuada."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos cortopunzantes deben almacenarse en contenedores rígidos, estancos y resistentes a perforaciones para evitar accidentes."
+          },
+          {
+            "enunciado": "¿Qué requisito es obligatorio para las bolsas utilizadas en la gestión de residuos biosanitarios específicos?",
+            "opciones": [
+              "Deben ser transparentes para identificar el contenido.",
+              "Deben ser biodegradables para cumplir con normativas ambientales.",
+              "Deben ser resistentes, herméticas y de color amarillo.",
+              "Deben estar etiquetadas con el nombre del generador del residuo."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Las bolsas para residuos biosanitarios específicos deben ser resistentes, herméticas y de color amarillo, cumpliendo con las normativas del SAS."
+          },
+          {
+            "enunciado": "¿Qué residuos deben ser tratados como químicos peligrosos?",
+            "opciones": [
+              "Restos de alimentos de los pacientes hospitalizados.",
+              "Envases de productos de limpieza altamente tóxicos.",
+              "Material de oficina como cartón o plástico.",
+              "Gasas y apósitos contaminados con fluidos biológicos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los envases de productos de limpieza altamente tóxicos se clasifican como residuos químicos peligrosos y requieren un manejo especial."
+          },
+          {
+            "enunciado": "¿Qué finalidad tiene la segregación de residuos en el lugar de generación?",
+            "opciones": [
+              "Reducir la cantidad de residuos que llegan a los vertederos.",
+              "Evitar la mezcla de residuos con diferentes niveles de riesgo.",
+              "Minimizar los costos asociados al transporte externo.",
+              "Facilitar el reciclaje de todos los residuos generados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "La segregación en el lugar de generación es fundamental para evitar la mezcla de residuos peligrosos con otros tipos, garantizando su manejo adecuado."
+          },
+          {
+            "enunciado": "¿Qué acción está prohibida durante el transporte interno de residuos sanitarios?",
+            "opciones": [
+              "Transportar residuos en vehículos específicamente diseñados.",
+              "Mezclar diferentes tipos de residuos en un mismo contenedor.",
+              "Usar equipos de protección personal durante el transporte.",
+              "Etiquetar los residuos antes de su traslado."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Está prohibido mezclar diferentes tipos de residuos en un mismo contenedor, ya que esto dificulta su manejo y puede aumentar los riesgos asociados."
+          },
+          {
+            "enunciado": "¿Qué medida se aplica para garantizar la seguridad durante el almacenamiento temporal de residuos peligrosos?",
+            "opciones": [
+              "Almacenarlos en áreas accesibles para todos los trabajadores.",
+              "Usar contenedores homologados y mantenerlos en áreas bien ventiladas.",
+              "Etiquetar los contenedores con códigos de color para facilitar su identificación.",
+              "Almacenar los residuos peligrosos junto con los residuos urbanos para su eliminación conjunta."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos peligrosos deben almacenarse en contenedores homologados y áreas bien ventiladas para garantizar la seguridad de los trabajadores y el medio ambiente."
+          },
+          {
+            "enunciado": "¿Qué documentación es necesaria para el transporte externo de residuos sanitarios peligrosos?",
+            "opciones": [
+              "Informe de la gerencia del hospital.",
+              "Etiquetas de clasificación de residuos.",
+              "Contrato con empresas de reciclaje.",
+              "Documentación de seguimiento de residuos (DSR)."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "La Documentación de Seguimiento de Residuos (DSR) es necesaria para el transporte externo de residuos peligrosos, garantizando su trazabilidad."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué característica deben cumplir las áreas de almacenamiento temporal de residuos biosanitarios?",
+            "opciones": [
+              "Estar ubicadas en zonas accesibles al público.",
+              "Estar ventiladas, señalizadas y con acceso restringido.",
+              "Tener capacidad ilimitada para almacenar todos los residuos generados.",
+              "Permitir el acceso conjunto de residuos urbanos y biosanitarios."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Las áreas de almacenamiento temporal deben ser ventiladas, señalizadas y con acceso restringido para garantizar un manejo seguro de los residuos biosanitarios."
+          },
+          {
+            "enunciado": "¿Qué tipo de contenedor se utiliza para almacenar residuos químicos peligrosos?",
+            "opciones": [
+              "Contenedores rígidos y amarillos.",
+              "Contenedores de alta resistencia, herméticos y específicos para químicos.",
+              "Bolsas de plástico resistentes de color negro.",
+              "Contenedores reutilizables aprobados para residuos urbanos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos químicos peligrosos deben almacenarse en contenedores herméticos y específicos para evitar riesgos de derrames o reacciones químicas."
+          },
+          {
+            "enunciado": "¿Cuál es el destino final recomendado para residuos citotóxicos según el SAS?",
+            "opciones": [
+              "Vertederos controlados.",
+              "Plantas de tratamiento especializado para incineración.",
+              "Plantas de reciclaje para reutilización.",
+              "Almacenamiento indefinido en áreas hospitalarias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos citotóxicos deben ser gestionados en plantas de tratamiento especializado, generalmente a través de incineración controlada."
+          },
+          {
+            "enunciado": "¿Qué residuos se gestionan como biosanitarios específicos?",
+            "opciones": [
+              "Material de oficina reciclable.",
+              "Sangre y fluidos corporales, agujas y bisturíes usados.",
+              "Restos de alimentos no contaminados.",
+              "Envases de productos químicos peligrosos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios específicos incluyen sangre, fluidos corporales y material cortopunzante, que requieren un manejo especial."
+          },
+          {
+            "enunciado": "¿Qué acción debe realizarse con los residuos biosanitarios antes de ser trasladados a una planta de tratamiento?",
+            "opciones": [
+              "Ser mezclados con residuos asimilables a urbanos para optimizar el transporte.",
+              "Descontaminarlos mediante procedimientos como autoclave si es necesario.",
+              "Clasificarlos nuevamente en la planta de tratamiento.",
+              "Eliminar todo el material plástico que los acompaña."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios deben descontaminarse mediante procedimientos como autoclave antes de su traslado para minimizar riesgos."
+          },
+          {
+            "enunciado": "¿Qué color de bolsa está destinado a residuos químicos según el Plan de Gestión del SAS?",
+            "opciones": [
+              "Amarillo.",
+              "Rojo.",
+              "Negro.",
+              "No aplica: se usan contenedores específicos."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos químicos no se depositan en bolsas, sino en contenedores específicos y herméticos para su manejo adecuado."
+          },
+          {
+            "enunciado": "¿Qué tipo de residuos deben segregarse inmediatamente en el punto de generación?",
+            "opciones": [
+              "Residuos biosanitarios específicos y químicos peligrosos.",
+              "Residuos reciclables y urbanos.",
+              "Residuos de limpieza general del hospital.",
+              "Restos alimenticios de áreas de descanso del personal."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios específicos y químicos peligrosos deben segregarse de inmediato en el punto de generación para evitar contaminación cruzada."
+          },
+          {
+            "enunciado": "¿Qué factor es obligatorio incluir en la etiqueta de los residuos peligrosos durante su transporte?",
+            "opciones": [
+              "El nombre del generador y su peso aproximado.",
+              "El número de identificación del residuo y su categoría de peligro.",
+              "El destino final y fecha de generación.",
+              "La cantidad total generada en el mes."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Durante el transporte, los residuos peligrosos deben estar etiquetados con su número de identificación y categoría de peligro para garantizar su manejo seguro."
+          },
+          {
+            "enunciado": "¿Qué medida se aplica a los residuos biosanitarios no específicos según el SAS?",
+            "opciones": [
+              "Se eliminan en bolsas rojas junto con cortopunzantes.",
+              "Se transportan a plantas de reciclaje para reutilización.",
+              "Se gestionan como residuos urbanos con tratamiento especial.",
+              "Se eliminan en bolsas amarillas y se tratan de manera diferenciada."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "Los residuos biosanitarios no específicos se eliminan en bolsas amarillas y reciben un tratamiento diferenciado según la normativa."
+          },
+          {
+            "enunciado": "¿Qué objetivo tiene la formación del personal en la gestión de residuos sanitarios?",
+            "opciones": [
+              "Optimizar los costos de transporte y tratamiento.",
+              "Garantizar el cumplimiento de las normativas y prevenir riesgos laborales.",
+              "Aumentar la cantidad de residuos reciclables generados.",
+              "Centralizar la gestión de residuos en un único responsable."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "gestion_residuos_sanitarios"],
+            "feedback": "La formación del personal busca garantizar el cumplimiento de normativas y prevenir riesgos laborales asociados al manejo de residuos sanitarios."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué caracteriza a una enfermedad transmisible?",
+            "opciones": [
+              "Puede transmitirse de una persona infectada a otra o mediante vectores.",
+              "Es causada exclusivamente por bacterias.",
+              "Requiere contacto físico directo para propagarse.",
+              "Es siempre zoonótica en su origen."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "Una enfermedad transmisible es aquella que puede propagarse de una persona a otra, directa o indirectamente, o a través de vectores."
+          },
+          {
+            "enunciado": "¿Qué es un reservorio en el contexto de las enfermedades transmisibles?",
+            "opciones": [
+              "El medio por el cual el agente infeccioso abandona el huésped.",
+              "El organismo o entorno en el que vive y se multiplica el agente causal.",
+              "Un tipo específico de vector biológico.",
+              "El conjunto de síntomas que presenta un huésped infectado."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "El reservorio es el organismo o ambiente donde vive y se multiplica el agente infeccioso, sirviendo como fuente de transmisión."
+          },
+          {
+            "enunciado": "¿Qué tipo de transmisión implica el contacto directo con una persona infectada?",
+            "opciones": [
+              "Transmisión aérea.",
+              "Transmisión por contacto directo.",
+              "Transmisión indirecta.",
+              "Transmisión por vectores."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La transmisión por contacto directo ocurre cuando el agente infeccioso se transfiere directamente entre el reservorio y el huésped, como al tocar o besar."
+          },
+          {
+            "enunciado": "¿Qué enfermedad es un ejemplo de transmisión aérea?",
+            "opciones": [
+              "Malaria.",
+              "Tuberculosis.",
+              "Hepatitis B.",
+              "Rabia."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La tuberculosis se transmite a través del aire mediante partículas pequeñas (aerosoles) que contienen el agente infeccioso."
+          },
+          {
+            "enunciado": "¿Qué término describe la capacidad de un agente infeccioso para propagarse entre individuos?",
+            "opciones": [
+              "Virulencia.",
+              "Patogenicidad.",
+              "Transmisibilidad.",
+              "Infectividad."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La transmisibilidad describe cuán fácilmente un agente infeccioso puede propagarse entre individuos dentro de una población."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es clave para reducir la transmisión de enfermedades gastrointestinales?",
+            "opciones": [
+              "Uso de barreras físicas como guantes y mascarillas.",
+              "Higiene adecuada de manos y control de alimentos y agua.",
+              "Aislamiento respiratorio de los pacientes infectados.",
+              "Vacunación contra enfermedades respiratorias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La higiene de manos y el control de alimentos y agua son esenciales para prevenir la transmisión de enfermedades gastrointestinales como el cólera."
+          },
+          {
+            "enunciado": "¿Qué enfermedad es transmitida por un vector biológico?",
+            "opciones": [
+              "Influenza.",
+              "Malaria.",
+              "Tuberculosis.",
+              "Difteria."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La malaria se transmite por el mosquito Anopheles, que actúa como vector biológico del agente infeccioso Plasmodium."
+          },
+          {
+            "enunciado": "¿Qué tipo de huésped permite la multiplicación del agente infeccioso sin desarrollar la enfermedad?",
+            "opciones": [
+              "Huésped susceptible.",
+              "Huésped resistente.",
+              "Portador asintomático.",
+              "Reservorio inanimado."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "Un portador asintomático alberga el agente infeccioso y puede transmitirlo sin presentar síntomas evidentes de la enfermedad."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es específica para enfermedades transmitidas por vectores como el dengue?",
+            "opciones": [
+              "Aislamiento respiratorio de los casos confirmados.",
+              "Uso de insecticidas y eliminación de criaderos de mosquitos.",
+              "Vacunación masiva de la población general.",
+              "Filtración del aire en hospitales y clínicas."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "El control de vectores mediante insecticidas y la eliminación de criaderos es fundamental para prevenir enfermedades como el dengue."
+          },
+          {
+            "enunciado": "¿Qué factor ambiental puede facilitar la transmisión de enfermedades infecciosas?",
+            "opciones": [
+              "Aumento de la cobertura vacunal en la población.",
+              "Falta de saneamiento básico y agua potable.",
+              "Reducción del contacto entre personas infectadas.",
+              "Uso extendido de mascarillas en espacios cerrados."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La falta de saneamiento básico y agua potable crea condiciones propicias para la transmisión de enfermedades infecciosas como el cólera."
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "enunciado": "¿Qué microorganismo causa enfermedades transmisibles como la tuberculosis?",
+            "opciones": [
+              "Virus.",
+              "Bacteria.",
+              "Hongo.",
+              "Parásito."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La tuberculosis es causada por la bacteria *Mycobacterium tuberculosis*, que se transmite principalmente por vía aérea."
+          },
+          {
+            "enunciado": "¿Qué tipo de transmisión ocurre cuando una enfermedad se propaga a través de agua o alimentos contaminados?",
+            "opciones": [
+              "Transmisión directa.",
+              "Transmisión indirecta.",
+              "Transmisión aérea.",
+              "Transmisión por vectores."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La transmisión indirecta ocurre cuando un agente infeccioso se propaga a través de vehículos como agua o alimentos contaminados."
+          },
+          {
+            "enunciado": "¿Qué característica distingue a las enfermedades zoonóticas?",
+            "opciones": [
+              "Son causadas únicamente por virus.",
+              "Se transmiten de animales a humanos.",
+              "Requieren un vector biológico para propagarse.",
+              "Afectan exclusivamente a humanos."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "Las enfermedades zoonóticas, como la rabia, se transmiten de animales a humanos, siendo una importante vía de propagación."
+          },
+          {
+            "enunciado": "¿Qué vía de transmisión es la principal en enfermedades respiratorias como la influenza?",
+            "opciones": [
+              "Transmisión por gotas.",
+              "Transmisión indirecta por fómites.",
+              "Transmisión por vectores.",
+              "Transmisión digestiva."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La transmisión por gotas es la principal vía en enfermedades respiratorias como la influenza, donde las gotitas de saliva contienen el agente infeccioso."
+          },
+          {
+            "enunciado": "¿Qué medida preventiva es esencial para controlar la transmisión de hepatitis B?",
+            "opciones": [
+              "Aislamiento respiratorio.",
+              "Uso de equipos médicos desechables y vacunación.",
+              "Eliminación de criaderos de insectos.",
+              "Filtración de aire en áreas hospitalarias."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "El uso de equipos médicos desechables y la vacunación son medidas esenciales para prevenir la transmisión de hepatitis B."
+          },
+          {
+            "enunciado": "¿Qué agente infeccioso está asociado con la malaria?",
+            "opciones": [
+              "Virus.",
+              "Bacteria.",
+              "Hongo.",
+              "Parásito."
+            ],
+            "correcta": 3,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La malaria es causada por parásitos del género *Plasmodium*, transmitidos por la picadura de mosquitos del género *Anopheles*."
+          },
+          {
+            "enunciado": "¿Qué término describe la capacidad de un agente infeccioso para causar enfermedad en un huésped?",
+            "opciones": [
+              "Virulencia.",
+              "Infectividad.",
+              "Patogenicidad.",
+              "Transmisibilidad."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "La patogenicidad describe la capacidad de un agente infeccioso para causar enfermedad, independientemente de su gravedad."
+          },
+          {
+            "enunciado": "¿Qué grupo es más vulnerable a las enfermedades transmisibles en una población?",
+            "opciones": [
+              "Adultos jóvenes saludables.",
+              "Niños menores de 5 años y personas inmunocomprometidas.",
+              "Trabajadores en ambientes al aire libre.",
+              "Personas que viajan frecuentemente por negocios."
+            ],
+            "correcta": 1,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "Niños menores de 5 años y personas inmunocomprometidas son más vulnerables a las enfermedades transmisibles debido a sus sistemas inmunitarios más débiles."
+          },
+          {
+            "enunciado": "¿Qué define a un vector biológico en la transmisión de enfermedades?",
+            "opciones": [
+              "Un organismo que alberga un agente infeccioso sin transmitirlo.",
+              "Un ambiente inanimado donde vive el agente causal.",
+              "Un organismo que transmite un agente infeccioso a otro huésped.",
+              "Un tipo de huésped que desarrolla la enfermedad sin síntomas."
+            ],
+            "correcta": 2,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "Un vector biológico, como los mosquitos, transmite agentes infecciosos de un reservorio o huésped a otro, facilitando la propagación de enfermedades."
+          },
+          {
+            "enunciado": "¿Qué enfermedad es un ejemplo de transmisión fecal-oral?",
+            "opciones": [
+              "Cólera.",
+              "Tuberculosis.",
+              "Dengue.",
+              "Influenza."
+            ],
+            "correcta": 0,
+            "categorías": ["tema33", "enfermedades_transmisibles"],
+            "feedback": "El cólera es un ejemplo de enfermedad transmitida por la vía fecal-oral, a menudo a través de agua o alimentos contaminados."
+          }
+        ]
+      }
+                                                                        
+]
