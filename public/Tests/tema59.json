@@ -1,0 +1,2078 @@
+[
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Examen de Salud para personas mayores de 65 años según el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "Detectar problemas de salud y ofrecer tratamientos farmacológicos únicamente",
+            "Fomentar la autonomía y prevenir situaciones de dependencia a través de actividades integrales",
+            "Realizar un análisis estadístico de la salud de los mayores de 65 años en Andalucía",
+            "Proporcionar servicios de atención secundaria exclusivamente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "salud_publica"],
+        "feedback": "El objetivo principal es fomentar la autonomía y prevenir la dependencia mediante actividades de promoción, prevención y atención integral para las personas mayores de 65 años en Andalucía."
+    },
+    {
+        "enunciado": "En el marco del Examen de Salud, ¿qué medida preventiva se realiza de forma sistemática en personas mayores de 65 años autónomas?",
+        "opciones": [
+            "Inmunización antigripal anual",
+            "Valoración geriátrica integral cada seis meses",
+            "Cribado de diabetes en todos los pacientes mayores de 50 años",
+            "Administración de suplementos de calcio y vitamina D"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "prevencion"],
+        "feedback": "La inmunización antigripal anual es una medida preventiva sistemática recomendada para todas las personas mayores de 65 años autónomas."
+    },
+    {
+        "enunciado": "Según el Índice de Barthel, ¿qué puntuación clasifica a una persona mayor de 65 años como autónoma?",
+        "opciones": [
+            "90 a 100 puntos",
+            "70 a 89 puntos",
+            "50 a 69 puntos",
+            "Menos de 50 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "clasificacion"],
+        "feedback": "Una puntuación entre 90 y 100 en el Índice de Barthel indica que la persona mayor es autónoma, manteniendo independencia en las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Cuál es una de las estrategias del 3er Plan Andaluz de Salud para promover el envejecimiento saludable?",
+        "opciones": [
+            "Aumentar la hospitalización de personas mayores con patologías crónicas",
+            "Fomentar actividades intersectoriales de promoción de hábitos saludables",
+            "Reducir los servicios de atención domiciliaria para personas dependientes",
+            "Implementar un enfoque exclusivamente médico en el cuidado de mayores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "salud_comunitaria"],
+        "feedback": "El 3er Plan Andaluz de Salud destaca la importancia de fomentar actividades intersectoriales que promuevan hábitos saludables y la autonomía en edades avanzadas."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza para detectar fragilidad en personas mayores de 65 años?",
+        "opciones": [
+            "Índice de Barthel",
+            "Test de Pfeiffer",
+            "Escala de Zarit",
+            "Cuestionario GPAQ"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "herramientas_diagnosticas"],
+        "feedback": "El Índice de Barthel es una herramienta fundamental para evaluar la fragilidad y clasificar a las personas mayores según su grado de dependencia funcional."
+    },
+    {
+        "enunciado": "¿Qué aspecto no se incluye en la valoración integral de una persona mayor frágil?",
+        "opciones": [
+            "Valoración funcional",
+            "Evaluación cognitiva",
+            "Detección de depresión",
+            "Calificación socioeconómica obligatoria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "valoracion"],
+        "feedback": "La valoración integral incluye aspectos funcionales, cognitivos y emocionales, pero la calificación socioeconómica no es obligatoria en este proceso."
+    },
+    {
+        "enunciado": "¿Cuál es el nivel de sobrecarga según la Escala de Zarit si un cuidador puntúa 60?",
+        "opciones": [
+            "Ausencia de sobrecarga",
+            "Sobrecarga leve",
+            "Sobrecarga intensa",
+            "Sin clasificación específica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "cuidador"],
+        "feedback": "Una puntuación de 60 en la Escala de Zarit indica sobrecarga intensa, lo que puede impactar negativamente en la salud del cuidador."
+    },
+    {
+        "enunciado": "¿Qué población es diana del Índice de Esfuerzo del Cuidador?",
+        "opciones": [
+            "Cuidadores de personas con enfermedades terminales",
+            "Cuidadores de personas dependientes en general",
+            "Cuidadores informales de niños pequeños",
+            "Cuidadores profesionales en residencias"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador está dirigido a cuidadores de personas dependientes, evaluando el impacto de la carga del cuidado en su bienestar."
+    },
+    {
+        "enunciado": "¿Qué parámetro mide el Cuestionario GPAQ para evaluar actividad física?",
+        "opciones": [
+            "Consumo calórico diario",
+            "Metros caminados al día",
+            "Equivalente Metabólico (MET)",
+            "Frecuencia cardíaca en reposo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "actividad_fisica"],
+        "feedback": "El Cuestionario GPAQ utiliza el Equivalente Metabólico (MET) para analizar la actividad física en diferentes contextos como trabajo, desplazamientos y tiempo libre."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Test de Yesavage sugiere depresión en personas mayores?",
+        "opciones": [
+            "10 o más puntos",
+            "5 o más puntos",
+            "Entre 1 y 4 puntos",
+            "Cualquier puntuación por encima de 0"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "salud_mental"],
+        "feedback": "En el Test de Yesavage, una puntuación de 10 o más puntos puede indicar la presencia de depresión en personas mayores."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué puntuación indica alta dependencia a la nicotina?",
+        "opciones": [
+            "Menos de 4",
+            "Entre 5 y 6",
+            "7 o más",
+            "Exactamente 10"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "dependencia"],
+        "feedback": "Una puntuación de 7 o más en el Test de Fagerström indica alta dependencia a la nicotina, requiriendo intervenciones específicas."
+    },
+    {
+        "enunciado": "¿Qué indicador del GIPS-3 sugiere un manejo ineficaz del régimen terapéutico?",
+        "opciones": [
+            "11 o más puntos",
+            "Exactamente 10 puntos",
+            "10 o menos puntos",
+            "Cualquier valor superior a 5 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "autocuidado"],
+        "feedback": "En el GIPS-3, una puntuación de 10 o menos sugiere un manejo ineficaz del régimen terapéutico, necesitando apoyo adicional."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de personas mayores de 65 años en Andalucía se estima tiene algún grado de incapacidad?",
+        "opciones": [
+            "15%",
+            "21%",
+            "30%",
+            "50%"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "epidemiologia"],
+        "feedback": "El 30% de las personas mayores de 65 años en Andalucía presentan algún grado de incapacidad, según datos poblacionales."
+    },
+    {
+        "enunciado": "¿Qué criterio de inclusión utiliza el Programa de Atención Domiciliaria para mayores dependientes?",
+        "opciones": [
+            "Puntuación mínima en el Índice de Barthel",
+            "Edad superior a 70 años",
+            "Residencia en zonas rurales",
+            "Acceso limitado a transporte público"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "atencion_domiciliaria"],
+        "feedback": "El Programa de Atención Domiciliaria prioriza a mayores dependientes con puntuaciones bajas en el Índice de Barthel."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa el Test de Richmond?",
+        "opciones": [
+            "Motivación para dejar de fumar",
+            "Riesgo de caídas en personas mayores",
+            "Capacidad funcional en actividades básicas",
+            "Sobrecarga en cuidadores"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "adicciones"],
+        "feedback": "El Test de Richmond evalúa la motivación de una persona para dejar de fumar, utilizando una escala de puntos."
+    },
+    {
+        "enunciado": "Según el Test de Richmond, ¿qué puntuación indica alta motivación para dejar de fumar?",
+        "opciones": [
+            "Menos de 4 puntos",
+            "Entre 5 y 6 puntos",
+            "7 o más puntos",
+            "Cualquier puntuación superior a 0"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "En el Test de Richmond, una puntuación de 7 o más puntos refleja una alta motivación para dejar de fumar."
+    },
+    {
+        "enunciado": "En la Escala de Zarit, ¿qué rango de puntuación clasifica a un cuidador con sobrecarga leve?",
+        "opciones": [
+            "Menos de 46 puntos",
+            "Entre 46 y 55 puntos",
+            "Más de 56 puntos",
+            "Cualquier puntuación por encima de 22 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "En la Escala de Zarit, un cuidador obtiene la clasificación de sobrecarga leve si su puntuación está entre 46 y 55 puntos."
+    },
+    {
+        "enunciado": "¿Qué puntaje en la Escala Goldberg sugiere un posible trastorno en población geriátrica?",
+        "opciones": [
+            "Más de 4 puntos",
+            "Más de 6 puntos",
+            "Exactamente 5 puntos",
+            "Cualquier puntuación por encima de 2"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En población geriátrica, una puntuación superior a 6 puntos en la Escala Goldberg puede indicar un posible trastorno de ansiedad o depresión."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿cuál es el objetivo principal?",
+        "opciones": [
+            "Detectar ansiedad en personas mayores",
+            "Evaluar la capacidad funcional",
+            "Identificar la presencia de depresión",
+            "Medir la motivación para el autocuidado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage está diseñado específicamente para detectar la presencia de depresión en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué instrumento evalúa el manejo del régimen terapéutico en pacientes crónicos según indicadores NOC?",
+        "opciones": [
+            "Índice de Barthel",
+            "GIPS-3",
+            "Test de Pfeiffer",
+            "Escala de Zarit"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 es una herramienta basada en indicadores NOC para evaluar el manejo efectivo o ineficaz del régimen terapéutico en pacientes crónicos."
+    },
+    {
+        "enunciado": "¿Cuál es el punto de corte para clasificar dependencia media en el Test de Fagerström?",
+        "opciones": [
+            "Menos de 4 puntos",
+            "Entre 5 y 6 puntos",
+            "7 o más puntos",
+            "Exactamente 4 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "En el Test de Fagerström, una puntuación de entre 5 y 6 indica dependencia media a la nicotina."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué puntuación sugiere un nivel elevado de esfuerzo?",
+        "opciones": [
+            "4 o más puntos",
+            "5 o más puntos",
+            "7 o más puntos",
+            "10 puntos exactos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "Una puntuación de 7 o más en el Índice de Esfuerzo del Cuidador sugiere un nivel elevado de esfuerzo, requiriendo apoyo adicional."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué significa la unidad MET?",
+        "opciones": [
+            "Medida de frecuencia cardíaca en reposo",
+            "Equivalente metabólico utilizado para analizar actividad física",
+            "Consumo calórico por kilogramo de peso",
+            "Tiempo dedicado a actividades físicas intensas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "El MET es una medida utilizada en el Cuestionario GPAQ para analizar la actividad física, basada en el metabolismo en reposo."
+    },
+    {
+        "enunciado": "¿Qué indicador en la valoración integral predice riesgo de caídas en personas mayores?",
+        "opciones": [
+            "Puntuación en el Test de Barthel inferior a 60",
+            "Prueba de velocidad de marcha menor a 0,8 m/s",
+            "Índice de masa corporal superior a 30",
+            "Edad superior a 75 años"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "riesgo_caidas"],
+        "feedback": "Una velocidad de marcha menor a 0,8 m/s es un indicador clave en la valoración integral que predice riesgo de caídas."
+    },
+    {
+        "enunciado": "En la valoración funcional, ¿qué clasifica a una persona mayor como frágil?",
+        "opciones": [
+            "Barthel entre 90 y 100",
+            "Barthel entre 60 y 89",
+            "Barthel inferior a 60",
+            "Cualquier puntuación superior a 100"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "clasificacion"],
+        "feedback": "Una puntuación en el Índice de Barthel entre 60 y 89 clasifica a una persona mayor como frágil, indicando riesgo de dependencia."
+    },
+    {
+        "enunciado": "¿Cuál es el principal propósito de la Estrategia de Promoción de Hábitos Saludables del 3er Plan Andaluz de Salud?",
+        "opciones": [
+            "Implementar programas de atención hospitalaria especializada",
+            "Fomentar la autonomía y calidad de vida mediante hábitos saludables",
+            "Reducir la población mayor de 65 años dependiente",
+            "Priorizar la atención médica en áreas rurales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "salud_comunitaria"],
+        "feedback": "La estrategia busca fomentar la autonomía y calidad de vida a través de hábitos saludables y acciones intersectoriales."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el Índice de Barthel indica dependencia severa?",
+        "opciones": [
+            "90 a 100 puntos",
+            "60 a 89 puntos",
+            "Menos de 60 puntos",
+            "Exactamente 50 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "Una puntuación inferior a 60 en el Índice de Barthel indica dependencia severa en la realización de actividades básicas."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿cuál de las siguientes actividades se considera de intensidad moderada?",
+        "opciones": [
+            "Levantar pesas pesadas",
+            "Caminar deprisa",
+            "Correr durante 10 minutos",
+            "Subir escaleras a gran velocidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "Caminar deprisa se clasifica como una actividad física de intensidad moderada en el Cuestionario GPAQ."
+    },
+    {
+        "enunciado": "En la Escala Goldberg, ¿qué umbral se considera positivo para ansiedad en personas mayores?",
+        "opciones": [
+            "Más de 4 puntos",
+            "Exactamente 6 puntos",
+            "Menos de 3 puntos",
+            "Entre 3 y 5 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En la Escala Goldberg, una puntuación superior a 4 indica posible ansiedad en población mayor."
+    },
+    {
+        "enunciado": "¿Qué medida es parte de la valoración preventiva en personas mayores autónomas?",
+        "opciones": [
+            "Valoración de agudeza visual",
+            "Realización de la prueba de Pfeiffer",
+            "Revisión semanal de medicamentos",
+            "Pruebas de velocidad de marcha"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "prevencion"],
+        "feedback": "La valoración de agudeza visual es una medida preventiva habitual en personas mayores autónomas."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué pregunta evalúa la dificultad para abstenerse de fumar en lugares prohibidos?",
+        "opciones": [
+            "¿Cuánto tiempo pasa antes de fumar el primer cigarrillo?",
+            "¿Encuentra difícil abstenerse de fumar en lugares prohibidos?",
+            "¿Fuma más durante la mañana que el resto del día?",
+            "¿Cuántos cigarrillos fuma al día?"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "La pregunta sobre abstenerse en lugares prohibidos evalúa la dependencia psicológica en el Test de Fagerström."
+    },
+    {
+        "enunciado": "En el Examen de Salud, ¿qué intervención se recomienda para prevenir el riesgo de caídas?",
+        "opciones": [
+            "Administrar suplementos vitamínicos a todos los pacientes",
+            "Realizar ejercicios de equilibrio y fuerza",
+            "Limitar la actividad física en personas mayores",
+            "Recetar sedantes para mejorar el descanso"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "prevencion", "caidas"],
+        "feedback": "Los ejercicios de equilibrio y fuerza son fundamentales para prevenir el riesgo de caídas en personas mayores."
+    },
+    {
+        "enunciado": "En la Escala de Zarit abreviada, ¿qué puntuación indica sobrecarga intensa?",
+        "opciones": [
+            "7 puntos o menos",
+            "16 puntos o menos",
+            "17 puntos o más",
+            "Entre 10 y 15 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "En la Escala de Zarit abreviada, una puntuación de 17 o más indica sobrecarga intensa del cuidador."
+    },
+    {
+        "enunciado": "¿Qué técnica se utiliza para evaluar la fragilidad mediante velocidad de marcha?",
+        "opciones": [
+            "Caminar 4 metros a ritmo normal",
+            "Realizar una caminata rápida durante 1 minuto",
+            "Subir escaleras durante 30 segundos",
+            "Levantar pesas ligeras mientras camina"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "evaluacion", "fragilidad"],
+        "feedback": "La prueba de caminar 4 metros a ritmo normal mide la velocidad de marcha, un indicador clave de fragilidad."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué resultado se considera normal en personas mayores?",
+        "opciones": [
+            "Menos de 5 puntos",
+            "Entre 5 y 9 puntos",
+            "10 puntos o más",
+            "Exactamente 0 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "Una puntuación inferior a 5 en el Test de Yesavage se considera normal, descartando síntomas significativos de depresión."
+    },
+    {
+        "enunciado": "¿Qué característica distingue a una persona clasificada como dependiente según el Examen de Salud para mayores de 65 años?",
+        "opciones": [
+            "Puntuación de Barthel entre 90 y 100",
+            "Incapacidad para realizar actividades básicas sin ayuda",
+            "Presencia de una enfermedad crónica pero sin pérdida funcional",
+            "Riesgo moderado de caídas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "clasificacion", "dependencia"],
+        "feedback": "Las personas dependientes necesitan ayuda para realizar actividades básicas, reflejando una pérdida significativa de autonomía."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿cuál de los siguientes factores no se evalúa?",
+        "opciones": [
+            "Esfuerzo físico requerido para cuidar",
+            "Trastornos de sueño relacionados con el cuidado",
+            "Impacto económico del cuidado",
+            "Frecuencia de visitas médicas de la persona dependiente"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador no mide la frecuencia de visitas médicas de la persona cuidada, sino aspectos como esfuerzo físico y emocional."
+    },
+    {
+        "enunciado": "¿Qué actividad se recomienda específicamente para personas mayores frágiles según el Examen de Salud?",
+        "opciones": [
+            "Ejercicio físico multicomponente",
+            "Reposo prolongado para evitar lesiones",
+            "Evitar cualquier tipo de actividad física intensa",
+            "Administración de suplementos únicamente"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "prevencion", "fragilidad"],
+        "feedback": "El ejercicio físico multicomponente ayuda a mejorar la fuerza, el equilibrio y la resistencia en personas mayores frágiles."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿cuántos errores indican deterioro cognitivo moderado?",
+        "opciones": [
+            "1-2 errores",
+            "3-4 errores",
+            "5-7 errores",
+            "8-10 errores"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "Entre 5 y 7 errores en el Test de Pfeiffer sugieren deterioro cognitivo moderado, requiriendo una valoración adicional."
+    },
+    {
+        "enunciado": "¿Qué medida de prevención secundaria se incluye en el Examen de Salud para mayores autónomos?",
+        "opciones": [
+            "Realización de pruebas de densidad ósea",
+            "Cribado de cáncer colorrectal",
+            "Evaluación de equilibrio cada mes",
+            "Suplementación obligatoria de vitamina D"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "prevencion", "cribado"],
+        "feedback": "El cribado de cáncer colorrectal es una medida preventiva secundaria dirigida a personas mayores autónomas dentro del Examen de Salud."
+    },
+    {
+        "enunciado": "¿Qué indicador del GIPS-3 evalúa directamente la gestión ineficaz del régimen terapéutico?",
+        "opciones": [
+            "Falta de adherencia a tratamientos médicos",
+            "Velocidad de marcha alterada",
+            "Índice de masa corporal bajo",
+            "Riesgo alto de caídas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 identifica una gestión ineficaz del régimen terapéutico al evaluar la adherencia a los tratamientos médicos indicados."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿cuántos cigarrillos al día indican dependencia alta?",
+        "opciones": [
+            "10 o menos",
+            "11-20 cigarrillos",
+            "21-30 cigarrillos",
+            "31 o más cigarrillos"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "Fumar 31 o más cigarrillos al día indica una dependencia alta a la nicotina según el Test de Fagerström."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué marco evalúa la actividad física al desplazarse?",
+        "opciones": [
+            "Trabajo remunerado o doméstico",
+            "Transporte activo como caminar o bicicleta",
+            "Actividades de ocio intensas",
+            "Ejercicios terapéuticos controlados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "El Cuestionario GPAQ evalúa la actividad física durante el desplazamiento, incluyendo transporte activo como caminar o bicicleta."
+    },
+    {
+        "enunciado": "Según el Examen de Salud, ¿qué medida debe aplicarse prioritariamente a personas mayores dependientes?",
+        "opciones": [
+            "Evaluación geriátrica integral",
+            "Promoción de la actividad física intensa",
+            "Cribado de cáncer de mama cada 6 meses",
+            "Detección sistemática de fragilidad"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "dependencia"],
+        "feedback": "La evaluación geriátrica integral es clave para establecer un plan de intervención individualizado en personas mayores dependientes."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Test de Yesavage indica riesgo de depresión clínica significativa?",
+        "opciones": [
+            "Menos de 5 puntos",
+            "5-9 puntos",
+            "10 o más puntos",
+            "Exactamente 7 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "Una puntuación de 10 o más en el Test de Yesavage puede indicar depresión clínica significativa, recomendando intervención médica."
+    },
+    {
+        "enunciado": "¿Qué significan las siglas GPAQ utilizadas en el Cuestionario Mundial sobre Actividad Física?",
+        "opciones": [
+            "Global Physical Activity Questionnaire",
+            "General Physical Assessment Questionnaire",
+            "Guided Physical Activity Query",
+            "Generic Physical Activity Questionnaire"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "GPAQ corresponde a Global Physical Activity Questionnaire, un instrumento de la OMS para medir actividad física y sedentarismo."
+    },
+    {
+        "enunciado": "¿Qué significan las siglas MET en el contexto del Cuestionario GPAQ?",
+        "opciones": [
+            "Metabolismo Energético Total",
+            "Medición Estándar de Tiempo",
+            "Equivalente Metabólico",
+            "Métrica de Ejercicio Terapéutico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "actividad_fisica", "gpaq"],
+        "feedback": "MET significa Equivalente Metabólico y mide el gasto energético en actividades físicas en comparación con el metabolismo en reposo."
+    },
+    {
+        "enunciado": "¿Qué significan las siglas IEC en relación con el esfuerzo del cuidador?",
+        "opciones": [
+            "Índice de Evaluación del Cuidador",
+            "Instrumento de Esfuerzo del Cuidador",
+            "Índice de Esfuerzo del Cuidador",
+            "Indicador de Estrés del Cuidador"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "IEC corresponde al Índice de Esfuerzo del Cuidador, utilizado para evaluar la carga de trabajo y estrés en cuidadores de personas dependientes."
+    },
+    {
+        "enunciado": "¿Qué significa una puntuación de 3 en el Test de Fagerström sobre el primer cigarrillo tras despertarse?",
+        "opciones": [
+            "Alta dificultad para abstenerse",
+            "Dependencia baja a la nicotina",
+            "Fumar en los primeros 5 minutos",
+            "Ninguna dependencia física"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "Una puntuación de 3 significa que la persona fuma en los primeros 5 minutos tras despertarse, indicando dependencia elevada."
+    },
+    {
+        "enunciado": "¿Qué significa un resultado de 17 en la Escala de Zarit abreviada?",
+        "opciones": [
+            "Sobrecarga leve",
+            "Sobrecarga intensa",
+            "Ausencia de sobrecarga",
+            "Estrés emocional moderado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "Un resultado de 17 en la Escala de Zarit abreviada indica sobrecarga intensa, reflejando una alta demanda emocional y física en el cuidador."
+    },
+    {
+        "enunciado": "¿Qué característica principal evalúa el Test de Richmond?",
+        "opciones": [
+            "La dependencia física al tabaco",
+            "El nivel de motivación para dejar de fumar",
+            "El impacto emocional del consumo de tabaco",
+            "El riesgo de recaída en exfumadores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond mide la motivación de una persona para dejar de fumar, siendo útil en programas de cesación del hábito."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué aspecto no se evalúa?",
+        "opciones": [
+            "Pérdida de interés por actividades",
+            "Problemas de memoria",
+            "Alteraciones del sueño",
+            "Nivel de actividad física"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage no evalúa el nivel de actividad física, sino síntomas asociados a la depresión como desinterés, problemas de sueño y memoria."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de menos de 6 en la Escala Goldberg en población geriátrica?",
+        "opciones": [
+            "Riesgo de ansiedad severa",
+            "Ausencia de trastorno significativo",
+            "Probable depresión clínica",
+            "Necesidad de intervención urgente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En población geriátrica, una puntuación inferior a 6 en la Escala Goldberg generalmente indica ausencia de trastorno significativo."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué puntaje confirma un manejo ineficaz del régimen terapéutico?",
+        "opciones": [
+            "11 o más puntos",
+            "Exactamente 10 puntos",
+            "10 o menos puntos",
+            "Entre 7 y 9 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "En el GIPS-3, un puntaje de 10 o menos indica un manejo ineficaz del régimen terapéutico, requiriendo intervenciones adicionales."
+    },
+    {
+        "enunciado": "En el Examen de Salud, ¿qué herramienta se utiliza para valorar el riesgo de caídas?",
+        "opciones": [
+            "Prueba de velocidad de marcha",
+            "Cuestionario de Pfeiffer",
+            "Índice de Esfuerzo del Cuidador",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "riesgo_caidas"],
+        "feedback": "La prueba de velocidad de marcha es clave para valorar el riesgo de caídas en el Examen de Salud para mayores de 65 años."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué puntuación indica depresión leve?",
+        "opciones": [
+            "1 a 4 puntos",
+            "5 a 9 puntos",
+            "10 a 15 puntos",
+            "16 o más puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "Una puntuación entre 5 y 9 en el Test de Yesavage sugiere depresión leve, indicando necesidad de seguimiento."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué puntuación clasifica a una persona con baja dependencia a la nicotina?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 a 8 puntos",
+            "9 o más puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "Una puntuación entre 0 y 3 puntos en el Test de Fagerström indica una baja dependencia a la nicotina."
+    },
+    {
+        "enunciado": "En la Escala de Zarit completa, ¿qué puntuación se asocia con ausencia de sobrecarga?",
+        "opciones": [
+            "Menos de 46 puntos",
+            "Entre 46 y 55 puntos",
+            "56 puntos o más",
+            "Exactamente 50 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "Una puntuación menor a 46 en la Escala de Zarit completa indica ausencia de sobrecarga en el cuidador."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué puntuación máxima indica bajo esfuerzo?",
+        "opciones": [
+            "Menos de 3 puntos",
+            "4 a 6 puntos",
+            "Menos de 7 puntos",
+            "8 o más puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "En el Índice de Esfuerzo del Cuidador, una puntuación inferior a 7 puntos sugiere un bajo nivel de esfuerzo."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué rango de puntuación confirma un manejo efectivo del régimen terapéutico?",
+        "opciones": [
+            "3 a 7 puntos",
+            "8 a 10 puntos",
+            "11 o más puntos",
+            "Exactamente 15 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "En el GIPS-3, una puntuación de 11 o más confirma un manejo efectivo del régimen terapéutico."
+    },
+    {
+        "enunciado": "En la Escala Goldberg, ¿cuántos puntos en la subescala de ansiedad indican un posible trastorno en población general?",
+        "opciones": [
+            "1 o más puntos",
+            "3 o más puntos",
+            "4 o más puntos",
+            "6 o más puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En la subescala de ansiedad de Goldberg, 4 o más puntos indican un posible trastorno de ansiedad en población general."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué puntuación refleja una baja motivación para dejar de fumar?",
+        "opciones": [
+            "0 a 4 puntos",
+            "5 a 6 puntos",
+            "7 o más puntos",
+            "Exactamente 3 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "Una puntuación entre 0 y 4 en el Test de Richmond refleja una baja motivación para dejar de fumar."
+    },
+    {
+        "enunciado": "En la Escala de Zarit abreviada, ¿qué puntuación máxima indica ausencia de sobrecarga?",
+        "opciones": [
+            "Menos de 12 puntos",
+            "16 o menos puntos",
+            "Entre 17 y 20 puntos",
+            "Más de 20 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "Una puntuación de 16 o menos en la Escala de Zarit abreviada indica ausencia de sobrecarga en el cuidador."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿qué número de errores se asocia con deterioro cognitivo severo?",
+        "opciones": [
+            "1 a 2 errores",
+            "3 a 4 errores",
+            "5 a 7 errores",
+            "8 o más errores"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "En el Test de Pfeiffer, 8 o más errores se asocian con un deterioro cognitivo severo."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué rango de puntuación indica independencia completa?",
+        "opciones": [
+            "Menos de 50 puntos",
+            "50 a 80 puntos",
+            "90 a 100 puntos",
+            "100 a 110 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "Una puntuación de 90 a 100 en el Índice de Barthel indica independencia completa para las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué rango de puntuación sugiere depresión moderada?",
+        "opciones": [
+            "1 a 4 puntos",
+            "5 a 9 puntos",
+            "10 a 15 puntos",
+            "16 o más puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage evalúa la presencia de depresión en personas mayores. Una puntuación entre 10 y 15 puntos sugiere depresión moderada, mientras que menos de 5 puntos indican ausencia de síntomas significativos."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué rango de puntuación indica dependencia moderada a la nicotina?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 a 8 puntos",
+            "9 o más puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "El Test de Fagerström clasifica la dependencia a la nicotina en tres niveles: baja (0-3 puntos), moderada (4-6 puntos) y alta (7 o más puntos). Una dependencia moderada puede requerir intervenciones conductuales y médicas para cesar el hábito."
+    },
+    {
+        "enunciado": "En la Escala de Zarit completa, ¿qué puntuación se asocia con sobrecarga intensa?",
+        "opciones": [
+            "Menos de 46 puntos",
+            "46 a 55 puntos",
+            "56 o más puntos",
+            "Exactamente 50 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "La Escala de Zarit mide el nivel de sobrecarga en cuidadores, clasificándola en ausencia (<46 puntos), leve (46-55 puntos) e intensa (56 o más puntos). Una sobrecarga intensa está asociada con mayor riesgo de problemas emocionales y físicos en el cuidador."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué puntuación mínima indica un nivel elevado de esfuerzo?",
+        "opciones": [
+            "5 puntos",
+            "6 puntos",
+            "7 puntos",
+            "10 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador evalúa el impacto físico, emocional y social del cuidado. Una puntuación de 7 o más indica un nivel elevado de esfuerzo, lo que puede requerir apoyo adicional para el cuidador."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué rango de puntuación indica un manejo ineficaz del régimen terapéutico?",
+        "opciones": [
+            "3 a 7 puntos",
+            "8 a 10 puntos",
+            "10 o menos puntos",
+            "11 o más puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 mide la eficacia en la gestión del régimen terapéutico. Una puntuación de 10 o menos sugiere un manejo ineficaz, mientras que 11 o más puntos reflejan una buena gestión. El instrumento ayuda a identificar áreas de intervención para mejorar el autocuidado."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿cuántos errores indican deterioro cognitivo leve?",
+        "opciones": [
+            "1 a 2 errores",
+            "3 a 4 errores",
+            "5 a 7 errores",
+            "8 o más errores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "El Test de Pfeiffer evalúa el deterioro cognitivo mediante preguntas sobre memoria y orientación. De 1 a 2 errores no se consideran significativos, 3-4 sugieren deterioro leve, y 5-7 errores indican deterioro moderado. Con 8 o más errores se sospecha deterioro severo."
+    },
+    {
+        "enunciado": "En la Escala Goldberg, ¿qué puntuación mínima en la subescala de depresión indica un posible trastorno?",
+        "opciones": [
+            "1 punto",
+            "2 puntos",
+            "3 puntos",
+            "4 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En la subescala de depresión de Goldberg, 2 puntos o más sugieren un posible trastorno. Este instrumento incluye preguntas iniciales de despistaje y otras adicionales según las respuestas positivas, permitiendo identificar casos que requieren evaluación detallada."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué puntuación indica motivación media para dejar de fumar?",
+        "opciones": [
+            "0 a 4 puntos",
+            "5 a 6 puntos",
+            "7 puntos o más",
+            "Exactamente 3 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond mide la motivación para dejar de fumar. Puntuaciones de 0-4 reflejan baja motivación, 5-6 motivación media, y 7 o más alta motivación, siendo esta última la ideal para iniciar un programa de cesación."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué puntuación indica dependencia moderada?",
+        "opciones": [
+            "20 a 50 puntos",
+            "50 a 75 puntos",
+            "75 a 90 puntos",
+            "90 a 100 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "El Índice de Barthel clasifica la independencia funcional: 90-100 es independiente, 75-89 leve dependencia, 50-74 moderada, y menos de 50 severa. Dependencia moderada significa que la persona necesita ayuda significativa en varias actividades básicas."
+    },
+    {
+        "enunciado": "En la Escala de Zarit abreviada, ¿qué puntuación indica ausencia de sobrecarga?",
+        "opciones": [
+            "Menos de 16 puntos",
+            "17 puntos o más",
+            "Exactamente 12 puntos",
+            "Más de 20 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "En la Escala de Zarit abreviada, una puntuación de 16 o menos indica ausencia de sobrecarga, mientras que 17 o más reflejan una carga significativa que podría afectar la salud del cuidador."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué rango de puntuación indica depresión severa?",
+        "opciones": [
+            "1 a 5 puntos",
+            "6 a 10 puntos",
+            "11 a 15 puntos",
+            "16 o más puntos"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage evalúa la depresión en mayores. Una puntuación de 16 o más indica depresión severa, mientras que menos de 5 puntos descarta síntomas significativos. Los niveles intermedios corresponden a depresiones leves o moderadas."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué puntuación indica una alta dependencia a la nicotina?",
+        "opciones": [
+            "5 puntos o menos",
+            "6 puntos exactos",
+            "7 o más puntos",
+            "3 puntos o menos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "El Test de Fagerström clasifica la dependencia a la nicotina como baja (0-3 puntos), moderada (4-6 puntos) o alta (7 o más puntos). La alta dependencia puede requerir apoyo intensivo para cesar el hábito."
+    },
+    {
+        "enunciado": "En la Escala Goldberg, ¿qué puntuación mínima en la subescala de ansiedad indica un posible trastorno?",
+        "opciones": [
+            "1 punto",
+            "2 puntos",
+            "3 puntos",
+            "4 puntos o más"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En la subescala de ansiedad de Goldberg, 4 puntos o más sugieren un posible trastorno. Esta escala combina preguntas iniciales de despistaje con adicionales si se detectan síntomas."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué puntuación indica un manejo efectivo del régimen terapéutico?",
+        "opciones": [
+            "10 puntos o menos",
+            "Exactamente 11 puntos",
+            "11 puntos o más",
+            "Entre 7 y 10 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 mide la gestión del régimen terapéutico. Puntuaciones de 11 o más reflejan un manejo efectivo, mientras que 10 o menos sugieren ineficacia y necesidad de intervención."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué rango de puntuación indica dependencia severa?",
+        "opciones": [
+            "50 a 75 puntos",
+            "Menos de 50 puntos",
+            "75 a 90 puntos",
+            "90 a 100 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "El Índice de Barthel clasifica la funcionalidad de los mayores. Dependencia severa (<50 puntos) refleja una necesidad significativa de asistencia, mientras que puntuaciones más altas indican mayor independencia."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué puntuación sugiere un esfuerzo moderado?",
+        "opciones": [
+            "Menos de 5 puntos",
+            "7 a 10 puntos",
+            "5 a 6 puntos",
+            "Exactamente 7 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador evalúa el impacto del cuidado. Puntuaciones entre 5 y 6 sugieren un esfuerzo moderado, mientras que 7 o más indican un nivel elevado que puede afectar la salud del cuidador."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿cuántos errores son indicativos de deterioro cognitivo moderado?",
+        "opciones": [
+            "1 a 2 errores",
+            "3 a 4 errores",
+            "5 a 7 errores",
+            "8 o más errores"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "El Test de Pfeiffer clasifica el deterioro cognitivo según los errores: 1-2 (normal), 3-4 (deterioro leve), 5-7 (moderado) y 8 o más (severo). La detección temprana permite planificar intervenciones adecuadas."
+    },
+    {
+        "enunciado": "En la Escala de Zarit abreviada, ¿qué puntuación indica sobrecarga intensa?",
+        "opciones": [
+            "16 puntos o menos",
+            "17 puntos o más",
+            "Exactamente 15 puntos",
+            "Entre 12 y 16 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "En la Escala de Zarit abreviada, 17 puntos o más reflejan sobrecarga intensa, indicando un riesgo elevado de agotamiento emocional y físico para el cuidador."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué puntuación indica alta motivación para dejar de fumar?",
+        "opciones": [
+            "0 a 4 puntos",
+            "5 a 6 puntos",
+            "7 puntos o más",
+            "Exactamente 3 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond mide la motivación para dejar de fumar. Una puntuación de 7 o más indica alta motivación, un factor clave para el éxito en programas de cesación."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué METs semanales recomiendan las guías de actividad física para adultos mayores?",
+        "opciones": [
+            "Al menos 300 METs",
+            "Al menos 600 METs",
+            "Entre 400 y 500 METs",
+            "Menos de 300 METs"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "Las guías de actividad física recomiendan acumular al menos 600 METs por semana, equivalentes a 150 minutos de actividad moderada, para mantener la salud en adultos mayores."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué rango de puntuación refleja ausencia de depresión?",
+        "opciones": [
+            "Menos de 5 puntos",
+            "5 a 9 puntos",
+            "10 a 15 puntos",
+            "16 o más puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage evalúa la depresión en mayores. Una puntuación menor a 5 puntos indica ausencia de síntomas depresivos significativos, mientras que puntuaciones más altas sugieren distintos grados de depresión."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué rango de puntuación corresponde a dependencia baja a la nicotina?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 o más puntos",
+            "Exactamente 2 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "El Test de Fagerström clasifica la dependencia como baja (0-3 puntos), moderada (4-6 puntos) o alta (7 o más puntos). La baja dependencia indica que el fumador podría cesar el hábito con menor esfuerzo."
+    },
+    {
+        "enunciado": "En la Escala de Zarit completa, ¿qué puntuación mínima indica sobrecarga leve?",
+        "opciones": [
+            "46 puntos",
+            "56 puntos",
+            "60 puntos",
+            "70 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "La Escala de Zarit mide la sobrecarga en cuidadores. Puntuaciones entre 46 y 55 puntos reflejan sobrecarga leve, mientras que valores de 56 o más indican sobrecarga intensa."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué puntuación indica independencia completa en actividades básicas de la vida diaria?",
+        "opciones": [
+            "50 a 75 puntos",
+            "75 a 90 puntos",
+            "90 a 100 puntos",
+            "Menos de 50 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "El Índice de Barthel clasifica la funcionalidad en actividades básicas. Una puntuación de 90 a 100 indica independencia completa, mientras que valores inferiores reflejan distintos niveles de dependencia."
+    },
+    {
+        "enunciado": "En el Test de Goldberg, ¿qué puntuación mínima en la escala combinada sugiere un trastorno en población geriátrica?",
+        "opciones": [
+            "4 puntos",
+            "6 puntos",
+            "8 puntos",
+            "10 puntos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "goldberg"],
+        "feedback": "En población geriátrica, una puntuación combinada de más de 6 puntos en la Escala de Goldberg (ansiedad y depresión) puede sugerir un trastorno significativo, recomendando evaluación adicional."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué puntuación refleja una motivación insuficiente para dejar de fumar?",
+        "opciones": [
+            "0 a 4 puntos",
+            "5 a 6 puntos",
+            "7 puntos o más",
+            "Exactamente 3 puntos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond clasifica la motivación para dejar de fumar. Una puntuación de 0 a 4 indica baja motivación, dificultando el éxito en programas de cesación."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué rango de puntuación indica manejo deficiente del régimen terapéutico?",
+        "opciones": [
+            "11 o más puntos",
+            "7 a 10 puntos",
+            "3 a 7 puntos",
+            "10 o menos puntos"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "En el GIPS-3, una puntuación de 10 o menos indica manejo deficiente del régimen terapéutico, lo que podría requerir intervenciones educativas y de apoyo."
+    },
+    {
+        "enunciado": "En la Escala de Zarit abreviada, ¿qué puntuación máxima refleja ausencia de sobrecarga?",
+        "opciones": [
+            "10 puntos",
+            "12 puntos",
+            "16 puntos",
+            "20 puntos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "La Escala de Zarit abreviada considera ausencia de sobrecarga con 16 puntos o menos, mientras que valores superiores indican niveles crecientes de sobrecarga."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿qué número de errores sugiere deterioro cognitivo leve?",
+        "opciones": [
+            "1 a 2 errores",
+            "3 a 4 errores",
+            "5 a 7 errores",
+            "8 o más errores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "El Test de Pfeiffer clasifica el deterioro cognitivo. De 1 a 2 errores es normal, 3-4 indica deterioro leve, 5-7 moderado, y 8 o más sugiere deterioro severo, requiriendo intervención."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué equivalencia metabólica mínima (MET) semanal indica un nivel adecuado de actividad física?",
+        "opciones": [
+            "300 MET",
+            "500 MET",
+            "600 MET",
+            "1000 MET"
+        ],
+        "correcta": 2,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "El Cuestionario GPAQ evalúa la actividad física. Acumular al menos 600 MET semanales es el estándar mínimo recomendado para mantener un nivel saludable de actividad física."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué rango de puntuación sugiere depresión leve y qué tipo de ítems incluye?",
+        "opciones": [
+            "1 a 4 puntos, con preguntas sobre la percepción de la salud física",
+            "5 a 9 puntos, con preguntas sobre estado de ánimo y pérdida de interés",
+            "10 a 15 puntos, con preguntas sobre funcionalidad física",
+            "16 o más puntos, con preguntas sobre dependencia cognitiva"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage evalúa depresión en mayores con ítems centrados en el estado emocional, como pérdida de interés, tristeza y cansancio. Una puntuación de 5 a 9 sugiere depresión leve, mientras que 16 o más indica depresión severa."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué tipo de ítems evalúan la dependencia a la nicotina?",
+        "opciones": [
+            "Ítems sobre número de cigarrillos diarios y tiempo desde el despertar",
+            "Ítems sobre motivación para dejar de fumar y estrés percibido",
+            "Ítems sobre impacto emocional y social del tabaco",
+            "Ítems sobre consumo de otras sustancias relacionadas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "El Test de Fagerström incluye ítems instrumentales como el número de cigarrillos fumados al día y el tiempo transcurrido desde el despertar hasta fumar el primero. Estas preguntas evalúan la dependencia física a la nicotina."
+    },
+    {
+        "enunciado": "En la Escala de Zarit completa, ¿qué tipo de ítems incluye para medir la sobrecarga del cuidador?",
+        "opciones": [
+            "Ítems sobre estrés emocional y demandas físicas del cuidado",
+            "Ítems sobre el entorno familiar y social del cuidador",
+            "Ítems sobre la condición médica del paciente cuidado",
+            "Ítems sobre las barreras arquitectónicas en el domicilio"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "La Escala de Zarit incluye ítems instrumentales que evalúan el estrés emocional, la percepción de carga física y el impacto en la vida social y familiar del cuidador. Una puntuación de 56 o más indica sobrecarga intensa."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividades básicas evalúa para determinar el nivel de dependencia?",
+        "opciones": [
+            "Alimentación, vestido, baño y movilidad",
+            "Estado emocional, interacción social y memoria",
+            "Actividades de ocio, transporte y finanzas",
+            "Control de peso, sueño y dieta"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "El Índice de Barthel evalúa actividades básicas de la vida diaria como alimentación, vestirse, bañarse, control de esfínteres y movilidad. Una puntuación de 90 a 100 indica independencia, mientras que menos de 50 refleja dependencia severa."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué tipo de situaciones problemáticas analiza?",
+        "opciones": [
+            "Trastornos de sueño, esfuerzo físico y cambios en planes personales",
+            "Rendimiento laboral, relaciones familiares y entorno social",
+            "Condiciones médicas del paciente cuidado y tipo de tratamientos",
+            "Impacto económico y acceso a recursos de apoyo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador es una herramienta que analiza ítems instrumentales como trastornos de sueño, restricciones en tiempo libre y esfuerzo físico asociado al cuidado. Una puntuación de 7 o más refleja un nivel elevado de esfuerzo."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué tipo de indicadores se utilizan para evaluar la gestión del régimen terapéutico?",
+        "opciones": [
+            "Indicadores NOC como adherencia al tratamiento y cambios en el estilo de vida",
+            "Ítems sobre actividad física, sueño y hábitos alimenticios",
+            "Escalas de estrés emocional y habilidades sociales",
+            "Indicadores sobre la funcionalidad física y cognitiva"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 utiliza indicadores NOC para medir la adherencia al tratamiento, el razonamiento sobre las medidas terapéuticas y las conductas que potencian la patología. Una puntuación de 11 o más sugiere un manejo efectivo del régimen."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿qué áreas cognitivas se evalúan con sus ítems?",
+        "opciones": [
+            "Memoria, orientación y cálculo",
+            "Lenguaje, juicio crítico y estado emocional",
+            "Atención, velocidad de procesamiento y habilidades motoras",
+            "Habilidades sociales, percepción sensorial y lenguaje"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "El Test de Pfeiffer evalúa áreas cognitivas clave como la memoria, la orientación temporal y espacial, y el cálculo. Un resultado con 3-4 errores indica deterioro leve, mientras que 8 o más sugieren deterioro severo."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué campos de actividad física evalúa?",
+        "opciones": [
+            "Trabajo, desplazamientos y tiempo libre",
+            "Trabajo físico, dieta y horas de sueño",
+            "Habilidad motora, interacción social y autonomía",
+            "Deportes, recreación y actividad laboral"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "El Cuestionario GPAQ evalúa la actividad física en tres campos: en el trabajo, durante los desplazamientos y en el tiempo libre. Cada campo se analiza en términos de intensidad y duración para calcular METs semanales."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué aspectos motivacionales se miden con sus ítems?",
+        "opciones": [
+            "Deseo de dejar de fumar, confianza en lograrlo y planificación",
+            "Dependencia emocional al tabaco y resistencia al cambio",
+            "Impacto social del tabaquismo y frecuencia de consumo",
+            "Impacto físico del consumo y disposición para buscar ayuda"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond mide aspectos como el deseo de dejar de fumar, la confianza en lograrlo y la disposición a tomar acción. Una puntuación de 7 o más indica alta motivación, fundamental para el éxito en la cesación."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué tipo de preguntas se incluyen para detectar síntomas de depresión en mayores?",
+        "opciones": [
+            "Preguntas sobre pérdida de interés, tristeza y dificultades para disfrutar actividades",
+            "Ítems sobre rendimiento físico, memoria y actividades sociales",
+            "Preguntas sobre dolor físico, insomnio y estrés familiar",
+            "Ítems sobre autonomía, caídas recientes y nutrición"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "yesavage"],
+        "feedback": "El Test de Yesavage incluye preguntas relacionadas con síntomas de depresión como pérdida de interés, tristeza persistente y dificultades para disfrutar actividades cotidianas. Evalúa el estado emocional y afecta la calidad de vida en mayores."
+    },
+    {
+        "enunciado": "En el Test de Fagerström, ¿qué áreas se evalúan para determinar la dependencia física a la nicotina?",
+        "opciones": [
+            "Tiempo desde el despertar, cigarrillo más importante y cantidad diaria fumada",
+            "Motivación para fumar, estrés percibido y patrones sociales",
+            "Edad de inicio del hábito, consumo durante el día y control del impulso",
+            "Impacto físico, dependencia emocional y costo del tabaco"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "fagerström"],
+        "feedback": "El Test de Fagerström incluye ítems sobre el tiempo hasta el primer cigarrillo, cuál es el más importante y cuántos se consumen al día. Estos elementos reflejan la intensidad de la dependencia física a la nicotina."
+    },
+    {
+        "enunciado": "En la Escala de Zarit, ¿qué aspectos emocionales y prácticos evalúan sus ítems?",
+        "opciones": [
+            "Carga emocional, esfuerzo físico y limitaciones en el tiempo personal",
+            "Relación con el paciente, apoyo médico y motivación del cuidador",
+            "Impacto financiero, comunicación familiar y estrategias de afrontamiento",
+            "Relación médico-paciente, impacto en la vivienda y autonomía del paciente"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "zarit"],
+        "feedback": "La Escala de Zarit evalúa cómo la carga emocional y física del cuidado afecta al tiempo personal del cuidador, incluyendo aspectos como el estrés, las limitaciones y la fatiga."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividades básicas evalúan sus ítems?",
+        "opciones": [
+            "Control de esfínteres, transferencia cama-silla, baño y alimentación",
+            "Capacidad para realizar compras, manejo del dinero y transporte",
+            "Interacciones sociales, memoria reciente y habilidad para caminar",
+            "Estado emocional, hábitos de sueño y percepción de calidad de vida"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "barthel"],
+        "feedback": "El Índice de Barthel evalúa actividades básicas de la vida diaria como control de esfínteres, transferencia cama-silla, baño y alimentación. Estas actividades son esenciales para determinar el grado de independencia de una persona."
+    },
+    {
+        "enunciado": "En el Índice de Esfuerzo del Cuidador, ¿qué eventos estresantes específicos evalúan sus ítems?",
+        "opciones": [
+            "Cambios familiares, restricciones de tiempo libre y molestias físicas del cuidado",
+            "Impacto económico, relación médico-cuidador y expectativas familiares",
+            "Nivel de conocimiento médico del cuidador y recursos disponibles",
+            "Hábitos de autocuidado, actividad física y patrones de sueño del cuidador"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "esfuerzo_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador incluye ítems sobre cambios en la dinámica familiar, restricciones de tiempo libre y molestias físicas, que reflejan el impacto del cuidado en la vida personal y emocional del cuidador."
+    },
+    {
+        "enunciado": "En el GIPS-3, ¿qué elementos específicos evalúan los indicadores NOC utilizados?",
+        "opciones": [
+            "Conductas que potencian la patología, adherencia al tratamiento y capacidad de razonamiento",
+            "Frecuencia de consultas médicas, actividad física y apoyo familiar",
+            "Nivel de conocimiento sobre su enfermedad y relación médico-paciente",
+            "Impacto emocional de la enfermedad y hábitos de ocio saludables"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gips-3"],
+        "feedback": "El GIPS-3 evalúa indicadores NOC como evitar conductas que agravan la patología, adherencia al tratamiento y capacidad para razonar las necesidades terapéuticas. Esto ayuda a valorar la gestión de la propia salud en pacientes crónicos."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿qué aspectos cognitivos son evaluados con sus preguntas?",
+        "opciones": [
+            "Orientación temporal, memoria inmediata y cálculo básico",
+            "Habilidades de razonamiento, interacción social y juicio crítico",
+            "Memoria a largo plazo, capacidades motoras y lenguaje",
+            "Percepción sensorial, habilidades manuales y atención dividida"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "pfeiffer"],
+        "feedback": "El Test de Pfeiffer evalúa orientación temporal, memoria inmediata y cálculo básico, aspectos clave para identificar el deterioro cognitivo en personas mayores."
+    },
+    {
+        "enunciado": "En el Cuestionario GPAQ, ¿qué especificaciones se incluyen para medir la actividad física?",
+        "opciones": [
+            "Frecuencia semanal, intensidad y duración en diferentes contextos",
+            "Relación entre la dieta, horas de sueño y niveles de energía",
+            "Impacto emocional de la actividad física y su contexto social",
+            "Frecuencia de actividades recreativas y tiempo sedentario"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "gpaq"],
+        "feedback": "El Cuestionario GPAQ mide actividad física considerando frecuencia semanal, intensidad y duración, evaluando los contextos de trabajo, desplazamiento y tiempo libre para calcular los METs totales."
+    },
+    {
+        "enunciado": "En el Test de Richmond, ¿qué elementos motivacionales evalúan sus ítems?",
+        "opciones": [
+            "Deseo de cesar el hábito, interés por cambiar y confianza en lograrlo",
+            "Impacto emocional del tabaco, apoyo social y estrategias de afrontamiento",
+            "Relación con otros hábitos saludables y frecuencia de recaídas",
+            "Habilidades comunicativas para buscar ayuda y percepción de riesgo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "richmond"],
+        "feedback": "El Test de Richmond evalúa aspectos motivacionales como el deseo de dejar de fumar, el interés por cambiar el hábito y la confianza para lograrlo. Estos factores son esenciales para planificar intervenciones exitosas."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad básica evalúa la capacidad de una persona para realizarla sin ayuda?",
+        "opciones": [
+            "Alimentarse",
+            "Administrar su medicación",
+            "Manejar sus finanzas",
+            "Realizar compras"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel evalúa actividades básicas como alimentarse, vestirse y bañarse, esenciales para determinar el nivel de dependencia de una persona."
+    },
+    {
+        "enunciado": "Según el Índice de Barthel, ¿qué actividad básica de la vida diaria incluye el control de esfínteres?",
+        "opciones": [
+            "Ir al baño",
+            "Moverse dentro del hogar",
+            "Bañarse",
+            "Vestirse"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "Ir al baño incluye aspectos como el control de esfínteres y la capacidad para utilizar las instalaciones sanitarias de forma independiente."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad evalúa la capacidad de una persona para moverse de la cama a la silla?",
+        "opciones": [
+            "Transferencias",
+            "Deambulación",
+            "Alimentación",
+            "Control de esfínteres"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La capacidad de realizar transferencias, como moverse de la cama a la silla, es una actividad clave en la evaluación de la autonomía funcional."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad se incluye para valorar la higiene personal?",
+        "opciones": [
+            "Lavarse la cara y manos",
+            "Peinarse y maquillarse",
+            "Preparar alimentos",
+            "Salir al exterior de la vivienda"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel incluye lavarse la cara y las manos como parte de la valoración de la higiene personal, fundamental en el autocuidado diario."
+    },
+    {
+        "enunciado": "¿Qué actividad básica evalúa el Índice de Barthel para valorar la movilidad independiente?",
+        "opciones": [
+            "Capacidad para caminar una distancia específica",
+            "Subir escaleras con ayuda",
+            "Correr distancias cortas",
+            "Realizar ejercicios físicos supervisados"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La capacidad para caminar de forma independiente una distancia específica es una de las actividades evaluadas por el Índice de Barthel para valorar la movilidad."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿cómo se evalúa la capacidad para bañarse?",
+        "opciones": [
+            "Si puede entrar y salir de la ducha o bañera sin ayuda",
+            "Si realiza la limpieza de su entorno de baño",
+            "Si organiza los productos de higiene personal",
+            "Si supervisa a otros durante el baño"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel evalúa si la persona puede entrar y salir de la ducha o bañera y realizar el baño completo sin ayuda, lo que refleja su grado de independencia."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad básica se mide al evaluar la capacidad para vestirse?",
+        "opciones": [
+            "Ponerse y quitarse la ropa adecuadamente",
+            "Seleccionar ropa según el clima",
+            "Organizar el armario personal",
+            "Lavar y planchar la ropa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La capacidad para vestirse incluye ponerse y quitarse la ropa adecuadamente, una actividad esencial para la autonomía personal evaluada en el Índice de Barthel."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad incluye la capacidad para subir y bajar escaleras?",
+        "opciones": [
+            "Movilidad en el hogar",
+            "Deambulación",
+            "Transferencias",
+            "Escalones"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La capacidad para subir y bajar escaleras es evaluada como 'escalones' en el Índice de Barthel, reflejando la movilidad vertical y la fuerza física del individuo."
+    },
+    {
+        "enunciado": "¿Qué actividad básica evalúa el Índice de Barthel para medir la capacidad de alimentarse?",
+        "opciones": [
+            "Si puede ingerir alimentos sólidos y líquidos sin ayuda",
+            "Si planifica sus comidas diarias",
+            "Si organiza los utensilios de cocina",
+            "Si realiza la compra de alimentos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel mide si la persona puede ingerir alimentos sólidos y líquidos sin ayuda, un componente esencial de las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿cómo se evalúa la capacidad para controlar esfínteres?",
+        "opciones": [
+            "Si mantiene continencia urinaria y fecal",
+            "Si utiliza pañales de forma independiente",
+            "Si identifica necesidades médicas relacionadas",
+            "Si reconoce patrones de eliminación"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel evalúa si la persona mantiene continencia urinaria y fecal, una actividad básica que indica independencia en el control de esfínteres."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad básica evalúa la capacidad para moverse dentro del hogar?",
+        "opciones": [
+            "Deambulación",
+            "Transferencias cama-silla",
+            "Subir y bajar escaleras",
+            "Utilizar dispositivos de apoyo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La deambulación, evaluada en el Índice de Barthel, mide la capacidad para moverse de forma independiente dentro del hogar, ya sea con o sin ayudas técnicas."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿cómo se valora la capacidad de una persona para utilizar el baño?",
+        "opciones": [
+            "Si entra, sale y usa el inodoro de forma independiente",
+            "Si realiza la limpieza de las instalaciones sanitarias",
+            "Si organiza los productos de higiene en el baño",
+            "Si supervisa el uso del baño por otras personas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel valora si una persona puede entrar, salir y usar el inodoro de forma autónoma, una actividad crucial para evaluar la independencia."
+    },
+    {
+        "enunciado": "¿Qué actividad básica mide el Índice de Barthel relacionada con la alimentación?",
+        "opciones": [
+            "Preparar sus alimentos",
+            "Cocinar para otras personas",
+            "Organizar utensilios de cocina",
+            "Ingerir alimentos sólidos y líquidos sin ayuda"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel mide la capacidad de ingerir alimentos sólidos y líquidos sin ayuda, un indicador esencial de autonomía en la alimentación."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad básica incluye la capacidad para entrar y salir de la cama?",
+        "opciones": [
+            "Transferencias cama-silla",
+            "Deambulación",
+            "Escalones",
+            "Movilidad asistida"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "Las transferencias cama-silla, evaluadas en el Índice de Barthel, miden la capacidad de una persona para entrar y salir de la cama de manera autónoma."
+    },
+    {
+        "enunciado": "¿Qué actividad básica se incluye en el Índice de Barthel para evaluar la autonomía en la higiene personal?",
+        "opciones": [
+            "Lavarse la cara y manos sin ayuda",
+            "Peinarse y cortarse el cabello",
+            "Organizar productos de higiene",
+            "Realizar cuidados estéticos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel incluye lavarse la cara y manos sin ayuda como parte de la evaluación de la autonomía en la higiene personal diaria."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿cómo se evalúa la capacidad para vestirse?",
+        "opciones": [
+            "Ponerse y quitarse la ropa sin ayuda",
+            "Seleccionar ropa adecuada para el clima",
+            "Doblar y guardar la ropa",
+            "Realizar compras de vestimenta"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La capacidad para vestirse, medida en el Índice de Barthel, incluye ponerse y quitarse la ropa sin asistencia, reflejando independencia en esta actividad básica."
+    },
+    {
+        "enunciado": "¿Qué aspecto de la movilidad evalúa el Índice de Barthel con la actividad de subir escaleras?",
+        "opciones": [
+            "Capacidad para subir y bajar sin ayuda",
+            "Uso de ayudas técnicas para la movilidad",
+            "Velocidad al subir y bajar escalones",
+            "Capacidad para identificar obstáculos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "Subir y bajar escaleras sin ayuda es una actividad incluida en el Índice de Barthel que refleja la movilidad y autonomía vertical de la persona."
+    },
+    {
+        "enunciado": "¿Qué actividad relacionada con el control de esfínteres evalúa el Índice de Barthel?",
+        "opciones": [
+            "Capacidad para mantener continencia urinaria y fecal",
+            "Identificación de patrones de eliminación",
+            "Gestión de dispositivos médicos relacionados",
+            "Supervisión de cuidados por incontinencia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El Índice de Barthel evalúa la capacidad para mantener continencia urinaria y fecal, una actividad básica que refleja independencia en el autocuidado."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad mide la independencia en la movilidad general?",
+        "opciones": [
+            "Caminar dentro y fuera del hogar sin ayuda",
+            "Realizar ejercicios físicos programados",
+            "Desplazarse en transporte público",
+            "Identificar rutas accesibles"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "La independencia en la movilidad general, como caminar dentro y fuera del hogar sin ayuda, es evaluada en el Índice de Barthel para determinar el nivel de autonomía."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué acción específica evalúa el ítem de transferencia cama-silla?",
+        "opciones": [
+            "Pasar de la posición de acostado a sentado sin ayuda",
+            "Realizar ejercicios de movilidad asistida",
+            "Preparar la cama de forma independiente",
+            "Controlar el uso de dispositivos médicos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "actividades_basicas"],
+        "feedback": "El ítem de transferencia cama-silla en el Índice de Barthel mide la capacidad para pasar de acostado a sentado y viceversa, sin asistencia, una actividad clave en la evaluación de autonomía."
+    },
+    {
+        "enunciado": "¿Qué tipo de actividades evalúa la Escala de Lawton y Brody?",
+        "opciones": [
+            "Actividades instrumentales de la vida diaria (AIVD), como usar el teléfono y hacer compras",
+            "Actividades básicas de la vida diaria (ABVD), como bañarse y vestirse",
+            "Actividades de ocio y recreación, como deportes y juegos",
+            "Actividades relacionadas con la salud mental, como atención y memoria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "La Escala de Lawton y Brody mide actividades instrumentales de la vida diaria (AIVD), que requieren habilidades más complejas que las actividades básicas, como usar el teléfono, hacer compras y manejar dinero."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad instrumental evalúa la capacidad para gestionar comunicación?",
+        "opciones": [
+            "Usar el teléfono",
+            "Escribir cartas",
+            "Realizar videollamadas",
+            "Enviar mensajes de texto"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "La Escala de Lawton y Brody incluye el ítem 'usar el teléfono' para evaluar la capacidad de comunicación del individuo, considerando si puede marcar números y realizar llamadas sin ayuda."
+    },
+    {
+        "enunciado": "¿Qué ítem de la Escala de Lawton y Brody evalúa la capacidad para manejar recursos económicos?",
+        "opciones": [
+            "Hacer compras",
+            "Manejar dinero",
+            "Preparar alimentos",
+            "Responsabilidad sobre medicación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'manejar dinero' evalúa la capacidad para realizar pagos, llevar un presupuesto y manejar cuentas financieras de manera independiente."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad se evalúa para medir la autonomía en el transporte?",
+        "opciones": [
+            "Usar medios de transporte",
+            "Caminar largas distancias",
+            "Conducir vehículos motorizados",
+            "Organizar rutas de viaje"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'usar medios de transporte' mide la capacidad para desplazarse de manera independiente, ya sea en transporte público o privado, y planificar sus trayectos."
+    },
+    {
+        "enunciado": "¿Qué actividad relacionada con la alimentación evalúa la Escala de Lawton y Brody?",
+        "opciones": [
+            "Preparar comidas",
+            "Seleccionar alimentos en un supermercado",
+            "Controlar la dieta diaria",
+            "Alimentarse sin ayuda"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "La Escala de Lawton y Brody evalúa la capacidad de 'preparar comidas', midiendo si la persona puede cocinar y organizar sus alimentos de manera independiente."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿cómo se evalúa la capacidad para realizar tareas domésticas?",
+        "opciones": [
+            "Capacidad para limpiar, ordenar y mantener el hogar",
+            "Planificación semanal de tareas de limpieza",
+            "Contratación de servicios de limpieza profesional",
+            "Supervisión de tareas realizadas por otros"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'realizar tareas domésticas' evalúa si la persona puede limpiar, ordenar y mantener su hogar de manera autónoma, reflejando su funcionalidad instrumental."
+    },
+    {
+        "enunciado": "¿Qué ítem de la Escala de Lawton y Brody evalúa la responsabilidad sobre la medicación?",
+        "opciones": [
+            "Recordar horarios de toma de medicación",
+            "Organizar pastilleros y dispensadores",
+            "Leer y entender instrucciones médicas",
+            "Todos los anteriores"
+        ],
+        "correcta": 3,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'responsabilidad sobre medicación' evalúa si la persona puede recordar horarios, organizar medicación y seguir instrucciones médicas de manera independiente."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad evalúa la capacidad para hacer compras?",
+        "opciones": [
+            "Planificar la lista de compras y realizarlas de forma independiente",
+            "Evaluar la calidad de los productos adquiridos",
+            "Pagar con tarjeta bancaria únicamente",
+            "Supervisar las compras realizadas por otros"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'hacer compras' mide si la persona puede planificar y realizar las compras de manera independiente, lo cual es clave para mantener su funcionalidad instrumental."
+    },
+    {
+        "enunciado": "¿Qué diferencia tiene la Escala de Lawton y Brody respecto al Índice de Barthel?",
+        "opciones": [
+            "Evalúa actividades instrumentales mientras que el Barthel mide actividades básicas",
+            "Incluye evaluación cognitiva, a diferencia del Barthel",
+            "Es específica para personas con discapacidad mental",
+            "Se utiliza solo en contextos hospitalarios"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales como manejar dinero y usar el transporte, mientras que el Índice de Barthel mide actividades básicas como bañarse y vestirse."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad mide la capacidad para lavar la ropa?",
+        "opciones": [
+            "Realizar el lavado, secado y cuidado de la ropa sin ayuda",
+            "Planificar horarios para realizar el lavado",
+            "Seleccionar productos de limpieza adecuados",
+            "Supervisar tareas de lavandería realizadas por otros"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'lavar la ropa' evalúa la capacidad de la persona para realizar el lavado, secado y cuidado de su ropa de manera independiente."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué capacidad se evalúa con el ítem de usar el teléfono?",
+        "opciones": [
+            "Realizar llamadas sin ayuda y marcar números",
+            "Recordar números de memoria",
+            "Configurar dispositivos móviles",
+            "Enviar mensajes de texto"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'usar el teléfono' evalúa si la persona puede realizar llamadas sin ayuda, marcando números y manteniendo una comunicación funcional."
+    },
+    {
+        "enunciado": "¿Qué actividad instrumental evalúa la capacidad para organizar y gestionar tareas domésticas complejas?",
+        "opciones": [
+            "Limpieza y orden del hogar",
+            "Supervisión de otras personas en el hogar",
+            "Preparación de menús semanales",
+            "Planificación de actividades recreativas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "La Escala de Lawton y Brody evalúa la capacidad de realizar tareas domésticas, como limpiar y ordenar el hogar, reflejando la autonomía en el mantenimiento del entorno."
+    },
+    {
+        "enunciado": "¿Qué actividad específica evalúa la Escala de Lawton y Brody con respecto al manejo del transporte?",
+        "opciones": [
+            "Planificar y usar transporte público o privado sin ayuda",
+            "Conducir vehículos motorizados de manera segura",
+            "Comprar boletos para viajes largos",
+            "Supervisar a otras personas durante los desplazamientos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'usar medios de transporte' mide si la persona puede planificar y usar transporte público o privado de manera independiente."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿cómo se evalúa la capacidad para hacer compras?",
+        "opciones": [
+            "Identificar productos necesarios y realizar la compra sin ayuda",
+            "Comparar precios y seleccionar los más económicos",
+            "Planificar visitas al mercado o supermercado",
+            "Delegar las compras a un asistente o familiar"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'hacer compras' evalúa si la persona puede identificar los productos que necesita y realizar la compra de manera autónoma, una habilidad clave para la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué incluye el ítem de 'preparar comidas' en la Escala de Lawton y Brody?",
+        "opciones": [
+            "Cocinar y organizar las comidas diarias de forma independiente",
+            "Planificar menús semanales equilibrados",
+            "Comprar ingredientes en el supermercado",
+            "Lavar los utensilios después de cada comida"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'preparar comidas' evalúa si la persona puede cocinar y organizar las comidas diarias por sí misma, una habilidad importante para mantener la autonomía."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad evalúa la capacidad de una persona para gestionar sus finanzas?",
+        "opciones": [
+            "Realizar pagos, manejar cuentas y planificar presupuestos",
+            "Identificar monedas y billetes correctamente",
+            "Delegar la administración de sus ingresos a familiares",
+            "Ahorro y planificación de inversiones"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'manejar dinero' mide si la persona puede realizar pagos, llevar un presupuesto y manejar sus cuentas financieras de manera autónoma."
+    },
+    {
+        "enunciado": "¿Qué evalúa el ítem de 'responsabilidad sobre la medicación' en la Escala de Lawton y Brody?",
+        "opciones": [
+            "Recordar los horarios y dosis de la medicación",
+            "Comprar medicación en la farmacia",
+            "Identificar los nombres genéricos de los medicamentos",
+            "Leer y comprender prospectos médicos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'responsabilidad sobre la medicación' evalúa si la persona recuerda los horarios y dosis de sus medicamentos, lo que refleja una gestión autónoma de su salud."
+    },
+    {
+        "enunciado": "¿Qué actividad evalúa la Escala de Lawton y Brody al considerar el ítem de lavar la ropa?",
+        "opciones": [
+            "Capacidad para realizar el lavado y secado de ropa sin ayuda",
+            "Organización del armario personal",
+            "Delegación de la lavandería a servicios externos",
+            "Identificar prendas delicadas y su cuidado especial"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "El ítem 'lavar la ropa' evalúa si la persona puede realizar el lavado y secado de su ropa de forma autónoma, una actividad instrumental importante en el día a día."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal tiene el uso de la Escala de Lawton y Brody en hombres y mujeres?",
+        "opciones": [
+            "Algunas actividades son culturalmente específicas en mujeres, como preparar comidas",
+            "Los hombres no son evaluados en tareas de limpieza doméstica",
+            "Solo se utiliza en mujeres mayores de 65 años",
+            "Los resultados se ajustan según la ocupación previa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "En la Escala de Lawton y Brody, algunas actividades como preparar comidas y lavar ropa pueden tener una interpretación cultural específica en mujeres, pero la escala es aplicable a ambos géneros."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación alta en la Escala de Lawton y Brody?",
+        "opciones": [
+            "Mayor nivel de autonomía en las actividades instrumentales",
+            "Dependencia completa en actividades básicas",
+            "Riesgo significativo de deterioro funcional",
+            "Ausencia de habilidades para el autocuidado"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "lawton_brody"],
+        "feedback": "Una puntuación alta en la Escala de Lawton y Brody indica mayor autonomía en actividades instrumentales como manejar dinero, preparar comidas y usar transporte."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa actividades básicas de la vida diaria como bañarse, vestirse y alimentarse?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Zarit",
+            "Cuestionario GPAQ"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Índice de Barthel evalúa actividades básicas de la vida diaria (ABVD) como bañarse, vestirse, alimentarse y controlar esfínteres, fundamentales para medir la independencia funcional."
+    },
+    {
+        "enunciado": "¿Qué escala mide actividades instrumentales como manejar dinero, usar el teléfono y hacer compras?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Test de Yesavage",
+            "Índice de Esfuerzo del Cuidador"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales de la vida diaria (AIVD), como manejar dinero, hacer compras y usar el teléfono, que requieren un mayor nivel de independencia funcional."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para medir el nivel de sobrecarga en cuidadores?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Zarit",
+            "Escala de Lawton y Brody",
+            "Test de Richmond"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Zarit mide el nivel de sobrecarga en cuidadores, evaluando el impacto físico y emocional que implica el cuidado de una persona dependiente."
+    },
+    {
+        "enunciado": "¿Qué instrumento evalúa la motivación para dejar de fumar?",
+        "opciones": [
+            "Test de Richmond",
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Test de Richmond evalúa la motivación para dejar de fumar, midiendo factores como el deseo de cesar el hábito y la confianza para lograrlo."
+    },
+    {
+        "enunciado": "¿Qué escala incluye ítems como el control de esfínteres y las transferencias cama-silla?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "GIPS-3",
+            "Cuestionario GPAQ"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Índice de Barthel incluye ítems como el control de esfínteres y las transferencias cama-silla, evaluando actividades básicas de la vida diaria esenciales para la autonomía."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa si una persona puede usar transporte público o privado de manera independiente?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit",
+            "Índice de Esfuerzo del Cuidador"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody incluye el ítem 'usar transporte', que evalúa la capacidad para desplazarse utilizando medios públicos o privados de forma autónoma."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza para evaluar el nivel de actividad física en diferentes contextos como el trabajo, el desplazamiento y el tiempo libre?",
+        "opciones": [
+            "Cuestionario GPAQ",
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Cuestionario GPAQ mide el nivel de actividad física en diferentes contextos y calcula el gasto energético semanal en METs, según las recomendaciones de la OMS."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa habilidades como lavar la ropa y preparar comidas?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit",
+            "Índice de Esfuerzo del Cuidador"
+        ],
+        "correcta": 1,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales de la vida diaria, como lavar la ropa y preparar comidas, que requieren habilidades más complejas que las actividades básicas."
+    },
+    {
+        "enunciado": "¿Qué herramienta evalúa el deterioro cognitivo en adultos mayores mediante preguntas de memoria y orientación?",
+        "opciones": [
+            "Test de Pfeiffer",
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Test de Pfeiffer evalúa el deterioro cognitivo en adultos mayores mediante preguntas sobre memoria, orientación y cálculo, permitiendo identificar problemas leves a severos."
+    },
+    {
+        "enunciado": "¿Qué escala mide actividades como manejar dinero, hacer compras y usar el teléfono?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Test de Richmond",
+            "GIPS-3"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales de la vida diaria, como manejar dinero, hacer compras y usar el teléfono, que requieren mayor independencia."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para evaluar actividades instrumentales como preparar comidas y manejar dinero?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Braden",
+            "Cuestionario de Sandvik"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales de la vida diaria (AIVD), como preparar comidas y manejar dinero, que son esenciales para la vida independiente."
+    },
+    {
+        "enunciado": "¿Qué escala mide actividades básicas como bañarse, vestirse y controlar esfínteres?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Norton",
+            "Cuestionario de Sandvik"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Índice de Barthel mide actividades básicas de la vida diaria (ABVD), como bañarse, vestirse y controlar esfínteres, esenciales para determinar el nivel de independencia funcional."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza para valorar la funcionalidad en el uso del teléfono y el transporte?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Braden",
+            "Escala de Norton"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa la funcionalidad en actividades instrumentales de la vida diaria (AIVD), como usar el teléfono y el transporte, que requieren habilidades más complejas que las actividades básicas."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para medir el riesgo de desarrollar úlceras por presión en pacientes inmovilizados?",
+        "opciones": [
+            "Escala de Braden",
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Braden evalúa el riesgo de desarrollar úlceras por presión considerando factores como percepción sensorial, actividad, movilidad y nutrición, siendo especialmente útil en pacientes inmovilizados."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa la autonomía en la capacidad de realizar compras y preparar alimentos?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Norton",
+            "Cuestionario de Sandvik"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody mide la autonomía en actividades instrumentales de la vida diaria (AIVD), como hacer compras y preparar alimentos, necesarias para la vida independiente."
+    },
+    {
+        "enunciado": "¿Qué escala incluye el ítem de controlar esfínteres para medir independencia funcional?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Escala de Braden",
+            "Escala de Norton"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Índice de Barthel incluye el control de esfínteres como una actividad básica de la vida diaria (ABVD) para medir el grado de independencia funcional."
+    },
+    {
+        "enunciado": "¿Qué herramienta evalúa el manejo de dinero y la responsabilidad sobre la medicación?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Norton",
+            "Escala de Zarit"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales como el manejo de dinero y la responsabilidad sobre la medicación, aspectos esenciales para la autonomía en la comunidad."
+    },
+    {
+        "enunciado": "¿Qué escala mide la percepción sensorial, la actividad y la movilidad para prevenir complicaciones en la piel?",
+        "opciones": [
+            "Escala de Braden",
+            "Índice de Barthel",
+            "Escala de Lawton y Brody",
+            "Cuestionario de Sandvik"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Braden mide factores como la percepción sensorial, actividad y movilidad para evaluar el riesgo de desarrollar úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa actividades como lavar ropa, usar transporte y hacer tareas domésticas?",
+        "opciones": [
+            "Escala de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala de Zarit",
+            "Escala de Braden"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "La Escala de Lawton y Brody evalúa actividades instrumentales como lavar ropa, usar transporte y hacer tareas domésticas, reflejando un nivel avanzado de independencia funcional."
+    },
+    {
+        "enunciado": "¿Qué herramienta está diseñada específicamente para medir la severidad de la incontinencia urinaria?",
+        "opciones": [
+            "Cuestionario de Sandvik",
+            "Índice de Barthel",
+            "Escala de Braden",
+            "Escala de Lawton y Brody"
+        ],
+        "correcta": 0,
+        "categorías": ["tema59", "examen_65", "escalas", "comparacion_escalas"],
+        "feedback": "El Cuestionario de Sandvik evalúa la severidad de la incontinencia urinaria mediante parámetros como la frecuencia y el volumen de pérdidas, proporcionando un perfil clínico útil."
+    }                                                                    
+]

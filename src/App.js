@@ -69,8 +69,8 @@ function App() {
             { title: '•31: Educación para la salud: planificación y técnicas', archivo: 'tema31.json', bloque: 2 },
             { title: '•33: Epidemiología: prevención, infecciones, higiene y aislamiento', archivo: 'tema33.json', bloque: 2 },
             { title: '•37: Promoción de actividad física y alimentación saludable', archivo: 'tema37.json', bloque: 2 },
-            { title: '41: Prevención y atención a adicciones y tabaquismo', archivo: 'tema41.json', bloque: 2 },
-            { title: '59: Examen de salud para mayores de 65 años', archivo: 'tema59.json', bloque: 2 },
+            { title: '•41: Prevención y atención a adicciones y tabaquismo', archivo: 'tema41.json', bloque: 2 },
+            { title: '•59: Examen de salud para mayores de 65 años', archivo: 'tema59.json', bloque: 2 },
             { title: '62: Comunidad: promoción de salud y participación comunitaria', archivo: 'tema62.json', bloque: 2 }
         ],
         '3: Materno-infantil': [
@@ -157,7 +157,7 @@ function App() {
             { title: '•7: Igualdad género y violencia: principios, políticas, formación y planes', archivo: 'tema7.json', bloque: 9 },
             { title: '•8: Estatuto personal sanitario: derechos, deberes, movilidad, retribuciones, régimen', archivo: 'tema8.json', bloque: 9 },
             { title: '•9: Autonomía del paciente: información, intimidad, derechos y documentación clínica', archivo: 'tema9.json', bloque: 9 },
-            { title: '•10: TIC en SAS: sistemas, puesto digital, ciberseguridad, código conducta', archivo: 'tema10.json', bloque: 9 },
+            { title: '10: TIC en SAS: sistemas, puesto digital, ciberseguridad, código conducta', archivo: 'tema10.json', bloque: 9 },
         ],
     };
 
