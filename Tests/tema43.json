@@ -1,0 +1,962 @@
+[
+    {
+    "enunciado": "Durante un traslado interhospitalario de un paciente en ventilación mecánica, el ventilador transportable falla repentinamente. ¿Cuál es la primera acción que se debe realizar?",
+    "opciones": [
+      "Iniciar ventilación manual con un resucitador tipo bolsa-válvula-mascarilla (BVM).",
+      "Llamar al servicio técnico del ventilador mecánico.",
+      "Solicitar un ventilador de reemplazo al hospital receptor.",
+      "Suspender el traslado hasta reparar el ventilador mecánico."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "La prioridad es mantener la ventilación del paciente. Iniciar ventilación manual con un resucitador BVM asegura la oxigenación hasta resolver el problema."
+  },
+  {
+    "enunciado": "En el manejo avanzado de una hemorragia masiva durante un traslado, ¿cuál es la estrategia más adecuada para el reemplazo de volumen?",
+    "opciones": [
+      "Administrar cristaloides en grandes volúmenes.",
+      "Utilizar una proporción 1:1:1 de concentrados de hematíes, plasma fresco congelado y plaquetas.",
+      "Administrar albúmina como primera línea de expansión de volumen.",
+      "Utilizar únicamente vasopresores para mantener la presión arterial."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "hemorragia_masiva"],
+    "feedback": "La estrategia 1:1:1 es recomendada en la hemorragia masiva para evitar coagulopatías y mantener el equilibrio hemodinámico."
+  },
+  {
+    "enunciado": "Un paciente en estado crítico requiere traslado aéreo a una unidad especializada. ¿Qué variable atmosférica es más importante considerar al planificar el traslado?",
+    "opciones": [
+      "La velocidad del viento en la ruta.",
+      "El efecto de la altitud en los gases intratorácicos y cavidades corporales.",
+      "La disponibilidad de oxígeno suplementario en la aeronave.",
+      "La visibilidad para maniobras de aterrizaje y despegue."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "traslado_aéreo"],
+    "feedback": "La disminución de presión atmosférica a mayores altitudes puede provocar expansión de gases y afectar a pacientes con neumotórax o cavidades cerradas, siendo crítico monitorizar estas condiciones."
+  },
+  {
+    "enunciado": "En un paciente con sospecha de hipertensión intracraneal durante un traslado, ¿qué medida es más apropiada para evitar el deterioro neurológico?",
+    "opciones": [
+      "Hiperextender el cuello para optimizar el flujo venoso cerebral.",
+      "Administrar suero glucosado al 5% para prevenir hipoglucemia.",
+      "Mantener la cabeza elevada a 30 grados durante el traslado.",
+      "Hiperoxigenar al paciente con una FiO2 del 100% durante todo el traslado."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "hipertensión_intracraneal"],
+    "feedback": "La elevación de la cabeza a 30 grados mejora el retorno venoso y disminuye la presión intracraneal, siendo una medida estándar en estos casos."
+  },
+  {
+    "enunciado": "Un paciente con trauma torácico y sospecha de neumotórax a tensión presenta desaturación brusca durante el traslado. ¿Cuál es la intervención inmediata indicada?",
+    "opciones": [
+      "Administrar altas dosis de oxígeno suplementario y monitorizar.",
+      "Colocar un tubo de drenaje torácico inmediatamente.",
+      "Realizar una punción con aguja en el segundo espacio intercostal en la línea medio clavicular.",
+      "Iniciar ventilación no invasiva con presión positiva."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_torácico"],
+    "feedback": "La punción descompresiva con aguja en el segundo espacio intercostal es el tratamiento inmediato para aliviar un neumotórax a tensión y estabilizar al paciente."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente crítico, ¿cuál es el método más confiable para confirmar la correcta colocación de un tubo endotraqueal?",
+    "opciones": [
+      "Auscultación bilateral de campos pulmonares.",
+      "Presencia de niebla en el tubo endotraqueal.",
+      "Capnografía continua con registro de curva.",
+      "Observación de movimientos torácicos simétricos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "intubación"],
+    "feedback": "La capnografía continua es el método más confiable para confirmar la correcta colocación del tubo endotraqueal, ya que mide directamente el dióxido de carbono exhalado."
+  },
+  {
+    "enunciado": "En un paciente con sepsis grave en traslado, ¿cuál es el objetivo principal en las primeras horas de manejo hemodinámico?",
+    "opciones": [
+      "Mantener una presión arterial media (PAM) de al menos 65 mmHg.",
+      "Lograr una saturación de oxígeno arterial del 100%.",
+      "Administrar antibióticos de amplio espectro solo si hay hipotensión severa.",
+      "Evitar cualquier tipo de expansión de volumen para prevenir edema."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "sepsis"],
+    "feedback": "El objetivo hemodinámico en la sepsis es mantener una PAM ≥ 65 mmHg mediante fluidos y vasopresores para asegurar la perfusión de órganos vitales."
+  },
+  {
+    "enunciado": "Un paciente pediátrico con estado asmático severo está siendo trasladado. ¿Qué medida farmacológica está contraindicada en este caso?",
+    "opciones": [
+      "Administración de salbutamol nebulizado.",
+      "Uso de sulfato de magnesio intravenoso.",
+      "Administración de adrenalina subcutánea.",
+      "Uso de relajantes musculares sin control de ventilación."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas"],
+    "feedback": "El uso de relajantes musculares sin control de ventilación está contraindicado, ya que puede llevar a insuficiencia respiratoria en pacientes con estado asmático severo."
+  },
+  {
+    "enunciado": "En un paciente politraumatizado con fractura pélvica, ¿cuál es la prioridad inicial antes del traslado?",
+    "opciones": [
+      "Realizar una tomografía computarizada para confirmar las lesiones.",
+      "Inmovilizar la pelvis con un cinturón pélvico o dispositivo similar.",
+      "Iniciar transfusión masiva en ausencia de pruebas cruzadas.",
+      "Administrar antibióticos profilácticos para prevenir infección."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma"],
+    "feedback": "La inmovilización de la pelvis es esencial para controlar el sangrado y estabilizar al paciente antes del traslado."
+  },
+  {
+    "enunciado": "En el contexto de un paro cardíaco durante un traslado, ¿cuál es el factor más crítico para la reanimación en movimiento?",
+    "opciones": [
+      "Realizar compresiones torácicas de alta calidad.",
+      "Minimizar el uso de desfibrilador en un vehículo en movimiento.",
+      "Administrar medicamentos según el protocolo cada 5 minutos exactos.",
+      "Esperar a llegar al hospital para iniciar maniobras avanzadas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "paro_cardiaco"],
+    "feedback": "En un paro cardíaco durante un traslado, la prioridad es realizar compresiones torácicas de alta calidad, incluso en un entorno móvil."
+  },
+  {
+    "enunciado": "Un paciente con infarto agudo de miocardio con elevación del ST (IAMCEST) requiere traslado urgente a un centro con capacidad de realizar angioplastia primaria. ¿Cuál es la medida más importante durante el traslado?",
+    "opciones": [
+      "Administrar oxígeno suplementario de forma rutinaria.",
+      "Mantener una perfusión continua de nitroglicerina intravenosa.",
+      "Controlar estrictamente el dolor con opioides si es necesario.",
+      "Iniciar trombólisis antes del traslado, independientemente del tiempo estimado de llegada."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "IAM"],
+    "feedback": "El control adecuado del dolor disminuye la activación adrenérgica y mejora la estabilidad hemodinámica, siendo crucial en el manejo prehospitalario del IAMCEST."
+  },
+  {
+    "enunciado": "Durante el traslado aéreo de un paciente ventilado mecánicamente, notas un aumento brusco en las presiones pico del ventilador. ¿Qué podría ser la causa más probable?",
+    "opciones": [
+      "Hipovolemia severa.",
+      "Desconexión del circuito del ventilador.",
+      "Neumotórax a tensión desarrollado durante el vuelo.",
+      "Disminución de la fracción inspirada de oxígeno (FiO2)."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica", "traslado_aéreo"],
+    "feedback": "En un entorno de traslado aéreo, el neumotórax a tensión es una complicación frecuente debido a la expansión de gases por la disminución de la presión atmosférica."
+  },
+  {
+    "enunciado": "En el manejo de un paciente con quemaduras extensas durante un traslado, ¿qué fórmula se utiliza para calcular la reposición inicial de líquidos?",
+    "opciones": [
+      "La fórmula de Parkland: 4 mL/kg/% de superficie corporal quemada.",
+      "La fórmula de Brooke modificada: 3 mL/kg/% de superficie corporal quemada.",
+      "La fórmula de Baxter: 2 mL/kg/% de superficie corporal quemada.",
+      "La fórmula de Evans: 5 mL/kg/% de superficie corporal quemada."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "quemaduras"],
+    "feedback": "La fórmula de Parkland es la más utilizada, indicando 4 mL/kg/% de superficie corporal quemada en las primeras 24 horas, con la mitad administrada en las primeras 8 horas."
+  },
+  {
+    "enunciado": "Un paciente crítico con hipertensión intracraneal requiere traslado. ¿Cuál es la estrategia adecuada para el manejo de la ventilación mecánica en este caso?",
+    "opciones": [
+      "Mantener una hiperventilación sostenida con PaCO2 por debajo de 25 mmHg.",
+      "Evitar cualquier ajuste en el ventilador para no alterar la presión intracraneal.",
+      "Mantener una ventilación normocápnica con PaCO2 entre 35-40 mmHg.",
+      "Aumentar la presión positiva al final de la espiración (PEEP) para mejorar la oxigenación."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica", "hipertensión_intracraneal"],
+    "feedback": "La normocapnia (PaCO2 entre 35-40 mmHg) evita la vasodilatación o vasoconstricción cerebral excesiva, reduciendo el riesgo de cambios bruscos en la presión intracraneal."
+  },
+  {
+    "enunciado": "En el traslado de un paciente pediátrico con choque séptico, ¿cuál es la medida inicial más importante para estabilizar al paciente?",
+    "opciones": [
+      "Administrar líquidos a 10 mL/kg cada hora.",
+      "Iniciar vasopresores inmediatamente sin reposición de líquidos.",
+      "Administrar líquidos en bolo de 20 mL/kg lo más rápido posible.",
+      "Restringir líquidos y enfocar el tratamiento en antibióticos."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas", "choque_séptico"],
+    "feedback": "La administración de líquidos en bolos de 20 mL/kg es fundamental para restaurar el volumen intravascular y mejorar la perfusión en el choque séptico pediátrico."
+  },
+  {
+    "enunciado": "Un paciente intubado en traslado comienza a mostrar signos de hipoxia. ¿Cuál sería la causa más probable si el tubo endotraqueal ha sido desplazado accidentalmente?",
+    "opciones": [
+      "Intubación esofágica.",
+      "Obstrucción por secreciones.",
+      "Intubación selectiva del bronquio principal derecho.",
+      "Pérdida del neumotaponamiento del tubo endotraqueal."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "intubación", "ventilación_mecánica"],
+    "feedback": "La intubación selectiva del bronquio derecho ocurre frecuentemente si el tubo se introduce demasiado, causando colapso del pulmón izquierdo y hipoxia."
+  },
+  {
+    "enunciado": "Un paciente con insuficiencia respiratoria aguda en traslado comienza con hipotensión severa tras la intubación orotraqueal. ¿Cuál es la causa más probable?",
+    "opciones": [
+      "Efectos secundarios de los sedantes utilizados.",
+      "Aumento súbito en la presión intracraneal.",
+      "Hipovolemia no corregida y aumento de la presión intratorácica.",
+      "Neumotórax bilateral secundario a la ventilación mecánica."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "insuficiencia_respiratoria"],
+    "feedback": "La hipovolemia no corregida combinada con el aumento de la presión intratorácica durante la ventilación mecánica puede reducir el retorno venoso, causando hipotensión severa."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente crítico con arritmia ventricular sostenida, ¿cuál es la acción más apropiada si el paciente está inestable hemodinámicamente?",
+    "opciones": [
+      "Administrar amiodarona en bolo intravenoso.",
+      "Aplicar cardioversión eléctrica sincronizada.",
+      "Iniciar masaje cardíaco mientras se prepara la desfibrilación.",
+      "Observar al paciente mientras se monitorizan signos vitales."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "arritmias"],
+    "feedback": "En un paciente con arritmia ventricular sostenida e inestabilidad hemodinámica, la cardioversión eléctrica sincronizada es la intervención más efectiva y recomendada."
+  },
+  {
+    "enunciado": "Un paciente con sospecha de embolia pulmonar masiva presenta un deterioro súbito durante el traslado. ¿Qué medida inicial debe implementarse?",
+    "opciones": [
+      "Realizar trombólisis inmediata sin confirmación diagnóstica.",
+      "Iniciar ventilación no invasiva para mejorar la oxigenación.",
+      "Administrar fluidos intravenosos de forma agresiva.",
+      "Iniciar heparina intravenosa mientras se estabiliza al paciente."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "embolia_pulmonar"],
+    "feedback": "La heparina intravenosa debe iniciarse de forma inmediata para prevenir la progresión del trombo, incluso antes de la confirmación diagnóstica en un paciente inestable."
+  },
+  {
+    "enunciado": "Un paciente con trauma craneoencefálico severo está siendo trasladado. ¿Qué nivel de presión arterial sistólica (PAS) debe mantenerse para optimizar la perfusión cerebral?",
+    "opciones": [
+      "PAS superior a 90 mmHg.",
+      "PAS entre 70-90 mmHg.",
+      "PAS entre 100-120 mmHg.",
+      "PAS superior a 130 mmHg."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "Es crucial mantener la PAS superior a 90 mmHg para garantizar una adecuada presión de perfusión cerebral en pacientes con trauma craneoencefálico."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con insuficiencia cardíaca descompensada, ¿qué intervención está contraindicada si presenta hipotensión severa?",
+    "opciones": [
+      "Administrar bolos rápidos de cristaloides.",
+      "Iniciar infusión de vasopresores para mantener la presión arterial media.",
+      "Administrar fármacos inotrópicos como dobutamina.",
+      "Usar nitroglicerina para aliviar la congestión pulmonar."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "insuficiencia_cardiaca"],
+    "feedback": "El uso de nitroglicerina está contraindicado en pacientes con insuficiencia cardíaca descompensada e hipotensión, ya que puede agravar la inestabilidad hemodinámica."
+  },
+  {
+    "enunciado": "Durante un traslado interhospitalario, un paciente pediátrico con meningitis bacteriana comienza con signos de herniación cerebral. ¿Qué intervención es más adecuada para estabilizarlo?",
+    "opciones": [
+      "Administrar manitol en bolo intravenoso.",
+      "Iniciar dexametasona como tratamiento exclusivo.",
+      "Hiperventilar al paciente de manera sostenida.",
+      "Mantenerlo en posición supina sin elevación de la cabeza."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas", "meningitis"],
+    "feedback": "El manitol es un agente osmótico que ayuda a reducir la presión intracraneal rápidamente en situaciones de herniación cerebral."
+  },
+  {
+    "enunciado": "En un paciente con quemaduras por inhalación de humo, ¿cuál es el parámetro más importante a monitorizar durante el traslado?",
+    "opciones": [
+      "Frecuencia respiratoria y patrón ventilatorio.",
+      "Nivel de carboxihemoglobina en sangre.",
+      "Saturación de oxígeno medida por pulsioximetría.",
+      "Presión arterial sistémica y diuresis horaria."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "quemaduras"],
+    "feedback": "El nivel de carboxihemoglobina es crucial en pacientes con inhalación de humo, ya que una intoxicación por monóxido de carbono puede no detectarse con pulsioximetría convencional."
+  },
+  {
+    "enunciado": "En un paciente con sospecha de taponamiento cardíaco durante un traslado, ¿qué hallazgo clínico es más característico?",
+    "opciones": [
+      "Incremento de la presión diferencial.",
+      "Ruidos cardíacos apagados, presión venosa yugular elevada y caída de la presión arterial.",
+      "Desviación de la tráquea hacia el lado contralateral.",
+      "Ausencia de pulsos periféricos con extremidades cianóticas."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_cardíacas"],
+    "feedback": "La tríada de Beck, compuesta por ruidos cardíacos apagados, presión venosa yugular elevada y caída de la presión arterial, es característica del taponamiento cardíaco."
+  },
+  {
+    "enunciado": "Un paciente con ACV isquémico agudo está siendo trasladado para trombectomía mecánica. ¿Qué parámetro debe priorizarse en su manejo durante el traslado?",
+    "opciones": [
+      "Mantener una presión arterial sistólica menor a 120 mmHg.",
+      "Evitar hiperglucemia manteniendo niveles de glucosa por debajo de 80 mg/dL.",
+      "Controlar la saturación de oxígeno para que se mantenga ≥94%.",
+      "Administrar anticoagulantes para prevenir la progresión del trombo."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "ACV"],
+    "feedback": "Mantener una saturación de oxígeno adecuada es fundamental para minimizar el daño tisular durante el traslado de un paciente con ACV isquémico."
+  },
+  {
+    "enunciado": "En el traslado de un paciente crítico con sospecha de sepsis abdominal, ¿cuál es el antibiótico de elección inicial mientras se esperan resultados microbiológicos?",
+    "opciones": [
+      "Amoxicilina-clavulánico.",
+      "Vancomicina.",
+      "Meropenem.",
+      "Ciprofloxacino."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "sepsis"],
+    "feedback": "Meropenem es un antibiótico de amplio espectro que cubre patógenos intrabdominales comunes y es útil en casos de sepsis abdominal severa."
+  },
+  {
+    "enunciado": "Un paciente con síndrome coronario agudo comienza con bradicardia severa y signos de hipoperfusión durante el traslado. ¿Cuál es la intervención inmediata indicada?",
+    "opciones": [
+      "Iniciar infusión de nitroglicerina.",
+      "Administrar atropina intravenosa.",
+      "Realizar cardioversión eléctrica sincronizada.",
+      "Iniciar masaje cardíaco de forma preventiva."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_cardiacas"],
+    "feedback": "La atropina es el tratamiento inicial de elección en casos de bradicardia sintomática con signos de hipoperfusión."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con trauma raquimedular, ¿cuál es la posición adecuada para prevenir complicaciones secundarias?",
+    "opciones": [
+      "Posición semisentada con soporte lumbar.",
+      "Decúbito supino con alineación neutra de la columna.",
+      "Decúbito lateral para prevenir aspiración.",
+      "Fowler a 45 grados para facilitar la ventilación."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_raquimedular"],
+    "feedback": "La alineación neutra en decúbito supino es fundamental para evitar lesiones adicionales en pacientes con trauma raquimedular."
+  },
+  {
+    "enunciado": "En un paciente en traslado con intoxicación por opioides, se administra naloxona. ¿Qué riesgo debe monitorearse tras su administración?",
+    "opciones": [
+      "Hipoventilación secundaria al efecto del opioide residual.",
+      "Crisis hipertensiva por antagonismo abrupto.",
+      "Convulsiones por sobredosis de naloxona.",
+      "Broncoconstricción secundaria al bloqueo del opioide."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "intoxicaciones"],
+    "feedback": "La administración de naloxona puede causar crisis hipertensivas o arritmias debido al antagonismo abrupto en pacientes con dependencia a opioides."
+  },
+  {
+    "enunciado": "Un paciente intubado comienza a presentar hipoxemia y presión arterial baja durante el traslado. ¿Qué diagnóstico es más probable si los sonidos respiratorios están ausentes en un lado del tórax?",
+    "opciones": [
+      "Edema pulmonar agudo.",
+      "Neumotórax a tensión.",
+      "Aspiración de contenido gástrico.",
+      "Embolia pulmonar masiva."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "La combinación de hipoxemia, hipotensión y ausencia de sonidos respiratorios en un lado del tórax es altamente sugestiva de neumotórax a tensión."
+  },
+  {
+    "enunciado": "En el manejo de un paciente crítico con trauma torácico cerrado y sospecha de contusión pulmonar, ¿cuál es la estrategia ventilatoria más adecuada durante el traslado?",
+    "opciones": [
+      "Usar altos volúmenes corrientes para garantizar la oxigenación.",
+      "Aplicar ventilación con presión positiva al final de la espiración (PEEP) moderada.",
+      "Evitar el uso de PEEP para prevenir el barotrauma.",
+      "Mantener una FiO2 constante del 100% durante todo el traslado."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_torácico"],
+    "feedback": "La aplicación de PEEP moderada es clave en la contusión pulmonar para evitar el colapso alveolar y mejorar la oxigenación, reduciendo el riesgo de daño adicional."
+  },
+  {
+    "enunciado": "Un paciente pediátrico con epiglotitis se encuentra en traslado hacia un centro de mayor complejidad. ¿Cuál es la prioridad absoluta durante el traslado?",
+    "opciones": [
+      "Administrar antibióticos intravenosos lo antes posible.",
+      "Evitar cualquier procedimiento que pueda agitar al niño.",
+      "Colocar una vía aérea avanzada de inmediato, independientemente del estado clínico.",
+      "Proveer líquidos intravenosos a velocidad de mantenimiento."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas"],
+    "feedback": "En casos de epiglotitis, evitar la agitación del niño es prioritario para prevenir la obstrucción completa de la vía aérea."
+  },
+  {
+    "enunciado": "En un traslado aéreo, un paciente con neumotórax simple no tratado desarrolla inestabilidad hemodinámica y dificultad respiratoria. ¿Qué acción inmediata debe tomarse?",
+    "opciones": [
+      "Administrar oxígeno a alto flujo y continuar monitorización.",
+      "Realizar punción descompresiva de tórax.",
+      "Colocar un drenaje torácico antes del aterrizaje.",
+      "Incrementar la presión positiva en el ventilador mecánico."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "traslado_aéreo"],
+    "feedback": "La punción descompresiva es esencial para aliviar rápidamente un neumotórax a tensión, una complicación común en traslados aéreos debido a la reducción de presión atmosférica."
+  },
+  {
+    "enunciado": "En un paciente con sepsis y requerimiento de norepinefrina para mantener la presión arterial, ¿qué parámetro debe monitorizarse estrechamente durante el traslado?",
+    "opciones": [
+      "Frecuencia cardíaca.",
+      "Diuresis horaria.",
+      "Temperatura corporal.",
+      "Niveles de lactato sérico."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "sepsis"],
+    "feedback": "El monitoreo del lactato sérico es fundamental en la sepsis para evaluar la perfusión tisular y guiar la terapia."
+  },
+  {
+    "enunciado": "En un paciente con trauma craneoencefálico en traslado, comienzan a observarse signos de triada de Cushing (hipertensión, bradicardia y alteraciones respiratorias). ¿Cuál es la intervención inicial más adecuada?",
+    "opciones": [
+      "Iniciar vasopresores para mantener la presión arterial.",
+      "Administrar un bolo de manitol o solución hipertónica.",
+      "Colocar al paciente en posición supina con la cabeza plana.",
+      "Hiperventilar de forma agresiva para reducir la presión intracraneal."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "La administración de manitol o solución hipertónica ayuda a reducir la presión intracraneal rápidamente y es crucial en pacientes con signos de herniación cerebral inminente."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con insuficiencia respiratoria secundaria a síndrome de distrés respiratorio agudo (SDRA), ¿cuál es la estrategia ventilatoria ideal?",
+    "opciones": [
+      "Volúmenes corrientes altos para maximizar la oxigenación.",
+      "Ventilación en decúbito prono para mejorar la relación ventilación-perfusión.",
+      "Ventilación protectora con volúmenes corrientes bajos (4-6 mL/kg de peso ideal).",
+      "Usar presión positiva al final de la espiración (PEEP) mínima para evitar barotrauma."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "La ventilación protectora con volúmenes corrientes bajos reduce el riesgo de barotrauma y volutrauma, siendo esencial en pacientes con SDRA."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con crisis hipertensiva, comienzan a aparecer signos de insuficiencia renal aguda. ¿Qué intervención es prioritaria?",
+    "opciones": [
+      "Iniciar tratamiento con diuréticos de asa de inmediato.",
+      "Reducir la presión arterial de manera gradual con antihipertensivos intravenosos.",
+      "Aumentar la velocidad de infusión de líquidos intravenosos.",
+      "Administrar bicarbonato para prevenir la acidosis metabólica."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "crisis_hipertensiva"],
+    "feedback": "En una crisis hipertensiva con insuficiencia renal aguda, la reducción gradual de la presión arterial con antihipertensivos intravenosos previene complicaciones adicionales."
+  },
+  {
+    "enunciado": "En el contexto de un paro cardíaco por fibrilación ventricular durante un traslado, se realiza una desfibrilación exitosa. ¿Qué medida debe implementarse de inmediato?",
+    "opciones": [
+      "Administrar un bolo de bicarbonato de sodio.",
+      "Continuar con RCP durante 2 minutos antes de reevaluar.",
+      "Iniciar ventilación asistida con presión positiva inmediata.",
+      "Realizar otra desfibrilación inmediata para consolidar el ritmo."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "paro_cardiaco"],
+    "feedback": "Después de una desfibrilación exitosa, se debe continuar con RCP durante 2 minutos antes de reevaluar el ritmo y el estado del paciente, según las guías ACLS."
+  },
+  {
+    "enunciado": "Un paciente con intoxicación por benzodiacepinas está siendo trasladado. ¿Cuál es el riesgo principal tras la administración de flumazenil como antídoto?",
+    "opciones": [
+      "Bradicardia severa.",
+      "Crisis convulsivas.",
+      "Hipotensión profunda.",
+      "Hipoxemia por depresión respiratoria persistente."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "intoxicaciones"],
+    "feedback": "El flumazenil puede inducir crisis convulsivas en pacientes con dependencia a benzodiacepinas o cuando hay sobredosis combinada con otros depresores del sistema nervioso central."
+  },
+  {
+    "enunciado": "Un paciente en traslado presenta hiperpotasemia severa (>6,5 mEq/L) con cambios en el ECG. ¿Cuál es el tratamiento inicial más adecuado para estabilizar la membrana cardíaca?",
+    "opciones": [
+      "Administrar bicarbonato de sodio intravenoso.",
+      "Administrar calcio intravenoso.",
+      "Iniciar infusión de insulina con glucosa.",
+      "Realizar diálisis de emergencia."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "alteraciones_electrolíticas"],
+    "feedback": "El calcio intravenoso estabiliza la membrana cardíaca y es el tratamiento inicial en casos de hiperpotasemia severa con alteraciones en el ECG."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con trauma abdominal cerrado y signos de shock hipovolémico, ¿cuál es la prioridad inicial en el manejo?",
+    "opciones": [
+      "Administrar líquidos cristaloides en grandes volúmenes.",
+      "Realizar un lavado peritoneal diagnóstico durante el traslado.",
+      "Iniciar transfusión de hemoderivados tan pronto como sea posible.",
+      "Administrar vasopresores para estabilizar la presión arterial."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_abdominal"],
+    "feedback": "La transfusión de hemoderivados es crucial en el manejo del shock hemorrágico para restaurar la volemia y la oxigenación tisular, especialmente en trauma abdominal severo."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con intoxicación por organofosforados, ¿cuál es el tratamiento más importante que debe garantizarse?",
+    "opciones": [
+      "Administrar carbón activado para limitar la absorción.",
+      "Administrar atropina hasta alcanzar la resolución de los síntomas muscarínicos.",
+      "Iniciar bicarbonato intravenoso para corregir la acidosis metabólica.",
+      "Utilizar diuréticos para aumentar la eliminación renal."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "intoxicaciones"],
+    "feedback": "La atropina es el tratamiento principal en la intoxicación por organofosforados, utilizada para revertir los efectos muscarínicos como la bradicardia y la hipersecreción."
+  },
+  {
+    "enunciado": "En un paciente ventilado mecánicamente que presenta una disminución progresiva de la saturación de oxígeno durante el traslado, ¿cuál sería la primera medida diagnóstica a realizar?",
+    "opciones": [
+      "Revisar la correcta colocación del tubo endotraqueal.",
+      "Aumentar la fracción inspirada de oxígeno (FiO2).",
+      "Administrar un bolo de suero salino para mejorar la perfusión.",
+      "Suspender la sedación para evaluar la respuesta del paciente."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "La revisión de la colocación del tubo endotraqueal es la primera medida diagnóstica en pacientes ventilados que presentan hipoxemia, ya que el desplazamiento del tubo puede comprometer la ventilación."
+  },
+  {
+    "enunciado": "Un paciente politraumatizado con fracturas múltiples está en traslado. Comienza a presentar disnea, taquipnea y petequias en el tronco superior. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      "Neumonía por aspiración.",
+      "Tromboembolia pulmonar.",
+      "Síndrome de embolia grasa.",
+      "Contusión pulmonar bilateral."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "politraumatismo"],
+    "feedback": "El síndrome de embolia grasa se asocia frecuentemente con fracturas de huesos largos y se manifiesta por disnea, taquipnea y petequias características."
+  },
+  {
+    "enunciado": "En un paciente con quemaduras eléctricas extensas, ¿qué complicación cardiovascular debe monitorizarse de forma prioritaria durante el traslado?",
+    "opciones": [
+      "Arritmias cardíacas.",
+      "Hipotensión secundaria al shock hipovolémico.",
+      "Hipertensión arterial transitoria.",
+      "Taponamiento cardíaco."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "quemaduras"],
+    "feedback": "Las quemaduras eléctricas pueden causar daño miocárdico directo, lo que predispone al desarrollo de arritmias, especialmente en las primeras horas tras la lesión."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con síndrome de Guillain-Barré, presenta una disminución de la capacidad vital forzada por debajo de 15 mL/kg. ¿Cuál es la intervención inmediata indicada?",
+    "opciones": [
+      "Iniciar tratamiento con inmunoglobulina intravenosa.",
+      "Administrar corticosteroides para reducir la inflamación.",
+      "Intubación orotraqueal e iniciar ventilación mecánica.",
+      "Aplicar oxígeno suplementario mediante mascarilla."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_neuromusculares"],
+    "feedback": "La disminución de la capacidad vital forzada por debajo de 15 mL/kg es un criterio para intubación, ya que indica riesgo inminente de insuficiencia respiratoria en pacientes con Guillain-Barré."
+  },
+  {
+    "enunciado": "Un paciente con sospecha de taponamiento cardíaco secundario a trauma presenta hipotensión, distensión venosa yugular y ruidos cardíacos apagados. ¿Cuál es la intervención inicial más indicada?",
+    "opciones": [
+      "Administrar líquidos intravenosos para mejorar el retorno venoso.",
+      "Iniciar vasopresores para mantener la presión arterial.",
+      "Realizar una pericardiocentesis urgente.",
+      "Monitorizar signos vitales sin intervención hasta llegar al hospital."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_torácico"],
+    "feedback": "La pericardiocentesis urgente es el tratamiento de elección para aliviar la compresión del corazón en casos de taponamiento cardíaco traumático."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con hipoglucemia severa que no responde al glucagón intramuscular, ¿cuál es el siguiente paso en el manejo?",
+    "opciones": [
+      "Administrar solución glucosada al 5% en infusión continua.",
+      "Iniciar solución glucosada al 10% en bolo intravenoso.",
+      "Administrar insulina rápida para corregir la hipoglucemia reactiva.",
+      "Evitar administrar más glucosa para prevenir hiperglucemia."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_metabólicas"],
+    "feedback": "En hipoglucemias severas que no responden al glucagón, un bolo intravenoso de solución glucosada al 10% permite corregir rápidamente la hipoglucemia."
+  },
+  {
+    "enunciado": "Un paciente con antecedentes de insuficiencia renal crónica presenta edema pulmonar agudo durante el traslado. ¿Cuál es la intervención inicial más indicada?",
+    "opciones": [
+      "Administrar diuréticos de asa como furosemida.",
+      "Iniciar infusión de líquidos isotónicos.",
+      "Administrar albúmina para aumentar la presión oncótica.",
+      "Realizar ventilación no invasiva con presión positiva (CPAP)."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "insuficiencia_renal"],
+    "feedback": "La ventilación no invasiva con presión positiva (CPAP) mejora rápidamente la oxigenación y reduce la precarga en pacientes con edema pulmonar agudo."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con intoxicación por paracetamol, ¿qué criterio determina la necesidad de administrar N-acetilcisteína?",
+    "opciones": [
+      "Concentración plasmática de paracetamol superior al nivel tóxico según el nomograma de Rumack-Matthew.",
+      "Presencia de náuseas y vómitos persistentes.",
+      "Elevación de las transaminasas hepáticas.",
+      "Tiempo de ingesta mayor a 24 horas."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "intoxicaciones"],
+    "feedback": "La decisión de administrar N-acetilcisteína se basa en la concentración plasmática de paracetamol y el tiempo desde la ingesta, según el nomograma de Rumack-Matthew."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con trauma craneoencefálico, este comienza a desarrollar midriasis unilateral fija. ¿Cuál es la causa más probable?",
+    "opciones": [
+      "Compresión del nervio oculomotor por herniación uncal.",
+      "Isquemia cerebral global por hipoperfusión.",
+      "Hematoma epidural bilateral con compromiso ocular.",
+      "Aumento de la presión intraocular secundario al trauma."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "La midriasis unilateral fija es un signo característico de la compresión del nervio oculomotor causada por herniación uncal, lo que requiere intervención inmediata."
+  },
+  {
+    "enunciado": "Un paciente pediátrico presenta signos de bronquiolitis severa durante un traslado. ¿Cuál es la intervención inicial más importante?",
+    "opciones": [
+      "Iniciar antibióticos de amplio espectro.",
+      "Administrar solución salina hipertónica nebulizada.",
+      "Proveer soporte con oxígeno suplementario para mantener saturación ≥90%.",
+      "Realizar aspiración nasofaríngea frecuente para despejar las vías aéreas."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas", "bronquiolitis"],
+    "feedback": "El objetivo principal en bronquiolitis severa es mantener una saturación de oxígeno ≥90% mediante soporte con oxígeno suplementario."
+  },
+  {
+    "enunciado": "En el traslado de un paciente con hemorragia subaracnoidea espontánea, ¿qué intervención es crucial para evitar el deterioro neurológico?",
+    "opciones": [
+      "Administrar agentes antifibrinolíticos como ácido tranexámico.",
+      "Controlar estrictamente la presión arterial para mantenerla <140 mmHg.",
+      "Administrar nimodipino para prevenir el vasoespasmo cerebral.",
+      "Iniciar anticoagulación para prevenir trombosis venosa cerebral."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_neurológicas"],
+    "feedback": "El nimodipino es esencial para prevenir el vasoespasmo cerebral, una complicación común y grave de la hemorragia subaracnoidea espontánea."
+  },
+  {
+    "enunciado": "En un paciente con insuficiencia respiratoria aguda secundaria a anafilaxia, ¿cuál es el primer tratamiento que debe administrarse?",
+    "opciones": [
+      "Corticosteroides intravenosos para reducir la inflamación.",
+      "Adrenalina intramuscular en la cara anterolateral del muslo.",
+      "Antihistamínicos intravenosos para bloquear la liberación de histamina.",
+      "Broncodilatadores inhalados para aliviar la obstrucción bronquial."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "anafilaxia"],
+    "feedback": "La adrenalina intramuscular es el tratamiento de primera línea en la anafilaxia, ya que contrarresta rápidamente la vasodilatación y la obstrucción de las vías respiratorias."
+  },
+  {
+    "enunciado": "Un paciente con síndrome de abdomen compartimental (SAC) presenta hipotensión refractaria durante el traslado. ¿Qué intervención inicial es más adecuada?",
+    "opciones": [
+      "Administrar líquidos intravenosos a alto flujo para mejorar la perfusión.",
+      "Descomprimir quirúrgicamente el abdomen de forma urgente.",
+      "Iniciar soporte vasopresor con norepinefrina.",
+      "Colocar al paciente en posición de Trendelemburg para mejorar la presión arterial."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "abdomen_compartimental"],
+    "feedback": "La descompresión quirúrgica es el tratamiento de elección para el síndrome de abdomen compartimental, ya que alivia la presión intraabdominal y mejora la perfusión sistémica."
+  },
+  {
+    "enunciado": "En un paciente con crisis suprarrenal aguda en traslado, ¿qué intervención debe priorizarse?",
+    "opciones": [
+      "Administrar hidrocortisona intravenosa de forma inmediata.",
+      "Iniciar vasopresores para mantener la presión arterial media.",
+      "Administrar suero glucosado para prevenir hipoglucemia.",
+      "Administrar solución salina hipertónica para corregir la hiponatremia."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "crisis_suprarrenal"],
+    "feedback": "La hidrocortisona intravenosa es el tratamiento esencial en la crisis suprarrenal aguda, ya que sustituye la insuficiencia de glucocorticoides y estabiliza al paciente."
+  },
+  {
+    "enunciado": "Un paciente con hiponatremia severa (<120 mEq/L) presenta convulsiones durante el traslado. ¿Cuál es el tratamiento inicial indicado?",
+    "opciones": [
+      "Administrar solución salina hipertónica al 3%.",
+      "Iniciar infusión de solución salina al 0.9%.",
+      "Administrar diuréticos de asa para corregir la hiponatremia.",
+      "Tratar las convulsiones con benzodiacepinas sin corregir el sodio."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "alteraciones_electrolíticas"],
+    "feedback": "En casos de hiponatremia severa con síntomas graves como convulsiones, la solución salina hipertónica al 3% es el tratamiento indicado para elevar el sodio de forma controlada."
+  },
+  {
+    "enunciado": "Un paciente con hematoma epidural está siendo trasladado. Presenta una breve recuperación del estado de conciencia seguida de un rápido deterioro neurológico. ¿Cuál es la acción más urgente?",
+    "opciones": [
+      "Administrar manitol para reducir la presión intracraneal.",
+      "Hiperoxigenar al paciente con FiO2 al 100%.",
+      "Realizar una intervención quirúrgica inmediata para evacuar el hematoma.",
+      "Monitorizar al paciente hasta la llegada al hospital."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "El hematoma epidural con deterioro neurológico agudo requiere evacuación quirúrgica urgente para evitar el daño cerebral irreversible y la herniación."
+  },
+  {
+    "enunciado": "Un paciente con tétanos generalizado comienza a desarrollar espasmos musculares severos durante el traslado. ¿Cuál es la intervención más adecuada para controlarlos?",
+    "opciones": [
+      "Administrar diazepam intravenoso.",
+      "Iniciar tratamiento con inmunoglobulina antitetánica.",
+      "Aplicar magnesio intravenoso.",
+      "Proveer oxígeno suplementario para prevenir hipoxemia."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_infecciosas"],
+    "feedback": "El diazepam es efectivo para controlar los espasmos musculares en pacientes con tétanos generalizado, al actuar como relajante muscular central."
+  },
+  {
+    "enunciado": "Un paciente en traslado con intoxicación por metanol presenta visión borrosa y acidosis metabólica severa. ¿Cuál es el tratamiento específico más indicado?",
+    "opciones": [
+      "Administrar etanol o fomepizol para inhibir la alcohol deshidrogenasa.",
+      "Iniciar bicarbonato intravenoso para corregir la acidosis.",
+      "Administrar carbón activado para limitar la absorción del tóxico.",
+      "Iniciar diálisis inmediata para eliminar el tóxico del organismo."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "intoxicaciones"],
+    "feedback": "El etanol o el fomepizol son inhibidores de la alcohol deshidrogenasa que previenen la formación de metabolitos tóxicos en la intoxicación por metanol."
+  },
+  {
+    "enunciado": "Un paciente con traumatismo facial severo comienza a presentar dificultad respiratoria progresiva durante el traslado. ¿Cuál es la prioridad en el manejo de la vía aérea?",
+    "opciones": [
+      "Realizar una cricotiroidotomía quirúrgica de inmediato.",
+      "Administrar oxígeno suplementario mediante mascarilla con reservorio.",
+      "Realizar intubación orotraqueal bajo visión directa con preparación para cricotiroidotomía.",
+      "Iniciar ventilación no invasiva con presión positiva (CPAP)."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "manejo_de_la_vía_aérea"],
+    "feedback": "En pacientes con traumatismo facial severo y compromiso de la vía aérea, la intubación orotraqueal bajo visión directa es prioritaria, pero siempre se debe estar preparado para una vía aérea quirúrgica si falla."
+  },
+  {
+    "enunciado": "Un paciente con politraumatismo y fracturas múltiples presenta signos de shock hipovolémico. Durante el traslado, la presión arterial comienza a descender a pesar de la administración de líquidos. ¿Cuál sería el siguiente paso en el manejo?",
+    "opciones": [
+      "Administrar más líquidos cristaloides en bolos rápidos.",
+      "Iniciar transfusión de concentrados de hematíes.",
+      "Iniciar vasopresores como norepinefrina para mantener la presión arterial.",
+      "Realizar ecografía para descartar neumotórax o hemorragia interna."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma"],
+    "feedback": "En pacientes con shock hipovolémico persistente, la transfusión de hemoderivados es crucial para reponer la pérdida de volumen y mejorar la oxigenación tisular."
+  },
+  {
+    "enunciado": "Un paciente con quemaduras eléctricas presenta mioglobinuria durante el traslado. ¿Qué intervención inicial es la más indicada para prevenir insuficiencia renal aguda?",
+    "opciones": [
+      "Administrar líquidos intravenosos a alta velocidad.",
+      "Iniciar alcalinización urinaria con bicarbonato.",
+      "Administrar diuréticos de asa como furosemida.",
+      "Monitorizar estrictamente el gasto urinario sin intervención inmediata."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "quemaduras"],
+    "feedback": "La alcalinización urinaria con bicarbonato es clave para prevenir la toxicidad renal inducida por la mioglobina liberada tras quemaduras eléctricas."
+  },
+  {
+    "enunciado": "Un paciente con trauma torácico cerrado desarrolla hipotensión, distensión venosa yugular y ruidos cardíacos apagados. ¿Qué diagnóstico es más probable?",
+    "opciones": [
+      "Neumotórax a tensión.",
+      "Hemotórax masivo.",
+      "Taponamiento cardíaco.",
+      "Contusión pulmonar severa."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_torácico"],
+    "feedback": "La tríada de Beck (hipotensión, distensión yugular y ruidos cardíacos apagados) es indicativa de taponamiento cardíaco, una emergencia que requiere drenaje pericárdico inmediato."
+  },
+  {
+    "enunciado": "Un paciente intubado presenta hipoxemia súbita durante el traslado. Tras descartar una desconexión del ventilador, ¿cuál es el siguiente paso más adecuado?",
+    "opciones": [
+      "Aumentar la FiO2 al 100% temporalmente.",
+      "Realizar una maniobra de reclutamiento alveolar.",
+      "Evaluar la colocación del tubo endotraqueal mediante capnografía y auscultación.",
+      "Administrar un bolo de líquidos para mejorar la perfusión tisular."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "La hipoxemia súbita en un paciente intubado puede ser causada por el desplazamiento del tubo endotraqueal, que debe confirmarse mediante capnografía y auscultación."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente con crisis hipertensiva y encefalopatía hipertensiva, ¿cuál es el objetivo terapéutico principal en la reducción de la presión arterial?",
+    "opciones": [
+      "Reducir la presión arterial media (PAM) un 25% en las primeras 2 horas.",
+      "Lograr una presión arterial sistólica menor a 140 mmHg en los primeros 30 minutos.",
+      "Evitar reducir la presión arterial para mantener la perfusión cerebral.",
+      "Disminuir la presión arterial al rango normal en menos de una hora."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "crisis_hipertensiva"],
+    "feedback": "En la encefalopatía hipertensiva, la presión arterial debe reducirse gradualmente para evitar isquemia, con un objetivo inicial del 25% en las primeras 2 horas."
+  },
+  {
+    "enunciado": "Un paciente en traslado desarrolla bradicardia severa asociada a hipotensión. ¿Qué tratamiento inicial está indicado si no responde a la atropina?",
+    "opciones": [
+      "Administrar dopamina en infusión continua.",
+      "Realizar desfibrilación sincronizada.",
+      "Colocar un marcapasos transcutáneo.",
+      "Iniciar ventilación no invasiva para mejorar la oxigenación."
+    ],
+    "correcta": 2,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_cardiacas"],
+    "feedback": "Si la bradicardia no responde a atropina, el marcapasos transcutáneo es la medida inicial indicada para estabilizar al paciente hemodinámicamente."
+  },
+  {
+    "enunciado": "Un paciente en traslado con acidosis metabólica severa presenta K+ sérico elevado (6,8 mEq/L). ¿Cuál es la primera intervención para estabilizar la membrana miocárdica?",
+    "opciones": [
+      "Administrar calcio intravenoso.",
+      "Iniciar diálisis de emergencia.",
+      "Administrar bicarbonato sódico intravenoso.",
+      "Iniciar infusión de insulina con glucosa."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "alteraciones_electrolíticas"],
+    "feedback": "El calcio intravenoso estabiliza la membrana miocárdica y previene arritmias graves asociadas a hiperpotasemia severa."
+  },
+  {
+    "enunciado": "En un paciente pediátrico con sospecha de torsión testicular durante el traslado, ¿qué intervención es prioritaria?",
+    "opciones": [
+      "Administrar analgésicos potentes para aliviar el dolor.",
+      "Iniciar terapia antibiótica para prevenir infecciones.",
+      "Programar una cirugía urgente en el destino final.",
+      "Intentar la detorsión manual inmediata si es posible."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas"],
+    "feedback": "La detorsión manual inmediata puede salvar el testículo si se realiza de forma temprana. Sin embargo, debe confirmarse con cirugía posterior."
+  },
+  {
+    "enunciado": "Un paciente con traumatismo craneoencefálico grave desarrolla hiperventilación espontánea durante el traslado. ¿Cuál es la causa más probable?",
+    "opciones": [
+      "Hipoxia por aumento de la presión intracraneal.",
+      "Daño en el tronco encefálico que afecta el centro respiratorio.",
+      "Acidosis metabólica secundaria a hipoperfusión cerebral.",
+      "Hiperventilación refleja para disminuir la presión intracraneal."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "El daño en el tronco encefálico puede causar patrones respiratorios anormales como hiperventilación central, reflejando disfunción neurológica severa."
+  },
+  {
+    "enunciado": "Un paciente con sospecha de embolia pulmonar masiva presenta inestabilidad hemodinámica durante el traslado. ¿Cuál es el tratamiento inicial más indicado en este caso?",
+    "opciones": [
+      "Administrar anticoagulación con heparina no fraccionada.",
+      "Realizar trombólisis sistémica inmediata.",
+      "Iniciar ventilación no invasiva para mejorar la oxigenación.",
+      "Administrar líquidos cristaloides en grandes volúmenes."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "embolia_pulmonar"],
+    "feedback": "La trombólisis sistémica es el tratamiento de elección en pacientes con embolia pulmonar masiva e inestabilidad hemodinámica, ya que puede resolver rápidamente la obstrucción vascular."
+  },
+  {
+    "enunciado": "En un paciente con pancreatitis aguda severa en traslado, ¿cuál es la intervención más importante para prevenir complicaciones tempranas?",
+    "opciones": [
+      "Iniciar antibióticos profilácticos de amplio espectro.",
+      "Administrar líquidos intravenosos a alta velocidad.",
+      "Proveer analgesia con opioides para controlar el dolor.",
+      "Administrar inhibidores de la secreción gástrica como omeprazol."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_abdominales"],
+    "feedback": "La reposición agresiva de líquidos intravenosos es clave en pancreatitis aguda severa para mantener la perfusión de órganos y prevenir insuficiencia orgánica."
+  },
+  {
+    "enunciado": "Un paciente en traslado presenta un Glasgow de 6 tras un trauma craneoencefálico. ¿Qué intervención debe priorizarse para optimizar la oxigenación cerebral?",
+    "opciones": [
+      "Administrar líquidos hipertónicos para reducir el edema cerebral.",
+      "Proveer ventilación mecánica para mantener una normocapnia.",
+      "Administrar manitol para disminuir la presión intracraneal.",
+      "Realizar intubación nasotraqueal para proteger la vía aérea."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma_craneoencefálico"],
+    "feedback": "La ventilación mecánica con normocapnia (PaCO2 35-40 mmHg) es esencial para evitar la vasodilatación cerebral excesiva y mantener una adecuada oxigenación cerebral."
+  },
+  {
+    "enunciado": "Durante el traslado de un paciente pediátrico con choque hipovolémico, se administra un bolo inicial de líquidos. ¿Qué parámetro debe monitorizarse para evaluar la respuesta?",
+    "opciones": [
+      "Frecuencia respiratoria.",
+      "Presión arterial media (PAM).",
+      "Diuresis horaria.",
+      "Frecuencia cardíaca."
+    ],
+    "correcta": 3,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_pediátricas"],
+    "feedback": "La frecuencia cardíaca es un indicador temprano y sensible de la respuesta al tratamiento en niños con choque hipovolémico."
+  },
+  {
+    "enunciado": "Un paciente con insuficiencia respiratoria aguda presenta una PaO2/FiO2 de 120 durante la ventilación mecánica en traslado. ¿Cómo debe ajustarse la estrategia ventilatoria?",
+    "opciones": [
+      "Incrementar la presión positiva al final de la espiración (PEEP).",
+      "Disminuir los volúmenes corrientes para evitar barotrauma.",
+      "Aumentar la FiO2 al 100% de manera sostenida.",
+      "Reducir la frecuencia respiratoria para prevenir hipocapnia."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "ventilación_mecánica"],
+    "feedback": "Incrementar la PEEP mejora la oxigenación al reclutar alveolos colapsados en pacientes con insuficiencia respiratoria aguda severa."
+  },
+  {
+    "enunciado": "Un paciente con hiperkalemia severa presenta ondas T picudas en el ECG. ¿Qué intervención debe realizarse primero?",
+    "opciones": [
+      "Administrar insulina con glucosa intravenosa.",
+      "Administrar calcio intravenoso para estabilizar la membrana miocárdica.",
+      "Iniciar hemodiálisis de emergencia.",
+      "Administrar bicarbonato de sodio para corregir la acidosis."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "alteraciones_electrolíticas"],
+    "feedback": "El calcio intravenoso estabiliza la membrana miocárdica, previniendo arritmias potencialmente mortales en pacientes con hiperkalemia severa."
+  },
+  {
+    "enunciado": "Un paciente politraumatizado comienza con hipotermia durante el traslado. ¿Qué complicación grave se asocia frecuentemente a la tríada letal del trauma?",
+    "opciones": [
+      "Hipoglucemia.",
+      "Acidosis metabólica.",
+      "Hiponatremia severa.",
+      "Insuficiencia renal aguda."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "trauma"],
+    "feedback": "La tríada letal del trauma incluye hipotermia, coagulopatía y acidosis metabólica, y estas condiciones deben ser prevenidas y tratadas agresivamente."
+  },
+  {
+    "enunciado": "Un paciente con insuficiencia cardíaca descompensada en traslado presenta edema agudo de pulmón. ¿Qué tratamiento inicial es prioritario?",
+    "opciones": [
+      "Administrar diuréticos de asa como furosemida.",
+      "Iniciar ventilación no invasiva con presión positiva.",
+      "Administrar morfina para reducir la ansiedad y la precarga.",
+      "Administrar nitroglicerina en bolo intravenoso."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "insuficiencia_cardiaca"],
+    "feedback": "La ventilación no invasiva con presión positiva (como CPAP o BiPAP) mejora rápidamente la oxigenación y reduce la sobrecarga de líquidos en los pulmones."
+  },
+  {
+    "enunciado": "Un paciente con crisis convulsiva prolongada (estatus epiléptico) está en traslado. ¿Qué medicación debe administrarse inicialmente?",
+    "opciones": [
+      "Fenitoína intravenosa.",
+      "Diazepam intravenoso.",
+      "Midazolam intramuscular.",
+      "Levetiracetam intravenoso."
+    ],
+    "correcta": 1,
+    "categorías": ["tema43", "soportevital_traslados", "emergencias_neurológicas"],
+    "feedback": "El diazepam intravenoso es un tratamiento de primera línea para detener rápidamente las convulsiones en el estatus epiléptico."
+  },
+  {
+    "enunciado": "Un paciente con sepsis presenta oliguria persistente durante el traslado a pesar de la reposición inicial de líquidos. ¿Qué intervención debe considerarse a continuación?",
+    "opciones": [
+      "Iniciar soporte vasopresor con norepinefrina.",
+      "Administrar un segundo bolo de líquidos cristaloides.",
+      "Iniciar transfusión de concentrados de hematíes.",
+      "Administrar diuréticos para estimular la diuresis."
+    ],
+    "correcta": 0,
+    "categorías": ["tema43", "soportevital_traslados", "sepsis"],
+    "feedback": "Si la oliguria persiste a pesar de la reanimación con líquidos en sepsis, es necesario iniciar soporte vasopresor para mantener la perfusión renal y sistémica."
+  }          
+]  

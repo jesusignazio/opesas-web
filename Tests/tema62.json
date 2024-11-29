@@ -322,5 +322,1025 @@
         "correcta": 2,
         "categorías": ["promocion_salud", "empoderamiento"],
         "feedback": "El empoderamiento implica capacitar a las personas y comunidades para identificar sus necesidades y participar activamente en la gestión de su salud."
-      }
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes características NO es fundamental para definir el concepto de comunidad según el tema 62?",
+        "opciones": [
+          "Sentido de pertenencia entre los miembros",
+          "Intereses y objetivos compartidos",
+          "Uniformidad cultural absoluta",
+          "Adaptación y resiliencia ante cambios"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "concepto_comunidad"],
+        "feedback": "El concepto de comunidad enfatiza la identidad y los valores compartidos, pero no implica uniformidad cultural absoluta, ya que las comunidades son diversas y dinámicas."
+      },
+      {
+        "enunciado": "Según la teoría de la salutogénesis, ¿qué componente mide la capacidad de una persona para comprender lo que sucede en su entorno?",
+        "opciones": [
+          "Manejabilidad",
+          "Comprensibilidad",
+          "Significatividad",
+          "Resiliencia"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Comprensibilidad' se refiere al grado en el que una persona puede entender y estructurar los estímulos de su entorno, facilitando su manejo adaptativo."
+      },
+      {
+        "enunciado": "En el modelo salutogénico, ¿qué elemento se relaciona con la percepción de que los recursos necesarios para afrontar demandas están disponibles?",
+        "opciones": [
+          "Resiliencia",
+          "Comprensibilidad",
+          "Significatividad",
+          "Manejabilidad"
+        ],
+        "correcta": 3,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Manejabilidad' evalúa si los recursos, propios o externos, están al alcance para responder a las demandas del entorno."
+      },
+      {
+        "enunciado": "¿Qué término se utiliza para describir las actividades de una comunidad orientadas a identificar y usar recursos favorables para mejorar su salud?",
+        "opciones": [
+          "Manejo de recursos generalizados",
+          "Promoción de la salud",
+          "Mapeo de activos",
+          "Evaluación comunitaria"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El 'Mapeo de activos' identifica recursos dentro de una comunidad que contribuyen a la salud, fortaleciendo estrategias participativas."
+      },
+      {
+        "enunciado": "En la Estrategia de Promoción de Salud en Andalucía, ¿qué se considera como un activo para la salud?",
+        "opciones": [
+          "Cualquier recurso reconocido y utilizado para mejorar el bienestar",
+          "Cualquier recurso físico disponible en la comunidad",
+          "Solo los programas del sistema de salud",
+          "Recursos exclusivamente económicos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "Un activo para la salud incluye cualquier recurso reconocido y aprovechado para mejorar el bienestar individual y comunitario."
+      },
+      {
+        "enunciado": "¿Qué diferencia un recurso de un activo según el modelo de salud comunitaria basada en activos (SCBA)?",
+        "opciones": [
+          "Su localización geográfica",
+          "El uso y reconocimiento por parte de la comunidad",
+          "El coste económico asociado",
+          "La implementación por parte del sistema de salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un recurso se convierte en activo cuando la comunidad lo utiliza y reconoce como beneficioso para la salud y el bienestar."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones refleja un principio clave del modelo salutogénico?",
+        "opciones": [
+          "La salud es un estado dicotómico entre enfermedad y bienestar",
+          "El estrés siempre tiene un impacto negativo en la salud",
+          "La salud se basa en mantener factores de protección y afrontarlos eficazmente",
+          "La salud se define exclusivamente por la ausencia de enfermedad"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El modelo salutogénico plantea que la salud depende de factores de protección y de la capacidad para gestionar eficazmente los retos, incluyendo el estrés."
+      },
+      {
+        "enunciado": "Según el modelo de activos para la salud, ¿qué dimensión del Sentido de Coherencia (SOC) se relaciona con encontrar un propósito en las acciones realizadas?",
+        "opciones": [
+          "Comprensibilidad",
+          "Significatividad",
+          "Manejabilidad",
+          "Autonomía"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Significatividad' se refiere a la capacidad de las personas para otorgar sentido y propósito a sus acciones y experiencias, favoreciendo el bienestar."
+      },
+      {
+        "enunciado": "¿Qué estrategia de promoción de salud es mencionada en el IV Plan Andaluz de Salud para potenciar los activos comunitarios?",
+        "opciones": [
+          "Promoción de hábitos saludables desde instituciones nacionales",
+          "Coordinación entre niveles asistenciales urbanos",
+          "Generación y desarrollo de activos a través de participación comunitaria",
+          "Evaluación constante de recursos económicos en salud"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "El IV Plan Andaluz de Salud destaca la importancia de generar y desarrollar activos mediante la implicación de la comunidad en su uso y planificación."
+      },
+      {
+        "enunciado": "¿Qué diferencia esencial señala el modelo salutogénico frente al modelo patogénico?",
+        "opciones": [
+          "Centrarse en prevenir enfermedades antes de que aparezcan",
+          "Promover hábitos de vida saludables solo en poblaciones vulnerables",
+          "Estudiar los factores que mantienen a las personas sanas en lugar de enfocarse en las enfermedades",
+          "Abordar exclusivamente la atención primaria en salud"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El modelo salutogénico se centra en los factores que promueven la salud y el bienestar, en contraste con el modelo patogénico, que se enfoca en las enfermedades."
+      },
+      {
+        "enunciado": "Según el tema 62, ¿qué elemento es clave en los programas de participación comunitaria en salud?",
+        "opciones": [
+          "La asistencia técnica profesional sin implicación comunitaria",
+          "La participación activa y consciente de la comunidad en todas las fases del proceso",
+          "El control exclusivo por parte de las instituciones de salud",
+          "La implementación de estrategias sin consulta previa a los miembros de la comunidad"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "participacion_comunitaria"],
+        "feedback": "La participación comunitaria implica una colaboración activa, consciente y organizada desde el diseño hasta la evaluación de las acciones de salud."
+      },
+      {
+        "enunciado": "¿Qué característica distingue al enfoque de salud comunitaria respecto a otros enfoques de salud?",
+        "opciones": [
+          "Se basa exclusivamente en tratamientos médicos individualizados",
+          "Enfatiza la atención curativa sobre la preventiva",
+          "Considera las necesidades y la participación de la comunidad como centrales",
+          "Se limita al ámbito hospitalario sin acciones fuera de estos espacios"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salud_comunitaria"],
+        "feedback": "El enfoque de salud comunitaria prioriza la identificación de necesidades y la participación activa de la comunidad para diseñar estrategias de promoción y prevención."
+      },
+      {
+        "enunciado": "¿Qué término describe la capacidad de una comunidad para adaptarse a cambios y superar desafíos en el contexto de salud comunitaria?",
+        "opciones": [
+          "Cohesión social",
+          "Resiliencia",
+          "Salutogénesis",
+          "Adaptabilidad estructural"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "concepto_comunidad"],
+        "feedback": "La resiliencia es la capacidad de la comunidad para enfrentarse a cambios o desafíos, fortaleciendo sus redes y recursos colectivos."
+      },
+      {
+        "enunciado": "¿Qué concepto introdujo Aaron Antonovsky en el marco de la promoción de la salud?",
+        "opciones": [
+          "Prevención primaria",
+          "Modelo de activos",
+          "Salutogénesis",
+          "Atención curativa"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "Antonovsky desarrolló el concepto de salutogénesis, que se enfoca en los factores que favorecen el bienestar y la salud."
+      },
+      {
+        "enunciado": "En el mapeo de activos, ¿cuál es el paso inicial para identificar recursos en una comunidad?",
+        "opciones": [
+          "Realizar el diagnóstico de salud",
+          "Definir la metodología de evaluación",
+          "Formar un grupo motor con diversos actores comunitarios",
+          "Identificar los activos mediante encuestas comunitarias"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El primer paso en el mapeo de activos es formar un grupo motor compuesto por profesionales y ciudadanos, promoviendo la colaboración."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los principios establecidos en la Estrategia de Promoción de una Vida Saludable en Andalucía?",
+        "opciones": [
+          "La exclusión de recursos comunitarios para mantener un enfoque individualizado",
+          "La promoción de estilos de vida saludables en todas las edades y entornos",
+          "El uso exclusivo de tecnología avanzada en la promoción de la salud",
+          "La centralización total de los recursos en instituciones especializadas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "La estrategia andaluza promueve hábitos saludables en todas las etapas de la vida, considerando tanto factores individuales como comunitarios."
+      },
+      {
+        "enunciado": "Según el modelo de activos para la salud, ¿qué debe hacerse si un recurso no es utilizado por la comunidad?",
+        "opciones": [
+          "Eliminar el recurso por falta de interés",
+          "Identificar barreras de accesibilidad y trabajar en su manejabilidad",
+          "Delegar la gestión del recurso a una institución externa",
+          "Reemplazarlo con un recurso diferente"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Si un recurso no se utiliza, el enfoque debe centrarse en identificar y resolver barreras que dificultan su uso, como la accesibilidad o la falta de conocimiento."
+      },
+      {
+        "enunciado": "En el modelo salutogénico, ¿qué metáfora utiliza Antonovsky para explicar la relación entre salud y enfermedad?",
+        "opciones": [
+          "El río de la vida",
+          "La cadena de la salud",
+          "La pirámide del bienestar",
+          "El círculo del equilibrio"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "Antonovsky utiliza la metáfora del río de la vida para representar cómo las personas pueden mantenerse a flote independientemente de las dificultades que enfrenten."
+      },
+      {
+        "enunciado": "¿Qué característica debe tener un activo para ser considerado como tal en el marco de la salud comunitaria?",
+        "opciones": [
+          "Debe estar aprobado por el sistema de salud nacional",
+          "Debe ser reconocido y utilizado por la comunidad",
+          "Debe estar limitado a recursos físicos tangibles",
+          "Debe estar restringido a contextos urbanos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un activo debe ser reconocido y utilizado por la comunidad, pues su valor radica en su capacidad para mejorar el bienestar colectivo."
+      },
+      {
+        "enunciado": "¿Qué enfoque utiliza la Enfermería Comunitaria para promover la salud en una comunidad?",
+        "opciones": [
+          "Un enfoque curativo basado en intervenciones hospitalarias",
+          "La implementación de campañas masivas sin adaptación local",
+          "La valoración integral de individuos, familias y comunidades en su entorno",
+          "La exclusión de factores sociales en la planificación de cuidados"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "enfermeria_comunitaria"],
+        "feedback": "La Enfermería Comunitaria emplea un enfoque integral que considera las características y necesidades del individuo y su comunidad en el contexto de salud."
+      },
+      {
+        "enunciado": "En el contexto de la salud comunitaria, ¿qué elemento diferencia las 'acciones comunitarias' de las 'intervenciones comunitarias'?",
+        "opciones": [
+          "Las intervenciones comunitarias incluyen la participación activa de la comunidad",
+          "Las acciones comunitarias promueven la autonomía y el protagonismo de la comunidad",
+          "Las intervenciones comunitarias son más sostenibles que las acciones comunitarias",
+          "No hay diferencia significativa entre ambos términos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "accion_comunitaria"],
+        "feedback": "El término 'acciones comunitarias' resalta el papel activo y autónomo de la comunidad en la promoción de su salud, evitando connotaciones de control externo."
+      },
+      {
+        "enunciado": "¿Qué componente del Sentido de Coherencia se relaciona con la confianza en los propios recursos para manejar desafíos?",
+        "opciones": [
+          "Comprensibilidad",
+          "Manejabilidad",
+          "Significatividad",
+          "Resiliencia"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Manejabilidad' mide la percepción de una persona sobre la disponibilidad de recursos necesarios para enfrentar las demandas del entorno."
+      },
+      {
+        "enunciado": "¿Cuál es un principio clave del modelo de Salud Comunitaria basada en activos (SCBA)?",
+        "opciones": [
+          "Identificar únicamente factores de riesgo en la comunidad",
+          "Centrarse en las necesidades individuales sin considerar el entorno",
+          "Empoderar a la población para utilizar sus propios recursos en la mejora de su salud",
+          "Delegar completamente la planificación en instituciones de salud"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El modelo SCBA busca empoderar a la comunidad para que aproveche sus propios recursos y capacidades, promoviendo la salud desde un enfoque participativo."
+      },
+      {
+        "enunciado": "¿Qué herramienta de promoción de la salud utiliza la Estrategia de Andalucía para integrar activos comunitarios en consultas sanitarias?",
+        "opciones": [
+          "Diagnóstico participativo",
+          "Prescripción social",
+          "Mapeo demográfico",
+          "Educación sanitaria masiva"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "La prescripción social conecta a las personas con activos comunitarios para fomentar hábitos saludables y fortalecer su bienestar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ejemplos NO representa un activo para la salud según el modelo basado en activos?",
+        "opciones": [
+          "Un parque utilizado regularmente para ejercicio comunitario",
+          "Un recurso financiero no reconocido ni utilizado por la comunidad",
+          "Un grupo de apoyo para personas con enfermedades crónicas",
+          "Una biblioteca pública utilizada para actividades educativas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Para ser considerado un activo, un recurso debe ser reconocido y utilizado por la comunidad como favorable para su salud y bienestar."
+      },
+      {
+        "enunciado": "¿Qué distingue a la promoción de la salud en comparación con la prevención de enfermedades?",
+        "opciones": [
+          "Se centra exclusivamente en enfermedades crónicas",
+          "Fomenta la capacidad de las personas para controlar determinantes de salud",
+          "Aplica exclusivamente a entornos hospitalarios",
+          "Se enfoca en evitar la aparición de patologías específicas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salud_positiva"],
+        "feedback": "La promoción de la salud es un proceso integral que potencia la capacidad de las personas y comunidades para gestionar factores que afectan su bienestar."
+      },
+      {
+        "enunciado": "¿Qué característica es fundamental en una comunidad para generar acciones efectivas en salud comunitaria?",
+        "opciones": [
+          "Uniformidad en los valores culturales de sus miembros",
+          "Un sistema de apoyo mutuo basado en la participación activa",
+          "Dependencia total de recursos externos",
+          "Comunicación únicamente formal entre sus miembros"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "concepto_comunidad"],
+        "feedback": "Un sistema de apoyo mutuo que fomente la participación activa es esencial para diseñar y ejecutar acciones efectivas en salud comunitaria."
+      },
+      {
+        "enunciado": "En el marco de la salud comunitaria, ¿qué implica el concepto de empoderamiento?",
+        "opciones": [
+          "La centralización de las decisiones en profesionales de salud",
+          "La autonomía y capacidad de la comunidad para gestionar su salud",
+          "El aumento de recursos exclusivamente económicos para la comunidad",
+          "La eliminación de las responsabilidades individuales en temas de salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "empoderamiento"],
+        "feedback": "El empoderamiento se centra en aumentar la capacidad de la comunidad para tomar decisiones autónomas y responsables sobre su salud."
+      },
+      {
+        "enunciado": "Según el tema 62, ¿qué aspecto debe evaluarse al transformar un recurso en un activo?",
+        "opciones": [
+          "Su coste económico",
+          "Su manejabilidad, comprensibilidad y significatividad para la comunidad",
+          "El nivel de intervención médica necesario",
+          "El tamaño de la población que lo utiliza"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Para que un recurso se convierta en activo, debe ser comprensible, manejable y significativo para la comunidad, promoviendo su uso y aceptación."
+      },
+      {
+        "enunciado": "¿Qué objetivo principal persigue la Enfermería Comunitaria según el tema 62?",
+        "opciones": [
+          "Desarrollar exclusivamente actividades curativas en la comunidad",
+          "Promover el autocuidado y hábitos saludables en individuos y colectivos",
+          "Centralizar los servicios de salud en instituciones especializadas",
+          "Enfocarse únicamente en la atención de emergencias comunitarias"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "enfermeria_comunitaria"],
+        "feedback": "La Enfermería Comunitaria tiene como objetivo promover el autocuidado y fomentar hábitos saludables, integrando acciones de prevención y promoción."
+      },
+      {
+        "enunciado": "¿Qué elemento caracteriza una acción comunitaria en salud frente a una intervención tradicional?",
+        "opciones": [
+          "La dependencia de recursos externos",
+          "El enfoque en resultados inmediatos",
+          "La participación activa y sostenible de la comunidad",
+          "La exclusión de agentes no profesionales"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "accion_comunitaria"],
+        "feedback": "Una acción comunitaria se basa en la participación activa, consciente y sostenible de la comunidad, lo que la diferencia de intervenciones más directivas."
+      },
+      {
+        "enunciado": "Según Antonovsky, ¿qué dimensión del Sentido de Coherencia permite interpretar el entorno como comprensible y predecible?",
+        "opciones": [
+          "Manejabilidad",
+          "Comprensibilidad",
+          "Significatividad",
+          "Resiliencia"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Comprensibilidad' se refiere a la capacidad cognitiva de percibir el entorno como estructurado, predecible y claro, facilitando la adaptación."
+      },
+      {
+        "enunciado": "¿Qué paso es crucial para garantizar que los activos comunitarios sean utilizados de manera efectiva?",
+        "opciones": [
+          "Aumentar su disponibilidad sin comunicación previa",
+          "Diseñar estrategias para incrementar su significatividad para la comunidad",
+          "Reemplazar los activos existentes con alternativas más costosas",
+          "Centralizar el uso de activos en instituciones sanitarias"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Incrementar la significatividad de un activo asegura que la comunidad lo valore y lo integre en sus estrategias de bienestar."
+      },
+      {
+        "enunciado": "¿Qué aspecto promueve el IV Plan Andaluz de Salud para reducir la dependencia de los servicios de salud?",
+        "opciones": [
+          "La identificación y desarrollo de activos comunitarios",
+          "La restricción de recursos sanitarios especializados",
+          "La externalización de servicios preventivos",
+          "El enfoque exclusivo en atención curativa"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "El IV Plan Andaluz de Salud busca reducir la dependencia mediante el fortalecimiento y desarrollo de activos comunitarios."
+      },
+      {
+        "enunciado": "¿Cuál es un objetivo fundamental del mapeo de activos en salud comunitaria?",
+        "opciones": [
+          "Desarrollar un inventario de recursos exclusivamente materiales",
+          "Identificar recursos que fortalezcan la salud y el bienestar de la comunidad",
+          "Limitar el acceso a recursos comunitarios a poblaciones específicas",
+          "Reforzar la dependencia de la comunidad en recursos externos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El mapeo de activos busca identificar y conectar recursos que puedan ser utilizados por la comunidad para mejorar su salud y bienestar."
+      },
+      {
+        "enunciado": "¿Qué principio rige el enfoque de Salutogénesis propuesto por Antonovsky?",
+        "opciones": [
+          "La dicotomía entre salud y enfermedad",
+          "El estudio de factores que generan y mantienen la salud",
+          "La priorización de tratamientos médicos especializados",
+          "El énfasis en evitar el estrés a toda costa"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La Salutogénesis se centra en identificar los factores que generan y sostienen la salud, en lugar de enfocarse únicamente en prevenir o tratar enfermedades."
+      },
+      {
+        "enunciado": "¿Qué característica de la participación comunitaria asegura su continuidad en el tiempo?",
+        "opciones": [
+          "La planificación exclusivamente institucional",
+          "La sostenibilidad y la organización basada en objetivos comunes",
+          "La imposición de normas externas a la comunidad",
+          "El control técnico sin implicación comunitaria"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "participacion_comunitaria"],
+        "feedback": "La sostenibilidad, junto con la organización basada en objetivos comunes, permite que la participación comunitaria se mantenga a largo plazo."
+      },
+      {
+        "enunciado": "¿Qué estrategia fomenta la prescripción social como parte de la promoción de salud comunitaria?",
+        "opciones": [
+          "Centralizar los servicios en instituciones de alta tecnología",
+          "Conectar a las personas con recursos comunitarios para mejorar su bienestar",
+          "Limitar la promoción de la salud a campañas de comunicación masiva",
+          "Imponer cambios conductuales sin participación ciudadana"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "La prescripción social facilita el acceso a activos comunitarios, empoderando a las personas para mejorar su salud de forma autónoma y conectada al entorno."
+      },
+      {
+        "enunciado": "En el modelo de salud comunitaria basada en activos, ¿cómo se transforma un recurso en un activo?",
+        "opciones": [
+          "A través de su promoción en campañas publicitarias masivas",
+          "Haciendo que la comunidad lo reconozca, lo maneje y lo encuentre significativo",
+          "Delegando su administración a instituciones gubernamentales",
+          "Limitando su uso a una población específica"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un recurso se convierte en activo cuando la comunidad lo valora como significativo, lo entiende y puede utilizarlo para mejorar su bienestar."
+      },
+      {
+        "enunciado": "Según el tema 62, ¿qué rol tiene la Enfermería Comunitaria en la promoción de la salud?",
+        "opciones": [
+          "Coordinar exclusivamente campañas nacionales de salud",
+          "Realizar actividades preventivas y de promoción en el marco comunitario",
+          "Enfocarse solo en la atención curativa dentro de los centros de salud",
+          "Limitar su intervención a la gestión de recursos económicos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "enfermeria_comunitaria"],
+        "feedback": "La Enfermería Comunitaria combina la prevención y la promoción de la salud en contextos individuales, familiares y comunitarios para fomentar el autocuidado."
+      },
+      {
+        "enunciado": "En el modelo salutogénico de Antonovsky, ¿qué dimensión del Sentido de Coherencia está relacionada con encontrar propósito y valor en las acciones realizadas?",
+        "opciones": [
+          "Manejabilidad",
+          "Comprensibilidad",
+          "Significatividad",
+          "Resiliencia"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Significatividad' se refiere a la capacidad de las personas para percibir sus acciones como valiosas y llenas de propósito, lo que contribuye al bienestar."
+      },
+      {
+        "enunciado": "¿Qué componente del Sentido de Coherencia según Antonovsky mide la disponibilidad de recursos para afrontar demandas del entorno?",
+        "opciones": [
+          "Manejabilidad",
+          "Comprensibilidad",
+          "Significatividad",
+          "Autoeficacia"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Manejabilidad' se centra en la percepción de que los recursos necesarios para gestionar las demandas están disponibles y accesibles."
+      },
+      {
+        "enunciado": "Según el modelo salutogénico, ¿qué dimensión está asociada con percibir los estímulos como organizados y predecibles?",
+        "opciones": [
+          "Comprensibilidad",
+          "Significatividad",
+          "Manejabilidad",
+          "Adaptabilidad"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Comprensibilidad' implica percibir los estímulos del entorno como claros, ordenados y predecibles, facilitando una mejor adaptación al contexto."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones describe un factor clave para transformar un recurso en activo según el modelo de activos en salud?",
+        "opciones": [
+          "Accesibilidad técnica",
+          "Significatividad para la comunidad",
+          "Dependencia de recursos externos",
+          "Intervención institucional directa"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "La 'Significatividad' asegura que el recurso sea percibido como valioso y útil por la comunidad, facilitando su transformación en un activo de salud."
+      },
+      {
+        "enunciado": "En el contexto de la Salutogénesis, ¿qué dimensión evalúa la capacidad de una persona para gestionar y superar desafíos con recursos disponibles?",
+        "opciones": [
+          "Manejabilidad",
+          "Comprensibilidad",
+          "Significatividad",
+          "Resiliencia"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Manejabilidad' mide cómo los individuos perciben la disponibilidad de recursos adecuados para afrontar los retos de su entorno."
+      },
+      {
+        "enunciado": "En el modelo de activos para la salud, ¿qué acción sería prioritaria si un recurso es comprensible y significativo, pero no manejable?",
+        "opciones": [
+          "Eliminar el recurso por falta de utilidad práctica",
+          "Desarrollar habilidades en la comunidad para facilitar su manejo",
+          "Reforzar la significatividad a través de campañas informativas",
+          "Aumentar la inversión económica para mejorarlo"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Cuando un recurso no es manejable, es necesario trabajar en la capacitación de la comunidad para que pueda utilizarlo eficazmente."
+      },
+      {
+        "enunciado": "Según Antonovsky, ¿por qué los factores estresantes no siempre son negativos en el modelo salutogénico?",
+        "opciones": [
+          "Porque siempre resultan en mejoras de salud",
+          "Porque su impacto depende de las características del estrés y la capacidad para enfrentarlo",
+          "Porque los factores externos tienen poco impacto en el bienestar",
+          "Porque el modelo se enfoca exclusivamente en estrés crónico"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El modelo salutogénico considera que el impacto del estrés depende tanto de sus características como de la capacidad del individuo para gestionarlo."
+      },
+      {
+        "enunciado": "En la promoción de salud comunitaria basada en activos, ¿cómo se define un recurso potencial no utilizado?",
+        "opciones": [
+          "Activo latente",
+          "Recurso subutilizado",
+          "Factor de riesgo",
+          "Recurso disponible pero no significativo"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un recurso que no es utilizado ni reconocido como beneficioso por la comunidad es considerado un 'activo latente'."
+      },
+      {
+        "enunciado": "En el marco de la salud comunitaria, ¿qué estrategia complementa la promoción basada en déficits de salud?",
+        "opciones": [
+          "El fortalecimiento de la atención hospitalaria",
+          "La reducción de servicios preventivos",
+          "El desarrollo de activos comunitarios",
+          "La priorización de recursos externos sobre los internos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "El desarrollo de activos comunitarios complementa el enfoque basado en déficits, permitiendo un mayor protagonismo y autosuficiencia de la comunidad."
+      },
+      {
+        "enunciado": "En el modelo salutogénico, ¿cómo se evalúa la interacción entre los factores estresantes y los recursos de resistencia generalizada?",
+        "opciones": [
+          "Por su capacidad para reducir todos los estresores",
+          "Por la habilidad de los recursos para generar sentido de coherencia",
+          "Por su impacto exclusivamente en la significatividad",
+          "Por la frecuencia de los estresores enfrentados"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El modelo salutogénico evalúa cómo los recursos de resistencia fortalecen el sentido de coherencia, permitiendo afrontar mejor los factores estresantes."
+      },
+      {
+        "enunciado": "¿Cuál es el principal desafío para transformar un recurso en activo en comunidades con baja significatividad?",
+        "opciones": [
+          "Incrementar los recursos financieros asignados",
+          "Reforzar la motivación y el sentido del recurso para la comunidad",
+          "Limitar el acceso a otros recursos competidores",
+          "Aumentar la centralización de decisiones en instituciones sanitarias"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Cuando la significatividad es baja, el desafío es reforzar la motivación comunitaria y demostrar cómo el recurso puede mejorar su bienestar."
+      },
+      {
+        "enunciado": "Según la definición de salud comunitaria, ¿qué rol juegan los factores sociales y políticos en su desarrollo?",
+        "opciones": [
+          "Son secundarios frente a los factores individuales",
+          "Determinan indirectamente la atención primaria",
+          "Influyen directamente en la disponibilidad de activos y en la cohesión social",
+          "Son excluidos en favor de los determinantes biológicos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salud_comunitaria"],
+        "feedback": "Los factores sociales y políticos son determinantes clave que moldean la disponibilidad de recursos y la cohesión necesaria para la salud comunitaria."
+      },
+      {
+        "enunciado": "En el marco de la salud comunitaria basada en activos, ¿qué determina si un recurso físico, como un parque, se considera un activo?",
+        "opciones": [
+          "Su mantenimiento por parte de las autoridades locales",
+          "El reconocimiento, la comprensión y el uso efectivo por la comunidad",
+          "El nivel de inversión económica en su infraestructura",
+          "La cantidad de usuarios registrados oficialmente"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un recurso físico se convierte en activo cuando la comunidad lo reconoce, comprende su utilidad y lo utiliza efectivamente para mejorar su salud."
+      },
+      {
+        "enunciado": "En el mapeo de activos, ¿qué función cumplen los informadores clave dentro de la planificación?",
+        "opciones": [
+          "Dirigen directamente la implementación de activos",
+          "Aportan conocimiento específico sobre las dinámicas comunitarias",
+          "Centralizan la gestión de recursos externos",
+          "Determinan los presupuestos asignados a la promoción de la salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Los informadores clave proporcionan información valiosa sobre las dinámicas y necesidades de la comunidad, guiando el mapeo de activos."
+      },
+      {
+        "enunciado": "¿Qué distingue al modelo salutogénico de otros enfoques en la promoción de la salud?",
+        "opciones": [
+          "Se centra exclusivamente en evitar enfermedades crónicas",
+          "Integra la perspectiva social como clave para generar bienestar",
+          "Depende completamente de recursos tecnológicos avanzados",
+          "Reduce el énfasis en la participación comunitaria"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El modelo salutogénico incorpora la perspectiva social como un elemento esencial para potenciar la salud y el bienestar, más allá de los enfoques tradicionales."
+      },
+      {
+        "enunciado": "En el modelo de Salutogénesis, ¿qué estrategia se considera crucial para fortalecer el Sentido de Coherencia en comunidades con baja Comprensibilidad?",
+        "opciones": [
+          "Incrementar la exposición a factores estresantes controlados",
+          "Proveer información estructurada y clara sobre los recursos disponibles",
+          "Fortalecer las redes sociales y el apoyo comunitario",
+          "Priorizar recursos físicos tangibles sobre la educación comunitaria"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "Para aumentar la Comprensibilidad, es fundamental proporcionar información clara y organizada, facilitando que las personas comprendan y estructuren su entorno."
+      },
+      {
+        "enunciado": "¿Cómo se diferencia un activo social de un activo físico en el marco de la salud comunitaria basada en activos?",
+        "opciones": [
+          "Un activo social requiere mantenimiento institucional constante, mientras que el físico no",
+          "Un activo social está relacionado con interacciones humanas y redes de apoyo, mientras que un físico es tangible",
+          "Un activo físico siempre tiene mayor impacto en la salud que un activo social",
+          "Un activo social es exclusivo de contextos urbanos, mientras que los físicos pueden estar en cualquier lugar"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Los activos sociales incluyen interacciones humanas y redes de apoyo, mientras que los físicos son recursos tangibles como parques o instalaciones deportivas."
+      },
+      {
+        "enunciado": "En el mapeo de activos, ¿qué criterio se utiliza para priorizar los recursos identificados?",
+        "opciones": [
+          "Su impacto económico en la comunidad",
+          "El nivel de participación comunitaria requerido para su uso",
+          "Su capacidad para responder a las necesidades de salud identificadas",
+          "La cantidad de usuarios potenciales registrados oficialmente"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Los recursos se priorizan en función de su relevancia y capacidad para abordar las necesidades de salud detectadas en la comunidad."
+      },
+      {
+        "enunciado": "Según el IV Plan Andaluz de Salud, ¿qué enfoque estratégico busca reducir desigualdades en salud mediante activos comunitarios?",
+        "opciones": [
+          "Inversiones exclusivas en tecnología médica",
+          "Programas de salud dirigidos exclusivamente a poblaciones vulnerables",
+          "Promoción de hábitos saludables integrando activos personales y comunitarios",
+          "Centralización de la planificación en instituciones nacionales"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "El IV Plan Andaluz de Salud apuesta por integrar activos personales y comunitarios en estrategias de promoción para reducir desigualdades en salud."
+      },
+      {
+        "enunciado": "¿Qué característica distintiva presenta el enfoque salutogénico respecto al modelo biomédico tradicional?",
+        "opciones": [
+          "Centrarse exclusivamente en factores genéticos",
+          "Enfatizar la creación de condiciones que favorezcan el bienestar",
+          "Considerar la enfermedad como el principal objeto de estudio",
+          "Rechazar la integración de factores psicosociales en el análisis de la salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El enfoque salutogénico pone énfasis en los factores que promueven el bienestar y las condiciones que facilitan una vida saludable, superando el enfoque reactivo del modelo biomédico."
+      },
+      {
+        "enunciado": "¿Qué acción sería prioritaria si un recurso comunitario es manejable y comprensible, pero no significativo para la población?",
+        "opciones": [
+          "Incorporar campañas que resalten su relevancia para el bienestar",
+          "Aumentar los recursos económicos destinados a su mantenimiento",
+          "Reemplazar el recurso por otro con mayor visibilidad",
+          "Limitar el acceso al recurso para su evaluación técnica"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Para aumentar la significatividad de un recurso, es fundamental implementar estrategias que resalten su valor e impacto en la salud comunitaria."
+      },
+      {
+        "enunciado": "¿Qué indicador clave debe evaluarse para garantizar la sostenibilidad de un activo comunitario?",
+        "opciones": [
+          "El nivel de participación institucional en su mantenimiento",
+          "La capacidad de la comunidad para apropiarse de su gestión y uso",
+          "La dependencia del recurso respecto a financiación externa",
+          "El tiempo necesario para que se implementen intervenciones externas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "La sostenibilidad de un activo depende de la capacidad de la comunidad para apropiarse de su gestión y garantizar su uso continuo."
+      },
+      {
+        "enunciado": "En el modelo salutogénico, ¿cómo se interpreta el concepto de 'río de la vida' propuesto por Antonovsky?",
+        "opciones": [
+          "Como la dependencia absoluta de factores ambientales en la salud",
+          "Como una metáfora para describir la interacción dinámica entre salud y enfermedad",
+          "Como una herramienta para medir el bienestar exclusivamente físico",
+          "Como una representación del impacto de los recursos financieros en la salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El 'río de la vida' representa cómo las personas navegan entre salud y enfermedad, destacando la importancia de habilidades y recursos para mantenerse a flote."
+      },
+      {
+        "enunciado": "¿Qué estrategia de promoción de la salud fomenta la participación intersectorial para fortalecer activos comunitarios?",
+        "opciones": [
+          "Incrementar los recursos para atención individual",
+          "Integrar redes sociales y apoyo mutuo en las intervenciones",
+          "Centralizar la planificación en organismos de salud pública",
+          "Reducir el enfoque comunitario en favor de estrategias masivas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "La integración de redes sociales y el apoyo mutuo fomenta la participación intersectorial, esencial para desarrollar activos comunitarios efectivos."
+      },
+      {
+        "enunciado": "¿Qué desafío clave enfrenta el enfoque de Salutogénesis al implementarse en comunidades diversas?",
+        "opciones": [
+          "La necesidad de ajustar intervenciones a valores y contextos específicos",
+          "La resistencia a incorporar factores sociales en el análisis de la salud",
+          "La imposibilidad de aplicar el modelo fuera de contextos urbanos",
+          "La priorización de intervenciones individuales sobre estrategias comunitarias"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El enfoque salutogénico requiere adaptar las estrategias a los valores, necesidades y contextos específicos de cada comunidad para ser efectivo."
+      },
+      {
+        "enunciado": "En el modelo de activos para la salud, ¿cómo puede abordarse la falta de comprensibilidad de un recurso identificado como potencial activo?",
+        "opciones": [
+          "Aumentando los recursos económicos para su mejora estructural",
+          "Proporcionando información accesible y adaptada a la comunidad",
+          "Sustituyéndolo por un recurso más moderno",
+          "Enfocándose únicamente en mejorar su manejabilidad"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Cuando la comprensibilidad de un recurso es baja, es esencial ofrecer información clara y adaptada para que la comunidad pueda entender su uso y beneficios."
+      },
+      {
+        "enunciado": "Según el modelo salutogénico, ¿qué característica tienen los Recursos de Resistencia Generalizada (RRG)?",
+        "opciones": [
+          "Son exclusivamente materiales y económicos",
+          "Son factores que previenen todos los estresores",
+          "Facilitan la creación de experiencias coherentes en la vida",
+          "Se centran en la eliminación de condiciones sociales adversas"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "Los RRG son recursos personales, sociales o culturales que ayudan a las personas a enfrentar desafíos y a construir experiencias coherentes que promuevan el bienestar."
+      },
+      {
+        "enunciado": "En el mapeo de activos, ¿qué ventaja estratégica ofrece la conexión entre activos y acciones comunitarias?",
+        "opciones": [
+          "Reduce la necesidad de participación comunitaria directa",
+          "Facilita la evaluación del impacto económico de los activos",
+          "Permite desarrollar estrategias basadas en recursos existentes para responder a necesidades específicas",
+          "Centraliza las decisiones en las instituciones de salud pública"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "La conexión entre activos y acciones comunitarias permite diseñar estrategias efectivas que aprovechan recursos existentes para responder a las necesidades identificadas."
+      },
+      {
+        "enunciado": "En el marco de la Salutogénesis, ¿qué elemento del Sentido de Coherencia es más vulnerable en contextos de alta incertidumbre social?",
+        "opciones": [
+          "Manejabilidad",
+          "Significatividad",
+          "Comprensibilidad",
+          "Resiliencia"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Comprensibilidad' puede verse afectada en contextos de alta incertidumbre, dificultando que las personas interpreten su entorno como claro y estructurado."
+      },
+      {
+        "enunciado": "En el contexto de la promoción de salud en Andalucía, ¿qué papel juegan los activos vinculados al entorno geográfico?",
+        "opciones": [
+          "Son secundarios respecto a los activos tecnológicos",
+          "Representan el principal recurso económico de la comunidad",
+          "Facilitan la promoción de estilos de vida saludables basados en el entorno local",
+          "Se consideran irrelevantes sin el respaldo de recursos institucionales"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "Los activos vinculados al entorno geográfico fomentan estilos de vida saludables al aprovechar recursos locales que contribuyen al bienestar de la comunidad."
+      },
+      {
+        "enunciado": "¿Qué objetivo subyacente persigue el modelo de Salud Comunitaria basada en Activos (SCBA)?",
+        "opciones": [
+          "Incrementar la dependencia de los servicios de atención primaria",
+          "Reducir la participación comunitaria en la gestión de recursos",
+          "Fomentar la capacidad de las comunidades para generar salud y bienestar utilizando sus propios recursos",
+          "Priorizar estrategias preventivas desde un enfoque exclusivamente biomédico"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El SCBA promueve la autosuficiencia comunitaria al fortalecer la capacidad de las comunidades para aprovechar sus propios recursos en beneficio de la salud y el bienestar."
+      },
+      {
+        "enunciado": "¿Qué acción prioritaria podría tomarse en una comunidad donde los activos son manejables pero carecen de significatividad para la población?",
+        "opciones": [
+          "Abandonar el recurso por falta de interés comunitario",
+          "Fortalecer la conexión emocional y el sentido de pertenencia hacia los activos",
+          "Centralizar su gestión en instituciones externas para optimizar su uso",
+          "Invertir exclusivamente en infraestructura para modernizarlos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Incrementar la significatividad de un activo implica fortalecer su conexión emocional con la comunidad y demostrar su relevancia para el bienestar colectivo."
+      },
+      {
+        "enunciado": "En el marco de la promoción de salud, ¿qué significa empoderar a una comunidad?",
+        "opciones": [
+          "Garantizar acceso exclusivo a recursos económicos",
+          "Descentralizar completamente la gestión de activos",
+          "Aumentar su capacidad para tomar decisiones y gestionar recursos en beneficio de su salud",
+          "Reducir las responsabilidades comunitarias en la planificación de salud"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "empoderamiento"],
+        "feedback": "Empoderar a una comunidad implica fortalecer su capacidad para decidir y gestionar recursos que impacten positivamente en su salud y bienestar."
+      },
+      {
+        "enunciado": "¿Qué criterio es fundamental para priorizar un activo en el proceso de mapeo comunitario?",
+        "opciones": [
+          "El nivel de complejidad técnica requerido para utilizarlo",
+          "La percepción comunitaria de su relevancia y utilidad para el bienestar",
+          "Su exclusividad como recurso institucional",
+          "El coste económico de su implementación"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "La relevancia y utilidad percibida por la comunidad son esenciales para priorizar un activo, ya que esto asegura su integración en las estrategias de salud."
+      },
+      {
+        "enunciado": "Según el modelo salutogénico, ¿qué papel desempeña la resiliencia en la promoción de la salud?",
+        "opciones": [
+          "Es un componente estático relacionado exclusivamente con factores biológicos",
+          "Es un recurso que permite enfrentar estresores manteniendo el bienestar",
+          "Es un determinante indirecto y marginal en el enfoque salutogénico",
+          "Es un factor exclusivamente individual sin impacto en el contexto social"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La resiliencia permite a las personas y comunidades enfrentar factores estresantes de manera efectiva, manteniendo o fortaleciendo su bienestar."
+      },
+      {
+        "enunciado": "En la Estrategia de Promoción de Salud en Andalucía, ¿qué enfoque busca optimizar el uso de activos en consulta sanitaria?",
+        "opciones": [
+          "El mapeo exclusivo de recursos materiales",
+          "La integración de activos en estrategias de intervención individual a través de la prescripción social",
+          "La centralización de todos los recursos comunitarios en centros de salud",
+          "El enfoque exclusivo en atención especializada"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "La prescripción social conecta los activos comunitarios con las consultas sanitarias, promoviendo su uso efectivo para mejorar el bienestar individual y colectivo."
+      },
+      {
+        "enunciado": "¿Cuál es una crítica recurrente a la definición de salud de la OMS según el enfoque salutogénico?",
+        "opciones": [
+          "Es estática y no reconoce la naturaleza dinámica de la salud",
+          "Excluye los factores sociales como determinantes de salud",
+          "Se centra únicamente en los aspectos biomédicos de la salud",
+          "No considera la interacción entre salud y enfermedad"
+        ],
+        "correcta": 0,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La definición de la OMS ha sido criticada por ser estática, ya que no refleja la naturaleza cambiante y dinámica de la salud como proceso continuo."
+      },
+      {
+        "enunciado": "En el mapeo de activos, ¿qué rol estratégico tiene el diagnóstico de salud previo?",
+        "opciones": [
+          "Definir los recursos económicos que se asignarán al proyecto",
+          "Permitir identificar las necesidades específicas y el contexto comunitario",
+          "Centralizar la toma de decisiones en las instituciones sanitarias",
+          "Limitar la participación comunitaria a la implementación de acciones"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El diagnóstico de salud previo permite identificar las necesidades de la comunidad y contextualizar el uso de los activos en función de esas demandas."
+      },
+      {
+        "enunciado": "En el modelo de Salud Comunitaria Basada en Activos (SCBA), ¿cómo se entiende el término 'activo'?",
+        "opciones": [
+          "Como un recurso técnico gestionado exclusivamente por instituciones",
+          "Como un elemento que mejora la capacidad de la comunidad para generar salud",
+          "Como un factor exclusivamente económico en la promoción de la salud",
+          "Como una herramienta de planificación dirigida por expertos externos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "Un activo es cualquier recurso que potencia la capacidad de la comunidad para mejorar su salud y bienestar, destacando su uso activo por los miembros."
+      },
+      {
+        "enunciado": "Según el enfoque salutogénico, ¿cómo se aborda el estrés en el contexto de la salud?",
+        "opciones": [
+          "Como un factor exclusivamente negativo que debe eliminarse",
+          "Como un fenómeno que puede generar beneficios dependiendo de su manejo",
+          "Como un elemento externo que no influye en el bienestar individual",
+          "Como un indicador principal de enfermedad"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El enfoque salutogénico ve el estrés como una oportunidad para fortalecer la salud, dependiendo de cómo se gestionen los recursos y las capacidades individuales."
+      },
+      {
+        "enunciado": "En el contexto de la participación comunitaria, ¿qué elemento es indispensable para garantizar la autonomía de la comunidad?",
+        "opciones": [
+          "El apoyo exclusivo de instituciones gubernamentales",
+          "La delimitación de roles entre la comunidad y los agentes externos",
+          "El empoderamiento a través del desarrollo de capacidades locales",
+          "El control total de los recursos por parte de expertos en salud pública"
+        ],
+        "correcta": 2,
+        "categorias": ["tema62", "promocion_salud", "participacion_comunitaria"],
+        "feedback": "El desarrollo de capacidades locales permite que la comunidad tome decisiones autónomas y participe activamente en la mejora de su salud."
+      },
+      {
+        "enunciado": "En la Salutogénesis, ¿cómo se define la 'Significatividad' dentro del Sentido de Coherencia?",
+        "opciones": [
+          "La capacidad de una persona para reconocer los patrones de su entorno",
+          "La percepción de que la vida tiene propósito y valor personal",
+          "La habilidad para manejar recursos externos de forma eficiente",
+          "La resiliencia ante situaciones de estrés extremo"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "La 'Significatividad' se refiere a la percepción de que las actividades y experiencias de la vida tienen un propósito claro y valioso para el individuo."
+      },
+      {
+        "enunciado": "En el IV Plan Andaluz de Salud, ¿qué aspecto promueve la reducción de desigualdades en salud?",
+        "opciones": [
+          "La inversión exclusiva en tecnología sanitaria",
+          "La creación de políticas públicas centradas en activos comunitarios",
+          "La sustitución de estrategias locales por enfoques globales",
+          "La eliminación de participación ciudadana en la planificación de salud"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "estrategia_andalucia"],
+        "feedback": "El IV Plan Andaluz de Salud prioriza las políticas públicas que integran activos comunitarios para reducir desigualdades y promover la equidad en salud."
+      },
+      {
+        "enunciado": "En la teoría de Salutogénesis, ¿qué relación tiene el 'Sentido de Coherencia' con los resultados de salud?",
+        "opciones": [
+          "No influye directamente en los resultados de salud",
+          "Es un predictor clave de la capacidad para enfrentar el estrés y mantener el bienestar",
+          "Determina exclusivamente los niveles de salud física",
+          "Es un indicador de la disponibilidad de recursos económicos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "salutogenesis"],
+        "feedback": "El 'Sentido de Coherencia' predice cómo las personas manejan el estrés y aprovechan los recursos disponibles, influyendo directamente en su salud y bienestar."
+      },
+      {
+        "enunciado": "En el proceso de mapeo de activos, ¿qué se entiende por 'grupo motor'?",
+        "opciones": [
+          "Un comité externo encargado de evaluar los recursos comunitarios",
+          "Un equipo multidisciplinar y ciudadano que lidera el mapeo y la identificación de activos",
+          "Una red exclusiva de profesionales de la salud para gestionar los activos",
+          "Un conjunto de instituciones que financian los proyectos de salud comunitaria"
+        ],
+        "correcta": 1,
+        "categorias": ["tema62", "promocion_salud", "activos_salud"],
+        "feedback": "El grupo motor es un equipo integrado por profesionales y ciudadanos que lidera el proceso de mapeo, conectando recursos y necesidades comunitarias."
+      }                                                      
 ]
