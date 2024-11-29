@@ -1,426 +1,546 @@
 [
     {
-        "preguntas": [
-          {
-            "enunciado": "¿Cuál es la diferencia principal entre el consejo dietético básico y el intensivo en la promoción de la alimentación saludable?",
-            "opciones": [
-              "El básico aborda únicamente la nutrición de niños menores de 5 años, mientras que el intensivo es para adultos",
-              "El básico implica recomendaciones generales, mientras que el intensivo incluye una intervención personalizada",
-              "El intensivo se enfoca exclusivamente en trastornos alimentarios, mientras que el básico es preventivo",
-              "No hay diferencias significativas entre ambos tipos de consejo"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético básico se centra en brindar recomendaciones generales para la población, mientras que el intensivo está diseñado para atender necesidades específicas y personalizadas."
-          },
-          {
-            "enunciado": "Según la Estrategia de Promoción de Vida Saludable en Andalucía, ¿qué debe incluir una intervención de consejo dietético intensivo?",
-            "opciones": [
-              "Solo recomendaciones generales",
-              "Diagnóstico inicial y plan de intervención personalizado",
-              "Distribución de folletos informativos",
-              "Exclusivamente control de peso mensual"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo debe incluir un diagnóstico inicial de las necesidades del individuo y un plan de intervención adaptado."
-          },
-          {
-            "enunciado": "¿Qué herramienta se recomienda para evaluar las necesidades en un consejo dietético básico?",
-            "opciones": [
-              "Encuestas sobre hábitos alimentarios generales",
-              "Herramientas normalizadas de valoración y cribado",
-              "Registros médicos históricos",
-              "Análisis de laboratorio obligatorios"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "Para un consejo dietético básico se sugieren herramientas normalizadas que permitan evaluar hábitos alimentarios y necesidades nutricionales."
-          },
-          {
-            "enunciado": "¿Qué tipo de intervenciones se incluyen generalmente en el consejo dietético intensivo?",
-            "opciones": [
-              "Charlas comunitarias generales",
-              "Intervenciones grupales y/o individuales según necesidades",
-              "Exclusivamente talleres de cocina saludable",
-              "Dietas prescritas sin seguimiento"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo se adapta a las necesidades detectadas, pudiendo incluir intervenciones grupales o individuales."
-          },
-          {
-            "enunciado": "¿Qué objetivo fundamental persigue el consejo dietético básico según los principios de la promoción de la salud?",
-            "opciones": [
-              "Modificar drásticamente los hábitos alimentarios",
-              "Prevenir enfermedades relacionadas con la alimentación inadecuada",
-              "Incrementar el consumo de suplementos dietéticos",
-              "Asegurar la adherencia a dietas restrictivas"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético básico busca principalmente prevenir enfermedades promoviendo hábitos alimentarios saludables."
-          },
-          {
-            "enunciado": "En el marco de la Estrategia de Promoción de Vida Saludable, ¿cuál es un indicador de éxito del consejo dietético intensivo?",
-            "opciones": [
-              "Incremento del tiempo dedicado al uso de dispositivos electrónicos",
-              "Reducción del tiempo sedentario en los pacientes atendidos",
-              "Mayor consumo de alimentos procesados",
-              "Disminución de consultas médicas relacionadas con trastornos nutricionales"
-            ],
-            "correcta": 3,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "Un indicador clave es la reducción de consultas relacionadas con problemas derivados de una dieta inadecuada, como resultado de la mejora en hábitos alimenticios."
-          }
-        ]
+        "enunciado": "¿Cuál es la diferencia principal entre el consejo dietético básico y el intensivo en la promoción de la alimentación saludable?",
+        "opciones": [
+            "El básico aborda únicamente la nutrición de niños menores de 5 años, mientras que el intensivo es para adultos",
+            "El básico implica recomendaciones generales, mientras que el intensivo incluye una intervención personalizada",
+            "El intensivo se enfoca exclusivamente en trastornos alimentarios, mientras que el básico es preventivo",
+            "No hay diferencias significativas entre ambos tipos de consejo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético básico se centra en brindar recomendaciones generales para la población, mientras que el intensivo está diseñado para atender necesidades específicas y personalizadas."
     },
     {
-        "preguntas": [
-          {
-            "enunciado": "Según la Estrategia de Promoción de Vida Saludable en Andalucía, ¿qué grupo poblacional es prioritario para las intervenciones de consejo dietético intensivo?",
-            "opciones": [
-              "Personas menores de edad exclusivamente",
-              "Población adulta con factores de riesgo asociados a enfermedades no transmisibles",
-              "Personas sanas sin antecedentes familiares de enfermedades crónicas",
-              "Exclusivamente mujeres embarazadas"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo está dirigido principalmente a personas adultas con factores de riesgo como obesidad, hipertensión o diabetes."
-          },
-          {
-            "enunciado": "En el consejo dietético básico, ¿cuál es un ejemplo de recomendación general?",
-            "opciones": [
-              "Reducir el consumo de alimentos ricos en grasas trans",
-              "Prescripción de dietas hipocalóricas personalizadas",
-              "Introducción de suplementos vitamínicos obligatorios",
-              "Revisión médica mensual"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo básico incluye recomendaciones generales como evitar grasas trans y aumentar el consumo de frutas y verduras."
-          },
-          {
-            "enunciado": "¿Cuál es una característica clave del consejo dietético intensivo?",
-            "opciones": [
-              "Es una intervención universal y no personalizada",
-              "Incluye un seguimiento estructurado y continuo",
-              "Solo se aplica en contextos hospitalarios",
-              "No requiere diagnóstico inicial"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo intensivo incluye un seguimiento detallado para adaptar las intervenciones a las necesidades de cada individuo."
-          },
-          {
-            "enunciado": "¿Qué aspecto evalúa el diagnóstico inicial en un consejo dietético intensivo?",
-            "opciones": [
-              "Nivel socioeconómico exclusivamente",
-              "Hábitos alimentarios y factores de riesgo",
-              "Predisposición genética sin considerar estilo de vida",
-              "Únicamente el índice de masa corporal (IMC)"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El diagnóstico inicial considera múltiples factores, como hábitos alimentarios, actividad física y riesgos de salud asociados."
-          },
-          {
-            "enunciado": "¿Qué principio guía las acciones del consejo dietético en el ámbito sanitario según la Estrategia de Promoción de Vida Saludable?",
-            "opciones": [
-              "Principio de exclusividad",
-              "Principio de universalidad",
-              "Principio de neutralidad",
-              "Principio de individualismo"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El principio de universalidad garantiza que todas las personas tengan acceso a acciones de promoción de salud sin distinción."
-          },
-          {
-            "enunciado": "¿Qué alimentos son promovidos como parte de una dieta saludable según el patrón de Dieta Mediterránea?",
-            "opciones": [
-              "Alimentos ultraprocesados de bajo contenido calórico",
-              "Grasas trans y carnes procesadas",
-              "Frutas, verduras y cereales integrales",
-              "Bebidas azucaradas y snacks"
-            ],
-            "correcta": 2,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El patrón de Dieta Mediterránea incluye alimentos frescos y equilibrados como frutas, verduras y cereales integrales."
-          },
-          {
-            "enunciado": "¿Cuál es uno de los objetivos estratégicos relacionados con el consejo dietético en la Estrategia de Promoción de Vida Saludable en Andalucía?",
-            "opciones": [
-              "Incrementar el tiempo dedicado a videojuegos en adolescentes",
-              "Disminuir los niveles de actividad física en adultos mayores",
-              "Aumentar el consumo de alimentos saludables en detrimento de los no saludables",
-              "Promover dietas restrictivas para toda la población"
-            ],
-            "correcta": 2,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "Uno de los objetivos es fomentar una alimentación más saludable reduciendo el consumo de alimentos poco nutritivos."
-          },
-          {
-            "enunciado": "En el consejo dietético intensivo, ¿qué método se utiliza para diseñar las intervenciones?",
-            "opciones": [
-              "Selección aleatoria de dietas populares",
-              "Planificación basada en necesidades específicas identificadas en la evaluación inicial",
-              "Recomendaciones genéricas para todos los pacientes",
-              "Eliminación de grupos alimenticios sin justificación"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo intensivo adapta las intervenciones a las necesidades específicas detectadas mediante una evaluación inicial."
-          }
-        ]
-      },
-      {
-        "preguntas": [
-          {
-            "enunciado": "¿Qué evaluación es fundamental antes de implementar un consejo dietético intensivo?",
-            "opciones": [
-              "Un análisis genético obligatorio",
-              "Una evaluación de hábitos y factores de riesgo",
-              "Una entrevista psicológica extensa",
-              "Un estudio de mercado sobre alimentos disponibles"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La evaluación de hábitos y factores de riesgo es esencial para personalizar las intervenciones en el consejo dietético intensivo."
-          },
-          {
-            "enunciado": "¿Qué diferencia caracteriza al consejo dietético básico frente al intensivo?",
-            "opciones": [
-              "El básico excluye intervenciones en población infantil",
-              "El intensivo requiere diagnóstico médico previo",
-              "El básico incluye únicamente información sobre recetas",
-              "El intensivo se aplica solo en pacientes hospitalizados"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo requiere una valoración inicial más detallada que permita identificar necesidades específicas."
-          },
-          {
-            "enunciado": "Según las recomendaciones de la OMS, ¿qué beneficio se asocia a una dieta saludable?",
-            "opciones": [
-              "Reducción de enfermedades no transmisibles como la diabetes",
-              "Incremento del consumo de productos ultraprocesados",
-              "Mayor dependencia de suplementos dietéticos",
-              "Disminución de la actividad física recomendada"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "Una dieta saludable protege frente a enfermedades como la diabetes, las enfermedades cardíacas y ciertos tipos de cáncer."
-          },
-          {
-            "enunciado": "¿Qué intervenciones incluye el consejo dietético intensivo según la Estrategia de Promoción de Vida Saludable?",
-            "opciones": [
-              "Prescripción de actividad física de alta intensidad únicamente",
-              "Campañas generales sin seguimiento individual",
-              "Terapias individualizadas o grupales adaptadas a las necesidades",
-              "Prohibición total de alimentos procesados"
-            ],
-            "correcta": 2,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo se centra en intervenciones personalizadas o grupales, ajustadas según la evaluación inicial."
-          },
-          {
-            "enunciado": "¿Qué componente adicional suele incluir el consejo dietético intensivo en comparación con el básico?",
-            "opciones": [
-              "Seguimiento continuo de los resultados",
-              "Recomendaciones sobre lactancia materna",
-              "Información genérica sobre alimentos",
-              "Uso de suplementos dietéticos no recomendados"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El seguimiento es una característica fundamental del consejo dietético intensivo, para ajustar las estrategias según los resultados."
-          },
-          {
-            "enunciado": "¿Qué impacto busca el consejo dietético básico en la población general?",
-            "opciones": [
-              "Reducir la tasa de enfermedades relacionadas con una mala alimentación",
-              "Incrementar el consumo de productos industrializados",
-              "Promover el sedentarismo como hábito saludable",
-              "Eliminar totalmente el consumo de carbohidratos"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético básico tiene como meta reducir enfermedades promoviendo hábitos alimentarios equilibrados."
-          },
-          {
-            "enunciado": "¿Qué criterio guía la elección de medidas en el consejo dietético intensivo?",
-            "opciones": [
-              "La moda actual en tendencias de dieta",
-              "Las necesidades y riesgos identificados en cada persona",
-              "La disponibilidad de alimentos ultraprocesados",
-              "La eliminación de grasas saludables de la dieta"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo intensivo se basa en identificar y responder a las necesidades y riesgos específicos de cada individuo."
-          },
-          {
-            "enunciado": "¿Qué recurso promueve la Estrategia de Promoción de Vida Saludable para facilitar el acceso a una dieta equilibrada?",
-            "opciones": [
-              "Campañas publicitarias de productos procesados",
-              "Educación nutricional en centros comunitarios y sanitarios",
-              "Distribución masiva de suplementos vitamínicos",
-              "Incentivos para el consumo de bebidas azucaradas"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La educación nutricional es clave para fomentar hábitos alimentarios saludables y equilibrados entre la población."
-          },
-          {
-            "enunciado": "¿Qué tipo de alimentación promueve el patrón de Dieta Mediterránea según la Estrategia de Promoción de Vida Saludable?",
-            "opciones": [
-              "Rica en frutas, verduras, legumbres y grasas saludables",
-              "Basada en alimentos ultraprocesados y grasas trans",
-              "Con un alto consumo de azúcares libres",
-              "Sin consideración del impacto ambiental"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La Dieta Mediterránea se caracteriza por un alto consumo de frutas, verduras, legumbres y grasas saludables, como el aceite de oliva."
-          },
-          {
-            "enunciado": "¿Qué objetivo relacionado con el consejo dietético intensivo destaca en la Estrategia de Promoción de Vida Saludable?",
-            "opciones": [
-              "Reducir el tiempo de sueño en la población general",
-              "Aumentar la accesibilidad a alimentos saludables para grupos vulnerables",
-              "Promover el sedentarismo en personas mayores",
-              "Fomentar la ingesta de productos ricos en azúcares"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La estrategia destaca la importancia de hacer accesibles alimentos saludables, especialmente en grupos más vulnerables."
-          }
-        ]
-      },
-      {
-        "preguntas": [
-          {
-            "enunciado": "¿Qué función cumple la valoración inicial en el consejo dietético intensivo?",
-            "opciones": [
-              "Determinar el estado general de salud y establecer prioridades de intervención",
-              "Seleccionar alimentos para elaborar un menú general",
-              "Prescribir medicamentos para reducir el peso corporal",
-              "Evaluar únicamente el índice de masa corporal"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La valoración inicial permite identificar necesidades específicas y establecer un plan adaptado de intervención dietética."
-          },
-          {
-            "enunciado": "¿Qué grupo de alimentos es prioritario en las recomendaciones del consejo dietético básico?",
-            "opciones": [
-              "Alimentos ricos en grasas trans",
-              "Frutas, verduras y cereales integrales",
-              "Bebidas azucaradas y energéticas",
-              "Carnes procesadas y alimentos ultracongelados"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético básico promueve el consumo de alimentos frescos y equilibrados, como frutas y cereales integrales."
-          },
-          {
-            "enunciado": "¿Qué estrategia complementa el consejo dietético intensivo según la OMS?",
-            "opciones": [
-              "El fomento de la actividad física regular",
-              "La exclusión total de carbohidratos de la dieta",
-              "El uso obligatorio de suplementos dietéticos",
-              "La promoción de ayunos prolongados"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La actividad física regular complementa el consejo dietético intensivo para mejorar la salud general y prevenir enfermedades."
-          },
-          {
-            "enunciado": "Según la Estrategia de Promoción de Vida Saludable, ¿qué indicador mide el impacto del consejo dietético intensivo?",
-            "opciones": [
-              "Reducción de la prevalencia de obesidad en grupos de riesgo",
-              "Incremento en el consumo de alimentos ultraprocesados",
-              "Disminución del interés por alimentos saludables",
-              "Aumento de la publicidad de productos altos en azúcares"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La reducción de la obesidad en grupos de riesgo es un indicador clave del impacto del consejo dietético intensivo."
-          },
-          {
-            "enunciado": "¿Qué acciones se incluyen en el consejo dietético intensivo para abordar factores de riesgo?",
-            "opciones": [
-              "Recomendaciones estandarizadas para toda la población",
-              "Intervenciones personalizadas según el diagnóstico inicial",
-              "Promoción de alimentos ricos en grasas saturadas",
-              "Restricción de todos los tipos de carbohidratos"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético intensivo incluye intervenciones personalizadas para atender factores de riesgo específicos."
-          },
-          {
-            "enunciado": "¿Qué papel desempeña el consejo dietético básico en la promoción de hábitos saludables?",
-            "opciones": [
-              "Brindar información general para la prevención de enfermedades",
-              "Reemplazar completamente el consejo médico profesional",
-              "Prescribir medicamentos para la pérdida de peso",
-              "Evitar el consumo de proteínas en la dieta diaria"
-            ],
-            "correcta": 0,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo dietético básico es una herramienta clave para prevenir enfermedades mediante la educación y la promoción de hábitos saludables."
-          },
-          {
-            "enunciado": "¿Qué prioridad tiene la inclusión de educación nutricional en la Estrategia de Promoción de Vida Saludable?",
-            "opciones": [
-              "Baja, ya que se enfoca más en la promoción de suplementos",
-              "Alta, como herramienta para fomentar elecciones alimentarias saludables",
-              "Irrelevante, ya que se centra en restricciones dietéticas",
-              "Moderada, para complementar la eliminación de grasas saludables"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "La educación nutricional es prioritaria para fomentar hábitos alimentarios saludables en todos los grupos de edad."
-          },
-          {
-            "enunciado": "¿Cómo contribuye el patrón de Dieta Mediterránea a la promoción de la salud según la Estrategia de Vida Saludable?",
-            "opciones": [
-              "Incrementando el consumo de grasas trans",
-              "Promoviendo alimentos locales y sostenibles ricos en nutrientes",
-              "Limitando el acceso a frutas y verduras frescas",
-              "Sustituyendo proteínas vegetales por carne procesada"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El patrón de Dieta Mediterránea fomenta el consumo de alimentos locales y sostenibles, ricos en nutrientes esenciales."
-          },
-          {
-            "enunciado": "¿Qué beneficio se espera del consejo dietético básico a nivel comunitario?",
-            "opciones": [
-              "El aumento del consumo de suplementos vitamínicos innecesarios",
-              "La mejora general en los hábitos alimentarios de la población",
-              "La exclusión total de grasas saludables en las dietas",
-              "La eliminación de carbohidratos en todas las comidas"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo básico tiene como objetivo mejorar los hábitos alimentarios de toda la comunidad, fomentando elecciones saludables."
-          },
-          {
-            "enunciado": "¿Qué enfoque utiliza el consejo dietético intensivo para reducir la incidencia de enfermedades no transmisibles?",
-            "opciones": [
-              "Dietas restrictivas generales para toda la población",
-              "Intervenciones basadas en la evidencia científica y personalizadas",
-              "Promoción de alimentos ultraprocesados y altos en azúcar",
-              "Recomendaciones sin seguimiento específico"
-            ],
-            "correcta": 1,
-            "categorías": ["tema37", "promocion_deporte", "alimentacion"],
-            "feedback": "El consejo intensivo aplica un enfoque basado en la evidencia para personalizar las intervenciones y reducir los riesgos de enfermedades."
-          }
-        ]
-      }                        
+        "enunciado": "Según la Estrategia de Promoción de Vida Saludable en Andalucía, ¿qué debe incluir una intervención de consejo dietético intensivo?",
+        "opciones": [
+            "Solo recomendaciones generales",
+            "Diagnóstico inicial y plan de intervención personalizado",
+            "Distribución de folletos informativos",
+            "Exclusivamente control de peso mensual"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo debe incluir un diagnóstico inicial de las necesidades del individuo y un plan de intervención adaptado."
+    },
+    {
+        "enunciado": "¿Qué herramienta se recomienda para evaluar las necesidades en un consejo dietético básico?",
+        "opciones": [
+            "Encuestas sobre hábitos alimentarios generales",
+            "Herramientas normalizadas de valoración y cribado",
+            "Registros médicos históricos",
+            "Análisis de laboratorio obligatorios"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "Para un consejo dietético básico se sugieren herramientas normalizadas que permitan evaluar hábitos alimentarios y necesidades nutricionales."
+    },
+    {
+        "enunciado": "¿Qué tipo de intervenciones se incluyen generalmente en el consejo dietético intensivo?",
+        "opciones": [
+            "Charlas comunitarias generales",
+            "Intervenciones grupales y/o individuales según necesidades",
+            "Exclusivamente talleres de cocina saludable",
+            "Dietas prescritas sin seguimiento"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo se adapta a las necesidades detectadas, pudiendo incluir intervenciones grupales o individuales."
+    },
+    {
+        "enunciado": "¿Qué objetivo fundamental persigue el consejo dietético básico según los principios de la promoción de la salud?",
+        "opciones": [
+            "Modificar drásticamente los hábitos alimentarios",
+            "Prevenir enfermedades relacionadas con la alimentación inadecuada",
+            "Incrementar el consumo de suplementos dietéticos",
+            "Asegurar la adherencia a dietas restrictivas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético básico busca principalmente prevenir enfermedades promoviendo hábitos alimentarios saludables."
+    },
+    {
+        "enunciado": "En el marco de la Estrategia de Promoción de Vida Saludable, ¿cuál es un indicador de éxito del consejo dietético intensivo?",
+        "opciones": [
+            "Incremento del tiempo dedicado al uso de dispositivos electrónicos",
+            "Reducción del tiempo sedentario en los pacientes atendidos",
+            "Mayor consumo de alimentos procesados",
+            "Disminución de consultas médicas relacionadas con trastornos nutricionales"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "Un indicador clave es la reducción de consultas relacionadas con problemas derivados de una dieta inadecuada, como resultado de la mejora en hábitos alimenticios."
+    },
+    {
+        "enunciado": "Según la Estrategia de Promoción de Vida Saludable en Andalucía, ¿qué grupo poblacional es prioritario para las intervenciones de consejo dietético intensivo?",
+        "opciones": [
+            "Personas menores de edad exclusivamente",
+            "Población adulta con factores de riesgo asociados a enfermedades no transmisibles",
+            "Personas sanas sin antecedentes familiares de enfermedades crónicas",
+            "Exclusivamente mujeres embarazadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo está dirigido principalmente a personas adultas con factores de riesgo como obesidad, hipertensión o diabetes."
+    },
+    {
+        "enunciado": "En el consejo dietético básico, ¿cuál es un ejemplo de recomendación general?",
+        "opciones": [
+            "Reducir el consumo de alimentos ricos en grasas trans",
+            "Prescripción de dietas hipocalóricas personalizadas",
+            "Introducción de suplementos vitamínicos obligatorios",
+            "Revisión médica mensual"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo básico incluye recomendaciones generales como evitar grasas trans y aumentar el consumo de frutas y verduras."
+    },
+    {
+        "enunciado": "¿Cuál es una característica clave del consejo dietético intensivo?",
+        "opciones": [
+            "Es una intervención universal y no personalizada",
+            "Incluye un seguimiento estructurado y continuo",
+            "Solo se aplica en contextos hospitalarios",
+            "No requiere diagnóstico inicial"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo intensivo incluye un seguimiento detallado para adaptar las intervenciones a las necesidades de cada individuo."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa el diagnóstico inicial en un consejo dietético intensivo?",
+        "opciones": [
+            "Nivel socioeconómico exclusivamente",
+            "Hábitos alimentarios y factores de riesgo",
+            "Predisposición genética sin considerar estilo de vida",
+            "Únicamente el índice de masa corporal (IMC)"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El diagnóstico inicial considera múltiples factores, como hábitos alimentarios, actividad física y riesgos de salud asociados."
+    },
+    {
+        "enunciado": "¿Qué principio guía las acciones del consejo dietético en el ámbito sanitario según la Estrategia de Promoción de Vida Saludable?",
+        "opciones": [
+            "Principio de exclusividad",
+            "Principio de universalidad",
+            "Principio de neutralidad",
+            "Principio de individualismo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El principio de universalidad garantiza que todas las personas tengan acceso a acciones de promoción de salud sin distinción."
+    },
+    {
+        "enunciado": "¿Qué alimentos son promovidos como parte de una dieta saludable según el patrón de Dieta Mediterránea?",
+        "opciones": [
+            "Alimentos ultraprocesados de bajo contenido calórico",
+            "Grasas trans y carnes procesadas",
+            "Frutas, verduras y cereales integrales",
+            "Bebidas azucaradas y snacks"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El patrón de Dieta Mediterránea incluye alimentos frescos y equilibrados como frutas, verduras y cereales integrales."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los objetivos estratégicos relacionados con el consejo dietético en la Estrategia de Promoción de Vida Saludable en Andalucía?",
+        "opciones": [
+            "Incrementar el tiempo dedicado a videojuegos en adolescentes",
+            "Disminuir los niveles de actividad física en adultos mayores",
+            "Aumentar el consumo de alimentos saludables en detrimento de los no saludables",
+            "Promover dietas restrictivas para toda la población"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "Uno de los objetivos es fomentar una alimentación más saludable reduciendo el consumo de alimentos poco nutritivos."
+    },
+    {
+        "enunciado": "En el consejo dietético intensivo, ¿qué método se utiliza para diseñar las intervenciones?",
+        "opciones": [
+            "Selección aleatoria de dietas populares",
+            "Planificación basada en necesidades específicas identificadas en la evaluación inicial",
+            "Recomendaciones genéricas para todos los pacientes",
+            "Eliminación de grupos alimenticios sin justificación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo intensivo adapta las intervenciones a las necesidades específicas detectadas mediante una evaluación inicial."
+    },
+    {
+        "enunciado": "¿Qué evaluación es fundamental antes de implementar un consejo dietético intensivo?",
+        "opciones": [
+            "Un análisis genético obligatorio",
+            "Una evaluación de hábitos y factores de riesgo",
+            "Una entrevista psicológica extensa",
+            "Un estudio de mercado sobre alimentos disponibles"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La evaluación de hábitos y factores de riesgo es esencial para personalizar las intervenciones en el consejo dietético intensivo."
+    },
+    {
+        "enunciado": "¿Qué diferencia caracteriza al consejo dietético básico frente al intensivo?",
+        "opciones": [
+            "El básico excluye intervenciones en población infantil",
+            "El intensivo requiere diagnóstico médico previo",
+            "El básico incluye únicamente información sobre recetas",
+            "El intensivo se aplica solo en pacientes hospitalizados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo requiere una valoración inicial más detallada que permita identificar necesidades específicas."
+    },
+    {
+        "enunciado": "Según las recomendaciones de la OMS, ¿qué beneficio se asocia a una dieta saludable?",
+        "opciones": [
+            "Reducción de enfermedades no transmisibles como la diabetes",
+            "Incremento del consumo de productos ultraprocesados",
+            "Mayor dependencia de suplementos dietéticos",
+            "Disminución de la actividad física recomendada"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "Una dieta saludable protege frente a enfermedades como la diabetes, las enfermedades cardíacas y ciertos tipos de cáncer."
+    },
+    {
+        "enunciado": "¿Qué intervenciones incluye el consejo dietético intensivo según la Estrategia de Promoción de Vida Saludable?",
+        "opciones": [
+            "Prescripción de actividad física de alta intensidad únicamente",
+            "Campañas generales sin seguimiento individual",
+            "Terapias individualizadas o grupales adaptadas a las necesidades",
+            "Prohibición total de alimentos procesados"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo se centra en intervenciones personalizadas o grupales, ajustadas según la evaluación inicial."
+    },
+    {
+        "enunciado": "¿Qué componente adicional suele incluir el consejo dietético intensivo en comparación con el básico?",
+        "opciones": [
+            "Seguimiento continuo de los resultados",
+            "Recomendaciones sobre lactancia materna",
+            "Información genérica sobre alimentos",
+            "Uso de suplementos dietéticos no recomendados"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El seguimiento es una característica fundamental del consejo dietético intensivo, para ajustar las estrategias según los resultados."
+    },
+    {
+        "enunciado": "¿Qué impacto busca el consejo dietético básico en la población general?",
+        "opciones": [
+            "Reducir la tasa de enfermedades relacionadas con una mala alimentación",
+            "Incrementar el consumo de productos industrializados",
+            "Promover el sedentarismo como hábito saludable",
+            "Eliminar totalmente el consumo de carbohidratos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético básico tiene como meta reducir enfermedades promoviendo hábitos alimentarios equilibrados."
+    },
+    {
+        "enunciado": "¿Qué criterio guía la elección de medidas en el consejo dietético intensivo?",
+        "opciones": [
+            "La moda actual en tendencias de dieta",
+            "Las necesidades y riesgos identificados en cada persona",
+            "La disponibilidad de alimentos ultraprocesados",
+            "La eliminación de grasas saludables de la dieta"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo intensivo se basa en identificar y responder a las necesidades y riesgos específicos de cada individuo."
+    },
+    {
+        "enunciado": "¿Qué recurso promueve la Estrategia de Promoción de Vida Saludable para facilitar el acceso a una dieta equilibrada?",
+        "opciones": [
+            "Campañas publicitarias de productos procesados",
+            "Educación nutricional en centros comunitarios y sanitarios",
+            "Distribución masiva de suplementos vitamínicos",
+            "Incentivos para el consumo de bebidas azucaradas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La educación nutricional es clave para fomentar hábitos alimentarios saludables y equilibrados entre la población."
+    },
+    {
+        "enunciado": "¿Qué tipo de alimentación promueve el patrón de Dieta Mediterránea según la Estrategia de Promoción de Vida Saludable?",
+        "opciones": [
+            "Rica en frutas, verduras, legumbres y grasas saludables",
+            "Basada en alimentos ultraprocesados y grasas trans",
+            "Con un alto consumo de azúcares libres",
+            "Sin consideración del impacto ambiental"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La Dieta Mediterránea se caracteriza por un alto consumo de frutas, verduras, legumbres y grasas saludables, como el aceite de oliva."
+    },
+    {
+        "enunciado": "¿Qué objetivo relacionado con el consejo dietético intensivo destaca en la Estrategia de Promoción de Vida Saludable?",
+        "opciones": [
+            "Reducir el tiempo de sueño en la población general",
+            "Aumentar la accesibilidad a alimentos saludables para grupos vulnerables",
+            "Promover el sedentarismo en personas mayores",
+            "Fomentar la ingesta de productos ricos en azúcares"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La estrategia destaca la importancia de hacer accesibles alimentos saludables, especialmente en grupos más vulnerables."
+    },
+    {
+        "enunciado": "¿Qué función cumple la valoración inicial en el consejo dietético intensivo?",
+        "opciones": [
+            "Determinar el estado general de salud y establecer prioridades de intervención",
+            "Seleccionar alimentos para elaborar un menú general",
+            "Prescribir medicamentos para reducir el peso corporal",
+            "Evaluar únicamente el índice de masa corporal"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La valoración inicial permite identificar necesidades específicas y establecer un plan adaptado de intervención dietética."
+    },
+    {
+        "enunciado": "¿Qué grupo de alimentos es prioritario en las recomendaciones del consejo dietético básico?",
+        "opciones": [
+            "Alimentos ricos en grasas trans",
+            "Frutas, verduras y cereales integrales",
+            "Bebidas azucaradas y energéticas",
+            "Carnes procesadas y alimentos ultracongelados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético básico promueve el consumo de alimentos frescos y equilibrados, como frutas y cereales integrales."
+    },
+    {
+        "enunciado": "¿Qué estrategia complementa el consejo dietético intensivo según la OMS?",
+        "opciones": [
+            "El fomento de la actividad física regular",
+            "La exclusión total de carbohidratos de la dieta",
+            "El uso obligatorio de suplementos dietéticos",
+            "La promoción de ayunos prolongados"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La actividad física regular complementa el consejo dietético intensivo para mejorar la salud general y prevenir enfermedades."
+    },
+    {
+        "enunciado": "Según la Estrategia de Promoción de Vida Saludable, ¿qué indicador mide el impacto del consejo dietético intensivo?",
+        "opciones": [
+            "Reducción de la prevalencia de obesidad en grupos de riesgo",
+            "Incremento en el consumo de alimentos ultraprocesados",
+            "Disminución del interés por alimentos saludables",
+            "Aumento de la publicidad de productos altos en azúcares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La reducción de la obesidad en grupos de riesgo es un indicador clave del impacto del consejo dietético intensivo."
+    },
+    {
+        "enunciado": "¿Qué acciones se incluyen en el consejo dietético intensivo para abordar factores de riesgo?",
+        "opciones": [
+            "Recomendaciones estandarizadas para toda la población",
+            "Intervenciones personalizadas según el diagnóstico inicial",
+            "Promoción de alimentos ricos en grasas saturadas",
+            "Restricción de todos los tipos de carbohidratos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético intensivo incluye intervenciones personalizadas para atender factores de riesgo específicos."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña el consejo dietético básico en la promoción de hábitos saludables?",
+        "opciones": [
+            "Brindar información general para la prevención de enfermedades",
+            "Reemplazar completamente el consejo médico profesional",
+            "Prescribir medicamentos para la pérdida de peso",
+            "Evitar el consumo de proteínas en la dieta diaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo dietético básico es una herramienta clave para prevenir enfermedades mediante la educación y la promoción de hábitos saludables."
+    },
+    {
+        "enunciado": "¿Qué prioridad tiene la inclusión de educación nutricional en la Estrategia de Promoción de Vida Saludable?",
+        "opciones": [
+            "Baja, ya que se enfoca más en la promoción de suplementos",
+            "Alta, como herramienta para fomentar elecciones alimentarias saludables",
+            "Irrelevante, ya que se centra en restricciones dietéticas",
+            "Moderada, para complementar la eliminación de grasas saludables"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "La educación nutricional es prioritaria para fomentar hábitos alimentarios saludables en todos los grupos de edad."
+    },
+    {
+        "enunciado": "¿Cómo contribuye el patrón de Dieta Mediterránea a la promoción de la salud según la Estrategia de Vida Saludable?",
+        "opciones": [
+            "Incrementando el consumo de grasas trans",
+            "Promoviendo alimentos locales y sostenibles ricos en nutrientes",
+            "Limitando el acceso a frutas y verduras frescas",
+            "Sustituyendo proteínas vegetales por carne procesada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El patrón de Dieta Mediterránea fomenta el consumo de alimentos locales y sostenibles, ricos en nutrientes esenciales."
+    },
+    {
+        "enunciado": "¿Qué beneficio se espera del consejo dietético básico a nivel comunitario?",
+        "opciones": [
+            "El aumento del consumo de suplementos vitamínicos innecesarios",
+            "La mejora general en los hábitos alimentarios de la población",
+            "La exclusión total de grasas saludables en las dietas",
+            "La eliminación de carbohidratos en todas las comidas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo básico tiene como objetivo mejorar los hábitos alimentarios de toda la comunidad, fomentando elecciones saludables."
+    },
+    {
+        "enunciado": "¿Qué enfoque utiliza el consejo dietético intensivo para reducir la incidencia de enfermedades no transmisibles?",
+        "opciones": [
+            "Dietas restrictivas generales para toda la población",
+            "Intervenciones basadas en la evidencia científica y personalizadas",
+            "Promoción de alimentos ultraprocesados y altos en azúcar",
+            "Recomendaciones sin seguimiento específico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema37",
+            "promocion_deporte",
+            "alimentacion"
+        ],
+        "feedback": "El consejo intensivo aplica un enfoque basado en la evidencia para personalizar las intervenciones y reducir los riesgos de enfermedades."
+    }
 ]

@@ -1,6 +1,4 @@
 [
-    {
-        "preguntas": [
             {
                 "enunciado": "¿Cuál de las siguientes intervenciones es más adecuada para abordar los determinantes sociales de la salud en una comunidad rural?",
                 "opciones": [
@@ -150,11 +148,7 @@
                     "eps"
                 ],
                 "feedback": "Las entrevistas semiestructuradas permiten explorar en profundidad las percepciones y prácticas culturales directamente de quienes las viven."
-            }
-        ]
-    },
-    {
-        "preguntas": [
+            },
             {
                 "enunciado": "¿Qué herramienta es más útil para identificar las necesidades de salud percibidas por una comunidad específica?",
                 "opciones": [
@@ -334,11 +328,7 @@
                     "eps"
                 ],
                 "feedback": "Un mensaje educativo debe ser claro, comprensible y directamente relevante para las necesidades y características de la población objetivo."
-            }
-        ]
-    },
-    {
-        "preguntas": [
+            },
           {
             "enunciado": "En el marco de la Carta de Ottawa, ¿cuál de los siguientes principios promueve la acción comunitaria como un pilar de la promoción de la salud?",
             "opciones": [
@@ -470,11 +460,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps"],
             "feedback": "La adaptación a las necesidades específicas de la población objetivo permite mayor relevancia, aceptación y efectividad de las estrategias implementadas."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Cuál de las siguientes intervenciones es más efectiva para reducir el riesgo de enfermedades no transmisibles en comunidades urbanas?",
             "opciones": [
@@ -618,11 +604,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps"],
             "feedback": "Los elementos gráficos y dinámicos facilitan el interés y la comprensión de los adolescentes, haciendo los materiales más atractivos y efectivos."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué método participativo es más adecuado para identificar problemas de salud en una comunidad rural?",
             "opciones": [
@@ -754,11 +736,7 @@
             "correcta": 0,
             "categorías": ["tema31", "eps"],
             "feedback": "Los talleres educativos dirigidos a madres y sus familias fortalecen el conocimiento y apoyo necesario para fomentar la lactancia materna exclusiva."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué modelo teórico sostiene que el comportamiento humano se puede moldear a través de refuerzos positivos o negativos?",
             "opciones": [
@@ -878,11 +856,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps"],
             "feedback": "El Modelo de Creencias de Salud postula que las personas consideran los costos y beneficios percibidos al decidir adoptar conductas saludables."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué se entiende por determinantes sociales de la salud según la Organización Mundial de la Salud (OMS)?",
             "opciones": [
@@ -1002,11 +976,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
             "feedback": "Abordar los determinantes sociales de manera multisectorial permite actuar sobre las causas profundas de las desigualdades en salud."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué característica define a los determinantes sociales intermedios de la salud?",
             "opciones": [
@@ -1126,11 +1096,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps", "determinantes_sociales_salud"],
             "feedback": "Los determinantes sociales ayudan a diseñar políticas que aborden las desigualdades estructurales, promoviendo un impacto positivo y equitativo en la salud de la población."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Cuál de las siguientes estrategias educativas es más efectiva para promover hábitos saludables en niños en edad escolar?",
             "opciones": [
@@ -1250,11 +1216,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps", "eps_grupos_específicos"],
             "feedback": "La colaboración intersectorial asegura un enfoque integral, combinando esfuerzos de salud, educación y comunidad para promover el bienestar en el entorno escolar."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué estrategia es más efectiva para reducir el ausentismo laboral relacionado con el estrés?",
             "opciones": [
@@ -1374,11 +1336,7 @@
             "correcta": 0,
             "categorías": ["tema31", "eps", "eps_grupos_específicos"],
             "feedback": "Los entrenamientos en manejo de emociones ayudan a los trabajadores a gestionar el estrés derivado de la interacción constante con clientes, mejorando su bienestar y desempeño."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué indicador sería más adecuado para evaluar el impacto de un programa de salud destinado a reducir la obesidad infantil?",
             "opciones": [
@@ -1498,11 +1456,7 @@
             "correcta": 0,
             "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
             "feedback": "Un indicador SMART asegura claridad, relevancia y viabilidad, facilitando el seguimiento y la medición efectiva de los resultados del programa."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué indicador de sostenibilidad puede medir el éxito a largo plazo de un programa de salud comunitaria?",
             "opciones": [
@@ -1622,11 +1576,7 @@
             "correcta": 2,
             "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
             "feedback": "La reducción en los casos reportados de depresión y ansiedad mide directamente el impacto del programa en la salud mental de los adolescentes."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "¿Qué indicador de sostenibilidad evalúa si un programa de salud comunitaria seguirá funcionando después de que finalice la financiación externa?",
             "opciones": [
@@ -1746,11 +1696,7 @@
             "correcta": 1,
             "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
             "feedback": "Describir los desafíos y las soluciones implementadas permite aprender de la experiencia y mejorar la planificación de futuros programas."
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "enunciado": "En un programa de salud dirigido a reducir el consumo de tabaco, ¿qué indicador puede medir su impacto a mediano plazo?",
             "opciones": [
@@ -1871,7 +1817,7 @@
             "categorías": ["tema31", "eps", "evaluacion_programas_salud"],
             "feedback": "La disminución en la prevalencia de sobrepeso entre los participantes es un indicador directo de la efectividad del programa para mejorar la salud de los adolescentes."
           }
-        ]
-      }
+        
+
                                                                     
 ]
