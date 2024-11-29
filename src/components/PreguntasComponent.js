@@ -28,59 +28,57 @@ function PreguntasComponent({ preguntas, titulo }) {
         <div style={{ margin: '20px', padding: '15px' }}>
             {preguntaActual && (
                 <div className="card mb-3" style={{ marginBottom: '30px', padding: '15px' }}>
-{tituloStripped && <h3 style={{ marginBottom: '20px', color: '#00aaff' }}>{tituloStripped}</h3>}
+                    {tituloStripped && (
+                        <h3 style={{ marginBottom: '20px', color: '#00aaff' }}>{tituloStripped}</h3>
+                    )}
                     <div className="card-body">
                         <h4 className="card-title" style={{ marginBottom: '20px' }}>
                             {preguntaActual.enunciado}
                         </h4>
-                        <form>
-    {preguntaActual.opciones.map((opcion, index) => {
-        const estiloContenedor = {
-            display: 'flex',
-            alignItems: 'center', // Alinea verticalmente
-            gap: '10px', // Espacio entre el radio button y el texto
-            marginBottom: '10px',
-        };
+                        <div>
+                            {preguntaActual.opciones.map((opcion, index) => {
+                                let estiloOpcion = {
+                                    padding: '10px',
+                                    marginBottom: '10px',
+                                    borderRadius: '5px',
+                                    border: '1px solid #ddd',
+                                    backgroundColor: 'transparent',
+                                    transition: 'background-color 0.3s ease',
+                                    cursor: 'pointer',
+                                };
 
-        const estiloLabel = {
-            margin: 0, // Elimina márgenes
-            lineHeight: '1.5', // Asegura una altura de línea adecuada
-            wordBreak: 'break-word', // Permite dividir texto largo
-        };
+                                if (revelada) {
+                                    if (index === preguntaActual.correcta) {
+                                        estiloOpcion.backgroundColor = '#d4edda'; // Verde claro para correcta
+                                        estiloOpcion.border = '1px solid #28a745'; // Verde borde
+                                    } else if (index === seleccion) {
+                                        estiloOpcion.backgroundColor = '#f8d7da'; // Rojo claro para incorrecta
+                                        estiloOpcion.border = '1px solid #dc3545'; // Rojo borde
+                                    }
+                                }
 
-        return (
-            <div key={index} style={estiloContenedor}>
-                <input
-                    className="form-check-input"
-                    type="radio"
-                    name="opciones"
-                    id={`opcion-${index}`}
-                    checked={seleccion === index}
-                    onChange={() => manejarSeleccion(index)}
-                    disabled={revelada}
-                />
-                <label
-                    htmlFor={`opcion-${index}`}
-                    style={estiloLabel}
-                >
-                    {opcion}
-                </label>
-            </div>
-        );
-    })}
-</form>
-
+                                return (
+                                    <div
+                                        key={index}
+                                        style={estiloOpcion}
+                                        onClick={() => manejarSeleccion(index)}
+                                    >
+                                        {opcion}
+                                    </div>
+                                );
+                            })}
+                        </div>
                         {revelada && (
                             <p
                                 className="mt-3"
                                 style={{
                                     marginTop: '20px',
-                                    padding: '10px', // Agregar padding para mantener el tamaño consistente
-                                    backgroundColor: '#f1f1f1', // Color de fondo neutral para feedback
-                                    borderRadius: '5px', // Bordes redondeados
-                                    border: '1px solid #ccc', // Borde de feedback consistente
-                                    boxSizing: 'border-box', // Asegura que padding no afecte el ancho
-                                    width: '100%', // Mantiene el ancho consistente
+                                    padding: '10px',
+                                    backgroundColor: '#f1f1f1',
+                                    borderRadius: '5px',
+                                    border: '1px solid #ccc',
+                                    boxSizing: 'border-box',
+                                    width: '100%',
                                 }}
                             >
                                 <strong>Feedback:</strong> {preguntaActual.feedback}
