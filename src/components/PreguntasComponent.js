@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 function PreguntasComponent({ preguntas, titulo }) {
+    const titulo = titulo.replace('•', '');
     const [preguntaActual, setPreguntaActual] = useState(null);
     const [seleccion, setSeleccion] = useState(null); // Índice de la opción seleccionada
     const [revelada, setRevelada] = useState(false); // Si la respuesta y feedback están revelados
