@@ -1,0 +1,2423 @@
+[
+    {
+        "enunciado": "¿Cuál es la presión capilar normal que permite el intercambio sin daño tisular en la piel?",
+        "opciones": [
+            "Entre 10 y 20 mmHg",
+            "Entre 16 y 33 mmHg",
+            "Entre 20 y 40 mmHg",
+            "Más de 50 mmHg"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La presión capilar normal está entre 16 y 33 mmHg. Una presión externa mayor durante tiempos prolongados puede causar úlceras por presión debido a isquemia y necrosis tisular."
+    },
+    {
+        "enunciado": "¿Qué escala específica utiliza 5 ítems para valorar el riesgo de úlceras por presión y se considera válida para población general hospitalizada?",
+        "opciones": [
+            "Escala de Braden",
+            "Escala de Norton",
+            "Escala de EMINA",
+            "Escala PUSH"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA consta de 5 ítems y es utilizada para valorar el riesgo de úlceras por presión, especialmente en hospitales, con un punto de corte en 5 o mayor para riesgo alto."
+    },
+    {
+        "enunciado": "¿Qué tipo de apósito es recomendado para manejar heridas con alto riesgo de infección debido a su acción antimicrobiana?",
+        "opciones": [
+            "Apósitos de hidrocoloides",
+            "Apósitos de plata",
+            "Apósitos de silicona",
+            "Apósitos de ácido hialurónico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "curas"
+        ],
+        "feedback": "Los apósitos de plata tienen propiedades antimicrobianas, siendo efectivos en heridas con riesgo o presencia de infección."
+    },
+    {
+        "enunciado": "Según la clasificación de Wagner, ¿cuál es la característica principal de una úlcera neuropática de grado 3?",
+        "opciones": [
+            "Presencia de celulitis limitada",
+            "Osteomielitis o abscesos profundos",
+            "Úlcera superficial sin infección",
+            "Gangrena localizada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "En el grado 3 de la clasificación de Wagner, las úlceras neuropáticas presentan osteomielitis o abscesos profundos."
+    },
+    {
+        "enunciado": "¿Qué medida está contraindicada en el manejo preventivo de úlceras por presión?",
+        "opciones": [
+            "Cambios posturales cada 2 horas",
+            "Uso de apósitos de espuma de poliuretano en prominencias óseas",
+            "Masajes en prominencias óseas",
+            "Uso de dispositivos mecánicos como colchones alternantes"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "prevención"
+        ],
+        "feedback": "Los masajes en prominencias óseas están contraindicados ya que pueden dañar aún más los tejidos y no previenen las úlceras."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes factores intrínsecos incrementa el riesgo de formación de úlceras por presión?",
+        "opciones": [
+            "Uso de dispositivos de compresión",
+            "Alteraciones respiratorias o circulatorias",
+            "Presión externa prolongada",
+            "Humedad excesiva en la piel"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "Alteraciones respiratorias o circulatorias son factores intrínsecos que reducen la tolerancia de los tejidos y aumentan el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué método de desbridamiento es el más recomendado para una úlcera con tejido necrosado adherido sin signos de infección?",
+        "opciones": [
+            "Desbridamiento quirúrgico",
+            "Desbridamiento cortante",
+            "Desbridamiento autolítico",
+            "Desbridamiento enzimático"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "curas"
+        ],
+        "feedback": "El desbridamiento autolítico, que utiliza apósitos para crear un ambiente húmedo, es ideal para eliminar tejido necrótico adherido sin infección activa."
+    },
+    {
+        "enunciado": "¿En qué estadio de las úlceras por presión se encuentra pérdida parcial del grosor de la piel, afectando epidermis y dermis?",
+        "opciones": [
+            "Estadio I",
+            "Estadio II",
+            "Estadio III",
+            "Estadio IV"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En el estadio II de las úlceras por presión, hay pérdida parcial del grosor de la piel que afecta a la epidermis, la dermis o ambas, presentando aspecto de abrasión o ampolla."
+    },
+    {
+        "enunciado": "¿Qué escala incluye el ítem de 'fricción y deslizamiento' para valorar el riesgo de úlceras por presión?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala EMINA",
+            "Escala PUSH",
+            "Escala de Braden"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden incluye 'fricción y deslizamiento' como uno de los factores clave para evaluar el riesgo de desarrollar úlceras por presión."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes lesiones se clasifica como secundaria en dermatología?",
+        "opciones": [
+            "Mácula",
+            "Ampolla",
+            "Escara",
+            "Pápula"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "dermatología"
+        ],
+        "feedback": "La escara es una lesión secundaria, formada por tejido necrótico con límites definidos, resultado de la evolución de una lesión primaria o de un daño tisular previo."
+    },
+    {
+        "enunciado": "¿Qué característica distingue una úlcera arterial grave en su diagnóstico clínico?",
+        "opciones": [
+            "Presencia de tejido granuloso y exudado abundante",
+            "Dolor que mejora al elevar la pierna",
+            "Maléolo lateral como localización común y lecho gris",
+            "Bordes irregulares y edema prominente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales graves suelen localizarse en el maléolo lateral, presentan un lecho gris o amarillo y son muy dolorosas, especialmente en posición de declive."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes acciones está contraindicada en el manejo de la presión en pacientes con riesgo de úlceras por presión?",
+        "opciones": [
+            "Utilizar colchones alternantes de aire",
+            "Elevar la cabecera de la cama a más de 30º",
+            "Realizar cambios posturales cada 2 horas",
+            "Evitar superficies con fricción directa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "prevención"
+        ],
+        "feedback": "Elevar la cabecera de la cama más de 30º está contraindicada porque aumenta el riesgo de deslizamiento y cizallamiento, factores que favorecen las úlceras."
+    },
+    {
+        "enunciado": "¿Qué tipo de apósito es ideal para manejar heridas con alto exudado y promover la cicatrización?",
+        "opciones": [
+            "Apósitos de hidrocoloides",
+            "Apósitos de alginatos",
+            "Apósitos de plata",
+            "Apósitos de silicona"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "curas"
+        ],
+        "feedback": "Los apósitos de alginatos son ideales para heridas con exudado abundante, ya que absorben el líquido y mantienen un ambiente húmedo favorable para la cicatrización."
+    },
+    {
+        "enunciado": "Según la regla de Wallace, ¿qué porcentaje corporal corresponde a la superficie de la cabeza en un adulto?",
+        "opciones": [
+            "4%",
+            "7%",
+            "9%",
+            "12%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "quemaduras"
+        ],
+        "feedback": "La regla de los 9 de Wallace asigna un 9% de la superficie corporal total a la cabeza en adultos, útil para estimar la extensión de quemaduras."
+    },
+    {
+        "enunciado": "¿Qué característica clínica es común en una úlcera venosa?",
+        "opciones": [
+            "Dolor que mejora al estar de pie",
+            "Localización frecuente en el dorso del pie",
+            "Bordes regulares y profundos",
+            "Exudado abundante y mejora al elevar la pierna"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen presentar exudado abundante, bordes irregulares y el dolor disminuye al elevar la pierna debido a la mejora del retorno venoso."
+    },
+    {
+        "enunciado": "¿Qué elemento es clave en la prevención de úlceras por presión durante la movilización del paciente?",
+        "opciones": [
+            "Realizar cambios posturales cada 4 horas",
+            "Evitar la utilización de cremas protectoras",
+            "Usar superficies especiales para redistribuir la presión",
+            "Elevar la cabecera de la cama a 45º"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "prevención"
+        ],
+        "feedback": "El uso de superficies especiales como colchones antiescaras ayuda a redistribuir la presión, previniendo la formación de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué lesión dermatológica secundaria se caracteriza por ser una pérdida de sustancia que afecta epidermis, dermis y tejido subcutáneo?",
+        "opciones": [
+            "Escoriación",
+            "Erosión",
+            "Úlcera",
+            "Fístula"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "dermatología"
+        ],
+        "feedback": "La úlcera es una lesión secundaria que implica una pérdida de sustancia que puede afectar desde la epidermis hasta el tejido subcutáneo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes acciones es fundamental para el manejo de quemaduras profundas?",
+        "opciones": [
+            "Aplicar hielo directamente sobre la quemadura",
+            "Usar apósitos secos para cubrir la lesión",
+            "Evaluar la extensión y profundidad de la quemadura",
+            "Limpiar la herida con antisépticos a base de alcohol"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "quemaduras"
+        ],
+        "feedback": "La evaluación de la extensión y profundidad de la quemadura es esencial para determinar el tratamiento adecuado y prevenir complicaciones."
+    },
+    {
+        "enunciado": "¿Qué aspecto indica un tejido en necrosis en una úlcera por presión?",
+        "opciones": [
+            "Coloración rojiza brillante",
+            "Tejido blando y amarillento o negro",
+            "Presencia de bordes hiperémicos",
+            "Aspecto húmedo y granular"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "El tejido necrosado en una úlcera por presión puede aparecer amarillo blando o negro, lo que indica daño tisular grave y la necesidad de desbridamiento."
+    },
+    {
+        "enunciado": "¿Qué método de valoración del riesgo de úlceras por presión clasifica a los pacientes según una puntuación de 6 a 23?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de EMINA",
+            "Escala de Braden",
+            "Escala PUSH"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden clasifica el riesgo de úlceras por presión con puntuaciones entre 6 y 23, considerando factores como movilidad, nutrición y fricción."
+    },
+    {
+        "enunciado": "¿Qué factor evalúa la escala de Norton para determinar el riesgo de úlceras por presión?",
+        "opciones": [
+            "Capacidad de deambulación del paciente",
+            "Estado nutricional específico",
+            "Estado físico general",
+            "Presión arterial sistólica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton evalúa factores como el estado físico general, entre otros, asignando una puntuación de 1 a 4 en cada ítem para determinar el riesgo."
+    },
+    {
+        "enunciado": "¿Cuál es el punto de corte en la escala de EMINA para considerar que un paciente tiene un alto riesgo de desarrollar úlceras por presión?",
+        "opciones": [
+            "15 puntos o más",
+            "10 puntos o menos",
+            "5 puntos o más",
+            "Entre 6 y 9 puntos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala de EMINA, una puntuación de 5 o más indica un mayor riesgo de desarrollar úlceras por presión, siendo una herramienta útil en hospitales."
+    },
+    {
+        "enunciado": "¿Qué ítem de la escala de Braden evalúa la capacidad del paciente para responder a la incomodidad por presión?",
+        "opciones": [
+            "Humedad",
+            "Percepción sensorial",
+            "Nutrición",
+            "Movilidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La percepción sensorial en la escala de Braden mide la capacidad del paciente para reconocer y responder a la incomodidad generada por la presión."
+    },
+    {
+        "enunciado": "¿Qué diferencia clave presenta la escala PUSH en comparación con otras herramientas de evaluación de úlceras?",
+        "opciones": [
+            "Evalúa únicamente el riesgo de desarrollo de úlceras",
+            "Se centra en medir la evolución y cicatrización de la úlcera",
+            "No considera el nivel de exudado",
+            "Tiene un único ítem sobre movilidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH se utiliza para medir la evolución y cicatrización de las úlceras por presión, considerando parámetros como tamaño, exudado y tejido."
+    },
+    {
+        "enunciado": "En la escala de Norton, ¿qué puntuación mínima total indica un riesgo significativo de desarrollar úlceras por presión?",
+        "opciones": [
+            "20 puntos",
+            "16 puntos",
+            "14 puntos",
+            "10 puntos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala de Norton, una puntuación de 14 o menor indica un riesgo significativo de úlceras por presión, por lo que se deben tomar medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué ítem de la escala EMINA evalúa la presencia de incontinencia en el paciente?",
+        "opciones": [
+            "Estado físico general",
+            "Movilidad",
+            "Estado nutricional",
+            "Humedad"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA incluye la evaluación de la humedad, la cual está directamente relacionada con la presencia de incontinencia, un factor de riesgo importante."
+    },
+    {
+        "enunciado": "¿Cuál es la puntuación máxima posible en la escala de Braden?",
+        "opciones": [
+            "15 puntos",
+            "20 puntos",
+            "23 puntos",
+            "25 puntos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden tiene una puntuación máxima de 23 puntos, y a menor puntuación, mayor es el riesgo de desarrollar úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué aspecto no se evalúa directamente en la escala de Norton?",
+        "opciones": [
+            "Incontinencia",
+            "Estado físico general",
+            "Actividad",
+            "Estado mental"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton no evalúa directamente la incontinencia, pero incluye otros factores como estado físico, actividad y estado mental que influyen en el riesgo."
+    },
+    {
+        "enunciado": "¿Qué puntuación en la escala PUSH indica una mejora en el proceso de cicatrización de una úlcera?",
+        "opciones": [
+            "Un aumento progresivo de la puntuación",
+            "Una puntuación constante en cada evaluación",
+            "Una disminución en la puntuación total",
+            "No se relaciona la puntuación con la evolución"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala PUSH, una disminución en la puntuación total refleja una mejora en la cicatrización de la úlcera, al reducir tamaño, exudado y tejido no viable."
+    },
+    {
+        "enunciado": "¿Qué categoría específica se evalúa en la escala EMINA mediante la movilidad del paciente?",
+        "opciones": [
+            "Grado de actividad física",
+            "Capacidad de mantener la posición",
+            "Capacidad de realizar cambios posturales",
+            "Fuerza muscular general"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA evalúa específicamente la capacidad del paciente para realizar cambios posturales como un factor clave en la prevención de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué puntuación en la escala de Braden indica un alto riesgo de úlceras por presión?",
+        "opciones": [
+            "23 puntos",
+            "18 puntos",
+            "16 puntos o menos",
+            "14 puntos o menos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala de Braden, una puntuación de 16 o menos se asocia con un alto riesgo de desarrollar úlceras por presión, requiriendo medidas preventivas inmediatas."
+    },
+    {
+        "enunciado": "¿Qué ítem de la escala PUSH evalúa el tipo de tejido presente en la úlcera?",
+        "opciones": [
+            "Tejido de granulación, esfacelos y necrótico",
+            "Exudado abundante, ligero o moderado",
+            "Longitud y anchura de la úlcera",
+            "Estado de las membranas mucosas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH incluye la evaluación del tipo de tejido presente, clasificándolo como granulación, esfacelos o tejido necrótico, lo cual ayuda a determinar la etapa de cicatrización."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la escala EMINA?",
+        "opciones": [
+            "Evaluar el estado nutricional del paciente",
+            "Determinar el riesgo de úlceras por presión",
+            "Medir la evolución de las úlceras existentes",
+            "Clasificar las úlceras en estadios específicos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA tiene como objetivo principal valorar el riesgo de que un paciente desarrolle úlceras por presión, evaluando aspectos como movilidad, humedad y estado físico."
+    },
+    {
+        "enunciado": "¿Qué valor en la escala de Norton se considera como límite para un paciente en riesgo moderado?",
+        "opciones": [
+            "12 puntos",
+            "14 puntos",
+            "16 puntos",
+            "18 puntos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala de Norton, 14 puntos o menos indican un riesgo moderado o alto, requiriendo intervenciones preventivas para evitar la aparición de úlceras."
+    },
+    {
+        "enunciado": "¿Qué tipo de pacientes se beneficia principalmente del uso de la escala PUSH?",
+        "opciones": [
+            "Pacientes con riesgo de desarrollar úlceras",
+            "Pacientes con úlceras ya existentes",
+            "Pacientes pediátricos con problemas de piel",
+            "Pacientes sometidos a cirugías de injerto cutáneo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH está diseñada para pacientes con úlceras ya existentes, con el objetivo de evaluar la evolución y efectividad del tratamiento."
+    },
+    {
+        "enunciado": "En la escala de Braden, ¿qué factor se evalúa bajo el ítem de 'Nutrición'?",
+        "opciones": [
+            "Ingesta de líquidos diaria",
+            "Capacidad de masticar alimentos sólidos",
+            "Adecuación de la ingesta nutricional diaria",
+            "Frecuencia de alimentación por sonda"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "El ítem de 'Nutrición' en la escala de Braden evalúa si la ingesta nutricional del paciente es adecuada, probablemente inadecuada, muy pobre o excelente."
+    },
+    {
+        "enunciado": "¿Qué parámetro evalúa la escala PUSH al medir la longitud y anchura de la úlcera?",
+        "opciones": [
+            "Profundidad del tejido afectado",
+            "Área total de la lesión",
+            "Volumen del exudado",
+            "Nivel de dolor en la úlcera"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH mide el área total de la lesión considerando la longitud y anchura de la úlcera, un parámetro clave para monitorear su evolución."
+    },
+    {
+        "enunciado": "En la escala de Norton, ¿qué factor evalúa el estado mental del paciente?",
+        "opciones": [
+            "Orientación, confusión o estupor",
+            "Capacidad de responder a estímulos",
+            "Nivel de conciencia durante el día",
+            "Frecuencia de episodios de desorientación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton evalúa el estado mental en términos de orientación, confusión o estupor, considerando cómo estos afectan la capacidad del paciente para prevenir lesiones."
+    },
+    {
+        "enunciado": "En la escala de Braden, ¿qué significa una puntuación baja en el ítem 'Humedad'?",
+        "opciones": [
+            "Mayor riesgo debido a piel constantemente húmeda",
+            "Menor riesgo debido a humedad moderada",
+            "Ausencia total de humedad en la piel",
+            "Menor necesidad de cambios posturales"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "Una puntuación baja en el ítem 'Humedad' de la escala de Braden indica piel constantemente húmeda, lo que incrementa el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué punto de corte se utiliza en la escala EMINA para considerar un riesgo bajo de úlceras por presión?",
+        "opciones": [
+            "5 puntos o más",
+            "Entre 3 y 4 puntos",
+            "Menos de 5 puntos",
+            "Menos de 3 puntos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala EMINA, una puntuación menor de 5 indica un riesgo bajo de desarrollar úlceras por presión, pero aún puede requerir medidas preventivas básicas."
+    },
+    {
+        "enunciado": "La escala que evalúa los elementos: estado físico general, estado mental, actividad, movilidad e incontinencia es:",
+        "opciones": [
+            "Escala de Braden",
+            "Escala de Norton",
+            "Escala EMINA",
+            "Escala PUSH"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton evalúa estos cinco elementos y asigna una puntuación de 1 a 4 para cada uno, ayudando a determinar el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "Los ítems evaluados en la escala de Braden incluyen:",
+        "opciones": [
+            "Estado físico general, actividad, movilidad, y fricción y deslizamiento",
+            "Percepción sensorial, humedad, actividad, movilidad, nutrición y fricción y deslizamiento",
+            "Humedad, movilidad, estado físico general y capacidad de respuesta a estímulos",
+            "Percepción sensorial, estado mental, actividad y estado físico general"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden evalúa percepción sensorial, humedad, actividad, movilidad, nutrición y fricción y deslizamiento, permitiendo una valoración integral del riesgo de úlceras."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza los ítems: movilidad, incontinencia, estado nutricional, estado físico general y humedad?",
+        "opciones": [
+            "Escala EMINA",
+            "Escala de Braden",
+            "Escala de Norton",
+            "Escala PUSH"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA incluye estos ítems en su evaluación y es utilizada principalmente en hospitales para valorar el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "La escala que se centra en medir la evolución de úlceras mediante tamaño, exudado y tipo de tejido es:",
+        "opciones": [
+            "Escala EMINA",
+            "Escala de Braden",
+            "Escala de Norton",
+            "Escala PUSH"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH se utiliza para monitorear la evolución de las úlceras por presión, midiendo el área de la lesión, el exudado y el tipo de tejido presente."
+    },
+    {
+        "enunciado": "Los elementos evaluados en la escala de Norton son:",
+        "opciones": [
+            "Estado físico general, percepción sensorial, movilidad y fricción",
+            "Estado físico general, estado mental, actividad, movilidad e incontinencia",
+            "Estado nutricional, actividad, humedad, movilidad y fricción",
+            "Tamaño de la úlcera, exudado y tejido de granulación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton evalúa estado físico general, estado mental, actividad, movilidad e incontinencia, con un rango total de puntuación entre 5 y 20."
+    },
+    {
+        "enunciado": "¿Qué escala incluye ítems como percepción sensorial, nutrición y fricción y deslizamiento?",
+        "opciones": [
+            "Escala PUSH",
+            "Escala EMINA",
+            "Escala de Braden",
+            "Escala de Norton"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden incluye ítems como percepción sensorial, nutrición, y fricción y deslizamiento, entre otros, para valorar el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "La escala utilizada para valorar el riesgo de úlceras por presión en base a 5 ítems puntuados de 0 a 3 es:",
+        "opciones": [
+            "Escala de Braden",
+            "Escala EMINA",
+            "Escala PUSH",
+            "Escala de Norton"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA utiliza 5 ítems puntuados entre 0 y 3, y una puntuación total de 5 o más indica un alto riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza criterios como estado mental y movilidad para valorar el riesgo de úlceras?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala PUSH",
+            "Escala EMINA"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton incluye ítems como estado mental y movilidad, los cuales se puntúan para identificar el riesgo de desarrollo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Cuál es la escala específica para valorar la progresión de una úlcera a través de su tejido y exudado?",
+        "opciones": [
+            "Escala de Braden",
+            "Escala PUSH",
+            "Escala de Norton",
+            "Escala EMINA"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH evalúa la progresión de la úlcera a través del tipo de tejido presente, el nivel de exudado y el tamaño de la lesión."
+    },
+    {
+        "enunciado": "Los componentes evaluados en la escala PUSH incluyen:",
+        "opciones": [
+            "Estado físico general, movilidad y humedad",
+            "Estado nutricional, tamaño de la lesión y tejido",
+            "Tamaño de la lesión, exudado y tipo de tejido",
+            "Percepción sensorial, movilidad y fricción"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH mide el tamaño de la lesión, la cantidad de exudado y el tipo de tejido presente, lo que permite evaluar la evolución de la úlcera."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa los factores: percepción sensorial, humedad, actividad, movilidad, nutrición y fricción?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala EMINA",
+            "Escala de Braden",
+            "Escala PUSH"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden evalúa estos seis factores y clasifica el riesgo de úlceras por presión, siendo especialmente utilizada en hospitales."
+    },
+    {
+        "enunciado": "Los elementos clave evaluados en la escala EMINA son:",
+        "opciones": [
+            "Movilidad, incontinencia, estado físico general, humedad y estado mental",
+            "Humedad, estado nutricional, movilidad, estado físico general e incontinencia",
+            "Estado mental, movilidad, percepción sensorial, actividad y humedad",
+            "Tamaño de la úlcera, exudado, tejido y movilidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA incluye ítems como movilidad, humedad, estado nutricional, estado físico general e incontinencia para valorar el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza una puntuación entre 6 y 23 para evaluar el riesgo de úlceras por presión?",
+        "opciones": [
+            "Escala PUSH",
+            "Escala EMINA",
+            "Escala de Norton",
+            "Escala de Braden"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden utiliza una puntuación de 6 a 23, donde una menor puntuación indica mayor riesgo de desarrollar úlceras por presión."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal de la escala PUSH?",
+        "opciones": [
+            "Evaluar el riesgo de úlceras por presión",
+            "Monitorear la evolución y cicatrización de las úlceras",
+            "Clasificar las úlceras en diferentes estadios",
+            "Determinar la necesidad de tratamiento quirúrgico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH se utiliza para monitorear la evolución de las úlceras por presión evaluando tamaño, exudado y tipo de tejido."
+    },
+    {
+        "enunciado": "¿Qué ítem no es evaluado por la escala de Norton?",
+        "opciones": [
+            "Estado físico general",
+            "Estado mental",
+            "Humedad",
+            "Actividad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton no evalúa la humedad, aunque considera otros factores como el estado físico, mental, actividad y movilidad."
+    },
+    {
+        "enunciado": "La escala EMINA clasifica a los pacientes según:",
+        "opciones": [
+            "Puntuaciones de riesgo alto, moderado y bajo",
+            "Grado de movilidad y estado nutricional",
+            "Puntuación total entre 0 y 15, donde 5 o más indica riesgo",
+            "Niveles de percepción sensorial y humedad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA utiliza una puntuación total entre 0 y 15, siendo 5 o más el límite para considerar un riesgo elevado de desarrollar úlceras."
+    },
+    {
+        "enunciado": "En la escala de Braden, ¿qué representa una puntuación de 1 en el ítem de 'Humedad'?",
+        "opciones": [
+            "Piel ocasionalmente húmeda",
+            "Piel constantemente húmeda",
+            "Piel rara vez húmeda",
+            "Piel sin presencia de humedad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "Una puntuación de 1 en el ítem de 'Humedad' indica que la piel del paciente está constantemente húmeda, aumentando el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala clasifica el riesgo de úlceras por presión con puntuaciones de 5 a 20 y considera 14 o menos como riesgo elevado?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala EMINA",
+            "Escala PUSH"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton utiliza puntuaciones de 5 a 20, donde una puntuación de 14 o menos indica un riesgo significativo de úlceras por presión."
+    },
+    {
+        "enunciado": "La escala que evalúa el tamaño de la úlcera, el nivel de exudado y el tipo de tejido para valorar su evolución es:",
+        "opciones": [
+            "Escala de Norton",
+            "Escala PUSH",
+            "Escala de Braden",
+            "Escala EMINA"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH mide el tamaño de la lesión, el exudado y el tipo de tejido presente, siendo una herramienta clave para monitorear la evolución de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué elementos incluye la escala EMINA en su evaluación?",
+        "opciones": [
+            "Percepción sensorial, nutrición, humedad, fricción y deslizamiento",
+            "Estado físico general, movilidad, incontinencia, humedad y estado nutricional",
+            "Tamaño de la úlcera, exudado, tejido y estado mental",
+            "Movilidad, actividad, estado mental, incontinencia y percepción sensorial"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA evalúa estado físico general, movilidad, incontinencia, humedad y estado nutricional, para determinar el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza seis ítems para evaluar el riesgo de úlceras, incluyendo percepción sensorial y fricción?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala EMINA",
+            "Escala PUSH"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden evalúa el riesgo de úlceras por presión mediante seis ítems, entre ellos percepción sensorial, humedad y fricción."
+    },
+    {
+        "enunciado": "¿Qué elementos evalúa la escala PUSH para determinar la progresión de una úlcera?",
+        "opciones": [
+            "Estado físico general, exudado y movilidad",
+            "Tamaño de la lesión, exudado y tipo de tejido",
+            "Percepción sensorial, actividad y fricción",
+            "Incontinencia, humedad y nutrición"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala PUSH evalúa tamaño de la lesión, cantidad de exudado y tipo de tejido presente para monitorizar la evolución de la úlcera."
+    },
+    {
+        "enunciado": "¿Qué escala considera una puntuación igual o mayor a 5 como indicativa de alto riesgo de úlceras por presión?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala PUSH",
+            "Escala EMINA"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA establece que una puntuación igual o superior a 5 indica un riesgo elevado de desarrollar úlceras por presión."
+    },
+    {
+        "enunciado": "En la escala de Norton, ¿qué ítem evalúa el grado de actividad del paciente?",
+        "opciones": [
+            "Capacidad de cambiar de posición",
+            "Nivel de movilidad entre la cama y la silla",
+            "Frecuencia de deambulación",
+            "Tiempo que pasa en posición erguida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton evalúa el grado de actividad del paciente considerando su movilidad entre la cama y la silla o su capacidad para caminar."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal de la escala de Braden?",
+        "opciones": [
+            "Monitorear la evolución de úlceras existentes",
+            "Evaluar el riesgo de desarrollar úlceras por presión",
+            "Clasificar úlceras según su gravedad",
+            "Determinar el tipo de apósito ideal para el tratamiento"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden está diseñada para evaluar el riesgo de que un paciente desarrolle úlceras por presión, ayudando a implementar medidas preventivas."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa el estado mental como uno de sus factores para determinar el riesgo de úlceras por presión?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala PUSH",
+            "Escala de Braden",
+            "Escala EMINA"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Norton incluye el estado mental como uno de sus cinco ítems, permitiendo valorar cómo este factor afecta el riesgo de úlceras por presión."
+    },
+    {
+        "enunciado": "La escala que mide la capacidad del paciente para realizar cambios posturales y la presencia de incontinencia es:",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala PUSH",
+            "Escala EMINA"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala EMINA evalúa la capacidad de realizar cambios posturales (movilidad) y la incontinencia, entre otros ítems clave para el riesgo de úlceras."
+    },
+    {
+        "enunciado": "En la escala PUSH, ¿qué indica una puntuación decreciente en sucesivas evaluaciones?",
+        "opciones": [
+            "Progresión de la úlcera",
+            "Mejora en la cicatrización",
+            "Aumento del riesgo de infección",
+            "Estabilización del tamaño de la úlcera"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "En la escala PUSH, una puntuación decreciente indica que la úlcera está mejorando, ya sea por reducción de tamaño, menor exudado o cambio en el tipo de tejido."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza la fricción como uno de los factores evaluados para el riesgo de úlceras por presión?",
+        "opciones": [
+            "Escala de Norton",
+            "Escala de Braden",
+            "Escala EMINA",
+            "Escala PUSH"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La escala de Braden incluye la fricción y deslizamiento como uno de los ítems a evaluar, siendo un factor relevante en la formación de úlceras por presión."
+    },
+    {
+        "enunciado": "¿Qué escala clasifica las úlceras por presión en estadios específicos según la profundidad y tipo de tejido afectado?",
+        "opciones": [
+            "Escala PUSH",
+            "Escala de Braden",
+            "Clasificación del GNEAUPP",
+            "Escala EMINA"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "upp"
+        ],
+        "feedback": "La clasificación del GNEAUPP divide las úlceras por presión en estadios según su profundidad y el tejido afectado, siendo una herramienta común en su manejo."
+    },
+    {
+        "enunciado": "¿Cuál es una característica distintiva de las úlceras venosas en comparación con las úlceras arteriales?",
+        "opciones": [
+            "Se localizan en el maléolo lateral",
+            "Tienen bordes irregulares y exudado abundante",
+            "Son muy dolorosas incluso en reposo",
+            "Aparecen en zonas de piel fría y pálida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen tener bordes irregulares, un exudado abundante y aparecen en el área entre la rodilla y el tobillo, mejorando al elevar la pierna."
+    },
+    {
+        "enunciado": "¿Qué característica es típica de las úlceras arteriales?",
+        "opciones": [
+            "Aparecen en el dorso del pie o maléolo lateral",
+            "Tienen exudado moderado a alto",
+            "Mejoran al elevar la pierna",
+            "Se localizan en la parte inferior de la pierna con bordes irregulares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales son típicamente profundas, muy dolorosas, y suelen localizarse en el dorso del pie o en el maléolo lateral, donde el flujo arterial es crítico."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera mejora el dolor al elevar la pierna afectada?",
+        "opciones": [
+            "Úlceras arteriales",
+            "Úlceras neuropáticas",
+            "Úlceras venosas",
+            "Úlceras neoplásicas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen mejorar al elevar la pierna, ya que esto facilita el retorno venoso, reduciendo la presión en el sistema vascular de la extremidad."
+    },
+    {
+        "enunciado": "¿Qué parámetro es esencial para diferenciar entre una úlcera venosa y una arterial?",
+        "opciones": [
+            "La cantidad de exudado",
+            "El índice tobillo-brazo (ITB)",
+            "La forma de los bordes",
+            "La ubicación de la lesión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial",
+            "úlcera_venosa"
+        ],
+        "feedback": "El índice tobillo-brazo (ITB) es crucial para diferenciar úlceras venosas de arteriales. Un ITB menor a 0.5 indica enfermedad arterial grave, típica de úlceras arteriales."
+    },
+    {
+        "enunciado": "¿Qué tratamiento es clave en el manejo de las úlceras venosas?",
+        "opciones": [
+            "Desbridamiento quirúrgico inmediato",
+            "Vendaje compresivo de 40 mmHg",
+            "Aplicación de antibióticos sistémicos",
+            "Evitar el uso de apósitos absorbentes"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "El vendaje compresivo es esencial para mejorar el retorno venoso en las úlceras venosas, siempre y cuando no haya contraindicación arterial."
+    },
+    {
+        "enunciado": "¿Cuál es una diferencia clave entre las úlceras venosas y las arteriales en cuanto a su localización?",
+        "opciones": [
+            "Las venosas se localizan en el dorso del pie; las arteriales, en el tobillo",
+            "Las venosas aparecen en la pierna distal; las arteriales, en zonas de prominencias óseas",
+            "Las venosas afectan el área supramaleolar; las arteriales, el maléolo lateral y el dorso del pie",
+            "Ambas se localizan predominantemente en el maléolo medial"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen afectar el área supramaleolar, mientras que las arteriales afectan el maléolo lateral y el dorso del pie debido a la isquemia local."
+    },
+    {
+        "enunciado": "¿Qué signo clínico puede diferenciar una úlcera venosa de una arterial?",
+        "opciones": [
+            "Piel fría y cianótica alrededor de la úlcera",
+            "Exudado escaso y bordes regulares",
+            "Dolor al caminar que mejora con el reposo",
+            "Edema prominente en la pierna afectada"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "El edema prominente en la pierna es característico de las úlceras venosas debido al mal retorno venoso, mientras que las úlceras arteriales suelen presentar isquemia."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes condiciones está más asociada con las úlceras arteriales?",
+        "opciones": [
+            "Insuficiencia venosa crónica",
+            "Ateroesclerosis severa",
+            "Presión venosa elevada",
+            "Edema bilateral de las extremidades"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales están asociadas con ateroesclerosis severa, que limita el flujo sanguíneo y causa isquemia en las áreas afectadas."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera típicamente presenta bordes regulares y lecho pálido?",
+        "opciones": [
+            "Úlcera venosa",
+            "Úlcera arterial",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales suelen tener bordes regulares, un lecho pálido o grisáceo, y son resultado de una disminución en el flujo sanguíneo arterial."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una intervención contraindicada en úlceras arteriales?",
+        "opciones": [
+            "Desbridamiento quirúrgico",
+            "Compresión con vendajes de 40 mmHg",
+            "Uso de apósitos hidrocoloides",
+            "Terapia con oxígeno hiperbárico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "La compresión está contraindicada en úlceras arteriales, ya que puede comprometer aún más el flujo sanguíneo ya insuficiente en estas lesiones."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera suele presentar exudado abundante y mejora al elevar la pierna afectada?",
+        "opciones": [
+            "Úlcera arterial",
+            "Úlcera venosa",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas presentan exudado abundante y su dolor mejora al elevar la pierna debido a la reducción de la presión venosa."
+    },
+    {
+        "enunciado": "¿Qué característica clínica es más común en las úlceras arteriales que en las venosas?",
+        "opciones": [
+            "Bordes irregulares",
+            "Localización supramaleolar",
+            "Dolor intenso incluso en reposo",
+            "Exudado abundante"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales se caracterizan por un dolor intenso que no mejora en reposo, causado por la isquemia en los tejidos afectados."
+    },
+    {
+        "enunciado": "¿Qué condición predispone a la formación de úlceras venosas?",
+        "opciones": [
+            "Ateroesclerosis avanzada",
+            "Insuficiencia venosa crónica",
+            "Diabetes mellitus descontrolada",
+            "Presión arterial alta persistente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "La insuficiencia venosa crónica es la principal causa de úlceras venosas, al dificultar el retorno de la sangre desde las extremidades inferiores."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera se asocia con bordes definidos y localización en áreas como el maléolo lateral?",
+        "opciones": [
+            "Úlcera venosa",
+            "Úlcera arterial",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales suelen presentar bordes definidos y localización típica en el maléolo lateral o el dorso del pie, resultado de una isquemia arterial."
+    },
+    {
+        "enunciado": "¿Qué tratamiento es prioritario en las úlceras venosas para controlar el edema asociado?",
+        "opciones": [
+            "Aplicación de antibióticos sistémicos",
+            "Compresión con vendajes adecuados",
+            "Desbridamiento quirúrgico extenso",
+            "Elevación prolongada de las piernas sin compresión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "El tratamiento prioritario para úlceras venosas es la compresión con vendajes, que ayuda a reducir el edema y mejorar el retorno venoso."
+    },
+    {
+        "enunciado": "¿Qué índice tobillo-brazo (ITB) es indicativo de una úlcera arterial grave?",
+        "opciones": [
+            "ITB entre 0.9 y 1.3",
+            "ITB entre 0.6 y 0.8",
+            "ITB menor de 0.5",
+            "ITB mayor de 1.3"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Un ITB menor de 0.5 indica enfermedad arterial obstructiva grave, lo que es característico de las úlceras arteriales graves."
+    },
+    {
+        "enunciado": "¿Qué úlceras suelen presentar hiperpigmentación de la piel circundante como signo asociado?",
+        "opciones": [
+            "Úlceras arteriales",
+            "Úlceras venosas",
+            "Úlceras neuropáticas",
+            "Úlceras neoplásicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas se asocian frecuentemente con hiperpigmentación de la piel circundante debido al depósito de hemosiderina por insuficiencia venosa crónica."
+    },
+    {
+        "enunciado": "¿Cuál es una diferencia clave en el manejo de las úlceras arteriales frente a las venosas?",
+        "opciones": [
+            "En las arteriales se prioriza la compresión, en las venosas no",
+            "Las arteriales requieren medidas para mejorar la perfusión, las venosas la reducción del edema",
+            "Las arteriales no requieren desbridamiento, las venosas sí",
+            "En las arteriales se usa terapia antibiótica sistémica como estándar, en las venosas no"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras arteriales necesitan medidas para mejorar la perfusión, mientras que las venosas requieren estrategias para reducir el edema, como compresión."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera generalmente se encuentra en pacientes con insuficiencia venosa crónica y tiene bordes irregulares?",
+        "opciones": [
+            "Úlcera arterial",
+            "Úlcera venosa",
+            "Úlcera neuropática",
+            "Úlcera neoplásica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas son típicas en pacientes con insuficiencia venosa crónica, se localizan entre la rodilla y el tobillo y presentan bordes irregulares."
+    },
+    {
+        "enunciado": "¿Qué hallazgo clínico diferencia una úlcera venosa de una arterial?",
+        "opciones": [
+            "Presencia de dolor severo en reposo",
+            "Bordes regulares y lecho pálido",
+            "Edema y exudado abundante",
+            "Dolor que empeora con la elevación de la pierna"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras venosas suelen presentar edema y exudado abundante, mientras que las arteriales tienen bordes regulares, lecho pálido y dolor que empeora al elevar la pierna."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera presenta comúnmente dolor mínimo o moderado y mejora al elevar la pierna?",
+        "opciones": [
+            "Úlcera arterial",
+            "Úlcera venosa",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen causar dolor leve a moderado, que mejora al elevar la pierna, reduciendo la presión venosa."
+    },
+    {
+        "enunciado": "¿Cuál es una localización típica de las úlceras venosas?",
+        "opciones": [
+            "Maléolo medial",
+            "Dorso del pie",
+            "Talón",
+            "Tercio superior de la pierna"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas suelen localizarse en el maléolo medial, asociadas a insuficiencia venosa crónica y edema."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera suele aparecer como consecuencia de una obstrucción arterial progresiva?",
+        "opciones": [
+            "Úlcera venosa",
+            "Úlcera arterial",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Las úlceras arteriales son causadas por la obstrucción del flujo sanguíneo arterial, lo que genera isquemia y daño tisular."
+    },
+    {
+        "enunciado": "¿Qué característica es más común en las úlceras venosas que en las arteriales?",
+        "opciones": [
+            "Bordes definidos y dolor intenso",
+            "Exudado moderado a abundante",
+            "Piel fría y sin pulsos periféricos",
+            "Localización en el dorso del pie"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas presentan exudado moderado a abundante, mientras que las arteriales suelen ser más secas y dolorosas."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal del tratamiento de las úlceras arteriales?",
+        "opciones": [
+            "Mejorar el retorno venoso",
+            "Restaurar la perfusión sanguínea",
+            "Reducir el edema asociado",
+            "Prevenir la infección bacteriana"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "El objetivo principal del tratamiento de las úlceras arteriales es restaurar la perfusión sanguínea para evitar la progresión del daño isquémico."
+    },
+    {
+        "enunciado": "¿Qué tratamiento está contraindicado en pacientes con úlceras arteriales?",
+        "opciones": [
+            "Compresión elástica",
+            "Desbridamiento quirúrgico",
+            "Terapia tópica con apósitos avanzados",
+            "Reposo con elevación moderada de la pierna"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "La compresión elástica está contraindicada en úlceras arteriales, ya que puede reducir aún más el flujo sanguíneo en tejidos isquémicos."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera está asociada con hiperpigmentación y piel engrosada alrededor de la lesión?",
+        "opciones": [
+            "Úlcera arterial",
+            "Úlcera venosa",
+            "Úlcera neuropática",
+            "Úlcera de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa"
+        ],
+        "feedback": "Las úlceras venosas están asociadas con cambios cutáneos como hiperpigmentación y piel engrosada, debido a insuficiencia venosa crónica."
+    },
+    {
+        "enunciado": "¿Cuál es la diferencia en el manejo de úlceras venosas y arteriales?",
+        "opciones": [
+            "Las venosas requieren compresión, mientras que las arteriales necesitan evitarla",
+            "Las venosas necesitan restaurar la perfusión, las arteriales no",
+            "Las venosas siempre requieren cirugía, mientras que las arteriales no",
+            "Ambas requieren compresión para mejorar la circulación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_venosa",
+            "úlcera_arterial"
+        ],
+        "feedback": "El manejo de úlceras venosas incluye compresión para mejorar el retorno venoso, mientras que en úlceras arteriales está contraindicado debido a la isquemia."
+    },
+    {
+        "enunciado": "¿Qué signo sugiere una úlcera arterial en un paciente?",
+        "opciones": [
+            "Dolor intenso en reposo y piel pálida",
+            "Dolor leve y edema prominente",
+            "Bordes irregulares y exudado abundante",
+            "Mejora al elevar la extremidad afectada"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "El dolor intenso en reposo y la piel pálida son signos típicos de una úlcera arterial, causada por isquemia severa."
+    },
+    {
+        "enunciado": "¿Qué índice tobillo-brazo (ITB) normal descarta la presencia de enfermedad arterial significativa?",
+        "opciones": [
+            "ITB menor a 0.5",
+            "ITB entre 0.5 y 0.8",
+            "ITB entre 0.9 y 1.3",
+            "ITB mayor a 1.5"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "úlcera_arterial"
+        ],
+        "feedback": "Un ITB entre 0.9 y 1.3 es normal y descarta enfermedad arterial significativa, lo que ayuda a distinguir úlceras venosas de arteriales."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera es más común en pacientes con pie diabético?",
+        "opciones": [
+            "Úlceras venosas",
+            "Úlceras neuropáticas",
+            "Úlceras arteriales",
+            "Úlceras de presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas son típicas en pacientes con pie diabético debido a la pérdida de sensibilidad y deformidades estructurales en el pie."
+    },
+    {
+        "enunciado": "Según la clasificación de Wagner, ¿qué caracteriza a una úlcera de pie diabético de grado 2?",
+        "opciones": [
+            "Presencia de infección localizada",
+            "Úlcera que afecta únicamente la piel",
+            "Úlcera profunda que llega a tendones o cápsulas articulares",
+            "Gangrena limitada a los dedos del pie"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "En el grado 2 de la clasificación de Wagner, las úlceras afectan tejidos más profundos como tendones o cápsulas articulares, pero sin gangrena."
+    },
+    {
+        "enunciado": "¿Qué signo clínico sugiere una úlcera neuropática en el pie diabético?",
+        "opciones": [
+            "Piel fría y cianótica",
+            "Ausencia de pulsos pedios",
+            "Deformidades en el pie y ausencia de dolor",
+            "Exudado abundante con bordes irregulares"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas en pie diabético suelen estar asociadas a deformidades estructurales, pérdida de sensibilidad y ausencia de dolor, incluso con lesiones graves."
+    },
+    {
+        "enunciado": "¿Cuál es la principal causa subyacente del pie diabético?",
+        "opciones": [
+            "Insuficiencia venosa",
+            "Isquemia crítica",
+            "Neuropatía periférica",
+            "Infección bacteriana crónica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La neuropatía periférica es la causa principal del pie diabético, provocando pérdida de sensibilidad y aumentando el riesgo de lesiones y úlceras."
+    },
+    {
+        "enunciado": "¿Qué intervención preventiva es esencial en pacientes con riesgo de pie diabético?",
+        "opciones": [
+            "Uso de vendajes compresivos",
+            "Revisión diaria de los pies para detectar lesiones",
+            "Elevación prolongada de las extremidades",
+            "Aplicación de cremas con antibióticos tópicos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La revisión diaria de los pies es crucial para detectar lesiones tempranas y prevenir complicaciones graves en pacientes con pie diabético."
+    },
+    {
+        "enunciado": "¿Qué tipo de calzado es recomendado para pacientes con pie diabético?",
+        "opciones": [
+            "Calzado ajustado y con tacón bajo",
+            "Zapatos con suela rígida y puntera estrecha",
+            "Calzado ortopédico con espacio amplio para los dedos",
+            "Zapatos de material sintético y sin ventilación"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El calzado ortopédico con suficiente espacio para los dedos ayuda a prevenir lesiones en pacientes con pie diabético, reduciendo el riesgo de úlceras."
+    },
+    {
+        "enunciado": "¿Qué técnica es preferida para evaluar el riesgo de amputación en un paciente con pie diabético?",
+        "opciones": [
+            "Índice tobillo-brazo (ITB)",
+            "Prueba de monofilamento de 10 g",
+            "Evaluación de pulsos pedios",
+            "Radiografía del pie"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La prueba de monofilamento de 10 g evalúa la sensibilidad táctil y es crucial para identificar pacientes con pie diabético en riesgo de desarrollar úlceras graves."
+    },
+    {
+        "enunciado": "¿Qué grado en la clasificación de Wagner describe una úlcera con gangrena extensa que afecta todo el pie?",
+        "opciones": [
+            "Grado 2",
+            "Grado 3",
+            "Grado 4",
+            "Grado 5"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El grado 5 de la clasificación de Wagner corresponde a úlceras con gangrena extensa que afectan todo el pie y requieren intervenciones agresivas, como la amputación."
+    },
+    {
+        "enunciado": "¿Qué factor agrava las complicaciones del pie diabético al reducir la capacidad de cicatrización?",
+        "opciones": [
+            "Hiperglucemia crónica",
+            "Presión arterial baja",
+            "Deficiencia de hierro",
+            "Hipotermia en las extremidades"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La hiperglucemia crónica compromete la cicatrización de heridas y aumenta el riesgo de infecciones, agravando las complicaciones del pie diabético."
+    },
+    {
+        "enunciado": "¿Qué característica distingue una úlcera neuropática de otras lesiones en el pie diabético?",
+        "opciones": [
+            "Exudado abundante y bordes irregulares",
+            "Localización en zonas de presión plantar",
+            "Piel fría con ausencia de pulsos",
+            "Dolor severo en reposo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas suelen localizarse en zonas de presión plantar, como la planta del pie o los dedos, debido a la distribución anómala del peso."
+    },
+    {
+        "enunciado": "¿Cuál es una localización común para las úlceras neuropáticas en pacientes con pie diabético?",
+        "opciones": [
+            "Bordes laterales del pie",
+            "Zonas de prominencia ósea en el dorso del pie",
+            "Región plantar bajo las cabezas de los metatarsianos",
+            "Zona supramaleolar medial"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas en el pie diabético suelen localizarse en la región plantar, especialmente bajo las cabezas de los metatarsianos, donde se ejerce mayor presión."
+    },
+    {
+        "enunciado": "¿Qué signo clínico es característico de la osteomielitis en el contexto de una úlcera neuropática del pie diabético?",
+        "opciones": [
+            "Aumento del dolor en la úlcera",
+            "Presencia de tejido granuloso en la lesión",
+            "Fístula con drenaje purulento",
+            "Bordes elevados e irregulares"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La presencia de una fístula con drenaje purulento es un hallazgo común en casos de osteomielitis asociada al pie diabético, lo que indica infección ósea."
+    },
+    {
+        "enunciado": "Según la clasificación de Wagner, ¿qué grado se asigna a una úlcera con infección profunda y abscesos localizados?",
+        "opciones": [
+            "Grado 1",
+            "Grado 2",
+            "Grado 3",
+            "Grado 4"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El grado 3 en la clasificación de Wagner corresponde a úlceras con infección profunda, que pueden incluir abscesos, osteomielitis o celulitis severa."
+    },
+    {
+        "enunciado": "¿Qué medida es clave para prevenir la formación de úlceras en pacientes con pie diabético?",
+        "opciones": [
+            "Aplicación rutinaria de antibióticos tópicos",
+            "Uso de calcetines ajustados para evitar fricción",
+            "Reducción de presión en áreas de carga con plantillas personalizadas",
+            "Lavado diario con antisépticos agresivos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El uso de plantillas personalizadas y calzado adecuado es esencial para redistribuir la presión en áreas de carga y prevenir la formación de úlceras."
+    },
+    {
+        "enunciado": "¿Qué complicación es más frecuente en úlceras neuropáticas del pie diabético mal tratadas?",
+        "opciones": [
+            "Formación de quistes sinoviales",
+            "Osteomielitis y amputación",
+            "Edema generalizado de las extremidades",
+            "Necrosis cutánea superficial sin progresión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La osteomielitis y la amputación son complicaciones graves y frecuentes de las úlceras neuropáticas mal tratadas en pacientes con pie diabético."
+    },
+    {
+        "enunciado": "¿Qué prueba de diagnóstico es más efectiva para confirmar osteomielitis en un pie diabético?",
+        "opciones": [
+            "Radiografía simple",
+            "Resonancia magnética",
+            "Ecografía doppler",
+            "Prueba de monofilamento"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La resonancia magnética es altamente efectiva para confirmar osteomielitis, ya que detecta cambios en los tejidos blandos y óseos en etapas tempranas."
+    },
+    {
+        "enunciado": "¿Qué característica clínica distingue una úlcera neuropática en el pie diabético de una úlcera isquémica?",
+        "opciones": [
+            "Presencia de tejido necrótico seco",
+            "Localización en zonas de presión plantar",
+            "Dolor intenso incluso en reposo",
+            "Ausencia de pulsos pedios"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas suelen localizarse en zonas de presión plantar, mientras que las isquémicas aparecen en áreas con mala perfusión y son dolorosas."
+    },
+    {
+        "enunciado": "¿Qué intervención inicial debe priorizarse en un paciente con una úlcera neuropática infectada?",
+        "opciones": [
+            "Compresión de la extremidad afectada",
+            "Inmovilización y descarga de peso del pie",
+            "Lavado con antiséptico a base de alcohol",
+            "Aplicación de un vendaje seco y no adherente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La inmovilización y descarga de peso son fundamentales en el manejo inicial de úlceras neuropáticas infectadas para evitar el agravamiento de la lesión."
+    },
+    {
+        "enunciado": "¿Qué hallazgo clínico puede diferenciar una úlcera neuropática de una úlcera isquémica en el pie diabético?",
+        "opciones": [
+            "Bordes irregulares y piel fría",
+            "Piel cálida con pulsos pedios palpables",
+            "Presencia de gangrena húmeda",
+            "Dolor severo que mejora al elevar la extremidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "En las úlceras neuropáticas, la piel suele estar cálida con pulsos palpables debido a la preservación de la perfusión, en contraste con las úlceras isquémicas."
+    },
+    {
+        "enunciado": "¿Qué herramienta es indispensable para evaluar la neuropatía en el pie diabético?",
+        "opciones": [
+            "Monofilamento de 10 g",
+            "Índice tobillo-brazo",
+            "Resonancia magnética",
+            "Biopsia de tejido"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El monofilamento de 10 g es una herramienta clave para evaluar la pérdida de sensibilidad en el pie diabético, detectando neuropatía periférica."
+    },
+    {
+        "enunciado": "¿Cuál es un factor de riesgo clave para el desarrollo de úlceras neuropáticas en el pie diabético?",
+        "opciones": [
+            "Hipertensión arterial no controlada",
+            "Hiperglucemia crónica",
+            "Inmovilización prolongada",
+            "Insuficiencia venosa crónica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La hiperglucemia crónica daña los nervios periféricos, causando neuropatía que predispone a úlceras en el pie diabético."
+    },
+    {
+        "enunciado": "En un paciente con pie diabético, ¿qué hallazgo clínico indica un riesgo elevado de ulceración?",
+        "opciones": [
+            "Presencia de uñas encarnadas",
+            "Callosidades engrosadas en áreas de presión",
+            "Edema moderado sin cambios cutáneos",
+            "Hiperqueratosis en las plantas del pie sin deformidades"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las callosidades en áreas de presión aumentan el riesgo de ulceración al generar puntos de fricción y presión localizados."
+    },
+    {
+        "enunciado": "¿Qué intervención debe considerarse en un paciente con pie diabético que presenta una úlcera con signos de isquemia crítica?",
+        "opciones": [
+            "Compresión de la extremidad afectada",
+            "Consulta inmediata con un cirujano vascular",
+            "Inmovilización sin descarga de peso",
+            "Aplicación de antibióticos tópicos únicamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La isquemia crítica requiere consulta inmediata con un cirujano vascular para evaluar la revascularización y prevenir complicaciones graves."
+    },
+    {
+        "enunciado": "¿Qué diferencia clínica suele observarse entre úlceras neuropáticas y úlceras arteriales en pacientes con pie diabético?",
+        "opciones": [
+            "Las neuropáticas son más profundas que las arteriales",
+            "Las neuropáticas son indoloras y localizadas en zonas de presión",
+            "Las neuropáticas tienen bordes regulares y exudado escaso",
+            "Las neuropáticas empeoran al elevar la pierna"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas son indoloras debido a la pérdida de sensibilidad y suelen localizarse en zonas de presión, como la planta del pie."
+    },
+    {
+        "enunciado": "¿Cuál es la complicación más grave de una úlcera infectada en un paciente con pie diabético?",
+        "opciones": [
+            "Formación de fístulas subcutáneas",
+            "Progresión a osteomielitis y sepsis",
+            "Desarrollo de edema severo en la pierna",
+            "Necrosis superficial sin afectación profunda"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "La osteomielitis y la sepsis son complicaciones graves de las úlceras infectadas en el pie diabético, que pueden llevar a amputaciones si no se tratan."
+    },
+    {
+        "enunciado": "En la clasificación de Wagner, ¿qué grado se asigna a una úlcera limitada a la epidermis y dermis sin infección?",
+        "opciones": [
+            "Grado 0",
+            "Grado 1",
+            "Grado 2",
+            "Grado 3"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El grado 1 de la clasificación de Wagner describe úlceras que afectan solo epidermis y dermis, sin infección ni afectación profunda."
+    },
+    {
+        "enunciado": "¿Qué indicador es útil para evaluar la perfusión en un pie diabético con sospecha de isquemia?",
+        "opciones": [
+            "Monofilamento de 10 g",
+            "Índice tobillo-brazo (ITB)",
+            "Resonancia magnética",
+            "Ecografía doppler"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El índice tobillo-brazo (ITB) es una herramienta clave para evaluar la perfusión arterial en pacientes con pie diabético e identificar isquemia."
+    },
+    {
+        "enunciado": "¿Qué intervención es crítica en un paciente con pie diabético que presenta una deformidad evidente y riesgo de ulceración?",
+        "opciones": [
+            "Uso de antibióticos sistémicos preventivos",
+            "Corrección quirúrgica inmediata de la deformidad",
+            "Calzado ortopédico y plantillas personalizadas",
+            "Reposo absoluto sin intervención adicional"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El uso de calzado ortopédico y plantillas personalizadas reduce la presión en áreas vulnerables, previniendo ulceraciones en pacientes con deformidades en el pie diabético."
+    },
+    {
+        "enunciado": "¿Qué tipo de úlcera en el pie diabético está relacionada con trauma repetido en áreas insensibles del pie?",
+        "opciones": [
+            "Úlcera venosa",
+            "Úlcera neuropática",
+            "Úlcera arterial",
+            "Úlcera por presión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "Las úlceras neuropáticas son causadas por trauma repetido en áreas insensibles debido a la pérdida de sensibilidad característica del pie diabético."
+    },
+    {
+        "enunciado": "¿Qué medida preventiva debe implementarse para evitar lesiones en un paciente con pie diabético?",
+        "opciones": [
+            "Uso de vendajes compresivos para mejorar la circulación",
+            "Cuidado diario de los pies con revisión de posibles lesiones",
+            "Aplicación de cremas emolientes con antibióticos",
+            "Uso de calzado ajustado para limitar el movimiento del pie"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "pie_diabético"
+        ],
+        "feedback": "El cuidado diario de los pies es esencial para prevenir lesiones en pacientes con pie diabético, permitiendo la detección temprana de problemas."
+    },
+    {
+        "enunciado": "Según la escala de Wagner, ¿qué grado corresponde a una úlcera que afecta únicamente la piel sin signos de infección ni compromiso profundo?",
+        "opciones": [
+            "Grado 0",
+            "Grado 1",
+            "Grado 2",
+            "Grado 3"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 1 de la escala de Wagner describe una úlcera superficial que afecta solo la piel, sin infección ni compromiso de estructuras más profundas."
+    },
+    {
+        "enunciado": "¿Qué define a una úlcera de grado 3 en la escala de Wagner?",
+        "opciones": [
+            "Úlcera infectada con abscesos profundos y posible osteomielitis",
+            "Úlcera limitada a la epidermis y dermis sin infección",
+            "Úlcera con gangrena localizada en dedos del pie",
+            "Úlcera superficial sin afectación de tejidos profundos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 3 en la escala de Wagner implica una úlcera infectada con abscesos profundos, osteomielitis o celulitis severa, lo que requiere manejo agresivo."
+    },
+    {
+        "enunciado": "En la escala de Wagner, ¿qué grado indica gangrena localizada únicamente en los dedos del pie?",
+        "opciones": [
+            "Grado 2",
+            "Grado 3",
+            "Grado 4",
+            "Grado 5"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 4 de la escala de Wagner corresponde a úlceras con gangrena localizada en los dedos, usualmente asociada a isquemia severa."
+    },
+    {
+        "enunciado": "¿Qué grado en la escala de Wagner describe una úlcera que afecta estructuras profundas como tendones, cápsulas articulares o huesos?",
+        "opciones": [
+            "Grado 0",
+            "Grado 1",
+            "Grado 2",
+            "Grado 3"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 2 de la escala de Wagner describe una úlcera que afecta estructuras profundas como tendones, cápsulas articulares o huesos, pero sin abscesos ni osteomielitis."
+    },
+    {
+        "enunciado": "¿Qué úlceras están incluidas en el grado 5 de la escala de Wagner?",
+        "opciones": [
+            "Úlceras superficiales sin infección",
+            "Úlceras con infección limitada a tejidos blandos",
+            "Úlceras con gangrena extensa que afecta todo el pie",
+            "Úlceras que afectan huesos y articulaciones"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 5 en la escala de Wagner describe gangrena extensa que afecta todo el pie, lo que generalmente requiere amputación."
+    },
+    {
+        "enunciado": "¿Qué intervención es necesaria para una úlcera clasificada como grado 4 en la escala de Wagner?",
+        "opciones": [
+            "Desbridamiento quirúrgico superficial",
+            "Terapia compresiva",
+            "Revascularización urgente o amputación localizada",
+            "Uso de antibióticos tópicos únicamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "Una úlcera de grado 4 con gangrena localizada requiere revascularización urgente para salvar el miembro o amputación localizada si no es viable."
+    },
+    {
+        "enunciado": "¿Qué grado en la escala de Wagner corresponde a un pie con gangrena extensa que no es salvable?",
+        "opciones": [
+            "Grado 3",
+            "Grado 4",
+            "Grado 5",
+            "Grado 6"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 5 de la escala de Wagner se refiere a gangrena extensa que afecta todo el pie, indicando generalmente la necesidad de amputación mayor."
+    },
+    {
+        "enunciado": "¿Qué caracteriza una úlcera de grado 0 en la escala de Wagner?",
+        "opciones": [
+            "No hay úlcera, pero hay pie de alto riesgo con deformidades o callos",
+            "Úlcera superficial sin infección",
+            "Úlcera profunda con infección",
+            "Úlcera con gangrena localizada"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 0 de la escala de Wagner describe un pie sin úlceras activas, pero con factores de riesgo como deformidades, callos o neuropatía."
+    },
+    {
+        "enunciado": "En la escala de Wagner, ¿qué grado requiere evaluación urgente para tratar abscesos profundos o signos de osteomielitis?",
+        "opciones": [
+            "Grado 1",
+            "Grado 2",
+            "Grado 3",
+            "Grado 4"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 3 de la escala de Wagner implica abscesos profundos o signos de osteomielitis, requiriendo tratamiento quirúrgico y médico inmediato."
+    },
+    {
+        "enunciado": "Según la escala de Wagner, ¿qué grado representa una úlcera infectada con celulitis extendida pero sin gangrena?",
+        "opciones": [
+            "Grado 1",
+            "Grado 2",
+            "Grado 3",
+            "Grado 4"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "escala_wagner"
+        ],
+        "feedback": "El grado 3 de la escala de Wagner incluye úlceras infectadas con celulitis extendida, abscesos o posible afectación ósea, pero sin gangrena."
+    },
+    {
+        "enunciado": "¿Qué índice tobillo-brazo (ITB) indica una posible calcificación arterial y requiere evaluación por un especialista vascular?",
+        "opciones": [
+            "Mayor a 1.3",
+            "Entre 0.9 y 1.3",
+            "Entre 0.6 y 0.8",
+            "Menor a 0.5"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Un ITB mayor a 1.3 puede sugerir calcificación arterial y requiere evaluación por un especialista vascular. Resumen de valores: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 enfermedad arterial periférica leve-moderada; <0.5 enfermedad arterial grave."
+    },
+    {
+        "enunciado": "¿Qué tratamiento compresivo es adecuado para una úlcera venosa en un paciente con ITB entre 0.9 y 1.3?",
+        "opciones": [
+            "Compresión con vendaje de hasta 40 mmHg",
+            "Compresión con vendaje de hasta 20 mmHg",
+            "Compresión prohibida",
+            "Uso de flotadores para aliviar presión"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "En pacientes con ITB entre 0.9 y 1.3 (valor normal), se recomienda compresión con vendajes de hasta 40 mmHg. Resumen de valores: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada con precaución; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "¿Cuál es el manejo recomendado para úlceras arteriales en pacientes con ITB menor a 0.5?",
+        "opciones": [
+            "Compresión moderada con terapia reducida",
+            "Compresión máxima para mejorar circulación",
+            "Derivación inmediata a especialista vascular",
+            "Uso de apósitos hidrocoloides exclusivamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "En pacientes con ITB <0.5 (enfermedad arterial obstructiva grave), la compresión está prohibida y se debe realizar una derivación inmediata a un especialista vascular. Resumen de valores: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada con precaución; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "¿Qué característica es común en una úlcera venosa?",
+        "opciones": [
+            "Profundas y dolorosas en reposo",
+            "Lecho gris o amarillo con tejido escaso de granulación",
+            "Ubicación entre la rodilla y el tobillo, con exudado moderado a alto",
+            "Prohibición de compresión por riesgo de empeorar la condición"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Las úlceras venosas suelen localizarse entre la rodilla y el tobillo, son superficiales, irregulares y presentan exudado de moderado a alto. Resumen de valores ITB: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada con precaución; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "En pacientes con enfermedad arterial periférica obstructiva leve-moderada (ITB entre 0.6 y 0.8), ¿qué terapia compresiva se sugiere?",
+        "opciones": [
+            "Compresión superior a 40 mmHg",
+            "Compresión reducida nunca superior a 20 mmHg",
+            "Prohibición absoluta de compresión",
+            "Compresión estándar con vendajes de 30-40 mmHg"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "En pacientes con ITB entre 0.6 y 0.8, se sugiere una compresión reducida, nunca superior a 20 mmHg, con previa consulta al especialista vascular. Resumen de valores: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada con precaución; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "¿Qué valor de ITB indica que el uso de terapia compresiva de 40 mmHg es seguro y recomendado?",
+        "opciones": [
+            "Menor a 0.5",
+            "Entre 0.6 y 0.8",
+            "Entre 0.9 y 1.3",
+            "Mayor a 1.3"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Un ITB entre 0.9 y 1.3 indica un estado normal y permite la aplicación de terapia compresiva estándar de 40 mmHg. Resumen: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "En el contexto de una úlcera arterial, ¿cuál de las siguientes características es más probable?",
+        "opciones": [
+            "Dolor al elevar la pierna",
+            "Exudado moderado a alto",
+            "Ubicación en el maléolo lateral o dorso del pie",
+            "Curación rápida con terapia compresiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Las úlceras arteriales suelen ubicarse en el maléolo lateral o dorso del pie, son profundas y presentan poco tejido de granulación. Resumen: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "¿Qué acción está indicada para tratar una úlcera venosa en un paciente con ITB de 0.8?",
+        "opciones": [
+            "Aplicar compresión reducida con precaución",
+            "Evitar toda compresión",
+            "Utilizar apósitos hidrocoloides exclusivamente",
+            "Derivación urgente a un especialista vascular"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Para un ITB de 0.8 (enfermedad arterial periférica leve-moderada), está indicada la compresión reducida con mucha precaución, previa consulta con el especialista. Resumen: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada; <0.5 compresión prohibida."
+    },
+    {
+        "enunciado": "¿Qué material se recomienda para el tratamiento de úlceras venosas con alto nivel de exudado?",
+        "opciones": [
+            "Apósitos hidrocoloides",
+            "Apósitos de alginato",
+            "Apósitos de plata",
+            "Apósitos de carbón activado"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Los apósitos de alginato son ideales para úlceras venosas con alto nivel de exudado. Otros tipos incluyen apósitos de plata para infecciones y apósitos hidrocoloides para promover cicatrización."
+    },
+    {
+        "enunciado": "Un paciente con ITB de 0.4 presenta una úlcera arterial. ¿Cuál es el siguiente paso recomendado?",
+        "opciones": [
+            "Aplicar compresión moderada",
+            "Iniciar terapia con apósitos de plata",
+            "Derivar a un especialista vascular",
+            "Aplicar desbridamiento enzimático inmediato"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Un ITB de 0.4 indica enfermedad arterial grave. La compresión está contraindicada y el paciente debe ser derivado urgentemente a un especialista vascular."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una contraindicación absoluta para la compresión en el tratamiento de úlceras vasculares?",
+        "opciones": [
+            "Úlcera venosa con ITB de 0.8",
+            "Úlcera arterial con ITB de 0.9",
+            "Úlcera arterial con ITB menor a 0.5",
+            "Úlcera venosa con ITB de 1.0"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema45",
+            "urg_piel",
+            "vascular"
+        ],
+        "feedback": "Un ITB menor a 0.5 indica enfermedad arterial obstructiva grave, en la cual la compresión está absolutamente contraindicada. Resumen: >1.3 posible calcificación arterial; 0.9-1.3 normal; 0.6-0.8 compresión moderada; <0.5 compresión prohibida."
+    }
+]

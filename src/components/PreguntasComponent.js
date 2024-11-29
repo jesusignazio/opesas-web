@@ -34,51 +34,42 @@ function PreguntasComponent({ preguntas, titulo }) {
                             {preguntaActual.enunciado}
                         </h4>
                         <form>
-                            {preguntaActual.opciones.map((opcion, index) => {
-                                let estiloOpcion = {
-                                    padding: '10px',
-                                    marginBottom: '10px',
-                                    borderRadius: '5px',
-                                    border: '1px solid #ddd', // Mantiene un borde consistente
-                                    backgroundColor: 'transparent', // Fondo neutral por defecto
-                                    transition: 'background-color 0.3s ease', // Animación suave
-                                };
+    {preguntaActual.opciones.map((opcion, index) => {
+        const estiloContenedor = {
+            display: 'flex',
+            alignItems: 'center', // Alinea verticalmente
+            gap: '10px', // Espacio entre el radio button y el texto
+            marginBottom: '10px',
+        };
 
-                                if (revelada) {
-                                    if (index === preguntaActual.correcta) {
-                                        estiloOpcion.backgroundColor = '#d4edda'; // Verde claro para correcta
-                                        estiloOpcion.border = '1px solid #28a745'; // Verde borde
-                                    } else if (index === seleccion) {
-                                        estiloOpcion.backgroundColor = '#f8d7da'; // Rojo claro para incorrecta
-                                        estiloOpcion.border = '1px solid #dc3545'; // Rojo borde
-                                    }
-                                }
+        const estiloLabel = {
+            margin: 0, // Elimina márgenes
+            lineHeight: '1.5', // Asegura una altura de línea adecuada
+            wordBreak: 'break-word', // Permite dividir texto largo
+        };
 
-                                return (
-                                    <div
-                                        key={index}
-                                        style={estiloOpcion}
-                                    >
-                                        <input
-                                            className="form-check-input"
-                                            type="radio"
-                                            name="opciones"
-                                            id={`opcion-${index}`}
-                                            checked={seleccion === index} // Vinculación con el estado
-                                            onChange={() => manejarSeleccion(index)}
-                                            disabled={revelada} // Desactiva después de responder
-                                        />
-                                        <label
-                                            className="form-check-label"
-                                            htmlFor={`opcion-${index}`}
-                                            style={{ marginLeft: '10px' }} // Separación entre el radio y el texto
-                                        >
-                                            {opcion}
-                                        </label>
-                                    </div>
-                                );
-                            })}
-                        </form>
+        return (
+            <div key={index} style={estiloContenedor}>
+                <input
+                    className="form-check-input"
+                    type="radio"
+                    name="opciones"
+                    id={`opcion-${index}`}
+                    checked={seleccion === index}
+                    onChange={() => manejarSeleccion(index)}
+                    disabled={revelada}
+                />
+                <label
+                    htmlFor={`opcion-${index}`}
+                    style={estiloLabel}
+                >
+                    {opcion}
+                </label>
+            </div>
+        );
+    })}
+</form>
+
                         {revelada && (
                             <p
                                 className="mt-3"
