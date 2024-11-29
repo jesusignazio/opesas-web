@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 function PreguntasComponent({ preguntas, titulo }) {
-    const titulo = titulo.replace('•', '');
+    const tituloStripped = titulo.replace('•', '');
     const [preguntaActual, setPreguntaActual] = useState(null);
     const [seleccion, setSeleccion] = useState(null); // Índice de la opción seleccionada
     const [revelada, setRevelada] = useState(false); // Si la respuesta y feedback están revelados
@@ -28,7 +28,7 @@ function PreguntasComponent({ preguntas, titulo }) {
         <div style={{ margin: '20px', padding: '15px' }}>
             {preguntaActual && (
                 <div className="card mb-3" style={{ marginBottom: '30px', padding: '15px' }}>
-{titulo && <h3 style={{ marginBottom: '20px', color: '#00aaff' }}>{titulo}</h3>}
+{tituloStripped && <h3 style={{ marginBottom: '20px', color: '#00aaff' }}>{tituloStripped}</h3>}
                     <div className="card-body">
                         <h4 className="card-title" style={{ marginBottom: '20px' }}>
                             {preguntaActual.enunciado}
