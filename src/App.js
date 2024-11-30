@@ -77,7 +77,7 @@ function App() {
             { title: '•47: Desarrollo de la conducta humana', archivo: 'tema47.json', bloque: 3 },
             { title: '•48: Valoración y cuidados al recién nacido sano', archivo: 'tema48.json', bloque: 3 },
             { title: '•49: Valoración y cuidados al recién nacido enfermo', archivo: 'tema49.json', bloque: 3 },
-            { title: '50: Cuidados en la infancia', archivo: 'tema50.json', bloque: 3 },
+            { title: '•50: Cuidados en la infancia', archivo: 'tema50.json', bloque: 3 },
             { title: '51: Cuidados en la adolescencia', archivo: 'tema51.json', bloque: 3 },
             { title: '52: Género y salud', archivo: 'tema52.json', bloque: 3 },
             { title: '53: Atención a violencia de género y en infancia', archivo: 'tema53.json', bloque: 3 },

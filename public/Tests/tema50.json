@@ -1,0 +1,2082 @@
+[
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Programa de Salud Infantil y Adolescente de Andalucía (PSIAA)?",
+        "opciones": [
+            "Mejorar la infraestructura sanitaria para la infancia.",
+            "Promover el desarrollo adecuado de niños y adolescentes mediante hábitos saludables y detección precoz de problemas de salud.",
+            "Fomentar el uso exclusivo de la lactancia materna hasta los 3 años.",
+            "Reducir exclusivamente las tasas de obesidad infantil en Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "programas_salud"
+        ],
+        "feedback": "El PSIAA busca mejorar el desarrollo infantil y adolescente a través de hábitos saludables, prevención y abordaje integral de problemas de salud frecuentes. Este enfoque multidisciplinar incluye promoción de salud y actividades preventivas."
+    },
+    {
+        "enunciado": "Según el Plan Integral de Obesidad Infantil de Andalucía, ¿qué porcentaje de niños en la región presenta sobrepeso?",
+        "opciones": [
+            "Cerca del 10%",
+            "Entre el 30% y el 40%",
+            "Aproximadamente el 20%",
+            "Más del 50%"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "obesidad_infantil"
+        ],
+        "feedback": "En Andalucía, las tasas de sobrepeso infantil rondan el 30-40%, con variaciones según la edad y nivel socioeconómico, según datos del Plan Integral de Obesidad Infantil."
+    },
+    {
+        "enunciado": "¿Qué periodo de alimentación infantil incluye la introducción de cereales sin gluten?",
+        "opciones": [
+            "Desde el nacimiento.",
+            "A partir de los 6 meses.",
+            "Entre los 4 y 6 meses en lactancia artificial o mixta.",
+            "Después de los 12 meses."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación"
+        ],
+        "feedback": "En lactancia artificial o mixta, los cereales sin gluten pueden introducirse entre los 4 y 6 meses, en concordancia con la guía de alimentación complementaria para lactantes."
+    },
+    {
+        "enunciado": "¿Cuál es una de las características destacadas del calostro en la lactancia materna?",
+        "opciones": [
+            "Bajo porcentaje de proteínas y grasas.",
+            "Alto contenido en proteínas, IgA y propiedades antimicrobianas.",
+            "Mayor producción en comparación con la leche definitiva.",
+            "No contiene ningún nutriente esencial."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "lactancia_materna"
+        ],
+        "feedback": "El calostro, producido en los primeros días tras el parto, tiene un alto contenido en proteínas, IgA y propiedades antimicrobianas esenciales para el recién nacido."
+    },
+    {
+        "enunciado": "En el contexto del PSIAA, ¿qué herramienta informática se utiliza en Atención Primaria para el seguimiento de la salud infantil?",
+        "opciones": [
+            "Sistema Nacional de Salud Electrónico.",
+            "Aplicación Diraya en el apartado de Cartera de Servicios.",
+            "Plataforma Digital de Salud Comunitaria.",
+            "No se utiliza ninguna herramienta informática."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "tecnología_salud"
+        ],
+        "feedback": "La aplicación Diraya, dentro del apartado Cartera de Servicios, permite gestionar el seguimiento de la salud infantil de manera integral en Atención Primaria."
+    },
+    {
+        "enunciado": "¿Qué tipo de maltrato infantil se caracteriza por el uso deliberado de enfermedades simuladas para atención médica?",
+        "opciones": [
+            "Negligencia física.",
+            "Maltrato emocional.",
+            "Síndrome de Munchausen por poderes.",
+            "Abuso sexual."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "maltrato_infantil"
+        ],
+        "feedback": "El Síndrome de Munchausen por poderes implica la simulación de enfermedades por parte de un cuidador para obtener atención médica, siendo una forma grave de maltrato infantil."
+    },
+    {
+        "enunciado": "Durante la etapa neonatal (primeros 28 días), ¿qué reflejo se evalúa como parte del desarrollo psicomotor?",
+        "opciones": [
+            "Reflejo de Babinski.",
+            "Reflejo de Moro.",
+            "Reflejo de agarre plantar.",
+            "Reflejo de parpadeo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_psicomotor"
+        ],
+        "feedback": "El reflejo de Moro, una respuesta automática ante estímulos, es evaluado en la etapa neonatal para valorar el desarrollo psicomotor del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué objetivo incluye la Estrategia de Promoción de una Vida Saludable en Andalucía 2024-2030?",
+        "opciones": [
+            "Incrementar la dependencia de medicamentos en la población.",
+            "Promover el uso responsable de tecnologías de información y comunicación (TRIC).",
+            "Restringir exclusivamente las actividades físicas a las edades avanzadas.",
+            "Fomentar el aislamiento social como prevención de enfermedades."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "promoción_salud"
+        ],
+        "feedback": "La Estrategia 2024-2030 promueve hábitos saludables, como el uso positivo de las TRIC, para mejorar la calidad de vida y prevenir enfermedades en todas las edades."
+    },
+    {
+        "enunciado": "Según la normativa en Andalucía, ¿qué acción debe tomar un profesional sanitario al sospechar de maltrato infantil?",
+        "opciones": [
+            "No registrar nada hasta tener certeza absoluta.",
+            "Anotar en la historia clínica y coordinar con las autoridades competentes.",
+            "Contactar directamente con los medios de comunicación.",
+            "Hablar únicamente con la familia del menor."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "protocolos_maltrato"
+        ],
+        "feedback": "El profesional sanitario debe registrar los hallazgos en la historia clínica y coordinarse con las autoridades para proteger al menor y actuar conforme a la normativa."
+    },
+    {
+        "enunciado": "¿Qué patrón dietético es recomendado en la Estrategia de Promoción de una Vida Saludable como ideal para la infancia?",
+        "opciones": [
+            "Dieta Baja en Carbohidratos.",
+            "Dieta Mediterránea.",
+            "Dieta Paleo.",
+            "Dieta Alta en Grasas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "nutrición"
+        ],
+        "feedback": "La Dieta Mediterránea, equilibrada y variada, es recomendada por su valor cultural y beneficios para la salud física y el desarrollo infantil."
+    },
+    {
+        "enunciado": "¿En qué etapa del desarrollo infantil el peso del niño alcanza aproximadamente el cuádruple de su peso al nacer?",
+        "opciones": [
+            "Etapa neonatal (primeros 28 días).",
+            "Lactante menor (primer año).",
+            "Lactante mayor (1-2 años).",
+            "Edad preescolar (2-6 años)."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_físico"
+        ],
+        "feedback": "En la etapa de lactante mayor (1-2 años), el peso del niño suele alcanzar aproximadamente cuatro veces su peso al nacer, reflejo de un crecimiento más estable tras el primer año."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas es clave para prevenir el síndrome de muerte súbita del lactante (SMSL)?",
+        "opciones": [
+            "Colocar al bebé boca abajo al dormir.",
+            "Evitar la exposición al humo del tabaco.",
+            "Alimentar exclusivamente con fórmula.",
+            "Permitir que duerma en una cama de agua."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención"
+        ],
+        "feedback": "Evitar la exposición al humo del tabaco es una medida importante para prevenir el SMSL, junto con otras como acostar al bebé boca arriba."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿cuál es el propósito de las visitas de control de salud en Atención Primaria?",
+        "opciones": [
+            "Realizar únicamente cribados genéticos.",
+            "Evaluar y promover el desarrollo biológico, psíquico y social.",
+            "Administrar medicación preventiva.",
+            "Registrar el historial de vacunas sin interacción con los cuidadores."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "atención_primaria"
+        ],
+        "feedback": "El objetivo de las visitas de control es promover un desarrollo integral adecuado en las dimensiones biológica, psíquica y social del niño."
+    },
+    {
+        "enunciado": "¿En qué edad es habitual introducir verduras y proteínas animales en la dieta complementaria del lactante?",
+        "opciones": [
+            "A los 3 meses.",
+            "A los 6 meses.",
+            "A los 9 meses.",
+            "Después del primer año."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación_complementaria"
+        ],
+        "feedback": "La introducción de verduras y pequeñas cantidades de proteínas animales (como carne blanca y pescado blanco) se recomienda a partir de los 6 meses."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los factores de riesgo más prevalentes para la obesidad infantil en Andalucía?",
+        "opciones": [
+            "Bajo consumo de proteínas animales.",
+            "Estilo de vida sedentario y alto consumo de alimentos procesados.",
+            "Acceso restringido a bebidas azucaradas.",
+            "Falta de vacunación en los primeros años de vida."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "obesidad_infantil"
+        ],
+        "feedback": "El estilo de vida sedentario combinado con un alto consumo de alimentos procesados es un factor determinante en la prevalencia de obesidad infantil."
+    },
+    {
+        "enunciado": "¿Qué instrumento se menciona en el PSIAA para evaluar el desarrollo psicomotor en niños pequeños?",
+        "opciones": [
+            "Escala Haizea-Llevant.",
+            "Test de WISC.",
+            "Escala de Habilidades Sociales.",
+            "Cuestionario de Temperamento Infantil."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_psicomotor"
+        ],
+        "feedback": "La Escala Haizea-Llevant es una herramienta recomendada en el PSIAA para evaluar el desarrollo psicomotor, ayudando a identificar posibles señales de alerta."
+    },
+    {
+        "enunciado": "¿Qué medida es esencial para prevenir la deficiencia de yodo en los niños?",
+        "opciones": [
+            "Incrementar la exposición al sol.",
+            "Consumir sal yodada.",
+            "Evitar el consumo de leche y derivados.",
+            "Aumentar el uso de suplementos vitamínicos genéricos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "nutrición"
+        ],
+        "feedback": "El uso de sal yodada es una medida eficaz para prevenir la deficiencia de yodo, un nutriente crucial para el desarrollo físico y mental de los niños."
+    },
+    {
+        "enunciado": "¿En qué se enfoca la promoción de parentalidad positiva según el PSIAA?",
+        "opciones": [
+            "En imponer disciplina estricta y rutinaria.",
+            "En fortalecer el vínculo afectivo y las habilidades de crianza.",
+            "En promover la independencia absoluta del niño desde el nacimiento.",
+            "En evitar la interacción constante con el niño."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "La promoción de la parentalidad positiva se centra en fortalecer el vínculo afectivo y las habilidades de los padres para fomentar un desarrollo saludable del niño."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes es un derecho reconocido para los menores en el contexto sanitario andaluz?",
+        "opciones": [
+            "Recibir atención sanitaria sólo con el permiso de sus cuidadores.",
+            "Acceso a la atención sanitaria adaptada a su edad y desarrollo.",
+            "Evitar la vacunación si no se presenta justificación médica.",
+            "Decidir no recibir tratamiento bajo cualquier circunstancia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "derechos_sanitarios"
+        ],
+        "feedback": "Los menores tienen derecho a recibir atención sanitaria adaptada a su edad y desarrollo, según el marco normativo vigente en Andalucía."
+    },
+    {
+        "enunciado": "¿Cuál es una recomendación clave para reducir el sedentarismo en la infancia?",
+        "opciones": [
+            "Incrementar el tiempo de uso de dispositivos electrónicos educativos.",
+            "Incorporar actividades físicas regulares adaptadas a la edad.",
+            "Limitar únicamente el tiempo frente al televisor.",
+            "Prohibir completamente los videojuegos en casa."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "actividad_física"
+        ],
+        "feedback": "La incorporación de actividades físicas regulares adaptadas a la edad es esencial para combatir el sedentarismo y promover una infancia saludable."
+    },
+    {
+        "enunciado": "¿Qué acción está incluida en las actividades específicas en situaciones de riesgo según el PSIAA?",
+        "opciones": [
+            "Administración rutinaria de vitamina C.",
+            "Prevención del raquitismo mediante fototerapia.",
+            "Intervenciones dirigidas a familias con riesgo psicosocial.",
+            "Uso de cribados genéricos para todos los menores."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "situaciones_riesgo"
+        ],
+        "feedback": "El PSIAA contempla intervenciones dirigidas a familias con riesgo psicosocial, enfocándose en mitigar situaciones que puedan impactar negativamente el desarrollo infantil."
+    },
+    {
+        "enunciado": "¿Qué característica define la etapa preescolar (2-6 años) según el desarrollo infantil?",
+        "opciones": [
+            "El aumento rápido de peso y talla.",
+            "Desarrollo de pensamiento simbólico y coordinación motora.",
+            "Mayor dependencia emocional hacia los cuidadores.",
+            "Inicio del balbuceo y respuesta a sonidos familiares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_preescolar"
+        ],
+        "feedback": "En la etapa preescolar se observa un desarrollo significativo en el pensamiento simbólico y la coordinación motora, como correr y saltar, esenciales para el aprendizaje social."
+    },
+    {
+        "enunciado": "En el contexto del Plan Integral de Obesidad Infantil, ¿qué porcentaje de obesidad infantil se presenta en niños de zonas desfavorecidas?",
+        "opciones": [
+            "Misma prevalencia que en otras áreas.",
+            "El doble de riesgo que en zonas con mayor nivel socioeconómico.",
+            "Prevalencia insignificante en comparación con otras regiones.",
+            "Ninguna relación entre nivel socioeconómico y obesidad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "Los niños que viven en zonas con menor nivel socioeconómico tienen el doble de riesgo de desarrollar obesidad en comparación con aquellos de áreas más favorecidas."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿cuál es una señal de alerta en el desarrollo psicomotor del lactante menor?",
+        "opciones": [
+            "Balbuceo constante a los dos meses.",
+            "Ausencia de contacto visual persistente.",
+            "Inicio temprano de caminatas a los cuatro meses.",
+            "Falta de respuesta a estímulos auditivos durante el primer mes."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alertas_desarrollo"
+        ],
+        "feedback": "La ausencia de contacto visual persistente es una señal de alerta importante en el desarrollo psicomotor, indicando posibles retrasos que requieren evaluación."
+    },
+    {
+        "enunciado": "¿Qué medida se recomienda para promover hábitos de sueño saludables en la infancia?",
+        "opciones": [
+            "Permitir tiempos de siesta irregulares durante el día.",
+            "Evitar exposición a pantallas antes de dormir.",
+            "Ofrecer alimentos azucarados antes del sueño.",
+            "Fomentar actividades intensas justo antes de acostarse."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "hábitos_sueño"
+        ],
+        "feedback": "Evitar la exposición a pantallas antes de dormir es una medida clave para regular los hábitos de sueño y mejorar el descanso infantil."
+    },
+    {
+        "enunciado": "¿Qué tipo de alimentación es ideal durante los primeros 6 meses de vida, según las recomendaciones del PSIAA?",
+        "opciones": [
+            "Lactancia materna exclusiva.",
+            "Leche de continuación.",
+            "Dieta familiar equilibrada.",
+            "Introducción de alimentos sólidos con purés."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "lactancia"
+        ],
+        "feedback": "La lactancia materna exclusiva durante los primeros 6 meses proporciona los nutrientes esenciales y fortalece el sistema inmunológico del bebé."
+    },
+    {
+        "enunciado": "¿Cuál es una medida efectiva para prevenir accidentes en el hogar durante la primera infancia?",
+        "opciones": [
+            "Dejar productos químicos al alcance supervisado.",
+            "Cubrir enchufes y evitar objetos pequeños al alcance del niño.",
+            "Permitir acceso a muebles bajos y inestables.",
+            "Evitar restricciones de movilidad en la zona de juego."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_accidentes"
+        ],
+        "feedback": "Cubrir enchufes y evitar que objetos pequeños estén al alcance son medidas esenciales para prevenir accidentes en el hogar durante la primera infancia."
+    },
+    {
+        "enunciado": "¿Qué acción prioriza la Estrategia de Promoción de una Vida Saludable en relación con la tecnología?",
+        "opciones": [
+            "Prohibir el acceso a dispositivos electrónicos.",
+            "Fomentar el uso positivo y responsable de tecnologías de la información.",
+            "Incrementar la exposición infantil a redes sociales.",
+            "Reducir completamente la interacción tecnológica en la adolescencia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "tecnología_saludable"
+        ],
+        "feedback": "La estrategia promueve el uso positivo y responsable de tecnologías, integrándolas como herramientas para mejorar la calidad de vida."
+    },
+    {
+        "enunciado": "¿Qué consejo se incluye para la prevención del raquitismo en la infancia?",
+        "opciones": [
+            "Evitar completamente la exposición al sol.",
+            "Incluir suplementos de vitamina D según indicaciones médicas.",
+            "Incrementar el consumo de grasas saturadas.",
+            "Eliminar los productos lácteos de la dieta."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_osteopatías"
+        ],
+        "feedback": "La administración de vitamina D es una medida clave para prevenir el raquitismo en la infancia, especialmente en situaciones de deficiencia."
+    },
+    {
+        "enunciado": "¿Qué rol desempeña la familia en la adquisición de hábitos saludables, según el PSIAA?",
+        "opciones": [
+            "Supervisión limitada sobre los niños.",
+            "Fomentar prácticas de alimentación y actividad física positivas.",
+            "Imponer dietas restrictivas sin orientación profesional.",
+            "Delegar completamente la educación en instituciones escolares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "rol_familiar"
+        ],
+        "feedback": "El PSIAA enfatiza el papel crucial de la familia en fomentar prácticas positivas de alimentación y actividad física como pilares para la salud infantil."
+    },
+    {
+        "enunciado": "¿Cuál es la recomendación del PSIAA para introducir alimentos ricos en gluten durante la lactancia?",
+        "opciones": [
+            "Evitar totalmente el gluten hasta los 12 meses.",
+            "Incorporar alimentos con gluten desde el cuarto mes.",
+            "Introducir alimentos con gluten progresivamente en el sexto mes.",
+            "Incluir grandes cantidades de gluten desde los primeros días de vida."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación_complementaria"
+        ],
+        "feedback": "El PSIAA recomienda introducir alimentos con gluten de forma progresiva en el sexto mes para reducir el riesgo de alergias y enfermedades asociadas."
+    },
+    {
+        "enunciado": "¿Qué evaluación es clave en el cribado de displasia evolutiva de caderas en lactantes?",
+        "opciones": [
+            "Pruebas auditivas rutinarias.",
+            "Test de provocación de Ortolani y Barlow.",
+            "Medición del perímetro craneal.",
+            "Evaluación de la postura al caminar."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "cribado_salud"
+        ],
+        "feedback": "El test de Ortolani y Barlow es esencial para detectar displasia de caderas en lactantes, una condición tratable si se detecta a tiempo."
+    },
+    {
+        "enunciado": "¿Cuál es un aspecto prioritario para la promoción de la actividad física en la infancia?",
+        "opciones": [
+            "Limitar el tiempo al aire libre.",
+            "Promover actividades grupales adaptadas a la edad.",
+            "Evitar el uso de bicicletas y equipos recreativos.",
+            "Fomentar el sedentarismo como método de descanso."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "actividad_física"
+        ],
+        "feedback": "Las actividades físicas grupales adaptadas fomentan la socialización y el desarrollo saludable en niños."
+    },
+    {
+        "enunciado": "En el marco de la promoción de salud bucodental, ¿cuándo se recomienda comenzar la higiene oral en bebés?",
+        "opciones": [
+            "Desde la erupción del primer diente.",
+            "A partir de los dos años.",
+            "Una vez que aparezca la dentición completa.",
+            "Después de la primera revisión odontológica."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "salud_bucodental"
+        ],
+        "feedback": "La higiene oral debe comenzar con la erupción del primer diente para prevenir caries y establecer buenos hábitos desde temprano."
+    },
+    {
+        "enunciado": "¿Qué medida recomienda la Estrategia de Promoción de una Vida Saludable en relación con el sueño infantil?",
+        "opciones": [
+            "Permitir horarios de sueño inconsistentes.",
+            "Fomentar un ambiente oscuro y tranquilo para dormir.",
+            "Evitar la supervisión del sueño de los menores.",
+            "Prolongar las actividades con pantallas hasta la hora de dormir."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "hábitos_sueño"
+        ],
+        "feedback": "Un ambiente oscuro y tranquilo es clave para un sueño reparador y saludable en niños, favoreciendo su desarrollo."
+    },
+    {
+        "enunciado": "¿Qué tipo de alimentación se promueve durante la etapa de transición del lactante (6-12 meses)?",
+        "opciones": [
+            "Alimentos exclusivamente sólidos.",
+            "Combinación de leche materna y alimentos complementarios.",
+            "Dieta familiar completa.",
+            "Solo fórmula infantil sin alimentos complementarios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación"
+        ],
+        "feedback": "En la etapa de transición, se recomienda combinar la lactancia con alimentos complementarios adecuados a la edad, como frutas y cereales sin gluten."
+    },
+    {
+        "enunciado": "¿Qué acción es fundamental para identificar posibles problemas de desarrollo visual en bebés?",
+        "opciones": [
+            "Realizar cribados de fijación y persecución ocular.",
+            "Observar únicamente la reacción al ruido.",
+            "Esperar hasta que el niño hable para evaluar.",
+            "Revisar solo si hay antecedentes familiares de problemas visuales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_visual"
+        ],
+        "feedback": "Los cribados de fijación y persecución ocular son esenciales para identificar problemas visuales en los primeros meses de vida."
+    },
+    {
+        "enunciado": "¿Qué estrategia se prioriza en la prevención del tabaquismo pasivo en la infancia?",
+        "opciones": [
+            "Prohibir completamente el consumo de tabaco en la vivienda.",
+            "Permitir el uso de tabaco solo en espacios cerrados.",
+            "Fomentar el consumo de tabaco en áreas comunes.",
+            "Restringir parcialmente el acceso a ambientes libres de humo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_tabaco"
+        ],
+        "feedback": "Prohibir el consumo de tabaco en la vivienda y en espacios cerrados es crucial para prevenir el tabaquismo pasivo y sus efectos en la infancia."
+    },
+    {
+        "enunciado": "¿Cuál es el periodo recomendado para administrar leche de continuación en lactancia artificial?",
+        "opciones": [
+            "Desde el nacimiento hasta los 6 meses.",
+            "A partir de los 6 meses hasta los 18 meses.",
+            "Desde los 18 meses hasta los 3 años.",
+            "Durante todo el primer año sin cambios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "lactancia_artificial"
+        ],
+        "feedback": "La leche de continuación se administra a partir de los 6 meses hasta los 18 meses, complementando el desarrollo nutricional del lactante."
+    },
+    {
+        "enunciado": "En el contexto de detección precoz, ¿qué herramienta es útil para valorar el desarrollo psicomotor?",
+        "opciones": [
+            "Escalas Haizea-Llevant.",
+            "Pruebas de agudeza visual.",
+            "Cuestionarios sobre la alimentación.",
+            "Registro de peso mensual únicamente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "valoración_psicomotora"
+        ],
+        "feedback": "Las Escalas Haizea-Llevant son herramientas ampliamente utilizadas para valorar el desarrollo psicomotor y detectar posibles alteraciones en la infancia."
+    },
+    {
+        "enunciado": "¿Qué etapa del desarrollo infantil se caracteriza por un crecimiento rápido en peso y talla, y la aparición de ansiedad por separación?",
+        "opciones": [
+            "Etapa neonatal.",
+            "Lactante menor (hasta el primer año).",
+            "Lactante mayor (1-2 años).",
+            "Edad preescolar (2-6 años)."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_emocional"
+        ],
+        "feedback": "Durante la etapa de lactante menor, el crecimiento rápido en peso y talla es notable, y se desarrolla ansiedad por separación al reconocer figuras familiares."
+    },
+    {
+        "enunciado": "¿Cuál es una medida de prevención recomendada por el PSIAA ante el riesgo de ferropenia en la infancia?",
+        "opciones": [
+            "Uso exclusivo de suplementos vitamínicos.",
+            "Incorporación de hierro en situaciones de riesgo.",
+            "Aumentar la exposición al sol.",
+            "Prohibir alimentos ricos en proteínas animales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_deficiencias"
+        ],
+        "feedback": "El PSIAA recomienda administrar hierro en situaciones de riesgo para prevenir la ferropenia, una condición común en lactantes y niños pequeños."
+    },
+    {
+        "enunciado": "¿Qué aspecto fundamental se evalúa durante la exploración física en visitas pediátricas del PSIAA?",
+        "opciones": [
+            "Patrones de sueño únicamente.",
+            "Cambio en percentiles de peso, talla y perímetro craneal.",
+            "Preferencias alimenticias específicas.",
+            "Estilo de juego del niño."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluaciones_pediátricas"
+        ],
+        "feedback": "Durante la exploración física, se monitorean los cambios en los percentiles de peso, talla y perímetro craneal, marcadores clave del desarrollo infantil."
+    },
+    {
+        "enunciado": "¿Qué recomendación se incluye en la Estrategia de Promoción de una Vida Saludable sobre el consumo de azúcar en niños?",
+        "opciones": [
+            "Limitar el consumo de alimentos azucarados, especialmente bollería industrial.",
+            "Incorporar dulces en todas las comidas para mayor energía.",
+            "Permitir el consumo ilimitado de bebidas azucaradas durante el día.",
+            "Evitar cualquier consumo de frutas por su contenido de azúcar natural."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "nutrición"
+        ],
+        "feedback": "La estrategia enfatiza la importancia de limitar el consumo de alimentos azucarados, priorizando una dieta equilibrada y saludable para los niños."
+    },
+    {
+        "enunciado": "¿Qué se evalúa en los cribados de hipoacusia en los controles pediátricos según el PSIAA?",
+        "opciones": [
+            "Respuesta del niño a sonidos específicos.",
+            "Cantidad de palabras aprendidas.",
+            "Desarrollo del lenguaje en frases completas.",
+            "Capacidad para identificar tonos musicales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluación_auditiva"
+        ],
+        "feedback": "Los cribados de hipoacusia evalúan la respuesta del niño a sonidos, ayudando a identificar posibles problemas auditivos desde edades tempranas."
+    },
+    {
+        "enunciado": "¿Qué se promueve en la parentalidad positiva dentro del contexto del PSIAA?",
+        "opciones": [
+            "Uso de disciplina severa como método principal.",
+            "Fomentar relaciones de apego seguras y vínculos afectivos.",
+            "Evitar la interacción emocional con el niño.",
+            "Permitir que el niño crezca sin supervisión activa."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "La parentalidad positiva busca fomentar relaciones de apego seguras y fortalecer los vínculos afectivos, esenciales para el desarrollo emocional y social del niño."
+    },
+    {
+        "enunciado": "¿Cuál es un objetivo principal de la Estrategia de Promoción de una Vida Saludable en Andalucía?",
+        "opciones": [
+            "Reducir la interacción social en entornos escolares.",
+            "Promover la salud integral mediante hábitos saludables.",
+            "Incrementar el consumo de alimentos procesados.",
+            "Fomentar estilos de vida sedentarios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "promoción_salud"
+        ],
+        "feedback": "La estrategia busca fomentar hábitos saludables como la alimentación equilibrada y la actividad física para mejorar el bienestar integral."
+    },
+    {
+        "enunciado": "Según las recomendaciones del PSIAA, ¿cuándo deben incorporarse las legumbres a la dieta del lactante?",
+        "opciones": [
+            "A los 6 meses.",
+            "A los 9 meses.",
+            "A los 12 meses.",
+            "Después de los 2 años."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación_complementaria"
+        ],
+        "feedback": "El PSIAA sugiere incorporar legumbres como lentejas en la dieta complementaria del lactante alrededor de los 9 meses, asegurando una introducción gradual."
+    },
+    {
+        "enunciado": "¿Qué factor de riesgo es evaluado para prevenir el síndrome de muerte súbita del lactante (SMSL)?",
+        "opciones": [
+            "Posición al dormir del bebé.",
+            "Número de tomas de leche durante el día.",
+            "Cantidad de juguetes en la cuna.",
+            "Frecuencia de visitas pediátricas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_smsl"
+        ],
+        "feedback": "La posición al dormir, preferiblemente boca arriba, es un factor clave en la prevención del SMSL, junto con otras medidas de seguridad en el sueño."
+    },
+    {
+        "enunciado": "¿Qué estrategia es esencial para reducir las desigualdades en salud infantil según el Plan Integral de Obesidad Infantil?",
+        "opciones": [
+            "Focalizarse únicamente en grupos de ingresos altos.",
+            "Promover intervenciones inclusivas y accesibles para todas las familias.",
+            "Reducir el acceso a programas de promoción de la salud.",
+            "Incrementar actividades físicas solo en entornos rurales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "igualdad_salud"
+        ],
+        "feedback": "La promoción de intervenciones inclusivas y accesibles asegura que todos los niños puedan beneficiarse de estrategias diseñadas para reducir desigualdades en salud."
+    },
+    {
+        "enunciado": "¿Qué justificación científica respalda la recomendación de lactancia materna exclusiva durante los primeros seis meses según el PSIAA?",
+        "opciones": [
+            "Es una fuente rica en vitamina D para prevenir el raquitismo.",
+            "Fortalece el sistema inmunológico del lactante con propiedades antimicrobianas.",
+            "Contiene mayor cantidad de carbohidratos necesarios para el crecimiento.",
+            "Facilita la transición temprana a alimentos sólidos antes de los seis meses."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "lactancia"
+        ],
+        "feedback": "La lactancia materna exclusiva fortalece el sistema inmunológico del lactante gracias a sus propiedades antimicrobianas y altos niveles de inmunoglobulina A (IgA)."
+    },
+    {
+        "enunciado": "¿Cuál es la importancia del test de Denver (DDST-II) en la evaluación del desarrollo psicomotor según el PSIAA?",
+        "opciones": [
+            "Identifica exclusivamente problemas de desarrollo cognitivo.",
+            "Permite evaluar integralmente las áreas motora, social, y lingüística.",
+            "Se centra en la medición de habilidades físicas durante el primer año.",
+            "Detecta de forma específica problemas de lateralidad en niños mayores de 3 años."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluaciones_psicomotoras"
+        ],
+        "feedback": "El test de Denver permite una evaluación integral del desarrollo infantil, abordando áreas motora, social y lingüística, útil para identificar retrasos en etapas tempranas."
+    },
+    {
+        "enunciado": "Según el Plan Integral de Obesidad Infantil, ¿cómo influye el fenómeno 'tracking' en la gestión de la obesidad desde edades tempranas?",
+        "opciones": [
+            "Determina que los niveles de obesidad infantil disminuyen con la edad.",
+            "Demuestra que la obesidad infantil tiende a persistir en la adultez.",
+            "Propone que las intervenciones en obesidad adulta impactan en la infancia.",
+            "Indica que la genética es el único factor determinante en la obesidad infantil."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "obesidad_tracking"
+        ],
+        "feedback": "El fenómeno 'tracking' evidencia que la obesidad iniciada en la infancia tiene una alta probabilidad de persistir en la adultez, subrayando la importancia de intervenciones tempranas."
+    },
+    {
+        "enunciado": "En el contexto del PSIAA, ¿qué indicadores específicos se deben vigilar para evaluar el crecimiento físico en lactantes?",
+        "opciones": [
+            "Incremento en el perímetro torácico y análisis de IMC.",
+            "Crecimiento longitudinal, peso relativo y desarrollo dental.",
+            "Perímetro craneal, talla y peso con análisis de percentiles.",
+            "Desarrollo motor fino y capacidad cognitiva relativa."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "control_crecimiento"
+        ],
+        "feedback": "El PSIAA establece la vigilancia del peso, talla y perímetro craneal, integrados en curvas de percentiles, para detectar desviaciones en el crecimiento físico infantil."
+    },
+    {
+        "enunciado": "¿Qué sustento tiene la introducción gradual de gluten a partir del sexto mes en la dieta infantil, según las guías del PSIAA?",
+        "opciones": [
+            "Reduce el riesgo de alergias alimentarias y previene la celiaquía.",
+            "Fomenta un desarrollo más rápido del sistema digestivo.",
+            "Disminuye la probabilidad de déficit proteico en la infancia.",
+            "Facilita el reemplazo de la lactancia materna por alimentos sólidos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación_gluten"
+        ],
+        "feedback": "La introducción progresiva del gluten en el sexto mes se asocia a un menor riesgo de desarrollar alergias alimentarias y enfermedad celíaca en niños predispuestos."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña el contexto familiar en la prevención de malos tratos según el protocolo del PSIAA?",
+        "opciones": [
+            "Actuar como único responsable en casos de detección.",
+            "Fomentar relaciones positivas y proporcionar apoyo social.",
+            "Concentrar todos los recursos disponibles exclusivamente en los cuidadores.",
+            "Evitar participar en la evaluación del desarrollo del menor."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_maltrato"
+        ],
+        "feedback": "El PSIAA destaca la importancia del contexto familiar en fomentar relaciones positivas y ofrecer un entorno de apoyo social para prevenir malos tratos."
+    },
+    {
+        "enunciado": "En el ámbito del PSIAA, ¿qué estrategias se consideran más efectivas para prevenir accidentes en niños menores de 2 años?",
+        "opciones": [
+            "Uso de dispositivos de protección activa, como arneses de escalera.",
+            "Supervisión constante en combinación con adaptación del entorno.",
+            "Permitir una exploración sin restricciones para fomentar el desarrollo.",
+            "Implementar vigilancia electrónica en todas las actividades del niño."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_accidentes"
+        ],
+        "feedback": "La prevención de accidentes en niños menores de 2 años combina la supervisión constante y la adecuación del entorno, reduciendo riesgos sin limitar el desarrollo."
+    },
+    {
+        "enunciado": "Según la Estrategia de Promoción de una Vida Saludable, ¿cuál es la relación entre la actividad física y el bienestar emocional en la infancia?",
+        "opciones": [
+            "La actividad física solo mejora el estado físico del niño.",
+            "No se han encontrado beneficios emocionales en la infancia.",
+            "El ejercicio físico favorece la regulación emocional y reduce el estrés infantil.",
+            "La actividad física intensa puede provocar desequilibrios emocionales graves."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "bienestar_físico_emocional"
+        ],
+        "feedback": "La actividad física no solo mejora el estado físico, sino que también regula las emociones y reduce el estrés en niños, favoreciendo su bienestar integral."
+    },
+    {
+        "enunciado": "¿Qué enfoque teórico destaca la Estrategia de Promoción de una Vida Saludable para abordar las desigualdades en salud?",
+        "opciones": [
+            "Perspectiva salutogénica y de activos en salud.",
+            "Modelo restrictivo de acceso universal.",
+            "Intervenciones focalizadas exclusivamente en grupos vulnerables.",
+            "Estrategia de maximización de recursos limitados únicamente en áreas urbanas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "El enfoque salutogénico de la Estrategia promueve activos en salud y fortalezas comunitarias, enfrentando desigualdades desde una perspectiva positiva y holística."
+    },
+    {
+        "enunciado": "¿Qué criterio define la obesidad infantil según el Índice de Masa Corporal (IMC) adaptado para niños y adolescentes?",
+        "opciones": [
+            "IMC superior al percentil 75 para la edad y sexo.",
+            "IMC entre los percentiles 80 y 85.",
+            "IMC superior al percentil 95 para la edad y sexo.",
+            "IMC que excede los valores establecidos para adultos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "criterios_obesidad"
+        ],
+        "feedback": "El IMC superior al percentil 95 para la edad y sexo es el criterio clave para definir la obesidad infantil, según las guías internacionales y nacionales."
+    },
+    {
+        "enunciado": "¿En qué año se implementó por primera vez el Plan Integral de Obesidad Infantil de Andalucía (PIOBIN)?",
+        "opciones": [
+            "2004.",
+            "2007.",
+            "2010.",
+            "2015."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_salud"
+        ],
+        "feedback": "El PIOBIN se implementó en 2007 como respuesta al incremento de la obesidad infantil, alineado con estrategias nacionales e internacionales."
+    },
+    {
+        "enunciado": "¿Cuál es el periodo de vigencia de la Estrategia de Promoción de una Vida Saludable en Andalucía actualmente en curso?",
+        "opciones": [
+            "2010-2020.",
+            "2015-2025.",
+            "2024-2030.",
+            "2022-2028."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_vigencia"
+        ],
+        "feedback": "La Estrategia de Promoción de una Vida Saludable en Andalucía está diseñada para el periodo 2024-2030, con un enfoque integral en hábitos saludables."
+    },
+    {
+        "enunciado": "¿Qué duración tiene el Programa de Salud Infantil y Adolescente de Andalucía (PSIAA) establecido en su diseño actual?",
+        "opciones": [
+            "3 años.",
+            "Indefinida, con revisiones periódicas.",
+            "5 años renovables.",
+            "10 años fijos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "duración_programas"
+        ],
+        "feedback": "El PSIAA tiene una duración indefinida, sujeta a revisiones y actualizaciones periódicas para ajustarse a las nuevas necesidades y evidencias científicas."
+    },
+    {
+        "enunciado": "¿En qué año fue aprobado el Plan Andaluz de Salud que enmarca estrategias como el PIOBIN?",
+        "opciones": [
+            "2000.",
+            "2004.",
+            "2007.",
+            "2010."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_salud"
+        ],
+        "feedback": "El Plan Andaluz de Salud fue aprobado en 2004 y establece metas amplias para mejorar los niveles de salud a través de diversos planes y estrategias."
+    },
+    {
+        "enunciado": "¿Qué objetivo temporal tiene el Plan Estratégico Nacional para la Reducción de la Obesidad Infantil (PENROI)?",
+        "opciones": [
+            "2010-2020.",
+            "2020-2030.",
+            "2022-2027.",
+            "2025-2035."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_nacionales"
+        ],
+        "feedback": "El Plan Estratégico Nacional para la Reducción de la Obesidad Infantil está diseñado para el periodo 2020-2030, con un enfoque preventivo e intersectorial."
+    },
+    {
+        "enunciado": "¿En qué año se aprobó la Estrategia Nacional NAOS (Nutrición, Actividad Física y Prevención de la Obesidad)?",
+        "opciones": [
+            "2001.",
+            "2005.",
+            "2010.",
+            "2013."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_salud"
+        ],
+        "feedback": "La Estrategia NAOS se aprobó en 2005 con el objetivo de fomentar una alimentación equilibrada y promover la actividad física para prevenir la obesidad."
+    },
+    {
+        "enunciado": "¿En qué año se lanzó la Agenda 2030 de la ONU, que incluye los Objetivos de Desarrollo Sostenible relacionados con la salud?",
+        "opciones": [
+            "2010.",
+            "2012.",
+            "2015.",
+            "2018."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "ods_salud"
+        ],
+        "feedback": "La Agenda 2030 de la ONU, que incluye metas para garantizar una vida sana y promover el bienestar, fue lanzada en 2015."
+    },
+    {
+        "enunciado": "¿Cuál fue el primer año de implementación del Plan para la Promoción de la Actividad Física y la Alimentación Equilibrada (PAFAE) en Andalucía?",
+        "opciones": [
+            "2003.",
+            "2004.",
+            "2006.",
+            "2007."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_actividad_física"
+        ],
+        "feedback": "El PAFAE se implementó en 2004 con el objetivo de fomentar estilos de vida saludables y combatir problemas como la obesidad infantil."
+    },
+    {
+        "enunciado": "¿En qué año se aprobó el Decreto 246/2005 en Andalucía, que regula los derechos de los menores a recibir atención sanitaria?",
+        "opciones": [
+            "2002.",
+            "2005.",
+            "2010.",
+            "2015."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "derechos_sanitarios"
+        ],
+        "feedback": "El Decreto 246/2005 se aprobó en Andalucía para garantizar que los menores reciban atención sanitaria adaptada a sus necesidades específicas de edad y desarrollo."
+    },
+    {
+        "enunciado": "¿Qué vigencia temporal tiene el Plan de Acción Global para la Prevención y Control de Enfermedades No Transmisibles 2013-2020?",
+        "opciones": [
+            "2013-2017.",
+            "2013-2020.",
+            "2015-2025.",
+            "2020-2030."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_globales"
+        ],
+        "feedback": "El Plan de Acción Global para la Prevención y Control de Enfermedades No Transmisibles abarcó de 2013 a 2020, buscando reducir enfermedades como la obesidad y la diabetes."
+    },
+    {
+        "enunciado": "¿En qué año se lanzó el Programa de Salud Infantil y Adolescente de Andalucía (PSIAA) en su versión actualizada?",
+        "opciones": [
+            "2008.",
+            "2012.",
+            "2014.",
+            "2016."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_actualización"
+        ],
+        "feedback": "El PSIAA fue actualizado en 2014 para incorporar nuevas evidencias científicas, abordar desigualdades en salud y promover parentalidad positiva."
+    },
+    {
+        "enunciado": "¿Cuál fue el año de aprobación del Plan Estratégico Nacional para la Prevención de la Obesidad Infantil en España?",
+        "opciones": [
+            "2018.",
+            "2020.",
+            "2022.",
+            "2024."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_nacionales"
+        ],
+        "feedback": "El Plan Estratégico Nacional para la Prevención de la Obesidad Infantil se aprobó en 2020 como parte de un esfuerzo global para reducir esta epidemia."
+    },
+    {
+        "enunciado": "¿Cuánto tiempo abarca el Plan Integral de Obesidad Infantil de Andalucía (PIOBIN)?",
+        "opciones": [
+            "4 años con revisiones bianuales.",
+            "5 años sin renovaciones.",
+            "Sin límite fijo, con evaluaciones continuas.",
+            "10 años establecidos en su diseño inicial."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_obesidad"
+        ],
+        "feedback": "El PIOBIN no tiene un límite temporal fijo y está sujeto a evaluaciones continuas para adaptarse a nuevas necesidades y retos en salud pública."
+    },
+    {
+        "enunciado": "¿En qué periodo se desarrolló la Estrategia de la OMS sobre Régimen Alimentario, Actividad Física y Salud?",
+        "opciones": [
+            "1998-2005.",
+            "2004-2015.",
+            "2006-2020.",
+            "2008-2021."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_globales"
+        ],
+        "feedback": "La Estrategia de la OMS sobre Régimen Alimentario, Actividad Física y Salud se desarrolló entre 2004 y 2015 para combatir enfermedades no transmisibles globalmente."
+    },
+    {
+        "enunciado": "¿Cuál fue la duración del Plan Andaluz de Promoción de la Actividad Física y Alimentación Equilibrada (PAFAE)?",
+        "opciones": [
+            "2004-2010.",
+            "2004-2014.",
+            "2004-2019.",
+            "2004-2024."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_salud"
+        ],
+        "feedback": "El PAFAE tuvo una duración de 15 años, desde 2004 hasta 2019, y sirvió de base para posteriores estrategias de promoción de la salud en Andalucía."
+    },
+    {
+        "enunciado": "¿En qué año se publicó el Plan Estratégico Nacional para la Reducción de la Obesidad Infantil en España, asociado a los ODS de la ONU?",
+        "opciones": [
+            "2018.",
+            "2020.",
+            "2021.",
+            "2023."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "ods"
+        ],
+        "feedback": "El Plan Estratégico Nacional para la Reducción de la Obesidad Infantil se publicó en 2020, en consonancia con los Objetivos de Desarrollo Sostenible de la ONU."
+    },
+    {
+        "enunciado": "¿Cuál es el marco temporal de la Estrategia Mundial sobre la Alimentación del Lactante y del Niño Pequeño de la OMS?",
+        "opciones": [
+            "2002-2015.",
+            "2002-2020.",
+            "2003-2025.",
+            "2005-2030."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_mundiales"
+        ],
+        "feedback": "La Estrategia Mundial sobre la Alimentación del Lactante y del Niño Pequeño de la OMS abarcó de 2002 a 2020, promoviendo la lactancia materna y una nutrición adecuada."
+    },
+    {
+        "enunciado": "¿En qué año se estableció el Decreto 210/2018 en Andalucía para la protección de menores en situaciones de riesgo?",
+        "opciones": [
+            "2016.",
+            "2018.",
+            "2020.",
+            "2022."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "protección_menores"
+        ],
+        "feedback": "El Decreto 210/2018 regula el procedimiento de actuación ante situaciones de riesgo y desamparo de menores en Andalucía, fortaleciendo su protección."
+    },
+    {
+        "enunciado": "¿Cuál es la vigencia del Plan de Acción Conjunta 'Una Sola Salud' lanzado por organismos internacionales?",
+        "opciones": [
+            "2015-2020.",
+            "2020-2025.",
+            "2022-2026.",
+            "2023-2030."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "planes_globales"
+        ],
+        "feedback": "El Plan de Acción Conjunta 'Una Sola Salud' tiene vigencia entre 2022 y 2026, promoviendo la integración de la salud humana, animal y ambiental."
+    },
+    {
+        "enunciado": "¿En qué año se inició la Estrategia Salud 2020 de la OMS para la región europea?",
+        "opciones": [
+            "2010.",
+            "2012.",
+            "2015.",
+            "2020."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_oms"
+        ],
+        "feedback": "La Estrategia Salud 2020 de la OMS para Europa comenzó en 2012, centrada en reducir desigualdades y mejorar la salud a lo largo del ciclo vital."
+    },
+    {
+        "enunciado": "¿Qué áreas prioritarias aborda el Plan Integral de Obesidad Infantil de Andalucía (PIOBIN)?",
+        "opciones": [
+            "Solo promoción de la actividad física en escolares.",
+            "Promoción de la lactancia materna, alimentación saludable y actividad física.",
+            "Reducción del consumo de azúcares sin cambios en actividad física.",
+            "Prevención de enfermedades crónicas únicamente en adolescentes."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PIOBIN se enfoca en la promoción de la lactancia materna, alimentación saludable y actividad física como pilares esenciales para prevenir la obesidad infantil."
+    },
+    {
+        "enunciado": "¿Cuál es el enfoque principal del Programa de Salud Infantil y Adolescente de Andalucía (PSIAA)?",
+        "opciones": [
+            "Diagnóstico y tratamiento exclusivo de enfermedades pediátricas.",
+            "Promoción de hábitos saludables, parentalidad positiva y prevención de riesgos.",
+            "Implementación de campañas de vacunación masiva.",
+            "Control de peso corporal en adolescentes mediante dietas restrictivas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PSIAA promueve hábitos saludables, parentalidad positiva y actividades preventivas para garantizar el bienestar integral infantil y adolescente."
+    },
+    {
+        "enunciado": "¿Qué eje fundamental aborda la Estrategia de Promoción de una Vida Saludable en Andalucía (2024-2030)?",
+        "opciones": [
+            "Prohibición total de tecnologías en menores.",
+            "Promoción de hábitos saludables como alimentación, actividad física y bienestar emocional.",
+            "Reducción de la jornada escolar para evitar estrés infantil.",
+            "Fomento de la medicina curativa frente a la preventiva."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "La Estrategia de Promoción de una Vida Saludable en Andalucía prioriza hábitos saludables como alimentación equilibrada, actividad física y bienestar emocional."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué tipo de visitas promueven la parentalidad positiva?",
+        "opciones": [
+            "Solo visitas de control pediátrico obligatorias.",
+            "Visitas grupales y comunitarias con orientación sobre crianza.",
+            "Reuniones específicas para el control del peso infantil.",
+            "Entrevistas familiares enfocadas únicamente en la nutrición."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PSIAA incluye visitas grupales y comunitarias para orientar a las familias sobre parentalidad positiva, fortaleciendo vínculos y habilidades de crianza."
+    },
+    {
+        "enunciado": "¿Qué herramienta clave utiliza el PSIAA para evaluar el desarrollo infantil?",
+        "opciones": [
+            "Test de desarrollo Denver II y Escalas Haizea-Llevant.",
+            "Pruebas genéticas obligatorias en recién nacidos.",
+            "Evaluación psicológica directa en todas las consultas.",
+            "Análisis computarizado del crecimiento corporal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PSIAA recomienda el uso del Test de Denver II y las Escalas Haizea-Llevant para evaluar el desarrollo infantil y detectar señales de alerta temprana."
+    },
+    {
+        "enunciado": "¿Qué estrategias incluye la Estrategia Nacional NAOS para prevenir la obesidad?",
+        "opciones": [
+            "Promoción de actividades físicas esporádicas.",
+            "Fomento de una dieta equilibrada y actividad física regular en todos los grupos de edad.",
+            "Reducción del acceso a frutas y verduras en el mercado.",
+            "Implementación de campañas contra el uso de aceites vegetales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "La Estrategia NAOS busca prevenir la obesidad mediante la promoción de una dieta equilibrada y la práctica regular de actividad física en todas las etapas de la vida."
+    },
+    {
+        "enunciado": "¿Qué población objetivo prioriza el Plan de Acción Global para la Prevención de Enfermedades No Transmisibles 2013-2020?",
+        "opciones": [
+            "Adultos mayores de 60 años.",
+            "Población general, con especial énfasis en niños y jóvenes.",
+            "Únicamente adolescentes en riesgo de obesidad.",
+            "Personas con enfermedades crónicas diagnosticadas previamente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El Plan de Acción Global de la OMS prioriza la prevención en toda la población, enfocándose en intervenciones específicas para niños y jóvenes para reducir riesgos futuros."
+    },
+    {
+        "enunciado": "¿Qué intervenciones específicas propone el PIOBIN para los centros educativos?",
+        "opciones": [
+            "Eliminación completa de la educación física del currículo.",
+            "Introducción de menús saludables en los comedores escolares y promoción de actividad física.",
+            "Sustitución de alimentos naturales por procesados.",
+            "Implementación de sesiones académicas sobre el control de peso únicamente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PIOBIN promueve menús saludables en los comedores escolares y actividades físicas regulares como estrategias clave para prevenir la obesidad infantil."
+    },
+    {
+        "enunciado": "En el marco de la Estrategia de Promoción de una Vida Saludable, ¿qué se busca con el uso positivo de tecnologías de la información?",
+        "opciones": [
+            "Fomentar hábitos de vida sedentarios mediante juegos digitales.",
+            "Utilizar las tecnologías como herramientas educativas y de socialización responsables.",
+            "Limitar completamente el acceso de los niños a las tecnologías.",
+            "Fomentar el aislamiento digital como forma de prevención."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "La Estrategia fomenta el uso responsable de tecnologías como herramientas educativas y de socialización, promoviendo un equilibrio saludable en su uso."
+    },
+    {
+        "enunciado": "¿Qué recomendaciones específicas ofrece el PSIAA para prevenir el tabaquismo pasivo en menores?",
+        "opciones": [
+            "Permitir fumar en áreas ventiladas del hogar.",
+            "Prohibir el consumo de tabaco en espacios cerrados y alrededor de menores.",
+            "Limitar el tabaquismo pasivo solo en niños con enfermedades respiratorias.",
+            "Promover el uso de cigarrillos electrónicos como alternativa segura."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PSIAA recomienda prohibir el consumo de tabaco en espacios cerrados y alrededor de menores para proteger su salud y reducir los riesgos asociados al tabaquismo pasivo."
+    },
+    {
+        "enunciado": "Según el Plan Integral de Obesidad Infantil de Andalucía (PIOBIN), ¿qué se entiende por 'entornos facilitadores' y cuál es su rol en la prevención de la obesidad infantil?",
+        "opciones": [
+            "Son espacios recreativos que deben ser diseñados únicamente en zonas urbanas para facilitar el juego al aire libre.",
+            "Entornos que promueven la adopción de hábitos saludables mediante la accesibilidad a recursos como alimentación equilibrada y actividades físicas.",
+            "Áreas restringidas para reducir el acceso de los niños a alimentos procesados en zonas escolares.",
+            "Lugares que limitan la interacción social infantil para evitar conflictos relacionados con la alimentación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PIOBIN define los entornos facilitadores como aquellos que fomentan hábitos saludables mediante recursos accesibles, como menús equilibrados y oportunidades para la actividad física."
+    },
+    {
+        "enunciado": "Dentro de la Estrategia de Promoción de una Vida Saludable en Andalucía, ¿cómo se aborda el concepto de 'salud positiva' y su relación con los activos en salud?",
+        "opciones": [
+            "Se centra exclusivamente en la eliminación de factores de riesgo para la enfermedad.",
+            "Promueve la identificación y fortalecimiento de factores protectores y capacidades comunitarias que generan bienestar.",
+            "Busca reducir la carga de atención médica mediante la minimización de servicios preventivos.",
+            "Propone que las intervenciones se limiten a grupos vulnerables previamente identificados."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "La salud positiva en la Estrategia se enfoca en identificar y potenciar activos en salud, fortaleciendo los recursos individuales y comunitarios para generar bienestar."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿cómo se evalúa la eficacia de las estrategias implementadas en parentalidad positiva en familias de alto riesgo psicosocial?",
+        "opciones": [
+            "Mediante el número de visitas pediátricas realizadas al año.",
+            "A través de la mejora en indicadores de salud mental infantil y habilidades parentales.",
+            "Por la reducción de enfermedades físicas en los niños del grupo familiar.",
+            "Con el análisis exclusivo del crecimiento físico de los menores en el hogar."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "La eficacia de las estrategias de parentalidad positiva en el PSIAA se mide observando mejoras en indicadores como la salud mental infantil y las habilidades parentales."
+    },
+    {
+        "enunciado": "En el marco del PIOBIN, ¿cuál es el criterio utilizado para priorizar las intervenciones intersectoriales en las zonas de transformación social (ZTS)?",
+        "opciones": [
+            "La prevalencia de enfermedades no transmisibles en menores.",
+            "El nivel de participación en programas escolares de alimentación saludable.",
+            "El índice de desigualdad socioeconómica y acceso a recursos saludables.",
+            "La disponibilidad de infraestructuras deportivas en la comunidad."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "El PIOBIN prioriza intervenciones intersectoriales en ZTS basándose en el índice de desigualdad socioeconómica, promoviendo la equidad en el acceso a hábitos saludables."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué diferencia clave existe entre las visitas de control en la etapa neonatal y las realizadas durante la etapa preescolar?",
+        "opciones": [
+            "Las visitas neonatales se enfocan únicamente en el desarrollo motor, mientras que las preescolares evalúan habilidades sociales.",
+            "En la etapa neonatal se prioriza el seguimiento de parámetros físicos básicos, mientras que en la preescolar se integran evaluaciones del desarrollo cognitivo y social.",
+            "Las visitas preescolares eliminan completamente el enfoque en parámetros físicos básicos.",
+            "Las visitas neonatales no contemplan interacciones con la familia como parte de la evaluación integral."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluación_control"
+        ],
+        "feedback": "En la etapa neonatal, las visitas se centran en el seguimiento físico básico, mientras que las preescolares amplían su alcance al desarrollo cognitivo, social y emocional."
+    },
+    {
+        "enunciado": "Dentro del Plan Andaluz de Salud, ¿qué rol desempeña el concepto de 'salud en todas las políticas'?",
+        "opciones": [
+            "Integra la salud exclusivamente en estrategias del ámbito sanitario.",
+            "Busca incorporar la salud en todas las decisiones políticas para abordar determinantes sociales como vivienda, educación y medio ambiente.",
+            "Fomenta la eliminación de programas preventivos en favor de servicios médicos curativos.",
+            "Propone que las políticas de salud se limiten al ámbito local para aumentar su eficacia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El concepto 'salud en todas las políticas' del Plan Andaluz de Salud implica incorporar la salud en decisiones intersectoriales, abordando determinantes sociales clave."
+    },
+    {
+        "enunciado": "En la Estrategia Nacional NAOS, ¿qué mecanismos se proponen para garantizar la sostenibilidad de los hábitos saludables promovidos?",
+        "opciones": [
+            "Implementación de incentivos económicos para familias con menores en programas de actividad física.",
+            "Incorporación de políticas educativas que incluyan formación en nutrición y actividad física desde la infancia.",
+            "Reducción del presupuesto sanitario para centrarse exclusivamente en la prevención.",
+            "Focalización en intervenciones esporádicas a nivel comunitario."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_nacionales"
+        ],
+        "feedback": "La Estrategia Nacional NAOS promueve la formación en nutrición y actividad física desde la infancia, integrándolas en políticas educativas para garantizar su sostenibilidad."
+    },
+    {
+        "enunciado": "Según el Plan Integral de Obesidad Infantil, ¿qué acciones se deben implementar en los municipios para combatir la obesidad infantil?",
+        "opciones": [
+            "Limitar las actividades comunitarias a eventos deportivos anuales.",
+            "Crear redes locales que integren agentes educativos, sanitarios y comunitarios en la promoción de hábitos saludables.",
+            "Prohibir la venta de alimentos procesados en todos los mercados locales.",
+            "Establecer zonas recreativas únicamente en centros urbanos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El Plan Integral de Obesidad Infantil aboga por redes locales que integren agentes comunitarios, sanitarios y educativos para promover hábitos saludables sostenibles."
+    },
+    {
+        "enunciado": "En el contexto de la Estrategia de Promoción de una Vida Saludable en Andalucía, ¿cómo se define el enfoque intersectorial aplicado en los programas educativos?",
+        "opciones": [
+            "Involucra exclusivamente al sistema escolar en la implementación de programas de actividad física.",
+            "Integra colaboración entre educación, salud, servicios sociales y entidades locales para fomentar hábitos saludables desde edades tempranas.",
+            "Se limita a la provisión de materiales educativos por parte del sector sanitario.",
+            "Excluye la participación de las familias en la promoción de hábitos saludables."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_educativas"
+        ],
+        "feedback": "El enfoque intersectorial integra educación, salud, servicios sociales y entidades locales para abordar los hábitos saludables de forma integral desde la infancia."
+    },
+    {
+        "enunciado": "¿Qué aspecto del entorno escolar destaca como prioritario en el PSIAA para la prevención de obesidad y sobrepeso?",
+        "opciones": [
+            "Incremento en la duración de las clases teóricas para reducir tiempo libre.",
+            "Diseño de espacios que promuevan actividad física y establecimiento de menús saludables.",
+            "Fomento de actividades sedentarias como forma de mejorar la concentración.",
+            "Sustitución de comidas escolares por alimentos procesados para abaratar costos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "contenido_planes"
+        ],
+        "feedback": "El PSIAA prioriza la creación de espacios que fomenten la actividad física y la implementación de menús escolares saludables como estrategia clave contra la obesidad."
+    },
+    {
+        "enunciado": "Según la Estrategia de Promoción de una Vida Saludable, ¿cuál es la finalidad principal de incorporar el concepto 'One Health' en las políticas de salud?",
+        "opciones": [
+            "Priorizar únicamente la salud humana sobre otros factores.",
+            "Equilibrar y optimizar de manera sostenible la salud humana, animal y ambiental.",
+            "Reducir la inversión en salud pública a favor de la salud ambiental.",
+            "Fomentar la exclusividad de programas locales frente a estrategias globales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_integrales"
+        ],
+        "feedback": "El concepto 'One Health' busca integrar salud humana, animal y ambiental para optimizar recursos y promover sostenibilidad en las políticas de salud."
+    },
+    {
+        "enunciado": "En el marco del PIOBIN, ¿cómo se define el rol de los centros de atención primaria en la prevención de obesidad infantil?",
+        "opciones": [
+            "Diagnosticar obesidad exclusivamente en niños con antecedentes genéticos.",
+            "Realizar cribados sistemáticos, promover la educación nutricional y facilitar el acceso a recursos comunitarios.",
+            "Limitarse a la administración de tratamientos médicos para la obesidad establecida.",
+            "Concentrarse en casos severos sin intervenir en etapas preventivas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "atención_primaria"
+        ],
+        "feedback": "Los centros de atención primaria juegan un papel clave al realizar cribados, educar sobre nutrición y conectar a las familias con recursos preventivos comunitarios."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué indicadores específicos se utilizan para evaluar el impacto de los programas de parentalidad positiva?",
+        "opciones": [
+            "Frecuencia de visitas médicas y niveles de vacunación.",
+            "Habilidades parentales adquiridas, calidad de vínculos afectivos y desarrollo socioemocional del niño.",
+            "Índice de masa corporal del menor en edad escolar.",
+            "Reducción en el tiempo de ocio frente a pantallas en el hogar."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "El PSIAA mide el impacto de los programas de parentalidad positiva mediante la mejora en habilidades parentales, vínculos afectivos y el desarrollo socioemocional infantil."
+    },
+    {
+        "enunciado": "En el Plan Integral de Obesidad Infantil, ¿qué se plantea como objetivo esencial de las intervenciones en comunidades rurales?",
+        "opciones": [
+            "Incrementar el acceso a alimentos procesados como alternativa económica.",
+            "Fomentar la producción local de alimentos saludables y accesibles, junto con actividades físicas adaptadas al entorno.",
+            "Eliminar actividades recreativas en espacios al aire libre.",
+            "Priorizar la urbanización de las comunidades para facilitar intervenciones globales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "intervenciones_rurales"
+        ],
+        "feedback": "El PIOBIN destaca la importancia de fomentar la producción local de alimentos saludables y actividades físicas adaptadas para abordar la obesidad en comunidades rurales."
+    },
+    {
+        "enunciado": "¿Qué papel juega la alimentación equilibrada en los programas de prevención del PIOBIN según sus guías específicas?",
+        "opciones": [
+            "Es un elemento opcional que depende de la elección de cada familia.",
+            "Se basa en el modelo de dieta mediterránea, rica en productos locales, frescos y sostenibles.",
+            "Se sustituye por recomendaciones de suplementación vitamínica.",
+            "Se aplica únicamente en menores con obesidad establecida."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "nutrición_saludable"
+        ],
+        "feedback": "El PIOBIN promueve la dieta mediterránea como base de una alimentación equilibrada, destacando sus beneficios en la prevención de obesidad y otras enfermedades."
+    },
+    {
+        "enunciado": "Según la Estrategia de Promoción de una Vida Saludable, ¿qué prioridad se da al bienestar emocional en las estrategias para menores?",
+        "opciones": [
+            "Se considera un aspecto secundario frente a la promoción de actividad física.",
+            "Se integra como un eje central para fortalecer la resiliencia y prevenir problemas de salud mental desde edades tempranas.",
+            "Solo se aborda en adolescentes con problemas psicológicos identificados.",
+            "Se enfoca exclusivamente en la prevención de trastornos graves como la depresión infantil."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "bienestar_emocional"
+        ],
+        "feedback": "La Estrategia considera el bienestar emocional un eje central, integrándolo con actividades para promover resiliencia y prevenir problemas de salud mental en niños y jóvenes."
+    },
+    {
+        "enunciado": "¿Cómo evalúa el PSIAA la efectividad de las intervenciones para reducir el sedentarismo en la infancia?",
+        "opciones": [
+            "Mediante el tiempo promedio de uso de pantallas en actividades escolares.",
+            "Por el incremento en la participación en actividades físicas estructuradas y juegos al aire libre.",
+            "A través de cuestionarios sobre el nivel de satisfacción con el tiempo libre sedentario.",
+            "Mediante la disminución de visitas al médico relacionadas con lesiones por actividades físicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "reducción_sedentarismo"
+        ],
+        "feedback": "El PSIAA mide la efectividad de las intervenciones observando el aumento de la actividad física estructurada y el tiempo dedicado a juegos al aire libre."
+    },
+    {
+        "enunciado": "¿Qué distingue a las estrategias de prevención primaria del PIOBIN de las de prevención secundaria?",
+        "opciones": [
+            "La prevención primaria se centra en cambios comunitarios mientras que la secundaria aborda solo casos individuales.",
+            "La prevención primaria busca evitar la aparición de obesidad, mientras que la secundaria identifica y actúa sobre casos iniciales.",
+            "La prevención secundaria es obligatoria mientras que la primaria es voluntaria.",
+            "Ambas estrategias son idénticas en enfoque y ejecución."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "prevención_obesidad"
+        ],
+        "feedback": "La prevención primaria busca evitar la obesidad mediante cambios en hábitos y entornos, mientras que la secundaria identifica y trata casos iniciales para evitar su progresión."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué medidas específicas se aplican para proteger a los menores en situaciones de desamparo identificadas en el ámbito sanitario?",
+        "opciones": [
+            "Remitir exclusivamente el caso a servicios sociales sin intervención médica.",
+            "Coordinación con servicios sociales y valoración integral mediante el instrumento VALORAME.",
+            "Proporcionar únicamente asistencia sanitaria de emergencia.",
+            "Derivar el caso a instituciones escolares para su seguimiento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "protección_menores"
+        ],
+        "feedback": "El PSIAA establece la coordinación con servicios sociales y el uso del instrumento VALORAME para valorar y proteger a menores en situaciones de desamparo."
+    },
+    {
+        "enunciado": "En el marco del PIOBIN, ¿qué indicadores clave se utilizan para evaluar la efectividad de los programas de alimentación escolar saludable?",
+        "opciones": [
+            "Niveles de gasto económico en alimentos por parte de las familias.",
+            "Aumento en el consumo de frutas y verduras y reducción de alimentos ultraprocesados entre los escolares.",
+            "Satisfacción de los alumnos con los menús escolares según encuestas.",
+            "Reducción de los costos asociados al servicio de comedor."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluación_nutrición"
+        ],
+        "feedback": "El PIOBIN evalúa el éxito de los programas de alimentación saludable mediante indicadores como el aumento en el consumo de frutas y verduras y la disminución de ultraprocesados."
+    },
+    {
+        "enunciado": "¿Qué objetivo estratégico específico establece el PIOBIN en relación con la promoción de actividad física en la infancia?",
+        "opciones": [
+            "Incrementar exclusivamente la duración de las clases de educación física en los colegios.",
+            "Fomentar la actividad física regular en entornos escolares, familiares y comunitarios.",
+            "Limitar las actividades deportivas a menores con sobrepeso u obesidad diagnosticada.",
+            "Reemplazar actividades físicas por ejercicios mentales para mejorar el rendimiento académico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "actividad_física"
+        ],
+        "feedback": "El PIOBIN promueve la actividad física regular no solo en los colegios, sino también en los entornos familiares y comunitarios para prevenir la obesidad desde múltiples frentes."
+    },
+    {
+        "enunciado": "En el PSIAA, ¿qué rol cumplen las consultas de salud bucodental en las primeras etapas de la vida?",
+        "opciones": [
+            "Son opcionales y se programan únicamente en caso de dolor dental.",
+            "Se orientan a la educación en higiene oral y prevención de caries desde la erupción del primer diente.",
+            "Se limitan al diagnóstico de malformaciones dentales a partir de los 5 años.",
+            "Están enfocadas exclusivamente en evaluar el alineamiento de los dientes en niños mayores."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "salud_bucodental"
+        ],
+        "feedback": "El PSIAA enfatiza la educación temprana en higiene oral y prevención de caries desde la erupción del primer diente, como parte integral de las consultas pediátricas."
+    },
+    {
+        "enunciado": "Dentro del marco de la Estrategia de Promoción de una Vida Saludable, ¿qué medidas se proponen para integrar el sueño saludable como parte del bienestar integral?",
+        "opciones": [
+            "Reforzar la importancia del sueño exclusivamente en adolescentes.",
+            "Desarrollar programas educativos que incluyan rutinas de sueño en todas las edades.",
+            "Priorizar el sueño frente a otras actividades físicas y sociales.",
+            "Limitar las intervenciones educativas a niños con problemas de insomnio diagnosticados."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "bienestar_integral"
+        ],
+        "feedback": "La Estrategia incluye programas educativos sobre rutinas de sueño saludable para todas las edades, destacando su importancia en el desarrollo y el bienestar integral."
+    },
+    {
+        "enunciado": "¿Cómo aborda el PSIAA la detección temprana de trastornos del espectro autista (TEA)?",
+        "opciones": [
+            "Mediante la evaluación de patrones de lenguaje exclusivamente en la etapa preescolar.",
+            "A través del cribado sistemático en consultas pediátricas durante el primer año de vida.",
+            "Con la observación de habilidades motoras avanzadas en edades tempranas.",
+            "Limitándose a casos con antecedentes familiares directos de TEA."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "detección_temprana"
+        ],
+        "feedback": "El PSIAA incluye el cribado sistemático de TEA en las consultas pediátricas desde el primer año de vida, evaluando áreas como la comunicación y la interacción social."
+    },
+    {
+        "enunciado": "En el Plan Andaluz de Salud, ¿qué relación se establece entre desigualdad social y salud infantil?",
+        "opciones": [
+            "La desigualdad social tiene un impacto mínimo en los indicadores de salud infantil.",
+            "Los niños en entornos desfavorecidos presentan mayores riesgos de problemas de salud prevenibles.",
+            "No se ha identificado ninguna correlación entre desigualdad social y desarrollo infantil.",
+            "La salud infantil es independiente de factores como el nivel socioeconómico o educativo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "El Plan Andaluz de Salud identifica que la desigualdad social incrementa significativamente el riesgo de problemas de salud prevenibles en la infancia."
+    },
+    {
+        "enunciado": "En el contexto del PIOBIN, ¿qué papel desempeñan las familias en la implementación de estrategias contra la obesidad infantil?",
+        "opciones": [
+            "Actúan como agentes secundarios en la aplicación de las estrategias diseñadas por los colegios.",
+            "Son actores clave en la creación de hábitos saludables en el hogar, como la planificación de comidas equilibradas y actividades físicas.",
+            "Se espera que sigan las recomendaciones escolares sin necesidad de adaptarlas al entorno familiar.",
+            "Participan únicamente en actividades comunitarias organizadas por centros de salud."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "rol_familiar"
+        ],
+        "feedback": "El PIOBIN reconoce el rol esencial de las familias en la prevención de la obesidad infantil mediante la promoción de hábitos saludables en el hogar."
+    },
+    {
+        "enunciado": "En la Estrategia de Promoción de una Vida Saludable, ¿qué papel se atribuye a los centros educativos en la promoción de la salud infantil?",
+        "opciones": [
+            "Proporcionar únicamente información teórica sobre salud a los alumnos.",
+            "Actuar como entornos transformadores mediante la implementación de programas integrales de actividad física, nutrición y bienestar emocional.",
+            "Limitar las actividades de promoción de la salud a eventos anuales específicos.",
+            "Desarrollar programas orientados exclusivamente a alumnos con problemas de salud diagnosticados."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "entornos_educativos"
+        ],
+        "feedback": "La Estrategia considera a los centros educativos como entornos clave para transformar la salud infantil mediante programas integrales y sostenibles."
+    },
+    {
+        "enunciado": "¿Qué estrategia utiliza el PSIAA para promover la parentalidad positiva en familias de alto riesgo psicosocial?",
+        "opciones": [
+            "Realización de visitas domiciliarias con orientación individualizada sobre habilidades parentales.",
+            "Organización de talleres masivos sin diferenciación de perfiles familiares.",
+            "Implementación de programas obligatorios de disciplina estricta.",
+            "Derivación automática de todas las familias a servicios sociales sin evaluación previa."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "El PSIAA promueve visitas domiciliarias para ofrecer orientación personalizada en habilidades parentales, fortaleciendo el vínculo familiar en contextos vulnerables."
+    },
+    {
+        "enunciado": "Dentro del PIOBIN, ¿qué función específica cumplen los programas de formación para profesionales sanitarios?",
+        "opciones": [
+            "Limitar su formación a la administración de tratamientos farmacológicos para la obesidad infantil.",
+            "Capacitar a los profesionales para identificar factores de riesgo y fomentar intervenciones preventivas en su práctica diaria.",
+            "Enseñar únicamente técnicas de medición de peso y talla.",
+            "Reducir la responsabilidad de los profesionales sanitarios en la prevención de la obesidad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "formación_profesional"
+        ],
+        "feedback": "El PIOBIN incluye programas de formación para capacitar a los profesionales sanitarios en la identificación de factores de riesgo y la promoción de hábitos preventivos."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué características tienen las revisiones pediátricas programadas en los primeros 6 meses de vida?",
+        "opciones": [
+            "Son exclusivamente para administrar vacunas obligatorias.",
+            "Incluyen evaluaciones integrales del crecimiento, desarrollo neurológico y consejos de crianza.",
+            "Se centran únicamente en el seguimiento del peso y la talla.",
+            "No incluyen interacción con los cuidadores o recomendaciones personalizadas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluación_pediátrica"
+        ],
+        "feedback": "Las revisiones pediátricas en los primeros 6 meses incluyen evaluaciones del crecimiento, desarrollo neurológico y recomendaciones personalizadas para los cuidadores."
+    },
+    {
+        "enunciado": "¿Cómo define el Plan Integral de Obesidad Infantil de Andalucía (PIOBIN) la obesidad infantil?",
+        "opciones": [
+            "Como una alteración multifactorial vinculada exclusivamente al entorno social y económico.",
+            "Un problema de salud pública caracterizado por un exceso de grasa corporal que afecta negativamente a la salud física, emocional y social.",
+            "Una condición médica definida únicamente por el índice de masa corporal (IMC) elevado en menores.",
+            "Un trastorno relacionado solo con desequilibrios alimentarios en la infancia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "definiciones"
+        ],
+        "feedback": "El PIOBIN define la obesidad infantil como un problema de salud pública multifactorial, donde el exceso de grasa corporal afecta la salud física, emocional y social, integrando múltiples dimensiones."
+    },
+    {
+        "enunciado": "¿Qué enfoque estratégico caracteriza al Programa de Salud Infantil y Adolescente de Andalucía (PSIAA)?",
+        "opciones": [
+            "Priorizar la intervención en menores con enfermedades crónicas y dejar en segundo plano la prevención universal.",
+            "Integrar la prevención primaria con el seguimiento continuo, diagnóstico precoz y promoción de parentalidad positiva, adaptados al desarrollo del menor.",
+            "Focalizarse exclusivamente en la promoción de hábitos saludables mediante campañas informativas masivas.",
+            "Realizar cribados de salud solo en grupos considerados de alto riesgo según antecedentes familiares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "definiciones"
+        ],
+        "feedback": "El PSIAA combina prevención primaria, seguimiento continuo, diagnóstico precoz y estrategias como la parentalidad positiva, adaptadas a cada etapa del desarrollo infantil."
+    },
+    {
+        "enunciado": "¿Cómo aborda el PIOBIN los determinantes sociales relacionados con la obesidad infantil?",
+        "opciones": [
+            "Con intervenciones focalizadas únicamente en la reducción del consumo de ultraprocesados en el hogar.",
+            "Proponiendo estrategias de colaboración intersectorial para mejorar accesos a recursos como alimentación saludable y oportunidades de actividad física.",
+            "A través de campañas de sensibilización exclusivas para familias con ingresos medios-altos.",
+            "Mediante políticas que prioricen la distribución gratuita de alimentos en centros escolares únicamente en áreas rurales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "El PIOBIN aborda los determinantes sociales mediante estrategias intersectoriales que mejoran el acceso a recursos como alimentación saludable y actividad física para toda la población."
+    },
+    {
+        "enunciado": "¿Qué criterio utiliza el PSIAA para determinar la frecuencia de las revisiones pediátricas en menores?",
+        "opciones": [
+            "La presencia de antecedentes genéticos relacionados con enfermedades crónicas.",
+            "La edad del menor y las etapas de desarrollo, priorizando las de mayor vulnerabilidad física y psicológica.",
+            "El nivel socioeconómico de la familia y su acceso a recursos médicos.",
+            "El historial médico del menor, limitando las revisiones solo a casos identificados como de riesgo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "evaluación_pediátrica"
+        ],
+        "feedback": "El PSIAA organiza las revisiones pediátricas según la edad del menor y etapas de desarrollo, priorizando las fases de mayor vulnerabilidad para garantizar un seguimiento integral."
+    },
+    {
+        "enunciado": "En el contexto del PIOBIN, ¿qué significa el enfoque intersectorial aplicado a la prevención de obesidad infantil?",
+        "opciones": [
+            "Coordinación entre entidades educativas y sanitarias para implementar campañas de concienciación limitadas a los colegios.",
+            "Implica la colaboración entre diferentes sectores sociales, económicos y educativos para promover hábitos saludables de manera integral.",
+            "Un modelo basado exclusivamente en la distribución de recursos económicos a familias de bajo ingreso.",
+            "Focalización en la creación de infraestructuras deportivas urbanas como solución principal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "estrategias_integrales"
+        ],
+        "feedback": "El enfoque intersectorial del PIOBIN implica colaboración entre sectores como educación, salud y economía para abordar la obesidad infantil desde diferentes perspectivas."
+    },
+    {
+        "enunciado": "¿Qué caracteriza la definición de parentalidad positiva en el PSIAA?",
+        "opciones": [
+            "Un modelo de crianza centrado exclusivamente en la disciplina estricta.",
+            "El establecimiento de relaciones afectivas seguras que promuevan el desarrollo emocional y social del menor.",
+            "Un enfoque de crianza basado únicamente en el refuerzo académico y la autonomía temprana.",
+            "Un sistema diseñado para limitar la interacción emocional entre cuidadores y menores."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "parentalidad_positiva"
+        ],
+        "feedback": "El PSIAA define la parentalidad positiva como un modelo de crianza que fomenta vínculos afectivos seguros, esenciales para el desarrollo emocional y social del menor."
+    },
+    {
+        "enunciado": "En el marco del PIOBIN, ¿qué estrategias son clave para abordar el aumento de la obesidad en zonas desfavorecidas?",
+        "opciones": [
+            "Limitar las intervenciones preventivas exclusivamente a áreas urbanas con mayor incidencia de obesidad.",
+            "Crear entornos facilitadores que mejoren el acceso a alimentos saludables y oportunidades de actividad física, adaptados a las necesidades locales.",
+            "Focalizarse en programas escolares de alimentación sin integrar actividades comunitarias.",
+            "Incrementar las intervenciones sanitarias basadas exclusivamente en tratamientos médicos curativos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desigualdades_salud"
+        ],
+        "feedback": "El PIOBIN prioriza la creación de entornos facilitadores que mejoren el acceso a recursos saludables y promuevan hábitos sostenibles en comunidades desfavorecidas."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿cómo se establece la priorización de intervenciones en menores en riesgo psicosocial?",
+        "opciones": [
+            "Se basa únicamente en la derivación directa a servicios sociales sin involucrar a los equipos sanitarios.",
+            "Mediante la identificación de factores de vulnerabilidad en las consultas pediátricas y la coordinación con recursos comunitarios.",
+            "A través de campañas educativas generales dirigidas a toda la población infantil sin diferenciación de riesgo.",
+            "Focalizando las intervenciones exclusivamente en familias con antecedentes de enfermedades mentales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "riesgo_psicosocial"
+        ],
+        "feedback": "El PSIAA prioriza la intervención en menores en riesgo psicosocial mediante la identificación de factores de vulnerabilidad y la coordinación entre equipos sanitarios y recursos comunitarios."
+    },
+    {
+        "enunciado": "¿Qué rol desempeñan las guías alimentarias en la implementación del PIOBIN en centros educativos?",
+        "opciones": [
+            "Establecen recomendaciones generales de nutrición que deben adaptarse exclusivamente a las preferencias familiares.",
+            "Promueven la integración de menús equilibrados en comedores escolares y actividades formativas sobre hábitos saludables.",
+            "Se centran en restringir únicamente alimentos con alto contenido calórico sin fomentar opciones saludables.",
+            "Solo proponen pautas teóricas sin obligatoriedad de implementación en los colegios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "alimentación"
+        ],
+        "feedback": "El PIOBIN utiliza guías alimentarias para introducir menús equilibrados en comedores escolares y actividades educativas que fomenten hábitos saludables entre los alumnos."
+    },
+    {
+        "enunciado": "Según el PSIAA, ¿qué papel juega el desarrollo emocional en las estrategias de prevención en la infancia?",
+        "opciones": [
+            "Se considera secundario frente al desarrollo físico y cognitivo.",
+            "Es central para garantizar la estabilidad y la capacidad de los menores de afrontar retos en su crecimiento.",
+            "Se limita a la adolescencia como etapa crítica de cambios emocionales.",
+            "Es irrelevante para las estrategias preventivas implementadas en la primera infancia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema50",
+            "cuidados_infancia",
+            "desarrollo_emocional"
+        ],
+        "feedback": "El PSIAA sitúa el desarrollo emocional como un pilar central, destacando su importancia para fortalecer la estabilidad y las capacidades de los menores en su crecimiento integral."
+    }
+]

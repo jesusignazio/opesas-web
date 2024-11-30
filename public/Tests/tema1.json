@@ -1498,5 +1498,455 @@
             "Constitución"
         ],
         "feedback": "El artículo 59.3 establece que, en ausencia de familiares calificados, las Cortes Generales nombrarán a quien ejerza la Regencia."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución Española, ¿qué ámbito de la salud corresponde organizar y tutelar a los poderes públicos?",
+        "opciones": [
+            "Únicamente los servicios hospitalarios.",
+            "La salud pública, incluyendo medidas preventivas y servicios necesarios.",
+            "La gestión de las farmacias y distribución de medicamentos.",
+            "La creación de clínicas privadas y su regulación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos tienen la responsabilidad de organizar y tutelar la salud pública mediante medidas preventivas y la prestación de servicios necesarios."
+    },
+    {
+        "enunciado": "El artículo 43 de la Constitución incluye la promoción de la educación sanitaria. ¿Cómo deben los poderes públicos cumplir con este mandato?",
+        "opciones": [
+            "Creando un organismo autónomo para la supervisión de los médicos.",
+            "Fomentando campañas de prevención y educación para la salud.",
+            "Prohibiendo cualquier práctica sanitaria sin autorización estatal.",
+            "Subvencionando únicamente la formación de profesionales médicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos fomentarán la educación sanitaria mediante campañas y programas que promuevan hábitos saludables."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 43 sobre el derecho a la protección de la salud en España?",
+        "opciones": [
+            "Es un derecho exclusivo de los ciudadanos con residencia permanente.",
+            "Está sujeto a la capacidad económica de cada individuo.",
+            "Es reconocido como un derecho para todas las personas.",
+            "Depende de la financiación autonómica y local."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.1 reconoce el derecho de todas las personas a la protección de la salud, estableciendo una responsabilidad universal en su promoción."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué áreas adicionales, aparte de la salud pública, deben fomentar los poderes públicos?",
+        "opciones": [
+            "La privatización de hospitales y clínicas.",
+            "La educación física y el deporte.",
+            "La investigación en salud exclusivamente a nivel estatal.",
+            "La formación exclusiva de especialistas médicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que, además de la salud pública, los poderes públicos deben fomentar la educación física y el deporte como parte de su promoción integral de la salud."
+    },
+    {
+        "enunciado": "¿Cómo facilita la Constitución Española la adecuada utilización del ocio, según el artículo 43?",
+        "opciones": [
+            "Creando centros recreativos gratuitos en cada municipio.",
+            "Promoviendo el uso educativo y saludable del tiempo libre.",
+            "Imponiendo limitaciones a actividades no regladas.",
+            "Obligando a las empresas a ofrecer tiempo de ocio remunerado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 dispone que los poderes públicos deben facilitar la adecuada utilización del ocio como parte de su compromiso con la educación sanitaria y la promoción de la salud."
+    },
+    {
+        "enunciado": "En el marco del artículo 43, ¿cómo se articula el deber de los poderes públicos respecto a la prevención en salud?",
+        "opciones": [
+            "A través de la regulación de las prácticas médicas tradicionales.",
+            "Por medio de campañas de vacunación y control de enfermedades.",
+            "Imponiendo sanciones por no acudir a revisiones médicas periódicas.",
+            "Privilegiando el acceso a tratamientos de alta tecnología."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 señala que los poderes públicos deben tomar medidas preventivas como parte de su función de organizar y tutelar la salud pública."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 43 sobre los derechos y deberes en materia de salud?",
+        "opciones": [
+            "Que los ciudadanos tienen el deber de financiar su propia atención médica.",
+            "Que la ley regulará tanto los derechos como los deberes en relación con la salud.",
+            "Que el derecho a la salud está condicionado a la contribución fiscal.",
+            "Que los servicios públicos de salud deben ser gratuitos en todos los casos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 dispone que los derechos y deberes de los ciudadanos en materia de salud serán establecidos por la ley."
+    },
+    {
+        "enunciado": "¿Qué principio rector deben seguir los poderes públicos al organizar los servicios de salud pública según el artículo 43?",
+        "opciones": [
+            "La descentralización exclusiva de los servicios sanitarios.",
+            "La universalidad y accesibilidad a los servicios básicos.",
+            "El establecimiento de cuotas para el acceso a tratamientos específicos.",
+            "La coordinación directa con entidades privadas en la gestión."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 implica que los poderes públicos deben organizar la salud pública basándose en la universalidad y la accesibilidad."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 43, ¿qué rol tienen los poderes públicos en la promoción del deporte?",
+        "opciones": [
+            "Obligar a los ciudadanos a participar en actividades físicas.",
+            "Financiar exclusivamente competiciones deportivas nacionales.",
+            "Fomentar el deporte como parte de la educación sanitaria.",
+            "Regular únicamente las federaciones deportivas profesionales."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 señala que los poderes públicos deben fomentar la práctica del deporte como parte de la educación sanitaria y el bienestar físico."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué medida específica se menciona para garantizar la salud pública?",
+        "opciones": [
+            "La creación de un sistema universal de atención primaria gratuita.",
+            "La adopción de medidas preventivas y servicios adecuados.",
+            "El establecimiento de controles sanitarios en actividades recreativas.",
+            "La promoción exclusiva de instituciones privadas de salud."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos deben adoptar medidas preventivas y proporcionar los servicios necesarios para garantizar la salud pública."
+    },
+    {
+        "enunciado": "¿Qué aspecto adicional incluye el artículo 43 como parte del derecho a la protección de la salud?",
+        "opciones": [
+            "La creación de seguros médicos obligatorios para todos los ciudadanos.",
+            "El fomento de la colaboración internacional en materia sanitaria.",
+            "La promoción de la educación física como elemento de salud pública.",
+            "La regulación de medicamentos exclusivamente a nivel estatal."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar la educación física, reconociéndola como un elemento importante para la protección de la salud."
+    },
+    {
+        "enunciado": "¿Qué determina el artículo 43 respecto a los derechos relacionados con la salud y su regulación?",
+        "opciones": [
+            "Establece que serán definidos únicamente por las Comunidades Autónomas.",
+            "Indica que serán regulados por leyes específicas que incluyan deberes.",
+            "Impone un modelo de salud completamente descentralizado.",
+            "Prioriza la atención privada sobre los servicios públicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 indica que los derechos y deberes en materia de salud serán regulados por la ley, garantizando un marco normativo claro."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué enfoque deben tener los poderes públicos en la organización de los servicios de salud pública?",
+        "opciones": [
+            "Promover exclusivamente servicios gratuitos.",
+            "Priorizar la eficiencia económica sobre la cobertura universal.",
+            "Asegurar que las medidas preventivas sean accesibles a todos.",
+            "Subcontratar la mayoría de servicios a empresas privadas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos deben garantizar medidas preventivas y servicios necesarios para toda la población."
+    },
+    {
+        "enunciado": "En el contexto del artículo 43, ¿cómo pueden los poderes públicos facilitar la utilización adecuada del ocio?",
+        "opciones": [
+            "Obligando a las empresas a establecer horarios de ocio para sus empleados.",
+            "Regulando las actividades recreativas de manera estricta.",
+            "Promoviendo actividades culturales y deportivas accesibles.",
+            "Financiando únicamente eventos deportivos nacionales."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 menciona que los poderes públicos deben facilitar la adecuada utilización del ocio, promoviendo actividades beneficiosas como el deporte y la cultura."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 43 sobre la relación entre educación sanitaria y promoción de la salud?",
+        "opciones": [
+            "Debe ser competencia exclusiva de los centros educativos.",
+            "Es una responsabilidad que recae solo en el Ministerio de Salud.",
+            "Debe fomentarse a través de políticas públicas y programas específicos.",
+            "Requiere la aprobación de un órgano supranacional de salud."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 resalta que los poderes públicos deben fomentar la educación sanitaria mediante políticas y programas específicos para promover la salud."
+    },
+    {
+        "enunciado": "¿Qué obligaciones tienen los poderes públicos con respecto a la salud según el artículo 43?",
+        "opciones": [
+            "Imponer controles estrictos a la práctica de la medicina alternativa.",
+            "Promover el acceso equitativo a servicios preventivos y terapéuticos.",
+            "Establecer la obligatoriedad de seguros médicos privados.",
+            "Privatizar la mayoría de servicios hospitalarios para su sostenibilidad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos tienen el deber de promover el acceso equitativo a servicios preventivos y terapéuticos como parte de la salud pública."
+    },
+    {
+        "enunciado": "En términos de promoción de la salud, ¿qué elemento clave menciona el artículo 43 sobre la educación física?",
+        "opciones": [
+            "Debe ser regulada por cada Comunidad Autónoma.",
+            "Es obligatoria únicamente en centros educativos públicos.",
+            "Debe fomentarse como parte de las políticas de salud pública.",
+            "Solo aplica para menores de edad en edad escolar."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 subraya que la educación física debe ser promovida por los poderes públicos como un componente esencial de la salud pública."
+    },
+    {
+        "enunciado": "¿Qué rol tienen las medidas preventivas según el artículo 43 en la organización de la salud pública?",
+        "opciones": [
+            "Son secundarias frente a los tratamientos curativos.",
+            "Son fundamentales para la tutela de la salud pública.",
+            "Requieren financiación exclusivamente privada.",
+            "Se aplican únicamente en casos de emergencias sanitarias."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 resalta la importancia de las medidas preventivas como un aspecto central de la organización y tutela de la salud pública."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué objetivo tienen las campañas de educación sanitaria promovidas por los poderes públicos?",
+        "opciones": [
+            "Recaudar fondos para el sistema sanitario público.",
+            "Reducir los costos de los servicios médicos privados.",
+            "Fomentar hábitos saludables entre la población.",
+            "Cumplir con directrices europeas obligatorias."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que las campañas de educación sanitaria tienen como objetivo fomentar hábitos saludables entre los ciudadanos."
+    },
+    {
+        "enunciado": "En relación al artículo 43, ¿qué regula la ley en cuanto a derechos y deberes en materia de salud?",
+        "opciones": [
+            "La participación exclusiva de profesionales médicos.",
+            "La cobertura limitada a tratamientos de emergencia.",
+            "Los derechos y deberes relacionados con el acceso y uso de los servicios sanitarios.",
+            "La prohibición de la medicina privada en áreas rurales."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 dispone que la ley regula tanto los derechos como los deberes en materia de salud, garantizando acceso y uso adecuado de los servicios sanitarios."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 43, ¿cómo deben los poderes públicos actuar para organizar la salud pública?",
+        "opciones": [
+            "Estableciendo medidas preventivas y servicios necesarios.",
+            "Centralizando todos los recursos sanitarios en un único sistema.",
+            "Otorgando a cada ciudadano la responsabilidad plena de su salud.",
+            "Fomentando exclusivamente la atención primaria en zonas urbanas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos deben organizar la salud pública a través de medidas preventivas y servicios necesarios."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué papel desempeñan los poderes públicos en la promoción de la educación física?",
+        "opciones": [
+            "Garantizar la construcción de instalaciones deportivas en cada municipio.",
+            "Incluir la educación física como parte de sus políticas de promoción de la salud.",
+            "Proveer formación gratuita en actividades deportivas especializadas.",
+            "Priorizar el desarrollo de deportes de alto rendimiento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar la educación física como un elemento importante para la salud pública."
+    },
+    {
+        "enunciado": "¿Cómo menciona el artículo 43 que los poderes públicos deben facilitar la adecuada utilización del ocio?",
+        "opciones": [
+            "Promoviendo actividades saludables y educativas.",
+            "Regulando los horarios laborales para incluir tiempo de ocio obligatorio.",
+            "Financiando actividades recreativas únicamente para menores de edad.",
+            "Otorgando beneficios fiscales a las empresas de entretenimiento."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que los poderes públicos deben facilitar la utilización del ocio a través de actividades saludables y educativas."
+    },
+    {
+        "enunciado": "¿Qué indica el artículo 43 sobre la relación entre prevención y salud pública?",
+        "opciones": [
+            "La prevención es fundamental para proteger la salud pública.",
+            "La prevención debe centrarse únicamente en enfermedades graves.",
+            "La prevención es secundaria frente a los tratamientos médicos.",
+            "La prevención debe ser competencia exclusiva de las Comunidades Autónomas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 señala que la prevención es una parte esencial de la organización y tutela de la salud pública."
+    },
+    {
+        "enunciado": "¿Qué aspecto educativo en materia de salud señala el artículo 43 como responsabilidad de los poderes públicos?",
+        "opciones": [
+            "Garantizar únicamente formación sanitaria en universidades.",
+            "Fomentar campañas de educación sanitaria para toda la población.",
+            "Limitar la información sanitaria a temas de interés general.",
+            "Centralizar la formación sanitaria en centros de salud públicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar campañas de educación sanitaria dirigidas a toda la población."
+    },
+    {
+        "enunciado": "¿Qué deben hacer los poderes públicos para garantizar el derecho a la protección de la salud, según el artículo 43?",
+        "opciones": [
+            "Proveer servicios y medidas que aseguren la salud pública.",
+            "Concentrar la atención sanitaria en hospitales de grandes ciudades.",
+            "Delegar las responsabilidades sanitarias a entidades privadas.",
+            "Establecer controles estrictos sobre la movilidad ciudadana."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 dispone que los poderes públicos deben garantizar el derecho a la protección de la salud mediante servicios y medidas adecuados."
+    },
+    {
+        "enunciado": "En el artículo 43, ¿cómo se aborda la educación sanitaria como parte de las políticas de salud?",
+        "opciones": [
+            "Como una estrategia para prevenir enfermedades y promover hábitos saludables.",
+            "Como un medio para reducir el gasto público en atención médica.",
+            "Como una responsabilidad exclusiva de los centros educativos.",
+            "Como una herramienta para garantizar acceso equitativo a tratamientos médicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que la educación sanitaria debe enfocarse en prevenir enfermedades y promover hábitos saludables en la población."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿qué deben fomentar los poderes públicos en el ámbito del ocio?",
+        "opciones": [
+            "Actividades que contribuyan al desarrollo personal y la salud.",
+            "Solo eventos deportivos de interés nacional.",
+            "El consumo de bienes culturales a través de incentivos fiscales.",
+            "Únicamente el acceso gratuito a espacios recreativos públicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar actividades de ocio que contribuyan al desarrollo personal y la salud."
+    },
+    {
+        "enunciado": "¿Qué aspecto específico incluye el artículo 43 sobre las responsabilidades de los poderes públicos en relación con la salud pública?",
+        "opciones": [
+            "Garantizar la accesibilidad a los servicios básicos de salud para toda la población.",
+            "Imponer regulaciones estrictas para limitar la medicina alternativa.",
+            "Crear un sistema de incentivos fiscales para profesionales sanitarios.",
+            "Centralizar toda la gestión de los servicios sanitarios en el ámbito estatal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos deben garantizar la accesibilidad a los servicios básicos de salud como una responsabilidad fundamental."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 43 sobre la educación física como parte de la promoción de la salud?",
+        "opciones": [
+            "Debe estar orientada solo a sectores vulnerables de la población.",
+            "Es un elemento que los poderes públicos deben fomentar activamente.",
+            "Debe ser organizada por instituciones deportivas internacionales.",
+            "Es responsabilidad exclusiva de las administraciones educativas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que los poderes públicos deben fomentar la educación física como una parte activa de las políticas de salud pública."
     }
 ]
