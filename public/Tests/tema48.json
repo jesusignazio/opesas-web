@@ -1,0 +1,3218 @@
+[
+    {
+        "enunciado": "¿Cuál es la definición más adecuada de hipoacusia según el programa de prevención de hipoacusias infantiles?",
+        "opciones": [
+            "Una disminución total de la capacidad auditiva sin importar la edad",
+            "La pérdida progresiva de audición por causas genéticas en la adultez",
+            "La disminución de la percepción auditiva, que afecta el desarrollo psicológico e intelectual infantil",
+            "Una condición reversible que afecta solo el oído medio en la niñez"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La hipoacusia se define como la disminución de la percepción auditiva, especialmente relevante en la infancia, ya que limita el desarrollo psicológico e intelectual debido a dificultades en la adquisición del lenguaje."
+    },
+    {
+        "enunciado": "¿Cuál es el momento ideal para realizar el cribado auditivo inicial en el recién nacido según las guías del programa?",
+        "opciones": [
+            "Dentro de las primeras 24 horas del nacimiento",
+            "Antes de los 2 meses de vida",
+            "Después de las 24 horas del nacimiento y antes del alta hospitalaria",
+            "Al cumplir el primer mes de vida"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El cribado auditivo inicial debe realizarse después de las 24 horas del nacimiento y antes del alta hospitalaria, utilizando pruebas como las otoemisiones acústicas (OEA)."
+    },
+    {
+        "enunciado": "¿Cuál es el umbral auditivo que define una hipoacusia severa?",
+        "opciones": [
+            "Pérdida media entre 21 a 40 dB",
+            "Pérdida media entre 41 a 70 dB",
+            "Pérdida media entre 71 a 90 dB",
+            "Pérdida superior a 90 dB"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La hipoacusia severa corresponde a una pérdida auditiva entre 71 y 90 dB, lo que limita significativamente la comunicación oral sin intervención logopédica."
+    },
+    {
+        "enunciado": "¿Qué enfermedades son detectadas comúnmente mediante la prueba del talón?",
+        "opciones": [
+            "Hipoacusias hereditarias, anemia falciforme y fibrosis quística",
+            "Hipotiroidismo congénito, fibrosis quística y fenilcetonuria",
+            "Déficit de hierro, anemia megaloblástica y fibrosis quística",
+            "Hipotiroidismo adquirido, diabetes neonatal y fenilcetonuria"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La prueba del talón detecta enfermedades como el hipotiroidismo congénito, la fibrosis quística y la fenilcetonuria, entre otras metabolopatías."
+    },
+    {
+        "enunciado": "¿Qué características definen a un neonato a término?",
+        "opciones": [
+            "Edad gestacional entre 34 y 37 semanas",
+            "Edad gestacional entre 37 y 41 semanas, con peso entre 2.500 y 4.000 gramos",
+            "Peso superior a 4.000 gramos y talla mayor a 52 cm",
+            "Edad gestacional superior a 42 semanas y peso mayor a 3.500 gramos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Un neonato a término es aquel con una edad gestacional entre 37 y 41 semanas, y un peso al nacer entre 2.500 y 4.000 gramos."
+    },
+    {
+        "enunciado": "¿Cuál es la técnica principal utilizada para el cribado neonatal de enfermedades endocrino-metabólicas?",
+        "opciones": [
+            "Electroforesis de proteínas séricas",
+            "Espectrometría de masas en tándem",
+            "Pruebas genéticas directas",
+            "Electrocardiografía basal"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La espectrometría de masas en tándem es la técnica principal, permitiendo el análisis simultáneo de múltiples metabolitos con una sola muestra de sangre."
+    },
+    {
+        "enunciado": "¿Qué clasificación etiológica incluye hipoacusias adquiridas?",
+        "opciones": [
+            "Representan el 50% de los casos",
+            "Constituyen el 35% de las hipoacusias",
+            "Son el grupo más raro, con un 10% de los casos",
+            "Incluyen solo hipoacusias de percepción"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Las hipoacusias adquiridas representan el 35% del total, siendo frecuentes aquellas relacionadas con factores ambientales o infecciones."
+    },
+    {
+        "enunciado": "¿Cuál es el procedimiento correcto para la toma de muestra en la prueba del talón?",
+        "opciones": [
+            "Realizar la punción con aguja intramuscular en el talón",
+            "Recolectar sangre con un capilar desde una vena periférica",
+            "Punzar el talón con un dispositivo específico y secar las muestras al aire",
+            "Utilizar alcohol yodado para limpiar el talón antes de la punción"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La muestra debe tomarse punzando el talón con un dispositivo específico, asegurando una correcta impregnación del papel filtro."
+    },
+    {
+        "enunciado": "¿Cuál es el porcentaje estimado de neonatos con factores de riesgo para hipoacusia en España?",
+        "opciones": [
+            "2%",
+            "3.9%",
+            "7%",
+            "10%"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El 3.9% de los neonatos en España presentan factores de riesgo para desarrollar hipoacusia, lo que justifica un seguimiento especial."
+    },
+    {
+        "enunciado": "¿Qué acción es clave si el diagnóstico de hipoacusia se confirma antes de los 6 meses?",
+        "opciones": [
+            "Realizar intervención quirúrgica inmediata",
+            "Iniciar tratamiento logopédico y orientación terapéutica temprana",
+            "Esperar hasta los 12 meses para observar el desarrollo",
+            "Usar dispositivos auditivos únicamente si el déficit es severo"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El tratamiento temprano, como el uso de dispositivos auditivos y apoyo logopédico, mejora significativamente el desarrollo lingüístico."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal desaparece aproximadamente entre los 3 y 6 meses de vida?",
+        "opciones": [
+            "Reflejo de Moro",
+            "Reflejo de prensión plantar",
+            "Reflejo de succión",
+            "Reflejo de marcha automática"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de Moro, también conocido como reflejo de sobresalto, desaparece habitualmente entre los 3 y 6 meses de vida."
+    },
+    {
+        "enunciado": "¿Cuál es el momento ideal para realizar el cribado auditivo inicial en el recién nacido según las guías del programa?",
+        "opciones": [
+            "Dentro de las primeras 24 horas del nacimiento",
+            "Antes de los 2 meses de vida",
+            "Después de las 24 horas del nacimiento y antes del alta hospitalaria",
+            "Al cumplir el primer mes de vida"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El cribado auditivo inicial debe realizarse después de las 24 horas del nacimiento y antes del alta hospitalaria, utilizando pruebas como las otoemisiones acústicas (OEA)."
+    },
+    {
+        "enunciado": "¿Cuál es el umbral auditivo que define una hipoacusia severa?",
+        "opciones": [
+            "Pérdida media entre 21 a 40 dB",
+            "Pérdida media entre 41 a 70 dB",
+            "Pérdida media entre 71 a 90 dB",
+            "Pérdida superior a 90 dB"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La hipoacusia severa corresponde a una pérdida auditiva entre 71 y 90 dB, lo que limita significativamente la comunicación oral sin intervención logopédica."
+    },
+    {
+        "enunciado": "¿Qué enfermedades son detectadas comúnmente mediante la prueba del talón?",
+        "opciones": [
+            "Hipoacusias hereditarias, anemia falciforme y fibrosis quística",
+            "Hipotiroidismo congénito, fibrosis quística y fenilcetonuria",
+            "Déficit de hierro, anemia megaloblástica y fibrosis quística",
+            "Hipotiroidismo adquirido, diabetes neonatal y fenilcetonuria"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La prueba del talón detecta enfermedades como el hipotiroidismo congénito, la fibrosis quística y la fenilcetonuria, entre otras metabolopatías."
+    },
+    {
+        "enunciado": "¿Qué características definen a un neonato a término?",
+        "opciones": [
+            "Edad gestacional entre 34 y 37 semanas",
+            "Edad gestacional entre 37 y 41 semanas, con peso entre 2.500 y 4.000 gramos",
+            "Peso superior a 4.000 gramos y talla mayor a 52 cm",
+            "Edad gestacional superior a 42 semanas y peso mayor a 3.500 gramos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Un neonato a término es aquel con una edad gestacional entre 37 y 41 semanas, y un peso al nacer entre 2.500 y 4.000 gramos."
+    },
+    {
+        "enunciado": "¿Cuál es la técnica principal utilizada para el cribado neonatal de enfermedades endocrino-metabólicas?",
+        "opciones": [
+            "Electroforesis de proteínas séricas",
+            "Espectrometría de masas en tándem",
+            "Pruebas genéticas directas",
+            "Electrocardiografía basal"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La espectrometría de masas en tándem es la técnica principal, permitiendo el análisis simultáneo de múltiples metabolitos con una sola muestra de sangre."
+    },
+    {
+        "enunciado": "¿Qué clasificación etiológica incluye hipoacusias adquiridas?",
+        "opciones": [
+            "Representan el 50% de los casos",
+            "Constituyen el 35% de las hipoacusias",
+            "Son el grupo más raro, con un 10% de los casos",
+            "Incluyen solo hipoacusias de percepción"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Las hipoacusias adquiridas representan el 35% del total, siendo frecuentes aquellas relacionadas con factores ambientales o infecciones."
+    },
+    {
+        "enunciado": "¿Cuál es el procedimiento correcto para la toma de muestra en la prueba del talón?",
+        "opciones": [
+            "Realizar la punción con aguja intramuscular en el talón",
+            "Recolectar sangre con un capilar desde una vena periférica",
+            "Punzar el talón con un dispositivo específico y secar las muestras al aire",
+            "Utilizar alcohol yodado para limpiar el talón antes de la punción"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La muestra debe tomarse punzando el talón con un dispositivo específico, asegurando una correcta impregnación del papel filtro."
+    },
+    {
+        "enunciado": "¿Cuál es el porcentaje estimado de neonatos con factores de riesgo para hipoacusia en España?",
+        "opciones": [
+            "2%",
+            "3.9%",
+            "7%",
+            "10%"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El 3.9% de los neonatos en España presentan factores de riesgo para desarrollar hipoacusia, lo que justifica un seguimiento especial."
+    },
+    {
+        "enunciado": "¿Qué acción es clave si el diagnóstico de hipoacusia se confirma antes de los 6 meses?",
+        "opciones": [
+            "Realizar intervención quirúrgica inmediata",
+            "Iniciar tratamiento logopédico y orientación terapéutica temprana",
+            "Esperar hasta los 12 meses para observar el desarrollo",
+            "Usar dispositivos auditivos únicamente si el déficit es severo"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El tratamiento temprano, como el uso de dispositivos auditivos y apoyo logopédico, mejora significativamente el desarrollo lingüístico."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal desaparece aproximadamente entre los 3 y 6 meses de vida?",
+        "opciones": [
+            "Reflejo de Moro",
+            "Reflejo de prensión plantar",
+            "Reflejo de succión",
+            "Reflejo de marcha automática"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de Moro, también conocido como reflejo de sobresalto, desaparece habitualmente entre los 3 y 6 meses de vida."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal está presente desde el nacimiento y desaparece alrededor de los 4 a 6 meses de vida?",
+        "opciones": [
+            "Reflejo de succión",
+            "Reflejo de prensión palmar",
+            "Reflejo de Moro",
+            "Reflejo de marcha automática"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de Moro, también conocido como reflejo de sobresalto, desaparece generalmente entre los 4 y 6 meses de vida."
+    },
+    {
+        "enunciado": "¿Cuál es el tamaño normal de la fontanela anterior en un recién nacido a término?",
+        "opciones": [
+            "De 1 a 2 cm en cualquier dirección",
+            "De 0.6 a 3.6 cm en cualquier dirección",
+            "De 3 a 5 cm en cualquier dirección",
+            "Menor de 1 cm en cualquier dirección"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "La fontanela anterior o bregmática mide de 0.6 a 3.6 cm en cualquier dirección en un recién nacido a término."
+    },
+    {
+        "enunciado": "¿Qué complicación puede ocurrir si el cordón umbilical no se cae en los primeros 10 días de vida?",
+        "opciones": [
+            "Hernia umbilical",
+            "Onfalitis",
+            "Necrosis de gelatina de Wharton",
+            "Infección renal"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "cuidados_neonatales"
+        ],
+        "feedback": "El retraso en la caída del cordón umbilical puede ser un signo de onfalitis, una infección local que requiere atención médica."
+    },
+    {
+        "enunciado": "¿Cuál es la proporción normal de peso que puede perder un recién nacido en los primeros días de vida?",
+        "opciones": [
+            "5% de su peso total",
+            "Hasta un 10% de su peso total",
+            "Entre un 12% y 15% de su peso total",
+            "Más del 15% de su peso total"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Es normal que los recién nacidos pierdan hasta un 10% de su peso total en los primeros días, debido a la expulsión del meconio y la pérdida de agua."
+    },
+    {
+        "enunciado": "¿Qué tipo de bilirrubina es responsable de la ictericia fisiológica del recién nacido?",
+        "opciones": [
+            "Bilirrubina conjugada",
+            "Bilirrubina directa",
+            "Bilirrubina indirecta",
+            "Bilirrubina libre"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "ictericia"
+        ],
+        "feedback": "La ictericia fisiológica es causada por el aumento de bilirrubina indirecta debido a la inmadurez hepática en los recién nacidos."
+    },
+    {
+        "enunciado": "¿Qué parámetro es más utilizado para identificar hipotiroidismo congénito en la prueba del talón?",
+        "opciones": [
+            "Niveles de tiroxina libre (T4)",
+            "Niveles de hormona estimulante de la tiroides (TSH)",
+            "Niveles de triyodotironina (T3)",
+            "Anticuerpos antitiroideos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El cribado del hipotiroidismo congénito se realiza principalmente midiendo los niveles de TSH en la sangre obtenida de la prueba del talón."
+    },
+    {
+        "enunciado": "¿Qué enfermedad metabólica detectada en el cribado neonatal puede presentarse con orina con olor a jarabe de arce?",
+        "opciones": [
+            "Fenilcetonuria",
+            "Hipotiroidismo congénito",
+            "Enfermedad de la orina con olor a jarabe de arce (MSUD)",
+            "Acidemia metilmalónica"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La enfermedad de la orina con olor a jarabe de arce (MSUD) es detectada mediante el cribado neonatal y requiere tratamiento temprano."
+    },
+    {
+        "enunciado": "¿En qué momento se realiza la prueba del talón para el cribado neonatal en recién nacidos hospitalizados más de 48 horas?",
+        "opciones": [
+            "Antes de las 48 horas de vida",
+            "El tercer día de vida",
+            "Entre el 5º y 7º día de vida",
+            "Al momento del alta hospitalaria"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La prueba del talón debe realizarse el tercer día de vida en los recién nacidos hospitalizados más de 48 horas."
+    },
+    {
+        "enunciado": "¿Cuál es la incidencia aproximada de hipoacusias severas o profundas en recién nacidos según la OMS?",
+        "opciones": [
+            "1 por cada 500 nacidos vivos",
+            "1 por cada 1.000 nacidos vivos",
+            "1 por cada 10.000 nacidos vivos",
+            "1 por cada 100.000 nacidos vivos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La incidencia de hipoacusias severas o profundas en recién nacidos es de aproximadamente 1 por cada 1.000 nacidos vivos según la OMS."
+    },
+    {
+        "enunciado": "¿Qué técnica se utiliza para confirmar una sospecha de hipoacusia después del cribado inicial con otoemisiones acústicas (OEA)?",
+        "opciones": [
+            "Pruebas de audiometría conductual",
+            "Potenciales evocados auditivos del tronco cerebral (PEATC)",
+            "Timpanometría",
+            "Resonancia magnética del oído interno"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Los potenciales evocados auditivos del tronco cerebral (PEATC) son utilizados para confirmar el diagnóstico de hipoacusia tras un resultado dudoso en OEA."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de los recién nacidos con factores de riesgo presenta hipoacusias severas?",
+        "opciones": [
+            "2%",
+            "4%",
+            "7%",
+            "9%"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "En recién nacidos con factores de riesgo, el 4% presenta hipoacusias severas, lo que justifica la vigilancia especial."
+    },
+    {
+        "enunciado": "¿Qué parámetro antropométrico del recién nacido es considerado normal en un neonato a término?",
+        "opciones": [
+            "Perímetro cefálico de 30 cm",
+            "Talla de 40 cm",
+            "Peso de 2.500 a 4.000 gramos",
+            "Perímetro torácico de 38 cm"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Un peso entre 2.500 y 4.000 gramos es normal en neonatos a término, junto con otros parámetros como talla y perímetros adecuados."
+    },
+    {
+        "enunciado": "¿Cuál es el primer tipo de heces que produce un recién nacido?",
+        "opciones": [
+            "Heces de transición",
+            "Heces meconiales",
+            "Heces formadas",
+            "Heces amarillentas"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "digestivo"
+        ],
+        "feedback": "Las heces meconiales, de color verde-negruzco, son las primeras que produce el recién nacido y suelen expulsarse en las primeras 12 a 24 horas."
+    },
+    {
+        "enunciado": "¿Qué medida se debe tomar si un recién nacido con bajo peso al nacer tiene resultados dudosos en la prueba del talón?",
+        "opciones": [
+            "Repetir la prueba a las dos semanas de vida",
+            "Esperar al mes de vida para repetir el cribado",
+            "Realizar una prueba genética de confirmación",
+            "Derivarlo inmediatamente a un especialista"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Si un recién nacido tiene bajo peso y resultados dudosos en la prueba del talón, debe repetirse la prueba a las dos semanas para confirmar o descartar el diagnóstico."
+    },
+    {
+        "enunciado": "¿Qué condición es más común en neonatos prematuros y puede detectarse durante el cribado metabólico?",
+        "opciones": [
+            "Acidemia metilmalónica",
+            "Fenilcetonuria",
+            "Hipotiroidismo congénito",
+            "Fibrosis quística"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El hipotiroidismo congénito es más común en neonatos prematuros y puede detectarse mediante el cribado metabólico."
+    },
+    {
+        "enunciado": "¿Qué técnica no es recomendada para realizar la punción en la prueba del talón?",
+        "opciones": [
+            "Dispositivo específico para talones",
+            "Aguja intramuscular",
+            "Dispositivo automático de punción superficial",
+            "Ninguna de las anteriores"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "procedimientos"
+        ],
+        "feedback": "El uso de agujas intramusculares no está recomendado para la prueba del talón, ya que no es adecuada para la extracción de muestras de sangre en recién nacidos."
+    },
+    {
+        "enunciado": "¿Qué factores de riesgo en el embarazo aumentan la probabilidad de hipoacusia en el recién nacido?",
+        "opciones": [
+            "Infecciones maternas como rubéola o citomegalovirus",
+            "Consumo moderado de cafeína",
+            "Exposición a temperaturas frías",
+            "Uso de antibióticos comunes"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Factores de riesgo como infecciones maternas (rubéola, citomegalovirus) y exposición a ototóxicos aumentan la probabilidad de hipoacusia en recién nacidos."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal indica una respuesta normal del sistema nervioso en los primeros meses de vida?",
+        "opciones": [
+            "Reflejo de Moro",
+            "Reflejo de Babinski",
+            "Reflejo de prensión plantar",
+            "Todos los anteriores"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "Reflejos como el de Moro, Babinski y prensión plantar son indicadores clave de un sistema nervioso en desarrollo y deben ser evaluados."
+    },
+    {
+        "enunciado": "¿En qué momento se recomienda la introducción de la intervención terapéutica en recién nacidos con diagnóstico de hipoacusia?",
+        "opciones": [
+            "Antes de los 3 meses",
+            "Antes de los 6 meses",
+            "Entre los 6 y 12 meses",
+            "Después del primer año"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La intervención terapéutica debe introducirse antes de los 6 meses para optimizar el desarrollo del lenguaje en niños con hipoacusia."
+    },
+    {
+        "enunciado": "¿Cuál es la recomendación principal para el cuidado del cordón umbilical en un recién nacido sano?",
+        "opciones": [
+            "Utilizar alcohol para su limpieza",
+            "Mantenerlo seco y limpio con agua y jabón",
+            "Cubrirlo con gasas húmedas",
+            "Aplicar soluciones yodadas diariamente"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "cuidados_neonatales"
+        ],
+        "feedback": "El cuidado del cordón umbilical debe centrarse en mantenerlo limpio y seco utilizando agua y jabón para prevenir infecciones."
+    },
+    {
+        "enunciado": "¿Qué tipo de hipoacusia afecta las células ciliadas o las vías auditivas nerviosas?",
+        "opciones": [
+            "Hipoacusia de transmisión",
+            "Hipoacusia neurosensorial",
+            "Hipoacusia mixta",
+            "Hipoacusia unilateral"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La hipoacusia neurosensorial afecta las células ciliadas del órgano de Corti o las vías nerviosas auditivas, siendo la forma más común de hipoacusia severa."
+    },
+    {
+        "enunciado": "¿Qué condición en un neonato requiere repetir la prueba del talón a los 3 meses de vida?",
+        "opciones": [
+            "Bajo peso al nacer",
+            "Prematuridad extrema",
+            "Neonato politransfundido",
+            "Signos de ictericia prolongada"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Los neonatos politransfundidos deben repetir la prueba del talón a los 3 meses para garantizar resultados precisos en el cribado."
+    },
+    {
+        "enunciado": "¿Cuál es el rango de pérdida auditiva que define una hipoacusia moderada?",
+        "opciones": [
+            "21 a 40 dB",
+            "41 a 70 dB",
+            "71 a 90 dB",
+            "Más de 90 dB"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La hipoacusia moderada se caracteriza por una pérdida auditiva entre 41 y 70 dB, lo que puede afectar el desarrollo del lenguaje si no se interviene."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de hipoacusias infantiles tienen origen hereditario?",
+        "opciones": [
+            "25%",
+            "35%",
+            "50%",
+            "65%"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El 35% de las hipoacusias infantiles tienen origen hereditario, mientras que un porcentaje similar es adquirido y el resto tiene causas desconocidas."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal desaparece más tarde, alrededor del año de vida?",
+        "opciones": [
+            "Reflejo de Babinski",
+            "Reflejo de succión",
+            "Reflejo de prensión plantar",
+            "Reflejo de marcha automática"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de Babinski, que consiste en la extensión del dedo gordo del pie al estimular la planta, desaparece generalmente antes del primer año de vida."
+    },
+    {
+        "enunciado": "¿Qué enfermedad detectada en la prueba del talón puede prevenirse con una dieta específica?",
+        "opciones": [
+            "Fibrosis quística",
+            "Fenilcetonuria",
+            "Hipotiroidismo congénito",
+            "Acidemia isovalérica"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La fenilcetonuria, detectada mediante la prueba del talón, puede prevenirse eficazmente con una dieta baja en fenilalanina."
+    },
+    {
+        "enunciado": "¿Qué característica define el diagnóstico de hipotiroidismo congénito en recién nacidos?",
+        "opciones": [
+            "Aumento de la TSH y disminución de T4",
+            "Aumento de T3 y niveles normales de TSH",
+            "Disminución de TSH y niveles normales de T4",
+            "Niveles elevados de anticuerpos antitiroideos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El hipotiroidismo congénito se diagnostica típicamente por niveles elevados de TSH y bajos de T4 en la prueba del talón."
+    },
+    {
+        "enunciado": "¿Qué factor de riesgo neonatal incrementa la incidencia de enfermedades metabólicas detectadas en el cribado?",
+        "opciones": [
+            "Edad gestacional menor de 37 semanas",
+            "Peso al nacer mayor de 4.000 gramos",
+            "Ausencia de ictericia neonatal",
+            "Gestación gemelar sin complicaciones"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Los neonatos prematuros, con edad gestacional menor de 37 semanas, tienen mayor riesgo de enfermedades metabólicas detectadas en el cribado."
+    },
+    {
+        "enunciado": "¿Qué criterio justifica el uso de espectrometría de masas en el cribado neonatal?",
+        "opciones": [
+            "Permite detectar enfermedades infecciosas de forma temprana",
+            "Analiza múltiples metabolitos con una sola muestra",
+            "Es más económico que otros métodos de cribado",
+            "Requiere menos personal especializado"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La espectrometría de masas permite analizar múltiples metabolitos simultáneamente, lo que optimiza el cribado neonatal de enfermedades metabólicas."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal del cribado neonatal de hipoacusias?",
+        "opciones": [
+            "Reducir el uso de dispositivos auditivos",
+            "Detectar pérdidas auditivas permanentes de forma temprana",
+            "Prevenir infecciones del oído medio",
+            "Promover la lactancia materna en recién nacidos con hipoacusia"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El cribado neonatal de hipoacusias tiene como objetivo principal detectar pérdidas auditivas permanentes de forma temprana para intervenir oportunamente."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizarse si un recién nacido obtiene un resultado dudoso en ambas orejas tras el cribado inicial de otoemisiones acústicas (OEA)?",
+        "opciones": [
+            "Repetir la prueba antes del alta hospitalaria",
+            "Derivar al servicio de ORL para realizar PEATC",
+            "Esperar hasta los 6 meses para repetir la prueba",
+            "Iniciar tratamiento logopédico inmediato"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Un resultado dudoso en ambas orejas requiere derivación al servicio de ORL para realizar potenciales evocados auditivos del tronco cerebral (PEATC)."
+    },
+    {
+        "enunciado": "¿Cuál es el motivo principal por el que el cribado neonatal debe realizarse antes de los 6 meses en casos de hipoacusia?",
+        "opciones": [
+            "Facilitar la colocación de implantes cocleares",
+            "Garantizar un desarrollo óptimo del lenguaje",
+            "Prevenir infecciones recurrentes del oído",
+            "Evitar el aislamiento social temprano"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El diagnóstico y la intervención antes de los 6 meses son clave para garantizar un desarrollo óptimo del lenguaje y minimizar las dificultades asociadas."
+    },
+    {
+        "enunciado": "¿Qué técnica es utilizada como prueba de confirmación para el diagnóstico de enfermedades metabólicas detectadas en el cribado neonatal?",
+        "opciones": [
+            "Pruebas genéticas específicas",
+            "Espectrometría de masas en tándem",
+            "Electroforesis de proteínas",
+            "Cromatografía líquida de alta resolución"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Las pruebas genéticas específicas se utilizan para confirmar enfermedades metabólicas detectadas en el cribado neonatal, como la fibrosis quística o fenilcetonuria."
+    },
+    {
+        "enunciado": "¿Qué factor aumenta el riesgo de hipoacusia neurosensorial en neonatos?",
+        "opciones": [
+            "Bajo peso al nacer",
+            "Nacimientos por cesárea",
+            "Infecciones maternas durante el embarazo",
+            "Uso de fórceps en el parto"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Infecciones maternas durante el embarazo, como rubéola o citomegalovirus, aumentan significativamente el riesgo de hipoacusia neurosensorial en neonatos."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes pruebas detecta de manera más eficaz la hipoacusia congénita?",
+        "opciones": [
+            "Pruebas de otoemisiones acústicas (OEA)",
+            "Potenciales evocados auditivos del tronco cerebral (PEATC)",
+            "Audiometría convencional",
+            "Timpanometría"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Los potenciales evocados auditivos del tronco cerebral (PEATC) son altamente eficaces para confirmar la hipoacusia congénita tras un cribado inicial con OEA."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de cobertura poblacional tiene el cribado neonatal en Andalucía según los últimos datos?",
+        "opciones": [
+            "Menos del 90%",
+            "Entre el 90% y el 95%",
+            "Entre el 97% y el 99%",
+            "Más del 99%"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El cribado neonatal en Andalucía tiene una cobertura poblacional superior al 97%, lo que asegura la detección temprana en la mayoría de los recién nacidos."
+    },
+    {
+        "enunciado": "¿Qué enfermedad metabólica detectada mediante cribado neonatal requiere la administración de suplementos de L-carnitina?",
+        "opciones": [
+            "Acidemia propiónica",
+            "Hipotiroidismo congénito",
+            "Fenilcetonuria",
+            "Fibrosis quística"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La acidemia propiónica, detectada en el cribado neonatal, requiere tratamiento con suplementos de L-carnitina y otras intervenciones dietéticas."
+    },
+    {
+        "enunciado": "¿Cuál es el intervalo ideal para realizar la prueba del talón en recién nacidos sanos?",
+        "opciones": [
+            "Antes de las 24 horas de vida",
+            "Entre las 24 y 48 horas de vida",
+            "Entre las 48 y 72 horas de vida",
+            "Después de las 72 horas de vida"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La prueba del talón debe realizarse idealmente entre las 48 y 72 horas de vida para obtener resultados óptimos en el cribado neonatal."
+    },
+    {
+        "enunciado": "¿Qué signo clínico se asocia frecuentemente con un retraso en la eliminación del meconio en recién nacidos?",
+        "opciones": [
+            "Hipotiroidismo congénito",
+            "Fibrosis quística",
+            "Hipoacusia neurosensorial",
+            "Infecciones neonatales"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El retraso en la eliminación del meconio es un signo clínico temprano de fibrosis quística, que puede ser confirmado mediante el cribado neonatal."
+    },
+    {
+        "enunciado": "¿Cuál es la razón principal de administrar vitamina K al recién nacido inmediatamente después del nacimiento?",
+        "opciones": [
+            "Prevenir infecciones neonatales",
+            "Reducir el riesgo de enfermedad hemorrágica del recién nacido",
+            "Promover la maduración hepática",
+            "Prevenir ictericia neonatal"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "cuidados_neonatales"
+        ],
+        "feedback": "La vitamina K se administra al recién nacido para prevenir la enfermedad hemorrágica, debido a los bajos niveles de esta vitamina al nacer."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de las hipoacusias congénitas se detecta durante el cribado neonatal?",
+        "opciones": [
+            "Menos del 40%",
+            "Entre el 40% y el 50%",
+            "Entre el 60% y el 70%",
+            "Más del 80%"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El cribado neonatal permite detectar entre el 40% y el 50% de las hipoacusias congénitas, aunque el porcentaje puede variar según la metodología utilizada."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes factores de riesgo NO está asociado con hipoacusia congénita?",
+        "opciones": [
+            "Historia familiar de hipoacusia neurosensorial",
+            "Exposición a ototóxicos durante el embarazo",
+            "Prematuridad extrema",
+            "Presencia de lanugo excesivo al nacimiento"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "La presencia de lanugo excesivo es una característica normal en algunos recién nacidos y no está asociada con el riesgo de hipoacusia."
+    },
+    {
+        "enunciado": "¿Qué parámetro del recién nacido se evalúa con el índice de Apgar al minuto y a los cinco minutos?",
+        "opciones": [
+            "Estado neurológico y sensorial",
+            "Adaptación cardiorrespiratoria",
+            "Capacidad de succión y deglución",
+            "Estado inmunológico"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "El índice de Apgar evalúa la adaptación cardiorrespiratoria del recién nacido y otros parámetros como el tono muscular, reflejos y coloración."
+    },
+    {
+        "enunciado": "¿Qué patología detectada en el cribado neonatal afecta a la betaoxidación de los ácidos grasos?",
+        "opciones": [
+            "Fenilcetonuria",
+            "Déficit de MCAD (acil-CoA deshidrogenasa de cadena media)",
+            "Hipotiroidismo congénito",
+            "Acidemia propiónica"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El déficit de MCAD afecta la betaoxidación de los ácidos grasos y puede detectarse mediante la prueba del talón en el cribado neonatal."
+    },
+    {
+        "enunciado": "¿Qué intervención inicial es clave para tratar a neonatos diagnosticados con hipotiroidismo congénito?",
+        "opciones": [
+            "Terapia con hormona tiroidea",
+            "Suplementación de vitamina D",
+            "Cambio a una dieta baja en fenilalanina",
+            "Administración de antibióticos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La terapia con hormona tiroidea debe iniciarse de inmediato en neonatos con hipotiroidismo congénito para evitar problemas de desarrollo."
+    },
+    {
+        "enunciado": "¿Cuál es el peso mínimo de un recién nacido considerado de bajo peso al nacer?",
+        "opciones": [
+            "Menor a 1.500 gramos",
+            "Menor a 2.000 gramos",
+            "Menor a 2.500 gramos",
+            "Menor a 3.000 gramos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Un recién nacido con un peso inferior a 2.500 gramos se clasifica como de bajo peso al nacer, lo que puede requerir seguimiento especial."
+    },
+    {
+        "enunciado": "¿Qué complicación puede surgir en neonatos con déficit de carboxilasa múltiple detectado en el cribado neonatal?",
+        "opciones": [
+            "Alteraciones neurológicas graves",
+            "Problemas respiratorios crónicos",
+            "Insuficiencia cardíaca",
+            "Hiperbilirrubinemia prolongada"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El déficit de carboxilasa múltiple puede causar alteraciones neurológicas graves si no se detecta y trata de manera oportuna tras el cribado neonatal."
+    },
+    {
+        "enunciado": "¿Cuál es la razón principal por la que se realiza un seguimiento especial en neonatos con factores de riesgo para metabolopatías?",
+        "opciones": [
+            "Mayor probabilidad de errores en las pruebas iniciales",
+            "Mayor incidencia de enfermedades graves tratables con intervención temprana",
+            "Requisitos legales para el monitoreo obligatorio",
+            "Prevenir infecciones secundarias"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Los neonatos con factores de riesgo tienen una mayor incidencia de enfermedades tratables con intervención temprana, justificando su seguimiento especial."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal indica la respuesta simétrica al estímulo táctil en la planta de los pies?",
+        "opciones": [
+            "Reflejo de Moro",
+            "Reflejo de Babinski",
+            "Reflejo de marcha automática",
+            "Reflejo de succión"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de Babinski, caracterizado por la extensión del dedo gordo, evalúa la respuesta al estímulo táctil en la planta de los pies."
+    },
+    {
+        "enunciado": "¿Qué condición en un recién nacido requiere la realización de PEATC para confirmar una sospecha diagnóstica?",
+        "opciones": [
+            "Resultados normales en otoemisiones acústicas",
+            "Resultados dudosos en ambas orejas tras el cribado inicial",
+            "Presencia de lanugo excesivo",
+            "Prueba del talón realizada antes de las 48 horas"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Resultados dudosos en otoemisiones acústicas (OEA) requieren la realización de potenciales evocados auditivos del tronco cerebral (PEATC) para confirmar el diagnóstico."
+    },
+    {
+        "enunciado": "¿Cuál es la principal técnica utilizada para detectar enfermedades metabólicas en el cribado neonatal?",
+        "opciones": [
+            "Espectrometría de masas en tándem",
+            "Cromatografía de gases",
+            "Pruebas de inmunofluorescencia",
+            "Electroforesis de proteínas"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La espectrometría de masas en tándem es la técnica más utilizada en el cribado neonatal para detectar múltiples enfermedades metabólicas con una sola muestra."
+    },
+    {
+        "enunciado": "¿Qué acción se realiza si el cribado neonatal detecta un valor sospechoso en la primera muestra?",
+        "opciones": [
+            "Se deriva al neonato directamente a un especialista",
+            "Se realiza una segunda muestra para confirmar el resultado",
+            "Se inicia tratamiento de forma preventiva",
+            "Se repite la prueba al cumplir los 6 meses"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Si el cribado detecta un valor sospechoso, se realiza una segunda muestra para confirmar los resultados antes de tomar medidas adicionales."
+    },
+    {
+        "enunciado": "¿Qué prueba específica permite confirmar el diagnóstico de fibrosis quística en neonatos?",
+        "opciones": [
+            "Medición de tripsinógeno inmunorreactivo (IRT)",
+            "Prueba del sudor",
+            "Espectrometría de masas",
+            "Electroforesis de proteínas"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "fibrosis_quística"
+        ],
+        "feedback": "La prueba del sudor es el estándar de oro para confirmar el diagnóstico de fibrosis quística en neonatos con resultados positivos en el cribado."
+    },
+    {
+        "enunciado": "¿Cuál es el límite normal del perímetro cefálico en un recién nacido a término?",
+        "opciones": [
+            "30 a 32 cm",
+            "32 a 34 cm",
+            "34 a 36 cm",
+            "36 a 38 cm"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "El perímetro cefálico normal en un recién nacido a término oscila entre 34 y 36 cm, dependiendo de factores individuales."
+    },
+    {
+        "enunciado": "¿Qué enfermedad metabólica detectada en el cribado neonatal se caracteriza por una acumulación tóxica de fenilalanina?",
+        "opciones": [
+            "Acidemia isovalérica",
+            "Fenilcetonuria",
+            "Déficit de MCAD",
+            "Hipotiroidismo congénito"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La fenilcetonuria se caracteriza por la acumulación de fenilalanina, que puede causar daño cerebral si no se maneja con una dieta específica."
+    },
+    {
+        "enunciado": "¿Qué intervención es prioritaria en un recién nacido con resultados positivos para hipotiroidismo congénito?",
+        "opciones": [
+            "Iniciar tratamiento con hormona tiroidea lo antes posible",
+            "Repetir la prueba del talón a las 4 semanas",
+            "Esperar a los resultados de pruebas genéticas",
+            "Derivar al neonato a un endocrinólogo después del primer mes"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "El tratamiento con hormona tiroidea debe iniciarse de inmediato en casos de hipotiroidismo congénito para prevenir complicaciones graves en el desarrollo."
+    },
+    {
+        "enunciado": "¿Qué parámetro define un neonato como gran prematuro?",
+        "opciones": [
+            "Edad gestacional menor de 32 semanas",
+            "Peso al nacer inferior a 2.000 gramos",
+            "Talla al nacer menor de 40 cm",
+            "Edad gestacional entre 32 y 36 semanas"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "valoración_neonatal"
+        ],
+        "feedback": "Un gran prematuro se define como un neonato con una edad gestacional menor de 32 semanas, lo que requiere un seguimiento especializado."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal desaparece típicamente alrededor de los 2 a 3 meses de vida?",
+        "opciones": [
+            "Reflejo de marcha automática",
+            "Reflejo de prensión palmar",
+            "Reflejo de succión",
+            "Reflejo de Moro"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "El reflejo de marcha automática desaparece normalmente entre los 2 y 3 meses de vida, siendo parte del desarrollo neurológico esperado."
+    },
+    {
+        "enunciado": "¿Qué medida es fundamental para prevenir infecciones relacionadas con el cordón umbilical?",
+        "opciones": [
+            "Aplicar desinfectantes yodados diariamente",
+            "Dejar el cordón al aire y mantenerlo limpio y seco",
+            "Cubrir el cordón con gasas húmedas",
+            "Limpiar el cordón solo si presenta mal olor"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "cuidados_neonatales"
+        ],
+        "feedback": "El cuidado del cordón umbilical debe centrarse en mantenerlo limpio y seco, dejándolo al aire para prevenir infecciones."
+    },
+    {
+        "enunciado": "¿Qué condición detectada en el cribado neonatal puede requerir una dieta sin proteínas específicas para su manejo?",
+        "opciones": [
+            "Déficit de MCAD",
+            "Fenilcetonuria",
+            "Acidemia metilmalónica",
+            "Hipotiroidismo congénito"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "La fenilcetonuria requiere una dieta especial que excluya alimentos ricos en fenilalanina para prevenir daño neurológico a largo plazo."
+    },
+    {
+        "enunciado": "¿Cuál es el tiempo promedio para la caída del cordón umbilical en un recién nacido sano?",
+        "opciones": [
+            "Entre 2 y 5 días",
+            "Entre 7 y 10 días",
+            "Entre 10 y 14 días",
+            "Más de 14 días"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "cuidados_neonatales"
+        ],
+        "feedback": "El cordón umbilical en un recién nacido sano generalmente cae entre los 7 y 10 días después del nacimiento."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de neonatos politransfundidos requiere repetición de la prueba del talón a los 3 meses?",
+        "opciones": [
+            "10%",
+            "25%",
+            "50%",
+            "100%"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Todos los neonatos politransfundidos deben repetir la prueba del talón a los 3 meses para asegurar resultados precisos en el cribado metabólico."
+    },
+    {
+        "enunciado": "¿Qué signo clínico sugiere un problema en las vías auditivas tras el cribado neonatal?",
+        "opciones": [
+            "OEA normales en un oído y dudosas en el otro",
+            "PEATC anormales en ambas orejas",
+            "Pruebas de otoemisiones acústicas negativas",
+            "Ausencia de reflejo de Moro"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Los PEATC anormales en ambas orejas pueden indicar un problema en las vías auditivas, requiriendo confirmación y seguimiento especializado."
+    },
+    {
+        "enunciado": "¿Cuál es el principal beneficio del diagnóstico temprano de hipoacusia congénita?",
+        "opciones": [
+            "Reducir el uso de dispositivos auditivos",
+            "Optimizar el desarrollo del lenguaje y la comunicación",
+            "Evitar intervenciones quirúrgicas futuras",
+            "Mejorar la calidad de vida en la adultez"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "El diagnóstico temprano de la hipoacusia congénita permite optimizar el desarrollo del lenguaje y la comunicación en el niño."
+    },
+    {
+        "enunciado": "¿Qué característica de las enfermedades detectadas en el cribado neonatal permite una mejor intervención?",
+        "opciones": [
+            "Son progresivas y sin tratamiento específico",
+            "Son tratables si se detectan antes de la aparición de síntomas",
+            "Son irreversibles pero de curso lento",
+            "Son autolimitadas y no requieren tratamiento"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "metabolopatías"
+        ],
+        "feedback": "Las enfermedades detectadas en el cribado neonatal son tratables si se identifican antes de la aparición de síntomas, lo que reduce el daño permanente."
+    },
+    {
+        "enunciado": "¿Qué reflejo neonatal persiste más allá del primer año de vida en condiciones normales?",
+        "opciones": [
+            "Reflejo de prensión plantar",
+            "Reflejo de Babinski",
+            "Reflejo de Moro",
+            "Ninguno de los anteriores"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "desarrollo_neonatal"
+        ],
+        "feedback": "En condiciones normales, ningún reflejo neonatal persiste más allá del primer año; su desaparición progresiva indica desarrollo neurológico adecuado."
+    },
+    {
+        "enunciado": "¿Qué condición puede sospecharse si un recién nacido presenta niveles elevados de tripsinógeno inmunorreactivo (IRT) en la prueba del talón?",
+        "opciones": [
+            "Hipotiroidismo congénito",
+            "Fibrosis quística",
+            "Fenilcetonuria",
+            "Acidemia isovalérica"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "fibrosis_quística"
+        ],
+        "feedback": "Niveles elevados de tripsinógeno inmunorreactivo (IRT) en la prueba del talón pueden indicar fibrosis quística, requiriendo pruebas confirmatorias como la del sudor."
+    },
+    {
+        "enunciado": "¿Qué técnica de cribado auditivo neonatal se realiza de forma no invasiva y mide respuestas del oído interno?",
+        "opciones": [
+            "PEATC",
+            "Otoemisiones acústicas (OEA)",
+            "Audiometría convencional",
+            "Timpanometría"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Las otoemisiones acústicas (OEA) son una técnica no invasiva utilizada para medir respuestas del oído interno y detectar hipoacusia congénita."
+    },
+    {
+        "enunciado": "¿Cuál es una de las principales recomendaciones tras obtener un resultado normal en la segunda fase del cribado auditivo?",
+        "opciones": [
+            "Realizar seguimiento periódico por parte de pediatría",
+            "No realizar ningún control adicional",
+            "Repetir la prueba a los 6 meses",
+            "Derivar al servicio de ORL para evaluación rutinaria"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "hipoacusia"
+        ],
+        "feedback": "Tras un resultado normal en la segunda fase del cribado auditivo, se recomienda el seguimiento periódico por parte de pediatría para vigilar el desarrollo."
+    },
+    {
+        "enunciado": "¿Qué característica tienen las muestras de sangre consideradas inadecuadas en la prueba del talón?",
+        "opciones": [
+            "Están sobreimpregnadas o insuficientemente llenas",
+            "Fueron recolectadas antes de las 24 horas de vida",
+            "Se secaron en condiciones de alta humedad",
+            "Todas las anteriores"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "procedimientos"
+        ],
+        "feedback": "Las muestras inadecuadas en la prueba del talón incluyen aquellas sobreimpregnadas, insuficientes o mal secadas, lo que obliga a repetir la toma."
+    },
+    {
+        "enunciado": "¿Qué parámetros evalúa el test de Apgar en un recién nacido?",
+        "opciones": [
+            "Reflejos, color de piel, frecuencia respiratoria, tono muscular y ritmo cardíaco",
+            "Tono muscular, temperatura corporal, frecuencia respiratoria, peso y reflejos",
+            "Frecuencia respiratoria, peso, reflejos, ritmo cardíaco y edad gestacional",
+            "Color de piel, tono muscular, perímetro cefálico, reflejos y ritmo cardíaco"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar evalúa cinco parámetros: reflejos, color de piel, frecuencia respiratoria, tono muscular y ritmo cardíaco, para determinar la adaptación del recién nacido."
+    },
+    {
+        "enunciado": "¿En qué momentos se realiza el test de Apgar tras el nacimiento?",
+        "opciones": [
+            "A los 3 y 10 minutos",
+            "Al primer y quinto minuto",
+            "Al nacer y al primer minuto",
+            "A los 5 y 15 minutos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar se realiza al primer y quinto minuto de vida para evaluar la adaptación inicial del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar indica una condición normal del recién nacido?",
+        "opciones": [
+            "De 0 a 3 puntos",
+            "De 4 a 6 puntos",
+            "De 7 a 10 puntos",
+            "De 5 a 9 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 7 a 10 en el test de Apgar indica que el recién nacido está en una condición normal."
+    },
+    {
+        "enunciado": "¿Qué acción se toma si un recién nacido obtiene una puntuación de Apgar entre 4 y 6 al primer minuto?",
+        "opciones": [
+            "Iniciar compresiones torácicas",
+            "Proporcionar medidas de apoyo como oxígeno y estimulación",
+            "Reevaluar únicamente al quinto minuto",
+            "No realizar ninguna intervención específica"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 4 a 6 al primer minuto requiere medidas de apoyo como oxígeno o estimulación, y una reevaluación posterior."
+    },
+    {
+        "enunciado": "¿Qué resultado del test de Apgar indica una emergencia médica inmediata?",
+        "opciones": [
+            "De 0 a 3 puntos",
+            "De 4 a 6 puntos",
+            "De 7 a 8 puntos",
+            "De 9 a 10 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 0 a 3 en el test de Apgar indica una emergencia médica inmediata y requiere reanimación activa."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa el parámetro de ‘esfuerzo respiratorio’ en el test de Apgar?",
+        "opciones": [
+            "La regularidad y frecuencia del llanto",
+            "La profundidad de las respiraciones",
+            "La presencia de respiración espontánea y vigorosa",
+            "El tiempo necesario para iniciar la respiración"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El esfuerzo respiratorio en el test de Apgar evalúa la presencia de una respiración espontánea y vigorosa como indicador de adaptación pulmonar."
+    },
+    {
+        "enunciado": "¿Qué puntuación se asigna al parámetro de ritmo cardíaco en un recién nacido con más de 100 latidos por minuto?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un ritmo cardíaco superior a 100 latidos por minuto en el test de Apgar recibe una puntuación de 2 puntos, indicando una buena condición."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar evalúa el color de la piel del recién nacido?",
+        "opciones": [
+            "Tono muscular",
+            "Reflejo de irritabilidad",
+            "Aspecto o apariencia",
+            "Esfuerzo respiratorio"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro de 'apariencia' en el test de Apgar evalúa el color de la piel, siendo ideal una tonalidad rosada."
+    },
+    {
+        "enunciado": "¿Qué significa una puntuación de Apgar de 10 al quinto minuto?",
+        "opciones": [
+            "El recién nacido requiere atención inmediata",
+            "El recién nacido está en excelente condición",
+            "El recién nacido tiene problemas leves que requieren observación",
+            "El recién nacido presenta problemas respiratorios menores"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de Apgar de 10 al quinto minuto indica que el recién nacido está en excelente condición y bien adaptado al entorno extrauterino."
+    },
+    {
+        "enunciado": "¿Qué parámetros del test de Apgar pueden influir más directamente en la necesidad de reanimación neonatal?",
+        "opciones": [
+            "Esfuerzo respiratorio y ritmo cardíaco",
+            "Color de piel y tono muscular",
+            "Ritmo cardíaco y reflejo de irritabilidad",
+            "Esfuerzo respiratorio y reflejo de irritabilidad"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El esfuerzo respiratorio y el ritmo cardíaco son los parámetros más importantes para determinar la necesidad de reanimación neonatal."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar indica que el recién nacido necesita reevaluación continua pero no intervención inmediata?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 a 8 puntos",
+            "9 a 10 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 4 a 6 indica que el recién nacido necesita una reevaluación continua y medidas de apoyo, pero no reanimación inmediata."
+    },
+    {
+        "enunciado": "¿Qué se evalúa con el parámetro de ‘reflejo de irritabilidad’ en el test de Apgar?",
+        "opciones": [
+            "La respuesta al estímulo doloroso",
+            "La capacidad del recién nacido para mantener un tono muscular adecuado",
+            "La respuesta del recién nacido al contacto físico",
+            "La reacción al estímulo táctil o succión"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro ‘reflejo de irritabilidad’ evalúa la respuesta del recién nacido a estímulos como la succión o el contacto, incluyendo el llanto o movimientos."
+    },
+    {
+        "enunciado": "¿Qué acción debe tomarse si un recién nacido obtiene una puntuación de Apgar de 3 al quinto minuto?",
+        "opciones": [
+            "Iniciar ventilación mecánica inmediata",
+            "Observar sin intervención",
+            "Reevaluar a los 10 minutos y continuar soporte vital avanzado",
+            "Derivar a cuidados intermedios sin reevaluación"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 3 al quinto minuto indica la necesidad de reevaluación a los 10 minutos y la continuación de soporte vital avanzado según sea necesario."
+    },
+    {
+        "enunciado": "¿Qué significa una puntuación de 1 en el parámetro de tono muscular del test de Apgar?",
+        "opciones": [
+            "Movimiento activo",
+            "Tono muscular débil o flacidez",
+            "Flexión ligera de las extremidades",
+            "Extremidades completamente extendidas"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 1 en tono muscular indica que el recién nacido tiene una flexión ligera de las extremidades, pero no un movimiento activo completo."
+    },
+    {
+        "enunciado": "¿Qué puntaje en el test de Apgar se asigna a un recién nacido con coloración completamente rosada?",
+        "opciones": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un recién nacido con coloración completamente rosada recibe una puntuación de 2 en el parámetro de apariencia del test de Apgar."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar recibe 0 puntos si el recién nacido no presenta esfuerzo respiratorio?",
+        "opciones": [
+            "Ritmo cardíaco",
+            "Reflejo de irritabilidad",
+            "Esfuerzo respiratorio",
+            "Tono muscular"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Si el recién nacido no presenta ningún esfuerzo respiratorio, recibe 0 puntos en este parámetro del test de Apgar, lo que indica una urgencia médica."
+    },
+    {
+        "enunciado": "¿Qué puntuación recibe un recién nacido con ritmo cardíaco menor a 100 latidos por minuto en el test de Apgar?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un ritmo cardíaco menor a 100 latidos por minuto recibe una puntuación de 1 en el test de Apgar, lo que puede indicar la necesidad de monitoreo o intervención."
+    },
+    {
+        "enunciado": "¿En qué situación es común realizar un tercer test de Apgar, además de las mediciones habituales al primer y quinto minuto?",
+        "opciones": [
+            "En neonatos con puntuación de 7 al quinto minuto",
+            "En neonatos con puntuación menor a 6 al quinto minuto",
+            "En todos los neonatos prematuros",
+            "En neonatos con peso menor a 2.500 gramos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un tercer test de Apgar es común en neonatos con una puntuación menor a 6 al quinto minuto para evaluar su evolución y respuesta a intervenciones."
+    },
+    {
+        "enunciado": "¿Qué implica una puntuación de Apgar que mejora significativamente entre el primer y quinto minuto?",
+        "opciones": [
+            "La condición del recién nacido es estable desde el inicio",
+            "El recién nacido respondió bien a las medidas de intervención iniciales",
+            "La evaluación inicial fue incorrecta",
+            "No es necesario realizar más evaluaciones"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una mejoría significativa en la puntuación de Apgar entre el primer y quinto minuto indica que el recién nacido respondió favorablemente a las intervenciones iniciales."
+    },
+    {
+        "enunciado": "¿Qué interpretación se da a una puntuación de Apgar consistente de 7 a 8 en las evaluaciones iniciales?",
+        "opciones": [
+            "Indica que el recién nacido tiene problemas severos",
+            "Refleja una condición normal pero requiere observación",
+            "Es una puntuación indicativa de reanimación urgente",
+            "Significa que el recién nacido no necesita ninguna intervención"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 7 a 8 refleja una condición normal, aunque podría requerir observación adicional dependiendo del contexto clínico."
+    },
+    {
+        "enunciado": "¿Qué resultado en el test de Apgar indica que el recién nacido necesita asistencia médica inmediata y reanimación avanzada?",
+        "opciones": [
+            "7 a 10 puntos",
+            "4 a 6 puntos",
+            "0 a 3 puntos",
+            "No es aplicable a recién nacidos a término"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un resultado de 0 a 3 puntos en el test de Apgar indica una emergencia médica y la necesidad de reanimación avanzada inmediata."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar en el primer minuto sugiere una buena adaptación inicial del recién nacido?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 a 10 puntos",
+            "11 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 7 a 10 puntos en el primer minuto del test de Apgar sugiere que el recién nacido tiene una buena adaptación inicial."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar se asigna 0 puntos si el recién nacido está completamente flácido?",
+        "opciones": [
+            "Esfuerzo respiratorio",
+            "Tono muscular",
+            "Ritmo cardíaco",
+            "Color de piel"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Si el recién nacido está completamente flácido, recibe 0 puntos en el parámetro de tono muscular, lo que indica la necesidad de intervención inmediata."
+    },
+    {
+        "enunciado": "¿Qué puntuación del test de Apgar en el quinto minuto indica una evolución favorable tras un inicio complicado?",
+        "opciones": [
+            "0 a 3 puntos",
+            "4 a 6 puntos",
+            "7 a 10 puntos",
+            "5 puntos exactos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 7 a 10 en el quinto minuto indica que el recién nacido ha tenido una evolución favorable tras medidas de soporte inicial."
+    },
+    {
+        "enunciado": "¿Qué significa una puntuación de 0 en el parámetro de ritmo cardíaco del test de Apgar?",
+        "opciones": [
+            "El recién nacido tiene un ritmo cardíaco lento pero estable",
+            "No se detecta ritmo cardíaco",
+            "El ritmo cardíaco es irregular",
+            "El ritmo cardíaco está por debajo de 100 latidos por minuto"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 0 en el parámetro de ritmo cardíaco indica que no se detecta latido, lo que requiere una intervención inmediata."
+    },
+    {
+        "enunciado": "¿Qué acción debe tomarse si el test de Apgar muestra puntuaciones consistentes de 4 a 6 en múltiples evaluaciones?",
+        "opciones": [
+            "Continuar con medidas de apoyo y monitorización",
+            "Reevaluar únicamente después de 24 horas",
+            "Derivar directamente a cuidados paliativos",
+            "No tomar medidas adicionales si el ritmo cardíaco es normal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Puntuaciones de 4 a 6 requieren medidas de apoyo continuo, como oxígeno suplementario, y reevaluaciones periódicas para determinar la evolución."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar recibe 2 puntos si el recién nacido presenta movimientos activos y vigorosos?",
+        "opciones": [
+            "Esfuerzo respiratorio",
+            "Ritmo cardíaco",
+            "Tono muscular",
+            "Reflejo de irritabilidad"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro de tono muscular recibe 2 puntos si el recién nacido muestra movimientos activos y vigorosos, indicando un buen estado físico."
+    },
+    {
+        "enunciado": "¿Qué condición se evalúa con el parámetro de apariencia (coloración) en el test de Apgar?",
+        "opciones": [
+            "La capacidad de reflejar estímulos dolorosos",
+            "La oxigenación y perfusión sanguínea",
+            "La frecuencia respiratoria",
+            "La actividad muscular"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro de apariencia evalúa la oxigenación y perfusión sanguínea del recién nacido a través de la coloración de la piel."
+    },
+    {
+        "enunciado": "¿En qué caso un recién nacido puede recibir una puntuación de 1 en el parámetro de reflejo de irritabilidad?",
+        "opciones": [
+            "Llanto vigoroso al ser estimulado",
+            "Movimientos lentos o una leve mueca al estímulo",
+            "Sin respuesta al estímulo",
+            "Movimientos activos espontáneos sin estimulación"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 1 en el parámetro de reflejo de irritabilidad indica una respuesta débil, como movimientos lentos o muecas, al estímulo."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar se considera adecuada para un recién nacido que está respirando bien pero presenta extremidades ligeramente cianóticas?",
+        "opciones": [
+            "10 puntos",
+            "8 a 9 puntos",
+            "6 a 7 puntos",
+            "4 a 5 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un recién nacido que respira bien pero tiene extremidades ligeramente cianóticas puede recibir una puntuación entre 8 y 9 en el test de Apgar."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el parámetro de esfuerzo respiratorio del test de Apgar indica respiración irregular o débil?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 1 en el esfuerzo respiratorio indica que el recién nacido tiene una respiración débil o irregular. Recuerda: 0 puntos significa ausencia de respiración, 1 punto respiración débil o irregular, y 2 puntos respiración vigorosa."
+    },
+    {
+        "enunciado": "¿Qué puntuación se asigna en el test de Apgar si el recién nacido está completamente cianótico?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Si el recién nacido está completamente cianótico, se asigna una puntuación de 0 en el parámetro de apariencia. Recuerda: 0 puntos indica cianosis total, 1 punto si el cuerpo está rosado pero las extremidades cianóticas, y 2 puntos si está completamente rosado."
+    },
+    {
+        "enunciado": "¿Qué valor en el test de Apgar indica un llanto débil como respuesta a la estimulación?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un llanto débil como respuesta a la estimulación recibe una puntuación de 1 en el parámetro de reflejo de irritabilidad. Recuerda: 0 puntos indica ausencia de respuesta, 1 punto una respuesta débil (como llanto o mueca ligera), y 2 puntos una respuesta vigorosa al estímulo."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el parámetro de tono muscular se asigna si el recién nacido tiene las extremidades completamente flácidas?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Si las extremidades del recién nacido están completamente flácidas, se asigna una puntuación de 0 en el parámetro de tono muscular. Recuerda: 0 puntos indica flacidez total, 1 punto flexión ligera de extremidades, y 2 puntos movimientos activos y vigorosos."
+    },
+    {
+        "enunciado": "¿Cuál es la principal utilidad clínica del test de Apgar?",
+        "opciones": [
+            "Evaluar la salud general del recién nacido durante su primer año de vida",
+            "Determinar si el recién nacido necesita reanimación inmediata o medidas de soporte",
+            "Diagnosticar problemas congénitos en el neonato",
+            "Valorar el estado neurológico completo del recién nacido"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar se utiliza principalmente para determinar si el recién nacido necesita reanimación inmediata o medidas de soporte. Recuerda: el Apgar evalúa cinco parámetros con puntuaciones de 0 a 2 cada uno, siendo 7-10 normal, 4-6 requiere intervención, y 0-3 emergencia médica."
+    },
+    {
+        "enunciado": "¿Qué puntuación recibe un recién nacido con coloración rosada en el cuerpo pero extremidades cianóticas en el test de Apgar?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un recién nacido con cuerpo rosado pero extremidades cianóticas recibe 1 punto en el parámetro de apariencia. Recuerda: 0 puntos indica cianosis total, 1 punto cianosis en extremidades, y 2 puntos coloración completamente rosada."
+    },
+    {
+        "enunciado": "¿Qué puntuación se asigna en el test de Apgar si el recién nacido tiene un ritmo cardíaco superior a 100 latidos por minuto?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un ritmo cardíaco superior a 100 latidos por minuto recibe 2 puntos en el parámetro de frecuencia cardíaca del test de Apgar. Recuerda: 0 puntos indica ausencia de latidos, 1 punto menos de 100 latidos por minuto, y 2 puntos más de 100 latidos por minuto."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar evalúa la capacidad del recién nacido para responder a estímulos externos?",
+        "opciones": [
+            "Tono muscular",
+            "Reflejo de irritabilidad",
+            "Esfuerzo respiratorio",
+            "Ritmo cardíaco"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro de reflejo de irritabilidad evalúa la capacidad del recién nacido para responder a estímulos externos. Recuerda: 0 puntos indica ausencia de respuesta, 1 punto respuesta débil (mueca o llanto ligero), y 2 puntos respuesta vigorosa (llanto fuerte o retirada activa)."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de 2 en el esfuerzo respiratorio del test de Apgar?",
+        "opciones": [
+            "Respiración irregular o débil",
+            "Respiración ausente",
+            "Respiración regular y vigorosa",
+            "Respiración con pausas prolongadas"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 2 en el esfuerzo respiratorio indica que el recién nacido tiene una respiración regular y vigorosa. Recuerda: 0 puntos indica ausencia de respiración, 1 punto respiración débil o irregular, y 2 puntos respiración fuerte y regular."
+    },
+    {
+        "enunciado": "¿En qué situaciones el test de Apgar puede ser menos preciso para evaluar la condición del recién nacido?",
+        "opciones": [
+            "En neonatos con edad gestacional mayor de 41 semanas",
+            "En neonatos prematuros o politransfundidos",
+            "En neonatos nacidos por cesárea programada",
+            "En neonatos con peso superior a 4.000 gramos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "En neonatos prematuros o politransfundidos, el test de Apgar puede ser menos preciso debido a características fisiológicas propias de estas condiciones. Recuerda: el Apgar evalúa reflejos, color de piel, frecuencia respiratoria, tono muscular y ritmo cardíaco, siendo un método rápido pero con limitaciones."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar se asigna si el recién nacido tiene un llanto vigoroso al ser estimulado?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un llanto vigoroso al ser estimulado se califica con 2 puntos en el parámetro de reflejo de irritabilidad. Recuerda: 0 puntos indica ausencia de respuesta, 1 punto respuesta débil, y 2 puntos respuesta vigorosa como llanto fuerte."
+    },
+    {
+        "enunciado": "Si un recién nacido tiene una puntuación de 6 en el test de Apgar al quinto minuto, ¿qué medida se recomienda?",
+        "opciones": [
+            "Continuar con medidas de soporte y reevaluar",
+            "No realizar más intervenciones",
+            "Derivación inmediata a cuidados intensivos",
+            "Considerar la puntuación como normal y dar el alta"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 6 al quinto minuto requiere medidas de soporte y reevaluación continua. Recuerda: 0-3 puntos indican emergencia médica, 4-6 intervención moderada, y 7-10 adaptación normal."
+    },
+    {
+        "enunciado": "¿Qué interpretación clínica se da si un recién nacido tiene puntuaciones de Apgar de 2 al primer minuto y 8 al quinto minuto?",
+        "opciones": [
+            "El recién nacido se mantiene en estado crítico",
+            "El recién nacido respondió favorablemente a las medidas iniciales",
+            "No se realizaron las evaluaciones correctamente",
+            "El recién nacido no necesita más monitoreo"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una mejoría de 2 a 8 puntos indica que el recién nacido respondió favorablemente a las medidas iniciales. Recuerda: la evolución de la puntuación es tan importante como el valor individual."
+    },
+    {
+        "enunciado": "¿Qué puntuación se asigna en el test de Apgar si el recién nacido muestra flexión leve de las extremidades pero no movimientos activos?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una flexión leve de las extremidades sin movimientos activos recibe 1 punto en el parámetro de tono muscular. Recuerda: 0 puntos indica flacidez, 1 punto flexión ligera, y 2 puntos movimientos activos y vigorosos."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de 0 en el parámetro de reflejo de irritabilidad del test de Apgar?",
+        "opciones": [
+            "El recién nacido no responde a estímulos",
+            "El recién nacido tiene una mueca débil al estímulo",
+            "El recién nacido tiene un llanto vigoroso",
+            "El recién nacido presenta movimientos espontáneos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 0 en reflejo de irritabilidad indica ausencia de respuesta a estímulos. Recuerda: 0 puntos ausencia de respuesta, 1 punto respuesta débil, y 2 puntos respuesta vigorosa."
+    },
+    {
+        "enunciado": "Si el test de Apgar en el quinto minuto resulta en una puntuación de 9, ¿qué se puede concluir sobre el recién nacido?",
+        "opciones": [
+            "Está en condición normal y bien adaptado",
+            "Requiere intervención inmediata",
+            "Tiene riesgo de complicaciones a largo plazo",
+            "Debe permanecer en vigilancia intensiva"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 9 al quinto minuto indica que el recién nacido está en condición normal y bien adaptado. Recuerda: 7-10 puntos es normal, 4-6 requiere apoyo, y 0-3 es emergencia médica."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Apgar se otorga a un recién nacido con frecuencia cardíaca de 80 latidos por minuto?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una frecuencia cardíaca de 80 latidos por minuto recibe 1 punto en el parámetro de ritmo cardíaco. Recuerda: 0 puntos indica ausencia de latidos, 1 punto menos de 100 latidos por minuto, y 2 puntos más de 100."
+    },
+    {
+        "enunciado": "Si un recién nacido tiene extremidades cianóticas pero un ritmo cardíaco y respiración normales, ¿qué puntuación aproximada puede obtener en el test de Apgar?",
+        "opciones": [
+            "5 puntos",
+            "7 puntos",
+            "9 puntos",
+            "10 puntos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Un recién nacido con extremidades cianóticas pero parámetros normales puede obtener una puntuación de 9 en el test de Apgar. Recuerda: el color afecta el parámetro de apariencia, asignando 1 punto si hay cianosis en extremidades."
+    },
+    {
+        "enunciado": "¿Qué acción es clave si el test de Apgar indica puntuaciones de 4 al primer minuto y 6 al quinto minuto?",
+        "opciones": [
+            "Proporcionar soporte respiratorio continuo y reevaluar",
+            "Concluir que el recién nacido está en condición normal",
+            "Suspender todas las medidas de soporte",
+            "Derivar directamente a cuidados intensivos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Puntuaciones de 4 y 6 indican la necesidad de soporte continuo y reevaluación. Recuerda: 4-6 requiere intervención moderada y monitoreo, mientras que 0-3 es emergencia médica."
+    },
+    {
+        "enunciado": "¿Qué puntuación de Apgar en el quinto minuto es típica de un recién nacido sano y bien adaptado?",
+        "opciones": [
+            "3 puntos",
+            "5 puntos",
+            "8 puntos",
+            "10 puntos"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Una puntuación de 10 en el quinto minuto indica una excelente adaptación del recién nacido. Recuerda: 7-10 es normal, mientras que puntuaciones menores requieren observación o intervención."
+    },
+    {
+        "enunciado": "¿Qué mide el parámetro 'esfuerzo respiratorio' en el test de Apgar?",
+        "opciones": [
+            "La calidad y vigor de las respiraciones del recién nacido",
+            "El tono muscular del recién nacido",
+            "El ritmo cardíaco del recién nacido",
+            "La coloración de la piel del recién nacido"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El 'esfuerzo respiratorio' mide la calidad y vigor de las respiraciones del recién nacido. Recuerda: otros parámetros incluyen tono muscular, ritmo cardíaco, reflejo de irritabilidad y coloración."
+    },
+    {
+        "enunciado": "¿Qué evalúa el parámetro 'tono muscular' en el test de Apgar?",
+        "opciones": [
+            "La flexión de extremidades y movimientos activos",
+            "La calidad del esfuerzo respiratorio",
+            "El ritmo cardíaco por minuto",
+            "La coloración de la piel del recién nacido"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El 'tono muscular' evalúa la flexión de extremidades y los movimientos activos. Recuerda: el test de Apgar también mide esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y coloración."
+    },
+    {
+        "enunciado": "¿Qué mide el parámetro 'ritmo cardíaco' en el test de Apgar?",
+        "opciones": [
+            "La frecuencia de los latidos por minuto",
+            "La calidad del esfuerzo respiratorio",
+            "El tono muscular durante el primer minuto",
+            "La respuesta al estímulo táctil"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El 'ritmo cardíaco' mide la frecuencia de los latidos por minuto. Recuerda: otros parámetros del Apgar incluyen esfuerzo respiratorio, tono muscular, reflejo de irritabilidad y coloración."
+    },
+    {
+        "enunciado": "¿Qué evalúa el parámetro 'apariencia' en el test de Apgar?",
+        "opciones": [
+            "La coloración de la piel del recién nacido",
+            "La calidad del esfuerzo respiratorio",
+            "La respuesta al estímulo doloroso",
+            "La frecuencia cardíaca por minuto"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro 'apariencia' mide la coloración de la piel del recién nacido. Recuerda: otros parámetros incluyen esfuerzo respiratorio, tono muscular, ritmo cardíaco y reflejo de irritabilidad."
+    },
+    {
+        "enunciado": "¿Qué evalúa el parámetro 'reflejo de irritabilidad' en el test de Apgar?",
+        "opciones": [
+            "La respuesta del recién nacido a estímulos externos",
+            "La calidad del esfuerzo respiratorio",
+            "El tono muscular durante la evaluación",
+            "La coloración de la piel del recién nacido"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro 'reflejo de irritabilidad' evalúa la respuesta del recién nacido a estímulos externos. Recuerda: otros parámetros incluyen esfuerzo respiratorio, tono muscular, ritmo cardíaco y coloración."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes parámetros NO se evalúa en el test de Apgar?",
+        "opciones": [
+            "Esfuerzo respiratorio",
+            "Tono muscular",
+            "Temperatura corporal",
+            "Ritmo cardíaco"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar no evalúa la temperatura corporal, sino esfuerzo respiratorio, tono muscular, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración)."
+    },
+    {
+        "enunciado": "¿Qué mide el parámetro 'apariencia' o 'coloración' en el test de Apgar?",
+        "opciones": [
+            "La respuesta del recién nacido a estímulos externos",
+            "La coloración de la piel del recién nacido, evaluando cianosis o tonalidad rosada",
+            "La calidad y vigor de las respiraciones",
+            "El tono muscular del recién nacido"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro 'apariencia' mide la coloración de la piel del recién nacido, evaluando cianosis o tonalidad rosada. Recuerda: otros parámetros son esfuerzo respiratorio, tono muscular, ritmo cardíaco y reflejo de irritabilidad."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Apgar mide la respuesta al estímulo táctil?",
+        "opciones": [
+            "Reflejo de irritabilidad",
+            "Esfuerzo respiratorio",
+            "Tono muscular",
+            "Apariencia"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El parámetro 'reflejo de irritabilidad' mide la respuesta al estímulo táctil. Recuerda: 0 puntos si no hay respuesta, 1 punto si hay una mueca o respuesta débil, y 2 puntos si hay llanto vigoroso o retirada activa."
+    },
+    {
+        "enunciado": "¿Qué mide el parámetro 'tono muscular' en el test de Apgar?",
+        "opciones": [
+            "La flexión y el movimiento de las extremidades del recién nacido",
+            "La regularidad de la respiración",
+            "La frecuencia cardíaca del recién nacido",
+            "La capacidad de reaccionar a estímulos externos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El 'tono muscular' mide la flexión y el movimiento de las extremidades del recién nacido. Recuerda: otros parámetros incluyen esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración)."
+    },
+    {
+        "enunciado": "¿Cuáles son los parámetros que mide el test de Apgar?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia respiratoria, temperatura corporal, peso al nacer, tono muscular, apariencia (coloración)",
+            "Reflejo de succión, tono muscular, frecuencia cardíaca, saturación de oxígeno, peso al nacer",
+            "Frecuencia cardíaca, esfuerzo respiratorio, reflejo de succión, perímetro cefálico, temperatura corporal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar evalúa cinco parámetros: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Esto permite una valoración rápida de la adaptación del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué aspectos incluye el test de Apgar para evaluar la adaptación del recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Esfuerzo respiratorio, frecuencia cardíaca, reflejo de succión, coloración, perímetro cefálico",
+            "Ritmo cardíaco, tono muscular, reflejo de marcha, frecuencia respiratoria, color de piel",
+            "Reflejo de irritabilidad, temperatura corporal, peso al nacer, tono muscular, frecuencia cardíaca"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Los cinco aspectos evaluados en el test de Apgar son: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Estos se puntúan para determinar el estado del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué parámetros del test de Apgar se puntúan para evaluar al recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Esfuerzo respiratorio, temperatura corporal, peso al nacer, reflejo de succión, color de piel",
+            "Reflejo de irritabilidad, tono muscular, frecuencia respiratoria, perímetro cefálico, ritmo cardíaco",
+            "Ritmo cardíaco, frecuencia respiratoria, reflejo de marcha, peso, saturación de oxígeno"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar mide cinco parámetros: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Estos valores se suman para obtener una puntuación total."
+    },
+    {
+        "enunciado": "¿Qué aspectos son evaluados por el test de Apgar al primer y quinto minuto?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia respiratoria, tono muscular, perímetro cefálico, color de piel, reflejo de succión",
+            "Tono muscular, esfuerzo respiratorio, reflejo de marcha, frecuencia cardíaca, peso al nacer",
+            "Apariencia (coloración), temperatura corporal, esfuerzo respiratorio, frecuencia cardíaca, reflejo de succión"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar al primer y quinto minuto evalúa: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Cada parámetro se puntúa de 0 a 2."
+    },
+    {
+        "enunciado": "¿Qué cinco áreas incluye el test de Apgar para valorar al recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia respiratoria, tono muscular, peso al nacer, temperatura corporal, reflejo de succión",
+            "Esfuerzo respiratorio, frecuencia cardíaca, reflejo de marcha, tono muscular, perímetro cefálico",
+            "Ritmo cardíaco, reflejo de irritabilidad, peso al nacer, temperatura corporal, saturación de oxígeno"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar incluye cinco áreas clave: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Estas se puntúan para valorar la condición del recién nacido."
+    },
+    {
+        "enunciado": "¿Cuáles son los cinco parámetros que evalúa el test de Apgar?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Peso al nacer, perímetro cefálico, frecuencia cardíaca, reflejo de succión, temperatura corporal",
+            "Frecuencia respiratoria, tono muscular, reflejo de marcha, reflejo de succión, coloración de la piel",
+            "Tono muscular, reflejo de irritabilidad, frecuencia cardíaca, peso al nacer, temperatura corporal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar evalúa cinco parámetros: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Es una herramienta rápida para valorar la condición del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué áreas se incluyen en el test de Apgar para evaluar la adaptación del recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia respiratoria, peso al nacer, reflejo de marcha, color de piel, saturación de oxígeno",
+            "Tono muscular, frecuencia cardíaca, temperatura corporal, peso, perímetro cefálico",
+            "Ritmo cardíaco, reflejo de succión, frecuencia respiratoria, tono muscular, saturación de oxígeno"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar incluye: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Estas áreas se puntúan de 0 a 2 cada una."
+    },
+    {
+        "enunciado": "¿Qué cinco parámetros evalúa el test de Apgar al primer y quinto minuto?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Tono muscular, frecuencia respiratoria, peso al nacer, temperatura corporal, reflejo de succión",
+            "Frecuencia cardíaca, reflejo de marcha, peso al nacer, reflejo de succión, color de piel",
+            "Esfuerzo respiratorio, ritmo cardíaco, perímetro cefálico, tono muscular, temperatura corporal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Los cinco parámetros del test de Apgar son: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Se utilizan para valorar la adaptación del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué parámetros analiza el test de Apgar para puntuar al recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Peso al nacer, reflejo de marcha, frecuencia respiratoria, tono muscular, perímetro cefálico",
+            "Frecuencia cardíaca, saturación de oxígeno, reflejo de succión, temperatura corporal, peso al nacer",
+            "Ritmo cardíaco, reflejo de irritabilidad, frecuencia respiratoria, tono muscular, perímetro cefálico"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar analiza cinco parámetros: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Cada uno contribuye a una valoración rápida del estado del recién nacido."
+    },
+    {
+        "enunciado": "¿Cuáles son los componentes evaluados en el test de Apgar?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia respiratoria, temperatura corporal, peso al nacer, reflejo de succión, perímetro cefálico",
+            "Tono muscular, reflejo de marcha, frecuencia cardíaca, reflejo de succión, saturación de oxígeno",
+            "Esfuerzo respiratorio, ritmo cardíaco, temperatura corporal, peso al nacer, reflejo de irritabilidad"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "Los cinco componentes del test de Apgar son: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Son esenciales para una evaluación inicial rápida."
+    },
+    {
+        "enunciado": "¿Qué incluye el test de Apgar como parámetros para puntuar la condición del recién nacido?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Peso al nacer, frecuencia cardíaca, temperatura corporal, perímetro cefálico, reflejo de marcha",
+            "Frecuencia respiratoria, tono muscular, reflejo de succión, coloración de la piel, saturación de oxígeno",
+            "Ritmo cardíaco, reflejo de irritabilidad, peso al nacer, temperatura corporal, tono muscular"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar incluye cinco parámetros: tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Cada uno se puntúa para obtener una valoración rápida del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué cinco aspectos son fundamentales en el test de Apgar?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Peso al nacer, reflejo de succión, frecuencia cardíaca, coloración de la piel, temperatura corporal",
+            "Esfuerzo respiratorio, tono muscular, reflejo de marcha, frecuencia respiratoria, saturación de oxígeno",
+            "Ritmo cardíaco, temperatura corporal, reflejo de irritabilidad, peso al nacer, tono muscular"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar evalúa tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración). Estos parámetros son esenciales para determinar la condición inicial del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué mide el test de Apgar al primer y quinto minuto?",
+        "opciones": [
+            "Tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad, apariencia (coloración)",
+            "Frecuencia cardíaca, peso al nacer, reflejo de succión, coloración de la piel, temperatura corporal",
+            "Ritmo cardíaco, frecuencia respiratoria, perímetro cefálico, reflejo de marcha, tono muscular",
+            "Esfuerzo respiratorio, tono muscular, saturación de oxígeno, reflejo de irritabilidad, temperatura corporal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_apgar"
+        ],
+        "feedback": "El test de Apgar mide tono muscular, esfuerzo respiratorio, ritmo cardíaco, reflejo de irritabilidad y apariencia (coloración) al primer y quinto minuto. Es crucial para valorar la adaptación inicial del recién nacido."
+    },
+    {
+        "enunciado": "¿Qué mide el test de Silverman en neonatos?",
+        "opciones": [
+            "El grado de dificultad respiratoria",
+            "La adaptación neurológica al nacimiento",
+            "El peso y la talla del recién nacido",
+            "La saturación de oxígeno arterial"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa el grado de dificultad respiratoria en neonatos, puntuando signos como retracciones y quejido respiratorio."
+    },
+    {
+        "enunciado": "¿Qué signo es evaluado en el test de Silverman para detectar dificultad respiratoria?",
+        "opciones": [
+            "Retracción xifoidea",
+            "Coloración de la piel",
+            "Frecuencia cardíaca",
+            "Reflejo de irritabilidad"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa la retracción xifoidea como uno de los cinco signos clave para valorar la dificultad respiratoria en neonatos."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Silverman indica ausencia de dificultad respiratoria?",
+        "opciones": [
+            "0",
+            "1",
+            "3",
+            "5"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 0 en el test de Silverman indica ausencia de dificultad respiratoria. A mayor puntuación, más grave es la dificultad."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa el parámetro 'aleteo nasal' en el test de Silverman?",
+        "opciones": [
+            "La flexión de las alas de la nariz durante la respiración",
+            "La simetría del movimiento respiratorio",
+            "La frecuencia respiratoria",
+            "La ausencia de esfuerzo en la respiración"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El 'aleteo nasal' evalúa la flexión de las alas de la nariz durante la respiración, un signo de dificultad respiratoria. Se puntúa según la intensidad."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de 10 en el test de Silverman?",
+        "opciones": [
+            "Ausencia de dificultad respiratoria",
+            "Dificultad respiratoria máxima",
+            "Dificultad respiratoria leve",
+            "Adaptación respiratoria completa"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 10 en el test de Silverman indica dificultad respiratoria máxima, lo que requiere intervención médica urgente."
+    },
+    {
+        "enunciado": "¿Qué signo se observa en el test de Silverman cuando hay asimetría en el movimiento toracoabdominal?",
+        "opciones": [
+            "Retracción xifoidea",
+            "Disociación toracoabdominal",
+            "Aleteo nasal",
+            "Quejido respiratorio"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La disociación toracoabdominal se evalúa en el test de Silverman cuando hay asimetría entre el movimiento del tórax y el abdomen, un signo de dificultad respiratoria."
+    },
+    {
+        "enunciado": "¿Qué significa un quejido respiratorio audible en el test de Silverman?",
+        "opciones": [
+            "Ausencia de dificultad respiratoria",
+            "Un signo de dificultad respiratoria moderada a severa",
+            "Un problema cardíaco subyacente",
+            "Una respiración normal en neonatos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Un quejido respiratorio audible indica dificultad respiratoria moderada a severa y es un signo importante en el test de Silverman."
+    },
+    {
+        "enunciado": "¿Qué acción es necesaria si un recién nacido tiene una puntuación de Silverman de 6?",
+        "opciones": [
+            "Reevaluar en 6 horas sin intervención",
+            "Iniciar medidas de soporte respiratorio",
+            "Considerar la evaluación como normal",
+            "Solo observar al recién nacido sin intervenciones"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de Silverman de 6 indica dificultad respiratoria significativa, requiriendo medidas de soporte respiratorio y vigilancia estrecha."
+    },
+    {
+        "enunciado": "¿Qué parámetro evalúa la retracción intercostal en el test de Silverman?",
+        "opciones": [
+            "El esfuerzo para respirar observado en el espacio entre las costillas",
+            "La frecuencia respiratoria",
+            "La simetría del tórax al respirar",
+            "El flujo de oxígeno inspirado"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La retracción intercostal mide el esfuerzo respiratorio observado en los espacios intercostales. Es un signo de dificultad respiratoria en el test de Silverman."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación baja en el test de Silverman?",
+        "opciones": [
+            "Menor gravedad de la dificultad respiratoria",
+            "Mayor gravedad de la dificultad respiratoria",
+            "Riesgo de insuficiencia cardíaca",
+            "Necesidad inmediata de ventilación mecánica"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación baja en el test de Silverman indica menor gravedad de la dificultad respiratoria. A medida que aumenta la puntuación, mayor es el esfuerzo respiratorio."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Silverman evalúa el movimiento del tórax y abdomen durante la respiración?",
+        "opciones": [
+            "Disociación toracoabdominal",
+            "Retracción intercostal",
+            "Aleteo nasal",
+            "Quejido respiratorio"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa la disociación toracoabdominal, que ocurre cuando el tórax y el abdomen no se mueven de manera sincronizada, indicando dificultad respiratoria."
+    },
+    {
+        "enunciado": "¿Qué puntuación en la retracción xifoidea indica ausencia de dificultad respiratoria en el test de Silverman?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 0 en la retracción xifoidea indica ausencia de dificultad respiratoria. Una puntuación de 1 o 2 refleja una mayor gravedad del esfuerzo respiratorio."
+    },
+    {
+        "enunciado": "¿Qué signo en el test de Silverman se caracteriza por un ruido respiratorio audible sin fonendoscopio?",
+        "opciones": [
+            "Quejido respiratorio",
+            "Aleteo nasal",
+            "Retracción intercostal",
+            "Disociación toracoabdominal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El quejido respiratorio es un ruido audible sin fonendoscopio y es un signo de dificultad respiratoria severa en el test de Silverman."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el test de Silverman indica dificultad respiratoria leve?",
+        "opciones": [
+            "0 a 1",
+            "2 a 3",
+            "4 a 5",
+            "6 a 7"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 2 a 3 en el test de Silverman indica dificultad respiratoria leve. Puntuaciones mayores indican mayor severidad."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Silverman evalúa el esfuerzo observado entre las costillas durante la respiración?",
+        "opciones": [
+            "Retracción intercostal",
+            "Retracción xifoidea",
+            "Disociación toracoabdominal",
+            "Aleteo nasal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La retracción intercostal mide el esfuerzo respiratorio visible en los espacios intercostales. Es un indicador de dificultad respiratoria."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de 5 en el test de Silverman?",
+        "opciones": [
+            "Dificultad respiratoria moderada",
+            "Dificultad respiratoria leve",
+            "Ausencia de dificultad respiratoria",
+            "Dificultad respiratoria máxima"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 5 en el test de Silverman indica dificultad respiratoria moderada, que requiere intervención médica y monitoreo."
+    },
+    {
+        "enunciado": "¿Qué valor del test de Silverman indica ausencia total de dificultad respiratoria?",
+        "opciones": [
+            "0",
+            "3",
+            "5",
+            "10"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 0 en el test de Silverman indica ausencia total de dificultad respiratoria. A mayor puntuación, mayor es la gravedad."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes signos es evaluado en el test de Silverman?",
+        "opciones": [
+            "Retracción intercostal",
+            "Reflejo de succión",
+            "Frecuencia respiratoria",
+            "Coloración de la piel"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La retracción intercostal es uno de los cinco signos evaluados en el test de Silverman para determinar la dificultad respiratoria en neonatos."
+    },
+    {
+        "enunciado": "¿Qué acción es necesaria si un recién nacido tiene una puntuación de 7 en el test de Silverman?",
+        "opciones": [
+            "Iniciar ventilación mecánica inmediata",
+            "Observar sin intervención adicional",
+            "Proporcionar medidas de soporte respiratorio y vigilancia intensiva",
+            "Realizar una reevaluación a las 24 horas"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 7 en el test de Silverman indica dificultad respiratoria severa, requiriendo medidas de soporte respiratorio y vigilancia intensiva."
+    },
+    {
+        "enunciado": "¿Qué signo del test de Silverman evalúa la dilatación de las fosas nasales durante la respiración?",
+        "opciones": [
+            "Aleteo nasal",
+            "Retracción xifoidea",
+            "Quejido respiratorio",
+            "Disociación toracoabdominal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El aleteo nasal evalúa la dilatación de las fosas nasales durante la respiración, indicando esfuerzo respiratorio aumentado."
+    },
+    {
+        "enunciado": "¿Qué signo del test de Silverman se relaciona con la observación de hundimiento en la base del esternón?",
+        "opciones": [
+            "Retracción xifoidea",
+            "Disociación toracoabdominal",
+            "Quejido respiratorio",
+            "Retracción intercostal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La retracción xifoidea se observa como un hundimiento en la base del esternón durante la respiración, indicando dificultad respiratoria. Recuerda: el test de Silverman evalúa 5 signos: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio."
+    },
+    {
+        "enunciado": "¿Qué aspecto se evalúa cuando se observa una falta de coordinación entre el tórax y el abdomen durante la respiración?",
+        "opciones": [
+            "Disociación toracoabdominal",
+            "Retracción intercostal",
+            "Quejido respiratorio",
+            "Aleteo nasal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La disociación toracoabdominal evalúa la falta de coordinación entre los movimientos del tórax y el abdomen, indicando dificultad respiratoria. Recuerda: este es uno de los cinco parámetros del test de Silverman, que también incluye aleteo nasal y retracciones."
+    },
+    {
+        "enunciado": "¿Qué acción es prioritaria si un recién nacido tiene una puntuación de 9 en el test de Silverman?",
+        "opciones": [
+            "Iniciar ventilación mecánica inmediata",
+            "Observar durante 24 horas sin intervención",
+            "Reevaluar al recién nacido cada 4 horas",
+            "Administrar oxígeno suplementario y monitoreo intensivo"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 9 en el test de Silverman indica dificultad respiratoria máxima, requiriendo ventilación mecánica inmediata. Recuerda: puntuaciones de 7 a 10 indican insuficiencia respiratoria severa que requiere intervención urgente."
+    },
+    {
+        "enunciado": "¿Qué valor en el test de Silverman refleja dificultad respiratoria severa?",
+        "opciones": [
+            "6 a 7 puntos",
+            "0 puntos",
+            "1 a 2 puntos",
+            "10 puntos"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 10 en el test de Silverman refleja dificultad respiratoria severa. Recuerda: 0 indica ausencia de dificultad, 1-3 leve, 4-6 moderada y 7-10 severa."
+    },
+    {
+        "enunciado": "¿Qué indica una puntuación de 3 en el test de Silverman?",
+        "opciones": [
+            "Dificultad respiratoria leve",
+            "Dificultad respiratoria moderada",
+            "Ausencia de dificultad respiratoria",
+            "Dificultad respiratoria severa"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 3 en el test de Silverman indica dificultad respiratoria leve, que puede requerir observación y soporte básico. Recuerda: puntuaciones mayores indican mayor gravedad del esfuerzo respiratorio."
+    },
+    {
+        "enunciado": "¿Qué signo en el test de Silverman se identifica por la separación anormal de los movimientos del tórax y el abdomen?",
+        "opciones": [
+            "Disociación toracoabdominal",
+            "Retracción xifoidea",
+            "Aleteo nasal",
+            "Quejido respiratorio"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La disociación toracoabdominal refleja una separación anormal entre los movimientos del tórax y el abdomen, un signo de dificultad respiratoria. Recuerda: el test de Silverman también evalúa retracciones, aleteo nasal y quejido."
+    },
+    {
+        "enunciado": "¿Qué acción debe tomarse si un recién nacido tiene aleteo nasal moderado según el test de Silverman?",
+        "opciones": [
+            "Proveer oxígeno suplementario y evaluar otros signos",
+            "Esperar sin intervención durante 12 horas",
+            "Derivar a cuidados intensivos neonatales de inmediato",
+            "Reevaluar en 24 horas sin intervención inicial"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El aleteo nasal moderado puede indicar esfuerzo respiratorio aumentado, lo que justifica la administración de oxígeno suplementario y evaluación adicional. Recuerda: el aleteo nasal es uno de los cinco signos clave del test de Silverman."
+    },
+    {
+        "enunciado": "¿Qué significa una puntuación de 8 en el test de Silverman?",
+        "opciones": [
+            "Dificultad respiratoria severa",
+            "Dificultad respiratoria leve",
+            "Dificultad respiratoria moderada",
+            "Adaptación respiratoria normal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 8 en el test de Silverman indica dificultad respiratoria severa y requiere intervenciones médicas urgentes. Recuerda: el test evalúa parámetros como aleteo nasal, retracciones y quejido respiratorio."
+    },
+    {
+        "enunciado": "¿Qué parámetro del test de Silverman evalúa los movimientos sincronizados entre tórax y abdomen?",
+        "opciones": [
+            "Disociación toracoabdominal",
+            "Retracción intercostal",
+            "Retracción xifoidea",
+            "Aleteo nasal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "La disociación toracoabdominal evalúa la sincronización entre el tórax y el abdomen, siendo un signo de dificultad respiratoria si están descoordinados. Recuerda: puntuaciones mayores en este parámetro indican mayor gravedad."
+    },
+    {
+        "enunciado": "¿Qué puntuación del test de Silverman indica que no hay retracción intercostal?",
+        "opciones": [
+            "0 puntos",
+            "1 punto",
+            "2 puntos",
+            "3 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Una puntuación de 0 puntos en la retracción intercostal indica que no hay retracción, lo cual es un signo de respiración normal. Recuerda: 1 o 2 puntos reflejan retracción leve o severa, respectivamente."
+    },
+    {
+        "enunciado": "¿Qué parámetros evalúa el test de Silverman para medir la dificultad respiratoria en neonatos?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, coloración de la piel, tono muscular, reflejo de irritabilidad y peso al nacer",
+            "Reflejo de succión, saturación de oxígeno, aleteo nasal, temperatura corporal y retracción intercostal",
+            "Ritmo cardíaco, reflejo de marcha, movimiento torácico, disociación toracoabdominal y coloración de la piel"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa cinco parámetros: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Cada uno de estos se puntúa de 0 (sin alteración) a 2 (máxima alteración)."
+    },
+    {
+        "enunciado": "¿Cuáles son los cinco signos observados en el test de Silverman para determinar la dificultad respiratoria?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, tono muscular, reflejo de marcha, reflejo de succión y coloración de la piel",
+            "Aleteo nasal, saturación de oxígeno, disociación toracoabdominal, peso al nacer y perímetro cefálico",
+            "Ritmo cardíaco, reflejo de irritabilidad, retracción intercostal, reflejo de succión y movimiento torácico"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman observa cinco signos: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Esto permite valorar el esfuerzo respiratorio y la gravedad de la dificultad."
+    },
+    {
+        "enunciado": "¿Qué apartados específicos se evalúan en el test de Silverman?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, reflejo de succión, tono muscular, perímetro cefálico y peso al nacer",
+            "Saturación de oxígeno, aleteo nasal, coloración de la piel, reflejo de irritabilidad y frecuencia respiratoria",
+            "Ritmo cardíaco, disociación toracoabdominal, reflejo de marcha, retracción intercostal y temperatura corporal"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Los apartados evaluados en el test de Silverman son: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Cada signo se puntúa de 0 a 2 según la gravedad."
+    },
+    {
+        "enunciado": "¿Qué evalúa el test de Silverman en un recién nacido con dificultad respiratoria?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, tono muscular, coloración de la piel, saturación de oxígeno y reflejo de succión",
+            "Aleteo nasal, peso al nacer, movimiento torácico, disociación toracoabdominal y temperatura corporal",
+            "Ritmo cardíaco, reflejo de marcha, retracción intercostal, reflejo de succión y coloración de la piel"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa cinco apartados clave para identificar dificultad respiratoria: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio."
+    },
+    {
+        "enunciado": "¿Qué componentes forman parte del test de Silverman para valorar la dificultad respiratoria neonatal?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, tono muscular, reflejo de succión, peso al nacer y movimiento torácico",
+            "Ritmo cardíaco, retracción intercostal, reflejo de irritabilidad, aleteo nasal y saturación de oxígeno",
+            "Disociación toracoabdominal, peso al nacer, quejido respiratorio, reflejo de marcha y frecuencia respiratoria"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Los componentes del test de Silverman son: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Este test mide la severidad de la dificultad respiratoria."
+    },
+    {
+        "enunciado": "¿Qué parámetros son clave en el test de Silverman para determinar el esfuerzo respiratorio en un neonato?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, reflejo de marcha, peso al nacer, tono muscular y coloración de la piel",
+            "Aleteo nasal, saturación de oxígeno, disociación toracoabdominal, temperatura corporal y movimiento torácico",
+            "Ritmo cardíaco, retracción intercostal, quejido respiratorio, reflejo de succión y perímetro cefálico"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman utiliza cinco parámetros: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio para valorar la dificultad respiratoria neonatal."
+    },
+    {
+        "enunciado": "¿Qué incluye el test de Silverman para valorar el estado respiratorio del recién nacido?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Peso al nacer, frecuencia respiratoria, reflejo de irritabilidad, tono muscular y saturación de oxígeno",
+            "Ritmo cardíaco, disociación toracoabdominal, retracción intercostal, movimiento torácico y reflejo de marcha",
+            "Aleteo nasal, reflejo de succión, frecuencia respiratoria, coloración de la piel y perímetro cefálico"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "El test de Silverman evalúa aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Cada parámetro se puntúa para medir la severidad de la dificultad respiratoria."
+    },
+    {
+        "enunciado": "¿Qué apartados forman parte del test de Silverman para detectar problemas respiratorios en neonatos?",
+        "opciones": [
+            "Aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio",
+            "Frecuencia respiratoria, coloración de la piel, tono muscular, peso al nacer y reflejo de marcha",
+            "Ritmo cardíaco, retracción intercostal, reflejo de succión, aleteo nasal y movimiento torácico",
+            "Aleteo nasal, saturación de oxígeno, disociación toracoabdominal, temperatura corporal y reflejo de irritabilidad"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema48",
+            "recien_nacido_sano",
+            "test_silverman"
+        ],
+        "feedback": "Los apartados del test de Silverman incluyen: aleteo nasal, retracción intercostal, retracción xifoidea, disociación toracoabdominal y quejido respiratorio. Este test evalúa la gravedad de la dificultad respiratoria."
+    }
+]
