@@ -157,8 +157,8 @@ function App() {
             { title: '•7: Igualdad género y violencia: principios, políticas, formación y planes', archivo: 'tema7.json', bloque: 9 },
             { title: '•8: Estatuto personal sanitario: derechos, deberes, movilidad, retribuciones, régimen', archivo: 'tema8.json', bloque: 9 },
             { title: '•9: Autonomía del paciente: información, intimidad, derechos y documentación clínica', archivo: 'tema9.json', bloque: 9 },
-            { title: '11: El Sistema Nacional de Salud. Ley 16/2003, cohesión SNS', archivo: 'tema11.json', bloque: 9 },
-            { title: '16: Formación y desarrollo profesional. Ley 44/2003', archivo: 'tema16.json', bloque: 9 },
+            { title: '•11: El Sistema Nacional de Salud. Ley 16/2003, cohesión SNS', archivo: 'tema11.json', bloque: 9 },
+            { title: '•16: Formación y desarrollo profesional. Ley 44/2003', archivo: 'tema16.json', bloque: 9 },
             { title: '74: Calidad asistencial. Calidad asistencial', archivo: 'tema74.json', bloque: 9 }
         ],
     };
