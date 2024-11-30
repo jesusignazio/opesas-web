@@ -749,457 +749,754 @@
         ],
         "feedback": "El artículo 35.1 reconoce el derecho al trabajo, a una remuneración adecuada y a la promoción profesional mediante el ejercicio del mismo."
     },
-    
-        {
-            "enunciado": "Según el artículo 3.2 de la Constitución Española de 1978, ¿qué establece sobre las lenguas oficiales en las Comunidades Autónomas?",
-            "opciones": [
-                "El castellano es la única lengua oficial en todo el territorio español",
-                "Cada Comunidad Autónoma puede declarar una lengua oficial mediante ley orgánica",
-                "Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas según sus Estatutos",
-                "Las lenguas cooficiales solo se reconocen a nivel cultural, no administrativo"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 3.2 establece que las demás lenguas españolas serán oficiales en las Comunidades Autónomas según lo dispuesto en sus Estatutos."
-        },
-        {
-            "enunciado": "Conforme al artículo 9.1 de la Constitución Española de 1978, ¿a qué están sujetos los ciudadanos y los poderes públicos?",
-            "opciones": [
-                "A la autoridad exclusiva del Tribunal Constitucional",
-                "A los derechos y deberes fundamentales establecidos en el Título I",
-                "A la Constitución y al resto del ordenamiento jurídico",
-                "A las leyes orgánicas exclusivamente"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 9.1 establece que tanto los ciudadanos como los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico."
-        },
-        {
-            "enunciado": "En la Constitución Española de 1978, ¿qué establece el artículo 27.4 sobre la enseñanza básica?",
-            "opciones": [
-                "Que será gratuita y obligatoria",
-                "Que será gratuita pero no obligatoria",
-                "Que dependerá de la legislación de las Comunidades Autónomas",
-                "Que solo será obligatoria en centros públicos"
-            ],
-            "correcta": 0,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 27.4 establece que la enseñanza básica es obligatoria y gratuita."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 31 de la Constitución Española de 1978, ¿qué principios deben regir el sistema tributario español?",
-            "opciones": [
-                "Proporcionalidad y equidad",
-                "Eficiencia y confiscatoriedad",
-                "Igualdad y progresividad, sin alcance confiscatorio",
-                "Centralización y justicia distributiva"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 31 establece que el sistema tributario debe basarse en los principios de igualdad y progresividad, sin que pueda tener alcance confiscatorio."
-        },
-        {
-            "enunciado": "Según el artículo 55.1 de la Constitución Española de 1978, ¿en qué circunstancias pueden suspenderse algunos derechos fundamentales?",
-            "opciones": [
-                "Durante la aplicación de medidas preventivas de salud pública",
-                "En casos de emergencia económica nacional",
-                "Cuando se declare el estado de excepción o de sitio",
-                "Bajo orden directa de un Ministro competente"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 55.1 establece que algunos derechos fundamentales pueden suspenderse durante la declaración de los estados de excepción o de sitio."
-        },
-        {
-            "enunciado": "En el artículo 45.2 de la Constitución Española de 1978, ¿qué obligación tienen los poderes públicos respecto al medio ambiente?",
-            "opciones": [
-                "Garantizar la creación de áreas naturales protegidas",
-                "Promover la utilización racional de los recursos naturales para proteger y mejorar la calidad de vida",
-                "Asegurar el acceso universal al agua potable",
-                "Fomentar exclusivamente el reciclaje en el ámbito urbano"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 45.2 señala que los poderes públicos deben velar por la utilización racional de los recursos naturales para proteger y mejorar la calidad de vida."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 40.1 de la Constitución Española de 1978, ¿qué objetivo persiguen los poderes públicos en el ámbito económico y social?",
-            "opciones": [
-                "Lograr una economía centralizada y estable",
-                "Promover el pleno empleo y una distribución más equitativa de la renta",
-                "Fomentar exclusivamente el crecimiento industrial",
-                "Garantizar la autonomía económica de las Comunidades Autónomas"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 40.1 establece que los poderes públicos deben promover el pleno empleo y una distribución más equitativa de la renta dentro de una política de estabilidad económica."
-        },
-        {
-            "enunciado": "En el artículo 28.2 de la Constitución Española de 1978, ¿qué derecho se reconoce específicamente a los trabajadores?",
-            "opciones": [
-                "El derecho a un salario mínimo vital",
-                "El derecho a la huelga para la defensa de sus intereses",
-                "El derecho a una jornada laboral reducida",
-                "El derecho a sindicarse obligatoriamente"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 28.2 reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses, con las limitaciones que establezca la ley."
-        },
-        {
-            "enunciado": "Conforme al artículo 11.2 de la Constitución Española de 1978, ¿qué principio se garantiza respecto a la nacionalidad española?",
-            "opciones": [
-                "Los españoles de origen no pueden ser privados de su nacionalidad",
-                "La nacionalidad puede perderse por razones políticas",
-                "La nacionalidad está supeditada al lugar de residencia",
-                "Los tratados internacionales no afectan la nacionalidad española"
-            ],
-            "correcta": 0,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 11.2 garantiza que ningún español de origen puede ser privado de su nacionalidad."
-        },
-        {
-            "enunciado": "Según el artículo 39.1 de la Constitución Española de 1978, ¿qué ámbito debe proteger integralmente el Estado?",
-            "opciones": [
-                "La igualdad entre hombres y mujeres",
-                "Los derechos de los trabajadores en el extranjero",
-                "La familia en los aspectos social, económico y jurídico",
-                "El acceso universal a la cultura"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 39.1 establece que los poderes públicos deben asegurar la protección social, económica y jurídica de la familia."
-        },
-        {
-            "enunciado": "Según el artículo 42 de la Constitución Española de 1978, ¿qué compromiso adquiere el Estado con los trabajadores españoles en el extranjero?",
-            "opciones": [
-                "Garantizar su integración en los sistemas de protección social de los países de acogida",
-                "Velar por sus derechos económicos y sociales, fomentando su retorno",
-                "Proveerles acceso gratuito a la educación y la sanidad en España",
-                "Regular exclusivamente su situación laboral en embajadas y consulados"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 42 establece que el Estado debe velar por los derechos económicos y sociales de los trabajadores españoles en el extranjero, orientando su política hacia su retorno."
-        },
-        {
-            "enunciado": "En el artículo 47 de la Constitución Española de 1978, ¿qué derecho relacionado con la vivienda se reconoce a todos los ciudadanos?",
-            "opciones": [
-                "El derecho a una vivienda en propiedad garantizada por el Estado",
-                "El derecho a disfrutar de una vivienda digna y adecuada",
-                "El derecho a recibir ayudas económicas para alquileres altos",
-                "El derecho a vivienda gratuita para personas sin ingresos"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 47 reconoce el derecho de todos los ciudadanos a disfrutar de una vivienda digna y adecuada, comprometiendo a los poderes públicos a promover las condiciones necesarias para ello."
-        },
-        {
-            "enunciado": "Según el artículo 45.3 de la Constitución Española de 1978, ¿qué responsabilidad tienen quienes dañen el medio ambiente?",
-            "opciones": [
-                "Ser excluidos de subvenciones estatales",
-                "Reparar el daño causado y afrontar sanciones penales o administrativas",
-                "Reforestar las áreas afectadas por su actividad",
-                "Abandonar las zonas protegidas sin compensación"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 45.3 establece que quienes violen las disposiciones de protección del medio ambiente deben reparar el daño causado y enfrentarse a sanciones penales o administrativas."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 38 de la Constitución Española de 1978, ¿qué se garantiza sobre la libertad de empresa?",
-            "opciones": [
-                "Que solo será ejercida bajo autorización previa del Gobierno",
-                "Que se protege dentro de la economía de mercado y bajo los principios de productividad",
-                "Que se limita a sectores estratégicos regulados por el Estado",
-                "Que excluye actividades internacionales"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 38 garantiza la libertad de empresa en el marco de la economía de mercado, asegurando su protección y defensa por parte de los poderes públicos."
-        },
-        {
-            "enunciado": "Según el artículo 16.3 de la Constitución Española de 1978, ¿qué principio establece sobre las confesiones religiosas?",
-            "opciones": [
-                "La Iglesia Católica será la religión oficial del Estado",
-                "Ninguna confesión tendrá carácter estatal",
-                "El Estado podrá regular las prácticas religiosas en espacios públicos",
-                "Las confesiones religiosas serán subvencionadas obligatoriamente"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 16.3 establece que ninguna confesión tendrá carácter estatal, garantizando la aconfesionalidad del Estado."
-        },
-        {
-            "enunciado": "En el artículo 36 de la Constitución Española de 1978, ¿qué se dispone sobre los Colegios Profesionales?",
-            "opciones": [
-                "Deben funcionar bajo la supervisión directa del Parlamento",
-                "Su estructura interna y funcionamiento deben ser democráticos",
-                "Solo pueden crearse mediante ley orgánica",
-                "Son órganos consultivos sin funciones ejecutivas"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 36 dispone que los Colegios Profesionales deben tener una estructura interna y un funcionamiento democráticos."
-        },
-        {
-            "enunciado": "Conforme al artículo 48 de la Constitución Española de 1978, ¿qué papel tienen los poderes públicos respecto a la juventud?",
-            "opciones": [
-                "Garantizar la gratuidad de la enseñanza superior",
-                "Promover condiciones para la participación libre y eficaz en el desarrollo político, social, económico y cultural",
-                "Restringir la participación juvenil en asuntos políticos hasta los 21 años",
-                "Establecer programas obligatorios de empleo juvenil"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 48 establece que los poderes públicos deben promover las condiciones necesarias para la participación libre y eficaz de la juventud en diversos ámbitos."
-        },
-        {
-            "enunciado": "Según el artículo 51.2 de la Constitución Española de 1978, ¿qué deben fomentar los poderes públicos respecto a los consumidores y usuarios?",
-            "opciones": [
-                "La creación de empresas de consumo",
-                "La información, educación y organización de consumidores",
-                "El control estatal de los precios de bienes de consumo",
-                "La eliminación de las asociaciones de consumidores"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 51.2 dispone que los poderes públicos deben fomentar la información, educación y organización de consumidores y usuarios."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 13.3 de la Constitución Española de 1978, ¿qué principio se aplica a la extradición de extranjeros en España?",
-            "opciones": [
-                "Solo se permite en casos de delitos de terrorismo",
-                "Debe cumplir tratados o leyes atendiendo al principio de reciprocidad",
-                "No está permitida bajo ninguna circunstancia",
-                "Requiere autorización del Parlamento y del Tribunal Constitucional"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 13.3 establece que la extradición de extranjeros se concede en cumplimiento de tratados o leyes, respetando el principio de reciprocidad."
-        },
-        {
-            "enunciado": "Según el artículo 35.2 de la Constitución Española de 1978, ¿qué debe regular la ley respecto al trabajo?",
-            "opciones": [
-                "La promoción exclusiva de empleos públicos",
-                "Un estatuto que garantice derechos y deberes laborales",
-                "La jornada laboral máxima de 40 horas semanales",
-                "La contratación obligatoria de mujeres y jóvenes"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 35.2 dispone que la ley debe regular un estatuto de los trabajadores que garantice sus derechos y deberes laborales."
-        },
-        {
-            "enunciado": "Según el artículo 43.1 de la Constitución Española de 1978, ¿qué derecho se reconoce específicamente relacionado con la salud?",
-            "opciones": [
-                "El derecho a recibir atención médica gratuita en todos los casos",
-                "El derecho a la protección de la salud",
-                "El derecho a medicamentos subvencionados",
-                "El derecho a elegir el sistema de salud privado o público"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.1 reconoce el derecho a la protección de la salud como un derecho fundamental promovido por los poderes públicos."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 43.2 de la Constitución Española de 1978, ¿qué medidas deben adoptar los poderes públicos para garantizar la salud pública?",
-            "opciones": [
-                "Organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias",
-                "Garantizar exclusivamente tratamientos médicos en hospitales públicos",
-                "Fomentar únicamente la investigación médica de alto nivel",
-                "Proveer seguros de salud obligatorios para todos los ciudadanos"
-            ],
-            "correcta": 0,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.2 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias."
-        },
-        {
-            "enunciado": "¿Qué fomento específico establece el artículo 43.3 de la Constitución Española de 1978 en relación con la educación física?",
-            "opciones": [
-                "La creación de instalaciones deportivas gratuitas en todos los municipios",
-                "El desarrollo de programas escolares de educación física obligatoria",
-                "El fomento de la educación física y el deporte como parte de la promoción de la salud",
-                "La subvención a clubes deportivos privados"
-            ],
-            "correcta": 2,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.3 indica que los poderes públicos fomentarán la educación física y el deporte como parte integral de la salud pública."
-        },
-        {
-            "enunciado": "Según el artículo 43 de la Constitución Española de 1978, ¿cómo deben los poderes públicos abordar la salud pública?",
-            "opciones": [
-                "Mediante una cobertura sanitaria gratuita para todos los residentes",
-                "Con medidas preventivas y prestaciones necesarias organizadas y tuteladas por ellos",
-                "Implementando únicamente campañas informativas sobre hábitos saludables",
-                "A través de la centralización total del sistema sanitario"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43 señala que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias."
-        },
-        {
-            "enunciado": "En el artículo 43.3 de la Constitución Española de 1978, ¿qué ámbito se incluye además de la salud pública y la educación física?",
-            "opciones": [
-                "La gestión de hospitales especializados",
-                "La adecuada utilización del ocio",
-                "La financiación de centros privados de salud",
-                "La formación de profesionales médicos en el extranjero"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.3 establece que los poderes públicos facilitarán la adecuada utilización del ocio como parte de sus competencias relacionadas con la salud."
-        },
-        {
-            "enunciado": "De acuerdo con el artículo 43 de la Constitución Española de 1978, ¿qué aspectos deben regular las leyes en relación con la salud pública?",
-            "opciones": [
-                "Únicamente la financiación de servicios sanitarios",
-                "Los derechos y deberes de todos en relación con la salud",
-                "La obligatoriedad del seguro médico privado",
-                "La distribución de los recursos sanitarios entre las Comunidades Autónomas"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43 establece que las leyes deben regular los derechos y deberes de todos en relación con la salud."
-        },
-        {
-            "enunciado": "Según el artículo 43.2 de la Constitución Española de 1978, ¿qué tipo de medidas deben adoptar los poderes públicos en materia de salud?",
-            "opciones": [
-                "Restricciones al acceso a servicios sanitarios privados",
-                "Medidas preventivas y prestaciones y servicios necesarios",
-                "Reducción de impuestos para el sector sanitario privado",
-                "Fomento exclusivo de medicamentos genéricos"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.2 señala que los poderes públicos deben adoptar medidas preventivas y asegurar prestaciones y servicios necesarios para la salud pública."
-        },
-        {
-            "enunciado": "En el marco del artículo 43.3 de la Constitución Española de 1978, ¿qué rol tienen los poderes públicos en el ámbito del deporte?",
-            "opciones": [
-                "Subvencionar únicamente competiciones de alto nivel",
-                "Fomentar el deporte como una herramienta de promoción de la salud pública",
-                "Proveer exclusivamente educación física a nivel universitario",
-                "Eliminar restricciones económicas para practicar deporte profesional"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar el deporte como parte de las políticas de promoción de la salud pública."
-        },
-        {
-            "enunciado": "Según el artículo 43.1 de la Constitución Española de 1978, ¿qué se garantiza a los ciudadanos en el ámbito de la salud?",
-            "opciones": [
-                "La atención médica gratuita en todos los niveles",
-                "El derecho a la protección de la salud",
-                "El acceso exclusivo a hospitales públicos",
-                "La gratuidad de todos los medicamentos"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43.1 garantiza a los ciudadanos el derecho a la protección de la salud, promovido por los poderes públicos."
-        },
-        {
-            "enunciado": "En el artículo 43 de la Constitución Española de 1978, ¿qué papel tiene la prevención en la organización de la salud pública?",
-            "opciones": [
-                "Es secundaria frente a la atención hospitalaria",
-                "Es un componente clave que los poderes públicos deben organizar y tutelar",
-                "Debe ser financiada exclusivamente por el sector privado",
-                "Es opcional dependiendo de la legislación autonómica"
-            ],
-            "correcta": 1,
-            "categorías": [
-                "tema1",
-                "Constitución"
-            ],
-            "feedback": "El artículo 43 establece que la prevención es una parte esencial de la salud pública que los poderes públicos deben organizar y tutelar."
-        },
-        
-    
+    {
+        "enunciado": "Según el artículo 3.2 de la Constitución Española de 1978, ¿qué establece sobre las lenguas oficiales en las Comunidades Autónomas?",
+        "opciones": [
+            "El castellano es la única lengua oficial en todo el territorio español",
+            "Cada Comunidad Autónoma puede declarar una lengua oficial mediante ley orgánica",
+            "Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas según sus Estatutos",
+            "Las lenguas cooficiales solo se reconocen a nivel cultural, no administrativo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 3.2 establece que las demás lenguas españolas serán oficiales en las Comunidades Autónomas según lo dispuesto en sus Estatutos."
+    },
+    {
+        "enunciado": "Conforme al artículo 9.1 de la Constitución Española de 1978, ¿a qué están sujetos los ciudadanos y los poderes públicos?",
+        "opciones": [
+            "A la autoridad exclusiva del Tribunal Constitucional",
+            "A los derechos y deberes fundamentales establecidos en el Título I",
+            "A la Constitución y al resto del ordenamiento jurídico",
+            "A las leyes orgánicas exclusivamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 9.1 establece que tanto los ciudadanos como los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico."
+    },
+    {
+        "enunciado": "En la Constitución Española de 1978, ¿qué establece el artículo 27.4 sobre la enseñanza básica?",
+        "opciones": [
+            "Que será gratuita y obligatoria",
+            "Que será gratuita pero no obligatoria",
+            "Que dependerá de la legislación de las Comunidades Autónomas",
+            "Que solo será obligatoria en centros públicos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 27.4 establece que la enseñanza básica es obligatoria y gratuita."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 31 de la Constitución Española de 1978, ¿qué principios deben regir el sistema tributario español?",
+        "opciones": [
+            "Proporcionalidad y equidad",
+            "Eficiencia y confiscatoriedad",
+            "Igualdad y progresividad, sin alcance confiscatorio",
+            "Centralización y justicia distributiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 31 establece que el sistema tributario debe basarse en los principios de igualdad y progresividad, sin que pueda tener alcance confiscatorio."
+    },
+    {
+        "enunciado": "Según el artículo 55.1 de la Constitución Española de 1978, ¿en qué circunstancias pueden suspenderse algunos derechos fundamentales?",
+        "opciones": [
+            "Durante la aplicación de medidas preventivas de salud pública",
+            "En casos de emergencia económica nacional",
+            "Cuando se declare el estado de excepción o de sitio",
+            "Bajo orden directa de un Ministro competente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 55.1 establece que algunos derechos fundamentales pueden suspenderse durante la declaración de los estados de excepción o de sitio."
+    },
+    {
+        "enunciado": "En el artículo 45.2 de la Constitución Española de 1978, ¿qué obligación tienen los poderes públicos respecto al medio ambiente?",
+        "opciones": [
+            "Garantizar la creación de áreas naturales protegidas",
+            "Promover la utilización racional de los recursos naturales para proteger y mejorar la calidad de vida",
+            "Asegurar el acceso universal al agua potable",
+            "Fomentar exclusivamente el reciclaje en el ámbito urbano"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 45.2 señala que los poderes públicos deben velar por la utilización racional de los recursos naturales para proteger y mejorar la calidad de vida."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 40.1 de la Constitución Española de 1978, ¿qué objetivo persiguen los poderes públicos en el ámbito económico y social?",
+        "opciones": [
+            "Lograr una economía centralizada y estable",
+            "Promover el pleno empleo y una distribución más equitativa de la renta",
+            "Fomentar exclusivamente el crecimiento industrial",
+            "Garantizar la autonomía económica de las Comunidades Autónomas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 40.1 establece que los poderes públicos deben promover el pleno empleo y una distribución más equitativa de la renta dentro de una política de estabilidad económica."
+    },
+    {
+        "enunciado": "En el artículo 28.2 de la Constitución Española de 1978, ¿qué derecho se reconoce específicamente a los trabajadores?",
+        "opciones": [
+            "El derecho a un salario mínimo vital",
+            "El derecho a la huelga para la defensa de sus intereses",
+            "El derecho a una jornada laboral reducida",
+            "El derecho a sindicarse obligatoriamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 28.2 reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses, con las limitaciones que establezca la ley."
+    },
+    {
+        "enunciado": "Conforme al artículo 11.2 de la Constitución Española de 1978, ¿qué principio se garantiza respecto a la nacionalidad española?",
+        "opciones": [
+            "Los españoles de origen no pueden ser privados de su nacionalidad",
+            "La nacionalidad puede perderse por razones políticas",
+            "La nacionalidad está supeditada al lugar de residencia",
+            "Los tratados internacionales no afectan la nacionalidad española"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 11.2 garantiza que ningún español de origen puede ser privado de su nacionalidad."
+    },
+    {
+        "enunciado": "Según el artículo 39.1 de la Constitución Española de 1978, ¿qué ámbito debe proteger integralmente el Estado?",
+        "opciones": [
+            "La igualdad entre hombres y mujeres",
+            "Los derechos de los trabajadores en el extranjero",
+            "La familia en los aspectos social, económico y jurídico",
+            "El acceso universal a la cultura"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 39.1 establece que los poderes públicos deben asegurar la protección social, económica y jurídica de la familia."
+    },
+    {
+        "enunciado": "Según el artículo 42 de la Constitución Española de 1978, ¿qué compromiso adquiere el Estado con los trabajadores españoles en el extranjero?",
+        "opciones": [
+            "Garantizar su integración en los sistemas de protección social de los países de acogida",
+            "Velar por sus derechos económicos y sociales, fomentando su retorno",
+            "Proveerles acceso gratuito a la educación y la sanidad en España",
+            "Regular exclusivamente su situación laboral en embajadas y consulados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 42 establece que el Estado debe velar por los derechos económicos y sociales de los trabajadores españoles en el extranjero, orientando su política hacia su retorno."
+    },
+    {
+        "enunciado": "En el artículo 47 de la Constitución Española de 1978, ¿qué derecho relacionado con la vivienda se reconoce a todos los ciudadanos?",
+        "opciones": [
+            "El derecho a una vivienda en propiedad garantizada por el Estado",
+            "El derecho a disfrutar de una vivienda digna y adecuada",
+            "El derecho a recibir ayudas económicas para alquileres altos",
+            "El derecho a vivienda gratuita para personas sin ingresos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 47 reconoce el derecho de todos los ciudadanos a disfrutar de una vivienda digna y adecuada, comprometiendo a los poderes públicos a promover las condiciones necesarias para ello."
+    },
+    {
+        "enunciado": "Según el artículo 45.3 de la Constitución Española de 1978, ¿qué responsabilidad tienen quienes dañen el medio ambiente?",
+        "opciones": [
+            "Ser excluidos de subvenciones estatales",
+            "Reparar el daño causado y afrontar sanciones penales o administrativas",
+            "Reforestar las áreas afectadas por su actividad",
+            "Abandonar las zonas protegidas sin compensación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 45.3 establece que quienes violen las disposiciones de protección del medio ambiente deben reparar el daño causado y enfrentarse a sanciones penales o administrativas."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 38 de la Constitución Española de 1978, ¿qué se garantiza sobre la libertad de empresa?",
+        "opciones": [
+            "Que solo será ejercida bajo autorización previa del Gobierno",
+            "Que se protege dentro de la economía de mercado y bajo los principios de productividad",
+            "Que se limita a sectores estratégicos regulados por el Estado",
+            "Que excluye actividades internacionales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 38 garantiza la libertad de empresa en el marco de la economía de mercado, asegurando su protección y defensa por parte de los poderes públicos."
+    },
+    {
+        "enunciado": "Según el artículo 16.3 de la Constitución Española de 1978, ¿qué principio establece sobre las confesiones religiosas?",
+        "opciones": [
+            "La Iglesia Católica será la religión oficial del Estado",
+            "Ninguna confesión tendrá carácter estatal",
+            "El Estado podrá regular las prácticas religiosas en espacios públicos",
+            "Las confesiones religiosas serán subvencionadas obligatoriamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 16.3 establece que ninguna confesión tendrá carácter estatal, garantizando la aconfesionalidad del Estado."
+    },
+    {
+        "enunciado": "En el artículo 36 de la Constitución Española de 1978, ¿qué se dispone sobre los Colegios Profesionales?",
+        "opciones": [
+            "Deben funcionar bajo la supervisión directa del Parlamento",
+            "Su estructura interna y funcionamiento deben ser democráticos",
+            "Solo pueden crearse mediante ley orgánica",
+            "Son órganos consultivos sin funciones ejecutivas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 36 dispone que los Colegios Profesionales deben tener una estructura interna y un funcionamiento democráticos."
+    },
+    {
+        "enunciado": "Conforme al artículo 48 de la Constitución Española de 1978, ¿qué papel tienen los poderes públicos respecto a la juventud?",
+        "opciones": [
+            "Garantizar la gratuidad de la enseñanza superior",
+            "Promover condiciones para la participación libre y eficaz en el desarrollo político, social, económico y cultural",
+            "Restringir la participación juvenil en asuntos políticos hasta los 21 años",
+            "Establecer programas obligatorios de empleo juvenil"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 48 establece que los poderes públicos deben promover las condiciones necesarias para la participación libre y eficaz de la juventud en diversos ámbitos."
+    },
+    {
+        "enunciado": "Según el artículo 51.2 de la Constitución Española de 1978, ¿qué deben fomentar los poderes públicos respecto a los consumidores y usuarios?",
+        "opciones": [
+            "La creación de empresas de consumo",
+            "La información, educación y organización de consumidores",
+            "El control estatal de los precios de bienes de consumo",
+            "La eliminación de las asociaciones de consumidores"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 51.2 dispone que los poderes públicos deben fomentar la información, educación y organización de consumidores y usuarios."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 13.3 de la Constitución Española de 1978, ¿qué principio se aplica a la extradición de extranjeros en España?",
+        "opciones": [
+            "Solo se permite en casos de delitos de terrorismo",
+            "Debe cumplir tratados o leyes atendiendo al principio de reciprocidad",
+            "No está permitida bajo ninguna circunstancia",
+            "Requiere autorización del Parlamento y del Tribunal Constitucional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 13.3 establece que la extradición de extranjeros se concede en cumplimiento de tratados o leyes, respetando el principio de reciprocidad."
+    },
+    {
+        "enunciado": "Según el artículo 35.2 de la Constitución Española de 1978, ¿qué debe regular la ley respecto al trabajo?",
+        "opciones": [
+            "La promoción exclusiva de empleos públicos",
+            "Un estatuto que garantice derechos y deberes laborales",
+            "La jornada laboral máxima de 40 horas semanales",
+            "La contratación obligatoria de mujeres y jóvenes"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 35.2 dispone que la ley debe regular un estatuto de los trabajadores que garantice sus derechos y deberes laborales."
+    },
+    {
+        "enunciado": "Según el artículo 43.1 de la Constitución Española de 1978, ¿qué derecho se reconoce específicamente relacionado con la salud?",
+        "opciones": [
+            "El derecho a recibir atención médica gratuita en todos los casos",
+            "El derecho a la protección de la salud",
+            "El derecho a medicamentos subvencionados",
+            "El derecho a elegir el sistema de salud privado o público"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.1 reconoce el derecho a la protección de la salud como un derecho fundamental promovido por los poderes públicos."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 43.2 de la Constitución Española de 1978, ¿qué medidas deben adoptar los poderes públicos para garantizar la salud pública?",
+        "opciones": [
+            "Organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias",
+            "Garantizar exclusivamente tratamientos médicos en hospitales públicos",
+            "Fomentar únicamente la investigación médica de alto nivel",
+            "Proveer seguros de salud obligatorios para todos los ciudadanos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias."
+    },
+    {
+        "enunciado": "¿Qué fomento específico establece el artículo 43.3 de la Constitución Española de 1978 en relación con la educación física?",
+        "opciones": [
+            "La creación de instalaciones deportivas gratuitas en todos los municipios",
+            "El desarrollo de programas escolares de educación física obligatoria",
+            "El fomento de la educación física y el deporte como parte de la promoción de la salud",
+            "La subvención a clubes deportivos privados"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que los poderes públicos fomentarán la educación física y el deporte como parte integral de la salud pública."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución Española de 1978, ¿cómo deben los poderes públicos abordar la salud pública?",
+        "opciones": [
+            "Mediante una cobertura sanitaria gratuita para todos los residentes",
+            "Con medidas preventivas y prestaciones necesarias organizadas y tuteladas por ellos",
+            "Implementando únicamente campañas informativas sobre hábitos saludables",
+            "A través de la centralización total del sistema sanitario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 señala que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y prestaciones necesarias."
+    },
+    {
+        "enunciado": "En el artículo 43.3 de la Constitución Española de 1978, ¿qué ámbito se incluye además de la salud pública y la educación física?",
+        "opciones": [
+            "La gestión de hospitales especializados",
+            "La adecuada utilización del ocio",
+            "La financiación de centros privados de salud",
+            "La formación de profesionales médicos en el extranjero"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos facilitarán la adecuada utilización del ocio como parte de sus competencias relacionadas con la salud."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 43 de la Constitución Española de 1978, ¿qué aspectos deben regular las leyes en relación con la salud pública?",
+        "opciones": [
+            "Únicamente la financiación de servicios sanitarios",
+            "Los derechos y deberes de todos en relación con la salud",
+            "La obligatoriedad del seguro médico privado",
+            "La distribución de los recursos sanitarios entre las Comunidades Autónomas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 establece que las leyes deben regular los derechos y deberes de todos en relación con la salud."
+    },
+    {
+        "enunciado": "Según el artículo 43.2 de la Constitución Española de 1978, ¿qué tipo de medidas deben adoptar los poderes públicos en materia de salud?",
+        "opciones": [
+            "Restricciones al acceso a servicios sanitarios privados",
+            "Medidas preventivas y prestaciones y servicios necesarios",
+            "Reducción de impuestos para el sector sanitario privado",
+            "Fomento exclusivo de medicamentos genéricos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.2 señala que los poderes públicos deben adoptar medidas preventivas y asegurar prestaciones y servicios necesarios para la salud pública."
+    },
+    {
+        "enunciado": "En el marco del artículo 43.3 de la Constitución Española de 1978, ¿qué rol tienen los poderes públicos en el ámbito del deporte?",
+        "opciones": [
+            "Subvencionar únicamente competiciones de alto nivel",
+            "Fomentar el deporte como una herramienta de promoción de la salud pública",
+            "Proveer exclusivamente educación física a nivel universitario",
+            "Eliminar restricciones económicas para practicar deporte profesional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 establece que los poderes públicos deben fomentar el deporte como parte de las políticas de promoción de la salud pública."
+    },
+    {
+        "enunciado": "Según el artículo 43.1 de la Constitución Española de 1978, ¿qué se garantiza a los ciudadanos en el ámbito de la salud?",
+        "opciones": [
+            "La atención médica gratuita en todos los niveles",
+            "El derecho a la protección de la salud",
+            "El acceso exclusivo a hospitales públicos",
+            "La gratuidad de todos los medicamentos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.1 garantiza a los ciudadanos el derecho a la protección de la salud, promovido por los poderes públicos."
+    },
+    {
+        "enunciado": "En el artículo 43 de la Constitución Española de 1978, ¿qué papel tiene la prevención en la organización de la salud pública?",
+        "opciones": [
+            "Es secundaria frente a la atención hospitalaria",
+            "Es un componente clave que los poderes públicos deben organizar y tutelar",
+            "Debe ser financiada exclusivamente por el sector privado",
+            "Es opcional dependiendo de la legislación autonómica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 establece que la prevención es una parte esencial de la salud pública que los poderes públicos deben organizar y tutelar."
+    },
+    {
+        "enunciado": "¿Qué valores superiores propugna la Constitución Española de 1978 como base de su ordenamiento jurídico?",
+        "opciones": [
+            "La libertad, la justicia, la igualdad y el pluralismo político.",
+            "La democracia, la soberanía, la seguridad y la unidad nacional.",
+            "La fraternidad, la equidad, la solidaridad y la independencia.",
+            "El progreso económico, la paz social, la cohesión territorial y la identidad cultural."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "Según el artículo 1.1, la Constitución Española de 1978 establece que la libertad, la justicia, la igualdad y el pluralismo político son los valores superiores de su ordenamiento jurídico."
+    },
+    {
+        "enunciado": "¿Qué institución es designada como garante de los derechos y libertades fundamentales en la Constitución Española de 1978?",
+        "opciones": [
+            "El Tribunal Constitucional.",
+            "El Consejo General del Poder Judicial.",
+            "El Rey.",
+            "El Defensor del Pueblo."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La Constitución establece en el artículo 54 que el Defensor del Pueblo es un alto comisionado de las Cortes Generales para la defensa de los derechos y libertades fundamentales."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución Española, ¿qué acciones deben tomar los poderes públicos en relación con la salud?",
+        "opciones": [
+            "Proveer atención sanitaria gratuita para todos los ciudadanos.",
+            "Organizar y tutelar la salud pública mediante medidas preventivas y servicios necesarios.",
+            "Garantizar acceso universal a tratamientos de alta complejidad.",
+            "Privatizar los servicios sanitarios en zonas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 estipula que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y servicios necesarios."
+    },
+    {
+        "enunciado": "¿Qué principio establece el artículo 14 sobre la igualdad de los españoles ante la ley?",
+        "opciones": [
+            "Prohíbe la discriminación por razones de sexo, raza, religión, opinión o cualquier circunstancia personal o social.",
+            "Garantiza derechos especiales según la Comunidad Autónoma de residencia.",
+            "Permite la discriminación positiva en favor de colectivos vulnerables.",
+            "Excluye la aplicación del principio en asuntos de seguridad nacional."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 14 señala que los españoles son iguales ante la ley y prohíbe cualquier discriminación por razones de nacimiento, raza, sexo, religión, opinión u otras circunstancias personales o sociales."
+    },
+    {
+        "enunciado": "¿Cuál es el procedimiento establecido por el artículo 55 para la suspensión de derechos fundamentales en estados excepcionales?",
+        "opciones": [
+            "Debe ser aprobado por una mayoría simple en el Senado.",
+            "Requiere una ley orgánica y control judicial específico.",
+            "Es decidido exclusivamente por el Presidente del Gobierno.",
+            "Se aplica automáticamente durante el estado de alarma."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 55 detalla que la suspensión de ciertos derechos fundamentales requiere una ley orgánica que incluya control judicial y parlamentario."
+    },
+    {
+        "enunciado": "¿Qué idioma tienen los españoles el deber de conocer según la Constitución?",
+        "opciones": [
+            "Todos los idiomas oficiales de las Comunidades Autónomas.",
+            "El idioma oficial del Estado, el castellano.",
+            "El idioma predominante de su región.",
+            "Un idioma extranjero a elección."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 3 establece que todos los españoles tienen el deber de conocer el castellano y el derecho a usarlo."
+    },
+    {
+        "enunciado": "¿Cómo regula la Constitución la bandera de las Comunidades Autónomas en relación con la bandera de España?",
+        "opciones": [
+            "Permite su uso exclusivo en actos oficiales de las Comunidades Autónomas.",
+            "Prohíbe la inclusión de banderas autonómicas en actos públicos nacionales.",
+            "Establece que deben usarse junto a la bandera de España en edificios públicos.",
+            "Obliga a que tengan el mismo diseño y proporciones que la bandera nacional."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 4.2 indica que las banderas de las Comunidades Autónomas pueden usarse junto con la bandera de España en edificios públicos y actos oficiales."
+    },
+    {
+        "enunciado": "¿Qué órgano es responsable de dirigir la política interior y exterior del Estado según el Título IV?",
+        "opciones": [
+            "El Rey.",
+            "El Gobierno.",
+            "El Tribunal Constitucional.",
+            "El Congreso de los Diputados."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "De acuerdo con el artículo 97, el Gobierno dirige la política interior y exterior, así como la administración del Estado."
+    },
+    {
+        "enunciado": "En relación con el derecho a la educación, ¿qué garantiza la Constitución según el artículo 27?",
+        "opciones": [
+            "La gratuidad de la enseñanza universitaria para todos.",
+            "El derecho a la formación religiosa y moral según las convicciones de los padres.",
+            "La prohibición de crear centros educativos privados.",
+            "La exclusividad de la educación pública para menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 27 garantiza a los padres el derecho a que sus hijos reciban formación religiosa y moral acorde con sus convicciones."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 56 sobre la responsabilidad del Rey?",
+        "opciones": [
+            "Es plenamente responsable ante las Cortes Generales.",
+            "Es inviolable y no está sujeto a responsabilidad.",
+            "Debe rendir cuentas al Tribunal Constitucional.",
+            "Puede ser procesado solo con aprobación del Congreso."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 56 indica que la persona del Rey es inviolable y no está sujeta a responsabilidad."
+    },
+    {
+        "enunciado": "En el contexto del artículo 9 de la Constitución, ¿qué significa el principio de interdicción de la arbitrariedad de los poderes públicos?",
+        "opciones": [
+            "Que las decisiones administrativas deben ser revisadas anualmente por el Tribunal Constitucional.",
+            "Que todos los poderes públicos están obligados a actuar conforme a la ley y no de manera caprichosa.",
+            "Que las leyes aprobadas por el Gobierno tienen prioridad sobre las del Parlamento.",
+            "Que los ciudadanos pueden apelar cualquier decisión pública en cualquier momento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 9.3 establece que los poderes públicos deben actuar conforme al principio de legalidad y no de manera arbitraria."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿cómo deben los poderes públicos fomentar la educación sanitaria y la adecuada utilización del ocio?",
+        "opciones": [
+            "Estableciendo impuestos específicos para actividades de ocio.",
+            "A través de campañas de concienciación y programas educativos.",
+            "Prohibiendo actividades consideradas perjudiciales para la salud.",
+            "Creando espacios exclusivos para actividades físicas obligatorias."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43.3 indica que los poderes públicos deben fomentar la educación sanitaria, física y el ocio mediante programas educativos."
+    },
+    {
+        "enunciado": "¿Qué condiciones impone el artículo 57 para el matrimonio de una persona con derecho a la sucesión en la Corona?",
+        "opciones": [
+            "Debe ser aprobado únicamente por el Rey.",
+            "Debe contar con la autorización expresa del Rey y de las Cortes Generales.",
+            "No puede celebrarse con ciudadanos extranjeros.",
+            "Debe realizarse bajo el rito religioso mayoritario en España."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 57.4 establece que las personas con derecho a la sucesión en la Corona necesitan la autorización del Rey y de las Cortes Generales para contraer matrimonio."
+    },
+    {
+        "enunciado": "¿Qué establece la Constitución en el artículo 45 sobre el derecho al medio ambiente adecuado?",
+        "opciones": [
+            "Es un derecho exclusivo de los ciudadanos residentes en áreas rurales.",
+            "Incluye un deber colectivo de conservación del medio ambiente.",
+            "Depende de la aprobación de leyes específicas por las Comunidades Autónomas.",
+            "Puede ser suspendido en casos de emergencia climática."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 45.1 reconoce el derecho al disfrute de un medio ambiente adecuado y el deber de conservarlo, implicando una responsabilidad colectiva."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 64, ¿qué ocurre si un acto del Rey no es refrendado?",
+        "opciones": [
+            "El acto es válido pero puede ser revocado por el Tribunal Constitucional.",
+            "El acto carece de validez jurídica.",
+            "El acto debe ser sometido a referéndum consultivo.",
+            "El acto es automáticamente transferido a las Cortes Generales para su evaluación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 64 establece que los actos del Rey carecen de validez si no son refrendados por las autoridades competentes."
+    },
+    {
+        "enunciado": "Según el artículo 55, ¿qué derechos fundamentales pueden ser suspendidos individualmente durante investigaciones relacionadas con terrorismo?",
+        "opciones": [
+            "El derecho a la integridad física y moral.",
+            "El derecho a la libertad personal y el secreto de las comunicaciones.",
+            "El derecho a la educación y la libre elección de profesión.",
+            "El derecho a la propiedad privada y la herencia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 55.2 permite la suspensión individual de derechos relacionados con la libertad personal y el secreto de las comunicaciones en casos de terrorismo, bajo control judicial."
+    },
+    {
+        "enunciado": "¿Qué principio vincula a todos los poderes públicos respecto a los derechos y libertades fundamentales según el artículo 53?",
+        "opciones": [
+            "El principio de supremacía del derecho internacional.",
+            "El principio de interpretación conforme a los derechos humanos reconocidos internacionalmente.",
+            "El principio de respeto al contenido esencial de los derechos fundamentales.",
+            "El principio de adaptación legislativa progresiva."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 53 establece que los derechos fundamentales solo pueden ser regulados por ley, respetando siempre su contenido esencial."
+    },
+    {
+        "enunciado": "Según el artículo 16, ¿qué límite tienen las manifestaciones de la libertad ideológica y religiosa?",
+        "opciones": [
+            "El mantenimiento del orden público protegido por la ley.",
+            "La aprobación previa por los poderes públicos.",
+            "La ausencia de símbolos religiosos en espacios públicos.",
+            "El respeto a la mayoría religiosa del territorio."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 16.1 garantiza la libertad ideológica y religiosa, con el único límite del mantenimiento del orden público protegido por la ley."
+    },
+    {
+        "enunciado": "¿Qué estipula el artículo 40 sobre la política orientada al pleno empleo?",
+        "opciones": [
+            "Debe ser implementada mediante leyes orgánicas específicas.",
+            "Es competencia exclusiva de las Comunidades Autónomas.",
+            "Debe ser una política especial promovida por los poderes públicos.",
+            "Es un objetivo secundario frente al crecimiento económico."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 40.1 señala que los poderes públicos deben realizar una política especialmente orientada al pleno empleo."
+    },
+    {
+        "enunciado": "En el artículo 59, ¿quién puede ejercer la Regencia si no hay personas calificadas por parentesco con el Rey?",
+        "opciones": [
+            "El Presidente del Gobierno.",
+            "El Presidente del Tribunal Constitucional.",
+            "Una persona o grupo designado por las Cortes Generales.",
+            "El Defensor del Pueblo."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 59.3 establece que, en ausencia de familiares calificados, las Cortes Generales nombrarán a quien ejerza la Regencia."
+    }
 ]
