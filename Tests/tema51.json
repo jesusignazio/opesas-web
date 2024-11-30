@@ -1,0 +1,1730 @@
+[
+    {
+        "enunciado": "¿Qué etapa vital define la Organización Mundial de la Salud como un periodo de cambios biológicos, psicológicos y sociales que ocurre en la segunda década de la vida?",
+        "opciones": [
+            "Infancia",
+            "Adolescencia",
+            "Edad Adulta Temprana",
+            "Pubertad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_psicosocial"
+        ],
+        "feedback": "La OMS define la adolescencia como un periodo crítico de transformaciones en múltiples dimensiones del desarrollo humano, que incluye la pubertad pero no se limita a ella."
+    },
+    {
+        "enunciado": "¿Cuál es una de las principales estrategias para prevenir adicciones en adolescentes según los programas de promoción de la salud?",
+        "opciones": [
+            "Prohibir el acceso a redes sociales",
+            "Fomentar actividades grupales saludables",
+            "Imponer castigos estrictos para el consumo",
+            "Incrementar el consumo supervisado de alcohol"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "Promover actividades grupales saludables y el desarrollo de habilidades personales son enfoques efectivos para prevenir adicciones en adolescentes."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de adolescentes presenta obesidad o riesgo de obesidad según los estudios citados en el programa Forma Joven?",
+        "opciones": [
+            "10%",
+            "21.9%",
+            "35.7%",
+            "50%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_nutricional"
+        ],
+        "feedback": "El programa Forma Joven identifica un 35.7% de adolescentes con obesidad o en riesgo, resaltando la importancia de la educación alimentaria y la actividad física."
+    },
+    {
+        "enunciado": "¿Qué modelo de representación alimentaria destaca la actividad física y el consumo equilibrado de alimentos?",
+        "opciones": [
+            "Pirámide nutricional",
+            "Plato de Harvard",
+            "Dieta Mediterránea",
+            "Mi plato (MyPlate)"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_nutricional"
+        ],
+        "feedback": "El modelo 'Mi plato' resalta la importancia del equilibrio alimenticio y la actividad física como parte de un estilo de vida saludable."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los principales riesgos asociados al uso excesivo de tecnologías en adolescentes?",
+        "opciones": [
+            "Aumento de la actividad física",
+            "Mejora de las habilidades sociales",
+            "Adicción y pérdida de control",
+            "Reducción del estrés y la ansiedad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "El uso excesivo de tecnologías puede conducir a la adicción, afectando negativamente el control de impulsos y la salud mental."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿qué línea de intervención debe ser obligatoriamente incluida en los centros educativos que participan en el programa?",
+        "opciones": [
+            "Prevención de adicciones",
+            "Educación emocional",
+            "Promoción de actividad física",
+            "Uso positivo de las tecnologías"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "La educación emocional es una línea de intervención obligatoria en el programa Forma Joven para garantizar el desarrollo socioemocional de los adolescentes."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia de Andalucía, ¿cuál es una estrategia clave para abordar la violencia hacia adolescentes?",
+        "opciones": [
+            "Aumentar los castigos legales",
+            "Evitar la revictimización mediante atención coordinada",
+            "Reducir la interacción con redes sociales",
+            "Incrementar la vigilancia policial en escuelas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_violencia"
+        ],
+        "feedback": "El III Plan de Infancia y Adolescencia enfatiza la atención coordinada y sensible para evitar la revictimización de las víctimas de violencia."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los principales objetivos de la promoción de salud en adolescentes según la Estrategia Andaluza de Vida Saludable 2024-2030?",
+        "opciones": [
+            "Garantizar el acceso universal a dispositivos electrónicos",
+            "Incrementar la incidencia de tratamientos farmacológicos",
+            "Promover una vida activa y el bienestar emocional",
+            "Restringir actividades recreativas fuera del horario escolar"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "La Estrategia Andaluza prioriza la promoción de una vida activa, una alimentación saludable y el bienestar emocional como pilares de la salud adolescente."
+    },
+    {
+        "enunciado": "En relación con los trastornos alimentarios en adolescentes, ¿cuál es una característica clave que diferencia la anorexia nerviosa de otros tipos de anorexia?",
+        "opciones": [
+            "La falta de apetito temporal por causas médicas",
+            "El rechazo persistente de alimentos y miedo obsesivo a engordar",
+            "La pérdida de peso asociada a enfermedades crónicas",
+            "La recuperación espontánea sin intervención médica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "La anorexia nerviosa se caracteriza por un rechazo persistente a los alimentos debido al miedo obsesivo a engordar, acompañado de una distorsión de la imagen corporal."
+    },
+    {
+        "enunciado": "¿Qué característica distintiva del pensamiento formal se desarrolla en la adolescencia según los estudios de desarrollo cognitivo?",
+        "opciones": [
+            "Razonamiento concreto y limitado al entorno inmediato",
+            "Capacidad para planificar solo en base a experiencias previas",
+            "Uso de abstracciones para analizar situaciones hipotéticas",
+            "Dependencia exclusiva de figuras de autoridad para resolver problemas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_cognitivo"
+        ],
+        "feedback": "El pensamiento formal, característico de la adolescencia, permite a los jóvenes manejar conceptos abstractos y situaciones hipotéticas, superando las limitaciones del pensamiento concreto."
+    },
+    {
+        "enunciado": "Según los estudios de conducta de salud en jóvenes (HBSC), ¿qué proporción de adolescentes en Andalucía duerme una media de más de 8 horas durante los fines de semana?",
+        "opciones": [
+            "35%",
+            "50%",
+            "65%",
+            "Más del 80%"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "higiene_del_sueño"
+        ],
+        "feedback": "Los datos del HBSC muestran que más del 80% de los adolescentes andaluces duermen más de 8 horas los fines de semana, destacando la importancia del descanso en esta etapa."
+    },
+    {
+        "enunciado": "En el ámbito del uso positivo de las TIC, ¿cuál es un riesgo específico identificado para adolescentes según la Guía Forma Joven?",
+        "opciones": [
+            "Incremento de habilidades académicas",
+            "Pérdida de la privacidad y exposición a contenido inapropiado",
+            "Desarrollo de dependencia a actividades grupales",
+            "Falta de interés en actividades relacionadas con la salud"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología"
+        ],
+        "feedback": "El uso desmesurado de tecnologías puede provocar riesgos como la pérdida de privacidad, la exposición a contenidos inapropiados y la dependencia tecnológica."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿qué enfoque teórico subyace en la promoción de la salud en adolescentes?",
+        "opciones": [
+            "Modelo biomédico orientado a la enfermedad",
+            "Modelo de equidad y salud positiva",
+            "Modelo conductista centrado en la corrección de conductas",
+            "Modelo preventivo exclusivamente farmacológico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "El programa Forma Joven se basa en un enfoque de equidad y salud positiva, que promueve activos en salud y conductas responsables entre adolescentes."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia, ¿cuál es una medida destacada para mejorar la salud mental de los adolescentes?",
+        "opciones": [
+            "Reducción de los servicios de atención psicológica",
+            "Desarrollo de programas de mentoría social",
+            "Integración de psicología clínica en la atención primaria",
+            "Fomento exclusivo de actividades deportivas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "El III Plan promueve la integración de psicología clínica en atención primaria como una estrategia clave para atender la salud mental adolescente."
+    },
+    {
+        "enunciado": "¿Qué característica del desarrollo afectivo adolescente está más relacionada con la construcción de su identidad?",
+        "opciones": [
+            "El rechazo permanente a figuras de autoridad",
+            "La búsqueda de aceptación social y autoconcepto",
+            "La estabilidad emocional ante conflictos",
+            "La ausencia de conflictos morales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_afectivo"
+        ],
+        "feedback": "Durante la adolescencia, la construcción del autoconcepto y la búsqueda de aceptación social son aspectos fundamentales en el desarrollo afectivo."
+    },
+    {
+        "enunciado": "Según los principios de la dieta mediterránea, ¿cuál de las siguientes prácticas alimenticias es prioritaria?",
+        "opciones": [
+            "Consumo elevado de carnes rojas",
+            "Uso moderado de aceites vegetales refinados",
+            "Priorizar alimentos integrales y aceite de oliva",
+            "Evitar completamente los productos lácteos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "alimentación_saludable"
+        ],
+        "feedback": "La dieta mediterránea enfatiza el consumo de alimentos integrales y el uso del aceite de oliva como principales fuentes de energía y nutrientes."
+    },
+    {
+        "enunciado": "En la prevención de conductas sexuales de riesgo, ¿qué método es el más recomendado por los programas de salud juvenil?",
+        "opciones": [
+            "Abstinencia total sin educación complementaria",
+            "Métodos de barrera combinados con educación sexual",
+            "Fomento exclusivo del uso de anticonceptivos hormonales",
+            "Reducción del acceso a información sobre sexualidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "La combinación de métodos de barrera, como preservativos, con educación sexual integral es la estrategia más efectiva para prevenir riesgos en adolescentes."
+    },
+    {
+        "enunciado": "En el contexto de la promoción de estilos de vida saludables, ¿qué actividad tiene el mayor impacto comprobado en la prevención de la obesidad adolescente?",
+        "opciones": [
+            "Reducción drástica de la ingesta calórica sin supervisión",
+            "Incremento en la actividad física regular y equilibrada",
+            "Ayunos prolongados combinados con suplementación",
+            "Consumo exclusivo de alimentos procesados bajos en grasa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "actividad_física"
+        ],
+        "feedback": "El incremento de la actividad física regular, acompañada de una dieta equilibrada, es esencial para prevenir y tratar la obesidad en adolescentes."
+    },
+    {
+        "enunciado": "Según la Ley de Protección Integral de la Infancia y Adolescencia, ¿qué derecho específico se enfatiza para garantizar la integridad psicológica de los adolescentes?",
+        "opciones": [
+            "Derecho al acceso ilimitado a redes sociales",
+            "Derecho a la protección contra toda forma de violencia",
+            "Derecho exclusivo al descanso y el ocio",
+            "Derecho a la participación sin restricciones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "derechos_de_la_infancia"
+        ],
+        "feedback": "La ley enfatiza la protección contra cualquier forma de violencia como un pilar esencial para garantizar la integridad física y psicológica de los adolescentes."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los factores principales que contribuyen al inicio temprano del consumo de tabaco en adolescentes, según el programa Forma Joven?",
+        "opciones": [
+            "Falta de acceso a actividades recreativas",
+            "Baja percepción de riesgo asociada al tabaco",
+            "Altos costos de los productos de tabaco",
+            "Excesiva promoción de actividades deportivas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "El inicio temprano del consumo de tabaco está frecuentemente relacionado con una baja percepción de riesgo y la normalización social de su uso entre adolescentes."
+    },
+    {
+        "enunciado": "¿Qué estrategia de prevención utiliza el programa Forma Joven para reducir el impacto de las adicciones tecnológicas en adolescentes?",
+        "opciones": [
+            "Bloqueo completo de redes sociales en centros educativos",
+            "Fomento del uso crítico y consciente de las tecnologías",
+            "Recompensas económicas por limitar el tiempo de pantalla",
+            "Prohibición de dispositivos electrónicos fuera del hogar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "El programa Forma Joven fomenta un uso crítico y consciente de las tecnologías para reducir los riesgos asociados al tiempo excesivo frente a las pantallas."
+    },
+    {
+        "enunciado": "En el desarrollo social adolescente, ¿qué rol desempeñan las pandillas y grupos de amigos según los estudios psicosociales?",
+        "opciones": [
+            "Disminuyen la importancia de las relaciones familiares",
+            "Funcionan como un espacio para construir identidad social",
+            "Sustituyen completamente el rol parental",
+            "Evitan los conflictos en el proceso de emancipación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_social"
+        ],
+        "feedback": "Los grupos de amigos son esenciales para los adolescentes, ya que contribuyen significativamente a la construcción de su identidad social y autonomía."
+    },
+    {
+        "enunciado": "Según la Ley General de Salud Pública, ¿qué acciones deben incluirse en la promoción de la salud en adolescentes?",
+        "opciones": [
+            "Solo información sobre riesgos y sanciones legales",
+            "Capacitación para tomar decisiones saludables y modificar su entorno",
+            "Restricción de acceso a actividades recreativas nocturnas",
+            "Focalización exclusiva en el control de peso y actividad física"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "La ley enfatiza la capacitación en toma de decisiones saludables y la creación de entornos favorables como pilares en la promoción de la salud."
+    },
+    {
+        "enunciado": "¿Qué característica clave diferencia la bulimia nerviosa de otros trastornos alimentarios en adolescentes?",
+        "opciones": [
+            "La distorsión de la imagen corporal",
+            "El uso de métodos compensatorios como el vómito",
+            "El rechazo absoluto a todos los alimentos",
+            "El desarrollo de síntomas exclusivamente en la adultez"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "trastornos_alimentarios"
+        ],
+        "feedback": "La bulimia nerviosa se distingue por episodios de atracones seguidos de conductas compensatorias, como vómitos, y una preocupación obsesiva por el peso."
+    },
+    {
+        "enunciado": "Según los principios del III Plan de Infancia y Adolescencia de Andalucía, ¿qué enfoque garantiza el interés superior del menor?",
+        "opciones": [
+            "Incrementar las políticas de control policial en entornos educativos",
+            "Implementar un enfoque basado en derechos y parentalidad positiva",
+            "Fomentar la dependencia económica de los adolescentes",
+            "Limitar la participación activa de los menores en la toma de decisiones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "derechos_de_la_infancia"
+        ],
+        "feedback": "El III Plan establece un enfoque de derechos y parentalidad positiva para asegurar el interés superior del menor en todas las políticas públicas."
+    },
+    {
+        "enunciado": "¿Cuál es un riesgo identificado del consumo frecuente de alcohol en adolescentes según el programa Forma Joven?",
+        "opciones": [
+            "Reducción de la creatividad",
+            "Mayor probabilidad de trastornos psiquiátricos a largo plazo",
+            "Mejoras temporales en las habilidades sociales",
+            "Disminución de la exposición a comportamientos de riesgo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "El consumo de alcohol en adolescentes incrementa significativamente el riesgo de desarrollar trastornos psiquiátricos y adicciones en etapas posteriores de la vida."
+    },
+    {
+        "enunciado": "En el contexto de la prevención de la obesidad, ¿qué directriz promueve la OMS específicamente para adolescentes?",
+        "opciones": [
+            "Realizar actividad física como mínimo 150 minutos al mes",
+            "Evitar alimentos con alto contenido calórico de forma estricta",
+            "Considerar la actividad física como un momento de diversión",
+            "Consumir un 60% de proteínas en la dieta diaria"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_obesidad"
+        ],
+        "feedback": "La OMS promueve que la actividad física se perciba como un momento de diversión y juego, fomentando su incorporación habitual en la vida diaria de los adolescentes."
+    },
+    {
+        "enunciado": "En el desarrollo cognitivo adolescente, ¿qué habilidad permite un análisis más profundo de problemas complejos y abstractos?",
+        "opciones": [
+            "Razonamiento inductivo limitado",
+            "Pensamiento formal",
+            "Aprendizaje por ensayo y error",
+            "Razonamiento preoperacional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_cognitivo"
+        ],
+        "feedback": "El pensamiento formal, que emerge durante la adolescencia, es clave para analizar y resolver problemas complejos, y comprender conceptos abstractos."
+    },
+    {
+        "enunciado": "En el programa Forma Joven, ¿qué estrategia es esencial para prevenir la violencia de género en adolescentes?",
+        "opciones": [
+            "Fomentar relaciones igualitarias y el respeto mutuo",
+            "Prohibir el uso de redes sociales en parejas jóvenes",
+            "Implementar sanciones legales más estrictas",
+            "Restringir la educación sexual en los centros escolares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_violencia"
+        ],
+        "feedback": "El programa Forma Joven promueve relaciones igualitarias y el respeto mutuo como pilares para prevenir la violencia de género en adolescentes."
+    },
+    {
+        "enunciado": "Según el III Plan de Infancia y Adolescencia, ¿cuál es una medida prioritaria para garantizar el bienestar emocional de los adolescentes?",
+        "opciones": [
+            "Fomentar el aislamiento social controlado",
+            "Incrementar las terapias de grupo exclusivamente",
+            "Integrar programas de bienestar emocional en entornos educativos",
+            "Restringir actividades artísticas y deportivas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_emocional"
+        ],
+        "feedback": "El III Plan prioriza la integración de programas de bienestar emocional en los entornos educativos para atender las necesidades psicosociales de los adolescentes."
+    },
+    {
+        "enunciado": "En la promoción de hábitos saludables, ¿qué componente es central en las estrategias alimentarias dirigidas a adolescentes?",
+        "opciones": [
+            "Eliminación total de grasas y azúcares de la dieta",
+            "Equilibrio entre carbohidratos, proteínas y grasas saludables",
+            "Consumo exclusivo de alimentos orgánicos",
+            "Dieta alta en suplementos nutricionales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "alimentación_saludable"
+        ],
+        "feedback": "Las estrategias alimentarias saludables promueven un equilibrio entre carbohidratos, proteínas y grasas saludables, además de incluir fibras y vitaminas esenciales."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal del enfoque salutogénico aplicado en el ámbito educativo según Forma Joven?",
+        "opciones": [
+            "Identificar únicamente los factores de riesgo de enfermedades",
+            "Promover recursos y activos que generen salud",
+            "Reforzar medidas estrictas para evitar conductas de riesgo",
+            "Priorizar intervenciones farmacológicas tempranas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "El enfoque salutogénico se centra en identificar y potenciar los recursos que generan salud, promoviendo la resiliencia y el bienestar."
+    },
+    {
+        "enunciado": "En la prevención del consumo de alcohol, ¿qué práctica tiene un impacto positivo demostrado en adolescentes?",
+        "opciones": [
+            "Reducir la edad mínima de consumo bajo supervisión",
+            "Impartir charlas informativas esporádicas",
+            "Fomentar actividades recreativas alternativas al consumo",
+            "Aumentar la disponibilidad de bebidas bajas en alcohol"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "Ofrecer actividades recreativas que no incluyan consumo de alcohol es una estrategia efectiva para reducir la prevalencia de este hábito en adolescentes."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué rol desempeña el entorno en la promoción de hábitos saludables entre adolescentes?",
+        "opciones": [
+            "Es un factor irrelevante en comparación con la educación familiar",
+            "Debe ser adecuado, seguro y motivador para actividades saludables",
+            "Limita las decisiones de los adolescentes en sus estilos de vida",
+            "Solo afecta a los jóvenes en zonas urbanas con recursos insuficientes"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "Un entorno adecuado y seguro es clave para motivar y facilitar la práctica de hábitos saludables en adolescentes, según la Estrategia Andaluza."
+    },
+    {
+        "enunciado": "En el contexto del desarrollo sexual adolescente, ¿qué estrategia fomenta el programa Forma Joven para prevenir conductas de riesgo?",
+        "opciones": [
+            "Evitar discusiones abiertas sobre sexualidad",
+            "Uso de preservativos y acceso a información confiable",
+            "Restricción del acceso a métodos anticonceptivos",
+            "Enseñanza de la abstinencia como única opción válida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "El programa Forma Joven fomenta el uso de métodos anticonceptivos como el preservativo y la educación sexual integral para prevenir riesgos asociados a la sexualidad."
+    },
+    {
+        "enunciado": "¿Qué rol desempeñan los profesionales de la salud en el programa Forma Joven dentro del ámbito educativo?",
+        "opciones": [
+            "Sustituir completamente al profesorado en temas de salud",
+            "Asesorar y colaborar con el profesorado en la promoción de salud",
+            "Liderar todas las actividades de promoción sin participación docente",
+            "Enfocarse únicamente en actividades clínicas dentro de los centros"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_salud"
+        ],
+        "feedback": "En el programa Forma Joven, los profesionales de salud colaboran con el profesorado para integrar contenidos de promoción de la salud en las aulas."
+    },
+    {
+        "enunciado": "Según los principios de la promoción de la salud, ¿cuál es un elemento esencial para garantizar el éxito en adolescentes?",
+        "opciones": [
+            "Imposición de normas sin participación juvenil",
+            "Construcción de habilidades personales y autoestima",
+            "Reducción de las actividades extracurriculares",
+            "Evitar la transmisión de información compleja"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "Desarrollar habilidades personales y fortalecer la autoestima son pilares en la promoción de la salud en adolescentes, según los enfoques modernos."
+    },
+    {
+        "enunciado": "En la prevención de trastornos alimentarios, ¿cuál es una señal de alerta significativa durante la adolescencia?",
+        "opciones": [
+            "Aumento progresivo del apetito por la actividad física",
+            "Preocupación excesiva por la imagen corporal y el peso",
+            "Consumo moderado de alimentos ricos en carbohidratos",
+            "Interés por aprender sobre dietas balanceadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "Una preocupación desmedida por la imagen corporal y el peso puede ser una señal temprana de trastornos alimentarios en adolescentes."
+    },
+    {
+        "enunciado": "¿Qué diferencia a la educación emocional de otras líneas de intervención del programa Forma Joven?",
+        "opciones": [
+            "Es opcional en la mayoría de los centros educativos",
+            "Aborda exclusivamente aspectos de salud física",
+            "Es obligatoria y central en el enfoque del programa",
+            "Se centra únicamente en prevenir adicciones"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "La educación emocional es una línea obligatoria en el programa Forma Joven, al ser esencial para el bienestar socioemocional de los adolescentes."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia, ¿qué se propone para fomentar la participación activa de los adolescentes?",
+        "opciones": [
+            "Crear más Consejos de Infancia y Adolescencia",
+            "Restringir el acceso a actividades recreativas",
+            "Limitar las iniciativas de autogestión juvenil",
+            "Reforzar medidas disciplinarias en centros educativos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "participación_juvenil"
+        ],
+        "feedback": "El III Plan promueve la creación de Consejos de Infancia y Adolescencia como espacios clave para fomentar la participación activa de los jóvenes."
+    },
+    {
+        "enunciado": "¿Qué aspecto del desarrollo adolescente tiene mayor impacto en la percepción de los adolescentes sobre sí mismos?",
+        "opciones": [
+            "La relación con sus profesores",
+            "La evolución de su imagen corporal",
+            "El nivel de apoyo de sus amigos",
+            "La interacción con su núcleo familiar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_afectivo"
+        ],
+        "feedback": "La evolución de la imagen corporal tiene un impacto significativo en la percepción que los adolescentes tienen sobre sí mismos durante esta etapa."
+    },
+    {
+        "enunciado": "En la prevención del uso problemático de tecnologías, ¿qué enfoque es promovido por la Guía Forma Joven?",
+        "opciones": [
+            "Prohibir el uso de dispositivos electrónicos en adolescentes",
+            "Educar sobre el uso consciente y equilibrado de las tecnologías",
+            "Fomentar el acceso ilimitado a redes sociales como forma de expresión",
+            "Sustituir las actividades presenciales por interacciones virtuales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "La Guía Forma Joven promueve la educación sobre el uso consciente y equilibrado de las tecnologías para prevenir su uso problemático."
+    },
+    {
+        "enunciado": "Según la OMS, ¿qué práctica es más efectiva para garantizar un desarrollo saludable durante la adolescencia?",
+        "opciones": [
+            "Fomentar el sedentarismo en periodos de estrés",
+            "Promover una dieta equilibrada y actividad física regular",
+            "Evitar la participación en actividades sociales grupales",
+            "Reducir el acceso a información sobre salud y bienestar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_saludable"
+        ],
+        "feedback": "Una dieta equilibrada y la actividad física regular son fundamentales para el desarrollo saludable durante la adolescencia, según la OMS."
+    },
+    {
+        "enunciado": "En el contexto del III Plan de Infancia y Adolescencia, ¿qué medida se ha propuesto para mejorar la atención en salud mental infanto-juvenil?",
+        "opciones": [
+            "Reducir las consultas en atención primaria",
+            "Desarrollar un modelo especializado en salud mental adolescente",
+            "Fomentar el autocuidado sin supervisión profesional",
+            "Eliminar servicios de terapia grupal para jóvenes"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "El III Plan incluye el desarrollo de un modelo especializado para atender las necesidades específicas de salud mental en adolescentes."
+    },
+    {
+        "enunciado": "¿Qué estrategia de prevención destaca la Guía Forma Joven frente al abuso de alcohol en adolescentes?",
+        "opciones": [
+            "Aumentar la edad legal para el consumo",
+            "Implementar educación temprana sobre los riesgos del alcohol",
+            "Prohibir completamente las reuniones juveniles",
+            "Limitar el acceso a información sobre sustancias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "La Guía Forma Joven enfatiza la importancia de la educación temprana y la sensibilización sobre los riesgos asociados al abuso de alcohol."
+    },
+    {
+        "enunciado": "¿Qué práctica fundamental de la dieta mediterránea se destaca como beneficiosa para adolescentes según la Estrategia de Vida Saludable?",
+        "opciones": [
+            "Eliminar completamente los lácteos de la dieta",
+            "Consumir alimentos de origen vegetal en abundancia",
+            "Evitar el consumo de grasas saludables como el aceite de oliva",
+            "Incrementar el consumo de carnes rojas procesadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "nutrición_saludable"
+        ],
+        "feedback": "La dieta mediterránea promueve un alto consumo de alimentos de origen vegetal, como frutas, verduras y legumbres, fundamentales para la salud adolescente."
+    },
+    {
+        "enunciado": "En la prevención de conductas de riesgo asociadas al uso de redes sociales, ¿qué enfoque es más efectivo según el programa Forma Joven?",
+        "opciones": [
+            "Limitar el uso de redes sociales exclusivamente a mayores de 18 años",
+            "Educar en competencias digitales y manejo crítico de la información",
+            "Fomentar la dependencia tecnológica como herramienta educativa",
+            "Prohibir completamente el acceso a internet durante la adolescencia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_educación"
+        ],
+        "feedback": "El programa Forma Joven aboga por educar a los adolescentes en competencias digitales y fomentar un uso crítico de las redes sociales para prevenir riesgos."
+    },
+    {
+        "enunciado": "¿Qué acción específica propone la Estrategia Andaluza de Vida Saludable para fomentar hábitos saludables en los adolescentes?",
+        "opciones": [
+            "Prohibir el consumo de carbohidratos en la dieta",
+            "Establecer actividades físicas grupales accesibles y seguras",
+            "Fomentar el sedentarismo en espacios educativos",
+            "Incrementar el consumo de suplementos alimenticios"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "actividad_física"
+        ],
+        "feedback": "La Estrategia Andaluza propone actividades físicas accesibles y seguras como una forma efectiva de fomentar hábitos saludables en los adolescentes."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre la pubertad y la adolescencia según la OMS?",
+        "opciones": [
+            "La pubertad se centra en cambios físicos; la adolescencia incluye cambios psicosociales",
+            "La adolescencia ocurre exclusivamente en mujeres, mientras que la pubertad es común a ambos sexos",
+            "La pubertad está vinculada a la independencia emocional, mientras que la adolescencia no",
+            "La adolescencia termina antes de que comience la pubertad"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_humano"
+        ],
+        "feedback": "La OMS define la pubertad como un proceso físico que conduce a la madurez sexual, mientras que la adolescencia abarca cambios biológicos, psicológicos y sociales."
+    },
+    {
+        "enunciado": "En la promoción de una vida activa, ¿qué recomendación hace la OMS para adolescentes en relación con la actividad física semanal?",
+        "opciones": [
+            "Al menos 60 minutos diarios de actividad física moderada a vigorosa",
+            "No más de 20 minutos semanales de ejercicio intenso",
+            "Solo realizar actividad física bajo supervisión profesional",
+            "Evitar actividades físicas durante los periodos de exámenes"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "La OMS recomienda al menos 60 minutos diarios de actividad física moderada a vigorosa para fomentar un desarrollo saludable en los adolescentes."
+    },
+    {
+        "enunciado": "En el desarrollo social de los adolescentes, ¿qué influencia tienen las relaciones con sus pares según los estudios psicosociales?",
+        "opciones": [
+            "Suelen sustituir completamente las relaciones familiares",
+            "Favorecen la autonomía y la construcción de identidad",
+            "No tienen un impacto significativo en el desarrollo social",
+            "Contribuyen exclusivamente al aumento del estrés emocional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_psicosocial"
+        ],
+        "feedback": "Las relaciones con los pares son fundamentales para los adolescentes, ya que les ayudan a construir su identidad y fomentar su autonomía social."
+    },
+    {
+        "enunciado": "En el marco del III Plan de Infancia y Adolescencia, ¿qué acción busca prevenir el fracaso escolar en adolescentes en situaciones de vulnerabilidad?",
+        "opciones": [
+            "Eliminar asignaturas optativas en secundaria",
+            "Implementar programas de mentoría social",
+            "Reducir las actividades extracurriculares",
+            "Aumentar la duración de la jornada escolar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación"
+        ],
+        "feedback": "El III Plan promueve programas de mentoría social como una estrategia para apoyar a los adolescentes en situaciones de vulnerabilidad y prevenir el fracaso escolar."
+    },
+    {
+        "enunciado": "Según la Guía Forma Joven, ¿qué se considera un factor protector clave frente al consumo de sustancias en adolescentes?",
+        "opciones": [
+            "Un entorno social que normalice el consumo",
+            "La participación en actividades deportivas y culturales",
+            "Una actitud permisiva por parte de los padres",
+            "El acceso limitado a información sobre riesgos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "La participación en actividades deportivas y culturales ayuda a los adolescentes a desarrollar habilidades sociales y prevenir conductas de riesgo, como el consumo de sustancias."
+    },
+    {
+        "enunciado": "En relación con los trastornos de conducta alimentaria, ¿cuál es una señal temprana característica de la bulimia nerviosa en adolescentes?",
+        "opciones": [
+            "Negativa total a ingerir alimentos",
+            "Episodios de atracones seguidos de conductas compensatorias",
+            "Preferencia por alimentos ricos en carbohidratos",
+            "Aumento significativo del peso corporal en poco tiempo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "La bulimia nerviosa se caracteriza por episodios de atracones acompañados de conductas compensatorias, como el vómito o el uso de laxantes."
+    },
+    {
+        "enunciado": "En el contexto de la educación emocional, ¿qué habilidad se considera fundamental para fomentar el bienestar en adolescentes?",
+        "opciones": [
+            "Evitar las emociones negativas en su totalidad",
+            "Reconocer y gestionar sus emociones de forma efectiva",
+            "Reducir la interacción con sus pares para evitar conflictos",
+            "Aumentar la dependencia emocional de figuras de autoridad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "El reconocimiento y la gestión efectiva de las emociones son habilidades esenciales para el bienestar emocional de los adolescentes."
+    },
+    {
+        "enunciado": "En la promoción de hábitos saludables, ¿qué principio de la dieta mediterránea contribuye a prevenir enfermedades crónicas en adolescentes?",
+        "opciones": [
+            "Consumo elevado de carnes procesadas",
+            "Reducción del consumo de grasas trans y priorización del aceite de oliva",
+            "Eliminación total de carbohidratos en la dieta",
+            "Ingesta exclusiva de alimentos crudos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "nutrición"
+        ],
+        "feedback": "La dieta mediterránea prioriza el uso de aceite de oliva y la reducción de grasas trans como pilares para prevenir enfermedades crónicas."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué enfoque es clave para fomentar la actividad física en adolescentes?",
+        "opciones": [
+            "Enfocar el ejercicio exclusivamente en el rendimiento competitivo",
+            "Promover actividades recreativas accesibles y adaptadas a sus intereses",
+            "Restringir las actividades físicas a horarios escolares",
+            "Implementar programas solo para adolescentes con sobrepeso"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "actividad_física"
+        ],
+        "feedback": "La Estrategia Andaluza fomenta actividades recreativas accesibles y adaptadas para motivar a los adolescentes a mantenerse activos."
+    },
+    {
+        "enunciado": "En el contexto del desarrollo sexual adolescente, ¿qué estrategia educativa es promovida por la Guía Forma Joven para prevenir embarazos no planificados?",
+        "opciones": [
+            "Prohibir toda actividad sexual entre adolescentes",
+            "Fomentar el acceso a métodos anticonceptivos y la educación sexual integral",
+            "Limitar la discusión sobre sexualidad a entornos familiares",
+            "Reducir el acceso a servicios de salud reproductiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "La Guía Forma Joven promueve el acceso a métodos anticonceptivos y una educación sexual integral para prevenir embarazos no planificados."
+    },
+    {
+        "enunciado": "En la prevención de conductas de riesgo, ¿qué elemento del entorno social tiene mayor impacto positivo según los programas de salud juvenil?",
+        "opciones": [
+            "Relaciones familiares conflictivas",
+            "Un entorno escolar que fomente la participación activa",
+            "La ausencia de interacción con sus pares",
+            "Limitaciones estrictas sin explicación de las razones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_riesgos"
+        ],
+        "feedback": "Un entorno escolar participativo y positivo tiene un impacto significativo en la reducción de conductas de riesgo entre adolescentes."
+    },
+    {
+        "enunciado": "En el marco del III Plan de Infancia y Adolescencia, ¿qué medida se ha implementado para prevenir la violencia sexual en adolescentes?",
+        "opciones": [
+            "Eliminar la educación sexual en los centros educativos",
+            "Desarrollar protocolos específicos para evitar la revictimización",
+            "Reducir el acceso a servicios de apoyo psicológico",
+            "Fomentar la abstinencia como única estrategia preventiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_violencia"
+        ],
+        "feedback": "El III Plan incluye protocolos para evitar la revictimización de víctimas de violencia sexual y garantizar una atención integral y coordinada."
+    },
+    {
+        "enunciado": "En la prevención del sedentarismo adolescente, ¿qué estrategia recomienda la OMS para fomentar un estilo de vida activo?",
+        "opciones": [
+            "Participar en actividades físicas grupales con regularidad",
+            "Limitar la actividad física a menos de 30 minutos diarios",
+            "Evitar cualquier tipo de ejercicio en periodos escolares",
+            "Enfocarse exclusivamente en deportes de alto rendimiento"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "actividad_física"
+        ],
+        "feedback": "La OMS recomienda actividades físicas regulares, preferentemente grupales, para fomentar la socialización y combatir el sedentarismo."
+    },
+    {
+        "enunciado": "En relación con la salud mental adolescente, ¿qué factor es clave para el bienestar emocional según los principios de promoción de la salud?",
+        "opciones": [
+            "Evitar completamente los conflictos emocionales",
+            "Establecer redes de apoyo social sólidas",
+            "Aislarse de los pares en situaciones de estrés",
+            "Depender exclusivamente de la medicación para la gestión emocional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "Tener redes de apoyo social sólidas, como amigos, familia y mentores, es crucial para el bienestar emocional de los adolescentes."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿qué factor de riesgo está asociado al uso excesivo de videojuegos en adolescentes?",
+        "opciones": [
+            "Aumento de la socialización y habilidades de comunicación",
+            "Aislamiento social y alteraciones en los patrones de sueño",
+            "Mejoras en el rendimiento académico y físico",
+            "Incremento del tiempo dedicado a actividades físicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "El uso excesivo de videojuegos puede generar aislamiento social y problemas en los patrones de sueño, afectando el bienestar general del adolescente."
+    },
+    {
+        "enunciado": "En el desarrollo cognitivo adolescente, ¿qué habilidad es característica del pensamiento formal según Piaget?",
+        "opciones": [
+            "Uso exclusivo de experiencias concretas para resolver problemas",
+            "Capacidad para plantear hipótesis y evaluar soluciones abstractas",
+            "Dependencia de instrucciones explícitas de figuras de autoridad",
+            "Incapacidad para prever consecuencias futuras de sus acciones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_cognitivo"
+        ],
+        "feedback": "El pensamiento formal, característico de los adolescentes, incluye la capacidad de plantear hipótesis y analizar soluciones de forma abstracta."
+    },
+    {
+        "enunciado": "Según la Guía Forma Joven, ¿qué método de intervención es más efectivo para educar sobre la prevención de adicciones?",
+        "opciones": [
+            "Charlas esporádicas sin continuidad",
+            "Integrar la educación sobre adicciones en el currículo escolar",
+            "Prohibir terminantemente cualquier conversación sobre adicciones",
+            "Utilizar exclusivamente materiales audiovisuales sin discusión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_preventiva"
+        ],
+        "feedback": "Integrar la educación sobre adicciones en el currículo escolar garantiza una mayor comprensión y concienciación entre los adolescentes."
+    },
+    {
+        "enunciado": "En la prevención del consumo de cannabis en adolescentes, ¿qué enfoque educativo propone la Estrategia Andaluza de Vida Saludable?",
+        "opciones": [
+            "Normalizar el consumo moderado como parte de la adolescencia",
+            "Fomentar la percepción del riesgo asociado al consumo",
+            "Limitar las discusiones sobre sus efectos a entornos médicos",
+            "Eliminar las actividades recreativas alternativas al consumo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "Fomentar la percepción de riesgo y educar sobre las consecuencias negativas del consumo de cannabis son estrategias clave para su prevención."
+    },
+    {
+        "enunciado": "En el ámbito de la educación emocional, ¿qué estrategia se considera fundamental para prevenir el acoso escolar?",
+        "opciones": [
+            "Promover habilidades de empatía y resolución de conflictos",
+            "Fomentar la competencia entre los estudiantes",
+            "Restringir las interacciones sociales en los centros educativos",
+            "Limitar la participación de las familias en actividades escolares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "Promover habilidades como la empatía y la resolución de conflictos ayuda a los adolescentes a manejar mejor las diferencias y prevenir el acoso escolar."
+    },
+    {
+        "enunciado": "En el marco del III Plan de Infancia y Adolescencia, ¿qué acción se prioriza para mejorar el acceso a la salud mental en adolescentes?",
+        "opciones": [
+            "Aumentar los servicios de psicología clínica en atención primaria",
+            "Reducir la oferta de programas de bienestar emocional",
+            "Restringir la atención psicológica a casos graves",
+            "Fomentar la autogestión emocional sin supervisión profesional"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "El III Plan prioriza la ampliación de los servicios de psicología clínica en atención primaria para garantizar el acceso a la salud mental en adolescentes."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué factor es esencial para promover un sueño saludable en adolescentes?",
+        "opciones": [
+            "Reducir las horas de sueño para aumentar el tiempo de estudio",
+            "Fomentar una rutina regular de horarios de sueño",
+            "Promover el uso de dispositivos electrónicos antes de dormir",
+            "Eliminar por completo las actividades físicas durante el día"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "sueño_saludable"
+        ],
+        "feedback": "Establecer una rutina regular de horarios de sueño es esencial para garantizar un descanso adecuado y el bienestar de los adolescentes."
+    },
+    {
+        "enunciado": "En la prevención de enfermedades de transmisión sexual, ¿qué enfoque es promovido por los programas educativos como Forma Joven?",
+        "opciones": [
+            "Fomentar exclusivamente la abstinencia sin educación complementaria",
+            "Proveer información integral sobre métodos anticonceptivos y ETS",
+            "Restringir el acceso a preservativos para menores de edad",
+            "Evitar las discusiones abiertas sobre sexualidad en los centros educativos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "Los programas educativos como Forma Joven promueven la educación integral sobre métodos anticonceptivos y enfermedades de transmisión sexual para prevenir riesgos."
+    },
+    {
+        "enunciado": "Según la OMS, ¿cuál es un beneficio directo de la actividad física regular en adolescentes?",
+        "opciones": [
+            "Aumento del tiempo dedicado a actividades sedentarias",
+            "Mejora de la salud cardiovascular y el bienestar emocional",
+            "Reducción de la interacción social en grupos de pares",
+            "Dependencia exclusiva de suplementos alimenticios"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "actividad_física"
+        ],
+        "feedback": "La actividad física regular mejora la salud cardiovascular, el desarrollo físico y el bienestar emocional de los adolescentes."
+    },
+    {
+        "enunciado": "En el programa Forma Joven, ¿qué línea de intervención aborda el uso seguro y positivo de las tecnologías de la información?",
+        "opciones": [
+            "Educación emocional",
+            "Estilos de vida saludable",
+            "Uso positivo de las tecnologías",
+            "Prevención de drogodependencias"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_educación"
+        ],
+        "feedback": "El programa Forma Joven incluye una línea específica para fomentar el uso positivo y seguro de las tecnologías de la información y la comunicación."
+    },
+    {
+        "enunciado": "En la prevención de obesidad adolescente, ¿qué práctica promueve la dieta mediterránea?",
+        "opciones": [
+            "Incrementar el consumo de alimentos ultraprocesados",
+            "Favorecer el consumo diario de frutas, verduras y aceite de oliva",
+            "Eliminar por completo las grasas de la dieta",
+            "Sustituir las proteínas vegetales por carnes procesadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "nutrición_saludable"
+        ],
+        "feedback": "La dieta mediterránea promueve un alto consumo de frutas, verduras y aceite de oliva, elementos clave para prevenir la obesidad en adolescentes."
+    },
+    {
+        "enunciado": "¿Qué rol desempeña la familia en la promoción de hábitos saludables en adolescentes según el III Plan de Infancia y Adolescencia?",
+        "opciones": [
+            "Proveer un entorno de apoyo y modelar conductas saludables",
+            "Fomentar la independencia total sin supervisión",
+            "Restringir el acceso a información sobre salud",
+            "Delegar completamente la promoción de hábitos saludables en las escuelas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "rol_familiar"
+        ],
+        "feedback": "El III Plan enfatiza la importancia de la familia como modelo y apoyo esencial para la promoción de hábitos saludables en adolescentes."
+    },
+    {
+        "enunciado": "En el desarrollo emocional adolescente, ¿qué habilidad es clave para fortalecer la resiliencia ante dificultades?",
+        "opciones": [
+            "Evitar la expresión de emociones negativas",
+            "Gestionar emociones y resolver conflictos de manera constructiva",
+            "Aislarse de los amigos y familiares en momentos de estrés",
+            "Depender exclusivamente del apoyo de figuras de autoridad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "La gestión emocional y la resolución constructiva de conflictos son habilidades clave para fortalecer la resiliencia en adolescentes ante dificultades."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué actividad es clave para prevenir el sobrepeso en adolescentes?",
+        "opciones": [
+            "Evitar por completo la ingesta de grasas saludables",
+            "Realizar al menos 60 minutos diarios de actividad física moderada o vigorosa",
+            "Limitar el consumo de proteínas en la dieta",
+            "Aumentar el tiempo dedicado a actividades sedentarias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_obesidad"
+        ],
+        "feedback": "La práctica de 60 minutos diarios de actividad física moderada o vigorosa es fundamental para prevenir el sobrepeso y promover la salud en adolescentes."
+    },
+    {
+        "enunciado": "En el marco del III Plan de Infancia y Adolescencia, ¿qué medida busca fomentar la participación de los adolescentes en la toma de decisiones?",
+        "opciones": [
+            "Restringir su implicación en actividades sociales",
+            "Establecer Consejos de Infancia y Adolescencia",
+            "Aumentar las sanciones por conductas inapropiadas",
+            "Limitar la participación a actividades extracurriculares"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "participación_juvenil"
+        ],
+        "feedback": "El III Plan promueve la creación de Consejos de Infancia y Adolescencia para garantizar que los jóvenes participen activamente en las decisiones que afectan sus vidas."
+    },
+    {
+        "enunciado": "En la prevención del consumo de alcohol en adolescentes, ¿qué enfoque se considera más efectivo según Forma Joven?",
+        "opciones": [
+            "Prohibir todo tipo de reuniones sociales",
+            "Fomentar actividades recreativas alternativas y educación temprana",
+            "Reducir la edad legal para el consumo bajo supervisión",
+            "Limitar el acceso a información sobre los efectos del alcohol"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "El programa Forma Joven aboga por ofrecer actividades recreativas saludables y proporcionar educación temprana sobre los riesgos del consumo de alcohol."
+    },
+    {
+        "enunciado": "En el desarrollo sexual adolescente, ¿qué estrategia educativa incluye Forma Joven para garantizar relaciones responsables y seguras?",
+        "opciones": [
+            "Evitar las discusiones sobre métodos anticonceptivos",
+            "Fomentar el uso de preservativos y educar sobre las ETS",
+            "Promover la abstinencia como única opción válida",
+            "Limitar el acceso a servicios de planificación familiar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "Forma Joven fomenta el uso del preservativo y educa sobre las enfermedades de transmisión sexual como estrategias fundamentales para relaciones responsables y seguras."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿qué impacto tiene el uso excesivo de redes sociales en el bienestar adolescente?",
+        "opciones": [
+            "Mejora de habilidades sociales y académicas",
+            "Reducción del tiempo dedicado a actividades físicas",
+            "Incremento del bienestar emocional y físico",
+            "Disminución de la exposición a contenido nocivo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "El uso excesivo de redes sociales puede llevar a una reducción del tiempo dedicado a actividades físicas y afectar negativamente el bienestar general de los adolescentes."
+    },
+    {
+        "enunciado": "En la educación emocional, ¿qué habilidad es fundamental para prevenir conflictos interpersonales entre adolescentes?",
+        "opciones": [
+            "Evitar el contacto social en situaciones tensas",
+            "Promover la empatía y la comunicación asertiva",
+            "Ignorar las diferencias de opinión para evitar confrontaciones",
+            "Depender exclusivamente de la mediación de adultos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "La empatía y la comunicación asertiva son habilidades esenciales para manejar conflictos interpersonales de manera efectiva en la adolescencia."
+    },
+    {
+        "enunciado": "Según la OMS, ¿qué recomendación es clave para garantizar una dieta equilibrada en adolescentes?",
+        "opciones": [
+            "Eliminar completamente los carbohidratos de la dieta",
+            "Incluir una variedad de alimentos ricos en nutrientes esenciales",
+            "Fomentar el consumo exclusivo de productos bajos en grasa",
+            "Restringir la ingesta de proteínas a una vez por semana"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "nutrición_saludable"
+        ],
+        "feedback": "La OMS recomienda una dieta equilibrada que incluya una variedad de alimentos ricos en nutrientes esenciales para apoyar el desarrollo y la salud de los adolescentes."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia, ¿qué acción se propone para proteger a los adolescentes frente a la violencia de género?",
+        "opciones": [
+            "Limitar su participación en actividades grupales",
+            "Implementar programas de prevención en centros educativos",
+            "Fomentar la dependencia emocional en las relaciones",
+            "Evitar discusiones sobre igualdad de género"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_violencia"
+        ],
+        "feedback": "El III Plan enfatiza la implementación de programas educativos que prevengan la violencia de género y fomenten relaciones basadas en la igualdad y el respeto."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿qué enfoque es esencial para prevenir el uso problemático de tecnologías en adolescentes?",
+        "opciones": [
+            "Prohibir el uso de dispositivos electrónicos en entornos educativos",
+            "Fomentar un uso crítico y equilibrado de las tecnologías",
+            "Limitar completamente el acceso a redes sociales",
+            "Promover el uso continuo de tecnologías para todas las actividades"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "El programa Forma Joven promueve un uso crítico y equilibrado de las tecnologías, enseñando a los adolescentes a manejarlas de manera responsable y saludable."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia, ¿qué medida se ha implementado para garantizar el bienestar emocional de los adolescentes?",
+        "opciones": [
+            "Prohibir actividades extracurriculares relacionadas con la expresión artística",
+            "Promover programas de bienestar emocional en el ámbito educativo",
+            "Fomentar la independencia emocional sin redes de apoyo",
+            "Eliminar el acceso a servicios psicológicos en atención primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_emocional"
+        ],
+        "feedback": "El III Plan incluye programas de bienestar emocional en el ámbito educativo para fortalecer la salud mental de los adolescentes y prevenir problemas emocionales."
+    },
+    {
+        "enunciado": "En la prevención del tabaquismo, ¿qué estrategia destaca la Guía Forma Joven como efectiva para reducir el consumo entre adolescentes?",
+        "opciones": [
+            "Normalizar el consumo moderado de tabaco",
+            "Educación temprana sobre los riesgos y promoción de entornos libres de humo",
+            "Restringir el acceso a información sobre el tabaquismo",
+            "Fomentar el uso de cigarrillos electrónicos como alternativa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_tabaquismo"
+        ],
+        "feedback": "La Guía Forma Joven subraya la importancia de la educación temprana sobre los riesgos del tabaquismo y la creación de entornos libres de humo para prevenir su consumo."
+    },
+    {
+        "enunciado": "¿Qué característica principal distingue la anorexia nerviosa de otros trastornos alimentarios en adolescentes?",
+        "opciones": [
+            "Atracones seguidos de conductas compensatorias",
+            "Rechazo persistente de la ingesta de alimentos debido al miedo a engordar",
+            "Consumo excesivo de alimentos ricos en calorías",
+            "Incremento del peso corporal en un corto periodo de tiempo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "trastornos_alimentarios"
+        ],
+        "feedback": "La anorexia nerviosa se caracteriza por el rechazo persistente a comer debido al miedo obsesivo a engordar, acompañado de una distorsión de la imagen corporal."
+    },
+    {
+        "enunciado": "En el contexto de la promoción de la salud, ¿qué línea de intervención del programa Forma Joven incluye la prevención de adicciones?",
+        "opciones": [
+            "Educación emocional",
+            "Prevención de drogodependencias",
+            "Estilos de vida saludable",
+            "Uso positivo de las tecnologías"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "La línea de prevención de drogodependencias del programa Forma Joven aborda el consumo de sustancias como tabaco, alcohol y cannabis entre adolescentes."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué práctica se recomienda para fomentar una dieta equilibrada en adolescentes?",
+        "opciones": [
+            "Eliminar por completo los carbohidratos de la dieta",
+            "Consumir alimentos variados incluyendo frutas, verduras y proteínas magras",
+            "Sustituir las grasas saludables por alimentos ultraprocesados",
+            "Limitar la ingesta de líquidos durante las comidas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "alimentación_saludable"
+        ],
+        "feedback": "La Estrategia Andaluza de Vida Saludable recomienda consumir alimentos variados, como frutas, verduras y proteínas magras, para mantener una dieta equilibrada."
+    },
+    {
+        "enunciado": "En la prevención de enfermedades de transmisión sexual, ¿qué enfoque integral fomenta Forma Joven?",
+        "opciones": [
+            "Promover la abstinencia sin educación adicional",
+            "Educar sobre el uso de preservativos y la prevención de ETS",
+            "Restringir el acceso a información sobre sexualidad",
+            "Fomentar relaciones exclusivas y sin diálogo abierto"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_sexual"
+        ],
+        "feedback": "Forma Joven fomenta la educación integral sobre el uso de preservativos y la prevención de enfermedades de transmisión sexual para garantizar relaciones seguras."
+    },
+    {
+        "enunciado": "En el desarrollo social adolescente, ¿qué rol desempeñan las relaciones con amigos según estudios psicosociales?",
+        "opciones": [
+            "Sustituyen completamente la influencia de la familia",
+            "Ayudan a formar la identidad y mejorar habilidades sociales",
+            "Generan aislamiento social prolongado",
+            "Limitan la capacidad de adaptación a nuevos entornos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_social"
+        ],
+        "feedback": "Las relaciones con amigos son fundamentales durante la adolescencia, ya que contribuyen a la formación de la identidad y al desarrollo de habilidades sociales."
+    },
+    {
+        "enunciado": "Según el programa Forma Joven, ¿cuál es un factor protector clave frente al consumo de drogas en adolescentes?",
+        "opciones": [
+            "La disponibilidad de sustancias controladas",
+            "La existencia de redes de apoyo social y actividades recreativas saludables",
+            "La exposición temprana a entornos de consumo moderado",
+            "La ausencia de normas claras en el hogar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_adicciones"
+        ],
+        "feedback": "El programa Forma Joven identifica las redes de apoyo social y las actividades recreativas como factores protectores clave frente al consumo de drogas en adolescentes."
+    },
+    {
+        "enunciado": "En el III Plan de Infancia y Adolescencia, ¿qué acción se ha planteado para prevenir el acoso escolar en entornos educativos?",
+        "opciones": [
+            "Incrementar las sanciones disciplinarias sin intervención educativa",
+            "Establecer programas de prevención del acoso y mediación escolar",
+            "Reducir el tiempo de recreo para evitar interacciones conflictivas",
+            "Prohibir las actividades grupales en centros educativos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_violencia"
+        ],
+        "feedback": "El III Plan propone implementar programas de prevención del acoso y mediación escolar para abordar y prevenir el bullying en entornos educativos."
+    },
+    {
+        "enunciado": "En el contexto de la promoción de la salud, ¿qué enfoque utiliza Forma Joven para fomentar hábitos saludables?",
+        "opciones": [
+            "Centrarse exclusivamente en la corrección de conductas inadecuadas",
+            "Potenciar los activos en salud y promover la toma de decisiones informadas",
+            "Imponer restricciones sin justificación a conductas no saludables",
+            "Proveer exclusivamente recursos tecnológicos para el autocuidado"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "Forma Joven utiliza un enfoque basado en potenciar activos en salud y capacitar a los adolescentes para tomar decisiones informadas y responsables."
+    },
+    {
+        "enunciado": "En relación con el desarrollo emocional, ¿qué estrategia educativa promueve la resiliencia en adolescentes?",
+        "opciones": [
+            "Evitar exponer a los adolescentes a desafíos o conflictos",
+            "Desarrollar habilidades de afrontamiento y manejo del estrés",
+            "Fomentar la dependencia en figuras de autoridad para resolver problemas",
+            "Reducir el acceso a actividades grupales para prevenir tensiones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "educación_emocional"
+        ],
+        "feedback": "Desarrollar habilidades de afrontamiento y manejo del estrés fortalece la resiliencia en adolescentes, ayudándoles a superar desafíos y conflictos."
+    },
+    {
+        "enunciado": "En la prevención de obesidad adolescente, ¿qué papel juega la familia según las estrategias del III Plan de Infancia y Adolescencia?",
+        "opciones": [
+            "Limitar el acceso a alimentos saludables en el hogar",
+            "Servir como modelo positivo de hábitos alimentarios y actividad física",
+            "Fomentar dietas restrictivas extremas",
+            "Evitar involucrarse en las decisiones relacionadas con la salud"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "nutrición"
+        ],
+        "feedback": "La familia desempeña un papel crucial como modelo de hábitos saludables, promoviendo una alimentación equilibrada y la actividad física regular."
+    },
+    {
+        "enunciado": "¿Qué habilidad característica del pensamiento formal emerge en la adolescencia según Piaget?",
+        "opciones": [
+            "Resolución de problemas exclusivamente basados en experiencias concretas",
+            "Capacidad para realizar razonamientos abstractos y manejar hipótesis",
+            "Limitación a razonamientos concretos y tangibles",
+            "Dependencia total de instrucciones externas para resolver problemas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_cognitivo"
+        ],
+        "feedback": "El pensamiento formal permite a los adolescentes razonar de manera abstracta, plantear hipótesis y evaluar diferentes escenarios de forma independiente."
+    },
+    {
+        "enunciado": "Según la Estrategia Andaluza de Vida Saludable, ¿qué enfoque es fundamental para promover el bienestar emocional en adolescentes?",
+        "opciones": [
+            "Fomentar el aislamiento social en momentos de estrés",
+            "Promover la expresión emocional y el apoyo mutuo en redes sociales y familiares",
+            "Evitar discusiones abiertas sobre salud emocional",
+            "Centrarse exclusivamente en la prevención de conflictos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_emocional"
+        ],
+        "feedback": "Promover la expresión emocional y establecer redes de apoyo sólidas son estrategias fundamentales para el bienestar emocional en adolescentes."
+    },
+    {
+        "enunciado": "En el ámbito del uso positivo de las tecnologías, ¿qué estrategia fomenta Forma Joven para prevenir el ciberacoso?",
+        "opciones": [
+            "Prohibir el acceso a internet durante la adolescencia",
+            "Educar en el uso crítico y seguro de las plataformas digitales",
+            "Fomentar el anonimato en las interacciones en línea",
+            "Limitar las discusiones sobre el impacto de la tecnología en el aula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "Forma Joven fomenta la educación en el uso crítico y seguro de las plataformas digitales como estrategia para prevenir el ciberacoso en adolescentes."
+    },
+    {
+        "enunciado": "¿Qué define la OMS como adolescencia?",
+        "opciones": [
+            "El periodo de cambios físicos que conducen a la pubertad.",
+            "El intervalo entre los 10 y los 20 años según los estándares internacionales.",
+            "El periodo de cambios biológicos, psicológicos y sociales que ocurre durante la segunda década de la vida.",
+            "La etapa de inicio y consolidación de la madurez emocional."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_psicosocial"
+        ],
+        "feedback": "La OMS define la adolescencia como un periodo de cambios biológicos, psicológicos y sociales que ocurre en la segunda década de la vida, abarcando la maduración sexual, los cambios psicosociales y el desarrollo hacia el pensamiento adulto."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal del programa Forma Joven?",
+        "opciones": [
+            "Ofrecer recursos educativos para mejorar el rendimiento académico de los adolescentes.",
+            "Promover entornos y conductas saludables en jóvenes y adolescentes mediante intervenciones multidisciplinarias.",
+            "Garantizar el acceso gratuito a servicios de salud para adolescentes en Andalucía.",
+            "Fomentar actividades recreativas y deportivas en espacios comunitarios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "promoción_salud"
+        ],
+        "feedback": "El programa Forma Joven tiene como objetivo promover entornos y conductas saludables en jóvenes y adolescentes mediante la acción intersectorial y actividades de promoción de la salud adaptadas a sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de adolescentes con trastornos alimentarios presenta anorexia nerviosa?",
+        "opciones": [
+            "Alrededor del 2%.",
+            "Un 5%.",
+            "Más del 10%.",
+            "Menos del 1%."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_alimentaria"
+        ],
+        "feedback": "Los trastornos alimentarios afectan a un 5% de los adolescentes, siendo la anorexia nerviosa una de las manifestaciones más prevalentes, especialmente entre las chicas jóvenes."
+    },
+    {
+        "enunciado": "¿Qué caracteriza el desarrollo intelectual en la adolescencia según el tema 51?",
+        "opciones": [
+            "Un pensamiento más estructurado pero limitado a contextos específicos.",
+            "La capacidad de análisis abstracto y comprensión descontextualizada de la realidad.",
+            "El desarrollo exclusivo de habilidades técnicas relacionadas con la educación formal.",
+            "La falta de cambios significativos en comparación con la infancia."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_intelectual"
+        ],
+        "feedback": "Durante la adolescencia se desarrolla un pensamiento más abstracto y descontextualizado, lo que permite una mejor comprensión de la realidad y un análisis más profundo."
+    },
+    {
+        "enunciado": "¿Qué línea de intervención de Forma Joven aborda el uso positivo de las tecnologías?",
+        "opciones": [
+            "Educación emocional.",
+            "Estilos de vida saludables.",
+            "Prevención de drogodependencias.",
+            "Uso positivo de las tecnologías de la información y la comunicación."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "tecnología_y_salud"
+        ],
+        "feedback": "La línea de intervención del programa Forma Joven sobre el uso positivo de las tecnologías fomenta un manejo responsable y saludable de las herramientas digitales por parte de los adolescentes."
+    },
+    {
+        "enunciado": "Según el Plan Andaluz de Infancia y Adolescencia, ¿qué prioridad se establece en relación con la salud mental?",
+        "opciones": [
+            "Reducir los recursos destinados a salud mental en atención primaria.",
+            "Fortalecer la atención en salud mental infanto-juvenil.",
+            "Incorporar exclusivamente programas de prevención de adicciones.",
+            "Focalizarse en el tratamiento farmacológico como única solución."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "salud_mental"
+        ],
+        "feedback": "El Plan Andaluz de Infancia y Adolescencia prioriza fortalecer la atención en salud mental infanto-juvenil, asegurando el bienestar emocional y social de los adolescentes."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre pubertad y adolescencia?",
+        "opciones": [
+            "La pubertad incluye cambios físicos, mientras que la adolescencia abarca cambios psicológicos y sociales.",
+            "La pubertad se desarrolla exclusivamente en mujeres, mientras que la adolescencia afecta a ambos sexos.",
+            "La adolescencia está marcada por la maduración sexual, mientras que la pubertad es una etapa social.",
+            "La adolescencia comienza antes que la pubertad en la mayoría de los casos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "desarrollo_biopsicosocial"
+        ],
+        "feedback": "La pubertad se refiere a los cambios físicos y maduración sexual, mientras que la adolescencia incluye aspectos psicológicos y sociales relacionados con el pensamiento adulto."
+    },
+    {
+        "enunciado": "¿Qué factor se considera esencial para prevenir la obesidad en adolescentes según la OMS?",
+        "opciones": [
+            "Limitar únicamente el consumo de carbohidratos.",
+            "Fomentar el ejercicio físico como una actividad divertida y regular.",
+            "Evitar por completo el consumo de grasas y aceites.",
+            "Promover dietas restrictivas supervisadas por profesionales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "prevención_obesidad"
+        ],
+        "feedback": "La OMS resalta la importancia de promover el ejercicio físico como una actividad lúdica y regular para prevenir la obesidad en adolescentes."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo del III Plan de Infancia y Adolescencia de Andalucía respecto a la protección infantil?",
+        "opciones": [
+            "Reducir el número de programas sociales para la infancia.",
+            "Garantizar la atención integral y coordinada ante situaciones de violencia.",
+            "Centralizar todos los recursos en programas educativos.",
+            "Despriorizar las políticas públicas dirigidas a menores."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema51",
+            "cuidados_adolescencia",
+            "protección_infantil"
+        ],
+        "feedback": "El III Plan de Infancia y Adolescencia de Andalucía busca garantizar la atención integral y coordinada a menores en situaciones de violencia, promoviendo su protección y bienestar."
+    }
+]
