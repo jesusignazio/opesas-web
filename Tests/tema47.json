@@ -1,0 +1,1310 @@
+[
+    {
+        "enunciado": "¿Qué caracteriza el subperiodo preoperacional según Piaget?",
+        "opciones": [
+          "El desarrollo del pensamiento abstracto.",
+          "La conservación del peso y el volumen.",
+          "Una postura egocéntrica y el uso global de categorías.",
+          "La aplicación de operaciones lógicas con objetos reales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo preoperacional, el niño muestra egocentrismo y utiliza categorías globales basadas en características sobresalientes."
+      },
+      {
+        "enunciado": "Según el modelo de los cinco grandes rasgos de personalidad (OCEAN), ¿qué describe el factor de Neuroticismo?",
+        "opciones": [
+          "La capacidad para experimentar nuevas ideas.",
+          "La estabilidad emocional y sensibilidad al estrés.",
+          "La tendencia a cooperar y confiar en otros.",
+          "El grado de organización y autodisciplina."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "El Neuroticismo refleja sensibilidad al estrés y emociones intensas, siendo un indicador de estabilidad emocional."
+      },
+      {
+        "enunciado": "¿Cuál es una acción fundamental para fomentar la humanización en el sistema sanitario según el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Aumentar los recursos tecnológicos en atención primaria.",
+          "Fomentar la participación activa de pacientes y familiares.",
+          "Implementar una atención sanitaria basada exclusivamente en protocolos.",
+          "Reducir los tiempos de espera en urgencias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA enfatiza la participación activa de pacientes y familiares para lograr una atención más humana y centrada en la persona."
+      },
+      {
+        "enunciado": "¿Qué define el periodo sensomotriz en el desarrollo según Piaget?",
+        "opciones": [
+          "La capacidad de categorizar objetos abstractos.",
+          "El inicio del uso de operaciones formales.",
+          "El desarrollo de esquemas senso-motrices y la coordinación de reflejos.",
+          "El dominio de relaciones de proporcionalidad y conservación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo sensomotriz, los esquemas senso-motrices se perfeccionan y los reflejos se coordinan progresivamente."
+      },
+      {
+        "enunciado": "¿Qué objetivo busca el Plan de Humanización del SSPA en el ámbito relacional?",
+        "opciones": [
+          "Garantizar el acceso a medicamentos innovadores.",
+          "Humanizar las relaciones entre profesionales y pacientes.",
+          "Digitalizar todos los procesos de atención sanitaria.",
+          "Incrementar la especialización de los servicios médicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA destaca la importancia de relaciones humanas en la atención sanitaria para mejorar la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Cuál es una característica principal de la etapa de madurez según la teoría del desarrollo humano?",
+        "opciones": [
+          "La formación de esquemas senso-motrices básicos.",
+          "El cuestionamiento de logros vitales durante la crisis de la mediana edad.",
+          "El inicio del pensamiento abstracto y crítico.",
+          "La consolidación de habilidades emocionales básicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la etapa de madurez, las personas suelen experimentar una crisis de mediana edad, cuestionando sus logros y objetivos vitales."
+      },
+      {
+        "enunciado": "En el modelo de personalidad de Carl Jung, ¿cómo se describe a una persona intuitiva introvertida?",
+        "opciones": [
+          "Práctica, enfocada en detalles concretos.",
+          "Creativa, soñadora y apasionada, aunque inestable en relaciones.",
+          "Excesivamente emotiva y reacia al pensamiento abstracto.",
+          "Adaptable, con tendencia a evitar conflictos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "Una persona intuitiva introvertida según Jung es creativa y soñadora, pero puede mostrar inestabilidad en sus relaciones interpersonales."
+      },
+      {
+        "enunciado": "¿Qué acción NO está alineada con las estrategias de humanización propuestas en el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Fomentar la comunicación clara y efectiva con los pacientes.",
+          "Promover la participación activa en la toma de decisiones sanitarias.",
+          "Desarrollar un entorno hospitalario más confortable.",
+          "Reducir la intervención del paciente en su tratamiento."
+        ],
+        "correcta": 3,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "Reducir la intervención del paciente va en contra de los principios de humanización, que promueven la participación activa y el respeto por sus decisiones."
+      },
+      {
+        "enunciado": "Según Piaget, ¿qué habilidad se desarrolla durante el periodo de operaciones formales?",
+        "opciones": [
+          "El uso intuitivo del lenguaje y la imitación.",
+          "La capacidad para realizar comparaciones lógicas con objetos concretos.",
+          "El pensamiento abstracto y el razonamiento hipotético-deductivo.",
+          "La conservación de masa y volumen."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales permite a los individuos desarrollar pensamiento abstracto y razonamiento hipotético, ampliando sus capacidades cognitivas."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo de motivación intrínseca según el tema de desarrollo humano?",
+        "opciones": [
+          "Recibir un reconocimiento público por un logro.",
+          "Realizar una actividad por satisfacción personal.",
+          "Cumplir con una tarea para evitar un castigo.",
+          "Trabajar en un proyecto para obtener un bono económico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "motivación"],
+        "feedback": "La motivación intrínseca implica realizar actividades por satisfacción personal, sin necesidad de recompensas externas."
+      },
+      {
+        "enunciado": "¿Qué fase del desarrollo humano se asocia con el inicio del deterioro funcional progresivo?",
+        "opciones": [
+          "Fase de desarrollo.",
+          "Fase de madurez.",
+          "Fase de involución.",
+          "Adultez temprana."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La fase de involución se caracteriza por el deterioro progresivo de las funciones físicas y psíquicas, típicamente a partir de los 60 años."
+      },
+      {
+        "enunciado": "¿Qué distingue a una personalidad tipo A según la clasificación de personalidades ante estresores?",
+        "opciones": [
+          "Baja competitividad y ritmo pausado.",
+          "Tendencia al estrés elevado, hostilidad y competitividad.",
+          "Fácil adaptación a los cambios y enfoque en relaciones sociales.",
+          "Alta resiliencia y bajo nivel de ansiedad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La personalidad tipo A se asocia con características como competitividad, hostilidad y un alto nivel de estrés, lo que puede tener implicaciones para la salud."
+      },
+      {
+        "enunciado": "¿Qué representa el concepto de 'seriación' en el periodo de operaciones concretas?",
+        "opciones": [
+          "La capacidad de establecer y comparar relaciones lógicas entre objetos.",
+          "La habilidad para categorizar objetos basándose en características globales.",
+          "El uso de esquemas senso-motrices para interactuar con el entorno.",
+          "El desarrollo del pensamiento crítico abstracto."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La seriación implica ordenar objetos o conceptos en función de diferencias lógicas, una habilidad fundamental en el periodo de operaciones concretas."
+      },
+      {
+        "enunciado": "En el contexto del Plan de Humanización del SSPA, ¿qué elemento es clave para mejorar la experiencia del paciente?",
+        "opciones": [
+          "Centrarse exclusivamente en la eficiencia económica.",
+          "Aumentar la tecnificación en todos los procesos.",
+          "Garantizar un trato digno, equitativo y personalizado.",
+          "Reducir la comunicación entre profesionales y pacientes."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA promueve un trato digno y personalizado como eje fundamental para mejorar la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Qué se entiende por motivación extrínseca en el contexto del desarrollo humano?",
+        "opciones": [
+          "El deseo de realizar actividades por interés personal.",
+          "La búsqueda de recompensas externas o evitar castigos.",
+          "El impulso de satisfacer necesidades fisiológicas básicas.",
+          "La inspiración generada por un modelo a seguir."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "motivación"],
+        "feedback": "La motivación extrínseca ocurre cuando las acciones son impulsadas por recompensas externas o para evitar consecuencias negativas."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo de adaptación positiva en la etapa de vejez según el desarrollo humano?",
+        "opciones": [
+          "Evitar interacciones sociales para reducir estrés.",
+          "Aceptar el ciclo de vida y mantener actividades significativas.",
+          "Depender exclusivamente de la familia para el cuidado diario.",
+          "Negar los cambios físicos y emocionales asociados a la edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la vejez, la adaptación positiva incluye aceptar el ciclo de vida y encontrar satisfacción en actividades significativas."
+      },
+      {
+        "enunciado": "Según el modelo OCEAN, ¿cómo se describe a una persona con alta puntuación en responsabilidad (Conscientiousness)?",
+        "opciones": [
+          "Sensible al estrés y con emociones intensas.",
+          "Metódica, organizada y confiable.",
+          "Sociable, energética y extrovertida.",
+          "Abierta a nuevas ideas y experiencias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La responsabilidad describe a personas metódicas y organizadas, que se destacan por su confiabilidad y autodisciplina."
+      },
+      {
+        "enunciado": "¿Qué principio básico destaca el Plan de Humanización del SSPA para promover una atención centrada en la persona?",
+        "opciones": [
+          "Reducir el número de profesionales en los servicios.",
+          "Enfocar la atención únicamente en criterios económicos.",
+          "Garantizar accesibilidad, dignidad y personalización.",
+          "Limitar la participación de los pacientes en la toma de decisiones."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA enfatiza accesibilidad, dignidad y personalización para una atención centrada en la persona."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a una personalidad resistente frente a estresores?",
+        "opciones": [
+          "Alta vulnerabilidad al estrés y emociones intensas.",
+          "Capacidad para manejar el estrés mediante control, compromiso y desafío.",
+          "Tendencia a evitar responsabilidades en situaciones complejas.",
+          "Reacción explosiva y competitiva ante estímulos estresantes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "Las personalidades resistentes manejan el estrés de manera efectiva, enfocándose en el control, el compromiso y viendo el estrés como un desafío."
+      },
+      {
+        "enunciado": "¿Qué factor NO contribuye a la deshumanización en la atención sanitaria según el Plan de Humanización del SSPA?",
+        "opciones": [
+          "La excesiva burocratización de los procesos sanitarios.",
+          "El enfoque exclusivo en criterios economicistas.",
+          "La integración de las tecnologías en el acto asistencial.",
+          "La fragmentación de los servicios de salud."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "La integración de tecnologías, si se utiliza adecuadamente, puede enriquecer la atención sanitaria sin deshumanizarla."
+      },
+      {
+        "enunciado": "¿Qué etapa del desarrollo humano enfatiza la búsqueda de estabilidad laboral, social y familiar?",
+        "opciones": [
+          "Infancia.",
+          "Adolescencia.",
+          "Adultez temprana.",
+          "Vejez."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la adultez temprana, las personas suelen enfocarse en estabilizar aspectos laborales, sociales y familiares de sus vidas."
+      },
+      {
+        "enunciado": "Según Piaget, ¿qué capacidad se desarrolla en el periodo del pensamiento preoperacional?",
+        "opciones": [
+          "El uso intuitivo de números y establecimiento de clases.",
+          "El razonamiento lógico con operaciones abstractas.",
+          "La capacidad de realizar acciones contrarias a las originales.",
+          "La coordinación de reflejos senso-motrices."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el pensamiento preoperacional, el niño desarrolla habilidades intuitivas como el uso de números y la clasificación básica de objetos."
+      },
+      {
+        "enunciado": "¿Qué objetivo se persigue con la participación activa de los pacientes en el sistema sanitario según el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Reducir el tiempo de consulta médica.",
+          "Incrementar la corresponsabilidad y el empoderamiento del paciente.",
+          "Eliminar la necesidad de comunicación entre paciente y profesional.",
+          "Priorizar la eficiencia técnica sobre la interacción humana."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA busca empoderar a los pacientes y fomentar su corresponsabilidad en la atención sanitaria."
+      },
+      {
+        "enunciado": "¿Qué caracteriza el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "La capacidad de manejar conceptos abstractos.",
+          "El uso de comparaciones lógicas con objetos reales.",
+          "La imitación y adquisición del lenguaje.",
+          "El egocentrismo en la percepción del entorno."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, el niño adquiere habilidades para realizar comparaciones lógicas, pero con objetos tangibles."
+      },
+      {
+        "enunciado": "¿Qué define la etapa de adolescencia en el desarrollo humano?",
+        "opciones": [
+          "La consolidación de habilidades profesionales.",
+          "El rápido crecimiento físico y los cambios hormonales.",
+          "La estabilidad emocional y social.",
+          "La aceptación del ciclo vital y la preparación para la jubilación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La adolescencia se caracteriza por el rápido crecimiento físico y cambios hormonales, esenciales para la formación de la identidad."
+      },
+      {
+        "enunciado": "¿Qué función destaca en el modelo de personalidad tipo B ante estresores?",
+        "opciones": [
+          "Altos niveles de hostilidad y competitividad.",
+          "Un enfoque calmado y poca tendencia al estrés.",
+          "Reacciones explosivas ante frustraciones.",
+          "Evitar la interacción social para reducir conflictos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La personalidad tipo B se asocia con una actitud calmada, con menor tendencia a experimentar estrés en situaciones complejas."
+      },
+      {
+        "enunciado": "¿Qué estrategia de humanización promueve el Plan de Humanización del SSPA en entornos hospitalarios?",
+        "opciones": [
+          "Reducir los tiempos de consulta médica a un mínimo.",
+          "Fomentar espacios confortables y personalizados para pacientes.",
+          "Digitalizar todos los procesos de atención sin interacción personal.",
+          "Evitar la participación de los familiares en la toma de decisiones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA busca entornos hospitalarios más confortables y personalizados para mejorar la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Qué habilidad representa el concepto de 'reversibilidad' en el desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Pensar en situaciones hipotéticas y abstractas.",
+          "Realizar una acción contraria a la que se acaba de realizar.",
+          "Categorizar objetos en clases generales.",
+          "Consolidar esquemas senso-motrices básicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La reversibilidad permite realizar una acción contraria a otra previamente efectuada, mostrando un avance en el pensamiento lógico."
+      },
+      {
+        "enunciado": "¿Qué aspecto destaca en la etapa de adultez media según el desarrollo humano?",
+        "opciones": [
+          "La exploración y adquisición del lenguaje.",
+          "La preocupación por el bienestar de los hijos y los padres ancianos.",
+          "El desarrollo de habilidades senso-motrices.",
+          "La formación de la identidad personal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "Durante la adultez media, las personas enfrentan desafíos relacionados con el cuidado de hijos adolescentes y padres ancianos, equilibrando sus roles."
+      },
+      {
+        "enunciado": "Según el modelo de los cinco grandes rasgos de personalidad (OCEAN), ¿cómo se describe a una persona con baja puntuación en amabilidad?",
+        "opciones": [
+          "Altruista y confiada.",
+          "Crítica y competitiva.",
+          "Creativa e inventiva.",
+          "Introvertida y reservada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "Una baja puntuación en amabilidad indica una tendencia a ser más crítica y competitiva, priorizando sus propios intereses."
+      },
+      {
+        "enunciado": "¿Qué define la fase de involución según la teoría del desarrollo humano?",
+        "opciones": [
+          "El establecimiento de metas profesionales y personales.",
+          "El deterioro progresivo de funciones físicas y psíquicas.",
+          "La formación de vínculos íntimos y estables.",
+          "El desarrollo de habilidades operacionales concretas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La fase de involución implica un deterioro progresivo en las funciones físicas y psíquicas, comúnmente asociada con la vejez."
+      },
+      {
+        "enunciado": "¿Qué estrategia destaca en el Plan de Humanización del SSPA para involucrar a los pacientes?",
+        "opciones": [
+          "Limitar su participación a los aspectos técnicos de su tratamiento.",
+          "Fomentar decisiones compartidas entre pacientes y profesionales.",
+          "Centrar la atención únicamente en la eficacia clínica.",
+          "Evitar el uso de tecnologías de información para comunicarse."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA promueve decisiones compartidas, fortaleciendo la corresponsabilidad y el empoderamiento del paciente."
+      },
+      {
+        "enunciado": "En la etapa de adultez temprana, ¿qué objetivo es prioritario según el desarrollo humano?",
+        "opciones": [
+          "Desarrollar habilidades abstractas y críticas.",
+          "Estabilizar aspectos laborales, sociales y familiares.",
+          "Aceptar el deterioro físico como parte del ciclo vital.",
+          "Consolidar la capacidad de pensamiento lógico concreto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la adultez temprana, las personas tienden a estabilizar su vida laboral, social y familiar como parte de su desarrollo personal."
+      },
+      {
+        "enunciado": "¿Qué función esencial tiene la personalización en la atención sanitaria según el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Asegurar un trato genérico para optimizar recursos.",
+          "Adaptar la atención a las necesidades y expectativas individuales.",
+          "Eliminar la intervención directa de los profesionales sanitarios.",
+          "Priorizar criterios economicistas sobre las relaciones humanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "La personalización en la atención sanitaria adapta los servicios a las necesidades y expectativas individuales, mejorando la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Qué caracteriza la etapa de adolescencia en el desarrollo humano?",
+        "opciones": [
+          "La consolidación de habilidades motoras básicas.",
+          "El desarrollo de una identidad personal y la búsqueda de independencia.",
+          "La estabilización emocional y profesional.",
+          "El inicio del deterioro funcional asociado a la edad avanzada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la adolescencia, los individuos buscan desarrollar su identidad personal y una mayor independencia en sus relaciones y decisiones."
+      },
+      {
+        "enunciado": "Según el Plan de Humanización del SSPA, ¿qué acción fomenta la humanización en la atención perinatal?",
+        "opciones": [
+          "Evitar la implicación emocional en la relación con los pacientes.",
+          "Reducir la interacción entre profesionales y familias.",
+          "Ofrecer atención integral que contemple aspectos emocionales y sociales.",
+          "Centrar la atención exclusivamente en indicadores clínicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA destaca la importancia de una atención integral que incluya el bienestar emocional y social en la atención perinatal."
+      },
+      {
+        "enunciado": "¿Qué habilidad distingue al periodo sensomotriz según Piaget?",
+        "opciones": [
+          "La adquisición del lenguaje y la imitación.",
+          "La coordinación de reflejos y el aprendizaje a través de la interacción sensorial.",
+          "El desarrollo de operaciones lógicas aplicadas a objetos tangibles.",
+          "El pensamiento crítico y la resolución de problemas abstractos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo sensomotriz está marcado por la coordinación de reflejos y el aprendizaje basado en la interacción con el entorno a través de los sentidos."
+      },
+      {
+        "enunciado": "¿Qué aspecto es esencial para garantizar una práctica humanizada en el sistema sanitario según el Plan del SSPA?",
+        "opciones": [
+          "La centralización de decisiones en la gerencia hospitalaria.",
+          "La capacitación exclusiva en habilidades técnicas.",
+          "La participación activa de los pacientes y familiares en la toma de decisiones.",
+          "La eliminación de la personalización en los procesos asistenciales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "La participación activa de pacientes y familiares es un pilar del Plan de Humanización del SSPA, fortaleciendo el enfoque centrado en la persona."
+      },
+      {
+        "enunciado": "¿Qué desarrollo cognitivo ocurre en el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "El inicio del razonamiento hipotético-deductivo.",
+          "La capacidad de realizar operaciones lógicas con objetos reales.",
+          "La utilización de esquemas senso-motrices básicos.",
+          "La adquisición inicial del lenguaje."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, los niños desarrollan la capacidad de realizar operaciones lógicas con objetos tangibles."
+      },
+      {
+        "enunciado": "¿Qué implica el concepto de 'personalización' en el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Ajustar la atención sanitaria a las necesidades y preferencias individuales.",
+          "Uniformar los protocolos de atención para todos los pacientes.",
+          "Priorizar la eficiencia económica sobre las relaciones interpersonales.",
+          "Centrarse exclusivamente en indicadores técnicos de calidad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "La personalización implica adaptar la atención a las necesidades y valores individuales de cada paciente, promoviendo su bienestar integral."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a una personalidad tipo B frente a los estresores?",
+        "opciones": [
+          "Altos niveles de hostilidad y competitividad.",
+          "Un enfoque relajado y una baja reactividad al estrés.",
+          "Tendencia a la ansiedad crónica y dificultad para manejar el estrés.",
+          "Una necesidad constante de aprobación externa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La personalidad tipo B se caracteriza por una actitud relajada y menor reactividad ante situaciones estresantes, en comparación con la tipo A."
+      },
+      {
+        "enunciado": "¿Qué diferencia al subperiodo intuitivo del preoperacional en el desarrollo cognitivo de Piaget?",
+        "opciones": [
+          "La capacidad de realizar clasificaciones globales basadas en características sobresalientes.",
+          "El uso intuitivo de números y relaciones lógicas sin plena conciencia del procedimiento.",
+          "El egocentrismo en la percepción del entorno y la categorización de objetos.",
+          "El inicio del pensamiento abstracto y las operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo intuitivo, los niños utilizan números y relaciones lógicas de manera intuitiva, sin ser plenamente conscientes de los métodos empleados."
+      },
+      {
+        "enunciado": "¿Qué objetivo principal persigue el Plan de Humanización del SSPA?",
+        "opciones": [
+          "Mejorar exclusivamente la eficiencia económica del sistema sanitario.",
+          "Asegurar una atención centrada en la persona, con dignidad y participación activa.",
+          "Reducir el tiempo de interacción entre pacientes y profesionales.",
+          "Establecer protocolos uniformes para todas las situaciones clínicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA busca garantizar una atención centrada en la persona, respetando su dignidad y fomentando su participación activa."
+      },
+      {
+        "enunciado": "¿Qué etapa del desarrollo humano está marcada por la búsqueda de autorrealización y plena productividad?",
+        "opciones": [
+          "Infancia.",
+          "Adultez temprana.",
+          "Adultez media.",
+          "Vejez."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La adultez media es una etapa clave para la autorrealización, la consolidación profesional y la plena productividad personal."
+      },
+      {
+        "enunciado": "Según Piaget, ¿qué capacidad se desarrolla durante el periodo de operaciones formales?",
+        "opciones": [
+          "La conservación de peso y volumen.",
+          "El pensamiento abstracto y el razonamiento hipotético-deductivo.",
+          "La clasificación intuitiva de objetos tangibles.",
+          "La coordinación de reflejos senso-motrices."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones formales, los individuos adquieren la capacidad de pensamiento abstracto y de razonamiento basado en hipótesis."
+      },
+      {
+        "enunciado": "¿Qué elemento NO es parte del modelo de los cinco grandes rasgos de personalidad (OCEAN)?",
+        "opciones": [
+          "Apertura a la experiencia.",
+          "Resiliencia.",
+          "Responsabilidad.",
+          "Amabilidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "El modelo OCEAN incluye apertura, responsabilidad, extroversión, amabilidad y neuroticismo; resiliencia no es uno de sus componentes."
+      },
+      {
+        "enunciado": "¿Qué principio ético subyace en el Plan de Humanización del SSPA?",
+        "opciones": [
+          "La priorización de la eficiencia económica sobre la calidad asistencial.",
+          "El respeto por la autonomía y la dignidad de las personas.",
+          "La eliminación de la participación ciudadana en decisiones sanitarias.",
+          "La implementación exclusiva de tecnologías de vanguardia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA enfatiza el respeto por la autonomía y la dignidad como pilares éticos fundamentales en la atención sanitaria."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a una personalidad tipo C según las respuestas ante estresores?",
+        "opciones": [
+          "Alta competitividad y hostilidad.",
+          "Tendencia a reprimir emociones y buscar aprobación.",
+          "Enfoque relajado y baja reactividad al estrés.",
+          "Resiliencia y alta capacidad para manejar cambios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La personalidad tipo C se asocia con la represión de emociones y una alta necesidad de aprobación, lo que puede impactar en la salud."
+      },
+      {
+        "enunciado": "¿Qué etapa del desarrollo humano se asocia con el inicio de la capacidad reproductiva y el crecimiento emocional?",
+        "opciones": [
+          "Infancia.",
+          "Adolescencia.",
+          "Adultez temprana.",
+          "Vejez."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La adolescencia marca el inicio de la capacidad reproductiva, acompañado de cambios emocionales y sociales significativos."
+      },
+      {
+        "enunciado": "¿Qué estrategia del Plan de Humanización del SSPA busca mejorar la experiencia del paciente en el ámbito asistencial?",
+        "opciones": [
+          "Digitalizar todos los procesos sanitarios.",
+          "Aumentar el uso de espacios compartidos en hospitales.",
+          "Garantizar una atención personalizada y respetuosa.",
+          "Reducir el tiempo de interacción con el personal sanitario."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA promueve una atención personalizada como un componente esencial de la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Qué característica es fundamental en el subperiodo preoperacional según Piaget?",
+        "opciones": [
+          "La adquisición del razonamiento abstracto.",
+          "El pensamiento egocéntrico y la categorización global.",
+          "La conservación de peso y volumen.",
+          "La coordinación entre reflejos y esquemas senso-motrices."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo preoperacional, los niños muestran un pensamiento egocéntrico y una categorización basada en características generales."
+      },
+      {
+        "enunciado": "¿Cuál es un factor que contribuye a la deshumanización en el entorno sanitario, según el Plan de Humanización del SSPA?",
+        "opciones": [
+          "La formación en competencias interpersonales.",
+          "El enfoque excesivo en criterios economicistas.",
+          "La participación activa de los pacientes en la toma de decisiones.",
+          "El diseño de espacios sanitarios más confortables."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA identifica el enfoque excesivo en criterios economicistas como un factor que puede deshumanizar la atención sanitaria."
+      },
+      {
+        "enunciado": "¿Qué objetivo se busca en la adultez temprana según el desarrollo humano?",
+        "opciones": [
+          "La consolidación de habilidades motoras básicas.",
+          "La búsqueda de estabilidad laboral y relacional.",
+          "El inicio de la capacidad reproductiva.",
+          "La aceptación del ciclo de vida y la jubilación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "En la adultez temprana, las personas se centran en lograr estabilidad laboral, social y en las relaciones íntimas significativas."
+      },
+      {
+        "enunciado": "¿Qué distingue a una personalidad con alta puntuación en amabilidad según el modelo OCEAN?",
+        "opciones": [
+          "Tendencia a buscar la rutina y evitar riesgos.",
+          "Competitividad y crítica hacia otros.",
+          "Compasión, cooperación y confianza en los demás.",
+          "Alta sensibilidad al estrés y reacciones emocionales intensas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La amabilidad se relaciona con la cooperación, compasión y confianza, promoviendo relaciones sociales positivas y colaborativas."
+      },
+      {
+        "enunciado": "¿Qué etapa del desarrollo humano según Piaget incluye la adquisición del pensamiento lógico relacionado con objetos tangibles?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones concretas se caracteriza por el desarrollo del pensamiento lógico aplicado a objetos tangibles y situaciones concretas."
+      },
+      {
+        "enunciado": "¿Qué estrategia del Plan de Humanización del SSPA busca integrar a las familias en el proceso asistencial?",
+        "opciones": [
+          "Aumentar la eficiencia en los tiempos de atención.",
+          "Crear entornos sanitarios accesibles y empáticos.",
+          "Fomentar la automatización de los diagnósticos.",
+          "Reducir la interacción familiar en entornos hospitalarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "El Plan de Humanización del SSPA destaca la importancia de integrar a las familias y crear entornos accesibles y empáticos para mejorar la experiencia asistencial."
+      },
+      {
+        "enunciado": "¿Qué elemento distingue la fase de involución en el ciclo vital humano?",
+        "opciones": [
+          "El desarrollo de habilidades motoras avanzadas.",
+          "El inicio del pensamiento abstracto.",
+          "El deterioro progresivo de las funciones físicas y psíquicas.",
+          "El establecimiento de una identidad profesional."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "etapas_vitales"],
+        "feedback": "La fase de involución, que comienza aproximadamente a los 60 años, se caracteriza por un deterioro progresivo en las funciones físicas y psíquicas."
+      },
+      {
+        "enunciado": "Según el modelo de personalidad de Carl Jung, ¿qué caracteriza a una persona sentimental introvertida?",
+        "opciones": [
+          "Alegre, práctica y enfocada en logros tangibles.",
+          "Reservada, melancólica y con tendencia al aislamiento.",
+          "Competitiva, enfocada en el éxito y orientada a la acción.",
+          "Empática, emocional y sociable con grandes habilidades sociales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "Una persona sentimental introvertida, según Carl Jung, es melancólica, reservada y suele tener dificultades para exteriorizar sus emociones."
+      },
+      {
+        "enunciado": "¿Qué objetivo persigue el Plan de Humanización del SSPA en el ámbito estructural?",
+        "opciones": [
+          "Reducir los tiempos de consulta médica.",
+          "Diseñar espacios sanitarios que promuevan confort y accesibilidad.",
+          "Automatizar los procesos administrativos en los hospitales.",
+          "Eliminar las interacciones directas entre profesionales y pacientes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "En el ámbito estructural, el Plan de Humanización del SSPA busca diseñar espacios confortables y accesibles para mejorar la experiencia del paciente."
+      },
+      {
+        "enunciado": "¿Qué desarrollo cognitivo ocurre en el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "El uso de operaciones lógicas aplicadas a objetos concretos.",
+          "El desarrollo del razonamiento hipotético-deductivo.",
+          "La adquisición del lenguaje y la imitación.",
+          "La coordinación de reflejos básicos con el entorno."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Durante el periodo de operaciones concretas, los niños desarrollan habilidades lógicas que aplican a objetos y situaciones concretas."
+      },
+      {
+        "enunciado": "¿Qué caracteriza una personalidad tipo A frente a los estresores?",
+        "opciones": [
+          "Un enfoque relajado y bajo nivel de estrés.",
+          "Competitividad, impaciencia y alta reactividad emocional.",
+          "Alta tolerancia al cambio y búsqueda de equilibrio emocional.",
+          "Tendencia a evitar confrontaciones y manejo tranquilo del estrés."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La personalidad tipo A se caracteriza por ser competitiva, impaciente y reaccionar intensamente al estrés, lo que puede afectar su salud."
+      },
+      {
+        "enunciado": "¿Qué distingue al pensamiento intuitivo en el subperiodo preoperacional según Piaget?",
+        "opciones": [
+          "La capacidad de establecer clases y relaciones de manera intuitiva.",
+          "El uso del pensamiento abstracto y crítico.",
+          "La realización de operaciones lógicas basadas en hipótesis.",
+          "El inicio del aprendizaje de habilidades motoras básicas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo intuitivo del preoperacional, los niños establecen clases y relaciones de forma intuitiva, sin comprender completamente los procedimientos."
+      },
+      {
+        "enunciado": "Según el Plan de Humanización del SSPA, ¿qué es esencial para una atención humanizada?",
+        "opciones": [
+          "Limitar la comunicación entre profesionales y pacientes.",
+          "Reducir la personalización de los tratamientos.",
+          "Fomentar la empatía y el respeto en la interacción con los pacientes.",
+          "Priorizar únicamente los indicadores de eficiencia económica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "humanización_sanitaria"],
+        "feedback": "La empatía y el respeto en la interacción con los pacientes son fundamentales para garantizar una atención humanizada según el Plan del SSPA."
+      },
+      {
+        "enunciado": "¿Qué factor se asocia con una puntuación alta en el rasgo de apertura a la experiencia del modelo OCEAN?",
+        "opciones": [
+          "Una inclinación hacia la rutina y la familiaridad.",
+          "Una actitud crítica y competitiva.",
+          "Una receptividad a nuevas ideas y creatividad.",
+          "Una preferencia por actividades solitarias y reflexivas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "personalidad"],
+        "feedback": "La apertura a la experiencia se relaciona con la creatividad, curiosidad y disposición para explorar nuevas ideas y experiencias."
+      },
+      {
+        "enunciado": "¿Qué característica distingue el periodo sensomotriz según Piaget?",
+        "opciones": [
+          "El desarrollo del pensamiento abstracto.",
+          "La coordinación de reflejos con esquemas senso-motrices.",
+          "El uso de números y relaciones lógicas.",
+          "La capacidad de realizar operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo sensomotriz, los reflejos del recién nacido se coordinan progresivamente con esquemas senso-motrices básicos."
+      },
+      {
+        "enunciado": "¿Qué caracteriza el subperiodo preoperacional en el desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "El pensamiento abstracto y crítico.",
+          "Una postura egocéntrica y categorización global.",
+          "El desarrollo de habilidades lógicas con objetos concretos.",
+          "La comprensión de proporcionalidad y conservación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El subperiodo preoperacional incluye un pensamiento egocéntrico y categorización basada en características generales, propias de niños entre 2 y 7 años."
+      },
+      {
+        "enunciado": "¿Qué habilidad se desarrolla durante el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "La capacidad de razonar hipotéticamente.",
+          "El uso de operaciones lógicas con objetos tangibles.",
+          "La adquisición inicial del lenguaje.",
+          "La coordinación de reflejos básicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, los niños desarrollan habilidades lógicas aplicadas a situaciones y objetos concretos."
+      },
+      {
+        "enunciado": "¿Qué distingue al periodo de operaciones formales según Piaget?",
+        "opciones": [
+          "El uso intuitivo de números y clasificaciones.",
+          "La capacidad de realizar razonamientos abstractos y deducciones hipotéticas.",
+          "La coordinación entre reflejos y esquemas senso-motrices.",
+          "El pensamiento egocéntrico y categorización generalizada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones formales, los individuos desarrollan razonamientos abstractos y la capacidad de formular hipótesis complejas."
+      },
+      {
+        "enunciado": "¿Qué concepto introduce Piaget en el periodo de operaciones concretas relacionado con el orden?",
+        "opciones": [
+          "La reversibilidad.",
+          "La seriación.",
+          "El egocentrismo.",
+          "La conservación de volumen."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La seriación, o la capacidad de ordenar elementos de acuerdo con un criterio lógico, es una habilidad clave del periodo de operaciones concretas."
+      },
+      {
+        "enunciado": "En el desarrollo cognitivo según Piaget, ¿qué significa 'reversibilidad'?",
+        "opciones": [
+          "La capacidad de realizar una operación y luego deshacerla mentalmente.",
+          "El uso intuitivo del lenguaje y la imitación.",
+          "La capacidad de realizar comparaciones abstractas.",
+          "El inicio de la coordinación entre reflejos básicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La reversibilidad es la habilidad para realizar una operación mental y luego invertirla, desarrollada durante el periodo de operaciones concretas."
+      },
+      {
+        "enunciado": "¿Qué distingue al subperiodo intuitivo dentro del preoperacional según Piaget?",
+        "opciones": [
+          "El uso de números y relaciones lógicas de forma intuitiva.",
+          "La comprensión de operaciones lógicas abstractas.",
+          "La coordinación entre reflejos y esquemas senso-motrices.",
+          "La adquisición de habilidades formales avanzadas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo intuitivo, el niño utiliza números y relaciones lógicas sin entender completamente los procesos que sigue."
+      },
+      {
+        "enunciado": "¿Qué habilidad aparece en el periodo sensomotriz según Piaget?",
+        "opciones": [
+          "El pensamiento crítico abstracto.",
+          "La imitación y adquisición del lenguaje básico.",
+          "El uso de operaciones formales en situaciones hipotéticas.",
+          "La categorización basada en propiedades globales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Durante el periodo sensomotriz, los niños desarrollan la imitación y las bases del lenguaje a medida que interactúan con su entorno."
+      },
+      {
+        "enunciado": "En el periodo de operaciones formales, ¿qué tipo de razonamiento es más común según Piaget?",
+        "opciones": [
+          "Razonamiento hipotético-deductivo.",
+          "Razonamiento basado en acciones concretas.",
+          "Categorización global y egocéntrica.",
+          "Operaciones lógicas dependientes del entorno inmediato."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El razonamiento hipotético-deductivo, que permite formular y probar hipótesis, es una característica central del periodo de operaciones formales."
+      },
+      {
+        "enunciado": "¿Qué concepto relacionado con la conservación se desarrolla primero en el periodo preoperacional según Piaget?",
+        "opciones": [
+          "La conservación de volumen.",
+          "La conservación de masa.",
+          "La conservación de sustancia.",
+          "La conservación de peso."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo preoperacional, la conservación de sustancia es el primer concepto que los niños empiezan a comprender antes de masa, peso y volumen."
+      },
+      {
+        "enunciado": "¿Qué habilidad distingue al subperiodo del pensamiento preoperacional según Piaget?",
+        "opciones": [
+          "El razonamiento lógico con operaciones concretas.",
+          "La conservación de sustancia y peso.",
+          "El uso de símbolos y lenguaje para representar objetos.",
+          "El razonamiento abstracto y crítico."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El subperiodo del pensamiento preoperacional se caracteriza por el uso de símbolos y el lenguaje para representar objetos y eventos."
+      },
+      {
+        "enunciado": "¿Qué capacidad relacionada con el concepto de conservación aparece primero según Piaget?",
+        "opciones": [
+          "La conservación del volumen.",
+          "La conservación de masa.",
+          "La conservación de sustancia.",
+          "La conservación de peso."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La conservación de sustancia es la primera capacidad de conservación que se desarrolla en los niños, antes que masa, peso o volumen."
+      },
+      {
+        "enunciado": "En el periodo sensomotriz, ¿cómo interactúan los niños con su entorno según Piaget?",
+        "opciones": [
+          "Mediante operaciones formales y abstractas.",
+          "A través de esquemas senso-motrices y reflejos.",
+          "Con el uso de lenguaje y símbolos complejos.",
+          "Por medio de comparaciones lógicas y seriación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Durante el periodo sensomotriz, los niños usan reflejos y esquemas senso-motrices para interactuar y aprender del entorno."
+      },
+      {
+        "enunciado": "¿Qué concepto clave relacionado con la lógica emerge durante el periodo de operaciones concretas?",
+        "opciones": [
+          "El razonamiento abstracto y crítico.",
+          "La reversibilidad y la seriación.",
+          "La imitación y adquisición del lenguaje.",
+          "El uso de hipótesis para predecir resultados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, los niños desarrollan habilidades como la reversibilidad y la seriación, esenciales para el razonamiento lógico."
+      },
+      {
+        "enunciado": "¿Cómo define Piaget el periodo de operaciones formales?",
+        "opciones": [
+          "El desarrollo del lenguaje y la representación simbólica.",
+          "La capacidad de realizar operaciones concretas con objetos tangibles.",
+          "La habilidad para manejar conceptos abstractos y realizar razonamientos hipotéticos.",
+          "El uso de esquemas senso-motrices básicos para aprender del entorno."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales se caracteriza por la capacidad de manejar conceptos abstractos y realizar razonamientos hipotéticos-deductivos."
+      },
+      {
+        "enunciado": "¿Qué concepto relacionado con la lógica caracteriza al subperiodo intuitivo según Piaget?",
+        "opciones": [
+          "El uso de lenguaje para representar objetos.",
+          "La habilidad de clasificar y establecer relaciones lógicas de forma intuitiva.",
+          "El razonamiento formal y crítico.",
+          "El desarrollo de habilidades motoras básicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el subperiodo intuitivo, los niños establecen clases y relaciones lógicas de manera intuitiva, aunque sin plena conciencia de los procedimientos."
+      },
+      {
+        "enunciado": "¿Qué tipo de pensamiento caracteriza el subperiodo preoperacional según Piaget?",
+        "opciones": [
+          "El pensamiento lógico basado en objetos tangibles.",
+          "El egocentrismo y la categorización global.",
+          "El razonamiento abstracto y deductivo.",
+          "La resolución de problemas mediante hipótesis."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El subperiodo preoperacional se caracteriza por el egocentrismo del niño y una forma de categorizar objetos basada en características globales."
+      },
+      {
+        "enunciado": "¿Qué capacidad distingue a los niños en el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "La imitación y el uso inicial del lenguaje.",
+          "El pensamiento lógico aplicado a situaciones reales.",
+          "La categorización de objetos basada en características superficiales.",
+          "El razonamiento abstracto y crítico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, los niños desarrollan habilidades de razonamiento lógico aplicadas a objetos y situaciones reales."
+      },
+      {
+        "enunciado": "Según Piaget, ¿qué habilidad permite a los niños diferenciar entre tamaños en el periodo de operaciones concretas?",
+        "opciones": [
+          "La conservación de volumen.",
+          "La seriación.",
+          "El pensamiento abstracto.",
+          "La categorización intuitiva."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La seriación es la habilidad que permite a los niños ordenar objetos por tamaño u otras características durante el periodo de operaciones concretas."
+      },
+      {
+        "enunciado": "¿Qué capacidad se consolida en el periodo de operaciones formales según Piaget?",
+        "opciones": [
+          "La coordinación entre reflejos senso-motrices.",
+          "La resolución de problemas mediante hipótesis y razonamiento abstracto.",
+          "El uso de clasificaciones globales basadas en características sobresalientes.",
+          "El razonamiento lógico aplicado exclusivamente a objetos concretos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales permite a los individuos resolver problemas mediante razonamiento abstracto e hipótesis complejas."
+      },
+      {
+        "enunciado": "¿En qué periodo del desarrollo cognitivo según Piaget el niño comienza a utilizar el lenguaje y los símbolos para representar objetos?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo preoperacional, los niños desarrollan el uso del lenguaje y los símbolos para representar objetos y situaciones."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños desarrollan la capacidad de realizar operaciones lógicas con objetos tangibles?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones concretas está marcado por la capacidad de los niños para realizar operaciones lógicas aplicadas a objetos concretos."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños desarrollan el razonamiento hipotético-deductivo y el pensamiento abstracto?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 3,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales permite a los niños desarrollar el razonamiento hipotético-deductivo y manejar conceptos abstractos."
+      },
+      {
+        "enunciado": "¿En qué periodo del desarrollo cognitivo según Piaget los niños coordinan reflejos y desarrollan esquemas senso-motrices?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo sensomotriz, los niños interactúan con el mundo a través de reflejos y esquemas senso-motrices, sentando las bases del aprendizaje."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget se observa el egocentrismo y el pensamiento simbólico en los niños?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo preoperacional se caracteriza por el egocentrismo y el uso del pensamiento simbólico en los niños de 2 a 7 años."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños adquieren la capacidad de comprender la conservación de masa, volumen y número?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo de operaciones concretas, los niños desarrollan la comprensión de la conservación de masa, volumen y número a través del razonamiento lógico."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños comienzan a formular hipótesis y a pensar en posibilidades futuras?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 3,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales permite a los individuos formular hipótesis y pensar en posibilidades futuras mediante el razonamiento abstracto."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños empiezan a ordenar objetos por tamaño o peso de manera lógica?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La seriación, o la capacidad de ordenar objetos de forma lógica, es una habilidad que se desarrolla en el periodo de operaciones concretas."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños desarrollan la habilidad para resolver problemas a través de la experimentación práctica?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo sensomotriz, los niños resuelven problemas mediante la experimentación práctica y el ensayo-error, usando sus sentidos y movimientos."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños tienden a ver el mundo desde su propio punto de vista, sin considerar el de los demás?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El egocentrismo es una característica del periodo preoperacional, donde los niños tienden a interpretar el mundo únicamente desde su perspectiva."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      },
+      {
+        "enunciado": "¿Qué periodo según Piaget ocurre primero en el desarrollo cognitivo?",
+        "opciones": [
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo sensomotriz.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo sensomotriz es el primero en el desarrollo cognitivo, y se centra en la interacción con el mundo a través de los sentidos y movimientos."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños comienzan a utilizar la lógica aplicada a situaciones concretas?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 2,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones concretas permite a los niños aplicar la lógica a situaciones y objetos tangibles, típicamente entre los 7 y 12 años."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños desarrollan la capacidad de pensar en términos abstractos y formular hipótesis?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 3,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales se caracteriza por la capacidad de razonar de manera abstracta y formular hipótesis, comenzando alrededor de los 12 años."
+      },
+      {
+        "enunciado": "¿Qué característica distingue el periodo preoperacional según Piaget?",
+        "opciones": [
+          "El uso de esquemas senso-motrices para resolver problemas.",
+          "El desarrollo del egocentrismo y la representación simbólica.",
+          "La capacidad de razonar de manera abstracta.",
+          "La aplicación de operaciones lógicas a objetos tangibles."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo preoperacional se distingue por el desarrollo del pensamiento simbólico y una postura egocéntrica, entre los 2 y 7 años."
+      },
+      {
+        "enunciado": "¿Qué periodo del desarrollo cognitivo según Piaget permite resolver problemas mediante ensayo y error?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "En el periodo sensomotriz, los niños aprenden mediante la exploración directa del entorno, usando el ensayo y error como herramienta principal."
+      },
+      {
+        "enunciado": "¿Qué habilidad cognitiva aparece durante el periodo de operaciones concretas según Piaget?",
+        "opciones": [
+          "El razonamiento abstracto.",
+          "La conservación y la reversibilidad.",
+          "El uso de símbolos para representar objetos.",
+          "La coordinación entre reflejos y movimientos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "La conservación y la reversibilidad son habilidades clave que los niños desarrollan durante el periodo de operaciones concretas, entre los 7 y 12 años."
+      },
+      {
+        "enunciado": "¿En qué periodo según Piaget los niños muestran un pensamiento egocéntrico y dificultad para entender perspectivas ajenas?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El pensamiento egocéntrico es una característica del periodo preoperacional, donde los niños interpretan el mundo desde su propia perspectiva."
+      },
+      {
+        "enunciado": "¿En qué periodo del desarrollo cognitivo según Piaget los niños coordinan sus movimientos y reflejos para explorar el mundo?",
+        "opciones": [
+          "Periodo sensomotriz.",
+          "Periodo preoperacional.",
+          "Periodo de operaciones concretas.",
+          "Periodo de operaciones formales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Durante el periodo sensomotriz, los niños desarrollan la coordinación de movimientos y reflejos como base para explorar y aprender del entorno."
+      },
+      {
+        "enunciado": "¿Cuáles son las características principales del periodo de operaciones formales según Piaget?",
+        "opciones": [
+          "Uso de esquemas senso-motrices y reflejos.",
+          "Egocentrismo y representación simbólica.",
+          "Aplicación de lógica a objetos tangibles.",
+          "Pensamiento abstracto y razonamiento hipotético-deductivo."
+        ],
+        "correcta": 3,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "El periodo de operaciones formales introduce el pensamiento abstracto y el razonamiento hipotético-deductivo, característico de adolescentes y adultos jóvenes."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      },
+      {
+        "enunciado": "¿Cuáles son los periodos del desarrollo cognitivo según Piaget?",
+        "opciones": [
+          "Periodo sensomotriz, periodo simbólico, periodo reflexivo, periodo lógico.",
+          "Periodo sensomotriz, periodo preoperacional, periodo de operaciones concretas, periodo de operaciones formales.",
+          "Periodo inicial, periodo operacional, periodo crítico, periodo avanzado.",
+          "Periodo reflexivo, periodo sensorial, periodo de lógica concreta, periodo abstracto."
+        ],
+        "correcta": 1,
+        "categorías": ["tema47", "desarrollo_humano", "psicología_evolutiva"],
+        "feedback": "Piaget identifica cuatro periodos: sensomotriz, preoperacional, operaciones concretas y operaciones formales, que describen el desarrollo cognitivo humano."
+      }                                                                        
+]

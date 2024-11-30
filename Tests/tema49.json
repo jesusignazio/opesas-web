@@ -1,0 +1,1282 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes condiciones es la causa más frecuente de insuficiencia respiratoria en un recién nacido a término?",
+        "opciones": [
+            "Síndrome de aspiración meconial",
+            "Hipertensión pulmonar persistente",
+            "Deficiencia de surfactante",
+            "Neumotórax espontáneo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "insuficiencia_respiratoria"
+        ],
+        "feedback": "El síndrome de aspiración meconial es una causa frecuente de insuficiencia respiratoria en recién nacidos a término debido a la inhalación de meconio durante el parto. Esto puede causar obstrucción de las vías respiratorias y daño pulmonar."
+    },
+    {
+        "enunciado": "En un recién nacido con signos de sepsis, ¿cuál es el indicador más precoz de esta condición?",
+        "opciones": [
+            "Hipotermia",
+            "Leucopenia",
+            "Aumento de la proteína C reactiva (PCR)",
+            "Intolerancia a la alimentación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La hipotermia, más que la fiebre, es uno de los signos más tempranos y comunes de sepsis en los recién nacidos, debido a la inmadurez de sus mecanismos termorreguladores."
+    },
+    {
+        "enunciado": "¿Qué parámetro debe monitorizarse estrechamente en un recién nacido con encefalopatía hipóxico-isquémica sometido a hipotermia terapéutica?",
+        "opciones": [
+            "Frecuencia respiratoria",
+            "Presión arterial media",
+            "Temperatura central",
+            "Niveles de calcio sérico"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "encefalopatía_hipóxico_isquémica"
+        ],
+        "feedback": "En la hipotermia terapéutica, la temperatura central debe mantenerse entre 33-34 °C para evitar tanto el sobreenfriamiento como el recalentamiento, que podrían agravar el daño neurológico."
+    },
+    {
+        "enunciado": "Un recién nacido prematuro presenta apnea recurrente. ¿Cuál es la causa más probable de esta condición?",
+        "opciones": [
+            "Inmadurez del centro respiratorio",
+            "Deficiencia de surfactante",
+            "Sepsis neonatal",
+            "Reflujo gastroesofágico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "apnea_neonatal"
+        ],
+        "feedback": "La inmadurez del centro respiratorio en el tronco encefálico es la causa más común de apnea en recién nacidos prematuros, especialmente aquellos con menos de 34 semanas de gestación."
+    },
+    {
+        "enunciado": "En un recién nacido con enterocolitis necrosante (ECN), ¿cuál de las siguientes es una característica radiológica clásica?",
+        "opciones": [
+            "Signo de doble burbuja",
+            "Neumatosis intestinal",
+            "Aire libre subdiafragmático",
+            "Distensión gástrica severa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "enterocolitis_necrosante"
+        ],
+        "feedback": "La neumatosis intestinal, que representa gas dentro de la pared intestinal, es un hallazgo radiológico típico en la enterocolitis necrosante."
+    },
+    {
+        "enunciado": "Un recién nacido con hipertensión pulmonar persistente (HPPN) está recibiendo ventilación mecánica. ¿Cuál de las siguientes estrategias es clave para manejar esta condición?",
+        "opciones": [
+            "Mantener hipoxemia moderada",
+            "Utilizar óxido nítrico inhalado",
+            "Administrar líquidos en exceso",
+            "Reducir la presión arterial sistémica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipertensión_pulmonar"
+        ],
+        "feedback": "El óxido nítrico inhalado es un vasodilatador pulmonar selectivo que reduce la presión arterial pulmonar sin afectar la presión sistémica, siendo una estrategia clave en el manejo de la HPPN."
+    },
+    {
+        "enunciado": "En un recién nacido con ictericia grave, ¿cuál es la principal indicación para realizar una exanguinotransfusión?",
+        "opciones": [
+            "Niveles de bilirrubina total por encima del percentil 95",
+            "Ictericia visible en las primeras 12 horas de vida",
+            "Bilirrubina sérica que excede el umbral crítico para encefalopatía aguda",
+            "Hematocrito por debajo del 40%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ictericia_neonatal"
+        ],
+        "feedback": "La exanguinotransfusión está indicada cuando los niveles de bilirrubina sérica exceden el umbral crítico, ya que existe riesgo elevado de encefalopatía bilirrubínica aguda."
+    },
+    {
+        "enunciado": "¿Qué complicación es más frecuente en un recién nacido con síndrome de aspiración meconial severo?",
+        "opciones": [
+            "Hipoglucemia persistente",
+            "Neumotórax",
+            "Insuficiencia cardíaca congestiva",
+            "Coagulación intravascular diseminada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "síndrome_aspiración_meconial"
+        ],
+        "feedback": "El neumotórax es una complicación frecuente del síndrome de aspiración meconial severo, debido a la obstrucción de las vías aéreas y el atrapamiento de aire."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de sepsis neonatal, ¿cuál es el antibiótico empírico de elección inicialmente?",
+        "opciones": [
+            "Vancomicina",
+            "Ceftriaxona",
+            "Ampicilina y gentamicina",
+            "Meropenem"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "El tratamiento empírico inicial para sepsis neonatal generalmente incluye ampicilina y gentamicina, cubriendo estreptococos del grupo B y bacterias gramnegativas como E. coli."
+    },
+    {
+        "enunciado": "En un recién nacido extremadamente prematuro con riesgo de displasia broncopulmonar (DBP), ¿cuál es una medida preventiva importante?",
+        "opciones": [
+            "Uso prolongado de ventilación mecánica invasiva",
+            "Restricción hídrica agresiva",
+            "Administración precoz de surfactante exógeno",
+            "Oxigenoterapia al 100% desde el nacimiento"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "displasia_broncopulmonar"
+        ],
+        "feedback": "La administración precoz de surfactante exógeno reduce el riesgo de daño pulmonar y displasia broncopulmonar al mejorar la función respiratoria y minimizar la necesidad de ventilación invasiva prolongada."
+    },
+    {
+        "enunciado": "En un recién nacido con hemorragia intraventricular (HIV) confirmada, ¿cuál de los siguientes factores de riesgo es más comúnmente asociado a esta condición?",
+        "opciones": [
+            "Parto por cesárea",
+            "Prematuridad extrema",
+            "Macrosomía fetal",
+            "Infección intrauterina"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hemorragia_intraventricular"
+        ],
+        "feedback": "La prematuridad extrema es el principal factor de riesgo para hemorragia intraventricular, debido a la fragilidad de la matriz germinal y la inmadurez vascular del cerebro en estos neonatos."
+    },
+    {
+        "enunciado": "En un recién nacido con persistencia del conducto arterioso (PCA), ¿cuál es el signo clínico más característico?",
+        "opciones": [
+            "Cianosis generalizada",
+            "Soplo sistólico en el borde esternal izquierdo",
+            "Pulso débil y filiforme",
+            "Hepatomegalia progresiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "persistencia_conducto_arterioso"
+        ],
+        "feedback": "Un soplo sistólico en el borde esternal izquierdo, con o sin extensión continuo, es característico en recién nacidos con persistencia del conducto arterioso."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de hipoglucemia, ¿cuál de los siguientes factores de riesgo incrementa la probabilidad de desarrollar esta condición?",
+        "opciones": [
+            "Madre con preeclampsia",
+            "Peso al nacer por encima del percentil 90",
+            "Gestación múltiple",
+            "Nacimiento por parto espontáneo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipoglucemia_neonatal"
+        ],
+        "feedback": "Un peso al nacer por encima del percentil 90 (macrosomía) es un factor de riesgo para hipoglucemia neonatal, especialmente en hijos de madres diabéticas."
+    },
+    {
+        "enunciado": "En el manejo inicial del síndrome de dificultad respiratoria neonatal (SDR), ¿cuál es la intervención más importante para prevenir complicaciones graves?",
+        "opciones": [
+            "Inicio inmediato de ventilación mecánica invasiva",
+            "Uso profiláctico de antibióticos de amplio espectro",
+            "Administración temprana de surfactante exógeno",
+            "Resucitación con oxígeno al 100%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "dificultad_respiratoria"
+        ],
+        "feedback": "La administración temprana de surfactante exógeno en neonatos con SDR mejora la expansión pulmonar, reduce la necesidad de ventilación invasiva prolongada y disminuye la incidencia de complicaciones como la displasia broncopulmonar."
+    },
+    {
+        "enunciado": "Un recién nacido con síndrome de abstinencia neonatal (SAN) presenta irritabilidad y temblores. ¿Cuál es el tratamiento farmacológico de primera línea en casos moderados a severos?",
+        "opciones": [
+            "Difenhidramina",
+            "Fenobarbital",
+            "Metadona",
+            "Morfina"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "abstinencia_neonatal"
+        ],
+        "feedback": "La morfina es el tratamiento de primera línea en el manejo farmacológico del síndrome de abstinencia neonatal, especialmente en casos moderados a severos asociados a opiáceos."
+    },
+    {
+        "enunciado": "En la evaluación de un recién nacido con sospecha de hidrocefalia, ¿cuál es el estudio diagnóstico inicial más apropiado?",
+        "opciones": [
+            "Resonancia magnética craneal",
+            "Ecografía transfontanelar",
+            "Tomografía computarizada (TC)",
+            "Radiografía de cráneo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hidrocefalia"
+        ],
+        "feedback": "La ecografía transfontanelar es el estudio inicial de elección en recién nacidos con sospecha de hidrocefalia, ya que permite evaluar las estructuras cerebrales de manera no invasiva a través de la fontanela anterior."
+    },
+    {
+        "enunciado": "En el manejo de un recién nacido con policitemia neonatal, ¿cuál de las siguientes intervenciones está indicada si el hematocrito es superior al 70% con síntomas?",
+        "opciones": [
+            "Administración de líquidos intravenosos",
+            "Exanguinotransfusión",
+            "Hemodilución parcial con solución salina",
+            "Transfusión de plaquetas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "policitemia"
+        ],
+        "feedback": "La hemodilución parcial con solución salina o albúmina está indicada en recién nacidos sintomáticos con hematocrito elevado, para reducir la viscosidad sanguínea y mejorar la perfusión tisular."
+    },
+    {
+        "enunciado": "Un recién nacido con diagnóstico de gastrosquisis requiere intervención quirúrgica. ¿Qué manejo preoperatorio es esencial en este caso?",
+        "opciones": [
+            "Inicio inmediato de nutrición enteral",
+            "Colocación de una sonda orogástrica",
+            "Administración de esteroides prenatales",
+            "Evitar la intubación endotraqueal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "gastrosquisis"
+        ],
+        "feedback": "La colocación de una sonda orogástrica es esencial para descomprimir el tracto gastrointestinal y prevenir aspiraciones mientras se prepara al recién nacido para la cirugía."
+    },
+    {
+        "enunciado": "En un recién nacido con riesgo de anemia neonatal severa por isoinmunización Rh, ¿cuál es el tratamiento intrauterino más apropiado antes del nacimiento?",
+        "opciones": [
+            "Administración de inmunoglobulina anti-D a la madre",
+            "Exanguinotransfusión fetal",
+            "Transfusión intrauterina de glóbulos rojos",
+            "Inicio de corticoterapia fetal"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "anemia_neonatal"
+        ],
+        "feedback": "La transfusión intrauterina de glóbulos rojos es el tratamiento indicado para corregir la anemia fetal severa secundaria a isoinmunización Rh antes del nacimiento."
+    },
+    {
+        "enunciado": "En el caso de un recién nacido con ductus arterioso dependiente, ¿qué intervención inicial es esencial para estabilizar la circulación sistémica?",
+        "opciones": [
+            "Administración de prostaglandinas",
+            "Cierre quirúrgico del ductus arterioso",
+            "Inicio de diuréticos intravenosos",
+            "Oxigenoterapia de alto flujo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ductus_dependiente"
+        ],
+        "feedback": "La administración de prostaglandinas E1 es esencial para mantener el ductus arterioso abierto en recién nacidos con patologías ductus-dependientes, garantizando un flujo adecuado de sangre hacia la circulación sistémica o pulmonar."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con sospecha de sepsis tardía, ¿cuál es el patógeno más frecuentemente implicado?",
+        "opciones": [
+            "Escherichia coli",
+            "Staphylococcus epidermidis",
+            "Klebsiella pneumoniae",
+            "Streptococcus agalactiae"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "Staphylococcus epidermidis es el patógeno más frecuente en sepsis tardía en recién nacidos prematuros, especialmente en aquellos con catéteres centrales o dispositivos invasivos."
+    },
+    {
+        "enunciado": "En un recién nacido con síndrome de aspiración meconial, ¿cuál es la indicación más común para iniciar ventilación mecánica invasiva?",
+        "opciones": [
+            "Hipoxemia persistente no corregida con oxígeno suplementario",
+            "Bradipnea menor a 40 respiraciones por minuto",
+            "Hipercapnia moderada con PaCO2 entre 50-60 mmHg",
+            "Cianosis leve sin dificultad respiratoria significativa"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "síndrome_aspiración_meconial"
+        ],
+        "feedback": "La hipoxemia persistente que no mejora con oxígeno suplementario indica la necesidad de ventilación mecánica invasiva para optimizar la oxigenación y reducir el riesgo de complicaciones como hipertensión pulmonar."
+    },
+    {
+        "enunciado": "En la hipocalcemia neonatal, ¿cuál es el síntoma clínico más común asociado a esta alteración metabólica?",
+        "opciones": [
+            "Convulsiones",
+            "Hipotonía generalizada",
+            "Letargo extremo",
+            "Llanto agudo e inconsolable"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipocalcemia_neonatal"
+        ],
+        "feedback": "Las convulsiones son un síntoma común de la hipocalcemia neonatal, especialmente en recién nacidos prematuros o aquellos con asfixia perinatal."
+    },
+    {
+        "enunciado": "Un recién nacido con sospecha de atresia esofágica presenta sialorrea excesiva y dificultad respiratoria al nacimiento. ¿Cuál es el estudio diagnóstico inicial más adecuado?",
+        "opciones": [
+            "Radiografía de tórax y abdomen con sonda nasogástrica",
+            "Tomografía computarizada (TC) torácica",
+            "Ecografía abdominal",
+            "Endoscopia digestiva alta"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "atresia_esofágica"
+        ],
+        "feedback": "La radiografía de tórax y abdomen con una sonda nasogástrica permite identificar la interrupción del trayecto del esófago y es el estudio inicial de elección en la sospecha de atresia esofágica."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de malformación congénita de la vía aérea, ¿cuál es el método diagnóstico más adecuado para confirmar el diagnóstico?",
+        "opciones": [
+            "Ecografía pulmonar",
+            "Broncoscopia flexible",
+            "Tomografía computarizada (TC) de tórax",
+            "Radiografía de tórax simple"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "malformaciones_congénitas"
+        ],
+        "feedback": "La tomografía computarizada de tórax es el método diagnóstico más preciso para confirmar malformaciones congénitas de la vía aérea y evaluar su extensión anatómica."
+    },
+    {
+        "enunciado": "En un recién nacido con hipertensión pulmonar persistente (HPPN), ¿cuál es la causa subyacente más probable?",
+        "opciones": [
+            "Infección congénita por citomegalovirus",
+            "Asfixia perinatal",
+            "Hipoglucemia severa",
+            "Deficiencia congénita de surfactante"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipertensión_pulmonar"
+        ],
+        "feedback": "La asfixia perinatal es una causa frecuente de hipertensión pulmonar persistente, debido a la hipoxia que altera la vasorreactividad pulmonar y mantiene las presiones pulmonares elevadas."
+    },
+    {
+        "enunciado": "Un recién nacido a término con vómitos biliosos y distensión abdominal requiere estudio de imágenes. ¿Qué patología quirúrgica debe descartarse primero?",
+        "opciones": [
+            "Atresia duodenal",
+            "Íleo meconial",
+            "Volvulus intestinal",
+            "Hernia diafragmática congénita"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "emergencias_quirúrgicas"
+        ],
+        "feedback": "El vómito bilioso en un recién nacido es un signo de obstrucción intestinal proximal, y el volvulus intestinal, que puede comprometer la perfusión del intestino, debe descartarse de forma prioritaria."
+    },
+    {
+        "enunciado": "En el contexto de una hemorragia pulmonar neonatal, ¿cuál es el principal factor de riesgo asociado?",
+        "opciones": [
+            "Uso de ventilación mecánica invasiva",
+            "Prematuridad extrema",
+            "Hipertensión pulmonar persistente",
+            "Cierre prematuro del ductus arterioso"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hemorragia_pulmonar"
+        ],
+        "feedback": "La prematuridad extrema es el principal factor de riesgo de hemorragia pulmonar neonatal, debido a la fragilidad capilar y la inmadurez del sistema respiratorio."
+    },
+    {
+        "enunciado": "En el manejo de un recién nacido con hiperbilirrubinemia indirecta, ¿qué factor se utiliza para determinar la necesidad de fototerapia?",
+        "opciones": [
+            "Edad gestacional y niveles de bilirrubina total",
+            "Presencia de ictericia visible y peso al nacer",
+            "Historia de hemólisis materno-fetal",
+            "Niveles de bilirrubina directa"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hiperbilirrubinemia"
+        ],
+        "feedback": "La necesidad de fototerapia en un recién nacido con hiperbilirrubinemia se basa en la edad gestacional y los niveles de bilirrubina total, siguiendo gráficos específicos para minimizar el riesgo de kernicterus."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de hernia diafragmática congénita, ¿cuál es la principal prioridad en el manejo inicial?",
+        "opciones": [
+            "Colocar sonda nasogástrica para descompresión",
+            "Cirugía inmediata al diagnóstico",
+            "Ventilación con presión positiva con bolsa autoinflable",
+            "Inicio de antibióticos profilácticos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hernia_diafragmática"
+        ],
+        "feedback": "La colocación de una sonda nasogástrica para descomprimir el estómago es crucial en el manejo inicial de la hernia diafragmática congénita, para evitar la compresión adicional de los pulmones y facilitar la oxigenación."
+    },
+    {
+        "enunciado": "En un recién nacido con enterocolitis necrosante (ECN), ¿cuál es el hallazgo clínico más común en las etapas iniciales de la enfermedad?",
+        "opciones": [
+            "Heces con sangre visible",
+            "Distensión abdominal progresiva",
+            "Neumatosis intestinal en radiografía",
+            "Sepsis fulminante"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "enterocolitis_necrosante"
+        ],
+        "feedback": "La distensión abdominal progresiva es uno de los primeros signos clínicos de la enterocolitis necrosante y puede preceder a hallazgos más graves como la neumatosis intestinal o la sepsis."
+    },
+    {
+        "enunciado": "Un recién nacido prematuro con dificultad respiratoria recibe surfactante exógeno. ¿Cuál es el principal mecanismo de acción de esta terapia?",
+        "opciones": [
+            "Aumentar la elasticidad pulmonar",
+            "Reducir la tensión superficial alveolar",
+            "Disminuir la resistencia de las vías respiratorias",
+            "Estimular la maduración pulmonar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "dificultad_respiratoria"
+        ],
+        "feedback": "El surfactante exógeno actúa reduciendo la tensión superficial en los alvéolos, evitando su colapso durante la espiración y mejorando la capacidad de intercambio gaseoso."
+    },
+    {
+        "enunciado": "En un recién nacido con taquipnea transitoria del recién nacido (TTRN), ¿cuál es el principal factor predisponente para esta condición?",
+        "opciones": [
+            "Parto por cesárea sin trabajo de parto",
+            "Edad gestacional menor de 34 semanas",
+            "Asfixia perinatal severa",
+            "Infección intrauterina"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "taquipnea_transitoria"
+        ],
+        "feedback": "El parto por cesárea sin trabajo de parto es un factor predisponente para la taquipnea transitoria del recién nacido, debido a la falta de compresión torácica que ayuda a expulsar el líquido pulmonar."
+    },
+    {
+        "enunciado": "En un recién nacido con anemia severa secundaria a hemorragia fetomaterna, ¿qué prueba diagnóstica es más útil para confirmar el diagnóstico?",
+        "opciones": [
+            "Prueba de Coombs directa",
+            "Test de Kleihauer-Betke",
+            "Hemograma completo",
+            "Ecografía Doppler fetal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "anemia_neonatal"
+        ],
+        "feedback": "El test de Kleihauer-Betke permite identificar la presencia de glóbulos rojos fetales en la circulación materna, confirmando una hemorragia fetomaterna como la causa de la anemia neonatal."
+    },
+    {
+        "enunciado": "En el contexto de hipoxia neonatal severa, ¿cuál es la principal indicación para iniciar hipotermia terapéutica?",
+        "opciones": [
+            "Apgar de 5 a los 5 minutos",
+            "Acidosis metabólica con pH < 7.0",
+            "Cianosis persistente en las primeras 12 horas",
+            "Convulsiones neonatales esporádicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipoxia_neonatal"
+        ],
+        "feedback": "La hipotermia terapéutica está indicada en neonatos con acidosis metabólica severa (pH < 7.0) dentro de las primeras 6 horas, ya que reduce el riesgo de daño neurológico a largo plazo."
+    },
+    {
+        "enunciado": "En un recién nacido con hiperinsulinismo congénito, ¿cuál es la causa más probable de la hipoglucemia recurrente?",
+        "opciones": [
+            "Producción excesiva de glucosa hepática",
+            "Supresión inadecuada de la insulina",
+            "Deficiencia enzimática del glucógeno",
+            "Resistencia a hormonas contrarreguladoras"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipoglucemia_neonatal"
+        ],
+        "feedback": "El hiperinsulinismo congénito se caracteriza por la supresión inadecuada de la insulina, lo que resulta en una hipoglucemia recurrente a pesar de la presencia de niveles bajos de glucosa en sangre."
+    },
+    {
+        "enunciado": "En un recién nacido con hernia diafragmática congénita, ¿cuál es el objetivo principal de la ventilación mecánica inicial?",
+        "opciones": [
+            "Incrementar la presión positiva al final de la espiración (PEEP)",
+            "Evitar la hipertensión pulmonar con ventilación controlada",
+            "Maximizar la oxigenación con fracción inspirada de oxígeno al 100%",
+            "Expandir los pulmones mediante altas presiones inspiratorias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hernia_diafragmática"
+        ],
+        "feedback": "En recién nacidos con hernia diafragmática congénita, la ventilación mecánica debe evitar la hipertensión pulmonar mediante una ventilación suave y controlada que minimice el barotrauma."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con ductus arterioso persistente (DAP), ¿cuál es el tratamiento farmacológico de primera línea?",
+        "opciones": [
+            "Ibuprofeno intravenoso",
+            "Indometacina oral",
+            "Prostaglandinas E1",
+            "Furosemida intravenosa"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ductus_arterioso_persistente"
+        ],
+        "feedback": "El ibuprofeno intravenoso es el tratamiento farmacológico de primera línea para inducir el cierre del ductus arterioso persistente en recién nacidos prematuros."
+    },
+    {
+        "enunciado": "En un recién nacido con hidrocefalia posthemorrágica, ¿qué medida es la más adecuada para el manejo inicial?",
+        "opciones": [
+            "Colocación de un reservorio subgaleal",
+            "Resección quirúrgica del coágulo",
+            "Drenaje ventricular externo inmediato",
+            "Administración de diuréticos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hidrocefalia"
+        ],
+        "feedback": "El reservorio subgaleal es una medida temporal para manejar el exceso de líquido cefalorraquídeo en recién nacidos con hidrocefalia posthemorrágica, mientras se evalúa la necesidad de una derivación definitiva."
+    },
+    {
+        "enunciado": "En el tratamiento de un recién nacido con sepsis por Streptococcus agalactiae, ¿qué antibiótico es el más indicado?",
+        "opciones": [
+            "Cefotaxima",
+            "Vancomicina",
+            "Ampicilina",
+            "Gentamicina"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La ampicilina es el antibiótico de elección para tratar infecciones neonatales por Streptococcus agalactiae, con o sin la combinación de un aminoglucósido como gentamicina."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de síndrome de aspiración meconial, ¿cuál es el principal hallazgo radiológico en la radiografía de tórax?",
+        "opciones": [
+            "Patrón en panal de abeja",
+            "Infiltrados algodonosos bilaterales",
+            "Áreas de atrapamiento de aire e infiltrados heterogéneos",
+            "Derrame pleural significativo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "síndrome_aspiración_meconial"
+        ],
+        "feedback": "El síndrome de aspiración meconial se caracteriza por infiltrados heterogéneos y áreas de atrapamiento de aire, que reflejan obstrucción parcial de las vías respiratorias y consolidación alveolar."
+    },
+    {
+        "enunciado": "En un recién nacido con hipoxia e hipoglucemia secundaria a asfixia perinatal, ¿cuál es el principal mecanismo responsable de la hipoglucemia?",
+        "opciones": [
+            "Insuficiencia suprarrenal aguda",
+            "Aumento del consumo de glucosa por el estrés metabólico",
+            "Deficiencia congénita de glucógeno hepático",
+            "Reducción de la gluconeogénesis por insuficiencia hepática"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "asfixia_perinatal"
+        ],
+        "feedback": "En la asfixia perinatal, el estrés metabólico y la activación de mecanismos anaerobios incrementan el consumo de glucosa, lo que predispone a hipoglucemia severa."
+    },
+    {
+        "enunciado": "En el contexto de sepsis neonatal temprana, ¿cuál es el factor de riesgo perinatal más asociado?",
+        "opciones": [
+            "Nacimiento por cesárea programada",
+            "Rotura prolongada de membranas mayor a 18 horas",
+            "Edad gestacional mayor a 40 semanas",
+            "Madre con anemia durante el embarazo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La rotura prolongada de membranas mayor a 18 horas es un factor de riesgo importante para la sepsis neonatal temprana, ya que aumenta la probabilidad de transmisión bacteriana ascendente."
+    },
+    {
+        "enunciado": "Un recién nacido con diagnóstico de síndrome de Beckwith-Wiedemann presenta hipoglucemia persistente. ¿Cuál es el mecanismo fisiopatológico más probable de esta hipoglucemia?",
+        "opciones": [
+            "Resistencia a la insulina",
+            "Hiperplasia de células beta pancreáticas",
+            "Déficit de almacenamiento hepático de glucógeno",
+            "Hipoplasia suprarrenal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "síndromes_genéticos"
+        ],
+        "feedback": "El síndrome de Beckwith-Wiedemann se asocia con hiperplasia de células beta pancreáticas, lo que causa hiperinsulinismo y, en consecuencia, hipoglucemia persistente."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con enfermedad pulmonar crónica (displasia broncopulmonar), ¿cuál es un factor de riesgo importante para desarrollar esta condición?",
+        "opciones": [
+            "Administración temprana de surfactante",
+            "Peso al nacer mayor de 2500 g",
+            "Ventilación mecánica prolongada",
+            "Edad gestacional superior a 37 semanas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "displasia_broncopulmonar"
+        ],
+        "feedback": "La ventilación mecánica prolongada es uno de los principales factores de riesgo para el desarrollo de displasia broncopulmonar, debido al daño pulmonar inducido por barotrauma y oxígeno tóxico."
+    },
+    {
+        "enunciado": "En el manejo de un recién nacido con encefalopatía hipóxico-isquémica moderada, ¿cuál es el tiempo límite para iniciar la hipotermia terapéutica?",
+        "opciones": [
+            "Antes de las 12 horas de vida",
+            "Dentro de las primeras 24 horas de vida",
+            "Entre las 48 y 72 horas de vida",
+            "En las primeras 6 horas de vida"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "encefalopatía_hipóxico_isquémica"
+        ],
+        "feedback": "La hipotermia terapéutica debe iniciarse dentro de las primeras 6 horas de vida para ser efectiva en la prevención del daño cerebral secundario a la encefalopatía hipóxico-isquémica."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de infección por TORCH, ¿cuál es el signo clínico más característico de toxoplasmosis congénita?",
+        "opciones": [
+            "Microcefalia",
+            "Calcificaciones intracraneales difusas",
+            "Hidrocefalia",
+            "Ictericia prolongada"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "infecciones_congénitas"
+        ],
+        "feedback": "La hidrocefalia, junto con las calcificaciones intracraneales y coriorretinitis, es uno de los signos clínicos más característicos de la toxoplasmosis congénita."
+    },
+    {
+        "enunciado": "En un recién nacido con cardiopatía cianótica ductus-dependiente, ¿cuál es el manejo farmacológico inicial más importante?",
+        "opciones": [
+            "Administración de oxígeno a alto flujo",
+            "Prostaglandinas E1 para mantener el ductus arterioso abierto",
+            "Furosemida para reducir la sobrecarga de volumen",
+            "Indometacina para cerrar el ductus arterioso"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "cardiopatías_congénitas"
+        ],
+        "feedback": "En una cardiopatía cianótica ductus-dependiente, el uso de prostaglandinas E1 es esencial para mantener el ductus arterioso abierto y garantizar la circulación adecuada de sangre oxigenada."
+    },
+    {
+        "enunciado": "Un recién nacido con diagnóstico de sepsis neonatal presenta trombocitopenia severa. ¿Cuál es la causa más probable de esta alteración hematológica?",
+        "opciones": [
+            "Hemorragia intracraneal",
+            "Consumo aumentado de plaquetas por coagulación intravascular diseminada",
+            "Deficiencia congénita de trombopoyetina",
+            "Inmadurez de la médula ósea"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La trombocitopenia en el contexto de sepsis neonatal generalmente se debe al consumo aumentado de plaquetas asociado a coagulación intravascular diseminada."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de hipotiroidismo congénito, ¿qué signo clínico es más sugestivo durante las primeras semanas de vida?",
+        "opciones": [
+            "Llanto débil y ronco",
+            "Convulsiones hipocalcémicas",
+            "Ictericia fisiológica prolongada",
+            "Distensión abdominal severa"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipotiroidismo_congénito"
+        ],
+        "feedback": "La ictericia fisiológica prolongada es un signo temprano característico de hipotiroidismo congénito, junto con otros síntomas como hipotermia y letargo."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de síndrome de abstinencia neonatal, ¿cuál es el método más utilizado para evaluar la gravedad de los síntomas?",
+        "opciones": [
+            "Escala de Silverman-Andersen",
+            "Escala de Finnegan",
+            "Evaluación de Apgar",
+            "Escala de Glasgow modificada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "abstinencia_neonatal"
+        ],
+        "feedback": "La escala de Finnegan es la herramienta más utilizada para evaluar la gravedad del síndrome de abstinencia neonatal, guiando las decisiones de tratamiento farmacológico."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de enterocolitis necrosante (ECN), ¿qué signo clínico es más específico para esta enfermedad?",
+        "opciones": [
+            "Distensión abdominal",
+            "Diarrea explosiva",
+            "Heces con sangre",
+            "Dolor abdominal severo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "enterocolitis_necrosante"
+        ],
+        "feedback": "La presencia de sangre en las heces es un signo clínico más específico de enterocolitis necrosante, aunque no siempre está presente en las etapas iniciales de la enfermedad."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con retinopatía del prematuro (ROP), ¿cuál es el principal factor de riesgo asociado al desarrollo de esta condición?",
+        "opciones": [
+            "Peso al nacer mayor de 1500 g",
+            "Uso prolongado de oxigenoterapia",
+            "Edad gestacional superior a 34 semanas",
+            "Sepsis neonatal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "retinopatía_prematuro"
+        ],
+        "feedback": "El uso prolongado de oxigenoterapia, especialmente en niveles altos, es uno de los factores de riesgo principales para el desarrollo de retinopatía del prematuro, al causar daño en la vascularización retiniana."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de hidrocele congénito, ¿cuál es la característica clínica más típica?",
+        "opciones": [
+            "Masa escrotal no transiluminable",
+            "Aumento del tamaño escrotal al llorar",
+            "Masa abdominal palpable",
+            "Transiluminación positiva en el escroto"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hidrocele"
+        ],
+        "feedback": "El hidrocele congénito se caracteriza por una transiluminación positiva, debido a la acumulación de líquido en el saco escrotal, lo que permite el paso de luz a través de la masa."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de hipertensión pulmonar persistente (HPPN), ¿qué estudio diagnóstico es más útil para confirmar el diagnóstico?",
+        "opciones": [
+            "Radiografía de tórax",
+            "Ecocardiografía con Doppler",
+            "Gasometría arterial",
+            "Electrocardiograma"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipertensión_pulmonar"
+        ],
+        "feedback": "La ecocardiografía con Doppler es la herramienta más útil para confirmar hipertensión pulmonar persistente, ya que permite evaluar las presiones pulmonares y detectar cortocircuitos ductales o foramen oval."
+    },
+    {
+        "enunciado": "En un recién nacido con hiperbilirrubinemia severa, ¿cuál es la complicación más temida si no se realiza tratamiento oportuno?",
+        "opciones": [
+            "Daño hepático permanente",
+            "Hemorragia intracraneal",
+            "Encefalopatía bilirrubínica (kernicterus)",
+            "Insuficiencia renal aguda"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hiperbilirrubinemia"
+        ],
+        "feedback": "La encefalopatía bilirrubínica o kernicterus es la complicación más grave de la hiperbilirrubinemia severa, y puede causar daño neurológico irreversible si no se trata adecuadamente."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de galactosemia, ¿cuál es la intervención inicial más adecuada?",
+        "opciones": [
+            "Iniciar lactancia materna exclusiva",
+            "Suspender la alimentación con leche y sustituir por fórmula sin galactosa",
+            "Administrar suplementos de lactosa",
+            "Iniciar tratamiento con insulina"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "errores_innatos_metabolismo"
+        ],
+        "feedback": "La galactosemia requiere la suspensión inmediata de la leche materna y la fórmula regular, sustituyéndolas por una fórmula sin galactosa para evitar acumulaciones tóxicas en el organismo."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de déficit de surfactante, ¿cuál es la principal indicación para administrar surfactante exógeno?",
+        "opciones": [
+            "Diagnóstico confirmado de neumonía congénita",
+            "Hipoxemia persistente a pesar de oxigenoterapia",
+            "Edad gestacional superior a 38 semanas",
+            "Presencia de taquipnea transitoria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "déficit_surfactante"
+        ],
+        "feedback": "La administración de surfactante exógeno está indicada en neonatos con hipoxemia persistente secundaria a síndrome de dificultad respiratoria, especialmente en prematuros con déficit de surfactante."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de infección por Listeria monocytogenes, ¿qué antibiótico es de elección para el tratamiento inicial?",
+        "opciones": [
+            "Amikacina",
+            "Ampicilina",
+            "Vancomicina",
+            "Ceftriaxona"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "infecciones_neonatales"
+        ],
+        "feedback": "La ampicilina es el antibiótico de elección para tratar infecciones por Listeria monocytogenes en neonatos, frecuentemente combinada con un aminoglucósido como gentamicina."
+    },
+    {
+        "enunciado": "En el tratamiento de un recién nacido con policitemia, ¿cuál es el criterio para realizar una exanguinotransfusión parcial?",
+        "opciones": [
+            "Hematocrito superior al 55% sin síntomas",
+            "Presencia de policitemia con hipoglucemia persistente",
+            "Bilirrubina elevada sin hemólisis",
+            "Signos de insuficiencia renal aguda"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "policitemia"
+        ],
+        "feedback": "La exanguinotransfusión parcial está indicada en neonatos con policitemia sintomática, como hipoglucemia, hipoxia o letargo, para reducir la viscosidad sanguínea y mejorar la oxigenación."
+    },
+    {
+        "enunciado": "En un recién nacido con taquipnea transitoria del recién nacido (TTRN), ¿cuál es el principal mecanismo fisiopatológico subyacente?",
+        "opciones": [
+            "Aumento de la producción de líquido pulmonar fetal",
+            "Retención de líquido pulmonar fetal tras el nacimiento",
+            "Deficiencia de surfactante",
+            "Aumento del flujo sanguíneo pulmonar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "taquipnea_transitoria"
+        ],
+        "feedback": "La TTRN se debe a una retención de líquido pulmonar fetal que no se reabsorbe adecuadamente, lo que ocasiona dificultad respiratoria transitoria, más común en partos por cesárea sin trabajo de parto."
+    },
+    {
+        "enunciado": "En el contexto de enterocolitis necrosante (ECN), ¿cuál es un signo de alarma que indica perforación intestinal?",
+        "opciones": [
+            "Heces con sangre visible",
+            "Neumoperitoneo en la radiografía abdominal",
+            "Vómitos no biliosos",
+            "Distensión abdominal leve"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "enterocolitis_necrosante"
+        ],
+        "feedback": "El neumoperitoneo, visible como aire libre en la cavidad abdominal en una radiografía, es un signo de perforación intestinal y requiere intervención quirúrgica inmediata."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de hipoglucemia neonatal persistente, ¿cuál es el manejo inicial recomendado?",
+        "opciones": [
+            "Suspender la alimentación enteral",
+            "Administrar bolo intravenoso de dextrosa al 10%",
+            "Iniciar tratamiento con hidrocortisona",
+            "Realizar transfusión de emergencia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipoglucemia_neonatal"
+        ],
+        "feedback": "El tratamiento inicial de la hipoglucemia neonatal consiste en administrar un bolo intravenoso de dextrosa al 10%, seguido de una infusión continua para mantener niveles adecuados de glucosa."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de hemorragia intraventricular (HIV), ¿cuál es el método diagnóstico de elección?",
+        "opciones": [
+            "Resonancia magnética cerebral",
+            "Ecografía transfontanelar",
+            "Tomografía computarizada de cráneo",
+            "Punción lumbar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hemorragia_intraventricular"
+        ],
+        "feedback": "La ecografía transfontanelar es el método diagnóstico de elección para detectar hemorragias intraventriculares en neonatos, ya que es no invasiva y accesible en unidades de cuidados intensivos neonatales."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con ductus arterioso persistente (DAP), ¿cuál es un signo clínico característico?",
+        "opciones": [
+            "Cianosis generalizada",
+            "Soplo continuo en el borde esternal izquierdo",
+            "Hipotensión refractaria",
+            "Bradicardia severa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ductus_arterioso_persistente"
+        ],
+        "feedback": "Un soplo continuo en el borde esternal izquierdo es un signo clínico característico del ductus arterioso persistente, asociado a un flujo sanguíneo anómalo entre la aorta y la arteria pulmonar."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de síndrome de dificultad respiratoria (SDR), ¿cuál es el hallazgo típico en la radiografía de tórax?",
+        "opciones": [
+            "Infiltrados en alas de mariposa",
+            "Patrón reticulogranular difuso con broncograma aéreo",
+            "Neumotórax bilateral",
+            "Hiperinsuflación pulmonar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "dificultad_respiratoria"
+        ],
+        "feedback": "El patrón reticulogranular difuso con broncograma aéreo es un hallazgo típico en la radiografía de neonatos con síndrome de dificultad respiratoria, indicando colapso alveolar y déficit de surfactante."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de sepsis neonatal, ¿qué marcador inflamatorio es más útil para el diagnóstico temprano?",
+        "opciones": [
+            "Interleucina-6",
+            "Proteína C reactiva (PCR)",
+            "Procalcitonina",
+            "Velocidad de sedimentación globular (VSG)"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La procalcitonina es un marcador inflamatorio que se eleva rápidamente en las infecciones bacterianas, siendo útil para el diagnóstico temprano de sepsis neonatal."
+    },
+    {
+        "enunciado": "En un recién nacido con encefalopatía hipóxico-isquémica (EHI), ¿qué hallazgo clínico es más común en los casos moderados a graves?",
+        "opciones": [
+            "Hipotonía generalizada",
+            "Hipertonía espástica",
+            "Letargo severo",
+            "Crisis convulsivas"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "encefalopatía_hipóxico_isquémica"
+        ],
+        "feedback": "Las crisis convulsivas son comunes en recién nacidos con encefalopatía hipóxico-isquémica moderada a grave y reflejan disfunción neurológica secundaria a la injuria hipóxica."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de ictericia hemolítica por incompatibilidad ABO, ¿cuál es el tratamiento de primera línea si la bilirrubina alcanza niveles críticos?",
+        "opciones": [
+            "Fototerapia intensiva",
+            "Exanguinotransfusión",
+            "Inmunoglobulina intravenosa",
+            "Transfusión de eritrocitos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ictericia_neonatal"
+        ],
+        "feedback": "La fototerapia intensiva es el tratamiento de primera línea en la ictericia hemolítica, ya que ayuda a reducir los niveles de bilirrubina no conjugada mediante fotoisomerización."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de torsión testicular neonatal, ¿cuál es el signo clínico más característico?",
+        "opciones": [
+            "Dolor intenso al tacto",
+            "Ausencia del reflejo cremastérico",
+            "Hidrocele asociado",
+            "Eritema y edema perineal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "torsión_testicular"
+        ],
+        "feedback": "La ausencia del reflejo cremastérico es un hallazgo clave en la torsión testicular neonatal, indicando compromiso vascular del testículo afectado y la necesidad de manejo quirúrgico urgente."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de sepsis neonatal tardía, ¿cuál es la principal fuente de infección en unidades de cuidados intensivos neonatales?",
+        "opciones": [
+            "Colonización vaginal materna",
+            "Dispositivos invasivos como catéteres centrales",
+            "Contaminación de la leche materna",
+            "Infecciones nosocomiales por contacto con personal sanitario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La sepsis neonatal tardía en unidades de cuidados intensivos neonatales está frecuentemente relacionada con dispositivos invasivos como catéteres centrales, que facilitan la entrada de microorganismos."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de malrotación intestinal, ¿cuál es el signo clínico más característico?",
+        "opciones": [
+            "Distensión abdominal severa sin vómitos",
+            "Vómitos biliosos",
+            "Heces de aspecto grumoso",
+            "Ictericia progresiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "malrotación_intestinal"
+        ],
+        "feedback": "Los vómitos biliosos son el signo clínico más característico de la malrotación intestinal, una emergencia quirúrgica que requiere intervención rápida para prevenir necrosis intestinal."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de hipotiroidismo congénito, ¿cuál es el tratamiento más efectivo para prevenir retraso mental?",
+        "opciones": [
+            "Yoduro de potasio",
+            "Levotiroxina sódica",
+            "Hidrocortisona",
+            "Suplementos de calcio y vitamina D"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipotiroidismo_congénito"
+        ],
+        "feedback": "La levotiroxina sódica es el tratamiento de elección para el hipotiroidismo congénito. Si se inicia en las primeras semanas de vida, previene el daño cerebral y el retraso mental asociado."
+    },
+    {
+        "enunciado": "En un recién nacido con hipertensión pulmonar persistente (HPPN), ¿cuál es el objetivo principal del manejo con óxido nítrico inhalado?",
+        "opciones": [
+            "Reducir la resistencia vascular sistémica",
+            "Aumentar la oxigenación mejorando la perfusión pulmonar",
+            "Disminuir el riesgo de neumotórax",
+            "Prevenir la necesidad de ventilación mecánica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hipertensión_pulmonar"
+        ],
+        "feedback": "El óxido nítrico inhalado es un vasodilatador selectivo que actúa en la circulación pulmonar, mejorando la oxigenación al reducir la resistencia vascular pulmonar en recién nacidos con HPPN."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de sepsis neonatal y sospecha de meningitis, ¿cuál es el procedimiento diagnóstico definitivo?",
+        "opciones": [
+            "Ecografía transfontanelar",
+            "Punción lumbar",
+            "Tomografía computarizada de cráneo",
+            "Hemocultivo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "sepsis_neonatal"
+        ],
+        "feedback": "La punción lumbar es el procedimiento diagnóstico definitivo para confirmar meningitis neonatal, permitiendo analizar el líquido cefalorraquídeo en busca de signos de infección."
+    },
+    {
+        "enunciado": "En un recién nacido con ictericia prolongada, ¿cuál de las siguientes etiologías debe considerarse con mayor sospecha?",
+        "opciones": [
+            "Incompatibilidad ABO",
+            "Atresia de vías biliares",
+            "Déficit de glucosa-6-fosfato deshidrogenasa",
+            "Infección por TORCH"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ictericia_neonatal"
+        ],
+        "feedback": "La ictericia prolongada en un recién nacido debe hacer sospechar atresia de vías biliares, una causa de colestasis que requiere diagnóstico y manejo temprano para evitar daño hepático irreversible."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de gastrosquisis, ¿cuál es la prioridad en el manejo inicial?",
+        "opciones": [
+            "Iniciar alimentación enteral precoz",
+            "Colocar una sonda orogástrica y cubrir las vísceras expuestas",
+            "Administrar antibióticos profilácticos de amplio espectro",
+            "Realizar cirugía de cierre inmediato"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "gastrosquisis"
+        ],
+        "feedback": "La prioridad en el manejo inicial de la gastrosquisis es proteger las vísceras expuestas con un material estéril y colocar una sonda orogástrica para evitar distensión intestinal y aspiraciones."
+    },
+    {
+        "enunciado": "En un recién nacido con sospecha de hiperplasia suprarrenal congénita, ¿cuál es el hallazgo más común en las pruebas de laboratorio?",
+        "opciones": [
+            "Hipernatremia y alcalosis metabólica",
+            "Hiponatremia e hiperkalemia",
+            "Hipocalcemia y acidosis metabólica",
+            "Glucosa elevada y cetosis"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "hiperplasia_suprarrenal"
+        ],
+        "feedback": "La hiperplasia suprarrenal congénita suele causar hiponatremia e hiperkalemia debido a un déficit enzimático que afecta la síntesis de aldosterona, lo que conduce a desequilibrios electrolíticos."
+    },
+    {
+        "enunciado": "En un recién nacido prematuro con ductus arterioso persistente (DAP), ¿cuál es el tratamiento de segunda línea si fracasa el manejo farmacológico?",
+        "opciones": [
+            "Colocación de catéter percutáneo para cierre del ductus",
+            "Cirugía de ligadura del ductus arterioso",
+            "Administración de diuréticos intravenosos",
+            "Uso de prostaglandinas para mantener el flujo ductal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "ductus_arterioso_persistente"
+        ],
+        "feedback": "Si el manejo farmacológico con ibuprofeno o indometacina falla, la ligadura quirúrgica del ductus arterioso es el tratamiento de segunda línea en neonatos con ductus arterioso persistente."
+    },
+    {
+        "enunciado": "En un recién nacido con diagnóstico de neumotórax, ¿cuál es el manejo inicial más indicado en un caso de compromiso respiratorio severo?",
+        "opciones": [
+            "Administrar oxígeno al 100% para favorecer la reabsorción del aire",
+            "Insertar un tubo de toracostomía para drenaje inmediato",
+            "Realizar una radiografía de tórax antes de intervenir",
+            "Administrar surfactante exógeno de manera profiláctica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema49",
+            "recien_nacido_enfermo",
+            "neumotórax"
+        ],
+        "feedback": "En casos de neumotórax con compromiso respiratorio severo, la colocación de un tubo de toracostomía para drenaje inmediato es la intervención más indicada para estabilizar al recién nacido."
+    }
+]
