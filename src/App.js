@@ -12,16 +12,17 @@ function App() {
     const [titulo_tema, setTituloTema] = useState("");
     const [preguntas, setPreguntas] = useState([]); // Estado para las preguntas cargadas
     const [error, setError] = useState(null); // Estado para errores
+    const [sidebarOpen, setSidebarOpen] = useState(false); // Estado para el control del sidebar
 
     const cargarPreguntas = (archivo, titulo) => {
         setTituloTema(titulo); // Establece el título del tema
         fetch(`/opesas-web/Tests/${archivo}`)
             .then((response) => {
                 console.log("Fetch response status:", response.status);
-    
+
                 // Inspect the raw response body as text before parsing
                 return response.text().then((text) => {
-    
+
                     // Try parsing the response as JSON
                     try {
                         const jsonData = JSON.parse(text);
@@ -39,8 +40,6 @@ function App() {
                 setError(err.message);
             });
     };
-    
-    
 
     const getBlockColor = (bloque) => {
         const colors = {
@@ -78,7 +77,7 @@ function App() {
             { title: '•48: Valoración y cuidados al recién nacido sano', archivo: 'tema48.json', bloque: 3 },
             { title: '•49: Valoración y cuidados al recién nacido enfermo', archivo: 'tema49.json', bloque: 3 },
             { title: '•50: Cuidados en la infancia', archivo: 'tema50.json', bloque: 3 },
-            { title: '51: Cuidados en la adolescencia', archivo: 'tema51.json', bloque: 3 },
+            { title: '•51: Cuidados en la adolescencia', archivo: 'tema51.json', bloque: 3 },
             { title: '52: Género y salud', archivo: 'tema52.json', bloque: 3 },
             { title: '53: Atención a violencia de género y en infancia', archivo: 'tema53.json', bloque: 3 },
             { title: '54: Valoración y cuidados de la mujer gestante', archivo: 'tema54.json', bloque: 3 },
@@ -110,7 +109,7 @@ function App() {
             { title: '26: Gestión de cuidados en Andalucía: continuidad y personalización', archivo: 'tema26.json', bloque: 5 },
             { title: '27: Gestión de casos: alta complejidad y dependencia', archivo: 'tema27.json', bloque: 5 },
             { title: '28: Telecontinuidad y seguimiento telefónico en Salud Responde', archivo: 'tema28.json', bloque: 5 },
-            { title: '29: Fundamentos de Enfermería: modelos y teorías', archivo: 'tema29.json', bloque: 5 },
+            { title: '•29: Fundamentos de Enfermería: modelos y teorías', archivo: 'tema29.json', bloque: 5 },
             { title: '30: Proceso enfermero: valoración, taxonomías y continuidad', archivo: 'tema30.json', bloque: 5 },
             { title: '32: Habilidades comunicativas: escucha, motivación y valoración', archivo: 'tema32.json', bloque: 5 },
             { title: '60: Atención domiciliaria y hospitalización a domicilio', archivo: 'tema60.json', bloque: 5 },
@@ -163,256 +162,293 @@ function App() {
         ],
     };
 
-
     const filteredItems = Object.entries(groupedMenuItems).reduce(
         (result, [bloqueTitle, items]) => {
             const filtered = items.filter(item =>
                 item.title.toLowerCase().includes(searchTerm.toLowerCase())
             );
-    
+
             if (filtered.length > 0) {
                 result[bloqueTitle] = filtered;
             }
-    
+
             return result;
         },
         {}
     );
-    
+
     return (
-        <div style={{ display: 'flex', width: '100%', height: '100vh' }}>
-            {/* Sidebar con buscador y menú */}
+        <div style={{ display: 'flex', width: '100%', height: '100vh', flexDirection: 'column' }}>
+            {/* Barra superior con botón de menú */}
             <div
                 style={{
-                    backgroundColor: '#f8f9fa',
-                    borderRight: '1px solid #ddd',
-                    height: '100vh', // 100% del alto de la vista
-                    padding: '1rem',
-                    boxSizing: 'border-box', // Asegura que padding y borde no cambien el tamaño
-                    overflowY: 'auto', // Permite desplazamiento solo vertical
-                    overflowX: 'hidden', // Elimina el desplazamiento horizontal
-                    position: 'relative', // Asegura que el sidebar no se desplace fuera de su contenedor
+                    backgroundColor: '#1FBB98',
+                    color: 'white',
+                    padding: '10px',
+                    display: 'flex',
+                    alignItems: 'center',
                 }}
             >
-                {/* Barra de búsqueda */}
-                <form className="mb-3">
-                    <input
-                        className="form-control"
-                        type="search"
-                        placeholder="Buscar"
-                        aria-label="Buscar"
-                        value={searchTerm}
-                        onChange={(e) => setSearchTerm(e.target.value)} // Actualizar el estado
-                        style={{
-                            width: '100%', // Asegura que el input ocupe todo el ancho disponible
-                            boxSizing: 'border-box', // Asegura que padding no afecte el ancho del input
-                        }}
-                    />
-                </form>
-    
-                <ul className="nav flex-column">
-                    {/* Elemento estático "Inicio" */}
-                    <li className="nav-item">
-                        <a
-                            className="nav-link"
-                            href="#"
-                            onClick={() => {
-                                showPreguntas(false);
-                                setInicio(true);
-                                setCasos(false);
-                            }}
-                        >
-                            <small>Inicio</small>
-                        </a>
-                    </li>
-                </ul>
-                <ul className="nav flex-column">
-                    {/* Elemento estático "Casos prácticos" */}
-                    <li className="nav-item">
-                        <a
-                            className="nav-link"
-                            href="#"
-                            onClick={() => {
-                                showPreguntas(false)
-                                setInicio(false);
-                                setCasos(true);
-                            }}
-                        >
-                            <small>Casos prácticos</small>
-                        </a>
-                    </li>
-                </ul>
-    
-                {/* Resultados de búsqueda dinámicos */}
-                {searchTerm && (
-                    <div className="search-results mt-3">
-                        <h6>Resultados de búsqueda:</h6>
-                        {Object.entries(filteredItems).length > 0 ? (
-                            Object.entries(filteredItems).map(([bloqueTitle, items]) => (
-                                <div key={bloqueTitle} className="mb-3">
-                                    <h6>{bloqueTitle}</h6>
-                                    <ul className="list-group">
-                                        {items.map((item, index) => (
-                                            <li
-                                                key={index}
-                                                className="list-group-item"
-                                                style={{
-                                                    wordWrap: 'break-word', // Maneja contenido largo
-                                                    overflow: 'hidden', // Evita que se desborde
-                                                    whiteSpace: 'nowrap', // Evita que el texto se envuelva
-                                                    textOverflow: 'ellipsis', // Agrega puntos suspensivos
-                                                    maxWidth: '300px', // Asegura que el texto no se desborde
-                                                    display: 'flex',
-                                                    alignItems: 'center',
-                                                }}
-                                            >
-                                                <a
-                                                    href="#"
-                                                    onClick={() => {
-                                                        showPreguntas(true);
-                                                        setCasos(false);
-                                                        setInicio(false);
-                                                        cargarPreguntas(item.archivo, item.title);
+                <button
+                    className="btn btn-outline-light"
+                    onClick={() => setSidebarOpen(!sidebarOpen)}
+                    style={{ marginRight: '10px', border: 'none', backgroundColor: 'transparent' }}
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        fill="white"
+                        viewBox="0 0 16 16"
+                    >
+                        <path
+                            fillRule="evenodd"
+                            d="M2 12.5a.5.5 0 0 1 0-1h12a.5.5 0 0 1 0 1H2zm0-5a.5.5 0 0 1 0-1h12a.5.5 0 0 1 0 1H2zm0-5a.5.5 0 0 1 0-1h12a.5.5 0 0 1 0 1H2z"
+                        />
+                    </svg>
+                </button>
 
-                                                    }}
-                                                    style={{
-                                                        textDecoration: 'none',
-                                                        color: 'inherit',
-                                                        display: 'block', // Asegura que el enlace ocupe toda la línea
-                                                        overflow: 'hidden',
-                                                        textOverflow: 'ellipsis', // Puntos suspensivos en el texto
-                                                        whiteSpace: 'nowrap', // Evita que el texto se envuelva
-                                                        width: '100%', // Se asegura de que el texto ocupe todo el ancho
-                                                    }}
-                                                >
-                                                    {item.title}
-                                                </a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-                            ))
-                        ) : (
-                            <p className="text-muted">No se encontraron resultados.</p>
-                        )}
-                    </div>
-                )}
-    
-                {/* Bloques dinámicos agrupados */}
-                <div className="accordion" id="accordionExample">
-                    {Object.entries(groupedMenuItems).map(([bloqueTitle, items], bloqueIndex) => (
-                        <div key={bloqueIndex} className="accordion-item">
-                            <h2 className="accordion-header" id={`heading${bloqueIndex}`}>
-                                <button
-                                    className="accordion-button collapsed"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target={`#collapse${bloqueIndex}`}
-                                    aria-expanded="false"
-                                    aria-controls={`collapse${bloqueIndex}`}
-                                    style={{
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        gap: '10px',
-                                        fontSize: '0.875rem',
+
+                <h5 className="m-0 fw-bold">OPE SAS</h5>
+            </div>
+
+            <div style={{ display: 'flex', flexGrow: 1, width: '100%' }}>
+                {/* Sidebar con buscador y menú */}
+                {sidebarOpen && (
+                    <div
+                        className="sidebar"
+                        style={{
+                            backgroundColor: '#f8f9fa',
+                            borderRight: '1px solid #ddd',
+                            height: '100vh',
+                            padding: '1rem',
+                            boxSizing: 'border-box',
+                            overflowY: 'auto',
+                            position: 'fixed', // Fijo para ocupar toda la pantalla en móvil
+                            top: 60,
+                            left: 0,
+                            width: '100%',
+                            zIndex: 9999,
+                        }}
+                    >
+                        {/* Barra de búsqueda */}
+                        <form className="mb-3">
+                            <input
+                                className="form-control"
+                                type="search"
+                                placeholder="Buscar"
+                                aria-label="Buscar"
+                                value={searchTerm}
+                                onChange={(e) => setSearchTerm(e.target.value)}
+                                style={{
+                                    width: '100%',
+                                    boxSizing: 'border-box',
+                                }}
+                            />
+                        </form>
+
+                        <ul className="nav flex-column">
+                            <li className="nav-item">
+                                <a
+                                    className="nav-link"
+                                    href="#"
+                                    onClick={() => {
+                                        showPreguntas(false);
+                                        setInicio(true);
+                                        setCasos(false);
+                                        setSidebarOpen(false);
                                     }}
                                 >
-                                    {/* Círculo de color */}
-                                    <span
-                                        style={{
-                                            width: '15px',
-                                            height: '15px',
-                                            minWidth: '15px',
-                                            minHeight: '15px',
-                                            borderRadius: '50%',
-                                            backgroundColor: getBlockColor(bloqueIndex + 1),
-                                            flexShrink: 0,
-                                        }}
-                                    ></span>
-                                    {bloqueTitle}
-                                </button>
-                            </h2>
-                            <div
-                                id={`collapse${bloqueIndex}`}
-                                className="accordion-collapse collapse"
-                                aria-labelledby={`heading${bloqueIndex}`}
-                                data-bs-parent="#accordionExample"
-                            >
-                                <div className="accordion-body">
-                                    <ul className="nav flex-column">
-                                        {items.map((item, index) => (
-                                            <li
-                                                className="nav-item"
-                                                key={index}
-                                                style={{
-                                                    wordWrap: 'break-word',
-                                                    overflow: 'hidden',
-                                                    whiteSpace: 'nowrap',
-                                                    textOverflow: 'ellipsis', // Puntos suspensivos
-                                                    maxWidth: '280px', // Limita el ancho
-                                                    display: 'flex',
-                                                    alignItems: 'center',
-                                                }}
-                                            >
-                                                <a
-                                                    className="nav-link"
-                                                    href="#"
-                                                    onClick={() => {
-                                                        showPreguntas(true);
-                                                        setCasos(false);
-                                                        setInicio(false);
-                                                        cargarPreguntas(item.archivo, item.title);
-                                                    }}
-                                                    style={{
-                                                        textDecoration: 'none',
-                                                        color: 'inherit',
-                                                        overflow: 'hidden',
-                                                        textOverflow: 'ellipsis', // Puntos suspensivos en el texto
-                                                        whiteSpace: 'nowrap', // Evita que el texto se envuelva
-                                                        width: '100%', // Ocupa todo el ancho
-                                                    }}
-                                                >
-                                                    <small>{item.title}</small>
-                                                </a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
+                                    <small>Inicio</small>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul className="nav flex-column">
+                            <li className="nav-item">
+                                <a
+                                    className="nav-link"
+                                    href="#"
+                                    onClick={() => {
+                                        showPreguntas(false);
+                                        setInicio(false);
+                                        setCasos(true);
+                                        setSidebarOpen(false);
+                                    }}
+                                >
+                                    <small>Casos prácticos</small>
+                                </a>
+                            </li>
+                        </ul>
+
+                        {/* Resultados de búsqueda dinámicos */}
+                        {searchTerm && (
+                            <div className="search-results mt-3">
+                                <h6>Resultados de búsqueda:</h6>
+                                {Object.entries(filteredItems).length > 0 ? (
+                                    Object.entries(filteredItems).map(([bloqueTitle, items]) => (
+                                        <div key={bloqueTitle} className="mb-3">
+                                            <h6>{bloqueTitle}</h6>
+                                            <ul className="list-group">
+                                                {items.map((item, index) => (
+                                                    <li
+                                                        key={index}
+                                                        className="list-group-item"
+                                                        style={{
+                                                            wordWrap: 'break-word',
+                                                            overflow: 'hidden',
+                                                            whiteSpace: 'nowrap',
+                                                            textOverflow: 'ellipsis',
+                                                            maxWidth: '300px',
+                                                            display: 'flex',
+                                                            alignItems: 'center',
+                                                        }}
+                                                    >
+                                                        <a
+                                                            href="#"
+                                                            onClick={() => {
+                                                                showPreguntas(true);
+                                                                setCasos(false);
+                                                                setInicio(false);
+                                                                cargarPreguntas(item.archivo, item.title);
+                                                                setSidebarOpen(false);
+                                                            }}
+                                                            style={{
+                                                                textDecoration: 'none',
+                                                                color: 'inherit',
+                                                                display: 'block',
+                                                                overflow: 'hidden',
+                                                                textOverflow: 'ellipsis',
+                                                                whiteSpace: 'nowrap',
+                                                                width: '100%',
+                                                            }}
+                                                        >
+                                                            {item.title}
+                                                        </a>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </div>
+                                    ))
+                                ) : (
+                                    <p className="text-muted">No se encontraron resultados.</p>
+                                )}
                             </div>
+                        )}
+
+                        {/* Bloques dinámicos agrupados */}
+                        <div className="accordion" id="accordionExample">
+                            {Object.entries(groupedMenuItems).map(([bloqueTitle, items], bloqueIndex) => (
+                                <div key={bloqueIndex} className="accordion-item">
+                                    <h2 className="accordion-header" id={`heading${bloqueIndex}`}>
+                                        <button
+                                            className="accordion-button collapsed"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target={`#collapse${bloqueIndex}`}
+                                            aria-expanded="false"
+                                            aria-controls={`collapse${bloqueIndex}`}
+                                            style={{
+                                                display: 'flex',
+                                                alignItems: 'center',
+                                                gap: '10px',
+                                                fontSize: '0.875rem',
+                                            }}
+                                        >
+                                            {/* Círculo de color */}
+                                            <span
+                                                style={{
+                                                    width: '15px',
+                                                    height: '15px',
+                                                    minWidth: '15px',
+                                                    minHeight: '15px',
+                                                    borderRadius: '50%',
+                                                    backgroundColor: getBlockColor(bloqueIndex + 1),
+                                                    flexShrink: 0,
+                                                }}
+                                            ></span>
+                                            {bloqueTitle}
+                                        </button>
+                                    </h2>
+                                    <div
+                                        id={`collapse${bloqueIndex}`}
+                                        className="accordion-collapse collapse"
+                                        aria-labelledby={`heading${bloqueIndex}`}
+                                        data-bs-parent="#accordionExample"
+                                    >
+                                        <div className="accordion-body">
+                                            <ul className="nav flex-column">
+                                                {items.map((item, index) => (
+                                                    <li
+                                                        className="nav-item"
+                                                        key={index}
+                                                        style={{
+                                                            wordWrap: 'break-word',
+                                                            overflow: 'hidden',
+                                                            whiteSpace: 'nowrap',
+                                                            textOverflow: 'ellipsis',
+                                                            maxWidth: '280px',
+                                                            display: 'flex',
+                                                            alignItems: 'center',
+                                                        }}
+                                                    >
+                                                        <a
+                                                            className="nav-link"
+                                                            href="#"
+                                                            onClick={() => {
+                                                                showPreguntas(true);
+                                                                setCasos(false);
+                                                                setInicio(false);
+                                                                cargarPreguntas(item.archivo, item.title);
+                                                                setSidebarOpen(false);
+                                                            }}
+                                                            style={{
+                                                                textDecoration: 'none',
+                                                                color: 'inherit',
+                                                                overflow: 'hidden',
+                                                                textOverflow: 'ellipsis',
+                                                                whiteSpace: 'nowrap',
+                                                                width: '100%',
+                                                            }}
+                                                        >
+                                                            <small>{item.title}</small>
+                                                        </a>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            ))}
                         </div>
-                    ))}
+                    </div>
+                )}
+
+                {/* Contenido principal */}
+                <div
+                    style={{
+                        flexGrow: 1,
+                        padding: '1rem',
+                        boxSizing: 'border-box',
+                        height: '100vh',
+                        overflow: 'auto',
+                    }}
+                >
+                    {elementPreguntas ? (
+                        <PreguntasComponent preguntas={preguntas} titulo={titulo_tema} />
+                    ) : inicio ? (
+                        <div>
+                            <h1>Bienvenido</h1>
+                            <p>Este es el contenido estático de Inicio.</p>
+                        </div>
+                    ) : casos ? (
+                        <div>
+                            <h1>Casos</h1>
+                            <p>Este es el contenido estático de Casos.</p>
+                        </div>
+                    ) : null}
                 </div>
             </div>
-    
-            {/* Contenido principal */}
-<div
-    style={{
-        flexGrow: 1,
-        width: 'calc(100% - 250px)', // Asegura que el contenido principal ocupe el espacio restante
-        padding: '1rem',
-        boxSizing: 'border-box', // Asegura que el padding no afecte el tamaño del contenedor
-        height: '100vh', // 100% del alto de la vista
-        overflow: 'auto', // Permite desplazamiento si el contenido es largo
-    }}
->
-
-    {elementPreguntas ? (
-        <PreguntasComponent preguntas={preguntas} titulo={titulo_tema}/>
-    ) : inicio ? (
-        <div>
-            <h1>Bienvenido</h1>
-            <p>Este es el contenido estático de Inicio.</p>
         </div>
-    ) : casos ? (
-        <div>
-            <h1>Casos</h1>
-            <p>Este es el contenido estático de Casos.</p>
-        </div>
-    ) : (
-        null
-    )}
-</div>
-    </div>
     );
 }
 

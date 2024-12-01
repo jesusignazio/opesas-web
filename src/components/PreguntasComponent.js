@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import '../App.css';
 
 function PreguntasComponent({ preguntas, titulo }) {
     const tituloStripped = titulo.replace('•', '');
@@ -25,42 +26,26 @@ function PreguntasComponent({ preguntas, titulo }) {
     };
 
     return (
-        <div style={{ margin: '20px', padding: '15px' }}>
+        <div className="preguntas-container">
             {preguntaActual && (
-                <div className="card mb-3" style={{ marginBottom: '30px', padding: '15px' }}>
-                    {tituloStripped && (
-                        <h3 style={{ marginBottom: '20px', color: '#00aaff' }}>{tituloStripped}</h3>
-                    )}
+                <div className="card mb-3">
+                    {tituloStripped && <h3 className="titulo-pregunta">{tituloStripped}</h3>}
                     <div className="card-body">
-                        <h4 className="card-title" style={{ marginBottom: '20px' }}>
-                            {preguntaActual.enunciado}
-                        </h4>
+                        <h4 className="card-title">{preguntaActual.enunciado}</h4>
                         <div>
                             {preguntaActual.opciones.map((opcion, index) => {
-                                let estiloOpcion = {
-                                    padding: '10px',
-                                    marginBottom: '10px',
-                                    borderRadius: '5px',
-                                    border: '1px solid #ddd',
-                                    backgroundColor: 'transparent',
-                                    transition: 'background-color 0.3s ease',
-                                    cursor: 'pointer',
-                                };
-
+                                let estiloOpcion = "opcion";
                                 if (revelada) {
                                     if (index === preguntaActual.correcta) {
-                                        estiloOpcion.backgroundColor = '#d4edda'; // Verde claro para correcta
-                                        estiloOpcion.border = '1px solid #28a745'; // Verde borde
+                                        estiloOpcion += " correcta";
                                     } else if (index === seleccion) {
-                                        estiloOpcion.backgroundColor = '#f8d7da'; // Rojo claro para incorrecta
-                                        estiloOpcion.border = '1px solid #dc3545'; // Rojo borde
+                                        estiloOpcion += " incorrecta";
                                     }
                                 }
-
                                 return (
                                     <div
                                         key={index}
-                                        style={estiloOpcion}
+                                        className={estiloOpcion}
                                         onClick={() => manejarSeleccion(index)}
                                     >
                                         {opcion}
@@ -69,18 +54,7 @@ function PreguntasComponent({ preguntas, titulo }) {
                             })}
                         </div>
                         {revelada && (
-                            <p
-                                className="mt-3"
-                                style={{
-                                    marginTop: '20px',
-                                    padding: '10px',
-                                    backgroundColor: '#f1f1f1',
-                                    borderRadius: '5px',
-                                    border: '1px solid #ccc',
-                                    boxSizing: 'border-box',
-                                    width: '100%',
-                                }}
-                            >
+                            <p className="feedback">
                                 <strong>Feedback:</strong> {preguntaActual.feedback}
                             </p>
                         )}
@@ -91,7 +65,6 @@ function PreguntasComponent({ preguntas, titulo }) {
                 className="btn btn-primary"
                 onClick={mostrarPreguntaAleatoria}
                 disabled={!revelada} // Solo permite avanzar después de responder
-                style={{ marginTop: '20px' }}
             >
                 Siguiente
             </button>
