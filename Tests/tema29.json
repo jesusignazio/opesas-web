@@ -1,0 +1,2242 @@
+[
+    {
+        "enunciado": "Según el modelo de Virginia Henderson, ¿cuál es la función principal de la enfermería?",
+        "opciones": [
+            "Ayudar al individuo a realizar actividades que contribuirían a su salud o recuperación si tuviera la fuerza, la voluntad o el conocimiento necesario.",
+            "Proporcionar atención médica directa basada exclusivamente en diagnósticos médicos.",
+            "Aplicar intervenciones farmacológicas para tratar enfermedades específicas.",
+            "Diseñar planes de cuidado enfocados exclusivamente en la prevención de enfermedades."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Virginia Henderson definió la enfermería como la ayuda para suplir las necesidades del paciente mientras recupera su autonomía. No se limita solo a intervenciones médicas."
+    },
+    {
+        "enunciado": "De acuerdo con el modelo de Dorothea Orem, ¿qué concepto es fundamental para identificar las necesidades de cuidado de un paciente?",
+        "opciones": [
+            "El equilibrio hemodinámico del paciente.",
+            "El grado de dependencia o déficit de autocuidado.",
+            "La relación terapéutica entre enfermera y paciente.",
+            "La valoración de los sistemas familiares del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "El modelo de Orem se centra en el déficit de autocuidado como núcleo para determinar la necesidad de intervención de la enfermería."
+    },
+    {
+        "enunciado": "¿Qué autora propuso la teoría de los sistemas y destacó la importancia de los sistemas abiertos en enfermería?",
+        "opciones": [
+            "Jean Watson",
+            "Imogene King",
+            "Betty Neuman",
+            "Hildegard Peplau"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Betty Neuman desarrolló el modelo de sistemas basado en la interacción entre factores internos y externos que afectan al paciente, visto como un sistema abierto."
+    },
+    {
+        "enunciado": "En el modelo de Jean Watson, ¿qué concepto central subyace en su teoría del cuidado humano?",
+        "opciones": [
+            "La prevención de enfermedades.",
+            "El equilibrio del sistema de autocuidado.",
+            "La transpersonalidad en la relación enfermera-paciente.",
+            "La clasificación de las necesidades básicas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson enfatiza la importancia de la relación transpersonal entre la enfermera y el paciente para promover la curación y el bienestar."
+    },
+    {
+        "enunciado": "Según Callista Roy, ¿qué define el proceso de adaptación en su modelo de adaptación?",
+        "opciones": [
+            "Un proceso homeostático exclusivamente fisiológico.",
+            "La interacción entre los estímulos focales y el entorno.",
+            "La capacidad del paciente para lograr independencia en las actividades de la vida diaria.",
+            "El uso de intervenciones farmacológicas para mejorar la calidad de vida."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "En el modelo de Roy, el proceso de adaptación se basa en la interacción entre los estímulos (focales, contextuales y residuales) y la capacidad de respuesta del paciente."
+    },
+    {
+        "enunciado": "Hildegard Peplau describió la relación enfermera-paciente como un proceso interpersonal. ¿Cuántas fases incluye esta relación según su modelo?",
+        "opciones": [
+            "Tres fases: orientación, explotación y resolución.",
+            "Cuatro fases: orientación, identificación, exploración y resolución.",
+            "Dos fases: interacción inicial y resolución.",
+            "Cinco fases: evaluación, orientación, intervención, resolución y cierre."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "El modelo de Peplau identifica cuatro fases en la relación enfermera-paciente: orientación, identificación, exploración y resolución."
+    },
+    {
+        "enunciado": "Según el modelo de Martha Rogers, ¿qué representa el concepto de 'campos energéticos'?",
+        "opciones": [
+            "La energía vital necesaria para el metabolismo celular.",
+            "La interacción dinámica entre el ser humano y su entorno.",
+            "La capacidad del cuerpo humano para regenerar tejidos.",
+            "La relación entre los niveles de estrés y la homeostasis."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Martha Rogers definió los campos energéticos como la interacción continua entre el ser humano y el entorno, elementos centrales de su modelo."
+    },
+    {
+        "enunciado": "En el modelo de Nola Pender, ¿cuál es el principal objetivo de la enfermería?",
+        "opciones": [
+            "Curar enfermedades crónicas mediante intervenciones directas.",
+            "Promover la salud y prevenir enfermedades mediante el cambio de conductas.",
+            "Diagnosticar trastornos relacionados con la salud mental.",
+            "Implementar estrategias para disminuir el dolor físico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "El Modelo de Promoción de la Salud de Nola Pender se enfoca en ayudar al paciente a modificar comportamientos para mejorar su salud y prevenir enfermedades."
+    },
+    {
+        "enunciado": "¿Qué autora se enfocó en la interacción y comunicación como herramientas principales en el cuidado de enfermería?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Virginia Henderson",
+            "Callista Roy",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau desarrolló su modelo basado en la interacción y comunicación, considerando al paciente como un participante activo en el proceso de cuidado."
+    },
+    {
+        "enunciado": "Faye Abdellah propuso una clasificación de problemas de enfermería basada en 21 necesidades. ¿En qué se centra principalmente este enfoque?",
+        "opciones": [
+            "En la relación terapéutica enfermera-paciente.",
+            "En la clasificación de enfermedades crónicas.",
+            "En las necesidades humanas para resolver problemas de salud.",
+            "En la adaptación del paciente al entorno hospitalario."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "La teoría de Faye Abdellah se centra en resolver problemas de salud a través de una clasificación basada en las necesidades humanas."
+    },
+    {
+        "enunciado": "¿Qué elemento NO es una de las 14 necesidades básicas de Virginia Henderson?",
+        "opciones": [
+            "Comer y beber adecuadamente.",
+            "Mantener una temperatura corporal adecuada.",
+            "Participar en actividades recreativas.",
+            "Establecer relaciones sociales con la comunidad."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Aunque Virginia Henderson incluye elementos relacionados con la socialización, 'establecer relaciones sociales con la comunidad' no es una de las 14 necesidades básicas explícitas."
+    },
+    {
+        "enunciado": "En el modelo de sistemas de Imogene King, ¿qué factor es clave en el establecimiento de metas entre la enfermera y el paciente?",
+        "opciones": [
+            "La relación entre el diagnóstico médico y el plan de cuidados.",
+            "La comunicación efectiva y la interacción mutua.",
+            "El uso de herramientas tecnológicas para evaluar al paciente.",
+            "La adaptación a un sistema cerrado y controlado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "En el modelo de Imogene King, la comunicación efectiva y la interacción son esenciales para establecer metas conjuntas en el proceso de cuidado."
+    },
+    {
+        "enunciado": "¿Qué teoría se centra en el entorno como factor primordial en la recuperación del paciente?",
+        "opciones": [
+            "Teoría del Déficit de Autocuidado de Orem",
+            "Teoría del Cuidado Humano de Watson",
+            "Teoría Ambiental de Nightingale",
+            "Modelo de Adaptación de Roy"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale destacó el papel del entorno (ventilación, luz, limpieza) como un factor clave en la recuperación del paciente."
+    },
+    {
+        "enunciado": "Según el modelo de Betty Neuman, ¿qué elemento actúa como una línea de defensa flexible para el paciente?",
+        "opciones": [
+            "El sistema inmunológico del cuerpo.",
+            "La interacción entre factores psicológicos y sociales.",
+            "Los mecanismos de afrontamiento ante el estrés.",
+            "La barrera que protege contra los factores estresantes externos."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "En el modelo de Neuman, la línea de defensa flexible protege al sistema del paciente de factores estresantes externos que pueden desestabilizarlo."
+    },
+    {
+        "enunciado": "¿Qué modelo de enfermería incorpora el concepto de 'presencia terapéutica' como un componente esencial?",
+        "opciones": [
+            "Modelo de Promoción de la Salud de Pender",
+            "Modelo del Cuidado Humano de Watson",
+            "Modelo de Sistemas de King",
+            "Modelo de Adaptación de Roy"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson incorpora la 'presencia terapéutica' en su Modelo del Cuidado Humano, enfatizando la conexión enfermera-paciente."
+    },
+    {
+        "enunciado": "¿Quién desarrolló la teoría del Déficit de Autocuidado, que destaca la importancia de suplir las necesidades del paciente cuando este no puede hacerlo por sí mismo?",
+        "opciones": [
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Dorothea Orem es conocida por su Teoría del Déficit de Autocuidado, que define la enfermería como una ayuda para suplir las carencias del autocuidado del paciente."
+    },
+    {
+        "enunciado": "¿Qué autora es conocida por su Modelo de Adaptación, que ve al paciente como un ser bio-psico-social en constante interacción con el entorno?",
+        "opciones": [
+            "Callista Roy",
+            "Faye Abdellah",
+            "Betty Neuman",
+            "Imogene King"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Callista Roy desarrolló el Modelo de Adaptación, que describe al paciente como un sistema abierto capaz de adaptarse a los cambios en su entorno."
+    },
+    {
+        "enunciado": "¿Qué enfermera y teórica es considerada la fundadora de la Teoría Ambiental, que subraya la importancia de factores como la higiene, la ventilación y la luz en la recuperación del paciente?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Martha Rogers",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale es pionera en la enfermería moderna y en la Teoría Ambiental, donde destaca el entorno como un factor clave en la curación del paciente."
+    },
+    {
+        "enunciado": "¿Quién propuso un modelo de cuidado basado en 14 necesidades básicas del ser humano, que abarca tanto necesidades fisiológicas como psicológicas y sociales?",
+        "opciones": [
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Jean Watson",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Virginia Henderson desarrolló un modelo que identifica 14 necesidades básicas como guía para la práctica de enfermería, considerando al paciente como un ser integral."
+    },
+    {
+        "enunciado": "¿Qué teórica desarrolló el Modelo de Promoción de la Salud, que busca fomentar conductas saludables para prevenir enfermedades?",
+        "opciones": [
+            "Nola Pender",
+            "Imogene King",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Nola Pender es conocida por su Modelo de Promoción de la Salud, que tiene como objetivo ayudar a las personas a adoptar conductas que mejoren su bienestar."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló la Teoría de los Sistemas, que considera al paciente como un sistema abierto compuesto por líneas de defensa y resistencia?",
+        "opciones": [
+            "Betty Neuman",
+            "Martha Rogers",
+            "Imogene King",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Betty Neuman propuso la Teoría de los Sistemas, que ve al paciente como un sistema abierto que interactúa constantemente con su entorno y los factores estresantes."
+    },
+    {
+        "enunciado": "¿Qué enfermera planteó la importancia de la relación terapéutica enfermera-paciente a través de su Teoría de las Relaciones Interpersonales?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau fue pionera en la Teoría de las Relaciones Interpersonales, enfocándose en la comunicación como herramienta esencial en el cuidado de enfermería."
+    },
+    {
+        "enunciado": "¿Quién desarrolló la teoría del Cuidado Humano, que se centra en el cuidado transpersonal y la conexión espiritual entre enfermera y paciente?",
+        "opciones": [
+            "Jean Watson",
+            "Florence Nightingale",
+            "Betty Neuman",
+            "Virginia Henderson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson creó la teoría del Cuidado Humano, que enfatiza la conexión emocional y espiritual como parte integral del cuidado enfermero."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló un modelo basado en metas compartidas, en el cual la enfermera y el paciente trabajan juntos para alcanzar objetivos comunes?",
+        "opciones": [
+            "Imogene King",
+            "Callista Roy",
+            "Nola Pender",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Imogene King desarrolló un modelo basado en metas compartidas, destacando la importancia de la comunicación y la interacción para el logro de objetivos terapéuticos."
+    },
+    {
+        "enunciado": "¿Qué enfermera es conocida por su enfoque de 21 problemas de enfermería, que clasifica las necesidades del paciente en problemas específicos de salud?",
+        "opciones": [
+            "Faye Abdellah",
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Faye Abdellah desarrolló un enfoque basado en 21 problemas de enfermería, proporcionando una guía para la identificación y resolución de necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Quién introdujo el concepto de los 'campos energéticos' en su modelo, destacando la interacción constante entre el ser humano y su entorno?",
+        "opciones": [
+            "Martha Rogers",
+            "Betty Neuman",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Martha Rogers desarrolló un modelo único que incorpora el concepto de 'campos energéticos' como base para entender la relación entre el ser humano y el entorno."
+    },
+    {
+        "enunciado": "¿Qué teórica es conocida por su modelo que considera al entorno como un sistema abierto que interactúa con el paciente para influir en su bienestar?",
+        "opciones": [
+            "Betty Neuman",
+            "Callista Roy",
+            "Florence Nightingale",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Betty Neuman propuso que tanto el entorno como los factores estresantes afectan al paciente, considerado un sistema abierto."
+    },
+    {
+        "enunciado": "¿Quién propuso un modelo enfocado en el mantenimiento del equilibrio interno y la adaptación al estrés como mecanismo clave en el cuidado de enfermería?",
+        "opciones": [
+            "Callista Roy",
+            "Imogene King",
+            "Dorothea Orem",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Callista Roy creó un modelo centrado en la adaptación al estrés y el mantenimiento del equilibrio interno del paciente, esenciales para su bienestar."
+    },
+    {
+        "enunciado": "¿Qué autora enfatizó la importancia de la comunicación y la interacción interpersonal para alcanzar las metas del cuidado?",
+        "opciones": [
+            "Imogene King",
+            "Hildegard Peplau",
+            "Virginia Henderson",
+            "Jean Watson"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau destacó que la comunicación efectiva y la interacción interpersonal son esenciales para lograr las metas del cuidado enfermero."
+    },
+    {
+        "enunciado": "¿Qué enfermera y teórica es conocida por su Teoría del Entorno, que introdujo prácticas de higiene en los hospitales para reducir la mortalidad?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale transformó la enfermería al introducir prácticas higiénicas en los hospitales, basándose en su Teoría del Entorno."
+    },
+    {
+        "enunciado": "¿Qué teórica desarrolló la Teoría de las Relaciones Interpersonales, que destaca la importancia de la interacción enfermera-paciente en el proceso de cuidado?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau propuso la Teoría de las Relaciones Interpersonales, donde la interacción y la comunicación son el centro del cuidado de enfermería."
+    },
+    {
+        "enunciado": "¿Quién propuso un modelo que clasifica las necesidades humanas en 14 categorías para guiar la práctica de enfermería?",
+        "opciones": [
+            "Virginia Henderson",
+            "Florence Nightingale",
+            "Dorothea Orem",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Virginia Henderson desarrolló un modelo basado en 14 necesidades humanas fundamentales, considerando al paciente como un ser integral."
+    },
+    {
+        "enunciado": "¿Qué enfermera introdujo un modelo de cuidado basado en la promoción de la salud y el cambio de conductas para prevenir enfermedades?",
+        "opciones": [
+            "Nola Pender",
+            "Betty Neuman",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Nola Pender es conocida por su Modelo de Promoción de la Salud, enfocado en fomentar conductas saludables y prevenir enfermedades."
+    },
+    {
+        "enunciado": "¿Qué autora propuso el Modelo de Adaptación, que describe cómo los individuos responden a los cambios del entorno para mantener su equilibrio?",
+        "opciones": [
+            "Callista Roy",
+            "Imogene King",
+            "Martha Rogers",
+            "Virginia Henderson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Callista Roy desarrolló el Modelo de Adaptación, que explica cómo las personas ajustan sus respuestas para adaptarse a los cambios del entorno."
+    },
+    {
+        "enunciado": "¿Quién desarrolló la Teoría del Déficit de Autocuidado, que resalta la importancia de suplir las necesidades que el paciente no puede satisfacer por sí mismo?",
+        "opciones": [
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Florence Nightingale",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Dorothea Orem creó la Teoría del Déficit de Autocuidado, un modelo clave en la práctica de enfermería centrado en ayudar al paciente a suplir sus carencias."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló el Modelo de los Sistemas, que se enfoca en la interacción entre el paciente, el entorno y los factores estresantes?",
+        "opciones": [
+            "Betty Neuman",
+            "Martha Rogers",
+            "Callista Roy",
+            "Hildegard Peplau"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Betty Neuman diseñó el Modelo de los Sistemas, que considera al paciente como un sistema abierto en interacción constante con factores internos y externos."
+    },
+    {
+        "enunciado": "¿Qué enfermera es conocida por su Teoría del Entorno, que transformó la práctica de enfermería al enfatizar la importancia de la higiene y la ventilación?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale es pionera en la enfermería moderna y en la Teoría del Entorno, que subraya factores como la higiene, la luz y la ventilación."
+    },
+    {
+        "enunciado": "¿Qué teórica desarrolló la Teoría del Cuidado Humano, centrada en el cuidado transpersonal y en la conexión espiritual entre enfermera y paciente?",
+        "opciones": [
+            "Jean Watson",
+            "Virginia Henderson",
+            "Callista Roy",
+            "Hildegard Peplau"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson creó la Teoría del Cuidado Humano, destacando la importancia de la conexión emocional y espiritual en el proceso de cuidado."
+    },
+    {
+        "enunciado": "¿Qué enfermera propuso un modelo de metas compartidas, en el que la comunicación entre la enfermera y el paciente es clave para lograr objetivos comunes?",
+        "opciones": [
+            "Imogene King",
+            "Betty Neuman",
+            "Callista Roy",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Imogene King diseñó un modelo centrado en metas compartidas, en el cual la comunicación efectiva es fundamental para alcanzar los objetivos terapéuticos."
+    },
+    {
+        "enunciado": "¿Qué enfermera desarrolló una teoría basada en la interacción interpersonal como herramienta terapéutica en el cuidado de los pacientes?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau destacó la importancia de la relación interpersonal entre la enfermera y el paciente como un proceso terapéutico en sí mismo."
+    },
+    {
+        "enunciado": "¿Qué autora propuso un modelo que incorpora el concepto de 'campos energéticos', donde el ser humano interactúa de manera constante con el entorno?",
+        "opciones": [
+            "Martha Rogers",
+            "Betty Neuman",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Martha Rogers desarrolló un modelo innovador que incluye los 'campos energéticos', destacando la interacción dinámica entre el ser humano y su entorno."
+    },
+    {
+        "enunciado": "¿Quién desarrolló un enfoque basado en 21 problemas de enfermería, que clasifica las necesidades del paciente para guiar el cuidado?",
+        "opciones": [
+            "Faye Abdellah",
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Faye Abdellah introdujo un enfoque basado en 21 problemas de enfermería, que ayuda a identificar y atender las necesidades específicas de los pacientes."
+    },
+    {
+        "enunciado": "¿Qué enfermera es conocida por su modelo que enfatiza el concepto de 'presencia terapéutica' como un elemento esencial en el cuidado?",
+        "opciones": [
+            "Jean Watson",
+            "Callista Roy",
+            "Virginia Henderson",
+            "Imogene King"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson destaca la 'presencia terapéutica' como una herramienta fundamental para establecer una conexión significativa con los pacientes."
+    },
+    {
+        "enunciado": "¿Qué teórica planteó que el entorno puede ser modificado para promover la recuperación del paciente, siendo este un principio básico en su modelo?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Martha Rogers",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale enfatizó que un entorno adecuado, con higiene, luz y ventilación, es esencial para la recuperación del paciente."
+    },
+    {
+        "enunciado": "Según la Teoría de la Diversidad y Universalidad del Cuidado Cultural de Madeleine Leininger, ¿qué es esencial para proporcionar cuidado de enfermería transcultural efectivo?",
+        "opciones": [
+            "Conocer los valores culturales del paciente y adaptar el cuidado a estos.",
+            "Aplicar un enfoque estandarizado para todas las culturas.",
+            "Enfocarse únicamente en las necesidades físicas del paciente.",
+            "Evitar discusiones culturales para no generar malentendidos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Madeleine Leininger enfatiza la importancia de integrar el conocimiento cultural en el cuidado de enfermería para hacerlo significativo y efectivo."
+    },
+    {
+        "enunciado": "En el Modelo de Categorías Funcionales de Gordon, ¿cuál es el propósito de las 11 categorías funcionales?",
+        "opciones": [
+            "Diagnosticar patologías específicas.",
+            "Proporcionar un marco para la valoración integral del paciente.",
+            "Clasificar las enfermedades según su gravedad.",
+            "Definir planes de cuidado estandarizados para todos los pacientes."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "valoración-enfermería"
+        ],
+        "feedback": "Las 11 categorías funcionales de Gordon sirven como una guía para evaluar al paciente de manera integral, considerando aspectos físicos, emocionales y sociales."
+    },
+    {
+        "enunciado": "Según la teoría de las Necesidades Interpersonales de Hildegard Peplau, ¿cuál es una característica clave de la relación enfermera-paciente?",
+        "opciones": [
+            "Es unidireccional y controlada por la enfermera.",
+            "Se centra exclusivamente en resolver problemas físicos.",
+            "Es dinámica y evoluciona a través de fases de interacción.",
+            "Se limita a cumplir con órdenes médicas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Peplau describe la relación enfermera-paciente como un proceso interpersonal que se desarrolla en fases, promoviendo el crecimiento y la resolución de problemas."
+    },
+    {
+        "enunciado": "En el modelo de Martha Rogers, ¿qué se entiende por 'patrón único' del paciente?",
+        "opciones": [
+            "La secuencia genética de cada individuo.",
+            "La forma particular en que el paciente interactúa con su entorno energético.",
+            "El historial médico del paciente.",
+            "El conjunto de hábitos alimenticios específicos del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Rogers define el 'patrón único' como la manera en que cada paciente interactúa con su entorno, reflejando su estado energético y de salud."
+    },
+    {
+        "enunciado": "¿Qué enfoque se utiliza en el modelo de sistemas de Betty Neuman para manejar los factores estresantes que afectan al paciente?",
+        "opciones": [
+            "Identificar y eliminar todos los factores estresantes.",
+            "Aplicar exclusivamente intervenciones farmacológicas.",
+            "Promover el fortalecimiento de las líneas de defensa del paciente.",
+            "Focalizarse únicamente en los aspectos psicológicos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "El modelo de Neuman propone fortalecer las líneas de defensa internas y externas del paciente para minimizar el impacto de los factores estresantes."
+    },
+    {
+        "enunciado": "En la Teoría del Cuidado Humano de Jean Watson, ¿qué papel desempeña la 'caritas' en el proceso de cuidado?",
+        "opciones": [
+            "Es un conjunto de intervenciones médicas específicas.",
+            "Representa los elementos esenciales del cuidado transpersonal.",
+            "Son herramientas tecnológicas aplicadas en el cuidado.",
+            "Se refiere al seguimiento estricto de protocolos estandarizados."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson utiliza el concepto de 'caritas' para describir los elementos espirituales y emocionales esenciales en el cuidado transpersonal."
+    },
+    {
+        "enunciado": "Según Imogene King, ¿qué dimensión es clave para el logro de metas en el sistema de interacción personal?",
+        "opciones": [
+            "La dimensión fisiológica.",
+            "La dimensión social.",
+            "La dimensión de la comunicación.",
+            "La dimensión técnica."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "King destaca que la comunicación efectiva es fundamental para establecer y lograr metas dentro del sistema de interacción personal."
+    },
+    {
+        "enunciado": "En el modelo de Callista Roy, ¿qué define un estímulo contextual?",
+        "opciones": [
+            "Un estímulo que afecta directamente al problema principal.",
+            "Un factor ambiental que influye en la capacidad adaptativa del paciente.",
+            "Un evento inesperado que provoca un cambio abrupto en el entorno.",
+            "Una respuesta fisiológica automática al estrés."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Roy define los estímulos contextuales como factores del entorno que no son el problema principal, pero influyen en la capacidad de adaptación del paciente."
+    },
+    {
+        "enunciado": "¿Qué elemento caracteriza la teoría de las 21 necesidades de Faye Abdellah?",
+        "opciones": [
+            "Una clasificación centrada en enfermedades específicas.",
+            "El enfoque en la relación espiritual entre la enfermera y el paciente.",
+            "La identificación de necesidades humanas como guía para resolver problemas de salud.",
+            "La priorización exclusiva de las necesidades fisiológicas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Faye Abdellah propone una teoría que clasifica las necesidades humanas como base para el cuidado integral del paciente."
+    },
+    {
+        "enunciado": "Según Dorothea Orem, ¿qué se entiende por 'demanda de autocuidado'?",
+        "opciones": [
+            "El conjunto de actividades necesarias que el paciente no puede realizar por sí mismo.",
+            "La necesidad de supervisión constante por parte del personal médico.",
+            "La capacidad del paciente para gestionar de forma autónoma sus medicamentos.",
+            "El enfoque exclusivo en las necesidades psicológicas del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Orem define la demanda de autocuidado como las actividades necesarias para mantener la salud, que el paciente no puede realizar sin ayuda."
+    },
+    {
+        "enunciado": "En el modelo de Virginia Henderson, ¿qué describe la función de la enfermería en términos de necesidades básicas?",
+        "opciones": [
+            "Sustituir completamente las funciones del paciente para evitar su esfuerzo.",
+            "Ayudar al paciente a satisfacer sus necesidades básicas mientras recupera su independencia.",
+            "Enfocarse exclusivamente en las necesidades fisiológicas.",
+            "Desarrollar planes de cuidado basados en diagnósticos médicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "necesidades-básicas"
+        ],
+        "feedback": "Virginia Henderson define la enfermería como la asistencia para satisfacer las necesidades básicas del paciente, promoviendo su autonomía."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito principal del cuidado de enfermería según Jean Watson?",
+        "opciones": [
+            "La curación física del paciente.",
+            "La aplicación de procedimientos técnicos avanzados.",
+            "Fomentar una conexión transpersonal para promover el bienestar integral.",
+            "La supervisión de tratamientos farmacológicos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "Jean Watson enfatiza la importancia del cuidado transpersonal, que abarca dimensiones emocionales, espirituales y físicas."
+    },
+    {
+        "enunciado": "¿Qué concepto central define la Teoría de los Sistemas de Betty Neuman?",
+        "opciones": [
+            "El equilibrio entre el entorno externo e interno del paciente.",
+            "La dependencia total del paciente del sistema de salud.",
+            "La supresión de factores estresantes externos.",
+            "El enfoque exclusivo en las intervenciones médicas directas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Neuman describe al paciente como un sistema abierto en constante interacción con el entorno, buscando mantener el equilibrio ante factores estresantes."
+    },
+    {
+        "enunciado": "¿Qué principio fundamental subyace en el Modelo de Promoción de la Salud de Nola Pender?",
+        "opciones": [
+            "El tratamiento inmediato de enfermedades agudas.",
+            "La promoción de conductas saludables y la prevención de enfermedades.",
+            "La aplicación de intervenciones farmacológicas avanzadas.",
+            "La supervisión continua del paciente en entornos hospitalarios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "El modelo de Pender busca empoderar al paciente para adoptar estilos de vida saludables, reduciendo riesgos y mejorando su bienestar."
+    },
+    {
+        "enunciado": "En el marco de Callista Roy, ¿qué define la 'capacidad adaptativa' del paciente?",
+        "opciones": [
+            "La habilidad para resolver problemas de forma independiente.",
+            "La interacción entre estímulos internos y externos para mantener el equilibrio.",
+            "La capacidad de tolerar intervenciones médicas invasivas.",
+            "La habilidad para mantener relaciones sociales estables."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Roy destaca la capacidad adaptativa como la habilidad del paciente para responder a estímulos y mantener el equilibrio bio-psico-social."
+    },
+    {
+        "enunciado": "Según Imogene King, ¿cuál es el objetivo principal de la comunicación en la enfermería?",
+        "opciones": [
+            "Establecer metas conjuntas entre la enfermera y el paciente.",
+            "Instruir al paciente sobre tratamientos médicos específicos.",
+            "Evitar malentendidos durante la intervención médica.",
+            "Asegurar que las instrucciones médicas sean seguidas al pie de la letra."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "comunicación"
+        ],
+        "feedback": "En el modelo de King, la comunicación es clave para establecer metas compartidas y lograr resultados efectivos en el cuidado."
+    },
+    {
+        "enunciado": "¿Qué representa la 'línea normal de defensa' en el modelo de Betty Neuman?",
+        "opciones": [
+            "La capacidad innata del cuerpo para combatir infecciones.",
+            "El estado habitual de equilibrio del paciente frente a factores estresantes.",
+            "La intervención médica para estabilizar al paciente.",
+            "El entorno social del paciente como barrera protectora."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "La línea normal de defensa, según Neuman, representa el estado de equilibrio del paciente, que puede ser afectado por factores estresantes."
+    },
+    {
+        "enunciado": "¿Cómo define Florence Nightingale el impacto del entorno en la salud del paciente?",
+        "opciones": [
+            "Un factor irrelevante si se administran tratamientos adecuados.",
+            "Un elemento clave que debe ser modificado para promover la recuperación.",
+            "Un componente secundario frente a las intervenciones farmacológicas.",
+            "Un aspecto exclusivamente relacionado con la higiene personal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "Nightingale enfatiza que factores como la luz, la ventilación y la limpieza del entorno son esenciales para la recuperación del paciente."
+    },
+    {
+        "enunciado": "¿Qué dimensión aborda la 'presencia terapéutica' en la Teoría del Cuidado Humano de Jean Watson?",
+        "opciones": [
+            "El soporte técnico en los procedimientos médicos.",
+            "La conexión emocional y espiritual entre la enfermera y el paciente.",
+            "La supervisión directa de las intervenciones farmacológicas.",
+            "La evaluación objetiva de las necesidades fisiológicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "La presencia terapéutica en la teoría de Watson busca establecer una conexión profunda y transpersonal con el paciente, promoviendo su bienestar integral."
+    },
+    {
+        "enunciado": "¿Qué define el concepto de 'cuidado centrado en la persona' en la práctica de enfermería?",
+        "opciones": [
+            "El enfoque en el diagnóstico médico como prioridad del cuidado.",
+            "La personalización del cuidado basada en las necesidades, valores y preferencias del paciente.",
+            "La aplicación de intervenciones estandarizadas para todos los pacientes.",
+            "La supervisión constante para asegurar la adherencia al tratamiento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "El cuidado centrado en la persona se basa en respetar las preferencias y valores del paciente, adaptando las intervenciones para su bienestar."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito del diagnóstico enfermero en el proceso de atención?",
+        "opciones": [
+            "Identificar enfermedades específicas del paciente.",
+            "Proporcionar una base para planificar cuidados personalizados.",
+            "Clasificar al paciente según su nivel de dependencia.",
+            "Priorizar intervenciones médicas específicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "diagnóstico"
+        ],
+        "feedback": "El diagnóstico enfermero permite identificar problemas reales o potenciales del paciente para guiar las intervenciones de cuidado."
+    },
+    {
+        "enunciado": "Según Dorothea Orem, ¿cuáles son los tres sistemas de enfermería que definen la relación enfermera-paciente?",
+        "opciones": [
+            "Dependiente, semi-dependiente e independiente.",
+            "Integral, parcial y asistido.",
+            "Totalmente compensador, parcialmente compensador y educativo-apoyo.",
+            "Preventivo, curativo y rehabilitador."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Orem describe los sistemas totalmente compensador, parcialmente compensador y educativo-apoyo según el nivel de autonomía del paciente."
+    },
+    {
+        "enunciado": "¿Qué elemento clave incluye la teoría del cuidado transcultural de Madeleine Leininger?",
+        "opciones": [
+            "El uso de tecnología avanzada para la atención cultural.",
+            "La adaptación del cuidado según el contexto cultural del paciente.",
+            "La exclusión de factores culturales para evitar conflictos.",
+            "La implementación de protocolos estandarizados para todas las culturas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "La teoría de Leininger resalta la importancia de adaptar el cuidado de enfermería al contexto cultural del paciente para que sea efectivo."
+    },
+    {
+        "enunciado": "En el marco del modelo de sistemas de Betty Neuman, ¿qué representan los factores estresantes?",
+        "opciones": [
+            "Elementos positivos que mejoran la respuesta del paciente.",
+            "Interacciones externas que siempre tienen un impacto negativo.",
+            "Factores internos, externos o creados que afectan el equilibrio del paciente.",
+            "Situaciones exclusivamente relacionadas con el entorno social."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Neuman identifica factores estresantes como internos, externos o creados, que pueden alterar el equilibrio del paciente si no son manejados adecuadamente."
+    },
+    {
+        "enunciado": "En la Teoría de las Relaciones Interpersonales de Peplau, ¿qué papel desempeña la enfermera en la fase de resolución?",
+        "opciones": [
+            "Se centra en establecer un vínculo emocional permanente con el paciente.",
+            "Ayuda al paciente a integrar las habilidades aprendidas para afrontar su salud de forma autónoma.",
+            "Interviene directamente en todas las decisiones del paciente.",
+            "Supervisa continuamente al paciente para prevenir recaídas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "En la fase de resolución, la enfermera apoya al paciente en consolidar su autonomía, utilizando las habilidades desarrolladas durante el proceso de cuidado."
+    },
+    {
+        "enunciado": "¿Qué principio fundamental subyace en el enfoque holístico del cuidado de enfermería?",
+        "opciones": [
+            "El tratamiento exclusivo de los síntomas físicos del paciente.",
+            "La atención integral a las dimensiones físicas, emocionales, sociales y espirituales del paciente.",
+            "La estandarización de los cuidados en todos los pacientes.",
+            "La priorización de intervenciones farmacológicas para problemas complejos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "El enfoque holístico busca abordar todas las dimensiones del paciente, promoviendo el bienestar integral más allá de los aspectos físicos."
+    },
+    {
+        "enunciado": "Según Virginia Henderson, ¿qué necesidad se considera esencial para la seguridad del paciente?",
+        "opciones": [
+            "Mantener un entorno seguro para evitar daños.",
+            "Proporcionar alimentos ricos en nutrientes esenciales.",
+            "Fomentar la interacción social con otros pacientes.",
+            "Implementar técnicas avanzadas de diagnóstico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "necesidades-básicas"
+        ],
+        "feedback": "Henderson incluye la seguridad como una de las necesidades básicas, enfatizando la importancia de un entorno seguro para la salud del paciente."
+    },
+    {
+        "enunciado": "En la teoría de Nola Pender, ¿qué factor influye significativamente en la adopción de conductas de promoción de la salud?",
+        "opciones": [
+            "La percepción del paciente sobre los beneficios y barreras del cambio.",
+            "La disponibilidad de recursos médicos avanzados.",
+            "El nivel de intervención de la enfermera.",
+            "La eliminación total de riesgos ambientales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado"
+        ],
+        "feedback": "Pender destaca que la percepción del paciente sobre los beneficios y barreras es clave para promover cambios hacia conductas más saludables."
+    },
+    {
+        "enunciado": "En el modelo de adaptación de Callista Roy, ¿qué papel desempeñan los estímulos residuales?",
+        "opciones": [
+            "Son estímulos principales que afectan directamente la situación del paciente.",
+            "Representan experiencias pasadas que influyen en la respuesta adaptativa.",
+            "Son factores irrelevantes en el proceso de adaptación.",
+            "Se limitan a aspectos exclusivamente fisiológicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Los estímulos residuales, según Roy, incluyen experiencias o influencias pasadas que impactan en la capacidad del paciente para adaptarse."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes autoras pertenece a la escuela del autocuidado?",
+        "opciones": [
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem es la principal exponente de la escuela del autocuidado, destacando la importancia de suplir las necesidades que el paciente no puede cubrir por sí mismo."
+    },
+    {
+        "enunciado": "¿Qué teórica NO se asocia con el enfoque del autocuidado en enfermería?",
+        "opciones": [
+            "Imogene King",
+            "Dorothea Orem",
+            "Faye Abdellah",
+            "Madeleine Leininger"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Madeleine Leininger se centra en el cuidado transcultural, no en el autocuidado, que es el enfoque principal de Dorothea Orem."
+    },
+    {
+        "enunciado": "Dentro del marco del autocuidado, ¿quién formuló la Teoría del Déficit de Autocuidado?",
+        "opciones": [
+            "Jean Watson",
+            "Dorothea Orem",
+            "Betty Neuman",
+            "Florence Nightingale"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem formuló la Teoría del Déficit de Autocuidado, que aborda cómo los enfermeros ayudan a los pacientes a suplir sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué modelo teórico, centrado en el autocuidado, fue desarrollado por Dorothea Orem?",
+        "opciones": [
+            "Modelo de Adaptación",
+            "Modelo del Déficit de Autocuidado",
+            "Modelo de Sistemas",
+            "Teoría del Cuidado Humano"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "El Modelo del Déficit de Autocuidado de Orem identifica cuando los pacientes necesitan apoyo para cubrir sus necesidades básicas de salud."
+    },
+    {
+        "enunciado": "De las siguientes autoras, ¿cuál está directamente vinculada con la escuela del autocuidado en enfermería?",
+        "opciones": [
+            "Betty Neuman",
+            "Nola Pender",
+            "Dorothea Orem",
+            "Imogene King"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem es la autora más representativa de la escuela del autocuidado, desarrollando su teoría basada en este concepto."
+    },
+    {
+        "enunciado": "¿Qué teoría se relaciona específicamente con el concepto de autocuidado en enfermería?",
+        "opciones": [
+            "Teoría de las Relaciones Interpersonales",
+            "Teoría del Cuidado Humano",
+            "Teoría del Déficit de Autocuidado",
+            "Modelo de Adaptación"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "La Teoría del Déficit de Autocuidado de Orem explica cómo las enfermeras pueden intervenir cuando los pacientes no pueden satisfacer sus propias necesidades de salud."
+    },
+    {
+        "enunciado": "¿Qué autora está más estrechamente relacionada con el concepto de promover la independencia a través del autocuidado?",
+        "opciones": [
+            "Virginia Henderson",
+            "Jean Watson",
+            "Dorothea Orem",
+            "Callista Roy"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem enfoca su teoría en la promoción de la independencia del paciente a través del apoyo en el autocuidado."
+    },
+    {
+        "enunciado": "¿Qué modelo teórico se alinea más con los principios de la escuela del autocuidado?",
+        "opciones": [
+            "Teoría del Cuidado Transcultural",
+            "Modelo del Déficit de Autocuidado",
+            "Modelo de Sistemas de Neuman",
+            "Modelo de Adaptación de Roy"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "El Modelo del Déficit de Autocuidado de Orem es un claro ejemplo de la aplicación del concepto de autocuidado en la enfermería."
+    },
+    {
+        "enunciado": "De las siguientes afirmaciones, ¿cuál corresponde a la escuela del autocuidado de Orem?",
+        "opciones": [
+            "La enfermería se centra exclusivamente en el cuidado del entorno.",
+            "El objetivo es ayudar al paciente a cubrir las actividades que no puede realizar por sí mismo.",
+            "El cuidado se basa en la relación transpersonal entre la enfermera y el paciente.",
+            "La interacción social es el principal determinante del cuidado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "La escuela del autocuidado de Orem se enfoca en suplir las necesidades del paciente para garantizar su bienestar y autonomía."
+    },
+    {
+        "enunciado": "¿Qué autora definió la enfermería como la provisión de ayuda para el autocuidado cuando este no puede ser realizado por el individuo?",
+        "opciones": [
+            "Jean Watson",
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Betty Neuman"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem definió la enfermería como la provisión de apoyo para el autocuidado cuando el paciente no puede realizarlo por sí mismo."
+    },
+    {
+        "enunciado": "Según la Teoría del Déficit de Autocuidado, ¿qué rol cumple la enfermera cuando el paciente tiene una incapacidad total de autocuidado?",
+        "opciones": [
+            "Actúa como guía y educadora exclusivamente.",
+            "Compensa completamente las necesidades del paciente.",
+            "Se limita a supervisar el tratamiento médico.",
+            "Fomenta la independencia en actividades básicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Cuando el paciente no puede realizar ninguna actividad de autocuidado, la enfermera compensa completamente estas necesidades según Orem."
+    },
+    {
+        "enunciado": "De las siguientes autoras, ¿quién NO está asociada con la escuela del autocuidado?",
+        "opciones": [
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Florence Nightingale",
+            "Betty Neuman"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Betty Neuman está asociada con la teoría de los sistemas, no con la escuela del autocuidado."
+    },
+    {
+        "enunciado": "Dentro de la teoría de Orem, ¿cuál es un ejemplo de sistema parcialmente compensador?",
+        "opciones": [
+            "El paciente requiere asistencia total para realizar sus actividades diarias.",
+            "La enfermera apoya al paciente en actividades que este no puede realizar solo.",
+            "El paciente realiza todas sus actividades de manera independiente.",
+            "El equipo médico asume completamente el cuidado del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "En un sistema parcialmente compensador, el paciente recibe ayuda para actividades que no puede realizar completamente por sí mismo."
+    },
+    {
+        "enunciado": "¿Qué principio subyace en la Teoría del Autocuidado de Orem?",
+        "opciones": [
+            "Los pacientes son totalmente dependientes de la enfermería.",
+            "El objetivo es maximizar la autonomía del paciente en el cuidado personal.",
+            "La atención se centra únicamente en el entorno físico del paciente.",
+            "La enfermería se limita a ejecutar órdenes médicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Orem busca maximizar la autonomía del paciente promoviendo su capacidad para realizar actividades de autocuidado."
+    },
+    {
+        "enunciado": "¿Qué autora planteó que el rol de la enfermera es suplir las necesidades de autocuidado temporalmente hasta que el paciente recupere su capacidad?",
+        "opciones": [
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Jean Watson",
+            "Imogene King"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem establece que el rol de la enfermera es suplir las necesidades del paciente mientras este no puede realizar el autocuidado."
+    },
+    {
+        "enunciado": "En el contexto del autocuidado, ¿cuál de los siguientes sistemas de enfermería implica solo una orientación educativa y apoyo emocional?",
+        "opciones": [
+            "Sistema totalmente compensador.",
+            "Sistema parcialmente compensador.",
+            "Sistema educativo-apoyo.",
+            "Sistema independiente."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "El sistema educativo-apoyo, según Orem, está diseñado para orientar y capacitar al paciente en el manejo de su autocuidado."
+    },
+    {
+        "enunciado": "¿Qué concepto NO está directamente relacionado con la Teoría del Déficit de Autocuidado de Orem?",
+        "opciones": [
+            "Autocuidado",
+            "Líneas de defensa",
+            "Déficit de autocuidado",
+            "Sistemas de enfermería"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Las 'líneas de defensa' pertenecen al modelo de sistemas de Betty Neuman, no a la teoría de Orem."
+    },
+    {
+        "enunciado": "Según la teoría del autocuidado, ¿qué determina la necesidad de intervención de la enfermera?",
+        "opciones": [
+            "El grado de déficit de autocuidado que presenta el paciente.",
+            "El diagnóstico médico proporcionado por el doctor.",
+            "La presencia de factores estresantes en el entorno del paciente.",
+            "La relación interpersonal entre la enfermera y el paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "El déficit de autocuidado es el elemento clave que indica cuándo y cómo la enfermera debe intervenir según Orem."
+    },
+    {
+        "enunciado": "¿Qué teoría se enfoca en suplir las carencias del paciente en su autocuidado y fomentar su independencia progresiva?",
+        "opciones": [
+            "Teoría del Cuidado Humano",
+            "Teoría del Déficit de Autocuidado",
+            "Modelo de Sistemas",
+            "Teoría Transcultural"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "La Teoría del Déficit de Autocuidado de Orem aborda cómo el cuidado enfermero compensa las carencias temporales del paciente mientras promueve su independencia."
+    },
+    {
+        "enunciado": "¿Cuál de estas autoras es la creadora del Modelo de Adaptación?",
+        "opciones": [
+            "Callista Roy",
+            "Dorothea Orem",
+            "Imogene King",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Callista Roy desarrolló el Modelo de Adaptación, que explica cómo las personas responden a estímulos para mantener su equilibrio."
+    },
+    {
+        "enunciado": "¿Quién es la autora del Modelo de Sistemas en enfermería?",
+        "opciones": [
+            "Betty Neuman",
+            "Imogene King",
+            "Madeleine Leininger",
+            "Virginia Henderson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Betty Neuman es la autora del Modelo de Sistemas, que considera al paciente como un sistema abierto en interacción con factores internos y externos."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló la Teoría del Cuidado Humano?",
+        "opciones": [
+            "Jean Watson",
+            "Dorothea Orem",
+            "Florence Nightingale",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Jean Watson es conocida por la Teoría del Cuidado Humano, que enfatiza la conexión transpersonal y el cuidado integral del paciente."
+    },
+    {
+        "enunciado": "¿Quién propuso el Modelo de Promoción de la Salud?",
+        "opciones": [
+            "Nola Pender",
+            "Madeleine Leininger",
+            "Imogene King",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Nola Pender desarrolló el Modelo de Promoción de la Salud, que busca fomentar conductas saludables y prevenir enfermedades."
+    },
+    {
+        "enunciado": "¿Cuál de estas teóricas es autora de la Teoría de las Relaciones Interpersonales?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau desarrolló la Teoría de las Relaciones Interpersonales, centrada en la interacción enfermera-paciente como herramienta terapéutica."
+    },
+    {
+        "enunciado": "¿Quién desarrolló el Modelo del Déficit de Autocuidado?",
+        "opciones": [
+            "Dorothea Orem",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Faye Abdellah"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autocuidado"
+        ],
+        "feedback": "Dorothea Orem es la creadora del Modelo del Déficit de Autocuidado, una de las teorías más influyentes en la enfermería moderna."
+    },
+    {
+        "enunciado": "¿Qué teórica es responsable del Modelo de las Necesidades Básicas?",
+        "opciones": [
+            "Virginia Henderson",
+            "Imogene King",
+            "Dorothea Orem",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Virginia Henderson es la autora del Modelo de las Necesidades Básicas, que identifica 14 necesidades fundamentales en el cuidado enfermero."
+    },
+    {
+        "enunciado": "¿Qué modelo fue desarrollado por Imogene King?",
+        "opciones": [
+            "Modelo de Sistemas",
+            "Modelo de Metas Compartidas",
+            "Teoría del Cuidado Humano",
+            "Modelo de Adaptación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Imogene King es conocida por el Modelo de Metas Compartidas, que se enfoca en la interacción y comunicación efectiva entre la enfermera y el paciente."
+    },
+    {
+        "enunciado": "¿Quién propuso la Teoría del Entorno, basada en la importancia de factores como la higiene y la ventilación en la recuperación del paciente?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Betty Neuman",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale es considerada la pionera de la enfermería moderna y desarrolló la Teoría del Entorno."
+    },
+    {
+        "enunciado": "¿Qué autora es responsable del Modelo de Cuidado Transcultural?",
+        "opciones": [
+            "Madeleine Leininger",
+            "Jean Watson",
+            "Dorothea Orem",
+            "Nola Pender"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Madeleine Leininger desarrolló el Modelo de Cuidado Transcultural, que enfatiza la importancia de los valores y creencias culturales en la atención al paciente."
+    },
+    {
+        "enunciado": "¿Quién desarrolló un modelo que clasifica 21 problemas de enfermería para abordar las necesidades humanas básicas?",
+        "opciones": [
+            "Faye Abdellah",
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Faye Abdellah es conocida por su modelo de los 21 problemas, centrado en las necesidades humanas básicas como guía para el cuidado."
+    },
+    {
+        "enunciado": "¿Quién es la autora de la Teoría de los Campos Energéticos?",
+        "opciones": [
+            "Martha Rogers",
+            "Jean Watson",
+            "Betty Neuman",
+            "Imogene King"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Martha Rogers desarrolló la Teoría de los Campos Energéticos, que se centra en la interacción continua entre el ser humano y su entorno."
+    },
+    {
+        "enunciado": "¿Qué autora propuso el modelo de las Categorías Funcionales para la valoración de enfermería?",
+        "opciones": [
+            "Marjory Gordon",
+            "Virginia Henderson",
+            "Dorothea Orem",
+            "Callista Roy"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "valoración"
+        ],
+        "feedback": "Marjory Gordon desarrolló el modelo de las Categorías Funcionales, un enfoque integral para la valoración sistemática del paciente."
+    },
+    {
+        "enunciado": "¿Quién desarrolló la Teoría Ambiental, destacando factores como luz, ventilación y limpieza en el cuidado del paciente?",
+        "opciones": [
+            "Florence Nightingale",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Florence Nightingale es conocida como la fundadora de la enfermería moderna y desarrolló la Teoría Ambiental, que revolucionó el cuidado."
+    },
+    {
+        "enunciado": "¿Qué autora es responsable del Modelo de la Diversidad y la Universalidad del Cuidado Cultural?",
+        "opciones": [
+            "Madeleine Leininger",
+            "Betty Neuman",
+            "Imogene King",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "cuidado-cultural"
+        ],
+        "feedback": "Madeleine Leininger desarrolló el Modelo de la Diversidad y la Universalidad del Cuidado Cultural, enfatizando la importancia de la cultura en la atención de enfermería."
+    },
+    {
+        "enunciado": "¿Quién propuso un modelo enfocado en metas compartidas, donde enfermera y paciente trabajan juntos para alcanzar objetivos comunes?",
+        "opciones": [
+            "Imogene King",
+            "Virginia Henderson",
+            "Jean Watson",
+            "Betty Neuman"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Imogene King es autora del modelo enfocado en metas compartidas, resaltando la comunicación efectiva como clave para el cuidado exitoso."
+    },
+    {
+        "enunciado": "¿Cuál de estas autoras desarrolló un modelo basado en los 14 componentes fundamentales del cuidado de enfermería?",
+        "opciones": [
+            "Virginia Henderson",
+            "Callista Roy",
+            "Faye Abdellah",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "necesidades-básicas"
+        ],
+        "feedback": "Virginia Henderson definió 14 componentes fundamentales en su modelo, que abordan las necesidades humanas básicas en el cuidado enfermero."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló un modelo centrado en las líneas de defensa y resistencia del paciente frente a factores estresantes?",
+        "opciones": [
+            "Betty Neuman",
+            "Callista Roy",
+            "Martha Rogers",
+            "Imogene King"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Betty Neuman desarrolló el Modelo de Sistemas, donde las líneas de defensa y resistencia son esenciales para proteger al paciente."
+    },
+    {
+        "enunciado": "¿Qué teórica propuso la Teoría del Desarrollo Humano Aplicado al Cuidado de Enfermería?",
+        "opciones": [
+            "Erickson, Tomlin y Swain",
+            "Jean Watson",
+            "Virginia Henderson",
+            "Dorothea Orem"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Erickson, Tomlin y Swain desarrollaron la Teoría del Desarrollo Humano Aplicado al Cuidado de Enfermería, que se enfoca en el desarrollo humano como base del cuidado."
+    },
+    {
+        "enunciado": "¿Quién introdujo la Teoría de la Prevención de Enfermedades y Promoción de la Salud?",
+        "opciones": [
+            "Nola Pender",
+            "Dorothea Orem",
+            "Jean Watson",
+            "Virginia Henderson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "promoción-de-la-salud"
+        ],
+        "feedback": "Nola Pender es conocida por su enfoque en la prevención de enfermedades y promoción de la salud, ayudando a los pacientes a adoptar conductas saludables."
+    },
+    {
+        "enunciado": "¿Qué autora desarrolló la Teoría de las Relaciones Interpersonales, un modelo centrado en la interacción enfermera-paciente?",
+        "opciones": [
+            "Hildegard Peplau",
+            "Betty Neuman",
+            "Virginia Henderson",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "autoras"
+        ],
+        "feedback": "Hildegard Peplau es la autora de la Teoría de las Relaciones Interpersonales, que resalta la importancia de la interacción en el cuidado terapéutico."
+    },
+    {
+        "enunciado": "¿Quién propuso un modelo teórico que considera al paciente como un sistema abierto en interacción constante con su entorno?",
+        "opciones": [
+            "Betty Neuman",
+            "Callista Roy",
+            "Martha Rogers",
+            "Jean Watson"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Betty Neuman desarrolló un modelo en el que el paciente es un sistema abierto, interactuando continuamente con factores internos y externos."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Virginia Henderson?",
+        "opciones": [
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo de la adaptación.",
+            "Modelo de promoción de la salud."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Virginia Henderson es conocida por su modelo de las 14 necesidades básicas, que define la enfermería como una forma de ayudar al individuo a alcanzar su independencia en el cuidado de dichas necesidades."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Callista Roy?",
+        "opciones": [
+            "Modelo de los seres humanos unitarios.",
+            "Modelo de adaptación.",
+            "Modelo de la interacción interpersonal.",
+            "Modelo de los sistemas abiertos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "El modelo de adaptación de Callista Roy enfatiza la capacidad del ser humano para adaptarse a los estímulos del entorno mediante cuatro modos de adaptación."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Dorothea Orem?",
+        "opciones": [
+            "Modelo de promoción del autocuidado.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo de la conservación."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Dorothea Orem es conocida por su modelo de promoción del autocuidado, el cual subraya la importancia de ayudar al paciente a realizar aquellas actividades que no puede realizar por sí mismo."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Betty Neuman?",
+        "opciones": [
+            "Modelo de los sistemas abiertos.",
+            "Modelo de los seres humanos unitarios.",
+            "Modelo de promoción de la salud.",
+            "Modelo de la interacción interpersonal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "El modelo de Betty Neuman se basa en los sistemas abiertos, donde el enfoque está en la prevención del estrés y el mantenimiento del equilibrio del paciente dentro de su entorno."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Jean Watson?",
+        "opciones": [
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo del cuidado humanista y transpersonal.",
+            "Modelo de la adaptación.",
+            "Modelo de la conservación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Jean Watson es reconocida por su modelo del cuidado humanista y transpersonal, que pone énfasis en el cuidado como un proceso humanista y espiritual entre la enfermera y el paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Martha Rogers?",
+        "opciones": [
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de los seres humanos unitarios.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo de la conservación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Martha Rogers propuso el modelo de los seres humanos unitarios, que considera a las personas como sistemas abiertos en constante interacción con el universo y su energía."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Imogene King?",
+        "opciones": [
+            "Modelo del logro de metas.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo del autocuidado.",
+            "Modelo del cuidado cultural."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Imogene King desarrolló el modelo del logro de metas, que se basa en la interacción enfermera-paciente para establecer y alcanzar objetivos comunes relacionados con la salud."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Florence Nightingale?",
+        "opciones": [
+            "Modelo de la conservación.",
+            "Modelo del entorno.",
+            "Modelo de la adaptación.",
+            "Modelo del autocuidado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Florence Nightingale es conocida por su modelo del entorno, el cual destaca la importancia de factores como la ventilación, la luz, la higiene y la dieta en la recuperación del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Madeleine Leininger?",
+        "opciones": [
+            "Modelo del cuidado culturalmente congruente.",
+            "Modelo del logro de metas.",
+            "Modelo del autocuidado.",
+            "Modelo de la interacción enfermera-paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Madeleine Leininger desarrolló el modelo del cuidado culturalmente congruente, que subraya la importancia de brindar cuidados respetuosos y adaptados a las creencias y prácticas culturales de los pacientes."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Hildegard Peplau?",
+        "opciones": [
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo del entorno.",
+            "Modelo de las 14 necesidades básicas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Hildegard Peplau es reconocida por su modelo de la interacción enfermera-paciente, que destaca la relación interpersonal como un elemento clave para el cuidado de la salud."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Nola Pender?",
+        "opciones": [
+            "Modelo de promoción de la salud.",
+            "Modelo del autocuidado.",
+            "Modelo de la adaptación.",
+            "Modelo del cuidado transpersonal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Nola Pender es conocida por su modelo de promoción de la salud, que busca fomentar conductas saludables y prevenir enfermedades a través de la educación y el empoderamiento del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Lydia Hall?",
+        "opciones": [
+            "Modelo de los tres componentes del cuidado.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo del cuidado transpersonal.",
+            "Modelo del logro de metas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Lydia Hall es conocida por su modelo de los tres componentes del cuidado, que incluye el núcleo (paciente), el cuidado (enfermería) y la curación (médico)."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Ernestine Wiedenbach?",
+        "opciones": [
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo del arte clínico de la enfermería.",
+            "Modelo del cuidado culturalmente congruente.",
+            "Modelo de promoción del autocuidado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Ernestine Wiedenbach desarrolló el modelo del arte clínico de la enfermería, que subraya la práctica enfermera como un arte enfocado en satisfacer las necesidades percibidas del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Joyce Travelbee?",
+        "opciones": [
+            "Modelo del significado humano en la enfermería.",
+            "Modelo del logro de metas.",
+            "Modelo del autocuidado.",
+            "Modelo de la interacción enfermera-paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Joyce Travelbee desarrolló el modelo del significado humano en la enfermería, que enfatiza la importancia de la relación entre la enfermera y el paciente para abordar el sufrimiento humano."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Faye Abdellah?",
+        "opciones": [
+            "Modelo de los 21 problemas de enfermería.",
+            "Modelo de la promoción del autocuidado.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de la adaptación."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Faye Abdellah desarrolló el modelo de los 21 problemas de enfermería, un enfoque estructurado que clasifica los problemas de salud y guía la intervención enfermera."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Anne Casey?",
+        "opciones": [
+            "Modelo del cuidado centrado en la familia.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo del arte clínico de la enfermería.",
+            "Modelo de la promoción de la salud."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Anne Casey es conocida por su modelo del cuidado centrado en la familia, que subraya la importancia de involucrar a los familiares en el proceso de cuidado del paciente, especialmente en pediatría."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Patricia Benner?",
+        "opciones": [
+            "Modelo de las etapas de competencia en la práctica enfermera.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo de la conservación.",
+            "Modelo del significado humano en la enfermería."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Patricia Benner desarrolló un modelo basado en las etapas de competencia en la práctica enfermera, desde la etapa de principiante hasta la de experta, destacando el desarrollo del conocimiento a través de la experiencia."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Ernestine Wiedenbach?",
+        "opciones": [
+            "Modelo del arte clínico de la enfermería.",
+            "Modelo de la conservación.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo de la interacción enfermera-paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Ernestine Wiedenbach propuso el modelo del arte clínico de la enfermería, que destaca la importancia de la creatividad, el juicio clínico y la comprensión de las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Margaret Newman?",
+        "opciones": [
+            "Modelo de la expansión de la conciencia.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de la promoción del autocuidado.",
+            "Modelo del cuidado transpersonal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Margaret Newman desarrolló el modelo de la expansión de la conciencia, que se centra en cómo las personas experimentan la salud y la enfermedad como parte de su vida y crecimiento personal."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Myra Levine?",
+        "opciones": [
+            "Modelo de la conservación.",
+            "Modelo del cuidado cultural.",
+            "Modelo de las etapas de competencia.",
+            "Modelo del entorno."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Myra Levine es conocida por su modelo de la conservación, que se basa en la preservación de la energía, la estructura, la integridad personal y la integridad social del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Joyce Fitzpatrick?",
+        "opciones": [
+            "Modelo del ritmo de la vida.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de la conservación.",
+            "Modelo del cuidado transpersonal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Joyce Fitzpatrick propuso el modelo del ritmo de la vida, centrado en la experiencia humana del tiempo, los procesos de cambio y la conexión entre el pasado, presente y futuro en la atención sanitaria."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Katharine Kolcaba?",
+        "opciones": [
+            "Modelo del confort.",
+            "Modelo de la expansión de la conciencia.",
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo de los sistemas abiertos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Katharine Kolcaba es conocida por su modelo del confort, que se enfoca en mejorar el bienestar físico, psicológico, social y ambiental de los pacientes mediante la intervención enfermera."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Rosemarie Rizzo Parse?",
+        "opciones": [
+            "Modelo de la teoría de la humanidad.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo del autocuidado.",
+            "Modelo de la conservación."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Rosemarie Rizzo Parse desarrolló la teoría de la humanidad, centrada en la experiencia de vivir desde la perspectiva del paciente, enfatizando la libertad, el significado y el desarrollo personal."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Evelyn Adam?",
+        "opciones": [
+            "Modelo del concepto de enfermería.",
+            "Modelo de los sistemas abiertos.",
+            "Modelo del cuidado cultural.",
+            "Modelo de las 14 necesidades básicas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Evelyn Adam es conocida por su modelo del concepto de enfermería, que enfatiza la relación entre las necesidades del paciente y la capacidad de la enfermería para satisfacerlas a través del juicio profesional."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Lydia Hall?",
+        "opciones": [
+            "Modelo de los tres componentes.",
+            "Modelo del autocuidado.",
+            "Modelo de la interacción enfermera-paciente.",
+            "Modelo de la promoción del confort."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Lydia Hall desarrolló el modelo de los tres componentes, que incluye el núcleo (paciente), el cuidado (enfermería) y la curación (médico), destacando la interacción de estos elementos en la atención sanitaria."
+    },
+    {
+        "enunciado": "¿Cuál es el modelo desarrollado por Afaf Meleis?",
+        "opciones": [
+            "Modelo de las transiciones.",
+            "Modelo de la conservación.",
+            "Modelo de las 14 necesidades básicas.",
+            "Modelo del entorno."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos-teóricos"
+        ],
+        "feedback": "Afaf Meleis es conocida por su modelo de las transiciones, que analiza los cambios en la vida de los pacientes y cómo estos afectan su salud y bienestar, proponiendo intervenciones enfermeras específicas."
+    }
+]
