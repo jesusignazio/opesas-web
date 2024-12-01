@@ -212,7 +212,7 @@ function App() {
                 <h5 className="m-0 fw-bold">OPE SAS</h5>
             </div>
 
-            <div style={{ display: 'flex', flexGrow: 1, width: '100%' }}>
+            <div style={{ display: 'flex', flexGrow: 1, width: '100%', overflow: 'hidden' }}>
                 {/* Sidebar con buscador y menú */}
                 {sidebarOpen && (
                     <div
@@ -220,17 +220,20 @@ function App() {
                         style={{
                             backgroundColor: '#f8f9fa',
                             borderRight: '1px solid #ddd',
-                            height: '100vh',
+                            height: '100%', // Asegura que ocupe toda la altura del contenedor
                             padding: '1rem',
                             boxSizing: 'border-box',
-                            overflowY: 'auto',
-                            position: 'fixed', // Fijo para ocupar toda la pantalla en móvil
-                            top: 60,
+                            overflowY: 'auto', // Habilita scroll interno si el contenido es largo
+                            position: 'fixed', // Sidebar permanece fijo en la página
+                            top: '60px', // Ajusta el desplazamiento si hay una barra superior
                             left: 0,
-                            width: '100%',
-                            zIndex: 9999,
+                            width: '250px', // Mantén el ancho original del sidebar
+                            zIndex: 9999, // Asegúrate de que esté por encima del contenido principal
                         }}
                     >
+
+
+
                         {/* Barra de búsqueda */}
                         <form className="mb-3">
                             <input
