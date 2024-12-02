@@ -2008,5 +2008,2320 @@
       "epidemiologia"
     ],
     "feedback": "La tasa de mortalidad infantil refleja las defunciones en menores de 1 año por cada 1.000 nacidos vivos."
+  },
+  {
+    "enunciado": "¿Cuál es la principal diferencia entre demografía estática y demografía dinámica según el concepto de la OMS?",
+    "opciones": [
+      "La demografía estática se centra en los cambios poblacionales a lo largo del tiempo, mientras que la dinámica analiza los recursos disponibles.",
+      "La demografía estática evalúa la estructura y características generales de la población en un momento determinado, mientras que la dinámica estudia los cambios en la población a lo largo del tiempo.",
+      "La demografía estática analiza la distribución geográfica de las poblaciones, mientras que la dinámica evalúa las pirámides poblacionales.",
+      "La demografía dinámica y estática no presentan diferencias significativas en sus objetivos según la OMS."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La demografía estática analiza la población en un momento dado (ej., censos), mientras que la dinámica estudia los cambios a lo largo del tiempo."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes NO es una característica esencial de un indicador de salud según la OMS?",
+    "opciones": [
+      "Validez",
+      "Especificidad",
+      "Complejidad en su cálculo",
+      "Relevancia"
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La OMS destaca que un indicador debe ser simple de calcular, además de válido, específico y relevante para los asuntos de salud pública."
+  },
+  {
+    "enunciado": "¿Qué enfoque metodológico se utiliza principalmente para identificar necesidades de salud basándose en datos existentes?",
+    "opciones": [
+      "Técnicas de consenso",
+      "Análisis mediante indicadores",
+      "Encuestas poblacionales",
+      "Estudios cualitativos"
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El análisis mediante indicadores utiliza datos existentes para medir el estado de salud y deducir necesidades, siendo una técnica común en salud pública."
+  },
+  {
+    "enunciado": "En el contexto de la salud pública andaluza, ¿qué define específicamente la Ley 16/2011 respecto a la prevención de enfermedades?",
+    "opciones": [
+      "Garantiza la distribución uniforme de hospitales en zonas rurales.",
+      "Define la lista de enfermedades de declaración obligatoria y prioriza la vacunación sistemática.",
+      "Establece criterios para reducir la mortalidad infantil exclusivamente.",
+      "Propone un enfoque centrado en la atención terciaria."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La Ley 16/2011 aborda la adaptación de enfermedades de declaración obligatoria y promueve la vacunación como prioridad en Andalucía."
+  },
+  {
+    "enunciado": "En la tasa de incidencia, ¿qué elementos constituyen su denominador?",
+    "opciones": [
+      "El número de casos nuevos registrados durante un periodo.",
+      "La población total en el área de estudio.",
+      "La población expuesta al riesgo durante el periodo de estudio.",
+      "El total de casos nuevos y existentes en la población estudiada."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El denominador de la tasa de incidencia incluye la población expuesta al riesgo de desarrollar la enfermedad durante el periodo especificado."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente el Índice de Swaroop en epidemiología?",
+    "opciones": [
+      "La tasa de mortalidad neonatal precoz.",
+      "La proporción de muertes en personas mayores de 50 años.",
+      "La incidencia acumulada en poblaciones urbanas.",
+      "La calidad de vida relacionada con la salud en comunidades específicas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El Índice de Swaroop mide el porcentaje de muertes en personas mayores de 50 años, indicando condiciones de salud en poblaciones envejecidas."
+  },
+  {
+    "enunciado": "Según la Ley 16/2011 de Andalucía, ¿qué entidad tiene la responsabilidad de coordinar el Sistema de Vigilancia en Salud Pública?",
+    "opciones": [
+      "El Instituto Nacional de Estadística (INE)",
+      "El Servicio Andaluz de Salud",
+      "La Consejería competente en materia de salud",
+      "El Instituto de Salud de Andalucía"
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La Consejería de Salud es responsable de coordinar el Sistema de Vigilancia en Salud, integrando datos para mejorar la salud colectiva."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes no se considera una técnica directa para identificar necesidades de salud?",
+    "opciones": [
+      "Análisis de indicadores",
+      "Encuestas",
+      "Técnicas Delphi",
+      "Registro de morbilidad"
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Las técnicas Delphi son una metodología indirecta basada en el consenso de expertos, a diferencia de los métodos que analizan datos empíricos directamente."
+  },
+  {
+    "enunciado": "En el marco de los indicadores de salud, ¿qué representa la 'prevalencia'?",
+    "opciones": [
+      "El número de casos nuevos de una enfermedad en un periodo específico.",
+      "La cantidad total de personas que han estado expuestas a un riesgo.",
+      "El número total de casos de una enfermedad en una población durante un tiempo determinado.",
+      "La rapidez con la que se producen nuevas infecciones en una población."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia mide el número total de casos (nuevos y existentes) en una población durante un tiempo específico, frecuentemente usado para enfermedades crónicas."
+  },
+  {
+    "enunciado": "En la evaluación de impacto en salud, ¿qué aspecto es crucial según la Ley 16/2011?",
+    "opciones": [
+      "El control exclusivo de enfermedades transmisibles.",
+      "La identificación de factores genéticos en la población.",
+      "La integración de aspectos ambientales, sociales y económicos.",
+      "La supervisión de los avances en investigación biomédica."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La evaluación de impacto en salud considera factores ambientales, sociales y económicos, garantizando un enfoque integral de la salud pública."
+  },
+  {
+    "enunciado": "¿Qué característica principal define a un indicador de salud cualitativo?",
+    "opciones": [
+      "Se expresa mediante números y estadísticas.",
+      "Describe cualidades del fenómeno estudiado, como percepciones o valores.",
+      "Mide cambios específicos en los sistemas de salud.",
+      "Establece relaciones matemáticas entre tasas demográficas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Un indicador cualitativo se enfoca en describir cualidades o atributos del fenómeno, como percepciones o características no numéricas."
+  },
+  {
+    "enunciado": "Según la Ley 16/2011, ¿qué acción corresponde a la policía sanitaria mortuoria?",
+    "opciones": [
+      "Controlar la transmisión de zoonosis en áreas periurbanas.",
+      "Supervisar la gestión sanitaria en espacios residenciales.",
+      "Regular las condiciones de salubridad en procesos relacionados con fallecimientos.",
+      "Evaluar los riesgos ambientales asociados al urbanismo."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La policía sanitaria mortuoria se ocupa de regular la salubridad y el manejo de procesos relacionados con fallecimientos, como velatorios o entierros."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un ejemplo de una medida normativa en el análisis de necesidades de salud?",
+    "opciones": [
+      "La percepción subjetiva de los individuos sobre su estado de salud.",
+      "El número de consultas realizadas en un centro de salud específico.",
+      "Los estándares definidos por expertos en salud pública para la atención médica.",
+      "La demanda de servicios reflejada en los datos administrativos."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Las necesidades normativas son aquellas establecidas por expertos en relación con estándares o normas deseables."
+  },
+  {
+    "enunciado": "¿Qué característica distingue a una proporción en epidemiología?",
+    "opciones": [
+      "Incluye un numerador que no está contenido en el denominador.",
+      "Expresa la relación entre dos datos de distinta naturaleza.",
+      "El numerador está contenido en el denominador, representando una fracción del total.",
+      "Se multiplica siempre por 100.000 para su interpretación."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Una proporción se caracteriza por un numerador contenido en el denominador, representando una fracción del total de eventos posibles."
+  },
+  {
+    "enunciado": "En el análisis de datos en epidemiología, ¿qué se considera un valor atípico?",
+    "opciones": [
+      "Un dato que refuerza la tendencia general observada.",
+      "Una observación numéricamente distante del resto de los datos.",
+      "Un valor repetido en múltiples registros de forma sistemática.",
+      "Un caso descartado por estar fuera del periodo de estudio."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los valores atípicos son observaciones que están alejadas del resto y pueden distorsionar los análisis estadísticos."
+  },
+  {
+    "enunciado": "¿Cuál es una función principal de los anuarios estadísticos en demografía sanitaria?",
+    "opciones": [
+      "Ofrecer datos desactualizados sobre tendencias poblacionales.",
+      "Recopilar y publicar datos anuales de diversas fuentes para describir la realidad socioeconómica.",
+      "Realizar análisis predictivos sobre la dinámica poblacional.",
+      "Publicar exclusivamente estadísticas de mortalidad y natalidad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los anuarios recopilan y publican datos anuales para reflejar la realidad socioeconómica y demográfica de manera integral."
+  },
+  {
+    "enunciado": "Según la Ley de Salud Pública de Andalucía, ¿qué acción se incluye dentro de la promoción de la salud en el entorno escolar?",
+    "opciones": [
+      "La vacunación obligatoria contra enfermedades transmisibles.",
+      "El diseño de entornos saludables y estrategias sostenibles.",
+      "La implementación de servicios de atención primaria en escuelas.",
+      "La formación exclusiva de docentes en temas de salud."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El diseño de entornos saludables es clave en la promoción de la salud escolar según la normativa andaluza."
+  },
+  {
+    "enunciado": "¿Qué indicador es más relevante para evaluar la efectividad de un programa de prevención de enfermedades crónicas?",
+    "opciones": [
+      "La tasa de incidencia.",
+      "La tasa de mortalidad general.",
+      "La prevalencia de la enfermedad.",
+      "El índice de Swaroop."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia es un indicador clave para medir la magnitud de enfermedades crónicas y evaluar programas de prevención."
+  },
+  {
+    "enunciado": "¿Qué función específica desempeñan las técnicas Delphi en salud pública?",
+    "opciones": [
+      "Recopilan datos estadísticos mediante cuestionarios estándar.",
+      "Producen consensos entre expertos para identificar necesidades o problemas.",
+      "Realizan análisis comparativos entre distintas comunidades.",
+      "Evalúan la sensibilidad y especificidad de indicadores sanitarios."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Las técnicas Delphi se basan en el consenso entre expertos para identificar necesidades o proponer soluciones."
+  },
+  {
+    "enunciado": "En el contexto de los sistemas de vigilancia en salud pública, ¿qué objetivo tiene el Sistema Integral de Alerta en Salud Pública según la Ley 16/2011?",
+    "opciones": [
+      "Detectar problemas exclusivos de enfermedades crónicas.",
+      "Responder únicamente a alertas internacionales.",
+      "Coordinar respuestas ante alertas y emergencias sanitarias.",
+      "Gestionar exclusivamente enfermedades transmisibles."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El Sistema Integral de Alerta coordina respuestas a emergencias sanitarias que puedan tener repercusiones locales, nacionales o internacionales."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente la prevalencia en un contexto epidemiológico?",
+    "opciones": [
+      "El número total de casos nuevos de una enfermedad en un periodo específico.",
+      "La rapidez con que una enfermedad se propaga en una población.",
+      "El número total de casos existentes, nuevos y antiguos, en una población definida en un momento específico.",
+      "La probabilidad de que una enfermedad desaparezca en una población a lo largo del tiempo."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia mide la cantidad total de casos de una enfermedad en un tiempo específico, incluyendo casos nuevos y antiguos."
+  },
+  {
+    "enunciado": "¿Qué diferencia clave existe entre prevalencia puntual y prevalencia de período?",
+    "opciones": [
+      "La prevalencia puntual considera solo casos nuevos, mientras que la de período incluye todos los casos antiguos.",
+      "La prevalencia puntual evalúa casos en un momento específico, mientras que la de período abarca un intervalo de tiempo.",
+      "La prevalencia puntual se usa exclusivamente para enfermedades agudas y la de período para enfermedades crónicas.",
+      "La prevalencia puntual siempre se expresa en porcentajes y la de período en números absolutos."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia puntual mide casos en un momento específico, mientras que la prevalencia de período incluye casos en un intervalo de tiempo."
+  },
+  {
+    "enunciado": "¿Qué tipo de información ofrece la incidencia en epidemiología?",
+    "opciones": [
+      "La magnitud total de un problema de salud en una población en un momento dado.",
+      "La frecuencia con la que ocurren nuevos casos de una enfermedad en una población en riesgo durante un período de tiempo.",
+      "El impacto económico de las enfermedades crónicas en un sistema de salud.",
+      "La comparación de casos nuevos y antiguos en diferentes poblaciones."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La incidencia mide cuántos casos nuevos de una enfermedad ocurren en una población en riesgo durante un periodo específico."
+  },
+  {
+    "enunciado": "En términos epidemiológicos, ¿qué representa una tasa de ataque?",
+    "opciones": [
+      "El número de muertes causadas por una enfermedad en un año.",
+      "El número de nuevos casos de una enfermedad divididos entre la población expuesta al riesgo durante un brote.",
+      "La velocidad con la que disminuye la prevalencia de una enfermedad tras un programa de intervención.",
+      "El porcentaje de casos graves en relación con los casos totales de una enfermedad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de ataque mide la proporción de personas que desarrollan una enfermedad entre aquellas expuestas al riesgo durante un brote."
+  },
+  {
+    "enunciado": "¿Qué diferencia existe entre prevalencia e incidencia?",
+    "opciones": [
+      "La prevalencia mide casos nuevos y la incidencia casos existentes.",
+      "La prevalencia refleja casos totales y la incidencia mide únicamente casos nuevos en un periodo definido.",
+      "La prevalencia siempre incluye mortalidad, mientras que la incidencia no.",
+      "La prevalencia mide el impacto económico de las enfermedades y la incidencia mide el impacto sanitario."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia mide casos totales en una población, mientras que la incidencia se centra en los casos nuevos durante un tiempo específico."
+  },
+  {
+    "enunciado": "¿Qué información se obtiene al calcular la razón de prevalencia?",
+    "opciones": [
+      "La probabilidad de supervivencia de un grupo poblacional con enfermedad crónica.",
+      "La comparación entre la prevalencia de una enfermedad en dos grupos poblacionales.",
+      "La tasa de mortalidad relacionada con enfermedades infecciosas en una región específica.",
+      "El número total de casos nuevos y existentes en una población específica."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La razón de prevalencia compara la prevalencia de una enfermedad entre dos grupos, ayudando a identificar desigualdades en salud."
+  },
+  {
+    "enunciado": "¿Qué factores pueden influir en el aumento de la prevalencia de una enfermedad?",
+    "opciones": [
+      "Un incremento en la mortalidad asociada a la enfermedad.",
+      "La reducción en el diagnóstico temprano de la enfermedad.",
+      "Un aumento en la duración de la enfermedad debido a tratamientos que prolongan la vida.",
+      "Una disminución en la incidencia de nuevos casos."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia puede aumentar debido a tratamientos que prolongan la vida, incrementando el número de casos existentes en la población."
+  },
+  {
+    "enunciado": "En términos epidemiológicos, ¿qué representa la incidencia acumulada?",
+    "opciones": [
+      "El número de casos totales en una población a lo largo de un periodo extenso.",
+      "La proporción de individuos en riesgo que desarrollan la enfermedad durante un periodo específico.",
+      "El impacto económico de los nuevos casos de una enfermedad en un sistema de salud.",
+      "La velocidad con la que se reducen los casos nuevos de una enfermedad tras una intervención."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La incidencia acumulada mide la proporción de personas en riesgo que desarrollan la enfermedad durante un periodo específico."
+  },
+  {
+    "enunciado": "En epidemiología, ¿qué indicador se utiliza para evaluar la efectividad de un tratamiento en reducir casos nuevos de una enfermedad?",
+    "opciones": [
+      "La prevalencia de la enfermedad.",
+      "La incidencia de la enfermedad.",
+      "El índice de mortalidad específica.",
+      "La tasa bruta de mortalidad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La incidencia es el indicador clave para medir la efectividad de un tratamiento en reducir el número de nuevos casos de una enfermedad."
+  },
+  {
+    "enunciado": "¿Qué representa la tasa de incidencia en términos epidemiológicos?",
+    "opciones": [
+      "El número total de casos de una enfermedad en una población durante un periodo específico.",
+      "La velocidad con la que se desarrollan nuevos casos de una enfermedad en una población en riesgo.",
+      "El porcentaje de muertes causadas por una enfermedad en relación con los casos totales.",
+      "La relación entre casos nuevos y casos prevalentes en un periodo determinado."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de incidencia mide la velocidad con la que ocurren nuevos casos en una población en riesgo durante un periodo específico."
+  },
+  {
+    "enunciado": "En epidemiología, ¿cuál es el propósito principal de calcular la prevalencia ajustada?",
+    "opciones": [
+      "Ajustar la incidencia de una enfermedad para evaluar factores de riesgo específicos.",
+      "Eliminar las diferencias demográficas, como edad o género, para comparar poblaciones distintas.",
+      "Determinar la proporción de personas que recibirán tratamiento en una población.",
+      "Calcular la duración promedio de una enfermedad en una población."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia ajustada elimina diferencias demográficas entre poblaciones, permitiendo comparaciones más precisas y equitativas."
+  },
+  {
+    "enunciado": "¿Cuál es la diferencia principal entre una tasa bruta de mortalidad y una tasa específica de mortalidad?",
+    "opciones": [
+      "La tasa bruta mide muertes por todas las causas, mientras que la específica mide solo muertes por una causa o grupo poblacional particular.",
+      "La tasa específica se utiliza únicamente en enfermedades crónicas, mientras que la bruta abarca enfermedades infecciosas.",
+      "La tasa bruta incluye solo muertes en un periodo limitado, mientras que la específica evalúa todas las muertes ocurridas históricamente.",
+      "No hay diferencias significativas, ambas tasas se calculan de la misma forma pero para poblaciones diferentes."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa bruta incluye muertes por todas las causas en una población, mientras que la específica se centra en una causa o subgrupo."
+  },
+  {
+    "enunciado": "En el cálculo de la prevalencia, ¿qué elementos componen el numerador?",
+    "opciones": [
+      "El total de individuos sanos y enfermos en una población específica.",
+      "El número de casos nuevos de una enfermedad en un periodo definido.",
+      "El número total de casos existentes, tanto nuevos como antiguos, de una enfermedad en la población.",
+      "La suma de todos los casos diagnosticados en diferentes poblaciones."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El numerador de la prevalencia incluye todos los casos existentes, tanto nuevos como antiguos, de una enfermedad en un momento específico."
+  },
+  {
+    "enunciado": "¿Qué se necesita para calcular una tasa de ataque secundaria?",
+    "opciones": [
+      "El total de casos en una población general expuesta a una enfermedad infecciosa.",
+      "El número de casos nuevos entre los contactos de los casos primarios en un periodo específico.",
+      "El número de casos existentes y nuevos en un área geográfica durante un brote.",
+      "La proporción de casos graves entre todos los diagnosticados con una enfermedad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de ataque secundaria mide la propagación de una enfermedad entre los contactos cercanos de los casos iniciales (primarios)."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente la letalidad de una enfermedad?",
+    "opciones": [
+      "La proporción de personas infectadas en una población en riesgo.",
+      "El número total de casos diagnosticados en una población.",
+      "La proporción de casos de una enfermedad que resultan en la muerte en un periodo específico.",
+      "La duración promedio de una enfermedad antes de la recuperación."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La letalidad mide la proporción de casos que resultan en muerte, reflejando la gravedad de la enfermedad en los afectados."
+  },
+  {
+    "enunciado": "¿Qué indicador se utiliza para estimar la duración promedio de una enfermedad en una población?",
+    "opciones": [
+      "La tasa de incidencia acumulada.",
+      "La tasa bruta de mortalidad.",
+      "La prevalencia dividida por la incidencia.",
+      "La tasa de ataque primaria."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Dividir la prevalencia entre la incidencia proporciona una estimación de la duración promedio de la enfermedad en la población."
+  },
+  {
+    "enunciado": "En el cálculo de una tasa, ¿qué representa la constante aplicada al resultado del cociente?",
+    "opciones": [
+      "Un factor de ajuste para corregir errores en la recolección de datos.",
+      "Un valor que permite expresar la tasa en términos por 1.000, 10.000 o 100.000 habitantes para facilitar la interpretación.",
+      "El porcentaje de población que no está expuesta al riesgo.",
+      "Un coeficiente aleatorio que asegura la precisión estadística del resultado."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La constante en las tasas permite expresar resultados en términos comprensibles, como por cada 1.000 o 100.000 habitantes."
+  },
+  {
+    "enunciado": "¿Qué implica una razón de incidencia mayor a 1 entre dos poblaciones?",
+    "opciones": [
+      "Que la incidencia de la enfermedad es mayor en la primera población.",
+      "Que ambas poblaciones tienen la misma incidencia de la enfermedad.",
+      "Que la incidencia es mayor en la segunda población.",
+      "Que no se puede determinar la incidencia relativa entre las poblaciones."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Una razón de incidencia mayor a 1 indica que la enfermedad es más común en la primera población comparada con la segunda."
+  },
+  {
+    "enunciado": "¿Qué componente fundamental distingue una tasa de una proporción en epidemiología?",
+    "opciones": [
+      "El uso de un periodo de tiempo definido en la tasa.",
+      "El hecho de que la tasa no requiere un numerador.",
+      "La tasa incluye solo datos cualitativos mientras que la proporción usa datos cuantitativos.",
+      "La proporción siempre incluye una constante para su interpretación."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La diferencia clave es que una tasa siempre se calcula considerando un periodo de tiempo definido, mientras que la proporción no."
+  },
+  {
+    "enunciado": "¿Qué mide la tasa específica de mortalidad por edad?",
+    "opciones": [
+      "El número total de muertes en una población durante un periodo específico.",
+      "El número de muertes en un grupo etario específico dividido por la población total de esa edad.",
+      "La relación entre muertes en menores de 5 años y nacidos vivos.",
+      "La proporción de muertes atribuibles a una enfermedad específica en una población general."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa específica de mortalidad por edad calcula el número de muertes en un grupo etario específico en relación con su población total."
+  },
+  {
+    "enunciado": "¿Cuál es el propósito principal de la tasa de mortalidad infantil?",
+    "opciones": [
+      "Identificar la incidencia de enfermedades en recién nacidos.",
+      "Determinar el número de defunciones en menores de un año por cada mil nacidos vivos.",
+      "Evaluar el impacto económico de las enfermedades pediátricas.",
+      "Comparar la calidad de vida entre países desarrollados y en desarrollo."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de mortalidad infantil mide el número de muertes en menores de un año por cada mil nacidos vivos, siendo un indicador clave de desarrollo."
+  },
+  {
+    "enunciado": "¿Qué componente caracteriza la incidencia acumulada en un estudio epidemiológico?",
+    "opciones": [
+      "Se calcula para un momento específico en el tiempo.",
+      "Incluye casos nuevos y antiguos durante el periodo de observación.",
+      "Refleja la proporción de individuos en riesgo que desarrollan la enfermedad durante el periodo de estudio.",
+      "Se utiliza únicamente en poblaciones estables sin migración."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La incidencia acumulada mide la proporción de personas en riesgo que desarrollan la enfermedad durante un tiempo específico."
+  },
+  {
+    "enunciado": "En epidemiología, ¿qué se entiende por riesgo relativo (RR)?",
+    "opciones": [
+      "La diferencia absoluta en el riesgo de enfermedad entre dos grupos.",
+      "La razón entre la probabilidad de ocurrencia de un evento en un grupo expuesto frente a un grupo no expuesto.",
+      "La prevalencia de un evento en una población en un momento determinado.",
+      "La tasa de incidencia ajustada por factores de confusión."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El riesgo relativo (RR) compara la probabilidad de un evento en el grupo expuesto frente al no expuesto, indicando la fuerza de la asociación."
+  },
+  {
+    "enunciado": "¿Qué indica un riesgo relativo (RR) menor a 1 en un estudio epidemiológico?",
+    "opciones": [
+      "Que no existe asociación entre el factor de riesgo y la enfermedad.",
+      "Que el grupo expuesto tiene un riesgo menor de desarrollar la enfermedad en comparación con el grupo no expuesto.",
+      "Que el grupo expuesto tiene un riesgo mayor de desarrollar la enfermedad.",
+      "Que la exposición y la enfermedad están indirectamente relacionadas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Un RR menor a 1 indica que el grupo expuesto tiene un menor riesgo relativo de desarrollar la enfermedad en comparación con el grupo no expuesto."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente el número necesario a tratar (NNT) en epidemiología clínica?",
+    "opciones": [
+      "El número de casos nuevos evitados por cada 100 intervenciones.",
+      "El número promedio de pacientes que necesitan recibir un tratamiento para evitar un evento adverso en uno de ellos.",
+      "El porcentaje de reducción en la incidencia de una enfermedad tras una intervención.",
+      "El total de pacientes curados por cada intervención específica."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El NNT indica cuántos pacientes necesitan ser tratados para prevenir un evento adverso en uno de ellos, ayudando a evaluar la eficacia del tratamiento."
+  },
+  {
+    "enunciado": "¿Cuál es la diferencia entre un estudio prospectivo y uno retrospectivo en epidemiología?",
+    "opciones": [
+      "El estudio prospectivo se realiza en el futuro, mientras que el retrospectivo analiza eventos que aún no han ocurrido.",
+      "El estudio prospectivo sigue a los individuos hacia adelante en el tiempo, mientras que el retrospectivo analiza datos de eventos pasados.",
+      "El estudio retrospectivo incluye siempre un grupo control, mientras que el prospectivo no.",
+      "No existe una diferencia metodológica significativa entre ambos."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "En un estudio prospectivo, los individuos son seguidos hacia adelante en el tiempo, mientras que en uno retrospectivo se analizan datos ya ocurridos."
+  },
+  {
+    "enunciado": "¿Qué se evalúa en un estudio de casos y controles en epidemiología?",
+    "opciones": [
+      "La incidencia acumulada de una enfermedad en diferentes poblaciones.",
+      "Las diferencias en la exposición a un factor de riesgo entre un grupo con la enfermedad y otro sin ella.",
+      "El impacto económico de un programa de intervención sanitaria.",
+      "El tiempo promedio hasta la recuperación en pacientes tratados."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "En un estudio de casos y controles, se evalúa la exposición previa a factores de riesgo entre quienes tienen la enfermedad (casos) y quienes no (controles)."
+  },
+  {
+    "enunciado": "En un estudio de cohortes, ¿qué se sigue a lo largo del tiempo?",
+    "opciones": [
+      "La exposición de los individuos a un factor de riesgo y el desarrollo posterior de la enfermedad.",
+      "La incidencia de enfermedades en una población ya tratada.",
+      "El cambio en la prevalencia de la enfermedad después de una intervención.",
+      "El tiempo que tarda una enfermedad en alcanzar su máxima prevalencia."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "En un estudio de cohortes, se sigue a los individuos a lo largo del tiempo para observar si desarrollan la enfermedad según su exposición a un factor de riesgo."
+  },
+  {
+    "enunciado": "¿Qué representa la razón de prevalencia en un estudio epidemiológico?",
+    "opciones": [
+      "El número total de casos nuevos de una enfermedad durante un periodo específico.",
+      "La comparación de la prevalencia de una enfermedad entre dos poblaciones o grupos.",
+      "La relación entre la prevalencia y la incidencia de una enfermedad.",
+      "El tiempo promedio que un individuo permanece enfermo."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La razón de prevalencia compara la prevalencia de una enfermedad entre dos grupos, destacando posibles desigualdades o diferencias."
+  },
+  {
+    "enunciado": "¿Qué mide la tasa de mortalidad materna?",
+    "opciones": [
+      "El número de muertes en mujeres embarazadas por cada mil nacidos vivos.",
+      "El número de muertes de mujeres durante el embarazo, parto o puerperio por cada 100.000 nacidos vivos.",
+      "El porcentaje de mujeres que presentan complicaciones durante el parto.",
+      "La proporción de muertes por causas ginecológicas en mujeres en edad fértil."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La tasa de mortalidad materna mide las muertes relacionadas con el embarazo y parto por cada 100.000 nacidos vivos, un indicador de la calidad de atención médica."
+  },
+  {
+    "enunciado": "¿Qué representa la expectativa de vida al nacer?",
+    "opciones": [
+      "La duración promedio de vida esperada de una persona al alcanzar la adultez.",
+      "El número promedio de años que un recién nacido puede esperar vivir en condiciones actuales de mortalidad.",
+      "El total de años que una población vive en salud durante su vida.",
+      "La esperanza de vida proyectada para una población específica dentro de 20 años."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La expectativa de vida al nacer estima los años que viviría un recién nacido según las tasas de mortalidad actuales."
+  },
+  {
+    "enunciado": "¿Qué indicador se usa para evaluar la carga global de enfermedades?",
+    "opciones": [
+      "Tasa bruta de mortalidad.",
+      "Años de vida ajustados por discapacidad (AVAD).",
+      "Razón de prevalencia.",
+      "Número necesario para tratar (NNT)."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Los AVAD combinan años perdidos por muerte prematura y años vividos con discapacidad, reflejando la carga global de enfermedades."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente la tasa de mortalidad infantil?",
+    "opciones": [
+      "El número de defunciones en menores de cinco años por cada mil nacidos vivos.",
+      "El número de defunciones de recién nacidos antes del primer año de vida por cada mil nacidos vivos.",
+      "El porcentaje de complicaciones neonatales registradas en una población.",
+      "El número de muertes fetales en un periodo específico."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La tasa de mortalidad infantil mide las muertes antes del primer año de vida por cada mil nacidos vivos, reflejando el desarrollo sanitario y social."
+  },
+  {
+    "enunciado": "¿Qué refleja el índice de Swaroop?",
+    "opciones": [
+      "La tasa de mortalidad específica por edad.",
+      "La proporción de defunciones ocurridas en mayores de 50 años respecto al total de muertes.",
+      "El porcentaje de nacimientos complicados en una población.",
+      "La esperanza de vida sin discapacidad en mayores de 50 años."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El índice de Swaroop mide la proporción de muertes en personas mayores de 50 años, siendo un indicador de desarrollo sanitario."
+  },
+  {
+    "enunciado": "¿Qué diferencia a un indicador de salud positivo de uno negativo?",
+    "opciones": [
+      "Los positivos miden el bienestar y los negativos miden la carga de enfermedades o mortalidad.",
+      "Los positivos son datos cualitativos y los negativos cuantitativos.",
+      "Los indicadores negativos solo se aplican a enfermedades crónicas.",
+      "No hay diferencias relevantes entre ambos tipos de indicadores."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Los indicadores positivos evalúan el bienestar (ej. esperanza de vida), mientras que los negativos reflejan la carga de enfermedades o muertes (ej. tasas de mortalidad)."
+  },
+  {
+    "enunciado": "¿Qué mide específicamente la esperanza de vida saludable (HALE)?",
+    "opciones": [
+      "El número promedio de años que una persona vive en total.",
+      "El número promedio de años vividos sin enfermedades discapacitantes.",
+      "El porcentaje de población que alcanza los 80 años en condiciones de salud óptima.",
+      "La cantidad de años perdidos debido a enfermedades en una población específica."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La HALE mide el promedio de años que una persona puede vivir sin enfermedades o discapacidades significativas, destacando el impacto del sistema de salud."
+  },
+  {
+    "enunciado": "¿Qué representa la tasa de morbilidad general?",
+    "opciones": [
+      "El número de casos nuevos de una enfermedad por cada 100.000 habitantes en un periodo específico.",
+      "La frecuencia de individuos que enferman en una población durante un periodo específico.",
+      "La cantidad de personas que presentan más de una enfermedad crónica.",
+      "El porcentaje de hospitalizaciones por enfermedades infecciosas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La tasa de morbilidad general mide la frecuencia con la que las personas enferman en una población durante un tiempo específico."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes NO es un atributo de un buen indicador de salud según la OMS?",
+    "opciones": [
+      "Validez.",
+      "Simplicidad.",
+      "Complejidad de cálculo.",
+      "Relevancia."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Un buen indicador de salud debe ser simple y fácil de interpretar; la complejidad no es deseable según los criterios de la OMS."
+  },
+  {
+    "enunciado": "¿Qué refleja el indicador AVISA (años de vida perdidos ajustados por calidad)?",
+    "opciones": [
+      "La cantidad de años perdidos por muerte prematura.",
+      "El impacto de las enfermedades en la calidad de vida de una población.",
+      "Los años que se vivirían en salud sin considerar las discapacidades.",
+      "El tiempo promedio de recuperación de una enfermedad en una población."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El indicador AVISA combina años perdidos por muerte prematura y años vividos con discapacidad, reflejando el impacto de las enfermedades en la calidad de vida."
+  },
+  {
+    "enunciado": "¿Qué factor puede alterar significativamente la interpretación de la tasa bruta de mortalidad en diferentes poblaciones?",
+    "opciones": [
+      "La prevalencia de enfermedades transmisibles.",
+      "El tamaño absoluto de la población.",
+      "La estructura etaria de la población.",
+      "El acceso a servicios de salud de atención primaria."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La estructura etaria influye significativamente en la tasa bruta de mortalidad, ya que poblaciones más envejecidas suelen tener tasas más altas."
+  },
+  {
+    "enunciado": "¿Cuál es una limitación clave de los años de vida ajustados por discapacidad (AVAD) como indicador de salud?",
+    "opciones": [
+      "No consideran años perdidos por muerte prematura.",
+      "Asumen que todas las enfermedades tienen el mismo impacto en la calidad de vida.",
+      "Requieren ponderaciones subjetivas para medir la gravedad de las discapacidades.",
+      "Excluyen enfermedades crónicas de larga duración."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Los AVAD requieren ponderaciones subjetivas para valorar la gravedad de las discapacidades, lo que puede introducir sesgos en su interpretación."
+  },
+  {
+    "enunciado": "¿Por qué la tasa de mortalidad neonatal precoz es un indicador más sensible que la tasa de mortalidad infantil?",
+    "opciones": [
+      "Refleja principalmente las condiciones socioeconómicas de un país.",
+      "Es menos afectada por factores externos como accidentes o infecciones tardías.",
+      "Mide únicamente las muertes asociadas al parto y las primeras semanas de vida.",
+      "Considera tanto las muertes fetales como las neonatales."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La tasa de mortalidad neonatal precoz es sensible a las condiciones del parto y atención prenatal, factores menos influenciados por causas externas."
+  },
+  {
+    "enunciado": "¿Qué método puede usarse para comparar directamente la mortalidad entre dos poblaciones con diferentes estructuras de edad?",
+    "opciones": [
+      "Tasa de mortalidad ajustada por edad.",
+      "Tasa de incidencia acumulada.",
+      "Razón de prevalencia específica.",
+      "Índice de Swaroop."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Las tasas ajustadas por edad permiten comparar directamente la mortalidad entre poblaciones con estructuras de edad diferentes, eliminando este factor de confusión."
+  },
+  {
+    "enunciado": "¿Qué representa una tasa estandarizada de mortalidad (TEM) superior a 1 al comparar una población con un estándar?",
+    "opciones": [
+      "La población estudiada tiene una mortalidad igual al estándar.",
+      "La población estudiada tiene una mortalidad superior al estándar.",
+      "La población estudiada tiene una mortalidad inferior al estándar.",
+      "La tasa de mortalidad de la población estándar no se considera en este cálculo."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Una TEM mayor a 1 indica que la mortalidad en la población estudiada es superior a la del estándar utilizado para comparación."
+  },
+  {
+    "enunciado": "¿Cuál es el principal desafío al utilizar la esperanza de vida ajustada por calidad (HALE) como indicador de salud?",
+    "opciones": [
+      "La dificultad de medir objetivamente la calidad de vida.",
+      "La exclusión de enfermedades crónicas de larga duración.",
+      "La incapacidad de diferenciar entre hombres y mujeres.",
+      "La falta de datos sobre mortalidad en poblaciones envejecidas."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La medición de la calidad de vida es un desafío para calcular la HALE, ya que requiere evaluaciones subjetivas difíciles de estandarizar."
+  },
+  {
+    "enunciado": "¿Qué implica una baja proporción de mortalidad proporcional infantil en un país con alta mortalidad general?",
+    "opciones": [
+      "La mortalidad infantil está subestimada en los registros nacionales.",
+      "Los adultos mayores representan una proporción significativa de las muertes.",
+      "La mortalidad neonatal es la principal causa de muerte.",
+      "La tasa de morbilidad general es mucho mayor que la tasa de mortalidad infantil."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Una baja mortalidad proporcional infantil en un contexto de alta mortalidad general sugiere que las muertes están concentradas en adultos mayores."
+  },
+  {
+    "enunciado": "¿Cuál es la principal utilidad de la tasa de mortalidad por causa específica?",
+    "opciones": [
+      "Comparar la carga de diferentes enfermedades en una población.",
+      "Determinar la duración promedio de enfermedades crónicas.",
+      "Identificar las causas subyacentes de la mortalidad neonatal.",
+      "Medir la incidencia acumulada de enfermedades en un periodo."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La tasa de mortalidad por causa específica permite evaluar y comparar la carga de diferentes enfermedades en la población."
+  },
+  {
+    "enunciado": "En el cálculo de AVAD, ¿qué representa la ponderación de gravedad de las enfermedades?",
+    "opciones": [
+      "El número de años perdidos por muerte prematura.",
+      "El impacto relativo de una enfermedad en la calidad de vida, expresado en una escala numérica.",
+      "El costo económico asociado a enfermedades crónicas.",
+      "La probabilidad de desarrollar discapacidades graves en una población."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La ponderación de gravedad refleja el impacto relativo de una enfermedad en la calidad de vida, permitiendo sumar años vividos con discapacidad en el cálculo de AVAD."
+  },
+  {
+    "enunciado": "¿Por qué el Índice de Desarrollo Humano (IDH) es relevante en salud pública?",
+    "opciones": [
+      "Se utiliza para calcular directamente tasas de incidencia y prevalencia.",
+      "Relaciona el desarrollo económico con la mortalidad infantil.",
+      "Incluye variables como esperanza de vida, nivel educativo e ingresos, que afectan los determinantes sociales de la salud.",
+      "Es un indicador clínico para evaluar la efectividad de los sistemas de salud."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El IDH es relevante porque incluye factores como esperanza de vida, educación e ingresos, los cuales influyen en los determinantes sociales de la salud."
+  },
+  {
+    "enunciado": "Según la OMS, ¿qué característica define la validez de un indicador de salud?",
+    "opciones": [
+      "Que mida consistentemente lo mismo en diferentes contextos.",
+      "Que represente con precisión el fenómeno que pretende medir.",
+      "Que sea fácil de interpretar por profesionales de salud pública.",
+      "Que capte cambios pequeños en la población estudiada."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La validez de un indicador según la OMS implica que mida con precisión el fenómeno deseado, sin incluir otras variables ajenas."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes atributos es esencial para la sensibilidad de un indicador de salud según la OMS?",
+    "opciones": [
+      "Que sea capaz de reflejar los cambios pequeños en la población estudiada.",
+      "Que se mantenga constante en diferentes poblaciones y contextos.",
+      "Que sea relevante para las políticas de salud pública.",
+      "Que tenga un bajo coste de recolección de datos."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La sensibilidad, según la OMS, se refiere a la capacidad del indicador para captar pequeños cambios en la población, reflejando variaciones significativas."
+  },
+  {
+    "enunciado": "¿Qué implica la especificidad de un indicador de salud según la OMS?",
+    "opciones": [
+      "Que mida exactamente lo que pretende medir y no esté influenciado por otros factores.",
+      "Que sea útil en una amplia variedad de contextos y poblaciones.",
+      "Que sea fácilmente comprendido por las comunidades a las que se aplica.",
+      "Que permita comparar los datos entre diferentes regiones y países."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La especificidad significa que el indicador refleja exclusivamente cambios en el fenómeno estudiado y no se ve afectado por variables no relacionadas."
+  },
+  {
+    "enunciado": "Según los criterios de la OMS, ¿qué característica de un indicador facilita su uso en diferentes contextos?",
+    "opciones": [
+      "Confiabilidad.",
+      "Disponibilidad.",
+      "Simplicidad.",
+      "Alcance."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La simplicidad asegura que el indicador sea fácil de calcular e interpretar, lo que facilita su aplicación en diversos contextos y niveles de complejidad."
+  },
+  {
+    "enunciado": "En los indicadores de salud según la OMS, ¿qué se entiende por confiabilidad?",
+    "opciones": [
+      "Que produzca resultados similares cuando se mide en diferentes ocasiones o por distintos observadores.",
+      "Que capte la mayor cantidad de factores posibles en una población.",
+      "Que esté disponible para el público general y los gestores de salud.",
+      "Que se base únicamente en datos cualitativos."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La confiabilidad implica que un indicador produzca resultados consistentes independientemente de cuándo o quién lo mida, garantizando su estabilidad."
+  },
+  {
+    "enunciado": "¿Qué característica de los indicadores de salud es crucial para asegurar su pertinencia en políticas públicas, según la OMS?",
+    "opciones": [
+      "Relevancia.",
+      "Especificidad.",
+      "Sensibilidad.",
+      "Validez."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La relevancia asegura que el indicador responda a las preguntas clave en las políticas de salud pública, permitiendo decisiones informadas."
+  },
+  {
+    "enunciado": "Según los criterios de la OMS, ¿qué atributo asegura que un indicador de salud sea comprensible para los tomadores de decisiones?",
+    "opciones": [
+      "Fácil interpretación.",
+      "Disponibilidad.",
+      "Simplicidad.",
+      "Alcance."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La fácil interpretación garantiza que los tomadores de decisiones puedan entender rápidamente los resultados del indicador y actuar en consecuencia."
+  },
+  {
+    "enunciado": "¿Qué significa que un indicador de salud tenga 'alcance' según la OMS?",
+    "opciones": [
+      "Que pueda medir múltiples dimensiones o factores relacionados con el fenómeno estudiado.",
+      "Que sea aplicable exclusivamente a poblaciones grandes.",
+      "Que esté diseñado para captar cambios específicos en un entorno reducido.",
+      "Que esté disponible en tiempo real para los gestores de salud."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El alcance de un indicador se refiere a su capacidad para sintetizar información sobre diversas dimensiones que afectan la situación de salud."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo de priorizar la disponibilidad en un indicador de salud según la OMS?",
+    "opciones": [
+      "Garantizar que los datos básicos sean fáciles de obtener sin restricciones significativas.",
+      "Asegurar que el indicador sea utilizado exclusivamente en países desarrollados.",
+      "Minimizar el costo asociado a la recolección de información.",
+      "Evitar que los datos sean interpretados de manera incorrecta."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La disponibilidad asegura que los datos para el indicador estén al alcance de los gestores de salud sin barreras significativas de acceso."
+  },
+  {
+    "enunciado": "¿Por qué es importante la relevancia de un indicador según la OMS?",
+    "opciones": [
+      "Porque permite comparar los datos entre diferentes países.",
+      "Porque garantiza que los resultados reflejen los asuntos más importantes para las políticas de salud.",
+      "Porque asegura la precisión matemática de las mediciones.",
+      "Porque se centra exclusivamente en aspectos clínicos individuales."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La relevancia asegura que un indicador responda a los asuntos prioritarios de las políticas de salud, facilitando decisiones estratégicas basadas en evidencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Complejidad en el cálculo.",
+      "Disponibilidad de los datos.",
+      "Restricción geográfica del indicador.",
+      "Ambigüedad en su interpretación."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La OMS define los siguientes criterios para un buen indicador de salud: validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "Según los criterios de la OMS, ¿cuál de las siguientes características es esencial para un buen indicador de salud?",
+    "opciones": [
+      "Debe ser específico y reflejar únicamente el fenómeno que mide.",
+      "Debe ser ambiguo para adaptarse a diferentes interpretaciones.",
+      "Debe estar restringido a contextos altamente especializados.",
+      "Debe priorizar los aspectos económicos sobre la precisión."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Los criterios esenciales de la OMS incluyen especificidad (medir exclusivamente el fenómeno deseado), validez, confiabilidad, sensibilidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué criterio de los indicadores de salud según la OMS se relaciona con la facilidad de comprender los resultados?",
+    "opciones": [
+      "Sensibilidad.",
+      "Fácil interpretación.",
+      "Alcance.",
+      "Especificidad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La fácil interpretación es uno de los criterios definidos por la OMS para un buen indicador de salud. Otros criterios incluyen validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance y relevancia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes no es un criterio de un buen indicador de salud según la OMS?",
+    "opciones": [
+      "Validez.",
+      "Ambigüedad en los datos.",
+      "Confiabilidad.",
+      "Relevancia."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La OMS establece como criterios validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance, relevancia y fácil interpretación. La ambigüedad no es un atributo deseable."
+  },
+  {
+    "enunciado": "¿Qué significa la sensibilidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que el indicador capte cambios pequeños en la población estudiada.",
+      "Que el indicador esté disponible solo para contextos específicos.",
+      "Que mida múltiples dimensiones de una misma enfermedad.",
+      "Que los resultados puedan variar ampliamente según el observador."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La sensibilidad es uno de los criterios definidos por la OMS y se refiere a la capacidad del indicador para captar cambios, incluso pequeños, en la población. Otros criterios incluyen validez, confiabilidad, especificidad, simplicidad, disponibilidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un ejemplo de validez en un indicador de salud según la OMS?",
+    "opciones": [
+      "El indicador mide el fenómeno exacto para el que fue diseñado.",
+      "El indicador utiliza múltiples fuentes de datos para mayor complejidad.",
+      "El indicador no refleja las políticas de salud pública actuales.",
+      "El indicador se aplica exclusivamente en contextos hospitalarios."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La validez asegura que el indicador mida exclusivamente el fenómeno deseado. Otros criterios de la OMS incluyen confiabilidad, sensibilidad, especificidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "Según la OMS, ¿qué criterio asegura que los datos para un indicador de salud sean fáciles de obtener?",
+    "opciones": [
+      "Disponibilidad.",
+      "Confiabilidad.",
+      "Simplicidad.",
+      "Especificidad."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La disponibilidad garantiza que los datos sean accesibles sin restricciones significativas. Otros criterios incluyen validez, confiabilidad, sensibilidad, especificidad, simplicidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo de la simplicidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que el indicador sea comprensible para todas las audiencias.",
+      "Que su elaboración sea rápida y fácil sin comprometer su utilidad.",
+      "Que sea adaptable a diferentes contextos demográficos.",
+      "Que se enfoque únicamente en enfermedades agudas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La simplicidad asegura que el indicador sea fácil de calcular e interpretar. Otros criterios definidos por la OMS incluyen validez, confiabilidad, sensibilidad, especificidad, disponibilidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué significa el criterio de alcance en los indicadores de salud según la OMS?",
+    "opciones": [
+      "La capacidad del indicador para medir múltiples aspectos relacionados con un fenómeno de salud.",
+      "La habilidad del indicador para reflejar políticas de salud globales.",
+      "La precisión en los datos obtenidos durante estudios de campo.",
+      "La capacidad del indicador para mantenerse relevante en el tiempo."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El alcance asegura que el indicador sintetice información de múltiples aspectos relacionados con la salud. Otros criterios de la OMS incluyen validez, confiabilidad, sensibilidad, especificidad, simplicidad, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué significa la confiabilidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que mida con precisión el fenómeno de interés.",
+      "Que produzca resultados consistentes en diferentes situaciones o con distintos observadores.",
+      "Que refleje los cambios en la población de forma inmediata.",
+      "Que esté disponible en tiempo real para los responsables de salud pública."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La confiabilidad implica que el indicador sea consistente en diferentes situaciones o entre observadores. Otros criterios según la OMS incluyen validez, sensibilidad, especificidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Complejidad en el cálculo.",
+      "Disponibilidad de los datos.",
+      "Restricción geográfica del indicador.",
+      "Ambigüedad en su interpretación."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La OMS define los siguientes criterios para un buen indicador de salud: validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "Según los criterios de la OMS, ¿cuál de las siguientes características es esencial para un buen indicador de salud?",
+    "opciones": [
+      "Debe ser específico y reflejar únicamente el fenómeno que mide.",
+      "Debe ser ambiguo para adaptarse a diferentes interpretaciones.",
+      "Debe estar restringido a contextos altamente especializados.",
+      "Debe priorizar los aspectos económicos sobre la precisión."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "Los criterios esenciales de la OMS incluyen especificidad (medir exclusivamente el fenómeno deseado), validez, confiabilidad, sensibilidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué criterio de los indicadores de salud según la OMS se relaciona con la facilidad de comprender los resultados?",
+    "opciones": [
+      "Sensibilidad.",
+      "Fácil interpretación.",
+      "Alcance.",
+      "Especificidad."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La fácil interpretación es uno de los criterios definidos por la OMS para un buen indicador de salud. Otros criterios incluyen validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance y relevancia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes no es un criterio de un buen indicador de salud según la OMS?",
+    "opciones": [
+      "Validez.",
+      "Ambigüedad en los datos.",
+      "Confiabilidad.",
+      "Relevancia."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La OMS establece como criterios validez, confiabilidad, sensibilidad, especificidad, disponibilidad, simplicidad, alcance, relevancia y fácil interpretación. La ambigüedad no es un atributo deseable."
+  },
+  {
+    "enunciado": "¿Qué significa la sensibilidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que el indicador capte cambios pequeños en la población estudiada.",
+      "Que el indicador esté disponible solo para contextos específicos.",
+      "Que mida múltiples dimensiones de una misma enfermedad.",
+      "Que los resultados puedan variar ampliamente según el observador."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La sensibilidad es uno de los criterios definidos por la OMS y se refiere a la capacidad del indicador para captar cambios, incluso pequeños, en la población. Otros criterios incluyen validez, confiabilidad, especificidad, simplicidad, disponibilidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un ejemplo de validez en un indicador de salud según la OMS?",
+    "opciones": [
+      "El indicador mide el fenómeno exacto para el que fue diseñado.",
+      "El indicador utiliza múltiples fuentes de datos para mayor complejidad.",
+      "El indicador no refleja las políticas de salud pública actuales.",
+      "El indicador se aplica exclusivamente en contextos hospitalarios."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La validez asegura que el indicador mida exclusivamente el fenómeno deseado. Otros criterios de la OMS incluyen confiabilidad, sensibilidad, especificidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "Según la OMS, ¿qué criterio asegura que los datos para un indicador de salud sean fáciles de obtener?",
+    "opciones": [
+      "Disponibilidad.",
+      "Confiabilidad.",
+      "Simplicidad.",
+      "Especificidad."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La disponibilidad garantiza que los datos sean accesibles sin restricciones significativas. Otros criterios incluyen validez, confiabilidad, sensibilidad, especificidad, simplicidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo de la simplicidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que el indicador sea comprensible para todas las audiencias.",
+      "Que su elaboración sea rápida y fácil sin comprometer su utilidad.",
+      "Que sea adaptable a diferentes contextos demográficos.",
+      "Que se enfoque únicamente en enfermedades agudas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La simplicidad asegura que el indicador sea fácil de calcular e interpretar. Otros criterios definidos por la OMS incluyen validez, confiabilidad, sensibilidad, especificidad, disponibilidad, alcance, relevancia y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué significa el criterio de alcance en los indicadores de salud según la OMS?",
+    "opciones": [
+      "La capacidad del indicador para medir múltiples aspectos relacionados con un fenómeno de salud.",
+      "La habilidad del indicador para reflejar políticas de salud globales.",
+      "La precisión en los datos obtenidos durante estudios de campo.",
+      "La capacidad del indicador para mantenerse relevante en el tiempo."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "El alcance asegura que el indicador sintetice información de múltiples aspectos relacionados con la salud. Otros criterios de la OMS incluyen validez, confiabilidad, sensibilidad, especificidad, simplicidad, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Qué significa la confiabilidad como criterio de los indicadores de salud según la OMS?",
+    "opciones": [
+      "Que mida con precisión el fenómeno de interés.",
+      "Que produzca resultados consistentes en diferentes situaciones o con distintos observadores.",
+      "Que refleje los cambios en la población de forma inmediata.",
+      "Que esté disponible en tiempo real para los responsables de salud pública."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "indicadores de salud"
+    ],
+    "feedback": "La confiabilidad implica que el indicador sea consistente en diferentes situaciones o entre observadores. Otros criterios según la OMS incluyen validez, sensibilidad, especificidad, simplicidad, alcance, relevancia, disponibilidad y fácil interpretación."
+  },
+  {
+    "enunciado": "¿Cuál es una característica clave de los estudios transversales en epidemiología?",
+    "opciones": [
+      "Permiten determinar la causalidad entre un factor de riesgo y una enfermedad.",
+      "Se enfocan en medir la prevalencia de una enfermedad en un momento específico.",
+      "Evalúan la incidencia de enfermedades en una población a lo largo del tiempo.",
+      "Requieren seguimiento continuo de los participantes para medir resultados."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios transversales miden la prevalencia de una enfermedad o condición en un momento específico, pero no establecen causalidad."
+  },
+  {
+    "enunciado": "¿Qué limita la capacidad de los estudios transversales para inferir causalidad?",
+    "opciones": [
+      "La dificultad para identificar asociaciones entre variables.",
+      "La falta de control sobre las variables de confusión.",
+      "La incapacidad de diferenciar entre causa y efecto debido a su diseño de punto único en el tiempo.",
+      "La necesidad de largos periodos de seguimiento para observar efectos."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "La principal limitación de los estudios transversales es que no pueden diferenciar si la exposición precedió a la enfermedad o viceversa."
+  },
+  {
+    "enunciado": "¿Cuál es una ventaja de los estudios longitudinales frente a los transversales?",
+    "opciones": [
+      "Son más económicos y fáciles de realizar.",
+      "Pueden medir simultáneamente prevalencia e incidencia.",
+      "Permiten evaluar la temporalidad entre exposición y resultado.",
+      "Eliminan la necesidad de medir variables de confusión."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios longitudinales evalúan la temporalidad, es decir, si la exposición precedió al resultado, una ventaja frente a los estudios transversales."
+  },
+  {
+    "enunciado": "¿Qué tipo de diseño epidemiológico se utiliza comúnmente para estudiar la incidencia de una enfermedad en una población?",
+    "opciones": [
+      "Estudio transversal.",
+      "Estudio longitudinal de cohortes.",
+      "Estudio ecológico.",
+      "Estudio de casos y controles."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios longitudinales de cohortes son ideales para medir la incidencia, ya que permiten observar el desarrollo de nuevas enfermedades a lo largo del tiempo."
+  },
+  {
+    "enunciado": "¿Qué caracteriza a los estudios ecológicos en epidemiología?",
+    "opciones": [
+      "Recogen datos a nivel individual para analizar asociaciones causales.",
+      "Evalúan la relación entre variables agregadas, como tasas poblacionales.",
+      "Permiten medir la prevalencia y la incidencia en una misma población.",
+      "Requieren un seguimiento prolongado de los participantes para identificar tendencias."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios ecológicos analizan variables a nivel agregado (como tasas en poblaciones) y son útiles para generar hipótesis, pero no establecen causalidad a nivel individual."
+  },
+  {
+    "enunciado": "¿Cuál es una limitación común de los estudios ecológicos conocida como 'falacia ecológica'?",
+    "opciones": [
+      "La incapacidad para diferenciar entre exposición y resultado en el tiempo.",
+      "La inferencia errónea de relaciones individuales basadas en datos poblacionales.",
+      "La falta de representatividad de las muestras seleccionadas.",
+      "La alta susceptibilidad a los sesgos de selección en los participantes."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "La falacia ecológica ocurre cuando se asumen relaciones a nivel individual basándose en datos agregados, una limitación inherente a los estudios ecológicos."
+  },
+  {
+    "enunciado": "En un estudio longitudinal de cohortes, ¿qué implica la selección de una cohorte expuesta y no expuesta?",
+    "opciones": [
+      "Comparar grupos basados en el resultado observado.",
+      "Evaluar simultáneamente prevalencia e incidencia en diferentes puntos temporales.",
+      "Seguir a individuos con y sin exposición para observar la incidencia del resultado.",
+      "Realizar análisis retrospectivos basados en datos históricos."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "En estudios de cohortes, se sigue a individuos expuestos y no expuestos para observar diferencias en la incidencia del resultado a lo largo del tiempo."
+  },
+  {
+    "enunciado": "¿Qué diferencia clave tienen los estudios ecológicos respecto a los transversales?",
+    "opciones": [
+      "Los ecológicos estudian datos agregados y los transversales datos individuales.",
+      "Los ecológicos permiten evaluar la incidencia de enfermedades en un periodo.",
+      "Los transversales se realizan en múltiples puntos temporales.",
+      "Los estudios ecológicos siempre incluyen un componente experimental."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios ecológicos analizan datos agregados a nivel de población, mientras que los transversales recogen datos a nivel individual en un punto en el tiempo."
+  },
+  {
+    "enunciado": "¿En qué situación sería más adecuado realizar un estudio transversal?",
+    "opciones": [
+      "Para investigar una enfermedad rara en una población definida.",
+      "Para medir la prevalencia de una enfermedad crónica en una comunidad.",
+      "Para evaluar el efecto de una intervención sanitaria a lo largo del tiempo.",
+      "Para analizar asociaciones causales entre exposición y resultado."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios transversales son ideales para medir la prevalencia de una enfermedad o condición en un momento específico."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto a los estudios longitudinales?",
+    "opciones": [
+      "Miden simultáneamente la prevalencia y la incidencia en un momento único.",
+      "Requieren datos retrospectivos para estimar asociaciones.",
+      "Permiten observar cambios en una población o grupo a lo largo del tiempo.",
+      "Se limitan al análisis de datos agregados por regiones."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios longitudinales permiten observar cómo cambian las variables de interés en una población o grupo a lo largo del tiempo, evaluando temporalidad y causalidad."
+  },
+  {
+    "enunciado": "¿Qué tipo de estudio es más adecuado para investigar enfermedades raras?",
+    "opciones": [
+      "Estudio transversal.",
+      "Estudio de casos y controles.",
+      "Estudio de cohortes prospectivo.",
+      "Estudio ecológico."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de casos y controles son ideales para investigar enfermedades raras, ya que se centran en individuos afectados (casos) y los comparan con no afectados (controles)."
+  },
+  {
+    "enunciado": "¿Cuál es una ventaja de los estudios de cohortes prospectivos sobre los estudios de casos y controles?",
+    "opciones": [
+      "Son más económicos y rápidos de realizar.",
+      "Permiten calcular directamente tasas de incidencia.",
+      "Son menos susceptibles a sesgos de selección.",
+      "Requieren un tamaño de muestra menor."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de cohortes prospectivos permiten calcular tasas de incidencia directamente, observando cómo se desarrollan los eventos en una población expuesta y no expuesta."
+  },
+  {
+    "enunciado": "¿Qué característica distingue a un estudio de intervención o ensayo clínico de otros diseños epidemiológicos?",
+    "opciones": [
+      "Recoge datos únicamente a nivel poblacional.",
+      "Involucra la asignación deliberada de una exposición o tratamiento.",
+      "Se limita al análisis retrospectivo de datos históricos.",
+      "No requiere un grupo control para su análisis."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "En los estudios de intervención o ensayos clínicos, se asigna de forma deliberada una exposición o tratamiento para evaluar sus efectos en los participantes."
+  },
+  {
+    "enunciado": "¿Cuál es la principal limitación de los estudios de casos y controles?",
+    "opciones": [
+      "No permiten estudiar múltiples resultados simultáneamente.",
+      "Son inadecuados para enfermedades de larga duración.",
+      "No permiten calcular directamente la incidencia de la enfermedad.",
+      "Tienen un alto coste y son difíciles de organizar."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Una limitación clave de los estudios de casos y controles es que no permiten calcular directamente la incidencia, ya que parten de un diseño retrospectivo."
+  },
+  {
+    "enunciado": "¿Qué aspecto diferencia a un ensayo clínico controlado aleatorizado de otros estudios experimentales?",
+    "opciones": [
+      "El seguimiento de largo plazo.",
+      "La asignación aleatoria de los participantes a los grupos de intervención y control.",
+      "El uso exclusivo de tratamientos farmacológicos.",
+      "La ausencia de un grupo control."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los ensayos clínicos controlados aleatorizados destacan por la asignación aleatoria de participantes, minimizando sesgos y aumentando la validez interna del estudio."
+  },
+  {
+    "enunciado": "¿Qué diseño epidemiológico es más útil para evaluar la efectividad de una intervención preventiva?",
+    "opciones": [
+      "Estudio transversal.",
+      "Estudio de cohortes prospectivo.",
+      "Estudio de casos y controles.",
+      "Ensayo clínico controlado aleatorizado."
+    ],
+    "correcta": 3,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los ensayos clínicos controlados aleatorizados son el estándar para evaluar la efectividad de intervenciones preventivas, al proporcionar resultados más confiables y controlados."
+  },
+  {
+    "enunciado": "En un estudio de casos y controles, ¿qué medida de asociación se utiliza comúnmente?",
+    "opciones": [
+      "Razón de tasas.",
+      "Riesgo relativo (RR).",
+      "Odds ratio (OR).",
+      "Tasa de incidencia."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "La odds ratio (OR) es la medida de asociación más utilizada en estudios de casos y controles, ya que compara las probabilidades de exposición entre casos y controles."
+  },
+  {
+    "enunciado": "¿Cuál es una ventaja clave de los estudios de cohortes retrospectivos?",
+    "opciones": [
+      "Permiten calcular directamente la incidencia acumulada.",
+      "Requieren menos tiempo y recursos que los estudios prospectivos.",
+      "Eliminan completamente el riesgo de sesgos de selección.",
+      "Proveen una mayor validez interna que los ensayos clínicos."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de cohortes retrospectivos son más rápidos y económicos que los prospectivos, ya que se basan en datos históricos preexistentes."
+  },
+  {
+    "enunciado": "¿Qué factor podría comprometer la validez de un ensayo clínico controlado aleatorizado?",
+    "opciones": [
+      "La falta de aleatorización en la asignación de los grupos.",
+      "El uso de un grupo control para la comparación.",
+      "El seguimiento prolongado de los participantes.",
+      "La aplicación de un diseño doble ciego."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "La falta de aleatorización compromete la validez interna de un ensayo clínico al introducir sesgos en la asignación de participantes a los grupos."
+  },
+  {
+    "enunciado": "¿Qué define a un diseño doble ciego en un ensayo clínico?",
+    "opciones": [
+      "Ni los investigadores ni los participantes conocen la asignación de los tratamientos.",
+      "Solo los investigadores conocen la exposición asignada a los participantes.",
+      "Se ocultan los resultados del análisis a los responsables del estudio.",
+      "Ambos grupos reciben el mismo tratamiento durante el ensayo."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "En un diseño doble ciego, ni los participantes ni los investigadores conocen la asignación de los tratamientos, reduciendo sesgos relacionados con el conocimiento de la intervención."
+  },
+  {
+    "enunciado": "¿Cuál es el principal objetivo de un estudio de cohorte prospectivo?",
+    "opciones": [
+      "Determinar la prevalencia de una enfermedad en una población definida.",
+      "Establecer la relación temporal entre una exposición y el desarrollo de un resultado.",
+      "Comparar la exposición a factores de riesgo entre casos y controles.",
+      "Evaluar variables agregadas en una población específica para generar hipótesis."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de cohorte prospectivos permiten establecer relaciones temporales claras al observar cómo una exposición antecede al desarrollo de un resultado."
+  },
+  {
+    "enunciado": "¿Qué característica define a los estudios experimentales en epidemiología?",
+    "opciones": [
+      "Se realizan exclusivamente en entornos clínicos controlados.",
+      "Incluyen la manipulación deliberada de una exposición para evaluar su efecto.",
+      "Se limitan al análisis retrospectivo de datos preexistentes.",
+      "Son más rápidos y económicos que otros diseños epidemiológicos."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios experimentales manipulan deliberadamente una exposición para evaluar su efecto, como ocurre en los ensayos clínicos controlados."
+  },
+  {
+    "enunciado": "¿Qué medida de asociación es más adecuada para un estudio de cohorte?",
+    "opciones": [
+      "Razón de tasas.",
+      "Odds ratio (OR).",
+      "Riesgo relativo (RR).",
+      "Tasa de ataque."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "El riesgo relativo (RR) es la medida de asociación preferida en estudios de cohortes, ya que compara directamente el riesgo entre grupos expuestos y no expuestos."
+  },
+  {
+    "enunciado": "¿Qué ventaja tienen los estudios de intervención comunitaria frente a los ensayos clínicos controlados?",
+    "opciones": [
+      "Mayor control sobre las variables individuales.",
+      "Capacidad para evaluar intervenciones en condiciones reales.",
+      "Menor riesgo de sesgos en la selección de participantes.",
+      "Resultados más rápidos debido a un diseño simplificado."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de intervención comunitaria evalúan el efecto de las intervenciones en condiciones reales, aunque con menor control que los ensayos clínicos controlados."
+  },
+  {
+    "enunciado": "¿Qué característica define a un estudio de cohorte retrospectivo?",
+    "opciones": [
+      "Se basa en el análisis de datos recolectados en el futuro.",
+      "Utiliza datos históricos para analizar la relación entre exposición y resultado.",
+      "Permite calcular la prevalencia de una enfermedad en una población definida.",
+      "Se enfoca exclusivamente en identificar asociaciones causales."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de cohorte retrospectivos utilizan datos históricos para analizar la relación entre una exposición previa y el desarrollo de un resultado."
+  },
+  {
+    "enunciado": "¿Qué tipo de sesgo es común en los estudios de casos y controles debido a la naturaleza retrospectiva del diseño?",
+    "opciones": [
+      "Sesgo de selección.",
+      "Sesgo de observación.",
+      "Sesgo de memoria.",
+      "Sesgo de causalidad inversa."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "El sesgo de memoria es común en estudios de casos y controles, ya que los participantes pueden recordar de manera distinta las exposiciones según su estado de salud."
+  },
+  {
+    "enunciado": "¿Cuál es una limitación clave de los estudios transversales en comparación con los longitudinales?",
+    "opciones": [
+      "No permiten estudiar asociaciones entre variables.",
+      "Son más costosos y requieren más tiempo.",
+      "No pueden establecer relaciones temporales entre exposición y resultado.",
+      "Se limitan a poblaciones con alta prevalencia de enfermedades."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios transversales no pueden establecer relaciones temporales, ya que recogen datos en un único punto en el tiempo, a diferencia de los longitudinales."
+  },
+  {
+    "enunciado": "¿Qué distingue a un ensayo clínico de fase III de otras fases en la investigación de medicamentos?",
+    "opciones": [
+      "Evalúa la eficacia del medicamento en condiciones reales y en una población más amplia.",
+      "Se centra exclusivamente en identificar efectos adversos graves.",
+      "Utiliza muestras pequeñas para pruebas iniciales de seguridad.",
+      "No incluye comparación con un grupo control."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los ensayos clínicos de fase III evalúan la eficacia y seguridad en poblaciones amplias, replicando condiciones reales antes de la aprobación regulatoria."
+  },
+  {
+    "enunciado": "¿Qué aspecto clave diferencia un estudio de casos y controles de un estudio de cohorte?",
+    "opciones": [
+      "Los casos y controles miden incidencia directamente.",
+      "Los casos y controles son retrospectivos, mientras que las cohortes pueden ser prospectivas o retrospectivas.",
+      "Las cohortes no permiten evaluar múltiples exposiciones simultáneamente.",
+      "Los estudios de cohortes siempre utilizan aleatorización para seleccionar participantes."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "Los estudios de casos y controles son retrospectivos y evalúan la exposición previa entre casos y controles, mientras que las cohortes pueden ser prospectivas o retrospectivas."
+  },
+  {
+    "enunciado": "¿Qué estrategia reduce el sesgo de selección en los ensayos clínicos controlados aleatorizados?",
+    "opciones": [
+      "La aplicación de un diseño doble ciego.",
+      "La selección aleatoria de participantes y su asignación a grupos.",
+      "El seguimiento continuo de los participantes durante largos periodos.",
+      "El uso exclusivo de tratamientos activos en todos los grupos."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia",
+      "diseño de estudios"
+    ],
+    "feedback": "La selección y asignación aleatoria de participantes minimiza el sesgo de selección, asegurando que las características iniciales de los grupos sean comparables."
+  },
+  {
+    "enunciado": "¿Qué mide el riesgo relativo (RR) en un estudio epidemiológico?",
+    "opciones": [
+      "La diferencia absoluta en la incidencia entre dos grupos.",
+      "La relación entre la incidencia de un evento en el grupo expuesto y en el no expuesto.",
+      "La probabilidad de que un individuo desarrolle una enfermedad a lo largo de su vida.",
+      "El porcentaje de casos prevenidos en una población tras una intervención."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El RR compara la incidencia de un evento entre los grupos expuesto y no expuesto, mostrando la fuerza de la asociación entre la exposición y el resultado."
+  },
+  {
+    "enunciado": "¿Qué tipo de estudio es más útil para estimar la prevalencia de una enfermedad en una población?",
+    "opciones": [
+      "Estudio transversal.",
+      "Estudio de cohortes.",
+      "Ensayo clínico controlado.",
+      "Estudio de casos y controles."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios transversales miden la prevalencia al recoger datos en un punto específico en el tiempo, siendo ideales para este propósito."
+  },
+  {
+    "enunciado": "¿Qué significa la especificidad de una prueba diagnóstica?",
+    "opciones": [
+      "La capacidad de identificar correctamente a los verdaderos positivos.",
+      "La probabilidad de que un resultado negativo sea un verdadero negativo.",
+      "La habilidad de detectar todos los casos de enfermedad en una población.",
+      "La relación entre los resultados positivos y negativos en un grupo control."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La especificidad mide la capacidad de una prueba para identificar correctamente a las personas que no tienen la enfermedad, evitando falsos positivos."
+  },
+  {
+    "enunciado": "¿Qué distingue a la incidencia de la prevalencia?",
+    "opciones": [
+      "La incidencia mide casos existentes, mientras que la prevalencia mide casos nuevos.",
+      "La prevalencia incluye todos los casos en un momento, mientras que la incidencia mide casos nuevos en un periodo.",
+      "La incidencia evalúa enfermedades crónicas, y la prevalencia, enfermedades agudas.",
+      "La prevalencia se calcula solo en poblaciones grandes y la incidencia en pequeñas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La prevalencia mide el número total de casos en un momento o periodo, mientras que la incidencia se enfoca en los casos nuevos en un periodo específico."
+  },
+  {
+    "enunciado": "¿Cuál es el propósito principal de un ensayo clínico controlado aleatorizado?",
+    "opciones": [
+      "Comparar la prevalencia de una enfermedad entre dos poblaciones.",
+      "Evaluar la eficacia y seguridad de una intervención o tratamiento en condiciones controladas.",
+      "Observar asociaciones entre exposición y resultado en datos históricos.",
+      "Analizar la relación entre la mortalidad y los determinantes sociales de salud."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los ensayos clínicos controlados aleatorizados son el estándar para evaluar la eficacia y seguridad de tratamientos, minimizando sesgos mediante la aleatorización."
+  },
+  {
+    "enunciado": "¿Qué se entiende por 'eficacia' en un estudio de intervención sanitaria?",
+    "opciones": [
+      "El impacto real de la intervención en condiciones de práctica diaria.",
+      "La capacidad de la intervención para producir el efecto deseado en condiciones ideales.",
+      "La probabilidad de que una intervención prevenga enfermedades a largo plazo.",
+      "La comparación entre la intervención y los resultados históricos de la población."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La eficacia se refiere al efecto de una intervención en condiciones ideales, como en un ensayo clínico controlado."
+  },
+  {
+    "enunciado": "¿Qué tipo de sesgo ocurre cuando los participantes de un estudio recuerdan de manera diferente las exposiciones pasadas?",
+    "opciones": [
+      "Sesgo de selección.",
+      "Sesgo de memoria.",
+      "Sesgo de observación.",
+      "Sesgo de publicación."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "El sesgo de memoria ocurre cuando los participantes recuerdan de forma inexacta o inconsistente sus exposiciones pasadas, afectando los estudios retrospectivos."
+  },
+  {
+    "enunciado": "¿Qué significa la sensibilidad de una prueba diagnóstica?",
+    "opciones": [
+      "La capacidad de identificar correctamente a los verdaderos negativos.",
+      "La probabilidad de que un resultado positivo sea un verdadero positivo.",
+      "La capacidad de detectar todos los casos verdaderos de enfermedad en una población.",
+      "La habilidad de discriminar entre diferentes niveles de exposición."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La sensibilidad mide la capacidad de una prueba para identificar correctamente a las personas que tienen la enfermedad, evitando falsos negativos."
+  },
+  {
+    "enunciado": "¿Qué característica distingue a un estudio transversal de un estudio de cohorte?",
+    "opciones": [
+      "Los transversales se realizan en un único punto temporal, mientras que las cohortes incluyen seguimiento a lo largo del tiempo.",
+      "Los estudios transversales permiten calcular tasas de incidencia directamente.",
+      "Los estudios de cohorte son más económicos que los transversales.",
+      "Los estudios transversales siempre se enfocan en enfermedades raras."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios transversales se limitan a un único punto en el tiempo, mientras que los estudios de cohorte siguen a los participantes durante un periodo definido."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes opciones describe correctamente un estudio ecológico?",
+    "opciones": [
+      "Recoge datos individuales para evaluar asociaciones causales.",
+      "Analiza variables agregadas a nivel poblacional, como tasas o promedios.",
+      "Es siempre prospectivo y requiere seguimiento prolongado.",
+      "Es el único diseño adecuado para estudiar enfermedades raras."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios ecológicos analizan datos agregados a nivel de población, como tasas de enfermedad o factores socioeconómicos, y son útiles para generar hipótesis."
+  },
+  {
+    "enunciado": "¿Qué representa la tasa de letalidad de una enfermedad?",
+    "opciones": [
+      "El número de muertes en relación con la población general durante un periodo.",
+      "El porcentaje de personas diagnosticadas con una enfermedad que fallecen por ella.",
+      "La proporción de casos nuevos y existentes que requieren hospitalización.",
+      "El número total de fallecimientos registrados en un brote específico."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de letalidad mide el porcentaje de personas diagnosticadas con una enfermedad que fallecen como consecuencia directa de la misma."
+  },
+  {
+    "enunciado": "¿Qué característica define un estudio caso-control?",
+    "opciones": [
+      "Permite calcular directamente la incidencia acumulada.",
+      "Compara individuos con una enfermedad (casos) con individuos sin ella (controles) para identificar exposiciones previas.",
+      "Es prospectivo y sigue a los participantes durante un largo periodo.",
+      "Analiza datos exclusivamente a nivel poblacional."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Un estudio caso-control compara individuos con la enfermedad (casos) y sin ella (controles) para identificar exposiciones asociadas al desarrollo de la enfermedad."
+  },
+  {
+    "enunciado": "¿Qué medida epidemiológica se utiliza para calcular la proporción de muertes atribuibles a una enfermedad específica?",
+    "opciones": [
+      "Tasa de incidencia.",
+      "Tasa de prevalencia.",
+      "Tasa de mortalidad específica.",
+      "Tasa bruta de mortalidad."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de mortalidad específica mide la proporción de muertes atribuibles a una causa específica en relación con la población total."
+  },
+  {
+    "enunciado": "¿Qué distingue la mortalidad neonatal tardía de la neonatal precoz?",
+    "opciones": [
+      "La neonatal tardía incluye muertes durante las primeras 7 horas de vida.",
+      "La neonatal precoz incluye las muertes entre los 7 y 28 días de vida.",
+      "La neonatal tardía ocurre entre los 7 y 28 días, mientras que la precoz ocurre en los primeros 7 días de vida.",
+      "No existe una diferencia significativa entre ambas categorías."
+    ],
+    "correcta": 2,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La mortalidad neonatal tardía incluye muertes entre los 7 y 28 días, mientras que la neonatal precoz abarca las muertes en los primeros 7 días de vida."
+  },
+  {
+    "enunciado": "¿Qué indica un valor predictivo positivo alto en una prueba diagnóstica?",
+    "opciones": [
+      "Que la prueba tiene alta sensibilidad.",
+      "Que la mayoría de los resultados positivos son verdaderos positivos.",
+      "Que la prueba tiene alta especificidad.",
+      "Que no hay falsos negativos en los resultados."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Un valor predictivo positivo alto indica que la mayoría de los resultados positivos son verdaderos positivos, reflejando la precisión de la prueba en identificar casos reales."
+  },
+  {
+    "enunciado": "¿Qué diseño de estudio se utiliza comúnmente para investigar un brote de enfermedad infecciosa?",
+    "opciones": [
+      "Estudio de cohortes.",
+      "Estudio de casos y controles.",
+      "Ensayo clínico controlado.",
+      "Estudio transversal."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios de casos y controles son útiles para investigar brotes de enfermedades, ya que permiten identificar rápidamente exposiciones asociadas a los casos."
+  },
+  {
+    "enunciado": "¿Qué criterio principal se evalúa al calcular los años de vida ajustados por discapacidad (AVAD)?",
+    "opciones": [
+      "La esperanza de vida al nacer.",
+      "Los años perdidos por muerte prematura y vividos con discapacidad.",
+      "La prevalencia de enfermedades en una población específica.",
+      "La incidencia acumulada de enfermedades crónicas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los AVAD combinan años perdidos por muerte prematura y años vividos con discapacidad, reflejando la carga de enfermedad en una población."
+  },
+  {
+    "enunciado": "¿Qué ventaja tiene un estudio longitudinal sobre un estudio transversal?",
+    "opciones": [
+      "Permite establecer relaciones temporales entre exposición y resultado.",
+      "Es más rápido y económico de realizar.",
+      "Requiere una muestra más pequeña para ser significativo.",
+      "Es más adecuado para medir prevalencia en un momento específico."
+    ],
+    "correcta": 0,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios longitudinales permiten observar la relación temporal entre una exposición y el desarrollo de un resultado, algo que no es posible en los transversales."
+  },
+  {
+    "enunciado": "¿Qué aspecto caracteriza a un estudio ecológico en epidemiología?",
+    "opciones": [
+      "Estudia asociaciones entre variables a nivel individual.",
+      "Analiza datos agregados de poblaciones, como tasas o promedios.",
+      "Es prospectivo y sigue a los participantes durante un largo periodo.",
+      "Calcula directamente la incidencia acumulada en poblaciones específicas."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "Los estudios ecológicos analizan datos agregados a nivel poblacional, como tasas de enfermedad, siendo útiles para generar hipótesis."
+  },
+  {
+    "enunciado": "¿Qué medida es más adecuada para evaluar la gravedad de una enfermedad en términos de letalidad?",
+    "opciones": [
+      "Razón de prevalencia.",
+      "Tasa de letalidad.",
+      "Riesgo relativo.",
+      "Tasa de ataque."
+    ],
+    "correcta": 1,
+    "categorias": [
+      "tema12",
+      "epidemiologia"
+    ],
+    "feedback": "La tasa de letalidad mide la gravedad de una enfermedad al calcular el porcentaje de casos que resultan en muerte, en relación con los diagnosticados."
   }
 ]
