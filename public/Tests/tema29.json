@@ -3918,5 +3918,277 @@
             "modelos"
         ],
         "feedback": "El sistema de apoyo-educación tiene como objetivo principal empoderar al paciente mediante la enseñanza y guía para que pueda realizar su autocuidado de manera independiente."
+    },
+    {
+        "enunciado": "¿En qué fase del modelo de Hildegard Peplau se establece el vínculo inicial entre la enfermera y el paciente, definiendo los roles y objetivos del cuidado?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de orientación es la etapa inicial en la que la enfermera y el paciente establecen el vínculo terapéutico, definen roles y clarifican los objetivos del cuidado."
+    },
+    {
+        "enunciado": "¿En qué fase del modelo de Peplau el paciente comienza a aceptar la ayuda de la enfermera al identificar sus problemas y necesidades?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de identificación es cuando el paciente reconoce y acepta la ayuda de la enfermera, comenzando a trabajar en sus problemas y necesidades terapéuticas."
+    },
+    {
+        "enunciado": "¿En qué fase del modelo de Peplau el paciente utiliza los recursos proporcionados por la enfermera para resolver sus problemas?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la fase de explotación (exploración), el paciente utiliza al máximo los recursos y herramientas proporcionados por la enfermera para abordar y resolver sus problemas."
+    },
+    {
+        "enunciado": "¿En qué fase del modelo de Hildegard Peplau se finaliza la relación enfermera-paciente debido a que el paciente ha logrado la independencia y la resolución de sus problemas?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de resolución marca el final de la relación terapéutica, ya que el paciente ha alcanzado la independencia y la resolución de sus problemas."
+    },
+    {
+        "enunciado": "¿En qué fase del modelo de Peplau la enfermera y el paciente establecen un contrato terapéutico para guiar el proceso de cuidado?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la fase de orientación, la enfermera y el paciente establecen un contrato terapéutico que define roles, límites y objetivos del cuidado."
+    },
+    {
+        "enunciado": "¿Qué fase del modelo de Peplau se caracteriza por el uso máximo de los recursos disponibles para que el paciente logre su bienestar?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de explotación (exploración) se caracteriza por el uso óptimo de los recursos terapéuticos ofrecidos por la enfermera, ayudando al paciente a avanzar hacia la resolución de sus problemas."
+    },
+    {
+        "enunciado": "¿Qué fase del modelo de Hildegard Peplau implica la terminación de la relación terapéutica al alcanzarse los objetivos establecidos?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de resolución implica el cierre de la relación terapéutica una vez que los objetivos del cuidado han sido alcanzados y el paciente ha logrado la independencia."
+    },
+    {
+        "enunciado": "¿Qué fase del modelo de Peplau incluye el reconocimiento de las necesidades del paciente y el inicio de la comunicación terapéutica?",
+        "opciones": [
+            "Fase de orientación.",
+            "Fase de identificación.",
+            "Fase de explotación (exploración).",
+            "Fase de resolución."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La fase de orientación incluye el inicio de la comunicación terapéutica y la identificación inicial de las necesidades del paciente por parte de la enfermera."
+    },
+    {
+        "enunciado": "Según el modelo de Patricia Benner, ¿cuál es el objetivo principal del desarrollo profesional en la práctica enfermera?",
+        "opciones": [
+            "Avanzar desde el nivel principiante hasta el nivel experto.",
+            "Proveer cuidados holísticos y centrados en el paciente.",
+            "Lograr la independencia total del paciente en su autocuidado.",
+            "Promover la conexión espiritual entre enfermera y paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "El modelo de Patricia Benner tiene como objetivo describir cómo las enfermeras progresan desde el nivel principiante al nivel experto mediante la experiencia y el aprendizaje continuo."
+    },
+    {
+        "enunciado": "¿Cuál es la característica principal de la etapa 'Principiante' en el modelo de Patricia Benner?",
+        "opciones": [
+            "La enfermera tiene conocimiento teórico pero carece de experiencia práctica.",
+            "La enfermera es capaz de priorizar necesidades de cuidado basándose en la intuición.",
+            "La enfermera desarrolla una comprensión profunda del contexto clínico.",
+            "La enfermera utiliza la experiencia previa para responder automáticamente a las situaciones."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la etapa 'Principiante', la enfermera posee conocimientos teóricos básicos pero carece de experiencia práctica, por lo que depende de reglas y guías para actuar."
+    },
+    {
+        "enunciado": "En el modelo de Patricia Benner, ¿qué etapa describe a una enfermera que es capaz de aplicar habilidades organizativas y priorizar el cuidado de forma eficiente?",
+        "opciones": [
+            "Principiante avanzado.",
+            "Competente.",
+            "Eficiente.",
+            "Experto."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La etapa 'Competente' en el modelo de Benner describe a una enfermera que ha adquirido experiencia suficiente para priorizar y organizar el cuidado de manera eficiente."
+    },
+    {
+        "enunciado": "Según Patricia Benner, ¿qué etapa representa a una enfermera que utiliza patrones intuitivos para tomar decisiones rápidas y precisas en situaciones complejas?",
+        "opciones": [
+            "Principiante avanzado.",
+            "Competente.",
+            "Eficiente.",
+            "Experto."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La etapa 'Experto' en el modelo de Benner describe a una enfermera que ha desarrollado la capacidad de tomar decisiones rápidas y precisas utilizando patrones intuitivos basados en su experiencia."
+    },
+    {
+        "enunciado": "¿Qué diferencia caracteriza a una enfermera en la etapa de 'Eficiente' frente a una en la etapa de 'Competente', según el modelo de Patricia Benner?",
+        "opciones": [
+            "La enfermera eficiente actúa con mayor flexibilidad y fluidez que la competente.",
+            "La enfermera eficiente depende completamente de reglas y guías para actuar.",
+            "La enfermera eficiente tiene conocimiento teórico pero carece de experiencia práctica.",
+            "La enfermera eficiente utiliza patrones intuitivos sin necesidad de análisis detallados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la etapa 'Eficiente', la enfermera actúa con mayor fluidez y flexibilidad que en la etapa 'Competente', gracias a la integración de la experiencia en su práctica."
+    },
+    {
+        "enunciado": "En el modelo de Benner, ¿qué etapa describe a una enfermera que ha adquirido experiencia práctica limitada pero ya comienza a reconocer aspectos importantes en situaciones clínicas?",
+        "opciones": [
+            "Principiante.",
+            "Principiante avanzado.",
+            "Competente.",
+            "Eficiente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "La etapa 'Principiante avanzado' describe a una enfermera con experiencia limitada que comienza a identificar aspectos clave en las situaciones clínicas y mejora su capacidad de análisis."
+    },
+    {
+        "enunciado": "¿Qué característica distingue la etapa de 'Experto' en el modelo de Patricia Benner?",
+        "opciones": [
+            "Uso de reglas rígidas y protocolos estándar.",
+            "Capacidad para priorizar y organizar el cuidado de manera eficiente.",
+            "Toma de decisiones basada en la experiencia e intuición sin necesidad de análisis detallados.",
+            "Dependencia de supervisión para aplicar habilidades clínicas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la etapa de 'Experto', la enfermera utiliza su experiencia e intuición para tomar decisiones de manera rápida y eficaz, sin necesidad de un análisis detallado."
+    },
+    {
+        "enunciado": "Según el modelo de Benner, ¿en qué etapa una enfermera puede anticipar las necesidades de los pacientes basándose en patrones de situaciones clínicas previamente experimentadas?",
+        "opciones": [
+            "Principiante avanzado.",
+            "Competente.",
+            "Eficiente.",
+            "Experto."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la etapa de 'Experto', la enfermera puede anticipar las necesidades del paciente basándose en patrones reconocidos a partir de experiencias previas."
+    },
+    {
+        "enunciado": "En el modelo de Patricia Benner, ¿qué etapa representa a una enfermera que sigue reglas generales y depende de la supervisión para llevar a cabo tareas básicas?",
+        "opciones": [
+            "Principiante.",
+            "Competente.",
+            "Eficiente.",
+            "Experto."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema29",
+            "fundamentos",
+            "modelos"
+        ],
+        "feedback": "En la etapa 'Principiante', la enfermera se basa en reglas generales y protocolos estándar, dependiendo de la supervisión para realizar las tareas básicas del cuidado."
     }
 ]
