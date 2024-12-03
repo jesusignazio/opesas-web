@@ -1,0 +1,2242 @@
+[
+    {
+        "enunciado": "¿Cuál es el punto de corte óptimo del Índice de Masa Corporal (IMC) en personas mayores de 65 años según la teoría nutricional?",
+        "opciones": [
+            "IMC entre 18,5 y 24,9",
+            "IMC entre 20 y 22",
+            "IMC entre 22 y 27",
+            "IMC superior a 27"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "evaluación_nutricional"
+        ],
+        "feedback": "En mayores de 65 años, el IMC óptimo se considera entre 22 y 27 kg/m² debido a la relación con mejores resultados de salud, evitando tanto la desnutrición como los riesgos asociados al sobrepeso leve."
+    },
+    {
+        "enunciado": "En el contexto de la nutrición enteral, ¿cuál es la vía de elección en pacientes con gastrectomía total?",
+        "opciones": [
+            "Sonda nasogástrica",
+            "Yeyunostomía",
+            "Gastrostomía",
+            "Sonda nasoenteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La yeyunostomía es preferida en pacientes con gastrectomía total para garantizar la entrega de nutrientes directamente al intestino delgado, evitando complicaciones gástricas."
+    },
+    {
+        "enunciado": "¿Qué herramienta de cribado nutricional incluye la valoración de pérdida de peso reciente, IMC y enfermedades agudas?",
+        "opciones": [
+            "MNA (Mini Nutritional Assessment)",
+            "MUST (Malnutrition Universal Screening Tool)",
+            "NRS-2002 (Nutritional Risk Screening)",
+            "VSG (Valoración Subjetiva Global)"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "cribado_nutricional"
+        ],
+        "feedback": "El MUST evalúa el riesgo de malnutrición considerando el IMC, pérdida de peso reciente y el impacto de enfermedades agudas en la ingesta o absorción de nutrientes."
+    },
+    {
+        "enunciado": "En un paciente que requiere nutrición parenteral, ¿cuál de las siguientes situaciones contraindica el uso de un catéter venoso central de inserción periférica (PICC)?",
+        "opciones": [
+            "Nutrición parenteral de corta duración",
+            "Necesidad de acceso venoso para medicación adicional",
+            "Osmolaridad elevada en la solución nutricional",
+            "Paciente con alteración de la coagulación"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El uso de soluciones de osmolaridad elevada en nutrición parenteral requiere un catéter venoso central tradicional debido al riesgo de flebitis y daño en venas periféricas."
+    },
+    {
+        "enunciado": "¿Qué complicación metabólica es característica del síndrome de realimentación?",
+        "opciones": [
+            "Hiperglucemia",
+            "Hipofosfatemia",
+            "Hipernatremia",
+            "Hipercalcemia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "síndrome_de_realimentación"
+        ],
+        "feedback": "La hipofosfatemia es una característica central del síndrome de realimentación, resultado del rápido uso de fosfato en la síntesis celular durante la reintroducción de nutrientes."
+    },
+    {
+        "enunciado": "En nutrición enteral, ¿qué osmolalidad caracteriza a las fórmulas isotónicas?",
+        "opciones": [
+            "Menor a 300 mOsm/kg",
+            "Entre 300 y 350 mOsm/kg",
+            "Entre 350 y 550 mOsm/kg",
+            "Mayor a 550 mOsm/kg"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas isotónicas tienen una osmolalidad cercana a la fisiológica, que varía entre 300 y 350 mOsm/kg, reduciendo el riesgo de intolerancia digestiva."
+    },
+    {
+        "enunciado": "En la planificación de una dieta para pacientes con insuficiencia renal, ¿qué tipo de fórmula nutricional se recomienda?",
+        "opciones": [
+            "Con alta densidad calórica y proteínas",
+            "Con restricción hídrica y proteínas ajustadas",
+            "Con reducción de grasas saturadas",
+            "Con alto contenido de carbohidratos de rápida absorción"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "dietas_terapéuticas"
+        ],
+        "feedback": "Las fórmulas para insuficiencia renal se diseñan para evitar sobrecarga hídrica y ajustan las proteínas en función de la necesidad de diálisis."
+    },
+    {
+        "enunciado": "¿Cuál es el principal parámetro bioquímico utilizado para la evaluación inicial del riesgo nutricional?",
+        "opciones": [
+            "Colesterol total",
+            "Hemograma completo",
+            "Albúmina sérica",
+            "Transferrina"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "evaluación_bioquímica"
+        ],
+        "feedback": "La albúmina sérica es un marcador pronóstico comúnmente utilizado en la evaluación inicial del riesgo nutricional, aunque no es sensible a cambios agudos."
+    },
+    {
+        "enunciado": "¿Cuál es una ventaja clave del uso de suplementos nutricionales saborizados?",
+        "opciones": [
+            "Reducción del riesgo de alergias alimentarias",
+            "Incremento en la palatabilidad y adhesión al tratamiento",
+            "Fácil administración en pacientes con disfagia severa",
+            "Disminución de los costos asociados a la terapia nutricional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los suplementos saborizados mejoran la aceptación del tratamiento, incrementando la palatabilidad y favoreciendo una ingesta calórica adecuada."
+    },
+    {
+        "enunciado": "En pacientes con riesgo de aspiración, ¿qué recomendación es crucial durante la administración de nutrición enteral?",
+        "opciones": [
+            "Usar fórmulas hipercalóricas para reducir el volumen administrado",
+            "Mantener al paciente en posición supina",
+            "Administrar la nutrición a temperatura corporal",
+            "Elevar la cabecera del paciente a más de 30 grados"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Elevar la cabecera del paciente a más de 30 grados durante y después de la alimentación reduce significativamente el riesgo de aspiración."
+    },
+    {
+        "enunciado": "En la nutrición oral, ¿qué grupo de alimentos es clave para enriquecer una dieta destinada a aumentar el aporte proteico?",
+        "opciones": [
+            "Frutas y verduras frescas",
+            "Leche, huevos y carne blanca",
+            "Aceites y grasas vegetales",
+            "Cereales integrales y legumbres"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los alimentos como leche, huevos y carne blanca son fundamentales para aumentar el aporte proteico en pacientes que requieren soporte nutricional adicional."
+    },
+    {
+        "enunciado": "¿Cuál es una estrategia recomendada para pacientes con dificultades de deglución en la nutrición oral?",
+        "opciones": [
+            "Ofrecer alimentos secos y crujientes",
+            "Utilizar espesantes para ajustar la consistencia",
+            "Evitar alimentos ricos en fibra soluble",
+            "Aumentar el consumo de líquidos claros"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "El uso de espesantes permite ajustar la consistencia de los líquidos y alimentos, reduciendo el riesgo de aspiración en pacientes con disfagia."
+    },
+    {
+        "enunciado": "En la planificación dietética semanal para pacientes geriátricos, ¿cuál es una recomendación clave?",
+        "opciones": [
+            "Eliminación completa de las grasas de la dieta",
+            "Uso exclusivo de alimentos procesados",
+            "Incorporar al menos 5-6 ingestas diarias",
+            "Evitar completamente los productos lácteos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Planificar 5-6 ingestas diarias ayuda a mantener un aporte calórico constante y facilita la digestión, especialmente en pacientes mayores."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de una dieta blanda en pacientes con dificultades de masticación?",
+        "opciones": [
+            "Reducir el contenido calórico de la dieta",
+            "Mejorar la absorción intestinal",
+            "Facilitar la ingesta sin comprometer la nutrición",
+            "Aumentar el consumo de líquidos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "La dieta blanda está diseñada para facilitar la ingesta de alimentos, adaptándose a las limitaciones de masticación sin comprometer el valor nutricional."
+    },
+    {
+        "enunciado": "¿Qué tipo de dieta es más adecuada para pacientes con insuficiencia hepática que requieren nutrición oral?",
+        "opciones": [
+            "Alta en proteínas y grasas saturadas",
+            "Baja en proteínas con control de sodio",
+            "Alta en carbohidratos de absorción rápida",
+            "Enriquecida con alimentos procesados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "En insuficiencia hepática, las dietas bajas en proteínas y controladas en sodio previenen la acumulación de toxinas y reducen la retención de líquidos."
+    },
+    {
+        "enunciado": "¿Qué intervención es crucial para evitar la deshidratación en pacientes ancianos con nutrición oral?",
+        "opciones": [
+            "Limitar el consumo de líquidos a las comidas principales",
+            "Aumentar el consumo de alimentos secos y crujientes",
+            "Fomentar la ingesta de líquidos durante la mañana y tarde",
+            "Evitar completamente las bebidas con cafeína"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Promover el consumo de líquidos durante la mañana y tarde asegura un aporte adecuado y reduce el riesgo de deshidratación."
+    },
+    {
+        "enunciado": "¿Cuál es una ventaja del uso de suplementos orales en pacientes con necesidades nutricionales aumentadas?",
+        "opciones": [
+            "Reducir la frecuencia de las ingestas diarias",
+            "Proporcionar nutrientes esenciales de forma concentrada",
+            "Sustituir completamente las comidas regulares",
+            "Eliminar la necesidad de planificación dietética"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los suplementos orales ofrecen una forma concentrada y práctica de aportar nutrientes esenciales a pacientes con ingesta insuficiente."
+    },
+    {
+        "enunciado": "En pacientes con disfagia severa, ¿qué tipo de textura se recomienda para los alimentos?",
+        "opciones": [
+            "Textura crujiente para estimular la deglución",
+            "Textura líquida sin espesantes",
+            "Textura homogénea y espesa",
+            "Textura granular y fibrosa"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "La textura homogénea y espesa es esencial para facilitar el control del bolo alimenticio y reducir el riesgo de aspiración en pacientes con disfagia."
+    },
+    {
+        "enunciado": "¿Qué medida es apropiada para mejorar la ingesta calórica en pacientes con anorexia geriátrica?",
+        "opciones": [
+            "Ofrecer comidas con bajo contenido graso",
+            "Limitar las ingestas a dos al día",
+            "Enriquecer las comidas con grasas y proteínas saludables",
+            "Evitar alimentos altos en calorías para prevenir obesidad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Enriquecer las comidas con grasas y proteínas saludables aumenta la densidad calórica sin necesidad de incrementar el volumen de la ingesta."
+    },
+    {
+        "enunciado": "¿Qué componente es crítico en la educación nutricional para pacientes con dieta oral modificada?",
+        "opciones": [
+            "Enseñar recetas de alimentos procesados",
+            "Promover alimentos ricos en conservantes",
+            "Ajustar la dieta a las preferencias y capacidades del paciente",
+            "Limitar la variedad de alimentos para facilitar el control"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "educación_nutricional"
+        ],
+        "feedback": "La educación debe enfocarse en ajustar la dieta a las preferencias, habilidades y necesidades específicas del paciente para fomentar la adherencia."
+    },
+    {
+        "enunciado": "¿Cuál es la consistencia alimentaria más adecuada para un paciente con disfagia moderada?",
+        "opciones": [
+            "Líquida fina",
+            "Líquida espesa",
+            "Triturada blanda",
+            "Entera sólida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "La consistencia líquida espesa es adecuada para pacientes con disfagia moderada, ya que facilita la deglución al reducir el riesgo de aspiración."
+    },
+    {
+        "enunciado": "En un paciente con dificultad para masticar, ¿qué tipo de alimentos deben evitarse?",
+        "opciones": [
+            "Purés y sopas",
+            "Alimentos fibrosos o duros",
+            "Compotas y gelatinas",
+            "Huevos revueltos y cremas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los alimentos fibrosos o duros son difíciles de masticar y deben evitarse en pacientes con esta dificultad para prevenir atragantamientos."
+    },
+    {
+        "enunciado": "¿Qué intervención es prioritaria para pacientes geriátricos con malnutrición por defecto que aún pueden comer por vía oral?",
+        "opciones": [
+            "Administrar nutrición enteral inmediata",
+            "Implementar una dieta enriquecida",
+            "Reducir las calorías totales diarias",
+            "Proporcionar solo líquidos claros"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "La dieta enriquecida aumenta el aporte calórico y proteico de manera efectiva en pacientes que aún pueden consumir alimentos por vía oral."
+    },
+    {
+        "enunciado": "En pacientes con xerostomía, ¿qué alimentos son más adecuados para facilitar la ingesta oral?",
+        "opciones": [
+            "Alimentos secos y crujientes",
+            "Preparaciones con salsas o caldos",
+            "Alimentos muy dulces",
+            "Bebidas ácidas como zumo de limón"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Las preparaciones con salsas o caldos ayudan a mejorar la lubricación de la boca, facilitando la ingesta en pacientes con xerostomía."
+    },
+    {
+        "enunciado": "¿Qué recomendación dietética general es adecuada para un paciente geriátrico con anorexia?",
+        "opciones": [
+            "Evitar alimentos con alto contenido graso",
+            "Ofrecer comidas pequeñas y frecuentes",
+            "Limitar los alimentos ricos en proteínas",
+            "Reducir las opciones alimentarias disponibles"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Ofrecer comidas pequeñas y frecuentes facilita la ingesta y ayuda a incrementar el consumo calórico en pacientes con anorexia."
+    },
+    {
+        "enunciado": "¿Qué medida es esencial al ofrecer líquidos a un paciente con riesgo de aspiración?",
+        "opciones": [
+            "Evitar el uso de espesantes",
+            "Ofrecer líquidos a temperatura ambiente",
+            "Utilizar una consistencia adecuada con espesantes",
+            "Permitir que el paciente beba rápidamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los espesantes adaptan la consistencia del líquido, reduciendo el riesgo de aspiración al facilitar un control adecuado durante la deglución."
+    },
+    {
+        "enunciado": "¿Cuál es una estrategia clave para incrementar el valor nutricional de las comidas en pacientes con ingesta reducida?",
+        "opciones": [
+            "Usar alimentos procesados",
+            "Añadir suplementos como leche en polvo o mantequilla",
+            "Reducir las proteínas en la dieta",
+            "Ofrecer solo frutas y vegetales frescos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Añadir suplementos como leche en polvo o mantequilla incrementa el aporte calórico y proteico de los platos sin aumentar significativamente su volumen."
+    },
+    {
+        "enunciado": "En pacientes con dietas blandas, ¿qué técnica culinaria puede mejorar la aceptación de los alimentos?",
+        "opciones": [
+            "Evitar el uso de condimentos",
+            "Aumentar la variedad de texturas",
+            "Presentar platos coloridos y atractivos",
+            "Ofrecer siempre las mismas preparaciones"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Presentar platos coloridos y atractivos mejora el apetito y la aceptación de las dietas blandas al hacerlas más apetecibles visualmente."
+    },
+    {
+        "enunciado": "¿Qué bebida se recomienda limitar en pacientes ancianos debido a su efecto diurético?",
+        "opciones": [
+            "Agua",
+            "Té y café",
+            "Zumo de frutas",
+            "Leche"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "El té y el café tienen un efecto diurético que puede contribuir a la deshidratación en pacientes ancianos, por lo que se recomienda moderar su consumo."
+    },
+    {
+        "enunciado": "¿Qué parámetro es importante evaluar regularmente en pacientes que dependen de nutrición oral modificada?",
+        "opciones": [
+            "Tolerancia a alimentos sólidos",
+            "Preferencias alimentarias de la familia",
+            "Estado nutricional y peso corporal",
+            "Frecuencia de actividad física"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Evaluar regularmente el estado nutricional y el peso corporal permite ajustar la dieta a las necesidades y monitorizar la efectividad de la intervención."
+    },
+    {
+        "enunciado": "En pacientes geriátricos con alteraciones en la masticación, ¿qué grupo de alimentos se puede incorporar para garantizar un aporte adecuado de micronutrientes sin comprometer la consistencia?",
+        "opciones": [
+            "Vegetales crudos en ensaladas",
+            "Frutas deshidratadas sin procesar",
+            "Puré de vegetales y frutas cocidas",
+            "Legumbres enteras cocidas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "El puré de vegetales y frutas cocidas permite incorporar micronutrientes esenciales mientras se mantiene una consistencia adecuada para pacientes con problemas de masticación."
+    },
+    {
+        "enunciado": "En la preparación de dietas líquidas para pacientes con disfagia severa, ¿qué técnica mejora la densidad calórica sin alterar la textura?",
+        "opciones": [
+            "Añadir gelatina como base de los líquidos",
+            "Incorporar aceites vegetales y proteínas hidrolizadas",
+            "Usar exclusivamente caldos bajos en sal",
+            "Diluir el contenido calórico con agua"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Incorporar aceites vegetales y proteínas hidrolizadas en las preparaciones líquidas mejora la densidad calórica manteniendo la consistencia adaptada para la disfagia."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias es la más adecuada para un paciente geriátrico con anorexia nerviosa leve y riesgo de desnutrición?",
+        "opciones": [
+            "Administrar suplementos hipercalóricos exclusivamente",
+            "Ofrecer alimentos ricos en umami para estimular el apetito",
+            "Reducir las calorías totales para evitar sobrecarga digestiva",
+            "Proporcionar una dieta estricta basada en alimentos líquidos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los alimentos ricos en umami, como el caldo de carne o los tomates, estimulan el apetito en pacientes geriátricos con anorexia leve, favoreciendo una mayor ingesta espontánea."
+    },
+    {
+        "enunciado": "En pacientes con hipoproteinemia asociada a malnutrición, ¿qué combinación de alimentos sería más adecuada para un soporte oral efectivo?",
+        "opciones": [
+            "Verduras de hoja verde y frutas frescas",
+            "Cereales integrales y frutos secos",
+            "Lácteos enriquecidos y huevos",
+            "Carnes rojas magras y aceite de oliva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los lácteos enriquecidos y huevos proporcionan una fuente accesible de proteínas de alta calidad esenciales para corregir la hipoproteinemia."
+    },
+    {
+        "enunciado": "En pacientes con disfagia orofaríngea, ¿qué medida reduce más eficazmente el riesgo de aspiración durante la alimentación?",
+        "opciones": [
+            "Usar cubiertos adaptados para comidas rápidas",
+            "Limitar la ingesta de líquidos claros sin espesantes",
+            "Administrar alimentos en bolos grandes para mayor eficacia",
+            "Utilizar técnicas de deglución compensatorias específicas"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "El uso de técnicas de deglución compensatorias, como el giro de cabeza hacia el lado afectado, facilita el paso seguro de los alimentos, reduciendo el riesgo de aspiración."
+    },
+    {
+        "enunciado": "En un paciente con sarcopenia y capacidad para una nutrición oral limitada, ¿qué patrón alimenticio maximiza la síntesis proteica?",
+        "opciones": [
+            "Distribuir las proteínas en tres ingestas principales",
+            "Consumir la mayor parte de las proteínas en la cena",
+            "Fraccionar la ingesta proteica en cinco comidas al día",
+            "Concentrar las proteínas en suplementos aislados"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Fraccionar la ingesta proteica en cinco comidas optimiza la síntesis muscular al proporcionar un estímulo constante para la síntesis proteica en pacientes con sarcopenia."
+    },
+    {
+        "enunciado": "¿Qué parámetro es clave para determinar la adecuación de una dieta oral en pacientes con malabsorción crónica?",
+        "opciones": [
+            "Frecuencia de evacuaciones intestinales",
+            "Composición calórica total diaria",
+            "Relación entre macronutrientes y micronutrientes",
+            "Marcadores bioquímicos como la albúmina sérica"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los marcadores bioquímicos como la albúmina sérica permiten evaluar la eficacia nutricional y detectar déficits asociados a la malabsorción crónica."
+    },
+    {
+        "enunciado": "En un paciente con pérdida significativa de peso involuntaria, ¿qué medida inicial es más efectiva para evaluar su estado nutricional?",
+        "opciones": [
+            "Registro de ingesta alimentaria durante una semana",
+            "Medición de la circunferencia de la pantorrilla",
+            "Cálculo del porcentaje de pérdida de peso",
+            "Determinación de niveles de hemoglobina"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Calcular el porcentaje de pérdida de peso es crucial para valorar la severidad de la pérdida y determinar la necesidad de intervención nutricional inmediata."
+    },
+    {
+        "enunciado": "¿Qué suplemento alimenticio está mejor indicado para un paciente anciano con riesgo de fracturas y dificultades para la ingesta completa de alimentos sólidos?",
+        "opciones": [
+            "Batidos enriquecidos con vitamina D y calcio",
+            "Suplementos ricos en ácidos grasos omega-3",
+            "Compotas con alto contenido de fibra soluble",
+            "Bebidas proteicas bajas en carbohidratos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los batidos enriquecidos con vitamina D y calcio son ideales para prevenir fracturas al mejorar la salud ósea, especialmente en pacientes con dificultades de ingesta."
+    },
+    {
+        "enunciado": "En un paciente geriátrico con disfagia y pobre estado nutricional, ¿qué criterio es clave para seleccionar la dieta más adecuada?",
+        "opciones": [
+            "La rapidez de preparación de los alimentos",
+            "El nivel de saciedad que produce cada ingesta",
+            "El contenido energético y la textura de los alimentos",
+            "La aceptación inicial sin considerar tolerancia a largo plazo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "La selección de alimentos debe priorizar un alto contenido energético y texturas adaptadas para garantizar la seguridad y la cobertura nutricional en pacientes con disfagia."
+    },
+    {
+        "enunciado": "En pacientes con disfagia y riesgo elevado de aspiración, ¿qué parámetro debe ser evaluado antes de ajustar la dieta oral?",
+        "opciones": [
+            "Frecuencia de las comidas",
+            "Reflejo de deglución",
+            "Capacidad de masticación",
+            "Nivel de hemoglobina"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Evaluar el reflejo de deglución es fundamental para adaptar la consistencia de los alimentos y prevenir la aspiración en pacientes con disfagia."
+    },
+    {
+        "enunciado": "En un paciente geriátrico que no logra completar sus comidas debido a falta de apetito, ¿cuál es una estrategia nutricional efectiva?",
+        "opciones": [
+            "Proporcionar alimentos hipocalóricos",
+            "Aumentar la frecuencia de las comidas pequeñas",
+            "Eliminar los alimentos ricos en grasas",
+            "Ofrecer solo líquidos nutritivos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Aumentar la frecuencia de comidas pequeñas permite al paciente consumir nutrientes en cantidades manejables, favoreciendo una ingesta calórica total adecuada."
+    },
+    {
+        "enunciado": "¿Qué tipo de alimentos se deben priorizar en una dieta modificada para un paciente con deterioro cognitivo y riesgo de desnutrición?",
+        "opciones": [
+            "Alimentos de preparación rápida",
+            "Platos que estimulen los sentidos (olor, color, sabor)",
+            "Comidas complejas con alta variedad de texturas",
+            "Preparaciones de bajo contenido proteico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Platos que estimulen los sentidos pueden despertar interés en pacientes con deterioro cognitivo, mejorando su ingesta y reduciendo el riesgo de desnutrición."
+    },
+    {
+        "enunciado": "En pacientes con disfagia que requieren dietas con líquidos espesados, ¿cuál es la principal ventaja de utilizar espesantes comerciales frente a técnicas caseras?",
+        "opciones": [
+            "Reducción del costo total del tratamiento",
+            "Control preciso de la viscosidad deseada",
+            "Mayor facilidad de preparación sin conocimiento técnico",
+            "Mejora en el sabor de los líquidos espesados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los espesantes comerciales permiten un control exacto de la viscosidad requerida, mejorando la seguridad y eficacia en pacientes con disfagia."
+    },
+    {
+        "enunciado": "¿Qué indicador antropométrico es particularmente útil en la evaluación del estado nutricional de ancianos frágiles?",
+        "opciones": [
+            "Circunferencia de la pantorrilla",
+            "Índice de Masa Corporal (IMC)",
+            "Porcentaje de grasa corporal",
+            "Relación cintura-cadera"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "evaluación_nutricional"
+        ],
+        "feedback": "La circunferencia de la pantorrilla es un indicador práctico para evaluar la masa muscular en ancianos frágiles, asociándose con el riesgo de malnutrición."
+    },
+    {
+        "enunciado": "En la planificación de una dieta para un paciente con enfermedad renal crónica y nutrición oral, ¿qué macronutriente requiere mayor ajuste?",
+        "opciones": [
+            "Carbohidratos simples",
+            "Grasas insaturadas",
+            "Proteínas",
+            "Fibra dietética"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "dietas_terapéuticas"
+        ],
+        "feedback": "Las proteínas deben ajustarse cuidadosamente para evitar sobrecarga renal mientras se garantiza un adecuado aporte nutricional."
+    },
+    {
+        "enunciado": "En un paciente geriátrico con problemas de deglución y alta susceptibilidad a infecciones respiratorias, ¿qué técnica adicional se recomienda durante la alimentación?",
+        "opciones": [
+            "Posición supina al comer",
+            "Uso de cubiertos convencionales",
+            "Mantener al paciente incorporado a más de 30°",
+            "Evitar pausas durante la comida"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Mantener al paciente incorporado a más de 30° reduce el riesgo de aspiración, previniendo infecciones respiratorias graves asociadas a la alimentación."
+    },
+    {
+        "enunciado": "¿Qué técnica es útil para evaluar la ingesta calórica real de un paciente que consume alimentos por vía oral?",
+        "opciones": [
+            "Pedir al paciente que estime sus porciones consumidas",
+            "Registrar el consumo en un diario dietético durante 3 días",
+            "Calcular el IMC antes y después de cada comida",
+            "Realizar análisis bioquímicos diarios"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "evaluación_nutricional"
+        ],
+        "feedback": "El diario dietético de 3 días es una herramienta efectiva para evaluar patrones de ingesta y determinar el aporte calórico real de manera precisa."
+    },
+    {
+        "enunciado": "En un paciente con riesgo de sarcopenia, ¿cuál es la mejor opción de alimentos proteicos para integrar en una dieta blanda?",
+        "opciones": [
+            "Carnes magras enteras",
+            "Huevos batidos y yogur enriquecido",
+            "Proteínas vegetales crudas",
+            "Pescados con espinas pequeñas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "Los huevos batidos y el yogur enriquecido son opciones ideales por su alto valor proteico, fácil digestión y adaptabilidad a una dieta blanda."
+    },
+    {
+        "enunciado": "En pacientes con xerostomía severa, ¿qué medida contribuye más a mejorar su estado nutricional?",
+        "opciones": [
+            "Consumir alimentos secos y masticables",
+            "Usar salivas artificiales antes de cada comida",
+            "Incrementar la cantidad de alimentos ácidos",
+            "Evitar las comidas líquidas por completo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_oral"
+        ],
+        "feedback": "El uso de salivas artificiales mejora la lubricación bucal, facilitando la ingesta de alimentos y contribuyendo a un mejor estado nutricional en pacientes con xerostomía."
+    },
+    {
+        "enunciado": "En la nutrición parenteral total (NPT), ¿qué tipo de acceso venoso es preferido para soluciones con alta osmolaridad?",
+        "opciones": [
+            "Catéter venoso periférico",
+            "Catéter venoso central",
+            "Catéter arterial",
+            "Catéter subdérmico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El catéter venoso central es preferido para soluciones de alta osmolaridad, ya que permite su administración segura evitando irritación en las venas periféricas."
+    },
+    {
+        "enunciado": "¿Cuál es la principal complicación metabólica asociada al inicio rápido de la nutrición parenteral en pacientes desnutridos?",
+        "opciones": [
+            "Hiperglucemia",
+            "Síndrome de realimentación",
+            "Hiperlipidemia",
+            "Acidosis metabólica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El síndrome de realimentación ocurre cuando los electrolitos se desequilibran rápidamente, especialmente el fosfato, al iniciar la nutrición en pacientes gravemente desnutridos."
+    },
+    {
+        "enunciado": "En la preparación de la nutrición parenteral, ¿qué nutriente debe ser monitorizado debido a su asociación con el riesgo de infecciones si se administra en exceso?",
+        "opciones": [
+            "Proteínas",
+            "Lípidos",
+            "Carbohidratos",
+            "Electrolitos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El exceso de lípidos en la nutrición parenteral puede comprometer la función inmune y aumentar el riesgo de infecciones."
+    },
+    {
+        "enunciado": "¿Qué complicación mecánica debe ser evaluada regularmente en pacientes con catéter venoso central para nutrición parenteral?",
+        "opciones": [
+            "Obstrucción del tracto digestivo",
+            "Trombosis venosa",
+            "Edema periférico",
+            "Pérdida de masa muscular"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La trombosis venosa es una complicación mecánica común en pacientes con catéter venoso central y requiere monitoreo regular para prevenir complicaciones graves."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué elemento es esencial para prevenir hipoglucemia si la infusión debe interrumpirse bruscamente?",
+        "opciones": [
+            "Sodio",
+            "Glucosa al 10%",
+            "Aminoácidos esenciales",
+            "Lípidos de cadena media"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Si se interrumpe bruscamente la nutrición parenteral, se administra glucosa al 10% para evitar la hipoglucemia, que es una complicación potencialmente peligrosa."
+    },
+    {
+        "enunciado": "¿Qué monitoreo analítico es prioritario en las primeras 24 horas de inicio de nutrición parenteral?",
+        "opciones": [
+            "Colesterol y triglicéridos",
+            "Glucosa, electrolitos y fósforo",
+            "Hemograma completo",
+            "Niveles de vitamina D"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El monitoreo de glucosa, electrolitos y fósforo es esencial para detectar alteraciones metabólicas tempranas, especialmente en pacientes con riesgo de síndrome de realimentación."
+    },
+    {
+        "enunciado": "En un paciente con insuficiencia renal, ¿qué ajuste debe realizarse en la composición de la nutrición parenteral?",
+        "opciones": [
+            "Aumentar los carbohidratos",
+            "Reducir el contenido de proteínas",
+            "Incrementar el aporte de lípidos",
+            "Limitar los micronutrientes esenciales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes con insuficiencia renal, se debe reducir el contenido de proteínas para minimizar la sobrecarga de productos nitrogenados y proteger la función renal."
+    },
+    {
+        "enunciado": "¿Qué parámetro clínico es más relevante para evaluar la tolerancia gastrointestinal a la nutrición parenteral?",
+        "opciones": [
+            "Presencia de vómitos",
+            "Frecuencia de evacuaciones",
+            "Volumen de líquidos orales ingeridos",
+            "Balance de electrolitos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La presencia de vómitos puede indicar intolerancia o complicaciones asociadas al inicio o ajuste de la nutrición parenteral."
+    },
+    {
+        "enunciado": "¿Qué vía de administración es recomendada para nutrición parenteral de corta duración en pacientes pediátricos?",
+        "opciones": [
+            "Catéter venoso central",
+            "Catéter venoso periférico",
+            "Vía intraósea",
+            "Vía subcutánea"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El catéter venoso periférico es una opción adecuada para nutrición parenteral de corta duración, especialmente en pacientes pediátricos."
+    },
+    {
+        "enunciado": "En la administración de nutrición parenteral, ¿qué intervalo de tiempo se recomienda para cambiar el sistema de infusión y el filtro para prevenir infecciones?",
+        "opciones": [
+            "Cada 48 horas",
+            "Cada 24 horas",
+            "Cada 12 horas",
+            "Cada 72 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Cambiar el sistema de infusión y el filtro cada 24 horas minimiza el riesgo de infecciones relacionadas con el catéter en la nutrición parenteral."
+    },
+    {
+        "enunciado": "En pacientes con sepsis que requieren nutrición parenteral, ¿cuál es una precaución importante al iniciar el soporte nutricional?",
+        "opciones": [
+            "Aumentar rápidamente las calorías para prevenir hipoglucemia",
+            "Limitar el aporte de carbohidratos para evitar hiperglucemia",
+            "Incrementar el contenido de lípidos para reducir inflamación",
+            "Administrar proteínas al máximo tolerado desde el inicio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes con sepsis, se debe limitar el aporte inicial de carbohidratos para evitar hiperglucemia, una complicación común en estos casos."
+    },
+    {
+        "enunciado": "¿Qué parámetro bioquímico es más útil para evaluar el estado proteico durante la nutrición parenteral?",
+        "opciones": [
+            "Niveles de glucosa en sangre",
+            "Concentración sérica de albúmina",
+            "Concentración de lípidos en sangre",
+            "Electrolitos séricos como sodio y potasio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La concentración sérica de albúmina es un indicador del estado proteico a largo plazo, aunque debe interpretarse con cautela debido a su vida media prolongada."
+    },
+    {
+        "enunciado": "En pacientes con insuficiencia hepática, ¿qué tipo de aminoácidos se priorizan en la fórmula de nutrición parenteral?",
+        "opciones": [
+            "Aminoácidos ramificados",
+            "Aminoácidos esenciales",
+            "Aminoácidos no esenciales",
+            "Aminoácidos de cadena larga"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En la insuficiencia hepática, se priorizan los aminoácidos ramificados para reducir el riesgo de encefalopatía y mejorar la función hepática."
+    },
+    {
+        "enunciado": "¿Cuál es la principal indicación para elegir un catéter venoso periférico en nutrición parenteral?",
+        "opciones": [
+            "Duración prevista mayor a 4 semanas",
+            "Osmolaridad de la solución menor a 900 mOsm/L",
+            "Necesidad de administrar altas dosis de lípidos",
+            "Fórmulas hipercalóricas y concentradas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El catéter venoso periférico es adecuado para soluciones con osmolaridad menor a 900 mOsm/L para evitar flebitis y daño vascular."
+    },
+    {
+        "enunciado": "En la monitorización de pacientes con nutrición parenteral, ¿qué desequilibrio electrolítico es más frecuente en el síndrome de realimentación?",
+        "opciones": [
+            "Hiponatremia",
+            "Hipocalcemia",
+            "Hipofosfatemia",
+            "Hiperpotasemia"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La hipofosfatemia es una complicación típica del síndrome de realimentación debido al rápido consumo de fosfato en la síntesis celular."
+    },
+    {
+        "enunciado": "¿Qué técnica es esencial para confirmar la correcta colocación del catéter venoso central antes de iniciar la nutrición parenteral?",
+        "opciones": [
+            "Auscultación tras bolo de aire",
+            "Radiografía de tórax",
+            "Control de signos vitales",
+            "Prueba de glucosa capilar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La radiografía de tórax es esencial para confirmar la ubicación correcta del catéter venoso central y prevenir complicaciones graves como neumotórax."
+    },
+    {
+        "enunciado": "En un paciente con nutrición parenteral, ¿qué marcador bioquímico debe evaluarse regularmente para prevenir hipertrigliceridemia?",
+        "opciones": [
+            "Colesterol total",
+            "Triglicéridos séricos",
+            "Albúmina sérica",
+            "Fosfato sérico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El monitoreo de los triglicéridos séricos es fundamental para ajustar la infusión de lípidos y prevenir hipertrigliceridemia en pacientes con nutrición parenteral."
+    },
+    {
+        "enunciado": "¿Cuál es el límite máximo de glucosa que debe administrarse por kilogramo de peso corporal y día en nutrición parenteral para evitar hiperglucemia?",
+        "opciones": [
+            "3 mg/kg/minuto",
+            "5 mg/kg/minuto",
+            "7 mg/kg/minuto",
+            "10 mg/kg/minuto"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El límite recomendado es de 5 mg/kg/minuto para minimizar el riesgo de hiperglucemia y sobrecarga metabólica durante la nutrición parenteral."
+    },
+    {
+        "enunciado": "¿Qué complicación mecánica puede surgir si la infusión de nutrición parenteral se realiza a través de un catéter venoso periférico no adecuado?",
+        "opciones": [
+            "Neumotórax",
+            "Flebitis",
+            "Trombosis arterial",
+            "Obstrucción intestinal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La flebitis es una complicación común cuando se administran soluciones hiperosmolares por un catéter venoso periférico."
+    },
+    {
+        "enunciado": "En un paciente con nutrición parenteral prolongada, ¿qué suplemento debe añadirse para prevenir deficiencias de vitaminas liposolubles?",
+        "opciones": [
+            "Vitamina C",
+            "Complejo B",
+            "Vitaminas A, D, E y K",
+            "Vitamina B12"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Las vitaminas liposolubles (A, D, E y K) deben suplementarse adecuadamente en la nutrición parenteral prolongada para prevenir deficiencias nutricionales."
+    },
+    {
+        "enunciado": "En un paciente con insuficiencia cardíaca que recibe nutrición parenteral, ¿qué ajuste en la composición de la fórmula es esencial?",
+        "opciones": [
+            "Aumentar el aporte de líquidos totales",
+            "Reducir la densidad calórica de los lípidos",
+            "Limitar la cantidad de líquidos administrados",
+            "Incrementar los carbohidratos simples"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes con insuficiencia cardíaca, es crucial limitar la cantidad de líquidos administrados para evitar sobrecarga de volumen."
+    },
+    {
+        "enunciado": "¿Cuál es el criterio más importante para decidir el uso de un catéter venoso central frente a un periférico en nutrición parenteral?",
+        "opciones": [
+            "La velocidad de infusión requerida",
+            "La duración prevista del tratamiento",
+            "El tipo de lípidos administrados",
+            "La tolerancia digestiva del paciente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El criterio clave es la duración prevista del tratamiento. Los catéteres venosos centrales se utilizan para nutrición parenteral de media o larga duración."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué elemento es crítico para prevenir acidosis metabólica en pacientes críticos?",
+        "opciones": [
+            "Balance adecuado de proteínas",
+            "Control del aporte de carbohidratos",
+            "Aporte de bicarbonato o precursores",
+            "Reducción del contenido lipídico"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El aporte de bicarbonato o precursores como acetato ayuda a mantener el equilibrio ácido-base y prevenir la acidosis metabólica en pacientes críticos."
+    },
+    {
+        "enunciado": "¿Qué parámetro clínico debe ser evaluado diariamente en pacientes con nutrición parenteral para detectar hiperhidratación?",
+        "opciones": [
+            "Presión arterial",
+            "Balance hídrico",
+            "Frecuencia cardíaca",
+            "Nivel de glucosa en sangre"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El balance hídrico debe ser evaluado diariamente para detectar signos de hiperhidratación, como edemas y sobrecarga de líquidos."
+    },
+    {
+        "enunciado": "En un paciente con alteración renal en nutrición parenteral, ¿qué electrolito debe ser controlado con mayor frecuencia?",
+        "opciones": [
+            "Sodio",
+            "Potasio",
+            "Magnesio",
+            "Calcio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El potasio debe ser controlado con frecuencia, ya que la alteración renal puede causar hiperpotasemia, lo cual es potencialmente peligroso."
+    },
+    {
+        "enunciado": "En pacientes pediátricos con nutrición parenteral, ¿qué complicación metabólica es más común?",
+        "opciones": [
+            "Hipoglucemia",
+            "Hiperamoniemia",
+            "Acidosis respiratoria",
+            "Hiperfosfatemia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La hiperamoniemia puede ser común en pacientes pediátricos debido a una inmadurez metabólica para procesar el exceso de proteínas."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué medida reduce el riesgo de infección relacionada con el catéter venoso central?",
+        "opciones": [
+            "Cambio diario del catéter",
+            "Uso de apósitos antimicrobianos",
+            "Infusión continua de lípidos",
+            "Evitar el uso de filtros en el sistema"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El uso de apósitos antimicrobianos reduce significativamente el riesgo de infecciones relacionadas con el catéter venoso central."
+    },
+    {
+        "enunciado": "¿Qué macronutriente debe ajustarse en la nutrición parenteral de un paciente con insuficiencia pancreática exocrina?",
+        "opciones": [
+            "Carbohidratos",
+            "Proteínas",
+            "Lípidos",
+            "Electrolitos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Los lípidos deben ajustarse, ya que los pacientes con insuficiencia pancreática exocrina pueden tener dificultad para metabolizar grasas."
+    },
+    {
+        "enunciado": "En pacientes con hipertrigliceridemia inducida por nutrición parenteral, ¿qué intervención es más adecuada?",
+        "opciones": [
+            "Reducir la cantidad de lípidos en la fórmula",
+            "Incrementar el aporte de carbohidratos",
+            "Suspender la nutrición parenteral temporalmente",
+            "Aumentar la dosis de proteínas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Reducir la cantidad de lípidos en la fórmula ayuda a controlar la hipertrigliceridemia mientras se mantiene el soporte nutricional."
+    },
+    {
+        "enunciado": "¿Qué complicación metabólica debe prevenirse al desconectar temporalmente la nutrición parenteral en pacientes dependientes?",
+        "opciones": [
+            "Hiperglucemia",
+            "Hipoglucemia",
+            "Hiperpotasemia",
+            "Acidosis láctica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La hipoglucemia puede ocurrir si la nutrición parenteral se desconecta abruptamente. Se recomienda administrar glucosa al 10% para prevenirla."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral prolongada, ¿cuál de las siguientes deficiencias de micronutrientes es más común?",
+        "opciones": [
+            "Vitamina D",
+            "Zinc",
+            "Vitamina K",
+            "Hierro"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La deficiencia de zinc es común en la nutrición parenteral prolongada, especialmente en casos de malabsorción o pérdidas gastrointestinales elevadas."
+    },
+    {
+        "enunciado": "En la preparación de una fórmula de nutrición parenteral, ¿qué componente debe ser evitado en pacientes con insuficiencia hepática avanzada?",
+        "opciones": [
+            "Carbohidratos de cadena corta",
+            "Proteínas de origen vegetal",
+            "Aminoácidos aromáticos",
+            "Lípidos de cadena media"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Los aminoácidos aromáticos deben ser evitados en pacientes con insuficiencia hepática avanzada, ya que pueden contribuir a la encefalopatía hepática."
+    },
+    {
+        "enunciado": "En pacientes con síndrome de intestino corto, ¿cuál es el objetivo principal de la nutrición parenteral?",
+        "opciones": [
+            "Reducir la absorción intestinal de líquidos",
+            "Optimizar el soporte calórico y proteico",
+            "Aumentar la motilidad gastrointestinal",
+            "Reemplazar las vitaminas hidrosolubles"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El objetivo principal en pacientes con síndrome de intestino corto es optimizar el soporte calórico y proteico debido a la reducción de la capacidad de absorción."
+    },
+    {
+        "enunciado": "En pacientes con hiperamoniemia secundaria a nutrición parenteral, ¿qué ajuste es más recomendado?",
+        "opciones": [
+            "Reducir el aporte de carbohidratos",
+            "Incrementar los lípidos como fuente energética",
+            "Disminuir la cantidad de proteínas",
+            "Agregar aminoácidos esenciales al tratamiento"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Reducir la cantidad de proteínas en la fórmula de nutrición parenteral puede disminuir los niveles de amoníaco en pacientes con hiperamoniemia."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué precaución debe tomarse al administrar lípidos en pacientes críticos con sepsis?",
+        "opciones": [
+            "Incrementar los lípidos para cubrir las necesidades calóricas",
+            "Evitar los lípidos por completo para prevenir infecciones",
+            "Limitar la cantidad de lípidos para evitar inmunosupresión",
+            "Aumentar los lípidos ricos en ácidos grasos saturados"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes críticos con sepsis, es importante limitar los lípidos para evitar efectos inmunosupresores mientras se cubren las necesidades calóricas mínimas."
+    },
+    {
+        "enunciado": "¿Qué fórmula de nutrición parenteral está indicada en un paciente con insuficiencia renal crónica que no está en diálisis?",
+        "opciones": [
+            "Fórmula estándar con proteínas ajustadas",
+            "Fórmula rica en proteínas y fósforo",
+            "Fórmula con lípidos predominantemente saturados",
+            "Fórmula con aminoácidos ramificados exclusivamente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes con insuficiencia renal crónica que no están en diálisis, se utiliza una fórmula estándar con proteínas ajustadas para evitar la acumulación de productos nitrogenados."
+    },
+    {
+        "enunciado": "En un paciente pediátrico con nutrición parenteral, ¿qué complicación específica debe ser monitoreada regularmente?",
+        "opciones": [
+            "Hipertrigliceridemia",
+            "Colestasis hepática",
+            "Hipernatremia",
+            "Acidosis metabólica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La colestasis hepática es una complicación frecuente en pacientes pediátricos con nutrición parenteral prolongada, relacionada con la inmadurez hepática y el uso prolongado de lípidos."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral, ¿qué intervención es clave para prevenir complicaciones metabólicas durante la transición a la alimentación enteral?",
+        "opciones": [
+            "Aumentar rápidamente la nutrición enteral",
+            "Mantener ambas nutriciones en proporciones iguales",
+            "Reducir progresivamente la nutrición parenteral",
+            "Suspender abruptamente la nutrición parenteral"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La nutrición parenteral debe reducirse de forma progresiva para evitar complicaciones metabólicas y facilitar la adaptación del sistema digestivo a la nutrición enteral."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué componente debe ajustarse con precaución en pacientes con insuficiencia cardíaca avanzada?",
+        "opciones": [
+            "Lípidos totales",
+            "Proteínas totales",
+            "Sodio y volumen de líquidos",
+            "Carbohidratos de absorción rápida"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En la insuficiencia cardíaca avanzada, es crucial ajustar el sodio y el volumen de líquidos para prevenir sobrecarga de volumen y exacerbación de los síntomas."
+    },
+    {
+        "enunciado": "En pacientes dependientes de nutrición parenteral a largo plazo, ¿qué complicación ósea debe ser monitoreada regularmente?",
+        "opciones": [
+            "Osteomalacia",
+            "Osteoporosis",
+            "Fracturas por estrés",
+            "Hipertrofia ósea"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La osteoporosis es una complicación común en pacientes dependientes de nutrición parenteral a largo plazo debido a deficiencias en vitamina D y calcio."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué técnica es más efectiva para prevenir la precipitación de calcio y fósforo en las soluciones?",
+        "opciones": [
+            "Ajustar el pH de la solución a valores neutros",
+            "Usar gluconato de calcio en lugar de cloruro de calcio",
+            "Reducir la concentración de ambos elementos en la fórmula",
+            "Aumentar la temperatura de almacenamiento de la solución"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El gluconato de calcio tiene menor probabilidad de formar precipitados con el fósforo, especialmente en soluciones de nutrición parenteral."
+    },
+    {
+        "enunciado": "En pacientes con fallo hepático agudo que requieren nutrición parenteral, ¿qué fórmula es más adecuada para prevenir encefalopatía hepática?",
+        "opciones": [
+            "Fórmulas con alto contenido de proteínas animales",
+            "Fórmulas enriquecidas con aminoácidos de cadena ramificada",
+            "Fórmulas con bajo contenido calórico total",
+            "Fórmulas que excluyen lípidos de cadena media"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Las fórmulas con aminoácidos de cadena ramificada ayudan a reducir los niveles de amoníaco y previenen la encefalopatía hepática."
+    },
+    {
+        "enunciado": "¿Qué técnica es esencial para evitar infecciones al preparar bolsas de nutrición parenteral en pacientes inmunosuprimidos?",
+        "opciones": [
+            "Uso de soluciones premezcladas siempre que sea posible",
+            "Esterilización mediante rayos ultravioleta",
+            "Mezclado en campanas de flujo laminar bajo presión positiva",
+            "Preparación en condiciones ambientales estándar"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El uso de campanas de flujo laminar bajo presión positiva garantiza un entorno estéril durante la preparación de las bolsas, minimizando el riesgo de infecciones."
+    },
+    {
+        "enunciado": "En la nutrición parenteral prolongada, ¿qué factor contribuye significativamente al desarrollo de hígado graso no alcohólico?",
+        "opciones": [
+            "Aporte excesivo de carbohidratos",
+            "Deficiencia de vitaminas liposolubles",
+            "Baja concentración de lípidos en la fórmula",
+            "Uso de aminoácidos aromáticos en la mezcla"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Un aporte excesivo de carbohidratos en la nutrición parenteral prolongada puede inducir lipogénesis hepática y contribuir al desarrollo de hígado graso no alcohólico."
+    },
+    {
+        "enunciado": "¿Cuál es el límite recomendado de lípidos por kilogramo de peso corporal por día en pacientes críticos con nutrición parenteral para evitar hipertrigliceridemia?",
+        "opciones": [
+            "0.5 g/kg/día",
+            "1.0 g/kg/día",
+            "1.5 g/kg/día",
+            "2.0 g/kg/día"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El límite recomendado para evitar hipertrigliceridemia es 1.0 g/kg/día en pacientes críticos, equilibrando las necesidades energéticas con el riesgo metabólico."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral prolongada, ¿qué elemento traza debe monitorizarse para prevenir anemia refractaria?",
+        "opciones": [
+            "Cobre",
+            "Zinc",
+            "Hierro",
+            "Selenio"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La deficiencia de cobre en la nutrición parenteral prolongada puede provocar anemia refractaria debido a su papel en la formación de hemoglobina."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué alteración electrolítica es más probable si la relación calcio:fósforo en la fórmula no es adecuada?",
+        "opciones": [
+            "Hipercalcemia",
+            "Hipocalcemia",
+            "Hiperfosfatemia",
+            "Hipofosfatemia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Una relación inadecuada de calcio y fósforo puede resultar en hipocalcemia, especialmente si se forman precipitados en la solución."
+    },
+    {
+        "enunciado": "¿Qué parámetro de laboratorio es más sensible para detectar deficiencia proteica en pacientes con nutrición parenteral prolongada?",
+        "opciones": [
+            "Albúmina sérica",
+            "Prealbúmina sérica",
+            "Nitrógeno ureico en sangre",
+            "Conteo de linfocitos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La prealbúmina sérica es más sensible que la albúmina para detectar deficiencias proteicas debido a su vida media más corta."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral, ¿qué alteración metabólica es indicativa de un exceso de aminoácidos no metabolizados?",
+        "opciones": [
+            "Hiperamoniemia",
+            "Acidosis láctica",
+            "Hipoglucemia",
+            "Hiperlipidemia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La hiperamoniemia puede surgir por un exceso de aminoácidos no metabolizados, especialmente en pacientes con función hepática alterada."
+    },
+    {
+        "enunciado": "¿Qué ajuste en la fórmula de nutrición parenteral es necesario en pacientes con sepsis severa para evitar sobrecarga metabólica?",
+        "opciones": [
+            "Reducir el aporte de proteínas",
+            "Incrementar los carbohidratos simples",
+            "Limitar las calorías no proteicas",
+            "Aumentar los lípidos de cadena media"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Limitar las calorías no proteicas es crucial para prevenir la sobrecarga metabólica en pacientes con sepsis severa, mejorando la tolerancia y reduciendo complicaciones."
+    },
+    {
+        "enunciado": "En un paciente crítico con riesgo de hiperglucemia, ¿qué estrategia es más efectiva para controlar los niveles de glucosa durante la nutrición parenteral?",
+        "opciones": [
+            "Reducir el aporte de carbohidratos a menos del 30% del total calórico",
+            "Utilizar insulina regular directamente en la solución parenteral",
+            "Incrementar la proporción de lípidos en la fórmula",
+            "Administrar insulina subcutánea cada 12 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La administración de insulina regular en la solución parenteral permite un control más preciso de la glucosa durante la infusión."
+    },
+    {
+        "enunciado": "En pacientes con fallo renal agudo no dializados, ¿qué modificación en la nutrición parenteral es esencial?",
+        "opciones": [
+            "Aumentar el aporte proteico a 2 g/kg/día",
+            "Limitar los aminoácidos a menos de 0.8 g/kg/día",
+            "Eliminar el uso de electrolitos en la fórmula",
+            "Incrementar los carbohidratos para compensar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En fallo renal agudo no dializado, se limita el aporte proteico para evitar la acumulación de productos nitrogenados tóxicos."
+    },
+    {
+        "enunciado": "¿Qué técnica de administración de nutrición parenteral minimiza el riesgo de fluctuaciones metabólicas en pacientes críticos?",
+        "opciones": [
+            "Infusión en bolos intermitentes cada 4 horas",
+            "Infusión continua durante 24 horas",
+            "Administración rápida en un período de 2 horas",
+            "Infusión nocturna interrumpida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La infusión continua durante 24 horas proporciona un suministro estable de nutrientes y minimiza las fluctuaciones metabólicas en pacientes críticos."
+    },
+    {
+        "enunciado": "En pacientes con colestasis inducida por nutrición parenteral, ¿qué ajuste nutricional es más efectivo para prevenir la progresión?",
+        "opciones": [
+            "Reducir el aporte de lípidos a menos de 1 g/kg/día",
+            "Incrementar el contenido de aminoácidos en la fórmula",
+            "Aumentar las calorías no proteicas a través de carbohidratos",
+            "Eliminar los micronutrientes liposolubles de la mezcla"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Reducir el aporte de lípidos a menos de 1 g/kg/día disminuye el riesgo de colestasis en pacientes con nutrición parenteral prolongada."
+    },
+    {
+        "enunciado": "En la preparación de nutrición parenteral, ¿por qué es crítico ajustar la relación nitrógeno/calorías no proteicas?",
+        "opciones": [
+            "Para evitar sobrecarga de carbohidratos",
+            "Para optimizar la síntesis proteica sin catabolismo",
+            "Para prevenir el desarrollo de hiperlipidemia",
+            "Para mantener la homeostasis del potasio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Una relación adecuada de nitrógeno/calorías no proteicas optimiza la síntesis proteica y reduce el catabolismo muscular en pacientes críticos."
+    },
+    {
+        "enunciado": "En pacientes pediátricos con nutrición parenteral, ¿qué complicación puede surgir por la administración prolongada de lípidos ricos en ácidos grasos omega-6?",
+        "opciones": [
+            "Hepatotoxicidad",
+            "Neutropenia",
+            "Hipoglucemia recurrente",
+            "Deficiencia de vitaminas liposolubles"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Los lípidos ricos en omega-6 pueden inducir hepatotoxicidad debido a su contribución a la inflamación y acumulación hepática en la nutrición parenteral prolongada."
+    },
+    {
+        "enunciado": "En un paciente con riesgo de hipofosfatemia, ¿qué precaución es clave al iniciar la nutrición parenteral?",
+        "opciones": [
+            "Aumentar rápidamente el aporte calórico para mejorar la síntesis celular",
+            "Limitar las calorías iniciales y monitorizar el fósforo sérico",
+            "Administrar suplementos de fósforo por vía oral",
+            "Reducir el contenido proteico de la solución parenteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Limitar las calorías iniciales y monitorizar el fósforo sérico previene el síndrome de realimentación y el riesgo de hipofosfatemia."
+    },
+    {
+        "enunciado": "¿Qué fórmula de lípidos es más adecuada en pacientes críticos con insuficiencia respiratoria crónica que requieren nutrición parenteral?",
+        "opciones": [
+            "Lípidos de cadena larga ricos en omega-3",
+            "Lípidos de cadena media y larga en combinación",
+            "Fórmulas exclusivamente de lípidos saturados",
+            "Fórmulas enriquecidas con omega-6"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La combinación de lípidos de cadena media y larga mejora la tolerancia y reduce el trabajo respiratorio en pacientes con insuficiencia respiratoria crónica."
+    },
+    {
+        "enunciado": "En pacientes con insuficiencia hepática, ¿qué efecto adverso puede causar un aporte excesivo de lípidos en la nutrición parenteral?",
+        "opciones": [
+            "Aumento de la síntesis de albúmina",
+            "Alteración de la coagulación",
+            "Incremento del aclaramiento de bilirrubina",
+            "Mejora de la función hepática"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Un exceso de lípidos puede alterar la coagulación debido a su impacto en la función hepática y el metabolismo lipídico."
+    },
+    {
+        "enunciado": "En un paciente crítico, ¿qué complicación metabólica es más común si el aporte calórico total excede las necesidades estimadas en la nutrición parenteral?",
+        "opciones": [
+            "Hipoglucemia",
+            "Lipogénesis hepática excesiva",
+            "Hiperfosfatemia",
+            "Acidosis respiratoria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La lipogénesis hepática excesiva puede ocurrir si el aporte calórico supera las necesidades, especialmente debido al exceso de carbohidratos."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué combinación de electrolitos debe ser ajustada cuidadosamente para prevenir arritmias en pacientes críticos?",
+        "opciones": [
+            "Sodio y calcio",
+            "Potasio y magnesio",
+            "Fósforo y cloruro",
+            "Calcio y bicarbonato"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El potasio y el magnesio son esenciales para la estabilidad eléctrica del miocardio; su desbalance puede provocar arritmias en pacientes críticos."
+    },
+    {
+        "enunciado": "¿Qué parámetro clínico es prioritario para evaluar la tolerancia inicial a la nutrición parenteral en pacientes pediátricos?",
+        "opciones": [
+            "Incremento de peso",
+            "Nivel de glucosa en sangre",
+            "Frecuencia cardíaca",
+            "Tasa de excreción urinaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El monitoreo de la glucosa en sangre es crucial para evaluar la tolerancia metabólica a la nutrición parenteral, especialmente en niños pequeños."
+    },
+    {
+        "enunciado": "En un paciente con insuficiencia renal en diálisis, ¿qué modificación es esencial en la fórmula de nutrición parenteral?",
+        "opciones": [
+            "Aumentar el contenido de proteínas",
+            "Limitar el fósforo y el potasio",
+            "Reducir los lípidos totales",
+            "Incrementar el calcio ionizado"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En pacientes en diálisis, es esencial limitar el fósforo y el potasio debido a la acumulación de estos electrolitos en la insuficiencia renal."
+    },
+    {
+        "enunciado": "En la nutrición parenteral de un paciente adulto con trauma severo, ¿qué nutriente debe priorizarse para apoyar la recuperación?",
+        "opciones": [
+            "Lípidos de cadena corta",
+            "Aminoácidos esenciales",
+            "Carbohidratos complejos",
+            "Vitaminas liposolubles"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Los aminoácidos esenciales son fundamentales para la reparación tisular y la síntesis de proteínas durante la recuperación de traumas severos."
+    },
+    {
+        "enunciado": "¿Qué complicación debe ser sospechada si un paciente con nutrición parenteral desarrolla edema generalizado y niveles bajos de albúmina?",
+        "opciones": [
+            "Sobrecarga de líquidos",
+            "Deficiencia de proteínas",
+            "Hipernatremia",
+            "Hiperlipidemia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La deficiencia de proteínas, evidenciada por niveles bajos de albúmina, puede causar edema generalizado debido a una presión oncótica reducida."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral prolongada, ¿qué vitamina debe ser suplementada para prevenir neuropatías periféricas?",
+        "opciones": [
+            "Vitamina C",
+            "Tiamina (B1)",
+            "Vitamina D",
+            "Vitamina E"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La deficiencia de tiamina puede causar neuropatías periféricas y encefalopatía de Wernicke, especialmente en nutrición parenteral prolongada sin suplementos adecuados."
+    },
+    {
+        "enunciado": "En un paciente crítico con sepsis y nutrición parenteral, ¿qué medida minimiza el riesgo de hiperglucemia persistente?",
+        "opciones": [
+            "Incrementar el contenido de lípidos en la fórmula",
+            "Reducir el aporte de carbohidratos a menos del 50% de las calorías no proteicas",
+            "Administrar insulina subcutánea dos veces al día",
+            "Suspender temporalmente la nutrición parenteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "Reducir el aporte de carbohidratos a menos del 50% de las calorías no proteicas ayuda a controlar la glucosa en pacientes críticos con sepsis."
+    },
+    {
+        "enunciado": "En pacientes con fallo hepático crónico, ¿qué parámetro de laboratorio debe ser monitoreado más de cerca durante la nutrición parenteral?",
+        "opciones": [
+            "Bilirrubina directa",
+            "Tiempo de protrombina",
+            "Fósforo sérico",
+            "Lactato deshidrogenasa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El tiempo de protrombina es un indicador clave de la función hepática y la capacidad de síntesis proteica en pacientes con fallo hepático crónico."
+    },
+    {
+        "enunciado": "En la nutrición parenteral, ¿qué ajuste es fundamental en pacientes con hiponatremia severa crónica?",
+        "opciones": [
+            "Incrementar rápidamente el sodio en la fórmula",
+            "Ajustar gradualmente el sodio para evitar mielinolisis pontina",
+            "Reducir el aporte de líquidos totales",
+            "Aumentar el contenido de cloruro en lugar de sodio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "El sodio debe ajustarse gradualmente en hiponatremia severa para evitar complicaciones como la mielinolisis pontina, una condición neurológica grave."
+    },
+    {
+        "enunciado": "En pacientes pediátricos que dependen de nutrición parenteral, ¿qué factor puede predisponer al desarrollo de enfermedad metabólica ósea?",
+        "opciones": [
+            "Bajo aporte de carbohidratos",
+            "Deficiencia de calcio y fósforo",
+            "Exceso de vitamina D",
+            "Uso de lípidos de cadena media"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "La deficiencia de calcio y fósforo en la nutrición parenteral prolongada puede contribuir al desarrollo de enfermedad metabólica ósea en pacientes pediátricos."
+    },
+    {
+        "enunciado": "En un paciente con riesgo elevado de aspiración, ¿qué estrategia de administración de nutrición enteral es la más segura?",
+        "opciones": [
+            "Infusión intermitente a temperatura ambiente",
+            "Infusión continua por sonda nasoenteral",
+            "Bolus a través de sonda nasogástrica",
+            "Administración nocturna exclusivamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La infusión continua por sonda nasoenteral reduce el riesgo de aspiración, especialmente en pacientes con vaciamiento gástrico retardado."
+    },
+    {
+        "enunciado": "En pacientes con pancreatitis aguda, ¿qué tipo de fórmula enteral es más adecuada para minimizar la estimulación pancreática?",
+        "opciones": [
+            "Fórmulas poliméricas isotónicas",
+            "Fórmulas elementales de bajo contenido lipídico",
+            "Fórmulas enriquecidas con fibra soluble",
+            "Fórmulas hipercalóricas y altas en grasas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas elementales de bajo contenido lipídico son mejor toleradas en pacientes con pancreatitis aguda porque minimizan la secreción pancreática."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿qué marcador clínico es prioritario para evaluar la tolerancia a las fórmulas hiperosmolares?",
+        "opciones": [
+            "Frecuencia y consistencia de las evacuaciones",
+            "Niveles de glucosa en sangre",
+            "Volumen residual gástrico",
+            "Balance hídrico diario"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La frecuencia y consistencia de las evacuaciones ayudan a identificar intolerancia a fórmulas hiperosmolares, que pueden causar diarrea osmótica."
+    },
+    {
+        "enunciado": "¿Qué intervención es más efectiva para prevenir la obstrucción de la sonda en pacientes con nutrición enteral a largo plazo?",
+        "opciones": [
+            "Administrar fórmulas con alto contenido de fibra",
+            "Usar agua estéril para el lavado periódico de la sonda",
+            "Evitar el uso de líquidos isotónicos",
+            "Mantener una infusión continua sin interrupciones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El uso de agua estéril para el lavado regular de la sonda ayuda a prevenir obstrucciones causadas por residuos de fórmulas o medicamentos."
+    },
+    {
+        "enunciado": "En un paciente crítico con sepsis que recibe nutrición enteral, ¿qué elemento debe ajustarse en la fórmula para mejorar la tolerancia gastrointestinal?",
+        "opciones": [
+            "Reducir el contenido de proteínas",
+            "Aumentar la densidad calórica",
+            "Incorporar péptidos de cadena corta",
+            "Incrementar los lípidos de cadena media"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Los péptidos de cadena corta son más fáciles de absorber y pueden mejorar la tolerancia gastrointestinal en pacientes críticos con sepsis."
+    },
+    {
+        "enunciado": "En pacientes con insuficiencia renal que no están en diálisis, ¿qué ajuste es fundamental en la fórmula de nutrición enteral?",
+        "opciones": [
+            "Alta densidad proteica",
+            "Reducción de potasio y fósforo",
+            "Aumento del contenido de fibra insoluble",
+            "Eliminación de lípidos de cadena media"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "En pacientes con insuficiencia renal sin diálisis, es fundamental reducir el potasio y fósforo para prevenir complicaciones metabólicas."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿qué intervención puede reducir la incidencia de diarrea relacionada con las fórmulas enterales?",
+        "opciones": [
+            "Aumentar la velocidad de infusión",
+            "Administrar suplementos de fibra soluble",
+            "Usar fórmulas hiperosmolares",
+            "Interrumpir la nutrición enteral cada 4 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Los suplementos de fibra soluble pueden ayudar a regular el tránsito intestinal y reducir la incidencia de diarrea en pacientes con nutrición enteral."
+    },
+    {
+        "enunciado": "En pacientes con fístulas digestivas altas, ¿qué modalidad de administración de nutrición enteral es más adecuada?",
+        "opciones": [
+            "Bolus directo al estómago",
+            "Infusión continua en yeyuno",
+            "Fórmulas estándar administradas en bolus",
+            "Fórmulas elementales administradas en duodeno"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La infusión continua en yeyuno es adecuada para pacientes con fístulas digestivas altas, ya que evita el sitio de la fístula y mejora la absorción."
+    },
+    {
+        "enunciado": "En pacientes con dismotilidad gástrica severa, ¿qué ajuste en la nutrición enteral puede mejorar la tolerancia?",
+        "opciones": [
+            "Usar fórmulas poliméricas isotónicas",
+            "Administrar la nutrición directamente en el duodeno o yeyuno",
+            "Incrementar la velocidad de infusión",
+            "Reducir el contenido calórico total"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración directa en el duodeno o yeyuno evita el estómago y mejora la tolerancia en pacientes con dismotilidad gástrica severa."
+    },
+    {
+        "enunciado": "¿Qué marcador es más útil para evaluar el vaciamiento gástrico en pacientes con nutrición enteral prolongada?",
+        "opciones": [
+            "Volumen residual gástrico",
+            "Frecuencia de evacuaciones",
+            "Niveles de electrolitos en sangre",
+            "Presión arterial media"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El volumen residual gástrico es un marcador clave para evaluar el vaciamiento gástrico y ajustar la nutrición enteral según la tolerancia."
+    },
+    {
+        "enunciado": "En pacientes con trauma craneoencefálico que reciben nutrición enteral, ¿qué característica de la fórmula puede optimizar la recuperación neurológica?",
+        "opciones": [
+            "Bajo contenido proteico para reducir el catabolismo",
+            "Enriquecimiento con ácidos grasos omega-3",
+            "Alta osmolaridad para maximizar la absorción",
+            "Reducción de carbohidratos para evitar hiperglucemia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas enriquecidas con ácidos grasos omega-3 pueden modular la inflamación y mejorar los resultados en pacientes con trauma craneoencefálico."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿qué intervención puede prevenir complicaciones respiratorias en pacientes con alto riesgo de aspiración?",
+        "opciones": [
+            "Administrar la fórmula a temperatura corporal",
+            "Mantener al paciente en posición semirrecostada",
+            "Usar fórmulas hipercalóricas para reducir el volumen administrado",
+            "Realizar pausas prolongadas entre bolus"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Mantener al paciente en posición semirrecostada (30-45 grados) durante y después de la administración de nutrición enteral ayuda a prevenir la aspiración."
+    },
+    {
+        "enunciado": "En pacientes con síndrome de intestino corto, ¿qué tipo de fórmula enteral es preferida para mejorar la absorción de nutrientes?",
+        "opciones": [
+            "Fórmulas estándar poliméricas",
+            "Fórmulas elementales basadas en aminoácidos libres",
+            "Fórmulas hiperosmolares con alta densidad calórica",
+            "Fórmulas enriquecidas con grasas de cadena larga"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas elementales, compuestas por aminoácidos libres, son más fáciles de absorber en pacientes con intestino corto."
+    },
+    {
+        "enunciado": "En un paciente geriátrico con caquexia y nutrición enteral, ¿qué ajuste en la fórmula puede optimizar el balance energético?",
+        "opciones": [
+            "Aumentar la cantidad de fibra soluble",
+            "Utilizar fórmulas hipercalóricas y con alta densidad proteica",
+            "Reducir el contenido de lípidos para mejorar la digestión",
+            "Usar fórmulas isotónicas estándar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas hipercalóricas con alta densidad proteica ayudan a cubrir las necesidades energéticas y prevenir la pérdida de masa muscular en pacientes con caquexia."
+    },
+    {
+        "enunciado": "En pacientes con disfunción hepática que reciben nutrición enteral, ¿qué ajuste en la fórmula es más importante?",
+        "opciones": [
+            "Reducir el contenido de carbohidratos simples",
+            "Limitar los lípidos de cadena media",
+            "Aumentar los aminoácidos de cadena ramificada",
+            "Incrementar las calorías no proteicas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El aumento de aminoácidos de cadena ramificada en las fórmulas ayuda a mejorar la tolerancia y prevenir la encefalopatía hepática en pacientes con disfunción hepática."
+    },
+    {
+        "enunciado": "En un paciente con diabetes mellitus que requiere nutrición enteral, ¿qué característica debe tener la fórmula para mejorar el control glucémico?",
+        "opciones": [
+            "Alta concentración de carbohidratos simples",
+            "Enriquecimiento con lípidos de cadena media",
+            "Presencia de fibra soluble y bajo índice glucémico",
+            "Baja proporción de proteínas totales"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas con fibra soluble y bajo índice glucémico ayudan a estabilizar los niveles de glucosa en sangre en pacientes con diabetes mellitus."
+    },
+    {
+        "enunciado": "¿Qué intervención es clave para minimizar las complicaciones metabólicas en pacientes que inician nutrición enteral tras un período de ayuno prolongado?",
+        "opciones": [
+            "Usar fórmulas hiperosmolares para maximizar la absorción",
+            "Iniciar con bajas velocidades de infusión y fórmulas isotónicas",
+            "Aumentar rápidamente el aporte calórico para prevenir hipoglucemia",
+            "Evitar la suplementación de vitaminas y minerales iniciales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Iniciar con bajas velocidades de infusión y fórmulas isotónicas previene complicaciones como el síndrome de realimentación en pacientes que estuvieron en ayuno prolongado."
+    },
+    {
+        "enunciado": "En pacientes con diarrea asociada a la nutrición enteral, ¿qué intervención específica puede ser útil?",
+        "opciones": [
+            "Aumentar la velocidad de infusión de la fórmula",
+            "Administrar probióticos junto con la fórmula",
+            "Usar fórmulas con alto contenido de grasas saturadas",
+            "Suspender temporalmente toda la nutrición enteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El uso de probióticos puede ayudar a regular la microbiota intestinal y mejorar la tolerancia en pacientes con diarrea asociada a nutrición enteral."
+    },
+    {
+        "enunciado": "¿Qué técnica es más efectiva para evaluar la seguridad del vaciamiento gástrico en pacientes con nutrición enteral?",
+        "opciones": [
+            "Monitorizar el volumen residual gástrico regularmente",
+            "Medir la presión arterial después de la administración",
+            "Controlar la frecuencia de evacuaciones diarias",
+            "Realizar ultrasonidos abdominales frecuentes"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La monitorización del volumen residual gástrico permite evaluar la capacidad del estómago para vaciar su contenido y ajustar la nutrición según sea necesario."
+    },
+    {
+        "enunciado": "En pacientes con inmovilidad prolongada que reciben nutrición enteral, ¿qué ajuste puede ayudar a prevenir complicaciones gastrointestinales?",
+        "opciones": [
+            "Aumentar el contenido de fibra insoluble en la fórmula",
+            "Reducir las calorías totales administradas",
+            "Mantener una velocidad de infusión baja de forma continua",
+            "Usar fórmulas con alto contenido lipídico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El aumento de fibra insoluble puede estimular el tránsito intestinal y prevenir complicaciones como el estreñimiento en pacientes inmovilizados."
+    }
+]
