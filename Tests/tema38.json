@@ -2238,5 +2238,1927 @@
             "nutrición_enteral"
         ],
         "feedback": "El aumento de fibra insoluble puede estimular el tránsito intestinal y prevenir complicaciones como el estreñimiento en pacientes inmovilizados."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿qué método de administración es obligatorio si se realiza en el intestino?",
+        "opciones": [
+            "Intermitente con jeringa",
+            "Intermitente por gravedad",
+            "Intermitente con bomba de infusión",
+            "Continua con bomba de infusión"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración continua con bomba de infusión es obligatoria en la nutrición enteral cuando se realiza directamente en el intestino, debido al riesgo de distensión gástrica y aspiración."
+    },
+    {
+        "enunciado": "¿Qué calibre es más adecuado para una sonda de nutrición enteral destinada a administrar fórmulas densas y medicación?",
+        "opciones": [
+            "5 Fr",
+            "12 Fr",
+            "22 Fr",
+            "24 Fr"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "Para fórmulas densas y medicación se recomienda un calibre de 20 o 22 Fr para evitar obstrucciones y asegurar el flujo adecuado."
+    },
+    {
+        "enunciado": "¿Qué técnica de colocación de sonda enteral requiere el uso de fluoroscopia?",
+        "opciones": [
+            "Sonda nasogástrica",
+            "Sonda nasoenteral",
+            "Gastrostomía percutánea endoscópica",
+            "Yeyunostomía quirúrgica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La colocación de una sonda nasoenteral a menudo requiere técnicas como fluoroscopia para asegurar la ubicación adecuada en el tracto gastrointestinal."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿qué vía se recomienda para un paciente que necesita descompresión gástrica y alimentación simultánea?",
+        "opciones": [
+            "Sonda nasogástrica",
+            "Sonda nasoduodenal",
+            "Sonda de doble luz",
+            "Yeyunostomía"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "La sonda de doble luz permite descompresión gástrica y alimentación yeyunal simultánea, ideal para pacientes con náuseas o vómitos incoercibles."
+    },
+    {
+        "enunciado": "En pacientes con nutrición parenteral, ¿qué técnica se utiliza para prevenir la hipoglucemia en caso de interrupción de la infusión?",
+        "opciones": [
+            "Administrar glucosa al 5%",
+            "Administrar glucosa al 10%",
+            "Administrar solución salina",
+            "Reanudar inmediatamente la nutrición parenteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_parenteral"
+        ],
+        "feedback": "En caso de interrupción de la nutrición parenteral, se administra glucosa al 10% para prevenir hipoglucemia, ya que el organismo depende de la infusión constante de nutrientes."
+    },
+    {
+        "enunciado": "¿Qué parámetro bioquímico es más útil como marcador inicial de riesgo nutricional en pacientes hospitalizados?",
+        "opciones": [
+            "Prealbúmina sérica",
+            "Colesterol total",
+            "Albúmina sérica",
+            "Recuento de linfocitos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "evaluación_nutricional"
+        ],
+        "feedback": "La albúmina sérica es ampliamente utilizada como marcador inicial de riesgo nutricional, aunque no es ideal para detectar desnutrición aguda debido a su vida media larga."
+    },
+    {
+        "enunciado": "¿Qué tipo de fórmula de nutrición enteral está diseñada para pacientes con insuficiencia respiratoria?",
+        "opciones": [
+            "Fórmula normoproteica",
+            "Fórmula con inmunonutrientes",
+            "Fórmula hipercalórica",
+            "Fórmula con reducción de hidratos de carbono"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Las fórmulas con reducción de hidratos de carbono y aumento de grasas son ideales para pacientes con insuficiencia respiratoria, ya que mejoran el cociente respiratorio."
+    },
+    {
+        "enunciado": "¿Qué procedimiento quirúrgico es la primera elección para pacientes que requieren nutrición enteral a largo plazo?",
+        "opciones": [
+            "Gastrostomía percutánea endoscópica (PEG)",
+            "Faringostomía",
+            "Yeyunostomía quirúrgica",
+            "Sonda nasogástrica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "La gastrostomía percutánea endoscópica (PEG) es la técnica de elección para pacientes que requieren nutrición enteral prolongada, por su eficacia y menor riesgo de complicaciones."
+    },
+    {
+        "enunciado": "En la administración de nutrición enteral, ¿cuándo es obligatorio comprobar la posición de la sonda mediante radiografía?",
+        "opciones": [
+            "Tras la administración de cada medicación",
+            "Antes de la primera alimentación",
+            "Semanalmente durante el seguimiento",
+            "Antes de cada toma en pacientes críticos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Antes de la primera alimentación con nutrición enteral, es obligatorio confirmar la posición correcta de la sonda mediante radiografía para evitar complicaciones como la broncoaspiración."
+    },
+    {
+        "enunciado": "En un paciente que recibe nutrición enteral continua, ¿cuál es el volumen máximo de residuo gástrico que justifica suspender temporalmente la infusión?",
+        "opciones": [
+            "100 ml",
+            "150 ml",
+            "200 ml",
+            "250 ml"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Si el residuo gástrico supera los 150 ml, se debe suspender temporalmente la infusión para prevenir complicaciones como la aspiración o la distensión gástrica."
+    },
+    {
+        "enunciado": "En la nutrición enteral, ¿cuál es la posición mínima recomendada del respaldo de la cama durante la administración para prevenir la broncoaspiración?",
+        "opciones": [
+            "15 grados",
+            "30 grados",
+            "45 grados",
+            "60 grados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El respaldo de la cama debe mantenerse elevado al menos 30 grados durante la administración de nutrición enteral y por 30 minutos después, para reducir el riesgo de broncoaspiración."
+    },
+    {
+        "enunciado": "¿Por qué es fundamental taponar la sonda de nutrición enteral después de su uso?",
+        "opciones": [
+            "Para evitar la contaminación por bacterias externas",
+            "Para prevenir el retorno del contenido gástrico",
+            "Para facilitar la administración de medicación posterior",
+            "Para mantener la hidratación de la sonda"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Taponar la sonda después de su uso es crucial para evitar la contaminación externa y reducir el riesgo de infecciones asociadas al uso de dispositivos enterales."
+    },
+    {
+        "enunciado": "En la técnica de administración de nutrición enteral con bomba de infusión, ¿cuál es la velocidad inicial recomendada para evitar complicaciones?",
+        "opciones": [
+            "100 ml/h",
+            "40 ml/h",
+            "20 ml/h",
+            "10 ml/h"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La velocidad inicial recomendada es de 20 ml/h para permitir la adaptación del sistema digestivo y minimizar el riesgo de intolerancia."
+    },
+    {
+        "enunciado": "¿Qué procedimiento se debe seguir si se detecta obstrucción en la sonda de nutrición enteral?",
+        "opciones": [
+            "Aplicar presión con una jeringa para liberar la obstrucción",
+            "Lavar la sonda con agua tibia",
+            "Cambiar la sonda inmediatamente",
+            "Administrar directamente la fórmula con una jeringa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "En caso de obstrucción, la sonda debe lavarse con agua tibia utilizando una jeringa para desobstruirla suavemente y evitar daños en el dispositivo."
+    },
+    {
+        "enunciado": "¿Qué medida se debe tomar antes de administrar medicamentos a través de la sonda de nutrición enteral?",
+        "opciones": [
+            "Suspender la nutrición por 15 minutos",
+            "Triturar el medicamento en seco",
+            "Mezclar el medicamento con la fórmula enteral",
+            "Incrementar la velocidad de infusión de la fórmula"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Antes de administrar medicamentos, es necesario suspender la nutrición enteral por 15 minutos para evitar interacciones entre el medicamento y la fórmula."
+    },
+    {
+        "enunciado": "¿Cuál es la acción correcta al finalizar una toma de nutrición enteral intermitente con jeringa?",
+        "opciones": [
+            "Tapar la sonda inmediatamente sin limpieza previa",
+            "Dejar la sonda abierta para permitir el drenaje",
+            "Enjuagar la sonda con 30-50 ml de agua tibia",
+            "Administrar un bolo de aire para limpiar la sonda"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Es fundamental enjuagar la sonda con 30-50 ml de agua tibia después de cada toma para prevenir obstrucciones y mantener la permeabilidad."
+    },
+    {
+        "enunciado": "Si un paciente presenta náuseas durante la infusión de nutrición enteral, ¿cuál es la intervención inicial más adecuada?",
+        "opciones": [
+            "Incrementar la velocidad de la infusión",
+            "Detener temporalmente la infusión y evaluar al paciente",
+            "Diluir la fórmula con agua y continuar la infusión",
+            "Cambiar la posición del paciente a decúbito supino"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Ante náuseas, se debe detener temporalmente la infusión para evaluar al paciente y ajustar la velocidad o la fórmula si es necesario."
+    },
+    {
+        "enunciado": "¿Cuál es el volumen máximo que se puede administrar en una toma intermitente por gravedad en pacientes adultos?",
+        "opciones": [
+            "150 ml",
+            "250 ml",
+            "500 ml",
+            "1000 ml"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El volumen máximo recomendado para una toma intermitente por gravedad en adultos es de 500 ml, para prevenir intolerancia y distensión gástrica."
+    },
+    {
+        "enunciado": "¿Qué debe verificarse antes de iniciar la administración de nutrición enteral para asegurar la correcta ubicación de la sonda?",
+        "opciones": [
+            "El color del contenido gástrico aspirado",
+            "El olor de la fórmula administrada",
+            "La posición del paciente",
+            "La cantidad de residuo gástrico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Antes de iniciar la administración, se debe verificar la correcta ubicación de la sonda mediante la aspiración del contenido gástrico y la evaluación de su color y pH."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral continua, ¿cada cuánto tiempo se recomienda aspirar el contenido gástrico para evaluar la tolerancia?",
+        "opciones": [
+            "Cada 2 horas",
+            "Cada 4-6 horas",
+            "Cada 12 horas",
+            "Solo si hay signos de intolerancia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "En nutrición enteral continua, se recomienda aspirar el contenido gástrico cada 4-6 horas para monitorear la tolerancia y ajustar la infusión si es necesario."
+    },
+    {
+        "enunciado": "¿Qué acción se debe realizar si se detecta un residuo gástrico mayor de 150 ml en un paciente con nutrición enteral continua?",
+        "opciones": [
+            "Aumentar la velocidad de infusión para vaciar el estómago",
+            "Suspender la infusión y reevaluar después de una hora",
+            "Cambiar la fórmula a una más densa",
+            "Continuar la infusión y monitorizar al paciente cada 30 minutos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Si el residuo gástrico supera los 150 ml, se debe suspender la infusión, reevaluar después de una hora y consultar al médico si persiste el volumen elevado."
+    },
+    {
+        "enunciado": "En la administración de nutrición enteral por gravedad, ¿cómo se controla la velocidad de infusión?",
+        "opciones": [
+            "Ajustando el número de gotas por minuto",
+            "Usando una bomba de infusión",
+            "Dejando el sistema abierto sin restricción",
+            "Midiendo el volumen administrado manualmente cada hora"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "En la administración por gravedad, la velocidad de infusión se controla ajustando el número de gotas por minuto en el equipo de infusión."
+    },
+    {
+        "enunciado": "En nutrición enteral con bomba de infusión, ¿qué cuidado es esencial para evitar el retroceso del contenido gástrico en la sonda?",
+        "opciones": [
+            "Mantener la sonda completamente vertical",
+            "Asegurarse de que la bomba funcione constantemente",
+            "Elevar la cabecera de la cama a 45 grados durante la infusión",
+            "Usar fórmulas isotónicas exclusivamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Elevar la cabecera de la cama a 45 grados durante la infusión reduce significativamente el riesgo de retroceso y aspiración del contenido gástrico."
+    },
+    {
+        "enunciado": "¿Cuál es el principal riesgo de administrar nutrición enteral con una velocidad de infusión demasiado rápida?",
+        "opciones": [
+            "Hipoglucemia",
+            "Distensión gástrica y vómitos",
+            "Deshidratación severa",
+            "Obstrucción de la sonda"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración rápida de la nutrición enteral puede causar distensión gástrica y vómitos debido a la intolerancia del sistema digestivo a la velocidad excesiva."
+    },
+    {
+        "enunciado": "¿Qué técnica de administración de nutrición enteral es más adecuada para pacientes con alteración de la motilidad gástrica?",
+        "opciones": [
+            "Por bolos con jeringa",
+            "Por gravedad con velocidad ajustable",
+            "Infusión continua con bomba",
+            "Intermitente con bomba de infusión"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "La infusión continua con bomba es la mejor opción para pacientes con alteración de la motilidad gástrica, ya que asegura una administración uniforme y lenta."
+    },
+    {
+        "enunciado": "Durante la administración de nutrición enteral, ¿cuándo se debe realizar la limpieza de la sonda con agua?",
+        "opciones": [
+            "Solo al inicio de la alimentación",
+            "Antes y después de cada toma",
+            "Una vez al día para evitar obstrucciones",
+            "Únicamente si la sonda muestra signos de obstrucción"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La sonda debe limpiarse con agua antes y después de cada toma para prevenir obstrucciones y mantener la permeabilidad."
+    },
+    {
+        "enunciado": "En un paciente que utiliza una sonda nasogástrica, ¿qué complicación podría indicar la aparición de tos y cianosis durante la infusión?",
+        "opciones": [
+            "Distensión gástrica",
+            "Neumonía por aspiración",
+            "Obstrucción de la sonda",
+            "Intolerancia a la fórmula enteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "La aparición de tos y cianosis podría indicar neumonía por aspiración, una complicación grave que requiere intervención inmediata."
+    },
+    {
+        "enunciado": "Para reducir el riesgo de contaminación durante la administración de nutrición enteral, ¿cuál es la duración máxima recomendada para utilizar un sistema de infusión cerrado?",
+        "opciones": [
+            "12 horas",
+            "24 horas",
+            "36 horas",
+            "48 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "El sistema de infusión cerrado debe cambiarse cada 24 horas para minimizar el riesgo de contaminación y posibles infecciones."
+    },
+    {
+        "enunciado": "¿Cuál es el intervalo recomendado para la monitorización del residuo gástrico en pacientes con nutrición enteral intermitente?",
+        "opciones": [
+            "Antes de cada toma",
+            "Cada dos horas",
+            "Cada ocho horas",
+            "Una vez al día"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "En nutrición enteral intermitente, se recomienda monitorizar el residuo gástrico antes de cada toma para evaluar la tolerancia y ajustar el plan de alimentación."
+    },
+    {
+        "enunciado": "En pacientes críticos con nutrición enteral, ¿qué método es esencial para comprobar la correcta colocación de la sonda antes de la primera administración?",
+        "opciones": [
+            "Palpación abdominal",
+            "Auscultación tras insuflar aire",
+            "Control radiográfico",
+            "Evaluación del contenido gástrico aspirado"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El control radiográfico es el método más seguro y preciso para verificar la posición correcta de la sonda antes de la primera administración en pacientes críticos."
+    },
+    {
+        "enunciado": "En caso de erosiones nasales relacionadas con el uso de sonda nasogástrica, ¿qué medida es más eficaz para prevenirlas?",
+        "opciones": [
+            "Usar sondas de mayor calibre",
+            "Aumentar la frecuencia de las tomas",
+            "Utilizar sondas más flexibles y de menor calibre",
+            "Lubricar la sonda con aceites esenciales antes de la inserción"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "El uso de sondas más flexibles y de menor calibre es clave para prevenir erosiones nasales, reduciendo la fricción y presión en los tejidos."
+    },
+    {
+        "enunciado": "En pacientes con ostomías para nutrición enteral, ¿cuál es una práctica esencial para prevenir irritaciones en la piel?",
+        "opciones": [
+            "Aumentar el diámetro de la sonda",
+            "Realizar cambios de posición de la sonda cada 72 horas",
+            "Inspeccionar y limpiar la piel diariamente",
+            "Reducir la cantidad de fórmula administrada"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "La inspección y limpieza diaria de la piel alrededor de la ostomía previene irritaciones y permite detectar infecciones o lesiones de forma temprana."
+    },
+    {
+        "enunciado": "¿Qué medida debe tomarse para minimizar el riesgo de aspiración en pacientes con nutrición enteral?",
+        "opciones": [
+            "Utilizar fórmulas hipercalóricas",
+            "Mantener al paciente en decúbito supino",
+            "Administrar procinéticos y mantener al paciente incorporado a más de 30 grados",
+            "Suspender la alimentación durante la noche"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Mantener al paciente incorporado a más de 30 grados y, en algunos casos, administrar procinéticos son estrategias eficaces para reducir el riesgo de aspiración."
+    },
+    {
+        "enunciado": "Si una sonda de nutrición enteral se obstruye, ¿cuál es el primer paso recomendado para intentar desobstruirla?",
+        "opciones": [
+            "Administrar enzimas pancreáticas",
+            "Utilizar agua caliente para lavar la sonda",
+            "Aumentar la velocidad de infusión",
+            "Retirar la sonda inmediatamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "El lavado con agua caliente es el primer paso recomendado para desobstruir una sonda, seguido de otras técnicas si fuera necesario."
+    },
+    {
+        "enunciado": "¿Cómo se puede prevenir la obstrucción de una sonda en pacientes con nutrición enteral continua?",
+        "opciones": [
+            "Reduciendo el volumen de cada toma",
+            "Lavando la sonda con agua cada 6 horas y tras cada toma o medicación",
+            "Usando fórmulas hipercalóricas exclusivamente",
+            "Evitando el uso de medicamentos líquidos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "El lavado de la sonda con agua antes y después de cada toma, cada 6 horas en nutrición continua, es clave para prevenir obstrucciones."
+    },
+    {
+        "enunciado": "¿Cuál es el tratamiento inicial para obstrucciones graves de una sonda cuando el lavado con agua no es eficaz?",
+        "opciones": [
+            "Cambio inmediato de la sonda",
+            "Uso de bebidas bicarbonatadas o enzimas pancreáticas",
+            "Aumentar el flujo de la bomba de infusión",
+            "Suspender la nutrición enteral por 24 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Si el lavado con agua no es efectivo, se pueden usar bebidas bicarbonatadas o enzimas pancreáticas para desobstruir la sonda antes de considerar su reemplazo."
+    },
+    {
+        "enunciado": "En un paciente con erosiones faríngeas por sonda nasogástrica, ¿cuál sería una acción preventiva eficaz?",
+        "opciones": [
+            "Usar una sonda de mayor longitud",
+            "Realizar cambios frecuentes de posición del paciente",
+            "Optar por una sonda de mayor flexibilidad y menor calibre",
+            "Aumentar la frecuencia de las tomas intermitentes"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "El uso de sondas de mayor flexibilidad y menor calibre disminuye el riesgo de erosiones faríngeas al reducir la presión sobre los tejidos."
+    },
+    {
+        "enunciado": "¿Qué medida preventiva puede ayudar a evitar la aspiración durante la administración de nutrición enteral en un paciente con alto riesgo?",
+        "opciones": [
+            "Realizar pausas prolongadas entre tomas",
+            "Administrar la nutrición en infusión continua y valorar el uso de procinéticos",
+            "Utilizar fórmulas hiperosmolares",
+            "Mantener al paciente en posición de decúbito lateral izquierdo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración en infusión continua combinada con procinéticos reduce significativamente el riesgo de aspiración en pacientes vulnerables."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral, ¿qué factor aumenta el riesgo de erosiones nasales y debe ser considerado al elegir la sonda?",
+        "opciones": [
+            "La densidad calórica de la fórmula administrada",
+            "El tamaño y la flexibilidad de la sonda",
+            "La frecuencia de las tomas intermitentes",
+            "La velocidad de infusión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Un tamaño y flexibilidad inapropiados de la sonda aumentan el riesgo de erosiones nasales; se debe elegir una sonda adecuada para minimizar este riesgo."
+    },
+    {
+        "enunciado": "En caso de irritación de la piel alrededor de una ostomía, ¿qué medida inmediata es crucial para manejar esta complicación?",
+        "opciones": [
+            "Aumentar la frecuencia de las tomas",
+            "Revisar y corregir la colocación de la sonda",
+            "Cambiar la fórmula por una de mayor densidad calórica",
+            "Suspender la nutrición enteral por 48 horas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "La revisión y corrección de la colocación de la sonda es esencial para prevenir y tratar la irritación de la piel alrededor de una ostomía."
+    },
+    {
+        "enunciado": "En pacientes con riesgo elevado de aspiración durante la nutrición enteral, ¿cuál de las siguientes estrategias es la más adecuada para disminuir este riesgo?",
+        "opciones": [
+            "Reducir la cantidad total de la fórmula administrada",
+            "Usar una fórmula con menor densidad calórica",
+            "Administrar la fórmula a través de una sonda yeyunal",
+            "Incrementar la velocidad de infusión en las primeras tomas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración de la fórmula a través de una sonda yeyunal es la opción más efectiva para reducir el riesgo de aspiración, ya que evita el reflujo hacia las vías aéreas superiores."
+    },
+    {
+        "enunciado": "En caso de obstrucción recurrente de la sonda de nutrición enteral, ¿qué acción preventiva específica puede ser implementada?",
+        "opciones": [
+            "Diluir la fórmula con agua destilada antes de administrarla",
+            "Utilizar sondas de mayor calibre con limpieza cada 8 horas",
+            "Aumentar la densidad calórica de la fórmula administrada",
+            "Interrumpir la administración nocturna de la nutrición"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Diluir la fórmula antes de administrarla puede prevenir obstrucciones recurrentes al reducir la viscosidad del alimento y facilitar su paso por la sonda."
+    },
+    {
+        "enunciado": "¿Qué complicación podría producirse si no se realiza una adecuada limpieza de la sonda después de administrar medicamentos?",
+        "opciones": [
+            "Reflujo gastroesofágico",
+            "Deshidratación severa",
+            "Obstrucción de la sonda",
+            "Pérdida de nutrientes esenciales"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "No limpiar adecuadamente la sonda después de la administración de medicamentos puede causar obstrucción debido a residuos acumulados."
+    },
+    {
+        "enunciado": "En la prevención de erosiones nasales, ¿por qué se recomienda evitar el uso de sondas de PVC rígido para administración prolongada?",
+        "opciones": [
+            "Porque no son compatibles con fórmulas enterales estándar",
+            "Porque pueden aumentar la incidencia de reflujo gástrico",
+            "Porque tienen menor flexibilidad y causan mayor irritación",
+            "Porque favorecen la proliferación bacteriana en su superficie"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "El PVC rígido tiene menor flexibilidad, lo que aumenta la presión sobre los tejidos nasales, favoreciendo la aparición de erosiones e incomodidad."
+    },
+    {
+        "enunciado": "¿Cuál es el principal riesgo de no movilizar la sonda de una ostomía diariamente?",
+        "opciones": [
+            "Mayor riesgo de infección en la fórmula enteral",
+            "Adherencia de la sonda al tejido circundante",
+            "Obstrucción del tracto gastrointestinal",
+            "Aumento de la distensión abdominal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "La falta de movilización diaria de la sonda puede causar adherencia al tejido circundante, dificultando su manejo y aumentando el riesgo de irritación e infección."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral, ¿qué procedimiento debe realizarse si se detectan residuos gástricos de gran volumen (>150 ml) de forma recurrente?",
+        "opciones": [
+            "Suspender la nutrición enteral indefinidamente",
+            "Realizar un ajuste en la velocidad de infusión o cambiar a administración yeyunal",
+            "Diluir la fórmula administrada con agua estéril",
+            "Aumentar el tamaño de la sonda para mejorar el drenaje"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "El ajuste de la velocidad de infusión o el cambio a una administración yeyunal es esencial para reducir los residuos gástricos elevados de forma recurrente."
+    },
+    {
+        "enunciado": "Durante la administración de nutrición enteral, ¿qué indicador podría sugerir la necesidad de una revisión urgente de la posición de la sonda?",
+        "opciones": [
+            "Presencia de vómitos y náuseas frecuentes",
+            "Reducción de la cantidad de residuos gástricos",
+            "Incremento del apetito en el paciente",
+            "Color pálido de la piel y mucosas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Los vómitos y náuseas frecuentes pueden indicar un desplazamiento de la sonda o una intolerancia, y justifican una revisión inmediata de su posición."
+    },
+    {
+        "enunciado": "En un paciente con irritación cutánea severa en el sitio de la ostomía, ¿qué medida terapéutica inmediata es más efectiva?",
+        "opciones": [
+            "Aumentar la frecuencia de las tomas para disminuir el contacto con la piel",
+            "Aplicar antisépticos en la zona afectada y ajustar la fijación de la sonda",
+            "Reducir el volumen de la fórmula administrada",
+            "Realizar curaciones solo cuando la irritación sea evidente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "La aplicación de antisépticos y un ajuste en la fijación de la sonda son cruciales para prevenir infecciones y reducir la irritación en el sitio de la ostomía."
+    },
+    {
+        "enunciado": "Si una fórmula enteral presenta grumos visibles durante la preparación, ¿cuál es la acción correcta?",
+        "opciones": [
+            "Administrarla lentamente para evitar obstrucciones",
+            "Filtrarla antes de administrarla",
+            "Agregar agua caliente para disolver los grumos",
+            "Descartar la fórmula y preparar una nueva"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "Las fórmulas con grumos deben descartarse, ya que pueden obstruir la sonda y comprometer la seguridad de la administración."
+    },
+    {
+        "enunciado": "En la administración continua de nutrición enteral, ¿por qué es importante registrar la posición de las marcas de la sonda diariamente?",
+        "opciones": [
+            "Para ajustar la velocidad de infusión en función del volumen administrado",
+            "Para detectar desplazamientos de la sonda que puedan comprometer su ubicación",
+            "Para prevenir el deterioro del material de la sonda",
+            "Para medir la longitud de la sonda y asegurarse de su flexibilidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Registrar la posición de las marcas diariamente permite identificar desplazamientos de la sonda, asegurando su correcta ubicación y funcionamiento."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral continua, ¿qué intervalo de tiempo es más adecuado para realizar una limpieza rutinaria de la sonda con agua?",
+        "opciones": [
+            "Cada 2 horas",
+            "Cada 6 horas",
+            "Cada 12 horas",
+            "Solo al final de cada toma"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "En la administración continua, la sonda debe limpiarse cada 6 horas para evitar obstrucciones y mantener su funcionalidad."
+    },
+    {
+        "enunciado": "¿Qué precaución específica se debe tomar durante la limpieza de la sonda en pacientes con administración de fórmulas enriquecidas en fibra?",
+        "opciones": [
+            "Usar agua fría para evitar reacciones químicas",
+            "Lavar con mayor frecuencia debido a la posibilidad de obstrucciones",
+            "Diluir la fórmula antes de administrarla",
+            "Utilizar únicamente soluciones salinas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Las fórmulas enriquecidas con fibra pueden aumentar el riesgo de obstrucciones, por lo que se recomienda una limpieza más frecuente de la sonda."
+    },
+    {
+        "enunciado": "En un paciente con alto riesgo de aspiración, ¿cuál es la intervención inicial más apropiada si se observan signos de reflujo durante la infusión?",
+        "opciones": [
+            "Incrementar la velocidad de infusión",
+            "Suspender la infusión temporalmente y elevar la cabecera a 45 grados",
+            "Ajustar la fórmula a una versión hipercalórica",
+            "Cambiar a administración por bolos intermitentes"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "Suspender la infusión temporalmente y elevar la cabecera a 45 grados ayuda a reducir el reflujo y a prevenir complicaciones como la aspiración."
+    },
+    {
+        "enunciado": "Si se detecta irritación severa en la piel alrededor de una ostomía, ¿qué medida inmediata debe tomarse para evaluar la causa?",
+        "opciones": [
+            "Revisar la cantidad de fórmula administrada",
+            "Inspeccionar la posición y fijación de la sonda",
+            "Cambiar a una fórmula sin fibra",
+            "Reducir la velocidad de infusión a la mitad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "La posición y fijación inadecuada de la sonda puede causar irritación cutánea, por lo que debe revisarse para prevenir daño adicional."
+    },
+    {
+        "enunciado": "En la administración de nutrición enteral por gravedad, ¿qué práctica asegura una velocidad constante de infusión?",
+        "opciones": [
+            "Ajustar la posición del paciente cada 15 minutos",
+            "Colocar el equipo a una altura fija respecto al paciente",
+            "Usar sondas de calibre amplio",
+            "Monitorizar manualmente la cantidad administrada cada hora"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "técnicas_administración"
+        ],
+        "feedback": "Mantener el equipo de infusión a una altura fija asegura una velocidad constante y previene fluctuaciones en el flujo por gravedad."
+    },
+    {
+        "enunciado": "¿Qué complicación puede surgir si la fórmula enteral no se lleva a temperatura ambiente antes de su administración?",
+        "opciones": [
+            "Aumento de la viscosidad de la fórmula",
+            "Irritación gástrica y malestar abdominal",
+            "Mayor riesgo de infección por contaminación",
+            "Pérdida de nutrientes esenciales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "nutrición_enteral"
+        ],
+        "feedback": "La administración de fórmulas frías puede causar irritación gástrica y malestar, por lo que deben llevarse a temperatura ambiente antes de su uso."
+    },
+    {
+        "enunciado": "¿Qué indicador clínico es más confiable para evaluar el correcto funcionamiento de la nutrición enteral continua?",
+        "opciones": [
+            "La cantidad de fórmula administrada en 24 horas",
+            "La ausencia de residuos gástricos al aspirar",
+            "La reducción en el peso del paciente",
+            "La disminución en la frecuencia cardíaca"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "La ausencia de residuos gástricos al aspirar indica que la fórmula está siendo procesada adecuadamente, lo que refleja un buen funcionamiento de la nutrición enteral."
+    },
+    {
+        "enunciado": "En un paciente con nutrición enteral, ¿qué medida específica se debe tomar para prevenir lesiones por presión en los orificios nasales?",
+        "opciones": [
+            "Cambiar la posición de la sonda diariamente",
+            "Lubricar la sonda con gel antibacteriano",
+            "Reemplazar la sonda cada 48 horas",
+            "Administrar pequeñas cantidades de fórmula con frecuencia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "Cambiar la posición de la sonda diariamente reduce la presión continua en un solo punto, previniendo lesiones en los orificios nasales."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral por ostomía, ¿cuál es una señal de advertencia temprana de infección en el sitio de inserción?",
+        "opciones": [
+            "Enrojecimiento leve sin dolor",
+            "Dolor y secreción purulenta en el área",
+            "Reducción en el volumen administrado",
+            "Cambio en la densidad de la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "El dolor acompañado de secreción purulenta es una señal de infección que requiere atención inmediata en el sitio de inserción de la ostomía."
+    },
+    {
+        "enunciado": "¿Qué complicación puede surgir si no se realiza un control periódico del residuo gástrico en pacientes con nutrición enteral continua?",
+        "opciones": [
+            "Hipoglucemia",
+            "Distensión gástrica y riesgo de aspiración",
+            "Obstrucción mecánica de la sonda",
+            "Deshidratación severa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "seguimiento_nutricional"
+        ],
+        "feedback": "El control periódico del residuo gástrico es esencial para prevenir la distensión gástrica y reducir el riesgo de aspiración en pacientes con nutrición enteral continua."
+    },
+    {
+        "enunciado": "En un paciente con sonda nasoenteral, ¿qué práctica es esencial para prevenir complicaciones infecciosas como sinusitis o otitis media?",
+        "opciones": [
+            "Usar sondas de mayor calibre para asegurar el flujo adecuado",
+            "Realizar limpieza e inspección diaria del estado de la sonda y la piel anexa",
+            "Mantener la sonda fija en la misma posición durante todo el tratamiento",
+            "Evitar el uso de sondas flexibles para prevenir reflujo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La limpieza e inspección diaria de la sonda y la piel circundante son fundamentales para prevenir infecciones como sinusitis u otitis media asociadas al uso prolongado de sondas nasoenterales."
+    },
+    {
+        "enunciado": "En el manejo de infecciones en un estoma de ostomía, ¿qué acción inmediata debe realizarse si la sonda PEG sufre una extracción parcial?",
+        "opciones": [
+            "Reinsertar la sonda manualmente y continuar la infusión",
+            "Detener la infusión de la dieta y solicitar una evaluación médica para colocar una nueva sonda",
+            "Administrar solución salina a través de la sonda parcialmente extraída",
+            "Aumentar el volumen de la dieta para garantizar la nutrición"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Ante la extracción parcial de una sonda PEG, se debe detener la infusión de inmediato y solicitar la colocación de una nueva sonda para prevenir infecciones y complicaciones mayores."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas es más efectiva para prevenir neumonía por aspiración en pacientes con nutrición enteral?",
+        "opciones": [
+            "Usar fórmulas hiperosmolares para reducir el riesgo de reflujo",
+            "Mantener al paciente incorporado durante la infusión y 30 minutos después",
+            "Realizar cambios de posición frecuentes en decúbito lateral",
+            "Administrar fórmulas más densas para evitar regurgitación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Mantener al paciente incorporado durante la infusión y al menos 30 minutos después es crucial para prevenir la neumonía por aspiración, reduciendo el riesgo de reflujo y entrada de alimentos a las vías respiratorias."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral, ¿cuál es el intervalo recomendado para el cambio de los sistemas de infusión para prevenir infecciones del estoma?",
+        "opciones": [
+            "Cada 12 horas",
+            "Cada 24 horas",
+            "Cada 48 horas",
+            "Solo si se observan signos de contaminación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Cambiar los sistemas de infusión cada 24 horas reduce significativamente el riesgo de infecciones al minimizar la contaminación bacteriana de los equipos utilizados."
+    },
+    {
+        "enunciado": "¿Qué complicación puede derivarse de una conservación inadecuada de las fórmulas enterales en pacientes con nutrición enteral?",
+        "opciones": [
+            "Sinusitis aguda",
+            "Neumonía por aspiración",
+            "Obstrucción de la sonda",
+            "Irritación gástrica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La conservación inadecuada de las fórmulas puede aumentar el riesgo de contaminación bacteriana, lo que a su vez puede causar neumonía por aspiración si los alimentos infectados ingresan a las vías respiratorias."
+    },
+    {
+        "enunciado": "En la prevención de infecciones en pacientes con sonda nasoenteral, ¿qué factor relacionado con la sonda debe ser prioritario?",
+        "opciones": [
+            "El material de fabricación de la sonda",
+            "La longitud de la sonda utilizada",
+            "El calibre y flexibilidad de la sonda",
+            "El color de la sonda para identificar su uso"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El calibre y la flexibilidad de la sonda son factores críticos en la prevención de infecciones, ya que afectan la comodidad del paciente y el riesgo de lesiones internas que podrían facilitar la colonización bacteriana."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes signos es más indicativo de infección del estoma en pacientes con nutrición por ostomía?",
+        "opciones": [
+            "Aumento de residuos gástricos",
+            "Dolor, eritema y secreción purulenta alrededor del estoma",
+            "Aparición de náuseas durante la infusión",
+            "Reducción de la velocidad de infusión requerida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Dolor, enrojecimiento y secreción purulenta alrededor del estoma son signos clásicos de infección y deben ser tratados de inmediato para evitar complicaciones graves."
+    },
+    {
+        "enunciado": "En el contexto de una infección del estoma, ¿qué práctica es esencial para reducir el riesgo de recurrencia?",
+        "opciones": [
+            "Usar fórmulas hipercalóricas exclusivamente",
+            "Aumentar el intervalo de cambio de la sonda PEG",
+            "Manipular las dietas con estrictas medidas de higiene",
+            "Evitar el uso de procinéticos en el tratamiento"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La manipulación de las dietas con estrictas medidas de higiene es fundamental para prevenir la contaminación bacteriana y reducir el riesgo de infecciones recurrentes del estoma."
+    },
+    {
+        "enunciado": "¿Qué medida debe implementarse de forma rutinaria para prevenir infecciones asociadas a sistemas de infusión de nutrición enteral?",
+        "opciones": [
+            "Mantener los equipos en un ambiente refrigerado",
+            "Lavar los sistemas de infusión con solución antiséptica después de cada uso",
+            "Cambiar los sistemas de infusión cada 24 horas",
+            "Reducir el volumen de la fórmula administrada"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Cambiar los sistemas de infusión cada 24 horas minimiza el riesgo de contaminación y formación de biofilms que podrían provocar infecciones."
+    },
+    {
+        "enunciado": "En el manejo de neumonía por aspiración en un paciente con nutrición enteral, ¿cuál de las siguientes intervenciones es prioritaria?",
+        "opciones": [
+            "Reducir la densidad calórica de la fórmula",
+            "Suspender la nutrición y administrar antibióticos según indicación médica",
+            "Cambiar a infusión por bolos intermitentes",
+            "Incrementar el uso de procinéticos para vaciar el estómago más rápidamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "En caso de neumonía por aspiración, es esencial suspender la nutrición enteral y comenzar tratamiento antibiótico adecuado para controlar la infección."
+    },
+    {
+        "enunciado": "En pacientes con sonda nasoenteral, ¿cuál es un signo temprano de sinusitis relacionada con el uso prolongado de la sonda?",
+        "opciones": [
+            "Dolor facial o presión en la región paranasal",
+            "Dificultad para deglutir",
+            "Secreción nasal transparente",
+            "Incremento de la frecuencia cardíaca"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El dolor o presión en la región paranasal es un signo temprano de sinusitis en pacientes con sonda nasoenteral, requiriendo evaluación y manejo inmediato."
+    },
+    {
+        "enunciado": "Para reducir el riesgo de infección en el estoma de una ostomía, ¿qué técnica es fundamental durante la limpieza diaria?",
+        "opciones": [
+            "Usar únicamente agua estéril para la limpieza",
+            "Realizar movimientos circulares con antiséptico desde el interior hacia el exterior",
+            "Secar el área con toallas reutilizables",
+            "Evitar la rotación diaria de la sonda"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La limpieza con movimientos circulares desde el interior hacia el exterior utilizando un antiséptico es esencial para minimizar el riesgo de infección en el estoma."
+    },
+    {
+        "enunciado": "En el contexto de neumonía por aspiración en pacientes con nutrición enteral, ¿qué hallazgo clínico es más indicativo de esta complicación?",
+        "opciones": [
+            "Distensión abdominal persistente",
+            "Fiebre de origen desconocido",
+            "Dolor torácico localizado",
+            "Secreciones gástricas oscuras"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La fiebre sin una causa clara en un paciente con nutrición enteral puede ser un indicio de neumonía por aspiración, especialmente si se acompaña de cambios respiratorios."
+    },
+    {
+        "enunciado": "Si se detecta enrojecimiento y calor local alrededor del estoma en un paciente con ostomía, ¿qué acción inmediata debe tomarse?",
+        "opciones": [
+            "Suspender la nutrición enteral y administrar antibióticos de amplio espectro",
+            "Aumentar la cantidad de líquido administrado a través de la sonda",
+            "Realizar una limpieza superficial con solución salina y continuar observación",
+            "Aplicar crema hidratante para aliviar la inflamación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El enrojecimiento y calor local en un estoma pueden ser signos de infección, requiriendo la suspensión de la nutrición y el inicio de tratamiento antibiótico si es necesario."
+    },
+    {
+        "enunciado": "¿Qué medida es clave para prevenir sinusitis en pacientes con sonda nasoenteral de larga duración?",
+        "opciones": [
+            "Utilizar sondas con calibres más grandes para evitar la acumulación de secreciones",
+            "Lubricar la sonda diariamente con gel antiséptico",
+            "Inspeccionar y rotar la sonda regularmente para evitar presiones innecesarias",
+            "Administrar analgésicos profilácticos para reducir la inflamación"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La inspección y rotación regular de la sonda minimiza las presiones locales y reduce el riesgo de sinusitis en pacientes con uso prolongado de sondas nasoenterales."
+    },
+    {
+        "enunciado": "En un paciente con infección recurrente en el estoma, ¿cuál podría ser una causa comúnmente pasada por alto?",
+        "opciones": [
+            "Uso de sondas con material siliconado",
+            "Fórmulas enterales con alta densidad proteica",
+            "Manipulación inadecuada de los sistemas de infusión",
+            "Frecuencia de limpieza excesiva del estoma"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La manipulación inadecuada de los sistemas de infusión es una causa frecuente de infecciones recurrentes, subrayando la importancia de las medidas de higiene estrictas."
+    },
+    {
+        "enunciado": "¿Qué práctica incorrecta durante la manipulación de dietas enterales puede contribuir al desarrollo de neumonía en pacientes con nutrición enteral?",
+        "opciones": [
+            "Preparar las dietas en un entorno con temperatura controlada",
+            "Mantener las fórmulas a temperatura ambiente antes de administrarlas",
+            "No utilizar guantes ni desinfectar las manos antes de la preparación",
+            "Diluir las fórmulas con agua estéril para ajustar la viscosidad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La falta de higiene durante la manipulación de dietas puede introducir patógenos en las fórmulas, aumentando el riesgo de neumonía por contaminación o aspiración."
+    },
+    {
+        "enunciado": "En un paciente con sonda nasoenteral, ¿qué intervención podría prevenir infecciones bacterianas secundarias en las vías respiratorias superiores?",
+        "opciones": [
+            "Elevar la cabecera de la cama solo durante las tomas",
+            "Realizar lavados nasales diarios con solución isotónica",
+            "Administrar fórmulas hipercalóricas exclusivamente",
+            "Usar sondas con mayor diámetro interno"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Los lavados nasales diarios con solución isotónica ayudan a limpiar las vías superiores y prevenir infecciones bacterianas secundarias relacionadas con el uso de sondas."
+    },
+    {
+        "enunciado": "En el caso de una infección por aspiración en un paciente con nutrición enteral, ¿qué combinación de medidas es más adecuada?",
+        "opciones": [
+            "Suspensión inmediata de la nutrición enteral y administración de fármacos procinéticos",
+            "Inicio de tratamiento antibiótico, suspensión temporal de la infusión y evaluación clínica continua",
+            "Reducción del volumen administrado y uso de fórmulas más líquidas",
+            "Cambio inmediato a alimentación oral bajo supervisión"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La infección por aspiración requiere suspensión temporal de la infusión, tratamiento antibiótico adecuado y evaluación constante del paciente para determinar la estrategia de nutrición."
+    },
+    {
+        "enunciado": "En un paciente que desarrolla otitis media secundaria al uso de sonda nasoenteral, ¿cuál es la intervención más eficaz para prevenir recurrencias?",
+        "opciones": [
+            "Reducir la frecuencia de limpieza de la sonda",
+            "Cambiar a una sonda con mayor flexibilidad y menor calibre",
+            "Usar lubricantes antisépticos de forma rutinaria",
+            "Interrumpir la nutrición enteral durante la noche"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El cambio a una sonda con mayor flexibilidad y menor calibre reduce la presión y la irritación, factores que contribuyen al desarrollo de infecciones como la otitis media."
+    },
+    {
+        "enunciado": "En pacientes con sonda nasoenteral, ¿qué condición específica puede predisponer al desarrollo de sinusitis bacteriana?",
+        "opciones": [
+            "Uso de sondas con material radio-opaco",
+            "Presión excesiva de la sonda en las fosas nasales",
+            "Administración continua de fórmulas isotónicas",
+            "Cambio frecuente de la sonda nasoenteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La presión excesiva de la sonda en las fosas nasales puede generar inflamación y favorecer la colonización bacteriana, aumentando el riesgo de sinusitis."
+    },
+    {
+        "enunciado": "En un paciente con sonda nasoenteral que presenta fiebre y dolor en los senos paranasales, ¿qué intervención inicial es más adecuada?",
+        "opciones": [
+            "Aumentar la velocidad de infusión de la fórmula",
+            "Suspender la nutrición enteral y realizar una evaluación otorrinolaringológica",
+            "Administrar solución salina a través de la sonda",
+            "Cambiar la fórmula por una variante hipercalórica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La fiebre y el dolor en los senos paranasales sugieren sinusitis, lo que requiere la suspensión temporal de la nutrición y una evaluación especializada."
+    },
+    {
+        "enunciado": "En pacientes con infecciones recurrentes del estoma, ¿qué acción preventiva es clave además de la higiene estricta?",
+        "opciones": [
+            "Revisar la adecuada fijación y movilidad de la sonda diariamente",
+            "Usar fórmulas exclusivamente líquidas",
+            "Cambiar el tipo de sonda cada 48 horas",
+            "Aplicar antibióticos tópicos de forma rutinaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La fijación y movilidad diaria de la sonda reducen el riesgo de irritación y colonización bacteriana en el área del estoma."
+    },
+    {
+        "enunciado": "En pacientes con neumonía por aspiración secundaria a nutrición enteral, ¿qué cambio en la técnica de administración puede ser más efectivo?",
+        "opciones": [
+            "Reducir el volumen total administrado",
+            "Cambiar a infusión yeyunal continua",
+            "Administrar las fórmulas en bolos de mayor volumen",
+            "Incrementar la densidad calórica de las fórmulas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La infusión yeyunal continua evita el paso del contenido gástrico hacia las vías respiratorias, reduciendo el riesgo de neumonía por aspiración."
+    },
+    {
+        "enunciado": "En un paciente que utiliza una sonda PEG, ¿cuál es una señal de alarma que indica infección grave en el estoma?",
+        "opciones": [
+            "Aumento de secreción serosa clara",
+            "Dolor leve durante la limpieza diaria",
+            "Presencia de eritema extenso con exudado purulento",
+            "Enrojecimiento leve alrededor del estoma"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El eritema extenso con exudado purulento es una señal de infección grave que requiere intervención inmediata para evitar complicaciones sistémicas."
+    },
+    {
+        "enunciado": "¿Qué medida es esencial para minimizar el riesgo de contaminación bacteriana durante la preparación de fórmulas enterales?",
+        "opciones": [
+            "Usar guantes estériles durante toda la preparación",
+            "Calentar las fórmulas a más de 30 ºC antes de administrarlas",
+            "Preparar las fórmulas en grandes cantidades para varios días",
+            "Diluir las fórmulas con agua del grifo previamente hervida"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El uso de guantes estériles minimiza el riesgo de contaminación bacteriana durante la preparación de las fórmulas enterales."
+    },
+    {
+        "enunciado": "En un paciente con nutrición enteral que desarrolla fiebre de origen desconocido, ¿qué diagnóstico diferencial debe considerarse prioritario?",
+        "opciones": [
+            "Sinusitis bacteriana secundaria",
+            "Distensión abdominal severa",
+            "Intolerancia a la fórmula administrada",
+            "Irritación gástrica por fórmulas hiperosmolares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La sinusitis bacteriana secundaria al uso de sondas nasoenterales debe considerarse como una causa potencial de fiebre en estos pacientes."
+    },
+    {
+        "enunciado": "En el caso de una infección en el estoma, ¿qué intervención es necesaria si se sospecha un absceso subyacente?",
+        "opciones": [
+            "Administrar antibióticos orales de amplio espectro",
+            "Aplicar compresas frías en el área afectada",
+            "Suspender la nutrición enteral y realizar drenaje quirúrgico",
+            "Incrementar la limpieza diaria del estoma con soluciones antisépticas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "Un absceso subyacente requiere drenaje quirúrgico y suspensión temporal de la nutrición para prevenir la diseminación de la infección."
+    },
+    {
+        "enunciado": "Para prevenir otitis media en pacientes con sonda nasoenteral, ¿cuál de estas prácticas es más eficaz?",
+        "opciones": [
+            "Cambiar la sonda cada 24 horas",
+            "Mantener la cabecera de la cama a 30 grados durante la administración",
+            "Utilizar sondas de menor calibre y mayor flexibilidad",
+            "Incrementar la viscosidad de las fórmulas enterales"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "El uso de sondas más flexibles y de menor calibre reduce la presión sobre las estructuras nasales, disminuyendo el riesgo de otitis media."
+    },
+    {
+        "enunciado": "En un paciente que presenta neumonía por aspiración, ¿qué ajuste nutricional puede ser más efectivo para prevenir episodios futuros?",
+        "opciones": [
+            "Reducir la frecuencia de las tomas diarias",
+            "Utilizar fórmulas isotónicas en lugar de hiperosmolares",
+            "Cambiar a nutrición enteral yeyunal continua",
+            "Incrementar el volumen de cada toma para reducir el tiempo de administración"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_infecciosas"
+        ],
+        "feedback": "La administración yeyunal continua evita la acumulación gástrica y reduce significativamente el riesgo de aspiración en pacientes vulnerables."
+    },
+    {
+        "enunciado": "En un paciente con nutrición enteral que presenta náuseas y vómitos recurrentes, ¿cuál es la intervención inicial más recomendada?",
+        "opciones": [
+            "Aumentar la velocidad de infusión para vaciar el estómago más rápidamente",
+            "Mantener al paciente en posición de decúbito supino durante la administración",
+            "Reducir el ritmo de infusión o administrar la fórmula mediante una bomba de perfusión",
+            "Cambiar a una fórmula con mayor densidad calórica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Reducir el ritmo de infusión o administrar la fórmula mediante una bomba de perfusión disminuye la sobrecarga gástrica y reduce el riesgo de náuseas y vómitos."
+    },
+    {
+        "enunciado": "¿Qué complicación puede producirse en un paciente con nutrición enteral si se administra una fórmula hiperosmolar sin ajuste adecuado?",
+        "opciones": [
+            "Distensión abdominal",
+            "Estreñimiento severo",
+            "Diarrea osmótica",
+            "Aumento de la absorción de nutrientes"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Las fórmulas hiperosmolares pueden causar diarrea osmótica al atraer agua hacia el lumen intestinal, lo que requiere ajustar la osmolaridad de la fórmula."
+    },
+    {
+        "enunciado": "En un paciente encamado que desarrolla estreñimiento severo, ¿cuál es una de las causas más probables?",
+        "opciones": [
+            "Exceso de grasas en la fórmula",
+            "Falta de fibra en la dieta y baja movilidad",
+            "Infusión rápida de la fórmula",
+            "Presencia de lactosa en la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "El estreñimiento en pacientes encamados suele estar relacionado con la falta de fibra en la dieta y la ausencia de movilidad, lo que requiere ajustes nutricionales y fomentar la deambulación si es posible."
+    },
+    {
+        "enunciado": "¿Qué técnica de administración es más adecuada para un paciente con gastroparesia diabética y retraso en el vaciamiento gástrico?",
+        "opciones": [
+            "Administración por bolos intermitentes",
+            "Infusión continua a nivel duodenal o yeyunal",
+            "Uso exclusivo de fórmulas hipercalóricas",
+            "Incrementar la velocidad de infusión intragástrica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La infusión continua a nivel duodenal o yeyunal evita el estómago, favoreciendo la tolerancia en pacientes con gastroparesia o retraso del vaciamiento gástrico."
+    },
+    {
+        "enunciado": "En el contexto de diarrea persistente en un paciente con nutrición enteral, ¿qué factor debe ser investigado prioritariamente?",
+        "opciones": [
+            "La posible contaminación de la fórmula administrada",
+            "El uso de sonda de menor calibre",
+            "El nivel de hidratación del paciente",
+            "La densidad proteica de la fórmula"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La contaminación de la fórmula es una causa común de diarrea persistente y debe investigarse para garantizar la seguridad de la administración nutricional."
+    },
+    {
+        "enunciado": "¿Qué intervención es adecuada para un paciente con distensión abdominal secundaria a nutrición enteral?",
+        "opciones": [
+            "Reducir el contenido de fibra en la fórmula",
+            "Utilizar infusión continua con bomba en lugar de bolos",
+            "Aumentar la osmolaridad de la fórmula administrada",
+            "Incrementar la velocidad de infusión para acelerar el vaciado"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La infusión continua con bomba permite un suministro gradual de nutrientes, reduciendo la probabilidad de distensión abdominal."
+    },
+    {
+        "enunciado": "En un paciente con estreñimiento persistente durante la nutrición enteral, ¿qué ajuste en la fórmula podría ser más eficaz?",
+        "opciones": [
+            "Aumentar la proporción de lípidos en la fórmula",
+            "Incluir fibra soluble en la dieta administrada",
+            "Reducir el volumen de líquidos suministrados",
+            "Utilizar una fórmula sin contenido proteico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La inclusión de fibra soluble ayuda a mejorar el tránsito intestinal y es efectiva para manejar el estreñimiento en pacientes con nutrición enteral."
+    },
+    {
+        "enunciado": "En un paciente con diarrea asociada al uso de antibióticos durante la nutrición enteral, ¿qué medida podría ser útil para mejorar los síntomas?",
+        "opciones": [
+            "Reducir la cantidad de lípidos en la fórmula",
+            "Administrar probióticos junto con la nutrición enteral",
+            "Incrementar el contenido de lactosa en la dieta",
+            "Suspender la nutrición enteral temporalmente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "El uso de probióticos puede restaurar el equilibrio de la microbiota intestinal y ayudar a reducir la diarrea causada por antibióticos."
+    },
+    {
+        "enunciado": "Si un paciente presenta náuseas y vómitos inmediatamente después de iniciar la nutrición enteral, ¿qué causa debe considerarse primero?",
+        "opciones": [
+            "Contaminación de la fórmula",
+            "Ritmo de infusión demasiado rápido",
+            "Deficiencia de micronutrientes esenciales",
+            "Hipoalbuminemia severa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "El inicio de la nutrición con un ritmo de infusión rápido puede provocar náuseas y vómitos debido a la sobrecarga gástrica, por lo que debe ajustarse la velocidad."
+    },
+    {
+        "enunciado": "En un paciente que desarrolla distensión abdominal severa durante la nutrición enteral, ¿qué intervención es más adecuada?",
+        "opciones": [
+            "Administrar procinéticos para mejorar el tránsito gastrointestinal",
+            "Suspender la nutrición enteral inmediatamente",
+            "Cambiar a una fórmula con mayor contenido calórico",
+            "Incrementar la velocidad de la infusión continua"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La administración de procinéticos puede mejorar la motilidad intestinal y aliviar la distensión abdominal en pacientes con nutrición enteral."
+    },
+    {
+        "enunciado": "En un paciente con gastroparesia que desarrolla retraso severo en el vaciamiento gástrico, ¿qué combinación de intervenciones sería más eficaz?",
+        "opciones": [
+            "Aumentar el contenido de fibra insoluble y administrar procinéticos",
+            "Reducir la densidad calórica de la fórmula y cambiar a infusión duodenal o yeyunal",
+            "Administrar fórmulas hiperosmolares en bolos y aumentar la hidratación",
+            "Suspender la nutrición enteral y administrar sólo líquidos claros"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "En casos de gastroparesia severa, la infusión más distal (duodenal o yeyunal) combinada con fórmulas menos densas ayuda a evitar la acumulación gástrica y mejora la tolerancia."
+    },
+    {
+        "enunciado": "Si un paciente con nutrición enteral presenta diarrea resistente a los ajustes de fórmula, ¿cuál sería una causa subyacente que debe ser investigada?",
+        "opciones": [
+            "Hipoalbuminemia y atrofia vellositaria",
+            "Exceso de fibra en la fórmula administrada",
+            "Contaminación bacteriana de la fórmula",
+            "Presencia de residuos gástricos elevados"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La hipoalbuminemia y la atrofia vellositaria pueden contribuir a la diarrea persistente al alterar la capacidad del intestino para manejar el contenido de la fórmula."
+    },
+    {
+        "enunciado": "En un paciente que experimenta estreñimiento grave durante la nutrición enteral, ¿cuál de las siguientes medidas sería más efectiva si la fibra y la hidratación ya están optimizadas?",
+        "opciones": [
+            "Cambiar a una fórmula rica en triglicéridos de cadena media (MCT)",
+            "Administrar procinéticos para mejorar la motilidad intestinal",
+            "Aumentar la densidad calórica de la fórmula",
+            "Disminuir el volumen total de líquidos administrados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Si las intervenciones dietéticas no son suficientes, el uso de procinéticos puede estimular la motilidad intestinal, ayudando a aliviar el estreñimiento grave."
+    },
+    {
+        "enunciado": "¿Qué ajuste específico en la fórmula podría ser más eficaz para un paciente con diarrea crónica causada por atrofia vellositaria?",
+        "opciones": [
+            "Reducir el contenido de grasas y lactosa en la fórmula",
+            "Aumentar la proporción de lípidos en la fórmula",
+            "Administrar fórmulas hiperosmolares para aumentar la absorción",
+            "Incrementar la cantidad de fibra insoluble"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Reducir las grasas y lactosa en la fórmula disminuye la carga sobre la mucosa intestinal dañada, mejorando los síntomas asociados a la atrofia vellositaria."
+    },
+    {
+        "enunciado": "Un paciente con nutrición enteral presenta distensión abdominal severa y sospecha de íleo. ¿Cuál sería la intervención inicial más adecuada?",
+        "opciones": [
+            "Cambiar la fórmula a una variante hipocalórica",
+            "Suspender la nutrición enteral y administrar líquidos intravenosos",
+            "Reducir la velocidad de infusión de la fórmula actual",
+            "Introducir fibra insoluble para aumentar la motilidad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "En caso de íleo sospechado, la nutrición enteral debe suspenderse y administrarse líquidos intravenosos hasta que se evalúe y resuelva la causa subyacente."
+    },
+    {
+        "enunciado": "En un paciente con diarrea persistente y uso reciente de antibióticos, ¿cuál es una causa que debe investigarse cuidadosamente?",
+        "opciones": [
+            "Hiperactividad gástrica secundaria al antibiótico",
+            "Infección por Clostridium difficile",
+            "Aumento en la retención de líquidos intracelulares",
+            "Reacciones alérgicas a la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "El uso reciente de antibióticos puede alterar la microbiota intestinal y predisponer al paciente a infecciones como Clostridium difficile, una causa común de diarrea severa."
+    },
+    {
+        "enunciado": "Si un paciente desarrolla náuseas severas debido a una fórmula enteral rica en grasas, ¿qué intervención podría ser más útil?",
+        "opciones": [
+            "Diluir la fórmula actual con agua estéril",
+            "Cambiar a una fórmula con mayor contenido de triglicéridos de cadena media (MCT)",
+            "Aumentar el ritmo de infusión para acelerar el vaciado gástrico",
+            "Reducir el contenido calórico total de la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Los triglicéridos de cadena media (MCT) se digieren y absorben más fácilmente que otras grasas, reduciendo el malestar en pacientes sensibles."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral y antecedentes de vagotomía quirúrgica, ¿qué ajuste es más apropiado para prevenir el retraso del vaciamiento gástrico?",
+        "opciones": [
+            "Utilizar fórmulas hiperosmolares en pequeñas dosis",
+            "Administrar la fórmula a nivel yeyunal mediante infusión continua",
+            "Aumentar el aporte calórico diario para compensar las pérdidas",
+            "Reducir el contenido de proteínas en la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La administración a nivel yeyunal por infusión continua evita el estómago, donde el vaciamiento puede estar comprometido por una vagotomía previa."
+    },
+    {
+        "enunciado": "Un paciente con nutrición enteral presenta diarrea severa y hipoalbuminemia. ¿Qué enfoque nutricional sería más efectivo?",
+        "opciones": [
+            "Incrementar la densidad calórica y osmolaridad de la fórmula",
+            "Cambiar a una fórmula isotónica con mayor contenido de proteínas",
+            "Reducir el volumen total administrado diariamente",
+            "Administrar únicamente líquidos claros por vía enteral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Una fórmula isotónica con mayor contenido de proteínas puede ayudar a manejar tanto la diarrea como la hipoalbuminemia al mejorar el equilibrio nutricional del paciente."
+    },
+    {
+        "enunciado": "En un paciente con distensión abdominal persistente asociada a nutrición enteral, ¿qué diagnóstico diferencial debe considerarse si las intervenciones habituales no son efectivas?",
+        "opciones": [
+            "Gastroparesia secundaria a medicación",
+            "Íleo paralítico asociado a patología de base",
+            "Infección bacteriana en la sonda enteral",
+            "Malabsorción de carbohidratos simples"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "El íleo paralítico puede ser una causa subyacente de distensión abdominal persistente y debe ser investigado en pacientes que no responden a ajustes habituales en la nutrición enteral."
+    },
+    {
+        "enunciado": "En un paciente con nutrición enteral que desarrolla diarrea inmediatamente después de un cambio de fórmula, ¿qué aspecto de la nueva fórmula debe evaluarse primero?",
+        "opciones": [
+            "Contenido en lactosa y osmolaridad",
+            "Proporción de proteínas y aminoácidos",
+            "Concentración de vitaminas liposolubles",
+            "Volumen total recomendado por toma"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La presencia de lactosa y una osmolaridad elevada son causas comunes de diarrea cuando se introduce una nueva fórmula, especialmente en pacientes con sensibilidad intestinal."
+    },
+    {
+        "enunciado": "En pacientes con retraso en el vaciamiento gástrico y alto riesgo de aspiración, ¿qué intervención es más adecuada para optimizar la nutrición?",
+        "opciones": [
+            "Reducir el contenido de grasas en la fórmula",
+            "Cambiar a nutrición parenteral total",
+            "Utilizar una infusión yeyunal continua",
+            "Incrementar el ritmo de infusión intragástrica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La infusión yeyunal continua permite evitar el estómago y reducir los riesgos asociados al retraso en el vaciamiento gástrico, como la aspiración."
+    },
+    {
+        "enunciado": "Un paciente con encamamiento prolongado presenta estreñimiento persistente a pesar del uso de fibra soluble. ¿Qué intervención adicional sería más efectiva?",
+        "opciones": [
+            "Aumentar la hidratación y fomentar la movilización asistida",
+            "Reducir el volumen total de la fórmula administrada",
+            "Cambiar a una fórmula sin fibra para evitar obstrucciones",
+            "Administrar antiácidos para aliviar el estreñimiento"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La hidratación adecuada y la movilización, incluso asistida, son fundamentales para mejorar el tránsito intestinal en pacientes con encamamiento prolongado."
+    },
+    {
+        "enunciado": "En un paciente con distensión abdominal persistente, ¿cuál de estas pruebas diagnósticas debería realizarse para confirmar la presencia de un íleo?",
+        "opciones": [
+            "Radiografía abdominal simple",
+            "Aspiración de residuos gástricos con sonda",
+            "Análisis de gases arteriales",
+            "Prueba de tolerancia a la fórmula actual"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La radiografía abdominal simple es una herramienta diagnóstica clave para identificar íleo y determinar su gravedad."
+    },
+    {
+        "enunciado": "En pacientes con nutrición enteral, ¿qué intervención es crucial para prevenir diarrea asociada a la contaminación bacteriana de la fórmula?",
+        "opciones": [
+            "Cambiar los sistemas de infusión cada 48 horas",
+            "Refrigerar las fórmulas abiertas y mantener estrictas medidas de asepsia",
+            "Diluir las fórmulas con agua hervida",
+            "Reducir el contenido calórico de la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Refrigerar las fórmulas abiertas y seguir estrictas medidas de asepsia al manipularlas previene la proliferación bacteriana y el riesgo de diarrea."
+    },
+    {
+        "enunciado": "En un paciente que desarrolla distensión abdominal severa tras iniciar nutrición enteral, ¿qué fórmula sería más apropiada para reducir los síntomas?",
+        "opciones": [
+            "Fórmula rica en fibra insoluble y grasas",
+            "Fórmula isotónica con bajo contenido de grasas",
+            "Fórmula hiperosmolar con alto contenido calórico",
+            "Fórmula exclusiva de proteínas hidrolizadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Una fórmula isotónica con bajo contenido de grasas reduce la carga digestiva y la distensión abdominal en pacientes con sensibilidad gástrica."
+    },
+    {
+        "enunciado": "En un paciente con diarrea severa secundaria a antibióticos, ¿qué intervención nutricional debería considerarse prioritariamente?",
+        "opciones": [
+            "Reducir la densidad calórica de la fórmula",
+            "Agregar fibra soluble y administrar probióticos",
+            "Interrumpir la nutrición enteral y cambiar a parenteral",
+            "Incrementar el contenido de grasas en la fórmula"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La fibra soluble y los probióticos pueden restaurar la función intestinal alterada por los antibióticos y reducir los episodios de diarrea severa."
+    },
+    {
+        "enunciado": "En un paciente con estreñimiento persistente y sospecha de obstrucción intestinal, ¿cuál es la acción inmediata más adecuada?",
+        "opciones": [
+            "Aumentar la hidratación y administrar laxantes",
+            "Suspender la nutrición enteral y realizar estudios de imagen",
+            "Reducir la densidad calórica de la fórmula",
+            "Iniciar procinéticos para mejorar el tránsito intestinal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "Ante sospecha de obstrucción intestinal, se debe suspender la nutrición y realizar estudios de imagen para confirmar el diagnóstico antes de proceder con el tratamiento."
+    },
+    {
+        "enunciado": "En un paciente con retraso en el vaciamiento gástrico que no responde a procinéticos, ¿cuál es la siguiente mejor intervención?",
+        "opciones": [
+            "Incrementar el contenido de proteínas en la fórmula",
+            "Cambiar a infusión yeyunal continua mediante bomba",
+            "Administrar antieméticos para controlar los síntomas",
+            "Utilizar fórmulas hiperosmolares en bolos pequeños"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La infusión yeyunal continua mediante bomba evita el estómago y mejora la tolerancia en casos de vaciamiento gástrico severamente comprometido."
+    },
+    {
+        "enunciado": "Si un paciente desarrolla diarrea severa con una fórmula isotónica, ¿qué causa menos evidente debe investigarse?",
+        "opciones": [
+            "Intolerancia a un componente específico de la fórmula",
+            "Hipoalbuminemia subyacente",
+            "Velocidad de infusión demasiado lenta",
+            "Falta de fibra insoluble en la dieta"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "cuidados_nutricionales",
+            "complicaciones_gastrointestinales"
+        ],
+        "feedback": "La hipoalbuminemia puede alterar la función intestinal y contribuir a la diarrea incluso cuando se utilizan fórmulas isotónicas."
     }
+        
+    
 ]
