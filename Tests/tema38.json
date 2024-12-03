@@ -4158,7 +4158,213 @@
             "complicaciones_gastrointestinales"
         ],
         "feedback": "La hipoalbuminemia puede alterar la función intestinal y contribuir a la diarrea incluso cuando se utilizan fórmulas isotónicas."
+    },
+    {
+        "enunciado": "¿Qué categoría de estado nutricional se asigna a un paciente que obtiene una puntuación total de 12 en el Mini Nutritional Assessment (MNA)?",
+        "opciones": [
+            "Desnutrición severa",
+            "En riesgo de desnutrición",
+            "Estado nutricional normal",
+            "Desnutrición moderada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "En el MNA, una puntuación entre 12 y 14 corresponde a un estado nutricional normal, 8 a 11 indica riesgo de desnutrición y menos de 8 sugiere desnutrición establecida. Una puntuación de 12 indica que el paciente está en riesgo, lo que requiere intervención para prevenir el deterioro."
+    },
+    {
+        "enunciado": "Si un paciente obtiene una puntuación total de 6 en el MNA, ¿qué categoría describe mejor su estado nutricional?",
+        "opciones": [
+            "En riesgo de desnutrición",
+            "Estado nutricional normal",
+            "Desnutrición severa",
+            "Desnutrición moderada"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Un puntaje menor de 8 en el MNA indica desnutrición. En este caso, el paciente requiere atención nutricional urgente. El MNA clasifica el estado nutricional como normal (12-14 puntos), en riesgo (8-11 puntos), o desnutrido (<8 puntos)."
+    },
+    {
+        "enunciado": "¿Qué se recomienda cuando un paciente obtiene entre 8 y 11 puntos en el MNA?",
+        "opciones": [
+            "Intervención inmediata con soporte nutricional especializado",
+            "Monitoreo periódico y medidas preventivas de desnutrición",
+            "Confirmar el diagnóstico con una evaluación antropométrica detallada",
+            "Administración de suplementos de alta densidad calórica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "El rango de 8 a 11 puntos en el MNA indica riesgo de desnutrición. Se recomienda monitoreo regular y medidas preventivas para evitar que el paciente desarrolle desnutrición severa. El MNA clasifica a los pacientes en estado nutricional normal (12-14), en riesgo (8-11), o desnutridos (<8)."
+    },
+    {
+        "enunciado": "Si un paciente alcanza una puntuación de 13 en el MNA, ¿cuál sería la recomendación más adecuada?",
+        "opciones": [
+            "Continuar con la dieta habitual y realizar evaluaciones periódicas",
+            "Iniciar un plan de soporte nutricional de alta densidad calórica",
+            "Implementar modificaciones dietéticas agresivas",
+            "Monitorizar el peso corporal cada semana"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Una puntuación de 13 indica estado nutricional normal. En este caso, se sugiere mantener la dieta habitual y realizar evaluaciones periódicas para garantizar que el paciente no entre en riesgo. El MNA clasifica los estados como normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "Un paciente con una puntuación de 7 en el MNA requiere:",
+        "opciones": [
+            "Monitoreo estándar y evaluación semestral",
+            "Intervención nutricional inmediata para tratar la desnutrición",
+            "Seguimiento regular sin necesidad de cambios significativos",
+            "Revisión de la dieta y prescripción de ejercicios físicos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Una puntuación de 7 indica desnutrición. En este rango (<8), se necesita una intervención nutricional inmediata para mejorar el estado nutricional. Los pacientes con 8-11 puntos están en riesgo, y los que tienen 12-14 puntos están en estado nutricional normal."
+    },
+    {
+        "enunciado": "¿Cuál sería la clasificación de un paciente con una puntuación total de 14 en el MNA?",
+        "opciones": [
+            "Estado nutricional normal",
+            "En riesgo de desnutrición",
+            "Desnutrición leve",
+            "Desnutrición severa"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Una puntuación de 14 en el MNA representa el mejor resultado posible, indicando un estado nutricional normal. Esto significa que el paciente no presenta signos de riesgo ni desnutrición. El MNA clasifica los estados como normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "Un paciente con 10 puntos en el MNA, pero con pérdida de peso reciente, ¿en qué categoría se encuentra?",
+        "opciones": [
+            "Desnutrición severa",
+            "En riesgo de desnutrición",
+            "Estado nutricional normal",
+            "Desnutrición moderada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Una puntuación de 10 en el MNA indica que el paciente está en riesgo de desnutrición. Si se combina con pérdida de peso, requiere atención para evitar progresar hacia desnutrición severa. Los estados son clasificados como normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "¿Qué seguimiento es más adecuado para un paciente con 8 puntos en el MNA?",
+        "opciones": [
+            "Reevaluación trimestral con intervención nutricional preventiva",
+            "Evaluación semestral sin modificaciones en el plan de dieta",
+            "Iniciar soporte nutricional inmediato por desnutrición severa",
+            "Cambiar a una fórmula nutricional enteral de forma rutinaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Con 8 puntos, el paciente está al límite entre desnutrición y riesgo. La reevaluación trimestral y las intervenciones preventivas son claves para evitar deterioro. El MNA clasifica como normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "Un paciente con puntuación MNA <8 recibe la categoría de desnutrición. ¿Qué intervención inicial es más recomendable?",
+        "opciones": [
+            "Iniciar soporte nutricional especializado y reevaluar mensualmente",
+            "Reducir el aporte calórico para evitar complicaciones metabólicas",
+            "Continuar con dieta habitual y realizar seguimiento anual",
+            "Prescribir un plan de ejercicios para mejorar el apetito"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Con puntuación <8, el MNA clasifica al paciente como desnutrido. Es fundamental iniciar un soporte nutricional especializado y realizar reevaluaciones frecuentes. Las categorías incluyen normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "Si un paciente tiene una puntuación de 9 en el MNA, ¿qué aspectos adicionales deberían evaluarse para prevenir la progresión a desnutrición severa?",
+        "opciones": [
+            "Pérdida reciente de peso, apetito y movilidad",
+            "Calidad del sueño y niveles de actividad física",
+            "Cantidad de ingesta hídrica diaria",
+            "Presencia de patologías respiratorias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Con 9 puntos, el paciente está en riesgo de desnutrición. Es crucial evaluar factores como pérdida de peso, apetito y movilidad, ya que estos impactan directamente en su estado nutricional. Las categorías MNA son normal (12-14), en riesgo (8-11) y desnutrido (<8)."
+    },
+    {
+        "enunciado": "Un paciente con puntuación total de 11 en el MNA debe ser considerado:",
+        "opciones": [
+            "En riesgo de desnutrición, con necesidad de intervención preventiva",
+            "Con estado nutricional normal, sin necesidad de cambios",
+            "Con desnutrición severa, que requiere intervención inmediata",
+            "En estado de salud ideal, sin necesidad de seguimiento"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Una puntuación de 11 en el MNA indica riesgo de desnutrición. Esto requiere monitoreo y medidas preventivas para evitar que el paciente caiga en desnutrición severa. Clasificaciones: normal (12-14), en riesgo (8-11), desnutrido (<8)."
+    },
+    {
+        "enunciado": "¿Qué importancia tiene la puntuación total en el MNA para planificar intervenciones nutricionales?",
+        "opciones": [
+            "Determina únicamente el riesgo de complicaciones metabólicas",
+            "Clasifica al paciente y orienta la intensidad del soporte nutricional requerido",
+            "Evalúa exclusivamente el peso y el apetito del paciente",
+            "Predice la supervivencia a largo plazo sin considerar otros factores"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "La puntuación total en el MNA clasifica al paciente en normal, en riesgo o desnutrido, guiando la planificación de intervenciones nutricionales desde preventivas hasta intensivas según el puntaje."
+    },
+    {
+        "enunciado": "Si un paciente con 12 puntos en el MNA comienza a perder peso, ¿qué acción es más apropiada?",
+        "opciones": [
+            "Reevaluar su estado nutricional para confirmar riesgo emergente",
+            "Continuar con la dieta habitual sin cambios",
+            "Implementar un plan de soporte nutricional especializado de inmediato",
+            "Suspender la monitorización y evaluar solo si aparecen nuevos síntomas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema38",
+            "evaluación_nutricional",
+            "MNA"
+        ],
+        "feedback": "Aunque 12 puntos indican estado nutricional normal, la pérdida de peso reciente puede ser un signo temprano de riesgo. La reevaluación oportuna previene progresión a desnutrición. Clasificaciones: normal (12-14), en riesgo (8-11), desnutrido (<8)."
     }
-        
-    
 ]
