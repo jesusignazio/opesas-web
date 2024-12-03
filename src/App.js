@@ -85,7 +85,7 @@ function App() {
             { title: '56: Promoción de la salud sexual y planificación familiar', archivo: 'tema56.json', bloque: 3 }
         ],
         '4: Cuidados de enfermería': [
-            { title: '38: Cuidados a personas con alteraciones nutricionales', archivo: 'tema38.json', bloque: 4 },
+            { title: '•38: Cuidados a personas con alteraciones nutricionales', archivo: 'tema38.json', bloque: 4 },
             { title: '39: Ansiedad, depresión y trastornos de conducta', archivo: 'tema39.json', bloque: 4 },
             { title: '40: Trastorno mental grave y atención familiar', archivo: 'tema40.json', bloque: 4 },
             { title: '57: Cuidados a personas con enfermedades infecciosas', archivo: 'tema57.json', bloque: 4 },
