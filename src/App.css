@@ -220,7 +220,7 @@
   }
 
   .feedback {
-    font-size: 0.8rem !important;
+    font-size: 1.2rem !important;
     /* Feedback ligeramente más grande */
   }
 }
@@ -260,7 +260,7 @@
     border: 1px solid #ccc;
     box-sizing: border-box;
     width: 100%;
-    font-size: 0.7rem; /* Tamaño reducido */
+    font-size: 1rem; /* Tamaño reducido */
     color: #333; /* Color legible */
 }
 }

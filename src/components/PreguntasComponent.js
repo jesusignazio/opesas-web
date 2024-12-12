@@ -15,10 +15,13 @@ function PreguntasComponent({ preguntas, titulo }) {
 
     const mostrarPreguntaAleatoria = () => {
         const indiceAleatorio = Math.floor(Math.random() * preguntas.length);
-        setPreguntaActual(preguntas[indiceAleatorio]);
+        const preguntaSeleccionada = preguntas[indiceAleatorio];
+        //preguntaSeleccionada.shuffle(); // Baraja las opciones antes de establecer la pregunta actual
+        setPreguntaActual(preguntaSeleccionada); // Actualiza la pregunta actual
         setSeleccion(null); // Reinicia la selección
         setRevelada(false); // Oculta la respuesta y el feedback
     };
+    
 
     const manejarSeleccion = (indice) => {
         setSeleccion(indice);

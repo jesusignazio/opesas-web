@@ -21,4 +21,22 @@ class Pregunta {
     obtenerCategorias() {
         return this.categorias.join(', ');
     }
+
+    // Método para barajar las opciones manteniendo la respuesta correcta
+    shuffle() {
+        const opcionesConIndices = this.opciones.map((opcion, index) => ({
+            opcion,
+            index,
+        }));
+
+        // Barajar el array usando Fisher-Yates Shuffle
+        for (let i = opcionesConIndices.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [opcionesConIndices[i], opcionesConIndices[j]] = [opcionesConIndices[j], opcionesConIndices[i]];
+        }
+
+        // Actualizar opciones y el índice de la respuesta correcta
+        this.opciones = opcionesConIndices.map(item => item.opcion);
+        this.correcta = opcionesConIndices.findIndex(item => item.index === this.correcta);
+    }
 }
