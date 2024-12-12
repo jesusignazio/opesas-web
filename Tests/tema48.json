@@ -6334,6 +6334,91 @@
         "correcta": 1,
         "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
         "feedback": "Un resultado dudoso en la prueba del talón requiere una nueva extracción de sangre para confirmar o descartar el diagnóstico. Este procedimiento permite evitar falsos positivos y garantizar un diagnóstico preciso."
+      },
+      {
+        "enunciado": "¿Qué técnica se utiliza en la prueba del talón para el cribado neonatal de enfermedades endocrino-metabólicas?",
+        "opciones": [
+          "Fluoroinmunoensayo",
+          "Espectrometría de masas en tándem",
+          "Electroforesis capilar",
+          "Secuenciación genómica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "La espectrometría de masas en tándem es una técnica avanzada que permite la detección simultánea de múltiples metabolitos alterados. Es clave en el cribado neonatal para identificar enfermedades como fenilcetonuria, defectos de la beta-oxidación y acidurias orgánicas con alta sensibilidad y especificidad."
+      },
+      {
+        "enunciado": "¿Cuál es el momento adecuado para realizar la prueba del talón en recién nacidos?",
+        "opciones": [
+          "El primer día de vida",
+          "Entre las 48 y 72 horas de vida",
+          "Al quinto día de vida",
+          "A las dos semanas de vida"
+        ],
+        "correcta": 1,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "La prueba del talón se realiza idealmente entre las 48 y 72 horas de vida para garantizar la detección temprana de metabolitos alterados tras el inicio de la alimentación proteica del recién nacido."
+      },
+      {
+        "enunciado": "¿Por qué se recomienda calentar el pie del recién nacido antes de tomar la muestra para la prueba del talón?",
+        "opciones": [
+          "Para reducir la sensibilidad al dolor",
+          "Para mejorar la circulación sanguínea en la zona",
+          "Para evitar la contaminación de la muestra",
+          "Para facilitar el uso del dispositivo de punción"
+        ],
+        "correcta": 1,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "Calentar el pie del recién nacido mejora la circulación sanguínea, lo que facilita obtener una muestra adecuada de sangre para el cribado neonatal sin necesidad de repetir la punción."
+      },
+      {
+        "enunciado": "¿Qué cuidados deben tenerse al manipular la muestra de sangre obtenida para la prueba del talón?",
+        "opciones": [
+          "Evitar sobreimpregnar el papel de filtro",
+          "Secar la muestra en un ambiente ventilado",
+          "Asegurarse de llenar todos los círculos del papel con una gota grande de sangre",
+          "Todas las anteriores"
+        ],
+        "correcta": 3,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "Para garantizar la calidad de la muestra, es crucial no sobreimpregnar el papel de filtro, secar la muestra correctamente y cubrir los círculos del papel con una cantidad adecuada de sangre. Esto evita repeticiones y retrasos en el diagnóstico."
+      },
+      {
+        "enunciado": "¿Qué enfermedades se incluyen en el cribado neonatal mediante la prueba del talón?",
+        "opciones": [
+          "Hipotiroidismo congénito, fibrosis quística, fenilcetonuria y acidurias orgánicas",
+          "Hipotiroidismo congénito, anemia falciforme, talasemia y fenilcetonuria",
+          "Fibrosis quística, diabetes neonatal, galactosemia y acidurias orgánicas",
+          "Tirosinemia, leucemia neonatal, homocistinuria y hipotiroidismo congénito"
+        ],
+        "correcta": 0,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "El cribado neonatal mediante la prueba del talón incluye enfermedades como el hipotiroidismo congénito, fibrosis quística, fenilcetonuria y varios tipos de acidurias orgánicas, todas con potenciales consecuencias graves si no se tratan a tiempo."
+      },
+      {
+        "enunciado": "¿Qué pasos son esenciales para realizar la prueba del talón correctamente?",
+        "opciones": [
+          "Calentar el pie, limpiar la zona con alcohol estéril, usar un dispositivo de punción específico y secar la muestra adecuadamente",
+          "Colocar el pie por encima del nivel del corazón, usar desinfectantes yodados, llenar un círculo con sangre y guardar inmediatamente la muestra en el sobre",
+          "Aplicar presión en el talón, recolectar sangre en una jeringa, llenarla en un tubo y enviarla al laboratorio",
+          "Usar cualquier tipo de aguja, secar la sangre con calor y colocar la muestra directamente en el sobre"
+        ],
+        "correcta": 0,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "Los pasos correctos incluyen calentar el pie del recién nacido, limpiar la zona con alcohol estéril (evitando desinfectantes yodados), usar un dispositivo de punción adecuado y secar la muestra de sangre antes de enviarla al laboratorio."
+      },
+      {
+        "enunciado": "¿Qué problemas pueden surgir si la muestra de la prueba del talón no se recoge correctamente?",
+        "opciones": [
+          "Resultados falsos positivos o negativos",
+          "Necesidad de repetir la punción en el recién nacido",
+          "Retrasos en el diagnóstico y la intervención",
+          "Todas las anteriores"
+        ],
+        "correcta": 3,
+        "categorías": ["tema48", "recien_nacido_sano", "pruebas_neonatales"],
+        "feedback": "La calidad de la muestra es fundamental. Una recogida inadecuada puede llevar a resultados imprecisos, repeticiones innecesarias y retrasos en el diagnóstico, afectando la oportunidad de intervención temprana."
       }
+      
       
 ]
