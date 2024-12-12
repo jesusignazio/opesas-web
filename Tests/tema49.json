@@ -1278,5 +1278,2261 @@
             "neumotórax"
         ],
         "feedback": "En casos de neumotórax con compromiso respiratorio severo, la colocación de un tubo de toracostomía para drenaje inmediato es la intervención más indicada para estabilizar al recién nacido."
-    }
+    },
+    {
+        "enunciado": "Según el Triángulo de Evaluación Pediátrica (TEP), ¿cuál es el criterio para clasificar a un recién nacido como inestable?",
+        "opciones": [
+          "Cuando presenta alteraciones en dos o más aspectos evaluados",
+          "Cuando presenta alteraciones en al menos un aspecto evaluado",
+          "Cuando todos los aspectos evaluados son normales",
+          "Cuando no se puede realizar una evaluación completa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "Un recién nacido se clasifica como inestable si presenta alteraciones en al menos uno de los tres aspectos evaluados por el Triángulo de Evaluación Pediátrica: aspecto general, respiración y circulación. Esto determina la necesidad de proceder a una evaluación sistemática detallada."
+      },
+      {
+        "enunciado": "¿Cuál es el rango de saturación de oxígeno considerado normal en un recién nacido según las pautas de evaluación primaria?",
+        "opciones": [
+          "Entre el 91% y el 95%",
+          "Entre el 95% y el 100%",
+          "Entre el 85% y el 90%",
+          "Entre el 90% y el 94%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_respiratoria"],
+        "feedback": "La saturación de oxígeno normal en un recién nacido debe encontrarse entre el 95% y el 100%. Cifras por debajo de este rango pueden indicar hipoxia, que requiere intervención médica inmediata."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal del paso 'B' en la evaluación ABCDE del recién nacido?",
+        "opciones": [
+          "Garantizar la permeabilidad de la vía aérea",
+          "Evaluar la respiración efectiva y la ventilación adecuada",
+          "Evaluar el estado cardiovascular y la perfusión",
+          "Detectar lesiones ocultas o signos de trauma"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "En la evaluación ABCDE, el paso 'B' se centra en la ventilación y la respiración, verificando la efectividad de la entrada y salida de aire, así como la oxigenación adecuada del recién nacido."
+      },
+      {
+        "enunciado": "¿Qué medida se debe tomar en un recién nacido con temperatura axilar inferior a 36,5 °C durante su traslado a la unidad neonatal?",
+        "opciones": [
+          "Administrar líquidos intravenosos tibios",
+          "Utilizar una incubadora portátil o fuente de calor adecuada",
+          "Iniciar ventilación asistida",
+          "Proporcionar leche materna tibia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "cuidados_transporte"],
+        "feedback": "Para prevenir la hipotermia, el recién nacido debe mantenerse a una temperatura axilar de 36,5–37 °C mediante el uso de una incubadora portátil o una fuente de calor adecuada durante el traslado."
+      },
+      {
+        "enunciado": "En la evaluación neurológica (D de ABCDE), ¿qué indicador se considera crítico para identificar posibles alteraciones?",
+        "opciones": [
+          "La simetría de los movimientos corporales",
+          "La frecuencia respiratoria",
+          "El estado de hidratación",
+          "La presencia de secreciones nasales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_neurologica"],
+        "feedback": "La simetría de los movimientos corporales y la ausencia de flacidez o convulsiones son indicadores clave en la evaluación neurológica de un recién nacido."
+      },
+      {
+        "enunciado": "En el contexto de un recién nacido de bajo peso, ¿qué característica clínica suele diferenciar a un CIR simétrico de uno asimétrico?",
+        "opciones": [
+          "La presencia de grasa subcutánea",
+          "El índice ponderal normal en el CIR simétrico",
+          "La cabeza proporcionalmente más grande en el CIR simétrico",
+          "La frecuencia de infecciones nosocomiales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El CIR simétrico presenta un retraso proporcional en peso, talla y perímetro craneal, con un índice ponderal normal, lo que indica una afectación más global y no necesariamente relacionada con malnutrición."
+      },
+      {
+        "enunciado": "¿Qué estrategia se considera fundamental para prevenir infecciones nosocomiales en recién nacidos prematuros?",
+        "opciones": [
+          "Evitar el uso de incubadoras",
+          "Limitar los procedimientos invasivos al mínimo necesario",
+          "Administrar antibióticos profilácticos de forma sistemática",
+          "Aumentar la frecuencia de manipulación del neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "Limitar los procedimientos invasivos y aplicar estrictas medidas de asepsia son estrategias esenciales para prevenir infecciones nosocomiales en recién nacidos prematuros."
+      },
+      {
+        "enunciado": "Según el Programa de Salud Infantil y Adolescente de Andalucía, ¿qué aspecto se destaca como fundamental para la promoción de la salud en la infancia?",
+        "opciones": [
+          "La detección temprana de enfermedades genéticas",
+          "La incorporación de tecnologías avanzadas en la atención sanitaria",
+          "El enfoque multidimensional y comunitario de la salud",
+          "El aumento de consultas médicas especializadas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "promocion_salud"],
+        "feedback": "El Programa de Salud Infantil y Adolescente de Andalucía enfatiza un enfoque comunitario y multidimensional que incluye promoción, educación sanitaria y prevención para garantizar un desarrollo saludable desde la infancia."
+      },
+      {
+        "enunciado": "¿Cuál es el límite de viabilidad neonatal según las directrices actuales para recién nacidos prematuros extremos?",
+        "opciones": [
+          "28 semanas y 1.000 gramos",
+          "24 semanas y 600 gramos",
+          "23 semanas y 500 gramos",
+          "25 semanas y 800 gramos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuridad"],
+        "feedback": "El límite de viabilidad neonatal se considera actualmente en 23-24 semanas de gestación y un peso al nacer de entre 500-600 gramos, con cuidados intensivos especializados."
+      },
+      {
+        "enunciado": "En el manejo de un neonato con hipoglucemia, ¿qué intervención inicial es más apropiada?",
+        "opciones": [
+          "Administrar oxigenoterapia de alto flujo",
+          "Proveer calor mediante incubadora",
+          "Suministrar glucosa intravenosa",
+          "Realizar una transfusión sanguínea"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "hipoglucemia"],
+        "feedback": "En casos de hipoglucemia neonatal, la administración de glucosa intravenosa es la intervención inicial recomendada para estabilizar los niveles de glucosa en sangre."
+      },
+      {
+        "enunciado": "En la prevención de infecciones prenatales, ¿qué medida es crucial durante el parto si existe sospecha de infección amniótica?",
+        "opciones": [
+          "Administrar profilaxis con antibióticos al neonato después del parto",
+          "Realizar cesárea de emergencia",
+          "Monitorizar únicamente los signos vitales del neonato",
+          "Tomar cultivos neonatales y comenzar antibióticos tempranamente"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "Ante la sospecha de infección amniótica, es esencial tomar cultivos neonatales y comenzar antibióticos para prevenir complicaciones graves en el recién nacido."
+      },
+      {
+        "enunciado": "¿Qué característica distingue clínicamente a un recién nacido prematuro extremo en comparación con otros grados de prematuridad?",
+        "opciones": [
+          "Macrocefalia con perímetro craneal superior a 40 cm",
+          "Peso al nacer inferior a 1.000 gramos",
+          "Presencia de reflejos primitivos completamente desarrollados",
+          "Edad gestacional entre 35 y 37 semanas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuridad_extrema"],
+        "feedback": "Los recién nacidos prematuros extremos tienen un peso al nacer generalmente inferior a 1.000 gramos y una edad gestacional menor a 28 semanas, lo que los hace especialmente vulnerables a complicaciones severas."
+      },
+      {
+        "enunciado": "Durante la evaluación secundaria de un recién nacido, ¿qué elemento se incluye en la regla nemotécnica SAMPLE?",
+        "opciones": [
+          "Estado nutricional",
+          "Eventos que precedieron al estado actual",
+          "Reflejos neurológicos",
+          "Presión arterial promedio"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "En la evaluación secundaria se utiliza la regla SAMPLE, donde la letra 'E' corresponde a los eventos previos que pudieron contribuir al estado actual del neonato."
+      },
+      {
+        "enunciado": "En la valoración de la ventilación en un recién nacido, ¿qué hallazgo indica la necesidad de ventilación asistida?",
+        "opciones": [
+          "Aleteo nasal sin alteraciones adicionales",
+          "Saturación de oxígeno del 93%",
+          "Respiración paradójica significativa",
+          "Frecuencia respiratoria dentro del rango normal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_respiratoria"],
+        "feedback": "La respiración paradójica indica un esfuerzo respiratorio severo que requiere intervención inmediata, como ventilación asistida, para asegurar la oxigenación adecuada."
+      },
+      {
+        "enunciado": "En el manejo inicial del recién nacido enfermo, ¿cuál es el principal objetivo del control hemodinámico durante el traslado a la unidad neonatal?",
+        "opciones": [
+          "Reducir el esfuerzo respiratorio",
+          "Prevenir la hipotermia",
+          "Mantener una perfusión adecuada",
+          "Garantizar un ambiente estéril"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "cuidados_transporte"],
+        "feedback": "El control hemodinámico durante el traslado asegura una perfusión adecuada de órganos vitales y puede incluir la administración de líquidos o fármacos inotrópicos según sea necesario."
+      },
+      {
+        "enunciado": "En un recién nacido con sospecha de infección, ¿cuál es una prioridad en los cuidados iniciales?",
+        "opciones": [
+          "Proporcionar lactancia materna inmediata",
+          "Aislar al neonato en una incubadora",
+          "Iniciar antibióticos de amplio espectro tras toma de cultivos",
+          "Administrar soluciones intravenosas isotónicas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "En casos de sospecha de infección neonatal, es esencial tomar cultivos para confirmar el diagnóstico e iniciar antibióticos de amplio espectro lo antes posible para prevenir complicaciones."
+      },
+      {
+        "enunciado": "¿Qué reflejo neurológico está típicamente ausente en recién nacidos prematuros extremos?",
+        "opciones": [
+          "Reflejo de Moro",
+          "Reflejo de prensión palmar",
+          "Reflejo de búsqueda",
+          "Reflejo de succión"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_neurologica"],
+        "feedback": "El reflejo de succión suele estar ausente o ser débil en los recién nacidos prematuros extremos debido a la inmadurez de su sistema neurológico."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa una causa materna común de bajo peso al nacer?",
+        "opciones": [
+          "Malformaciones congénitas",
+          "Cardiopatías graves",
+          "Insuficiencia placentaria",
+          "Edad gestacional prolongada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "Las cardiopatías graves en la madre son una causa frecuente de bajo peso al nacer, al afectar la circulación placentaria y el aporte adecuado de nutrientes al feto."
+      },
+      {
+        "enunciado": "En la prevención de la hipotermia neonatal, ¿cuál es una práctica recomendada en la sala de partos?",
+        "opciones": [
+          "Secar al neonato y colocarlo en contacto piel con piel con la madre",
+          "Administrar soluciones intravenosas tibias",
+          "Iniciar ventilación con oxígeno caliente y humidificado",
+          "Proveer alimentación por vía enteral inmediata"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_hipotermia"],
+        "feedback": "El contacto piel con piel entre el neonato y la madre, además del secado adecuado, ayuda a prevenir la pérdida de calor en las primeras horas de vida."
+      },
+      {
+        "enunciado": "¿Qué complicación metabólica es más frecuente en recién nacidos de bajo peso al nacer?",
+        "opciones": [
+          "Hiperglucemia",
+          "Hipocalcemia",
+          "Hipernatremia",
+          "Hipotiroidismo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "complicaciones_metabolicas"],
+        "feedback": "La hipocalcemia es una complicación metabólica común en los recién nacidos de bajo peso, debido a la inmadurez de su sistema endocrino y metabólico."
+      },
+      {
+        "enunciado": "En el Triángulo de Evaluación Pediátrica, ¿qué signo de circulación es indicativo de gravedad en un neonato?",
+        "opciones": [
+          "Llenado capilar menor a 2 segundos",
+          "Coloración cianótica persistente",
+          "Pulsos periféricos fuertes y regulares",
+          "Ausencia de soplos cardíacos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_circulatoria"],
+        "feedback": "La coloración cianótica persistente es un signo de hipoxia grave y mala perfusión, lo que indica inestabilidad hemodinámica en el neonato."
+      },
+      {
+        "enunciado": "¿Cuál es una característica morfológica típica de un recién nacido prematuro extremo?",
+        "opciones": [
+          "Piel gruesa y elástica",
+          "Desarrollo muscular adecuado en extremidades",
+          "Cianosis distal frecuente",
+          "Fontanelas completamente cerradas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuridad"],
+        "feedback": "La cianosis distal es común en recién nacidos prematuros extremos debido a la inmadurez circulatoria y la dificultad para mantener una adecuada perfusión periférica."
+      },
+      {
+        "enunciado": "En un recién nacido con dificultad respiratoria, ¿qué hallazgo sugiere obstrucción parcial de la vía aérea?",
+        "opciones": [
+          "Retracciones intercostales",
+          "Ronquido durante la respiración",
+          "Respiración paradójica",
+          "Aleteo nasal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_respiratoria"],
+        "feedback": "El ronquido durante la respiración indica una obstrucción parcial de la vía aérea, a menudo causada por la lengua u otro obstáculo."
+      },
+      {
+        "enunciado": "En el contexto del Triángulo de Evaluación Pediátrica (TEP), ¿qué aspecto evaluado incluye el tono muscular y la interacción del recién nacido?",
+        "opciones": [
+          "Circulación",
+          "Respiración",
+          "Aspecto general",
+          "Estado neurológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "El aspecto general incluye el tono muscular, el estado de conciencia y la interacción del recién nacido, proporcionando una impresión rápida de su estado de gravedad."
+      },
+      {
+        "enunciado": "Durante la evaluación de la exposición (E) en el protocolo ABCDE, ¿qué medida se toma para evitar la hipotermia en el recién nacido?",
+        "opciones": [
+          "Administrar líquidos intravenosos tibios",
+          "Utilizar O2 caliente y humidificado",
+          "Realizar contacto piel con piel",
+          "Aplicar crema hidratante en la piel"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_hipotermia"],
+        "feedback": "El uso de oxígeno caliente y humidificado durante la evaluación ayuda a mantener la temperatura corporal y prevenir la hipotermia en el neonato."
+      },
+      {
+        "enunciado": "¿Qué problema metabólico es común en recién nacidos de bajo peso y puede causar irritabilidad y temblores?",
+        "opciones": [
+          "Hipocalcemia",
+          "Hipernatremia",
+          "Hipoglucemia",
+          "Hipotiroidismo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "complicaciones_metabolicas"],
+        "feedback": "La hipocalcemia es frecuente en recién nacidos de bajo peso y puede manifestarse con síntomas como irritabilidad, temblores y, en casos severos, convulsiones."
+      },
+      {
+        "enunciado": "En el manejo del transporte neonatal, ¿qué parámetro es crítico para asegurar la estabilidad respiratoria del recién nacido?",
+        "opciones": [
+          "Temperatura axilar de 37 °C",
+          "Saturación de oxígeno superior al 95%",
+          "Frecuencia cardíaca mayor de 160 latidos por minuto",
+          "Tensión arterial dentro de rangos normales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "cuidados_transporte"],
+        "feedback": "Durante el transporte neonatal, mantener una saturación de oxígeno superior al 95% es esencial para garantizar una adecuada oxigenación y estabilidad respiratoria."
+      },
+      {
+        "enunciado": "¿Cuál es la causa más común de prematuridad relacionada con el entorno social de la madre?",
+        "opciones": [
+          "Malformaciones congénitas",
+          "Toxicomanías y estrés psicosocial",
+          "Infecciones intrauterinas",
+          "Insuficiencia placentaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuridad"],
+        "feedback": "El estrés psicosocial y las toxicomanías, como el consumo de tabaco o alcohol, son causas sociales que contribuyen significativamente al riesgo de prematuridad."
+      },
+      {
+        "enunciado": "En un recién nacido con sospecha de infección prenatal, ¿qué signo clínico puede ser indicativo en las primeras 24 horas?",
+        "opciones": [
+          "Llenado capilar lento",
+          "Ictericia persistente",
+          "Dificultad respiratoria",
+          "Letargo y mala succión"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "El letargo y la mala succión son signos precoces que pueden indicar una infección neonatal, especialmente si se sospecha exposición prenatal a infecciones."
+      },
+      {
+        "enunciado": "En el contexto de ventilación neonatal, ¿qué signo sugiere una hipoxia grave?",
+        "opciones": [
+          "Cianosis central",
+          "Aleteo nasal leve",
+          "Saturación de oxígeno entre 91% y 95%",
+          "Frecuencia respiratoria elevada"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_respiratoria"],
+        "feedback": "La cianosis central indica hipoxia grave y requiere intervención inmediata, como oxigenoterapia o ventilación asistida."
+      },
+      {
+        "enunciado": "¿Cuál es un signo de malnutrición en un recién nacido con crecimiento intrauterino retardado (CIR) asimétrico?",
+        "opciones": [
+          "Presencia de un índice ponderal normal",
+          "Cabeza proporcionalmente más pequeña",
+          "Escasa cantidad de grasa subcutánea",
+          "Talla y peso dentro de los rangos normales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El CIR asimétrico se caracteriza por una escasa cantidad de grasa subcutánea, lo que refleja malnutrición intrauterina, especialmente durante el tercer trimestre del embarazo."
+      },
+      {
+        "enunciado": "En la evaluación inicial del recién nacido enfermo, ¿qué indicador del Triángulo de Evaluación Pediátrica sugiere una alteración respiratoria?",
+        "opciones": [
+          "Palidez cutánea",
+          "Aleteo nasal y retracciones",
+          "Hipotonía muscular",
+          "Llenado capilar lento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "El aleteo nasal y las retracciones indican aumento del esfuerzo respiratorio, lo cual puede sugerir una alteración respiratoria significativa en el neonato."
+      },
+      {
+        "enunciado": "¿Qué valor de presión arterial sistólica es adecuado para un recién nacido prematuro extremo?",
+        "opciones": [
+          "Menor a 35 mmHg",
+          "Entre 45 y 65 mmHg",
+          "Entre 70 y 90 mmHg",
+          "Mayor a 100 mmHg"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_hemodinamica"],
+        "feedback": "En recién nacidos prematuros extremos, una presión arterial sistólica entre 45 y 65 mmHg se considera adecuada para mantener una perfusión adecuada."
+      },
+      {
+        "enunciado": "¿Qué técnica es esencial para prevenir infecciones en la manipulación de neonatos prematuros?",
+        "opciones": [
+          "Uso rutinario de antibióticos profilácticos",
+          "Lavado sistemático de manos antes de cada contacto",
+          "Colocación constante de guantes estériles",
+          "Reducción del contacto físico del personal sanitario"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "El lavado sistemático de manos es la medida más efectiva para prevenir infecciones en neonatos prematuros, minimizando la transmisión de patógenos."
+      },
+      {
+        "enunciado": "En un neonato con reflejo de Moro débil, ¿qué posible condición debe investigarse?",
+        "opciones": [
+          "Inmadurez neurológica",
+          "Hipernatremia",
+          "Hiperglucemia",
+          "Infección bacteriana"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_neurologica"],
+        "feedback": "Un reflejo de Moro débil puede ser indicativo de inmadurez neurológica, especialmente en recién nacidos prematuros o de bajo peso."
+      },
+      {
+        "enunciado": "En la atención del neonato, ¿cuál es la ventaja principal del uso de leche materna frente a las fórmulas especializadas?",
+        "opciones": [
+          "Mayor contenido de calorías",
+          "Prevención de infecciones y optimización inmunológica",
+          "Reducción de la pérdida de peso inicial",
+          "Facilidad en la administración por sonda"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "nutricion"],
+        "feedback": "La leche materna ofrece protección inmunológica única y reduce significativamente el riesgo de infecciones en neonatos, además de promover un crecimiento saludable."
+      },
+      {
+        "enunciado": "Durante el traslado de un recién nacido, ¿cuál es una medida crítica para evitar pérdidas de calor?",
+        "opciones": [
+          "Proporcionar leche materna templada",
+          "Cubrir al neonato con mantas calientes y mantener la cabeza protegida",
+          "Administrar líquidos tibios por vía intravenosa",
+          "Usar dispositivos de monitorización continua"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "cuidados_transporte"],
+        "feedback": "Cubrir al neonato adecuadamente, incluyendo la cabeza, y mantenerlo envuelto en mantas calientes es esencial para prevenir la hipotermia durante el traslado."
+      },
+      {
+        "enunciado": "En la evaluación primaria (ABCDE), ¿qué acción corresponde al paso 'C' de circulación?",
+        "opciones": [
+          "Administrar oxígeno de alto flujo",
+          "Evaluar pulsos centrales y periféricos",
+          "Tomar muestras de sangre para análisis",
+          "Iniciar ventilación asistida"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "El paso 'C' de circulación implica evaluar pulsos centrales y periféricos, el tiempo de llenado capilar y el estado de perfusión para determinar la estabilidad hemodinámica del neonato."
+      },
+      {
+        "enunciado": "En un neonato con diagnóstico de crecimiento intrauterino retardado (CIR), ¿qué complicación metabólica es más común?",
+        "opciones": [
+          "Hipoglucemia",
+          "Hiperbilirubinemia",
+          "Hipocalcemia",
+          "Hipernatremia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "complicaciones_metabolicas"],
+        "feedback": "La hipoglucemia es frecuente en neonatos con CIR debido a las reservas limitadas de glucógeno y a un metabolismo acelerado."
+      },
+      {
+        "enunciado": "En recién nacidos prematuros, ¿qué signo es característico de insuficiencia respiratoria inminente?",
+        "opciones": [
+          "Frecuencia respiratoria regular",
+          "Aleteo nasal persistente y retracciones intercostales",
+          "Coloración rosada de la piel",
+          "Llenado capilar menor a 2 segundos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_respiratoria"],
+        "feedback": "El aleteo nasal y las retracciones intercostales persistentes son signos de esfuerzo respiratorio y de posible insuficiencia respiratoria en neonatos prematuros."
+      },
+      {
+        "enunciado": "En el manejo de la ventilación en neonatos, ¿cuál es el rango de saturación de oxígeno ideal para prevenir hipoxia e hiperoxia?",
+        "opciones": [
+          "85%-90%",
+          "91%-95%",
+          "96%-100%",
+          "100%-105%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "ventilacion"],
+        "feedback": "Mantener una saturación de oxígeno entre el 91% y el 95% en neonatos es clave para evitar los efectos adversos de la hipoxia o hiperoxia."
+      },
+      {
+        "enunciado": "¿Cuál es el primer paso en la técnica de aspiración de secreciones en un neonato con obstrucción de las vías respiratorias?",
+        "opciones": [
+          "Utilizar suero fisiológico para irrigar las vías nasales",
+          "Introducir el catéter de aspiración hasta la faringe posterior",
+          "Realizar un lavado de manos y preparar el equipo estéril",
+          "Administrar oxígeno previo a la aspiración"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_enfermeria"],
+        "feedback": "Antes de realizar la aspiración de secreciones, es crucial lavar las manos y preparar el equipo estéril para minimizar el riesgo de infecciones en el neonato."
+      },
+      {
+        "enunciado": "En la administración de líquidos intravenosos a un neonato, ¿qué factor debe monitorearse cuidadosamente para evitar complicaciones?",
+        "opciones": [
+          "La temperatura del líquido",
+          "La velocidad de infusión",
+          "El tipo de dispositivo utilizado",
+          "La posición del neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_enfermeria"],
+        "feedback": "La velocidad de infusión debe monitorearse cuidadosamente para evitar complicaciones como sobrecarga de líquidos o desequilibrio electrolítico en el neonato."
+      },
+      {
+        "enunciado": "¿Qué medida es clave para mantener la asepsia durante la inserción de una vía intravenosa en un recién nacido?",
+        "opciones": [
+          "Usar guantes estériles y realizar una desinfección adecuada de la piel",
+          "Administrar antibióticos profilácticos antes del procedimiento",
+          "Realizar el procedimiento en un ambiente aislado",
+          "Esterilizar todo el material con calor antes de su uso"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_enfermeria"],
+        "feedback": "El uso de guantes estériles y la desinfección adecuada de la piel son esenciales para prevenir infecciones durante la inserción de una vía intravenosa en neonatos."
+      },
+      {
+        "enunciado": "En la monitorización de un neonato críticamente enfermo, ¿qué parámetro se utiliza para evaluar la oxigenación de manera continua?",
+        "opciones": [
+          "Frecuencia cardíaca",
+          "Saturación de oxígeno mediante pulsioximetría",
+          "Frecuencia respiratoria",
+          "Temperatura corporal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_monitorizacion"],
+        "feedback": "La pulsioximetría es una técnica esencial para monitorizar de forma continua la saturación de oxígeno, evaluando la oxigenación del neonato."
+      },
+      {
+        "enunciado": "Durante el uso de una incubadora en neonatos, ¿qué precaución es fundamental para evitar la transmisión de infecciones?",
+        "opciones": [
+          "Cambiar el filtro de aire diariamente",
+          "Limpiar y desinfectar la incubadora entre usos",
+          "Limitar el acceso de familiares al neonato",
+          "Mantener la incubadora siempre cerrada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_enfermeria"],
+        "feedback": "La limpieza y desinfección adecuada de la incubadora entre usos es fundamental para evitar la transmisión de infecciones nosocomiales en neonatos."
+      },
+      {
+        "enunciado": "En la técnica de reanimación neonatal, ¿cuál es el primer paso tras identificar apnea o esfuerzo respiratorio insuficiente?",
+        "opciones": [
+          "Administrar ventilación con presión positiva",
+          "Colocar al neonato bajo calor radiante",
+          "Aspirar secreciones de las vías aéreas",
+          "Iniciar masaje cardíaco externo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_reanimacion"],
+        "feedback": "El primer paso en la reanimación neonatal es proporcionar ventilación con presión positiva para restablecer una respiración efectiva en el neonato."
+      },
+      {
+        "enunciado": "¿Qué técnica es clave para minimizar el daño a la piel frágil de un neonato durante la colocación de electrodos de monitorización?",
+        "opciones": [
+          "Usar adhesivos específicos para piel neonatal",
+          "Calentar los electrodos antes de aplicarlos",
+          "Limpiar la piel con alcohol antes de colocar los electrodos",
+          "Evitar el uso de gel conductor en los electrodos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_monitorizacion"],
+        "feedback": "Los adhesivos diseñados específicamente para piel neonatal son esenciales para minimizar el daño cutáneo durante la monitorización."
+      },
+      {
+        "enunciado": "En la administración de oxígeno a un neonato, ¿cuál es el método recomendado para evitar el daño por hiperoxia?",
+        "opciones": [
+          "Usar oxígeno a alta concentración de forma intermitente",
+          "Monitorear continuamente la saturación de oxígeno",
+          "Limitar la administración de oxígeno a 5 minutos",
+          "Aplicar oxígeno solo mediante mascarilla facial"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_oxigenoterapia"],
+        "feedback": "La monitorización continua de la saturación de oxígeno permite ajustar la administración y prevenir complicaciones como la hiperoxia."
+      },
+      {
+        "enunciado": "¿Cuál es una medida esencial durante la alimentación por sonda en neonatos con dificultad para succión?",
+        "opciones": [
+          "Aumentar el volumen de cada toma para compensar",
+          "Verificar la posición correcta de la sonda antes de cada uso",
+          "Administrar la leche a temperatura ambiente",
+          "Evitar realizar alimentación mientras el neonato duerme"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_alimentacion"],
+        "feedback": "Antes de cada uso, verificar la posición correcta de la sonda es crucial para evitar complicaciones como la aspiración o el daño esofágico."
+      },
+      {
+        "enunciado": "Durante el cambio de un apósito en la vía central de un neonato, ¿qué procedimiento garantiza una técnica aséptica adecuada?",
+        "opciones": [
+          "Cambiar los guantes tras retirar el apósito viejo",
+          "Usar apósitos no estériles para evitar irritaciones",
+          "Limpiar la piel con agua y jabón antes de colocar el nuevo apósito",
+          "Evitar tocar la vía central durante el cambio"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_enfermeria"],
+        "feedback": "El cambio de guantes tras retirar el apósito viejo es fundamental para mantener la técnica aséptica y prevenir infecciones asociadas a la vía central."
+      },
+      {
+        "enunciado": "¿Cuál es la mejor posición para un neonato durante la colocación de una sonda nasogástrica?",
+        "opciones": [
+          "En decúbito lateral con cabeza elevada",
+          "En decúbito supino con cuello ligeramente extendido",
+          "En decúbito prono con la cabeza girada hacia un lado",
+          "En posición semi-Fowler con cuello en flexión"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_alimentacion"],
+        "feedback": "La posición en decúbito supino con el cuello ligeramente extendido facilita la inserción de la sonda nasogástrica y reduce el riesgo de lesiones."
+      },
+      {
+        "enunciado": "¿Qué procedimiento es fundamental para minimizar el riesgo de neumotórax durante la intubación endotraqueal en neonatos?",
+        "opciones": [
+          "Utilizar un laringoscopio estéril",
+          "Aplicar presión controlada al inflar el balón del tubo",
+          "Monitorear la saturación de oxígeno constantemente",
+          "Confirmar la posición del tubo mediante radiografía"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_intubacion"],
+        "feedback": "Confirmar la posición del tubo mediante radiografía asegura que esté correctamente colocado y reduce el riesgo de complicaciones como el neumotórax."
+      },
+      {
+        "enunciado": "En la administración de medicamentos intravenosos en neonatos, ¿cuál es una práctica esencial para evitar errores de dosificación?",
+        "opciones": [
+          "Diluir todos los medicamentos a la misma concentración",
+          "Calcular la dosis según el peso exacto del neonato",
+          "Administrar los medicamentos en bolos rápidos",
+          "Evitar el uso de bombas de infusión para pequeños volúmenes"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_administracion_medicacion"],
+        "feedback": "Calcular la dosis según el peso exacto del neonato es fundamental para garantizar la seguridad en la administración de medicamentos intravenosos."
+      },
+      {
+        "enunciado": "¿Qué herramienta es imprescindible para evaluar la correcta colocación de un catéter umbilical en un recién nacido?",
+        "opciones": [
+          "La inspección visual del sitio de inserción",
+          "La medición de la temperatura corporal",
+          "La auscultación de sonidos vasculares",
+          "La realización de una radiografía de control"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_insercion_cateter"],
+        "feedback": "La radiografía de control permite confirmar la correcta colocación del catéter umbilical y prevenir complicaciones asociadas a una mala posición."
+      },
+      {
+        "enunciado": "En la monitorización continua de un neonato crítico, ¿qué parámetro debe revisarse cada hora al administrar líquidos intravenosos?",
+        "opciones": [
+          "Frecuencia respiratoria",
+          "Balance hídrico y diuresis",
+          "Presión arterial media",
+          "Estado neurológico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_monitorizacion"],
+        "feedback": "El balance hídrico y la diuresis deben revisarse de forma continua para garantizar una adecuada hidratación y perfusión en el neonato."
+      },
+      {
+        "enunciado": "En el uso de incubadoras, ¿qué acción reduce significativamente el riesgo de infecciones nosocomiales?",
+        "opciones": [
+          "Cambiar los guantes entre la manipulación de diferentes pacientes",
+          "Limpiar y desinfectar la incubadora diariamente",
+          "Mantener la incubadora a temperatura constante de 38 °C",
+          "Reducir al mínimo el uso de humidificación interna"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_prevencion_infecciones"],
+        "feedback": "La limpieza y desinfección diaria de la incubadora es una medida clave para prevenir infecciones nosocomiales en neonatos."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal del uso de un gorro térmico en neonatos prematuros?",
+        "opciones": [
+          "Prevenir infecciones del cuero cabelludo",
+          "Mantener la temperatura corporal estable",
+          "Mejorar la circulación sanguínea craneal",
+          "Reducir la pérdida de agua transdérmica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_prevencion_hipotermia"],
+        "feedback": "El gorro térmico ayuda a prevenir la pérdida de calor a través de la cabeza, una zona de alta pérdida térmica en neonatos prematuros."
+      },
+      {
+        "enunciado": "¿Qué práctica es crucial durante la succión de secreciones en un neonato conectado a ventilación mecánica?",
+        "opciones": [
+          "Realizar succión continua durante todo el procedimiento",
+          "Limitar la duración del procedimiento a menos de 15 segundos",
+          "Utilizar suero fisiológico antes de cada aspiración",
+          "Aumentar la presión del ventilador antes de la aspiración"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_succion"],
+        "feedback": "Limitar la duración de la succión a menos de 15 segundos minimiza el riesgo de hipoxia y bradicardia en neonatos con ventilación mecánica."
+      },
+      {
+        "enunciado": "En la preparación de un neonato para un procedimiento invasivo, ¿cuál es la prioridad de enfermería?",
+        "opciones": [
+          "Garantizar el acceso vascular periférico",
+          "Administrar sedantes previos al procedimiento",
+          "Monitorear signos vitales continuamente",
+          "Mantener condiciones estrictas de asepsia"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_invasivas"],
+        "feedback": "Mantener condiciones estrictas de asepsia es crucial para reducir el riesgo de infecciones durante cualquier procedimiento invasivo en neonatos."
+      },
+      {
+        "enunciado": "Durante la instalación de un CPAP nasal en un neonato, ¿qué precaución es esencial para evitar lesiones?",
+        "opciones": [
+          "Ajustar firmemente las correas para asegurar la máscara",
+          "Utilizar almohadillas protectoras en las áreas de presión",
+          "Aumentar gradualmente la presión de oxígeno",
+          "Limitar el uso de la máscara a periodos cortos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_ventilacion"],
+        "feedback": "El uso de almohadillas protectoras en las áreas de presión evita lesiones en la piel frágil del neonato mientras se utiliza CPAP nasal."
+      },
+      {
+        "enunciado": "El test de Finnegan se usa para:",
+        "opciones": [
+          "Evaluar la madurez neurológica de neonatos prematuros",
+          "Identificar signos de síndrome de abstinencia neonatal (SAN)",
+          "Valorar el nivel de oxigenación en neonatos con insuficiencia respiratoria",
+          "Detectar malformaciones congénitas relacionadas con infecciones intrauterinas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_clinica"],
+        "feedback": "El test de Finnegan se utiliza para identificar y monitorizar la gravedad del síndrome de abstinencia neonatal (SAN), que ocurre en neonatos expuestos a sustancias como opioides durante la gestación. Este test evalúa signos como irritabilidad, temblores y dificultades para alimentarse."
+      },
+      {
+        "enunciado": "¿Qué elemento es esencial al evaluar el balance hídrico en un recién nacido con vía intravenosa?",
+        "opciones": [
+          "Frecuencia de las micciones",
+          "Cantidad exacta de líquidos administrados y eliminados",
+          "Tipo de solución utilizada",
+          "Tensión arterial del neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "monitorizacion_hidrica"],
+        "feedback": "El balance hídrico en un recién nacido se evalúa controlando con precisión la cantidad de líquidos administrados y eliminados, ya que desequilibrios pueden llevar a complicaciones como deshidratación o sobrehidratación."
+      },
+      {
+        "enunciado": "¿Qué intervención es clave para prevenir lesiones de la piel en neonatos bajo cuidados intensivos?",
+        "opciones": [
+          "Evitar el uso de productos de limpieza en la piel",
+          "Usar almohadillas protectoras en puntos de presión",
+          "Aplicar cremas hidratantes tres veces al día",
+          "Limitar el cambio de posiciones a cada 12 horas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_lesiones"],
+        "feedback": "El uso de almohadillas protectoras en puntos de presión ayuda a prevenir lesiones en la piel, especialmente en neonatos con piel frágil bajo cuidados intensivos."
+      },
+      {
+        "enunciado": "¿Qué técnica se utiliza para verificar la permeabilidad de las vías aéreas durante la reanimación neonatal?",
+        "opciones": [
+          "Realizar la maniobra frente-mentón",
+          "Administrar oxígeno a alta presión",
+          "Colocar al neonato en posición lateral",
+          "Usar una cánula nasal estéril"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_reanimacion"],
+        "feedback": "La maniobra frente-mentón es una técnica básica para asegurar la permeabilidad de las vías aéreas, especialmente en neonatos durante la reanimación."
+      },
+      {
+        "enunciado": "En neonatos bajo ventilación mecánica, ¿qué medida previene infecciones asociadas al ventilador?",
+        "opciones": [
+          "Cambiar el circuito del ventilador cada 24 horas",
+          "Realizar succión de secreciones solo cuando sea necesario",
+          "Incrementar la presión de oxígeno para evitar hipoxia",
+          "Administrar profilaxis antibiótica rutinaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "Realizar la succión de secreciones únicamente cuando sea necesario reduce el riesgo de infecciones asociadas al uso del ventilador, minimizando la manipulación de las vías aéreas."
+      },
+      {
+        "enunciado": "¿Cuál es el tiempo máximo recomendado para realizar la aspiración de secreciones en un neonato?",
+        "opciones": [
+          "5 segundos",
+          "10 segundos",
+          "15 segundos",
+          "20 segundos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_succion"],
+        "feedback": "La aspiración de secreciones debe realizarse en menos de 15 segundos para evitar bradicardia y desaturación en el neonato."
+      },
+      {
+        "enunciado": "¿Qué técnica de alimentación es preferida para un neonato prematuro con reflejo de succión débil?",
+        "opciones": [
+          "Alimentación mediante lactancia directa",
+          "Alimentación por sonda nasogástrica",
+          "Uso de biberones con flujo lento",
+          "Administración de nutrición parenteral exclusiva"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_alimentacion"],
+        "feedback": "En neonatos prematuros con reflejo de succión débil, la alimentación por sonda nasogástrica asegura un aporte nutricional adecuado mientras se desarrolla la habilidad de succión."
+      },
+      {
+        "enunciado": "¿Qué parámetro debe ser monitorizado continuamente en un neonato conectado a un CPAP nasal?",
+        "opciones": [
+          "Presión arterial sistólica",
+          "Saturación de oxígeno",
+          "Frecuencia cardíaca",
+          "Balance hídrico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "monitorizacion_respiratoria"],
+        "feedback": "La saturación de oxígeno debe monitorizarse continuamente en neonatos con CPAP nasal para asegurar una oxigenación adecuada y prevenir complicaciones."
+      },
+      {
+        "enunciado": "En la colocación de un catéter periférico en un neonato, ¿qué técnica se recomienda para reducir el dolor?",
+        "opciones": [
+          "Aplicar frío local antes del procedimiento",
+          "Usar un anestésico tópico o sacarosa oral",
+          "Administrar analgésicos por vía intravenosa",
+          "Realizar el procedimiento en un ambiente silencioso"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "manejo_dolor"],
+        "feedback": "El uso de anestésicos tópicos o la administración de sacarosa oral son medidas efectivas para reducir el dolor en neonatos durante la colocación de catéteres periféricos."
+      },
+      {
+        "enunciado": "Durante el manejo inicial de un neonato hipotérmico, ¿cuál es una medida inmediata para estabilizar la temperatura?",
+        "opciones": [
+          "Administrar líquidos tibios por vía intravenosa",
+          "Colocar al neonato en contacto piel con piel",
+          "Iniciar ventilación con aire caliente",
+          "Usar una lámpara de calor directa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_hipotermia"],
+        "feedback": "El contacto piel con piel es una medida efectiva y rápida para estabilizar la temperatura de un neonato hipotérmico mientras se evalúan otras necesidades."
+      },
+      {
+        "enunciado": "¿Cuál es el principal objetivo del uso de nutrición parenteral total en neonatos críticamente enfermos?",
+        "opciones": [
+          "Prevenir la hipoglucemia severa",
+          "Mantener un equilibrio electrolítico estable",
+          "Proveer nutrientes esenciales cuando la vía enteral no es viable",
+          "Estimular el desarrollo del sistema digestivo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "nutricion"],
+        "feedback": "La nutrición parenteral total se utiliza para proporcionar nutrientes esenciales a neonatos que no pueden recibir alimentación por vía enteral, asegurando un adecuado crecimiento y desarrollo."
+      },
+      {
+        "enunciado": "¿Qué procedimiento de enfermería es esencial tras la inserción de un catéter umbilical?",
+        "opciones": [
+          "Administrar antibióticos profilácticos",
+          "Realizar una radiografía para confirmar la posición",
+          "Iniciar la infusión de líquidos inmediatamente",
+          "Aspirar el catéter para verificar permeabilidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_cateter"],
+        "feedback": "La confirmación radiológica es fundamental tras la inserción de un catéter umbilical para asegurar su correcta posición y prevenir complicaciones."
+      },
+      {
+        "enunciado": "En un neonato conectado a CPAP nasal, ¿qué complicación debe prevenirse mediante una monitorización cuidadosa?",
+        "opciones": [
+          "Hipotermia persistente",
+          "Barotrauma pulmonar",
+          "Disminución de la saturación de oxígeno",
+          "Deshidratación severa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "monitorizacion_respiratoria"],
+        "feedback": "El barotrauma pulmonar es una complicación posible en neonatos bajo CPAP nasal si las presiones no se regulan cuidadosamente."
+      },
+      {
+        "enunciado": "¿Qué técnica de enfermería es adecuada para reducir el dolor durante el control de glucosa capilar en un neonato?",
+        "opciones": [
+          "Administrar sacarosa oral antes del procedimiento",
+          "Colocar hielo en el sitio de punción previamente",
+          "Realizar el procedimiento mientras el neonato duerme",
+          "Usar una lanceta de mayor tamaño para minimizar el tiempo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "manejo_dolor"],
+        "feedback": "La administración de sacarosa oral antes del procedimiento ayuda a reducir el dolor y el estrés durante el control de glucosa capilar en neonatos."
+      },
+      {
+        "enunciado": "¿Qué indicador determina la necesidad de iniciar ventilación asistida en un neonato con dificultad respiratoria?",
+        "opciones": [
+          "Aleteo nasal moderado",
+          "Frecuencia respiratoria superior a 60/min",
+          "Saturación de oxígeno menor al 90% con oxigenoterapia",
+          "Llenado capilar menor a 2 segundos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "ventilacion"],
+        "feedback": "Una saturación de oxígeno menor al 90% pese a oxigenoterapia indica hipoxia grave, lo que justifica el inicio de ventilación asistida."
+      },
+      {
+        "enunciado": "En la prevención de infecciones neonatales, ¿cuál de las siguientes prácticas es prioritaria al manipular vías centrales?",
+        "opciones": [
+          "Usar guantes no estériles para procedimientos rápidos",
+          "Limpiar el sitio de inserción con alcohol al 70%",
+          "Cubrir la vía central con apósitos no transpirables",
+          "Cambiar la solución intravenosa cada 72 horas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "La limpieza del sitio de inserción con alcohol al 70% es una medida efectiva para reducir el riesgo de infecciones en neonatos con vías centrales."
+      },
+      {
+        "enunciado": "¿Qué técnica debe emplearse al cambiar un apósito en una vía periférica de un neonato?",
+        "opciones": [
+          "Retirar el apósito viejo y colocar el nuevo sin tocar la vía",
+          "Limpiar la piel con agua y jabón antes de colocar el nuevo apósito",
+          "Usar apósitos no estériles para evitar irritación cutánea",
+          "Limpiar la zona con solución antiséptica antes de aplicar el apósito"
+        ],
+        "correcta": 3,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_cateter"],
+        "feedback": "Limpiar la zona con solución antiséptica antes de aplicar un nuevo apósito es esencial para prevenir infecciones en neonatos con vías periféricas."
+      },
+      {
+        "enunciado": "¿Cuál es el principal riesgo al realizar una aspiración prolongada de secreciones en neonatos?",
+        "opciones": [
+          "Hipotermia",
+          "Bradicardia y desaturación",
+          "Hiperoxia",
+          "Neumotórax espontáneo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_succion"],
+        "feedback": "La aspiración prolongada puede causar bradicardia y desaturación debido a la estimulación vagal y la interrupción del flujo de aire en las vías respiratorias."
+      },
+      {
+        "enunciado": "En un neonato con hipoglucemia severa, ¿cuál es la intervención inicial recomendada?",
+        "opciones": [
+          "Administrar leche materna por vía oral",
+          "Proveer soluciones glucosadas intravenosas",
+          "Iniciar ventilación con oxígeno suplementario",
+          "Realizar un masaje para mejorar la circulación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "complicaciones_metabolicas"],
+        "feedback": "En casos de hipoglucemia severa, la administración de soluciones glucosadas por vía intravenosa es esencial para estabilizar los niveles de glucosa rápidamente."
+      },
+      {
+        "enunciado": "¿Qué práctica es clave para evitar lesiones en neonatos durante el uso de CPAP nasal?",
+        "opciones": [
+          "Ajustar las correas de sujeción firmemente",
+          "Cambiar la posición de los tubos regularmente",
+          "Evitar la humidificación del oxígeno",
+          "Reducir la presión inspiratoria de forma continua"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_respiratorias"],
+        "feedback": "El cambio regular de la posición de los tubos del CPAP previene lesiones por presión en la piel frágil del neonato."
+      },
+      {
+        "enunciado": "¿Cuál es el principal propósito de realizar una evaluación ABCDE en un recién nacido en estado crítico?",
+        "opciones": [
+          "Establecer el nivel de madurez neurológica",
+          "Identificar y tratar problemas vitales de manera inmediata",
+          "Realizar un diagnóstico definitivo de su condición",
+          "Estimar la capacidad respiratoria basal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_critica"],
+        "feedback": "La evaluación ABCDE tiene como objetivo identificar y tratar problemas que comprometen la vida de manera rápida y sistemática, priorizando las intervenciones según la urgencia."
+      },
+      {
+        "enunciado": "Durante la inserción de una vía intraósea en un neonato, ¿cuál es el sitio anatómico preferido?",
+        "opciones": [
+          "Fémur distal",
+          "Tibia proximal",
+          "Radio distal",
+          "Húmero proximal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_invasivas"],
+        "feedback": "La tibia proximal es el sitio anatómico preferido para la inserción de una vía intraósea en neonatos, debido a su accesibilidad y seguridad."
+      },
+      {
+        "enunciado": "¿Qué complicación puede surgir si no se garantiza una técnica aséptica durante la administración de nutrición parenteral?",
+        "opciones": [
+          "Hipocalcemia severa",
+          "Infección del torrente sanguíneo",
+          "Retardo en el crecimiento postnatal",
+          "Dificultad respiratoria aguda"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "Una técnica no aséptica puede causar infecciones del torrente sanguíneo, una complicación grave que compromete el estado clínico del neonato."
+      },
+      {
+        "enunciado": "En neonatos con síndrome de dificultad respiratoria, ¿qué hallazgo radiológico es característico?",
+        "opciones": [
+          "Vidrio esmerilado difuso",
+          "Consolidaciones lobares",
+          "Neumotórax espontáneo",
+          "Aumento del espacio intercostal"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "diagnostico_clinico"],
+        "feedback": "El patrón de vidrio esmerilado difuso es característico en el síndrome de dificultad respiratoria neonatal, reflejando la presencia de atelectasias y déficit de surfactante."
+      },
+      {
+        "enunciado": "En el contexto del manejo del dolor neonatal, ¿cuál es una intervención no farmacológica efectiva?",
+        "opciones": [
+          "Uso de sedantes suaves",
+          "Administración de soluciones glucosadas orales",
+          "Aplicación de anestésicos tópicos",
+          "Monitoreo continuo de signos vitales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "manejo_dolor"],
+        "feedback": "La administración de soluciones glucosadas orales es una técnica no farmacológica efectiva para aliviar el dolor en neonatos, especialmente durante procedimientos menores."
+      },
+      {
+        "enunciado": "¿Qué intervención es prioritaria al detectar cianosis central en un neonato críticamente enfermo?",
+        "opciones": [
+          "Iniciar oxigenoterapia de alto flujo",
+          "Realizar una radiografía de tórax",
+          "Administrar líquidos intravenosos isotónicos",
+          "Monitorear continuamente la saturación de oxígeno"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "intervenciones_urgentes"],
+        "feedback": "La cianosis central indica hipoxia grave, y la intervención inmediata es iniciar oxigenoterapia de alto flujo para mejorar la oxigenación tisular."
+      },
+      {
+        "enunciado": "¿Qué técnica es fundamental para minimizar el riesgo de neumotórax durante la ventilación asistida en neonatos?",
+        "opciones": [
+          "Usar presiones bajas y controladas en el ventilador",
+          "Realizar radiografías de tórax cada hora",
+          "Aumentar la frecuencia respiratoria en el ventilador",
+          "Evitar la administración de oxígeno suplementario"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_respiratorias"],
+        "feedback": "El uso de presiones bajas y controladas durante la ventilación asistida es crucial para prevenir el barotrauma y el riesgo de neumotórax en neonatos."
+      },
+      {
+        "enunciado": "En un neonato con ictericia severa, ¿qué intervención inmediata está indicada para reducir los niveles de bilirrubina?",
+        "opciones": [
+          "Administración de líquidos intravenosos",
+          "Fototerapia con luz azul",
+          "Transfusión de glóbulos rojos",
+          "Suplementación de vitamina D"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tratamiento_ictericia"],
+        "feedback": "La fototerapia con luz azul es el tratamiento de elección para reducir los niveles de bilirrubina en casos de ictericia severa, favoreciendo su transformación en formas excretables."
+      },
+      {
+        "enunciado": "Durante la preparación de leche materna para neonatos prematuros, ¿qué técnica es esencial para mantener la seguridad alimentaria?",
+        "opciones": [
+          "Hervir la leche materna antes de su uso",
+          "Conservar la leche a temperatura ambiente",
+          "Utilizar equipo estéril para la extracción y almacenamiento",
+          "Diluir la leche con agua estéril antes de administrarla"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "nutricion"],
+        "feedback": "El uso de equipo estéril para la extracción y almacenamiento de leche materna minimiza el riesgo de contaminación bacteriana, asegurando su seguridad para el neonato."
+      },
+      {
+        "enunciado": "¿Qué parámetro se debe evaluar al cambiar la posición de un neonato ventilado mecánicamente?",
+        "opciones": [
+          "Nivel de glucosa en sangre",
+          "Saturación de oxígeno",
+          "Presión arterial media",
+          "Frecuencia cardíaca"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "monitorizacion_respiratoria"],
+        "feedback": "La saturación de oxígeno debe evaluarse al cambiar la posición del neonato para asegurar que no haya compromiso en la ventilación o perfusión pulmonar."
+      },
+      {
+        "enunciado": "¿Qué intervención es prioritaria en un neonato con hipoglucemia persistente no controlada con alimentación enteral?",
+        "opciones": [
+          "Iniciar perfusión de solución glucosada al 10% por vía intravenosa",
+          "Incrementar la frecuencia de las tomas orales",
+          "Proporcionar una dosis de insulina para estabilizar los niveles",
+          "Administrar líquidos isotónicos por vía intravenosa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "complicaciones_metabolicas"],
+        "feedback": "La administración de una perfusión de solución glucosada al 10% por vía intravenosa es la intervención indicada para estabilizar los niveles de glucosa en neonatos con hipoglucemia persistente."
+      },
+      {
+        "enunciado": "¿Qué acción es clave para prevenir lesiones cutáneas en un neonato bajo fototerapia prolongada?",
+        "opciones": [
+          "Limpiar la piel con alcohol cada 6 horas",
+          "Usar cremas hidratantes en todo el cuerpo",
+          "Cubrir los ojos y genitales con protectores adecuados",
+          "Evitar cambios frecuentes de posición durante la terapia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tratamiento_ictericia"],
+        "feedback": "Cubrir los ojos y genitales con protectores adecuados es fundamental durante la fototerapia para prevenir lesiones por exposición prolongada a la luz."
+      },
+      {
+        "enunciado": "En el manejo inicial del síndrome de aspiración meconial, ¿qué procedimiento es prioritario?",
+        "opciones": [
+          "Iniciar ventilación con presión positiva",
+          "Realizar aspiración traqueal inmediata si está indicado",
+          "Administrar líquidos intravenosos",
+          "Colocar al neonato en posición prona"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_respiratorios"],
+        "feedback": "La aspiración traqueal inmediata es una intervención crítica en el manejo del síndrome de aspiración meconial para eliminar obstrucciones de las vías respiratorias."
+      },
+      {
+        "enunciado": "¿Qué parámetro es esencial monitorizar en un neonato con ventilación mecánica para prevenir hiperoxia?",
+        "opciones": [
+          "Presión arterial",
+          "Frecuencia respiratoria",
+          "Saturación de oxígeno",
+          "Temperatura corporal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_respiratorias"],
+        "feedback": "La saturación de oxígeno debe monitorizarse continuamente en neonatos bajo ventilación mecánica para evitar niveles excesivamente altos, que pueden causar daño por hiperoxia."
+      },
+      {
+        "enunciado": "En neonatos con ductus arterioso persistente (DAP), ¿qué signo clínico es característico?",
+        "opciones": [
+          "Cianosis central",
+          "Soplo cardíaco continuo",
+          "Bradipnea persistente",
+          "Hipotermia severa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "cardiologia"],
+        "feedback": "El soplo cardíaco continuo es un signo característico del ductus arterioso persistente (DAP), resultado del flujo sanguíneo anormal entre la aorta y la arteria pulmonar."
+      },
+      {
+        "enunciado": "En el manejo del dolor en procedimientos invasivos menores, ¿qué técnica complementaria puede utilizarse junto con la sacarosa oral?",
+        "opciones": [
+          "Contacto piel con piel con los padres",
+          "Administración de analgésicos tópicos",
+          "Inmovilización completa del neonato",
+          "Uso de anestesia general"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "manejo_dolor"],
+        "feedback": "El contacto piel con piel complementa el efecto analgésico de la sacarosa oral, proporcionando confort y reduciendo el dolor durante procedimientos menores."
+      },
+      {
+        "enunciado": "¿Qué precaución debe tomarse al administrar oxígeno con una cánula nasal a un neonato?",
+        "opciones": [
+          "Incrementar la presión para asegurar una saturación superior al 98%",
+          "Utilizar un humidificador para evitar resequedad en las vías respiratorias",
+          "Cambiar la cánula nasal cada 4 horas",
+          "Aplicar crema en las fosas nasales para mejorar la absorción"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "tecnicas_respiratorias"],
+        "feedback": "El uso de un humidificador al administrar oxígeno con cánula nasal evita la resequedad de las vías respiratorias y mejora el confort del neonato."
+      },
+      {
+        "enunciado": "En un neonato con sospecha de sepsis, ¿qué intervención diagnóstica es esencial antes de iniciar antibióticos?",
+        "opciones": [
+          "Realizar hemocultivos",
+          "Administrar líquidos intravenosos",
+          "Monitorizar la temperatura corporal",
+          "Iniciar ventilación mecánica"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_infecciones"],
+        "feedback": "Realizar hemocultivos antes de iniciar antibióticos es crucial para identificar el agente causal y ajustar el tratamiento de manera adecuada."
+      },
+      {
+        "enunciado": "¿Qué característica es típica de un neonato con síndrome de abstinencia neonatal?",
+        "opciones": [
+          "Sueño prolongado",
+          "Llanto agudo e irritabilidad",
+          "Pérdida de peso excesiva",
+          "Disminución de reflejos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_clinica"],
+        "feedback": "El llanto agudo e irritabilidad son características comunes del síndrome de abstinencia neonatal, asociado a la exposición prenatal a sustancias."
+      },
+      {
+        "enunciado": "En neonatos hipotérmicos, ¿qué intervención inmediata reduce el riesgo de complicaciones metabólicas?",
+        "opciones": [
+          "Administrar soluciones glucosadas orales",
+          "Colocar al neonato en un ambiente cálido y controlado",
+          "Iniciar ventilación con presión positiva",
+          "Administrar una transfusión sanguínea"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prevencion_hipotermia"],
+        "feedback": "Colocar al neonato en un ambiente cálido y controlado es esencial para estabilizar su temperatura y prevenir complicaciones metabólicas asociadas a la hipotermia."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿qué información aporta la letra 'S'?",
+        "opciones": [
+          "La alergia conocida del paciente",
+          "El síntoma guía o principal del neonato",
+          "El evento que condujo al estado actual",
+          "El historial de medicación reciente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'S' en el método SAMPLE se refiere al síntoma guía o principal, que es el problema que motivó la atención médica. Identificar este síntoma permite enfocar la evaluación en la causa más relevante. El método SAMPLE es una herramienta que estructura la anamnesis en neonatos. Cada letra corresponde a un aspecto específico: \n\n- **S**: Síntoma principal.\n- **A**: Alergias.\n- **M**: Medicación actual.\n- **P**: Patologías previas.\n- **L**: Última ingesta de alimentos o líquidos.\n- **E**: Eventos que llevaron al estado actual."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿qué información debe recopilarse con la letra 'A'?",
+        "opciones": [
+          "Alergias conocidas del neonato",
+          "Última actividad realizada",
+          "Edad gestacional al nacer",
+          "Síntomas secundarios presentes"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'A' en el método SAMPLE se refiere a las alergias conocidas del neonato, que incluyen reacciones adversas a medicamentos, alimentos o alérgenos ambientales. Esta información es vital para evitar complicaciones durante el manejo clínico. Por ejemplo, una alergia a ciertos antibióticos puede influir en la elección del tratamiento. SAMPLE es una herramienta estandarizada para organizar la información clínica de manera eficiente."
+      },
+      {
+        "enunciado": "Según el método SAMPLE, ¿qué información se recoge con la letra 'M'?",
+        "opciones": [
+          "La medicación actual o reciente del neonato",
+          "Las medidas antropométricas del recién nacido",
+          "La mecánica respiratoria observada",
+          "La metodología empleada en el diagnóstico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'M' en SAMPLE representa la medicación actual o reciente que el neonato ha recibido, incluyendo suplementos, fórmulas especiales o tratamientos médicos previos. Este aspecto es crítico para identificar posibles interacciones medicamentosas o efectos secundarios. Al integrar el método SAMPLE, se organiza la anamnesis en neonatos de manera estructurada y completa."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿qué información específica proporciona la letra 'P'?",
+        "opciones": [
+          "Patologías previas del neonato",
+          "Posición actual durante la evaluación",
+          "Presión arterial promedio registrada",
+          "Procedimientos médicos realizados"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'P' en SAMPLE se refiere a las patologías previas del neonato, incluyendo condiciones diagnosticadas durante el embarazo o inmediatamente después del nacimiento. Este paso ayuda a identificar factores de riesgo asociados y a contextualizar la situación clínica actual. Por ejemplo, neonatos con antecedentes de prematuridad pueden requerir monitoreo especial por posibles complicaciones respiratorias o metabólicas."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿qué representa la letra 'L' y por qué es importante?",
+        "opciones": [
+          "La localización del síntoma principal",
+          "El nivel de conciencia actual del neonato",
+          "La última ingesta de alimentos o líquidos",
+          "La longitud corporal del recién nacido"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'L' en SAMPLE se refiere a la última ingesta de alimentos o líquidos del neonato, una información clave para evaluar el estado nutricional e hídrico, y para planificar intervenciones como la alimentación enteral o parenteral. Por ejemplo, un intervalo largo desde la última ingesta puede sugerir deshidratación o hipoglucemia en neonatos vulnerables."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿qué se busca identificar con la letra 'E'?",
+        "opciones": [
+          "Eventos que llevaron al estado actual",
+          "Edad gestacional corregida",
+          "Estado emocional del cuidador principal",
+          "Evolución clínica previa a la hospitalización"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La letra 'E' en SAMPLE corresponde a los eventos que llevaron al estado actual del neonato. Esto incluye factores desencadenantes, como un trauma, infecciones recientes o episodios de apnea. Identificar estos eventos proporciona una línea temporal clara, facilitando el enfoque diagnóstico y terapéutico. El método SAMPLE organiza eficientemente esta información en seis categorías esenciales para la evaluación clínica."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿por qué es crucial preguntar sobre alergias ('A') incluso en neonatos con pocos antecedentes médicos?",
+        "opciones": [
+          "Para anticipar reacciones adversas potenciales a medicamentos",
+          "Para documentar la ausencia de alergias en el historial clínico",
+          "Para confirmar la sensibilidad del neonato a la lactosa",
+          "Para evitar errores en la identificación del neonato"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "Preguntar por alergias ('A') en el método SAMPLE permite anticipar y prevenir reacciones adversas que podrían complicar el tratamiento, como alergias a antibióticos o fórmulas infantiles específicas. Incluso en neonatos con antecedentes limitados, este paso asegura la seguridad en la elección de medicamentos o productos de cuidado."
+      },
+      {
+        "enunciado": "En el método SAMPLE, ¿cómo se interpreta la información obtenida sobre 'Eventos que llevaron al estado actual' ('E')?",
+        "opciones": [
+          "Como un antecedente descartable en neonatos sanos",
+          "Como una guía para correlacionar síntomas y posibles diagnósticos",
+          "Como un dato secundario útil solo para el seguimiento a largo plazo",
+          "Como una indicación directa de la evolución nutricional del neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "evaluacion_secundaria"],
+        "feedback": "La información sobre los 'Eventos que llevaron al estado actual' ('E') ayuda a establecer una correlación entre los síntomas presentes y los posibles diagnósticos subyacentes. Por ejemplo, un episodio reciente de fiebre podría orientar hacia una infección neonatal, mientras que antecedentes de trauma pueden sugerir complicaciones específicas. Este análisis contextual permite un enfoque clínico más preciso y dirigido."
+      },
+      {
+        "enunciado": "Según la normativa de Andalucía, ¿qué derecho tienen los padres respecto a la información sobre el estado de salud de su recién nacido hospitalizado?",
+        "opciones": [
+          "Solo recibir informes escritos semanales sobre la evolución del neonato",
+          "Tener acceso a información completa y comprensible en todo momento",
+          "Consultar la historia clínica únicamente al alta del neonato",
+          "Recibir información solo si se detectan complicaciones graves"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "La normativa de Andalucía garantiza a los padres el derecho a recibir información completa, comprensible y continua sobre el estado de salud de su recién nacido. Este derecho está recogido en la Ley de Derechos y Garantías de los Usuarios del Sistema Sanitario de Andalucía, promoviendo una comunicación efectiva y respetuosa entre los profesionales de salud y las familias."
+      },
+      {
+        "enunciado": "¿Qué derecho tienen los padres de un recién nacido ingresado en cuidados intensivos respecto a la permanencia en la unidad?",
+        "opciones": [
+          "Permitir visitas solo durante horarios específicos",
+          "Permanecer junto al neonato durante todo el día, salvo restricciones justificadas",
+          "Visitar al neonato únicamente tras autorización médica diaria",
+          "Estar presentes solo en los procedimientos médicos críticos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "En Andalucía, los padres tienen derecho a permanecer junto a su recién nacido en la unidad de cuidados intensivos durante todo el día, salvo que existan restricciones justificadas por razones clínicas o de seguridad. Este derecho busca promover el vínculo afectivo y el bienestar del neonato y su familia."
+      },
+      {
+        "enunciado": "¿Qué derechos relacionados con la lactancia materna están garantizados para las madres de recién nacidos hospitalizados en Andalucía?",
+        "opciones": [
+          "Acceso limitado a su neonato para no interferir con el tratamiento médico",
+          "Facilidades para mantener y promover la lactancia materna, como salas de extracción y apoyo profesional",
+          "Permitir la lactancia materna solo tras la estabilización clínica del neonato",
+          "Proveer leche de banco en todos los casos para sustituir la lactancia materna"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "Las madres tienen derecho a recibir apoyo para mantener y promover la lactancia materna durante la hospitalización de su recién nacido, incluyendo acceso a salas de extracción de leche, orientación profesional y, cuando sea posible, contacto piel con piel. La lactancia materna es reconocida como un pilar fundamental para la recuperación y el desarrollo neonatal."
+      },
+      {
+        "enunciado": "En el marco de la Ley de los Derechos y la Atención al Menor de Andalucía, ¿qué principio clave rige la atención al recién nacido en el hospital?",
+        "opciones": [
+          "Atención prioritaria a la madre sobre el recién nacido",
+          "Garantía de una atención integral adaptada a las necesidades específicas del neonato",
+          "Enfoque únicamente en el tratamiento médico urgente",
+          "Limitación del acceso de los padres a información médica detallada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "La Ley de los Derechos y la Atención al Menor de Andalucía establece que los recién nacidos deben recibir una atención integral adaptada a sus necesidades, abarcando aspectos médicos, emocionales y sociales. Este principio asegura un enfoque holístico en el cuidado neonatal."
+      },
+      {
+        "enunciado": "¿Qué derecho tienen los padres en Andalucía respecto al consentimiento informado para los procedimientos realizados a su recién nacido?",
+        "opciones": [
+          "Solo recibir información sobre procedimientos ya realizados",
+          "Dar su consentimiento explícito para intervenciones diagnósticas y terapéuticas, salvo urgencias",
+          "Tener acceso limitado a los detalles técnicos de los procedimientos",
+          "Consentir únicamente en el caso de procedimientos quirúrgicos mayores"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "Los padres tienen derecho a otorgar su consentimiento informado para cualquier procedimiento diagnóstico o terapéutico en su recién nacido, excepto en casos de urgencia vital. Esto incluye recibir información clara sobre los riesgos, beneficios y alternativas, fomentando decisiones compartidas entre el equipo médico y la familia."
+      },
+      {
+        "enunciado": "Según la normativa andaluza, ¿qué derecho específico tienen los recién nacidos en el ámbito hospitalario?",
+        "opciones": [
+          "Ser trasladados automáticamente a una unidad de cuidados intensivos al nacer",
+          "Recibir atención especializada independientemente de su situación económica o social",
+          "Tener acceso exclusivo a la tecnología médica más avanzada",
+          "Ser monitoreados constantemente por un solo profesional asignado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "En Andalucía, los recién nacidos tienen derecho a recibir atención especializada de calidad, sin importar su situación económica o social. Este principio de equidad garantiza que todos los neonatos reciban cuidados adecuados y adaptados a sus necesidades clínicas."
+      },
+      {
+        "enunciado": "¿Qué derecho tienen los padres para garantizar el contacto con su recién nacido en cuidados especiales?",
+        "opciones": [
+          "Acceso restringido a una hora al día",
+          "Participar activamente en los cuidados diarios siempre que sea posible",
+          "Pedir la alta médica del neonato en cualquier momento",
+          "Solicitar el traslado inmediato a otra unidad sin restricciones"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "Los padres tienen derecho a participar activamente en los cuidados de su recién nacido en cuidados especiales, siempre que no comprometa su seguridad. Esta participación fortalece el vínculo familiar y contribuye al bienestar emocional del neonato."
+      },
+      {
+        "enunciado": "En Andalucía, ¿qué garantiza la Ley de Salud Pública respecto al aprendizaje de los padres durante la hospitalización neonatal?",
+        "opciones": [
+          "Entrenamiento obligatorio en técnicas de reanimación neonatal",
+          "Capacitación y orientación para la atención del neonato tras el alta",
+          "Acceso restringido a la información hasta el alta hospitalaria",
+          "Participación directa en los procedimientos médicos críticos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "La Ley de Salud Pública de Andalucía garantiza que los padres reciban orientación y capacitación para la atención adecuada del neonato tras el alta hospitalaria, facilitando la continuidad de cuidados en el hogar y promoviendo la seguridad y el bienestar del recién nacido."
+      },
+      {
+        "enunciado": "¿Qué derecho tiene el neonato hospitalizado en Andalucía en cuanto a la privacidad y confidencialidad?",
+        "opciones": [
+          "Compartir información clínica con cualquier familiar cercano",
+          "Mantener la confidencialidad de su historial clínico y situación médica",
+          "Permitir la divulgación de datos clínicos para investigación sin restricciones",
+          "Evitar que los padres tengan acceso a su información clínica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "derechos_pacientes"],
+        "feedback": "El neonato tiene derecho a la privacidad y confidencialidad de su información médica, conforme a la Ley de Protección de Datos y la normativa sanitaria en Andalucía. Esto garantiza que su historial clínico sea tratado con la máxima seguridad y respeto, compartiéndose únicamente con los padres o tutores legales y el equipo médico responsable."
+      },
+      {
+        "enunciado": "¿Cuál es un problema prevalente en las familias con un neonato hospitalizado en cuidados intensivos?",
+        "opciones": [
+          "Falta de acceso a información médica",
+          "Alteración del vínculo afectivo entre los padres y el neonato",
+          "Saturación de visitas familiares al hospital",
+          "Sobreestimulación del neonato por procedimientos médicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "La hospitalización en cuidados intensivos puede afectar el vínculo afectivo entre los padres y el neonato debido a la separación física y emocional. Para mitigar este problema, se fomenta el contacto piel con piel, la participación de los padres en los cuidados diarios y el apoyo psicológico continuo."
+      },
+      {
+        "enunciado": "¿Qué problema de salud es prevalente en neonatos prematuros que requiere intervención temprana?",
+        "opciones": [
+          "Ictericia fisiológica",
+          "Síndrome de dificultad respiratoria",
+          "Malformaciones congénitas menores",
+          "Deshidratación severa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "El síndrome de dificultad respiratoria es prevalente en neonatos prematuros debido a la inmadurez pulmonar y el déficit de surfactante. Su manejo incluye ventilación asistida, administración de surfactante exógeno y monitorización continua para prevenir complicaciones."
+      },
+      {
+        "enunciado": "¿Qué impacto psicológico es frecuente en los padres de neonatos hospitalizados en unidades de cuidados intensivos?",
+        "opciones": [
+          "Aceptación inmediata de la situación",
+          "Ansiedad y estrés elevados",
+          "Falta de interés en participar en los cuidados",
+          "Confianza total en el equipo médico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "La ansiedad y el estrés son reacciones comunes en los padres de neonatos hospitalizados. Esto puede influir en su capacidad para tomar decisiones informadas y participar activamente en el cuidado. El equipo de salud debe proporcionar apoyo emocional, información clara y un entorno colaborativo."
+      },
+      {
+        "enunciado": "En el contexto de los neonatos con bajo peso al nacer, ¿qué complicación metabólica prevalente debe ser vigilada?",
+        "opciones": [
+          "Hipoglucemia",
+          "Hipernatremia",
+          "Hipercalcemia",
+          "Hiperlipidemia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La hipoglucemia es una complicación metabólica prevalente en neonatos con bajo peso al nacer debido a sus reservas limitadas de glucógeno y a una demanda metabólica elevada. La monitorización frecuente de los niveles de glucosa y la intervención temprana son esenciales para prevenir daños neurológicos."
+      },
+      {
+        "enunciado": "¿Qué problema familiar puede surgir debido a la falta de recursos sociales en familias con neonatos hospitalizados?",
+        "opciones": [
+          "Mayor dependencia de los profesionales médicos",
+          "Dificultad para continuar con el cuidado del neonato tras el alta",
+          "Incremento de visitas familiares para proporcionar apoyo emocional",
+          "Reducción de la ansiedad en los cuidadores principales"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "La falta de recursos sociales puede llevar a dificultades en el cuidado del neonato tras el alta, como problemas para acceder a medicamentos, alimentos especiales o seguimiento médico. Es importante que los servicios sociales y de salud trabajen de manera coordinada para apoyar a estas familias."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente en neonatos con alimentación por sonda requiere atención específica?",
+        "opciones": [
+          "Malposición de la sonda",
+          "Disminución de la motilidad intestinal",
+          "Sobrealimentación frecuente",
+          "Rechazo de la lactancia materna al alta"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La malposición de la sonda es un problema prevalente en neonatos con alimentación enteral y puede causar complicaciones como aspiración o perforación esofágica. Verificar la posición de la sonda antes de cada alimentación es esencial para garantizar la seguridad del neonato."
+      },
+      {
+        "enunciado": "¿Qué necesidad emocional prevalente tienen los hermanos de neonatos hospitalizados?",
+        "opciones": [
+          "Mayor atención de los profesionales médicos",
+          "Explicaciones claras sobre la situación del neonato",
+          "Reducción del tiempo de hospitalización del neonato",
+          "Acceso limitado a información sobre la evolución del neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "Los hermanos de neonatos hospitalizados suelen necesitar explicaciones claras y adaptadas a su edad sobre la situación del neonato para reducir su ansiedad y promover su participación en el apoyo familiar. Involucrarlos en actividades simbólicas puede ayudar a reforzar los vínculos familiares."
+      },
+      {
+        "enunciado": "En el contexto de neonatos con infección congénita, ¿qué problema clínico es más frecuente?",
+        "opciones": [
+          "Malformaciones estructurales mayores",
+          "Bajo peso al nacer y sepsis neonatal",
+          "Hiperglucemia transitoria",
+          "Hipertensión pulmonar persistente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "El bajo peso al nacer y la sepsis neonatal son complicaciones frecuentes en neonatos con infecciones congénitas, como citomegalovirus o toxoplasmosis. Su manejo requiere un enfoque multidisciplinar, incluyendo terapia antimicrobiana, soporte nutricional y monitorización continua."
+      },
+      {
+        "enunciado": "¿Qué intervención puede mitigar los efectos del estrés parental durante la hospitalización neonatal?",
+        "opciones": [
+          "Proporcionar información técnica detallada diariamente",
+          "Fomentar el contacto piel con piel siempre que sea posible",
+          "Limitar las visitas familiares al mínimo necesario",
+          "Priorizar la comunicación escrita en lugar de verbal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "El contacto piel con piel es una intervención efectiva para reducir el estrés parental, fortalecer el vínculo afectivo y promover el bienestar emocional tanto de los padres como del neonato."
+      },
+      {
+        "enunciado": "¿Qué complicación prevalente debe ser considerada en neonatos con ventilación mecánica prolongada?",
+        "opciones": [
+          "Infecciones respiratorias asociadas al ventilador",
+          "Hiperglucemia persistente",
+          "Deshidratación severa",
+          "Alteraciones en el desarrollo neurológico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "Las infecciones respiratorias asociadas al ventilador son complicaciones frecuentes en neonatos con ventilación mecánica prolongada. La implementación de medidas preventivas, como higiene estricta y cambios de posición regulares, es crucial para minimizar este riesgo."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente enfrentan los padres de neonatos con enfermedades crónicas diagnosticadas al nacer?",
+        "opciones": [
+          "Dificultad para aceptar el diagnóstico y planificar el cuidado a largo plazo",
+          "Falta de acceso a programas de apoyo social",
+          "Exceso de tiempo disponible para dedicar al cuidado del neonato",
+          "Confusión en la relación con el personal médico tratante"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "Los padres de neonatos con enfermedades crónicas a menudo enfrentan dificultades emocionales para aceptar el diagnóstico y planificar el cuidado a largo plazo. El equipo de salud debe proporcionar un enfoque multidisciplinar que incluya apoyo psicológico, educación sobre la condición y recursos comunitarios para el cuidado continuo."
+      },
+      {
+        "enunciado": "En neonatos hospitalizados, ¿qué problema prevalente puede surgir relacionado con el manejo de líquidos intravenosos?",
+        "opciones": [
+          "Hipervolemia por administración excesiva",
+          "Deficiencia de electrolitos esenciales",
+          "Resistencia del neonato a la terapia intravenosa",
+          "Falla en la absorción de nutrientes por vía intravenosa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La hipervolemia es un problema frecuente cuando no se ajustan correctamente los volúmenes de líquidos intravenosos administrados. Los neonatos requieren un monitoreo estricto de balance hídrico para prevenir sobrecarga de líquidos, que puede afectar la función renal y cardíaca."
+      },
+      {
+        "enunciado": "En neonatos con hiperbilirrubinemia, ¿qué complicación puede surgir si no se trata adecuadamente?",
+        "opciones": [
+          "Ictericia persistente sin consecuencias",
+          "Kernicterus con daño neurológico irreversible",
+          "Incremento de peso acelerado",
+          "Anemia leve autolimitada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "El kernicterus, una forma grave de daño neurológico, puede ocurrir en casos de hiperbilirrubinemia no tratada. La fototerapia y, en casos graves, la exanguinotransfusión, son tratamientos esenciales para prevenir esta complicación en neonatos con niveles elevados de bilirrubina."
+      },
+      {
+        "enunciado": "¿Qué problema de salud mental prevalente pueden desarrollar los padres de neonatos hospitalizados por tiempo prolongado?",
+        "opciones": [
+          "Síndrome de estrés postraumático (TEPT)",
+          "Trastorno obsesivo-compulsivo",
+          "Dependencia emocional hacia el personal médico",
+          "Fobia a los entornos hospitalarios"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "El síndrome de estrés postraumático (TEPT) puede desarrollarse en los padres debido a la ansiedad y el miedo asociados con la hospitalización prolongada de su neonato. El apoyo psicológico y la intervención temprana son fundamentales para mitigar el impacto emocional a largo plazo."
+      },
+      {
+        "enunciado": "En neonatos con síndrome de dificultad respiratoria, ¿qué complicación prevalente requiere atención prioritaria?",
+        "opciones": [
+          "Hipertensión pulmonar persistente",
+          "Hipoglucemia por estrés metabólico",
+          "Infección secundaria al tratamiento",
+          "Deficiencia de hierro"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La hipertensión pulmonar persistente es una complicación seria asociada al síndrome de dificultad respiratoria. Esta condición compromete el intercambio gaseoso y requiere un manejo especializado con oxigenoterapia y soporte ventilatorio."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente enfrentan las familias de neonatos prematuros tras el alta hospitalaria?",
+        "opciones": [
+          "Desconocimiento de signos de alerta en el neonato",
+          "Exceso de apoyo de profesionales de salud",
+          "Dificultad para administrar tratamientos simples",
+          "Falta de necesidad de seguimiento médico especializado"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "El desconocimiento de los signos de alerta en el neonato prematuro puede poner en riesgo su salud tras el alta hospitalaria. La educación a los padres sobre signos como dificultad respiratoria, fiebre o alimentación insuficiente es clave para un cuidado seguro en el hogar."
+      },
+      {
+        "enunciado": "En neonatos con nutrición parenteral prolongada, ¿qué problema metabólico es prevalente?",
+        "opciones": [
+          "Hipervitaminosis",
+          "Colestasis asociada a nutrición parenteral",
+          "Incremento acelerado de la motilidad intestinal",
+          "Disminución de la glucosa plasmática"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_metabolicos"],
+        "feedback": "La colestasis es una complicación prevalente en neonatos con nutrición parenteral prolongada. Se caracteriza por la acumulación de bilirrubina directa debido al efecto tóxico de la nutrición intravenosa en el hígado. La transición a la alimentación enteral lo antes posible ayuda a prevenir esta condición."
+      },
+      {
+        "enunciado": "¿Qué problema frecuente puede surgir en neonatos con infecciones congénitas no diagnosticadas a tiempo?",
+        "opciones": [
+          "Anemia autolimitada",
+          "Deterioro del desarrollo neurológico",
+          "Incremento transitorio de peso",
+          "Resolución espontánea de la infección"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "El deterioro del desarrollo neurológico es una complicación grave en neonatos con infecciones congénitas no tratadas, como citomegalovirus o toxoplasmosis. La detección temprana y el tratamiento adecuado pueden prevenir daños irreversibles en el sistema nervioso central."
+      },
+      {
+        "enunciado": "En familias con neonatos hospitalizados, ¿qué estrategia es clave para manejar el impacto emocional en los cuidadores principales?",
+        "opciones": [
+          "Limitar la información proporcionada sobre el estado del neonato",
+          "Ofrecer apoyo psicológico y sesiones de acompañamiento emocional",
+          "Restringir el contacto de los padres con el neonato",
+          "Evitar involucrar a los padres en los cuidados diarios"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "El apoyo psicológico y las sesiones de acompañamiento emocional son esenciales para ayudar a los cuidadores principales a manejar el impacto emocional de la hospitalización del neonato. Estas intervenciones mejoran su capacidad de afrontamiento y promueven una mejor relación con el equipo médico."
+      },
+      {
+        "enunciado": "En neonatos con bajo peso al nacer, ¿qué complicación hematológica es más prevalente?",
+        "opciones": [
+          "Policitemia",
+          "Anemia fisiológica del prematuro",
+          "Aumento de plaquetas",
+          "Hiperviscosidad sanguínea"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_hematologicos"],
+        "feedback": "La anemia fisiológica del prematuro es común en neonatos con bajo peso al nacer debido a la disminución transitoria de la producción de eritropoyetina y al rápido crecimiento. Requiere monitoreo constante y, en algunos casos, tratamiento con suplementos de hierro o transfusiones."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente puede surgir en neonatos sometidos a fototerapia prolongada?",
+        "opciones": [
+          "Hipocalcemia transitoria",
+          "Deshidratación por pérdida insensible de líquidos",
+          "Hipoglucemia severa",
+          "Hipertermia no controlada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La deshidratación por pérdida insensible de líquidos es un problema prevalente en neonatos sometidos a fototerapia prolongada. Esto se debe al aumento de la temperatura y a la evaporación a través de la piel. Es fundamental monitorizar el balance hídrico y ajustar los líquidos intravenosos o la ingesta enteral según sea necesario."
+      },
+      {
+        "enunciado": "En neonatos con reflujo gastroesofágico significativo, ¿qué problema secundario es más común?",
+        "opciones": [
+          "Retraso en el crecimiento debido a la mala absorción",
+          "Infecciones respiratorias recurrentes",
+          "Diarrea crónica por desequilibrio intestinal",
+          "Hipersensibilidad a las proteínas de la leche"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "Las infecciones respiratorias recurrentes son comunes en neonatos con reflujo gastroesofágico, ya que la aspiración de contenido gástrico puede irritar las vías respiratorias. El tratamiento incluye medidas posturales, fórmulas espesadas y, en casos severos, medicación o intervención quirúrgica."
+      },
+      {
+        "enunciado": "En neonatos con sepsis neonatal temprana, ¿qué complicación crítica es más prevalente?",
+        "opciones": [
+          "Insuficiencia renal aguda",
+          "Coagulación intravascular diseminada (CID)",
+          "Hipoglucemia transitoria",
+          "Disminución de reflejos primitivos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La coagulación intravascular diseminada (CID) es una complicación crítica en neonatos con sepsis neonatal temprana. Esta condición implica una alteración en los mecanismos de coagulación, lo que puede llevar a sangrados severos y daño multiorgánico. Requiere intervención inmediata con tratamiento antibiótico y soporte hemodinámico."
+      },
+      {
+        "enunciado": "¿Qué problema puede presentar un neonato con nutrición enteral prolongada a través de una sonda?",
+        "opciones": [
+          "Esofagitis por irritación mecánica",
+          "Aumento de peso excesivo",
+          "Deficiencia de nutrientes esenciales",
+          "Hipoglucemia recurrente"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La esofagitis por irritación mecánica puede desarrollarse en neonatos con nutrición enteral prolongada mediante sonda. Es importante revisar periódicamente la posición de la sonda y utilizar dispositivos adecuados para minimizar el riesgo de daño esofágico."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿qué problema oftalmológico prevalente requiere intervención temprana?",
+        "opciones": [
+          "Retinopatía del prematuro (ROP)",
+          "Glaucoma congénito",
+          "Catarata neonatal",
+          "Estrabismo fisiológico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La retinopatía del prematuro (ROP) es una complicación prevalente en neonatos prematuros, especialmente aquellos con bajo peso al nacer y exposición prolongada a oxigenoterapia. La detección temprana mediante tamizaje oftalmológico permite intervenciones como fotocoagulación con láser para prevenir la ceguera."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente enfrentan los padres de neonatos con malformaciones congénitas graves?",
+        "opciones": [
+          "Dificultad para obtener información clara sobre el pronóstico",
+          "Falta de acceso a cuidados paliativos neonatales",
+          "Exceso de apoyo médico para tomar decisiones",
+          "Resistencia al apego emocional con el neonato"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_familiares"],
+        "feedback": "Los padres de neonatos con malformaciones congénitas graves a menudo enfrentan dificultades para obtener información clara y comprensible sobre el pronóstico y las opciones de tratamiento. Los equipos médicos deben garantizar una comunicación empática y accesible, además de ofrecer apoyo psicológico para la toma de decisiones informadas."
+      },
+      {
+        "enunciado": "En neonatos sometidos a ventilación mecánica prolongada, ¿qué complicación pulmonar prevalente puede desarrollarse?",
+        "opciones": [
+          "Enfermedad pulmonar crónica (displasia broncopulmonar)",
+          "Neumonía bacteriana recurrente",
+          "Hiperreactividad bronquial",
+          "Hipoplasia pulmonar"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La displasia broncopulmonar (DBP) es una complicación prevalente en neonatos con ventilación mecánica prolongada. Se caracteriza por una inflamación y daño pulmonar crónico que afecta la función respiratoria. Su manejo incluye soporte ventilatorio optimizado, oxigenoterapia controlada y seguimiento especializado."
+      },
+      {
+        "enunciado": "¿Qué problema metabólico prevalente puede surgir en neonatos tratados con diuréticos durante largo tiempo?",
+        "opciones": [
+          "Hiperkalemia",
+          "Hipocalcemia",
+          "Alcalosis metabólica hipoclorémica",
+          "Acidosis metabólica compensada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_metabolicos"],
+        "feedback": "La alcalosis metabólica hipoclorémica es una complicación prevalente en neonatos tratados con diuréticos, como la furosemida, debido a la pérdida de cloro y bicarbonato. El tratamiento incluye la corrección de desequilibrios electrolíticos y el ajuste de la terapia diurética."
+      },
+      {
+        "enunciado": "En neonatos con enterocolitis necrotizante, ¿qué complicación grave es más común?",
+        "opciones": [
+          "Perforación intestinal",
+          "Ictericia severa",
+          "Hernia diafragmática secundaria",
+          "Obstrucción de las vías biliares"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "La perforación intestinal es una complicación grave y común de la enterocolitis necrotizante (ECN). Esta condición requiere intervención quirúrgica urgente para prevenir sepsis y fallo multiorgánico. La ECN se asocia con prematuridad y nutrición enteral temprana en neonatos vulnerables."
+      },
+      {
+        "enunciado": "¿Qué problema prevalente puede surgir en neonatos con alimentación enteral insuficiente durante su hospitalización?",
+        "opciones": [
+          "Déficit calórico y retraso en el crecimiento",
+          "Aumento de la motilidad intestinal",
+          "Intolerancia a fórmulas específicas",
+          "Hipernatremia secundaria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "problemas_neonatales"],
+        "feedback": "El déficit calórico y el retraso en el crecimiento son problemas comunes en neonatos con alimentación enteral insuficiente. Se requiere un monitoreo continuo del peso y la ingesta calórica para ajustar la alimentación a las necesidades específicas del neonato."
+      },
+      {
+        "enunciado": "En neonatos de bajo peso al nacer, ¿cuál es la causa más común de hipotermia en las primeras horas de vida?",
+        "opciones": [
+          "Producción excesiva de calor metabólico",
+          "Pérdida de calor por evaporación y conducción",
+          "Hipoglucemia transitoria",
+          "Déficit de oxígeno tisular"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La pérdida de calor por evaporación y conducción es la principal causa de hipotermia en neonatos de bajo peso al nacer debido a su inmadurez y menor capacidad para regular la temperatura. El uso de incubadoras, contacto piel con piel y ropa térmica puede prevenir esta complicación."
+      },
+      {
+        "enunciado": "¿Qué complicación gastrointestinal es más frecuente en neonatos prematuros con bajo peso al nacer?",
+        "opciones": [
+          "Hernia hiatal",
+          "Reflujo gastroesofágico",
+          "Enterocolitis necrotizante",
+          "Intolerancia a la lactosa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La enterocolitis necrotizante (ECN) es una complicación frecuente en neonatos prematuros con bajo peso al nacer. Se caracteriza por inflamación y necrosis intestinal. Su manejo incluye la suspensión de la alimentación enteral, el inicio de terapia antibiótica y, en algunos casos, intervención quirúrgica."
+      },
+      {
+        "enunciado": "¿Cuál es una característica clínica común en neonatos prematuros con síndrome de dificultad respiratoria?",
+        "opciones": [
+          "Saturación de oxígeno superior al 95% al nacer",
+          "Ausencia de retracciones intercostales",
+          "Presencia de aleteo nasal y quejido respiratorio",
+          "Cianosis periférica únicamente durante el llanto"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El aleteo nasal y el quejido respiratorio son signos característicos del síndrome de dificultad respiratoria en neonatos prematuros, resultado de la inmadurez pulmonar y la falta de surfactante. Estos signos requieren intervención inmediata, como oxigenoterapia y administración de surfactante."
+      },
+      {
+        "enunciado": "En el manejo de neonatos de bajo peso, ¿qué intervención reduce el riesgo de infecciones nosocomiales?",
+        "opciones": [
+          "Administración de antibióticos profilácticos a largo plazo",
+          "Uso estricto de medidas de asepsia durante los cuidados",
+          "Aislamiento completo del neonato durante su hospitalización",
+          "Rotación constante del personal que lo atiende"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El uso estricto de medidas de asepsia, como lavado de manos, uso de guantes y limpieza de equipos, es crucial para prevenir infecciones nosocomiales en neonatos de bajo peso, quienes tienen un sistema inmunológico inmaduro y mayor vulnerabilidad a las infecciones."
+      },
+      {
+        "enunciado": "¿Qué complicación metabólica es más común en neonatos prematuros inmediatamente después del nacimiento?",
+        "opciones": [
+          "Hiperbilirrubinemia",
+          "Hipoglucemia",
+          "Hiponatremia",
+          "Hipocalcemia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La hipoglucemia es una complicación metabólica frecuente en neonatos prematuros debido a sus bajas reservas de glucógeno y su alta demanda metabólica. Requiere monitoreo frecuente y administración de glucosa intravenosa o enteral según sea necesario."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿cuál es una estrategia efectiva para mejorar su desarrollo neurológico a largo plazo?",
+        "opciones": [
+          "Administrar fórmulas especializadas en lugar de lactancia materna",
+          "Fomentar el contacto piel con piel (método canguro)",
+          "Evitar la estimulación sensorial en la incubadora",
+          "Realizar exámenes neurológicos anuales únicamente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El método canguro, que incluye el contacto piel con piel, es una estrategia efectiva para mejorar el desarrollo neurológico, la regulación térmica y el vínculo afectivo en neonatos prematuros. También contribuye a estabilizar signos vitales y a promover la lactancia materna."
+      },
+      {
+        "enunciado": "¿Qué medida es fundamental para prevenir la displasia broncopulmonar en neonatos prematuros con ventilación mecánica prolongada?",
+        "opciones": [
+          "Administrar oxígeno en concentraciones superiores al 50%",
+          "Usar surfactante exógeno solo en casos avanzados",
+          "Ajustar las presiones ventilatorias al mínimo necesario",
+          "Incrementar la frecuencia respiratoria de forma rutinaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "Ajustar las presiones ventilatorias al mínimo necesario es clave para prevenir la displasia broncopulmonar, una complicación asociada al daño pulmonar crónico en neonatos prematuros sometidos a ventilación mecánica prolongada. Este manejo reduce el riesgo de barotrauma y daño alveolar."
+      },
+      {
+        "enunciado": "En neonatos de bajo peso, ¿qué parámetro antropométrico debe monitorizarse con mayor frecuencia para evaluar el crecimiento?",
+        "opciones": [
+          "Longitud corporal",
+          "Perímetro cefálico",
+          "Peso diario",
+          "Diámetro torácico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El peso diario es el parámetro antropométrico más sensible para monitorizar el crecimiento en neonatos de bajo peso. Las variaciones en el peso reflejan la eficacia de la nutrición y pueden alertar sobre posibles problemas metabólicos o infecciosos."
+      },
+      {
+        "enunciado": "¿Cuál es una complicación neurológica asociada al bajo peso al nacer en neonatos prematuros?",
+        "opciones": [
+          "Convulsiones febriles recurrentes",
+          "Hemorragia intraventricular",
+          "Epilepsia neonatal primaria",
+          "Hipertensión intracraneal transitoria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La hemorragia intraventricular es una complicación neurológica frecuente en neonatos prematuros de bajo peso al nacer, debido a la fragilidad de los vasos cerebrales inmaduros. Su manejo incluye monitorización neurosonográfica y cuidados intensivos para prevenir progresión."
+      },
+      {
+        "enunciado": "En neonatos prematuros con ductus arterioso persistente, ¿qué signo clínico es más característico?",
+        "opciones": [
+          "Cianosis periférica persistente",
+          "Presión arterial elevada",
+          "Soplo sistólico continuo",
+          "Bradicardia marcada durante el sueño"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El soplo sistólico continuo es un signo característico del ductus arterioso persistente en neonatos prematuros. Esta condición ocurre por la conexión anómala entre la aorta y la arteria pulmonar, y puede requerir manejo médico con inhibidores de prostaglandinas o intervención quirúrgica."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿cuál es una causa común de apnea neonatal?",
+        "opciones": [
+          "Hipocalcemia",
+          "Inmadurez del centro respiratorio en el tronco encefálico",
+          "Deficiencia de vitamina D",
+          "Sobreestimulación sensorial"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La inmadurez del centro respiratorio en el tronco encefálico es una causa común de apnea neonatal en prematuros. Esta condición se caracteriza por pausas respiratorias superiores a 20 segundos y puede requerir estimulación táctil, administración de cafeína o soporte ventilatorio según la gravedad."
+      },
+      {
+        "enunciado": "En neonatos prematuros con bajo peso, ¿qué intervención es clave para reducir el riesgo de enterocolitis necrotizante?",
+        "opciones": [
+          "Alimentación enteral rápida con fórmulas comerciales",
+          "Uso de antibióticos profilácticos de amplio espectro",
+          "Inicio temprano de leche materna fortificada",
+          "Suspensión de la nutrición enteral en las primeras semanas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El inicio temprano de leche materna fortificada es una intervención clave para reducir el riesgo de enterocolitis necrotizante en neonatos prematuros. La leche materna contiene factores inmunológicos que protegen el tracto gastrointestinal y promueven el desarrollo de una microbiota saludable."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿qué prueba es fundamental para diagnosticar hemorragia intraventricular?",
+        "opciones": [
+          "Electroencefalograma (EEG)",
+          "Ecografía transfontanelar",
+          "Tomografía computarizada de cráneo",
+          "Monitorización continua de la presión intracraneal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La ecografía transfontanelar es una prueba fundamental para diagnosticar hemorragia intraventricular en neonatos prematuros. Es no invasiva, accesible y permite detectar sangrados en las primeras fases, facilitando un manejo precoz y adecuado."
+      },
+      {
+        "enunciado": "En el manejo de neonatos con ductus arterioso persistente, ¿qué medicamento se utiliza frecuentemente para cerrar el ducto?",
+        "opciones": [
+          "Furosemida",
+          "Ibuprofeno o indometacina",
+          "Prostaglandina E1",
+          "Heparina sódica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El ibuprofeno o la indometacina son medicamentos comúnmente utilizados para cerrar el ductus arterioso persistente en neonatos prematuros. Actúan inhibiendo la síntesis de prostaglandinas, lo que facilita el cierre del ducto. En casos refractarios, puede ser necesaria una intervención quirúrgica."
+      },
+      {
+        "enunciado": "En neonatos de bajo peso, ¿qué tipo de hipoglucemia es más prevalente?",
+        "opciones": [
+          "Hipoglucemia transitoria por inmadurez metabólica",
+          "Hipoglucemia refractaria por insuficiencia suprarrenal",
+          "Hipoglucemia reactiva postprandial",
+          "Hipoglucemia inducida por estrés"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La hipoglucemia transitoria por inmadurez metabólica es común en neonatos de bajo peso debido a la baja reserva de glucógeno y la inmadurez hepática para regular la gluconeogénesis. Su manejo incluye monitoreo frecuente y administración de glucosa intravenosa si es necesario."
+      },
+      {
+        "enunciado": "¿Qué intervención es fundamental en neonatos prematuros para prevenir el daño pulmonar crónico?",
+        "opciones": [
+          "Evitar el uso de surfactante exógeno",
+          "Reducir al mínimo la duración de la ventilación mecánica",
+          "Administrar oxígeno suplementario al 100%",
+          "Limitar la nutrición parenteral a 48 horas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "Reducir la duración de la ventilación mecánica es fundamental para prevenir el daño pulmonar crónico en neonatos prematuros. Esto incluye la transición temprana a métodos menos invasivos, como CPAP nasal, y el uso de oxígeno controlado para minimizar el riesgo de displasia broncopulmonar."
+      },
+      {
+        "enunciado": "En el manejo inicial de neonatos prematuros, ¿qué medida es clave para estabilizar la temperatura corporal?",
+        "opciones": [
+          "Proveer líquidos tibios por vía intravenosa",
+          "Colocar al neonato en una incubadora de calor radiante",
+          "Administrar leche materna inmediatamente",
+          "Usar mantas convencionales para cubrir al neonato"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "Colocar al neonato en una incubadora de calor radiante es una medida esencial para estabilizar la temperatura corporal en neonatos prematuros, quienes tienen un alto riesgo de hipotermia debido a su superficie corporal amplia y baja grasa subcutánea."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿qué complicación ocular requiere seguimiento oftalmológico temprano?",
+        "opciones": [
+          "Cataratas congénitas",
+          "Retinopatía del prematuro (ROP)",
+          "Glaucoma secundario",
+          "Degeneración macular"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La retinopatía del prematuro (ROP) es una complicación ocular frecuente en neonatos prematuros debido a la inmadurez vascular de la retina. Su diagnóstico temprano y tratamiento con láser o inyecciones intravítreas pueden prevenir la ceguera."
+      },
+      {
+        "enunciado": "En neonatos de muy bajo peso al nacer, ¿qué parámetro indica un riesgo aumentado de infecciones nosocomiales?",
+        "opciones": [
+          "Peso menor de 1.500 gramos",
+          "Nivel de hematocrito elevado",
+          "Saturación de oxígeno mantenida en 95%",
+          "Dieta exclusiva con leche materna"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El peso menor de 1.500 gramos es un indicador de mayor riesgo de infecciones nosocomiales en neonatos debido a la inmadurez del sistema inmunológico. La prevención incluye estrictas medidas de asepsia y monitoreo cuidadoso."
+      },
+      {
+        "enunciado": "En neonatos prematuros con problemas gastrointestinales, ¿qué medida es clave para prevenir la intolerancia alimentaria?",
+        "opciones": [
+          "Administrar fórmulas comerciales inmediatamente",
+          "Iniciar alimentación enteral de forma gradual",
+          "Proporcionar nutrientes exclusivamente por vía parenteral",
+          "Evitar la alimentación enteral durante las primeras 72 horas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "Iniciar la alimentación enteral de forma gradual es fundamental para prevenir la intolerancia alimentaria en neonatos prematuros. Esto permite que el tracto gastrointestinal inmaduro se adapte progresivamente a la digestión y absorción de nutrientes."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿cuál es el principal factor de riesgo para desarrollar hemorragia intraventricular?",
+        "opciones": [
+          "Uso prolongado de oxígeno suplementario",
+          "Inmadurez de los vasos sanguíneos cerebrales",
+          "Hipoglucemia severa recurrente",
+          "Exceso de estimulación sensorial en la incubadora"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La inmadurez de los vasos sanguíneos cerebrales en neonatos prematuros los predispone a hemorragia intraventricular, especialmente si enfrentan fluctuaciones hemodinámicas o hipoxia. Un manejo cuidadoso incluye estabilización cardiovascular y monitorización neurosonográfica frecuente."
+      },
+      {
+        "enunciado": "¿Qué intervención es fundamental en neonatos de muy bajo peso para prevenir la osteopenia de la prematuridad?",
+        "opciones": [
+          "Aumentar la suplementación de calcio y fósforo en la nutrición",
+          "Evitar el uso de leche materna en las primeras semanas",
+          "Limitar la exposición a la luz natural",
+          "Incrementar el volumen de líquidos intravenosos administrados"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La osteopenia de la prematuridad es común en neonatos de muy bajo peso debido a la deficiencia de calcio y fósforo. La suplementación adecuada en la nutrición parenteral y enteral es esencial para prevenir esta complicación y promover el desarrollo óseo."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿cuál es un signo temprano de sepsis neonatal?",
+        "opciones": [
+          "Ictericia fisiológica leve",
+          "Letargo e hipotonía",
+          "Incremento en el reflejo de Moro",
+          "Temperatura axilar superior a 37,5 °C"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El letargo e hipotonía son signos tempranos de sepsis neonatal en prematuros. Estas manifestaciones inespecíficas requieren una evaluación inmediata, incluyendo hemocultivos y marcadores inflamatorios, para iniciar el tratamiento antibiótico adecuado."
+      },
+      {
+        "enunciado": "¿Cuál es una complicación respiratoria prevalente en neonatos prematuros con ventilación mecánica prolongada?",
+        "opciones": [
+          "Edema pulmonar leve",
+          "Displasia broncopulmonar",
+          "Apnea del prematuro",
+          "Hernia diafragmática secundaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La displasia broncopulmonar es una complicación prevalente en neonatos prematuros sometidos a ventilación mecánica prolongada. Es un trastorno crónico caracterizado por inflamación y remodelación pulmonar. Su prevención incluye minimizar la presión y el tiempo de ventilación, así como usar oxígeno suplementario cuidadosamente."
+      },
+      {
+        "enunciado": "En el manejo de neonatos con bajo peso, ¿qué parámetro metabólico debe monitorearse regularmente para prevenir complicaciones neurológicas?",
+        "opciones": [
+          "Nivel de bilirrubina total",
+          "Glucosa en sangre",
+          "Concentración de hemoglobina",
+          "Niveles de sodio plasmático"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El monitoreo regular de la glucosa en sangre es crucial en neonatos de bajo peso, ya que la hipoglucemia puede provocar daños neurológicos permanentes si no se trata rápidamente. Su manejo incluye administración de glucosa intravenosa y ajuste de la alimentación enteral."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿qué intervención ayuda a prevenir la retinopatía del prematuro (ROP)?",
+        "opciones": [
+          "Administrar suplementos de hierro desde el nacimiento",
+          "Monitorear y limitar la concentración de oxígeno suplementario",
+          "Incrementar la exposición a luz natural en la incubadora",
+          "Usar ventilación de alta frecuencia desde el primer día"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El monitoreo y la limitación de la concentración de oxígeno suplementario son esenciales para prevenir la retinopatía del prematuro (ROP). Mantener la saturación de oxígeno dentro de rangos objetivos adecuados reduce el riesgo de alteraciones en el desarrollo vascular de la retina."
+      },
+      {
+        "enunciado": "En neonatos de bajo peso al nacer, ¿qué técnica de alimentación es preferida inicialmente?",
+        "opciones": [
+          "Alimentación parenteral exclusiva",
+          "Lactancia materna fortificada gradualmente",
+          "Fórmulas de alta densidad calórica desde el primer día",
+          "Nutrición enteral rápida y en grandes volúmenes"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La lactancia materna fortificada gradualmente es la técnica preferida para neonatos de bajo peso al nacer, ya que combina los beneficios inmunológicos y nutricionales de la leche materna con un aporte adicional de calorías y nutrientes necesarios para su crecimiento."
+      },
+      {
+        "enunciado": "¿Qué problema cardiovascular es común en neonatos prematuros con bajo peso al nacer?",
+        "opciones": [
+          "Hipertensión sistémica",
+          "Ductus arterioso persistente",
+          "Bradicardia recurrente",
+          "Cardiopatía congénita"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El ductus arterioso persistente es un problema cardiovascular frecuente en neonatos prematuros con bajo peso al nacer debido a la inmadurez del sistema circulatorio. Puede causar sobrecarga pulmonar y fallo cardíaco si no se cierra espontáneamente o con tratamiento médico o quirúrgico."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿cuál es una indicación para iniciar la terapia con surfactante exógeno?",
+        "opciones": [
+          "Signos clínicos de hipoxia persistente",
+          "Saturación de oxígeno superior al 95%",
+          "Aleteo nasal leve sin dificultad respiratoria",
+          "Cierre prematuro del ductus arterioso"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La terapia con surfactante exógeno se indica en neonatos prematuros con signos clínicos de hipoxia persistente debido a la deficiencia de surfactante. Este tratamiento mejora la función pulmonar al reducir la tensión superficial en los alvéolos y prevenir el colapso pulmonar."
+      },
+      {
+        "enunciado": "En el manejo de neonatos de bajo peso, ¿cuál es una medida efectiva para prevenir infecciones del torrente sanguíneo asociadas a dispositivos?",
+        "opciones": [
+          "Cambio diario de las vías centrales",
+          "Uso de apósitos estériles y cambios regulares según protocolo",
+          "Evitar la monitorización invasiva de constantes vitales",
+          "Administración profiláctica de antibióticos a largo plazo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El uso de apósitos estériles y cambios regulares según protocolo es una medida efectiva para prevenir infecciones del torrente sanguíneo asociadas a dispositivos en neonatos de bajo peso. La asepsia rigurosa durante la manipulación también es fundamental para minimizar este riesgo."
+      },
+      {
+        "enunciado": "En neonatos prematuros, ¿qué complicación hematológica es más frecuente debido a la inmadurez de su sistema hematopoyético?",
+        "opciones": [
+          "Anemia fisiológica del prematuro",
+          "Trombocitopenia inmunitaria",
+          "Policitemia transitoria",
+          "Hemofilia adquirida"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La anemia fisiológica del prematuro es frecuente debido a la inmadurez de la médula ósea y la disminución transitoria en la producción de eritropoyetina. Su manejo incluye monitoreo de hemoglobina y, en casos graves, transfusión de glóbulos rojos o suplementación de hierro."
+      },
+      {
+        "enunciado": "En neonatos de muy bajo peso al nacer, ¿qué complicación neurológica puede prevenirse mediante el manejo adecuado de la hemodinámica?",
+        "opciones": [
+          "Convulsiones neonatales idiopáticas",
+          "Hemorragia intraventricular",
+          "Hipertensión intracraneal",
+          "Encefalopatía hipóxico-isquémica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La hemorragia intraventricular es una complicación neurológica que puede prevenirse mediante el manejo adecuado de la hemodinámica en neonatos de muy bajo peso. Esto incluye evitar fluctuaciones bruscas en la presión arterial y garantizar una oxigenación adecuada para reducir el riesgo de sangrado cerebral."
+      },
+      {
+        "enunciado": "En el manejo de neonatos prematuros, ¿cuál es un signo temprano de intolerancia a la alimentación enteral?",
+        "opciones": [
+          "Distensión abdominal progresiva",
+          "Aumento de peso diario",
+          "Patrón de evacuaciones regular",
+          "Reducción de los sonidos intestinales"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La distensión abdominal progresiva es un signo temprano de intolerancia a la alimentación enteral en neonatos prematuros. Su presencia puede indicar un problema subyacente como enterocolitis necrotizante y requiere evaluación inmediata para ajustar la nutrición o iniciar tratamiento."
+      },
+      {
+        "enunciado": "En neonatos prematuros con apnea, ¿cuál es una intervención de primera línea para el manejo inicial?",
+        "opciones": [
+          "Ventilación mecánica inmediata",
+          "Administración de cafeína",
+          "Oxigenoterapia al 100%",
+          "Posición en decúbito prono"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "La administración de cafeína es una intervención de primera línea para el manejo de la apnea del prematuro. Actúa estimulando el centro respiratorio inmaduro, reduciendo la frecuencia y severidad de los episodios de apnea."
+      },
+      {
+        "enunciado": "En neonatos de bajo peso, ¿qué complicación metabólica está asociada al déficit de vitamina D?",
+        "opciones": [
+          "Osteopenia de la prematuridad",
+          "Hiperfosfatemia",
+          "Acidosis metabólica",
+          "Hiponatremia"
+        ],
+        "correcta": 0,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "La osteopenia de la prematuridad es una complicación metabólica asociada al déficit de vitamina D y a la insuficiencia de calcio y fósforo en neonatos de bajo peso. Su manejo incluye suplementación de estos nutrientes para promover el desarrollo óseo."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal del uso de CPAP nasal en neonatos prematuros?",
+        "opciones": [
+          "Incrementar la saturación de oxígeno por encima del 95%",
+          "Mantener la vía aérea abierta y estabilizar los alvéolos",
+          "Reemplazar completamente la ventilación mecánica",
+          "Evitar el uso de surfactante exógeno"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El CPAP nasal se utiliza en neonatos prematuros para mantener la vía aérea abierta y estabilizar los alvéolos, previniendo el colapso pulmonar. Este método mejora el intercambio gaseoso y reduce la necesidad de ventilación invasiva."
+      },
+      {
+        "enunciado": "En neonatos prematuros con hiperbilirrubinemia, ¿qué complicación grave puede desarrollarse si no se trata a tiempo?",
+        "opciones": [
+          "Displasia broncopulmonar",
+          "Kernicterus",
+          "Retinopatía del prematuro",
+          "Sepsis neonatal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El kernicterus es una complicación grave de la hiperbilirrubinemia no tratada, caracterizada por daño neurológico irreversible debido al depósito de bilirrubina en los núcleos basales del cerebro. La fototerapia y, en casos severos, la exanguinotransfusión, son tratamientos esenciales para prevenirlo."
+      },
+      {
+        "enunciado": "En neonatos de muy bajo peso, ¿qué intervención reduce el riesgo de infecciones nosocomiales en las primeras semanas de vida?",
+        "opciones": [
+          "Administración profiláctica de antibióticos",
+          "Uso de leche materna exclusiva",
+          "Monitorización diaria de los electrolitos",
+          "Restricción de visitas familiares"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "bajo_peso"],
+        "feedback": "El uso de leche materna exclusiva en neonatos de muy bajo peso fortalece el sistema inmunológico y reduce significativamente el riesgo de infecciones nosocomiales. La leche materna proporciona anticuerpos y factores bioactivos esenciales para la protección contra patógenos."
+      },
+      {
+        "enunciado": "¿Qué estrategia es efectiva para prevenir la retinopatía del prematuro en neonatos prematuros con oxigenoterapia?",
+        "opciones": [
+          "Administrar oxígeno al 100% durante las primeras 72 horas",
+          "Monitorear estrictamente los niveles de saturación de oxígeno",
+          "Evitar el uso de oxígeno suplementario en las primeras 24 horas",
+          "Incrementar la exposición a luz natural en la incubadora"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "Monitorear estrictamente los niveles de saturación de oxígeno y mantenerlos dentro de un rango objetivo adecuado es clave para prevenir la retinopatía del prematuro. Los niveles excesivamente altos de oxígeno pueden alterar el desarrollo normal de los vasos retinianos y causar daño ocular."
+      },
+      {
+        "enunciado": "En el manejo de neonatos prematuros, ¿qué método es eficaz para promover el vínculo afectivo y la regulación térmica?",
+        "opciones": [
+          "Uso exclusivo de incubadoras cerradas",
+          "Método canguro con contacto piel con piel",
+          "Limitar el acceso de los padres durante las primeras semanas",
+          "Administración de leche materna sin interacción física"
+        ],
+        "correcta": 1,
+        "categorías": ["tema49", "recien_nacido_enfermo", "prematuros"],
+        "feedback": "El método canguro, que incluye el contacto piel con piel entre el neonato y los padres, es eficaz para promover el vínculo afectivo, estabilizar la temperatura corporal y mejorar la oxigenación en neonatos prematuros. También contribuye al bienestar emocional de los cuidadores."
+      }      
 ]
