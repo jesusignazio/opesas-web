@@ -2078,5 +2078,1493 @@
             "desarrollo_emocional"
         ],
         "feedback": "El PSIAA sitúa el desarrollo emocional como un pilar central, destacando su importancia para fortalecer la estabilidad y las capacidades de los menores en su crecimiento integral."
-    }
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto al periodo de alimentación del lactante según el Tema 50?",
+        "opciones": [
+          "La lactancia materna exclusiva debe mantenerse hasta los 9 meses.",
+          "El periodo de alimentación transicional incluye la incorporación de alimentos complementarios a partir del segundo semestre.",
+          "La leche de fórmula debe ser la única fuente de alimentación hasta los 12 meses.",
+          "Los cereales con gluten pueden incluirse desde el tercer mes de vida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La lactancia materna exclusiva es recomendada hasta los 6 meses, y el periodo transicional comienza en el segundo semestre, con la incorporación progresiva de alimentos complementarios como cereales sin gluten, frutas y verduras."
+      },
+      {
+        "enunciado": "¿Qué objetivo principal tiene el Programa de Salud Infantil y Adolescente de Andalucía (PSIAA)?",
+        "opciones": [
+          "Fomentar únicamente las actividades deportivas en los niños.",
+          "Promover un adecuado desarrollo infantil y adolescente mediante la prevención y promoción de la salud.",
+          "Eliminar completamente las enfermedades crónicas en la población infantil.",
+          "Garantizar únicamente la vacunación de todos los menores de Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "programas_salud"],
+        "feedback": "El PSIAA tiene como objetivo principal promover un desarrollo óptimo de la infancia y adolescencia mediante la prevención, detección precoz y promoción de hábitos saludables."
+      },
+      {
+        "enunciado": "¿Qué herramienta utiliza el PSIAA para evaluar el desarrollo psicomotor en la infancia?",
+        "opciones": [
+          "Test de Rorschach.",
+          "Escalas de Haizea-Llevant o Denver Developmental Screening Test II.",
+          "Evaluación de Wechsler.",
+          "Test de Raven para menores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_psicomotor"],
+        "feedback": "El PSIAA recomienda herramientas como las escalas Haizea-Llevant y el test Denver II para evaluar el desarrollo psicomotor en los niños."
+      },
+      {
+        "enunciado": "¿En qué momento se recomienda iniciar la incorporación de cereales sin gluten en la dieta del lactante?",
+        "opciones": [
+          "A partir del primer mes.",
+          "Entre el cuarto y sexto mes.",
+          "Al noveno mes.",
+          "Después del primer año."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Se recomienda incorporar cereales sin gluten a partir del cuarto mes en lactancia mixta o artificial, y hacia el sexto mes en lactancia materna exclusiva."
+      },
+      {
+        "enunciado": "Según el Plan Integral de Obesidad Infantil de Andalucía, ¿cuál es un pilar fundamental para prevenir la obesidad infantil?",
+        "opciones": [
+          "Evitar la práctica de deportes de impacto.",
+          "Promoción de la actividad física regular.",
+          "Aumento del consumo de bebidas energéticas.",
+          "Exclusión total de carbohidratos en la dieta."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "obesidad_infantil"],
+        "feedback": "La promoción de la actividad física regular es esencial para prevenir la obesidad infantil, junto con una alimentación equilibrada."
+      },
+      {
+        "enunciado": "¿Qué medida de prevención se destaca para evitar el síndrome de muerte súbita del lactante?",
+        "opciones": [
+          "Evitar que el lactante duerma boca arriba.",
+          "Fomentar el uso de almohadas para recién nacidos.",
+          "Promover el sueño en posición supina (boca arriba).",
+          "Colocar al lactante en cunas compartidas con adultos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "La posición supina (boca arriba) es una recomendación clave para prevenir el síndrome de muerte súbita del lactante."
+      },
+      {
+        "enunciado": "¿Qué normativa regula el derecho de los menores a recibir atención sanitaria adaptada en Andalucía?",
+        "opciones": [
+          "Ley de Derechos Humanos de la Infancia.",
+          "Decreto 246/2005 de la Junta de Andalucía.",
+          "Reglamento Europeo de Atención Pediátrica.",
+          "Ley de Salud Integral Infantil de Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_sanitarios"],
+        "feedback": "El Decreto 246/2005 regula el derecho de los menores en Andalucía a recibir atención sanitaria adaptada a sus necesidades y desarrollo."
+      },
+      {
+        "enunciado": "¿Cuál es un signo de alerta en el desarrollo psicomotor de un niño de dos meses?",
+        "opciones": [
+          "Sonrisa social espontánea.",
+          "Falta de contacto visual.",
+          "Balbuceo inicial.",
+          "Capacidad de levantar la cabeza al estar boca abajo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_psicomotor"],
+        "feedback": "La falta de contacto visual es un signo de alerta en el desarrollo psicomotor de un niño a los dos meses de vida."
+      },
+      {
+        "enunciado": "¿Qué es el calostro y cuál es su principal beneficio?",
+        "opciones": [
+          "Es la leche definitiva con alta concentración de grasas.",
+          "Es la leche inicial rica en proteínas e inmunoglobulinas.",
+          "Es una fórmula artificial para recién nacidos.",
+          "Es un suplemento para prevenir alergias alimentarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "El calostro es la leche inicial producida durante los primeros días, rica en proteínas e inmunoglobulinas que fortalecen el sistema inmunológico del recién nacido."
+      },
+      {
+        "enunciado": "¿Qué enfoque destaca en la Estrategia de Promoción de una Vida Saludable en Andalucía 2024-2030?",
+        "opciones": [
+          "Atención exclusiva a enfermedades crónicas.",
+          "Fomento de hábitos saludables y reducción de desigualdades.",
+          "Prohibición del uso de tecnología en la infancia.",
+          "Implementación de dietas restrictivas para toda la población."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "promoción_salud"],
+        "feedback": "La Estrategia de Promoción de una Vida Saludable enfatiza la adquisición de hábitos saludables y la reducción de desigualdades en salud."
+      },
+      {
+        "enunciado": "¿En qué etapa se recomienda iniciar la introducción de proteínas animales en la dieta infantil?",
+        "opciones": [
+          "Al primer mes.",
+          "Al tercer mes.",
+          "Entre el sexto y séptimo mes.",
+          "Después del primer año."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Se recomienda introducir pequeñas cantidades de proteínas animales (pollo, pavo, ternera) entre el sexto y séptimo mes de vida."
+      },
+      {
+        "enunciado": "¿Qué criterio se utiliza para definir obesidad infantil según la OMS?",
+        "opciones": [
+          "Peso corporal mayor al percentil 50.",
+          "IMC superior al percentil 95 para la edad y sexo.",
+          "Crecimiento rápido en el primer trimestre.",
+          "Consumo elevado de azúcares refinados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "obesidad_infantil"],
+        "feedback": "La OMS define obesidad infantil como un IMC superior al percentil 95 para la edad y sexo."
+      },
+      {
+        "enunciado": "¿Qué tipo de alimentación se recomienda a partir de los 24 meses?",
+        "opciones": [
+          "Dieta exclusiva a base de leche.",
+          "Dieta familiar equilibrada y variada.",
+          "Consumo limitado de frutas y verduras.",
+          "Exclusión de proteínas animales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "A partir de los 24 meses, se recomienda una dieta familiar equilibrada y variada adaptada a las habilidades del niño."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes características corresponde a la etapa neonatal?",
+        "opciones": [
+          "Inicio del balbuceo y reconocimiento de personas cercanas.",
+          "Adaptación a la vida fuera del útero y desarrollo de reflejos primitivos.",
+          "Aumento de masa muscular y cambios prepuberales.",
+          "Desarrollo de habilidades sociales complejas y pensamiento simbólico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "La etapa neonatal se caracteriza por la adaptación a la vida extrauterina y el desarrollo de reflejos primitivos como la succión y el reflejo de Moro."
+      },
+      {
+        "enunciado": "¿En qué etapa se espera que un niño comience a caminar solo?",
+        "opciones": [
+          "Etapa neonatal.",
+          "Lactante menor.",
+          "Lactante mayor.",
+          "Edad preescolar."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "En la etapa de lactante mayor (1-2 años), el niño suele comenzar a caminar solo, además de desarrollar un interés activo por explorar su entorno."
+      },
+      {
+        "enunciado": "¿Qué desarrollo psicomotor es típico de un lactante menor de seis meses?",
+        "opciones": [
+          "Subir escaleras y decir palabras simples.",
+          "Intentar caminar y desarrollar ansiedad por separación.",
+          "Levantar la cabeza y responder a sonidos conocidos.",
+          "Participar en juegos de simulación e imaginación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "Un lactante menor de seis meses suele levantar la cabeza y responder a sonidos, siendo estos hitos importantes de su desarrollo psicomotor."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a la etapa preescolar (2-6 años)?",
+        "opciones": [
+          "Crecimiento acelerado en peso y talla.",
+          "Inicio del balbuceo y ansiedad por separación.",
+          "Estabilidad en el crecimiento y desarrollo del pensamiento simbólico.",
+          "Cambios prepuberales y aumento de la masa muscular."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "La etapa preescolar se caracteriza por un crecimiento estable y el desarrollo de habilidades simbólicas y juegos de simulación."
+      },
+      {
+        "enunciado": "¿Qué cambios son comunes en la etapa escolar (6-12 años)?",
+        "opciones": [
+          "Inicio del desarrollo de reflejos primitivos.",
+          "Primeros cambios prepuberales y aumento de habilidades físicas.",
+          "Exploración del entorno mediante el gateo.",
+          "Incremento rápido en peso y talla similar al primer año."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "En la etapa escolar, los niños experimentan los primeros cambios prepuberales y desarrollan habilidades físicas y sociales más complejas."
+      },
+      {
+        "enunciado": "¿Qué etapa del desarrollo se caracteriza por la adquisición de habilidades sociales y de lenguaje simples?",
+        "opciones": [
+          "Lactante menor.",
+          "Lactante mayor.",
+          "Etapa neonatal.",
+          "Edad escolar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "En la etapa de lactante mayor (1-2 años), los niños adquieren habilidades sociales básicas y comienzan a usar palabras simples."
+      },
+      {
+        "enunciado": "¿Cuál es un indicador de desarrollo psicomotor en un lactante mayor de un año?",
+        "opciones": [
+          "Ansiedad por separación.",
+          "Desarrollo de juegos de simulación.",
+          "Inicia el uso de frases complejas.",
+          "Capacidad de correr y saltar largas distancias."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "El desarrollo afectivo en un lactante mayor incluye la ansiedad por separación y un reconocimiento más profundo de las personas cercanas."
+      },
+      {
+        "enunciado": "¿Qué hito caracteriza la adolescencia temprana (12-14 años)?",
+        "opciones": [
+          "Estabilidad emocional y crecimiento lento.",
+          "Rápidos cambios físicos y búsqueda de identidad.",
+          "Inicio de la independencia y exploración del entorno.",
+          "Desarrollo de habilidades motoras gruesas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "En la adolescencia temprana, los cambios físicos y emocionales son rápidos, y el individuo comienza a definir su identidad personal."
+      },
+      {
+        "enunciado": "¿Qué reflejo es evaluado comúnmente en la etapa neonatal?",
+        "opciones": [
+          "Reflejo de marcha automática.",
+          "Reflejo de Moro.",
+          "Reflejo plantar.",
+          "Reflejo de prensión fina."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "El reflejo de Moro es una respuesta natural del recién nacido y es evaluado durante la etapa neonatal para valorar su desarrollo neurológico."
+      },
+      {
+        "enunciado": "¿Qué desarrollo motor es típico de un niño en la etapa preescolar (2-6 años)?",
+        "opciones": [
+          "Balbuceo inicial y fijación de la mirada.",
+          "Caminar con apoyo y levantar la cabeza.",
+          "Correr, saltar y manipular objetos pequeños.",
+          "Exploración mediante el gateo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "desarrollo_etapas"],
+        "feedback": "En la etapa preescolar, los niños desarrollan coordinación motora que les permite correr, saltar y manipular objetos con mayor precisión."
+      },
+      {
+        "enunciado": "¿Cuál es la recomendación principal para la alimentación del lactante durante los primeros 6 meses de vida?",
+        "opciones": [
+          "Lactancia artificial exclusiva.",
+          "Lactancia materna exclusiva.",
+          "Introducción de cereales con gluten.",
+          "Incorporación de alimentos sólidos blandos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La lactancia materna exclusiva es recomendada durante los primeros 6 meses de vida por sus múltiples beneficios nutricionales e inmunológicos."
+      },
+      {
+        "enunciado": "¿Cuándo se aconseja iniciar la alimentación complementaria en un lactante sano?",
+        "opciones": [
+          "Desde el primer mes.",
+          "Entre los 4 y 6 meses.",
+          "A partir del primer año.",
+          "Después de los 9 meses."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La alimentación complementaria se recomienda entre los 4 y 6 meses, dependiendo de las necesidades individuales y la situación del lactante."
+      },
+      {
+        "enunciado": "¿Qué tipo de cereales se deben introducir primero en la dieta del lactante?",
+        "opciones": [
+          "Cereales con gluten.",
+          "Cereales sin gluten.",
+          "Cereales integrales.",
+          "Cereales procesados con azúcar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Los cereales sin gluten deben introducirse primero para reducir el riesgo de intolerancias o alergias."
+      },
+      {
+        "enunciado": "¿Qué alimento se recomienda introducir hacia los 9 meses en la dieta del lactante?",
+        "opciones": [
+          "Verduras crudas.",
+          "Legumbres como las lentejas.",
+          "Carne roja.",
+          "Frutas tropicales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Las legumbres, como las lentejas, se suelen introducir hacia los 9 meses en pequeñas cantidades para facilitar su tolerancia digestiva."
+      },
+      {
+        "enunciado": "¿Qué precaución debe tenerse al introducir el huevo en la alimentación del lactante?",
+        "opciones": [
+          "Introducirlo entero desde el sexto mes.",
+          "Comenzar solo con la clara desde el décimo mes.",
+          "Comenzar con la yema cocida hacia el décimo mes.",
+          "Evitar completamente su consumo antes del año."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "El huevo debe introducirse de forma progresiva, comenzando con la yema cocida hacia el décimo mes, para observar posibles alergias."
+      },
+      {
+        "enunciado": "¿Qué alimentos deben evitarse en la dieta infantil durante los primeros dos años?",
+        "opciones": [
+          "Frutas frescas y verduras cocidas.",
+          "Carnes magras y pescado blanco.",
+          "Alimentos azucarados y bebidas gasificadas.",
+          "Cereales sin gluten y legumbres."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Se deben evitar alimentos azucarados, bebidas gasificadas y alimentos procesados para prevenir malos hábitos alimenticios y problemas de salud."
+      },
+      {
+        "enunciado": "¿Qué tipo de leche se recomienda entre los 6 y 12 meses si no es posible la lactancia materna?",
+        "opciones": [
+          "Leche de vaca entera.",
+          "Leche de fórmula de inicio.",
+          "Leche de continuación.",
+          "Leche de crecimiento."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Entre los 6 y 12 meses, se recomienda el uso de leche de continuación si no es posible la lactancia materna."
+      },
+      {
+        "enunciado": "¿Qué característica define a una dieta equilibrada en la etapa infantil?",
+        "opciones": [
+          "Alta en azúcares y grasas saturadas.",
+          "Rica en proteínas animales únicamente.",
+          "Variedad de alimentos con proporciones adecuadas de macronutrientes.",
+          "Consumo exclusivo de alimentos líquidos hasta los 3 años."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Una dieta equilibrada en la infancia incluye variedad de alimentos en proporciones adecuadas de macronutrientes para cubrir las necesidades del niño."
+      },
+      {
+        "enunciado": "¿Cuál es un beneficio importante de la lactancia materna prolongada?",
+        "opciones": [
+          "Reduce el riesgo de enfermedades infecciosas.",
+          "Incrementa el consumo calórico innecesario.",
+          "Sustituye la necesidad de alimentos sólidos.",
+          "Disminuye el vínculo afectivo madre-hijo."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La lactancia materna prolongada refuerza el sistema inmunológico del niño, reduciendo el riesgo de enfermedades infecciosas."
+      },
+      {
+        "enunciado": "¿Qué alimento debe evitarse durante los primeros 12 meses por riesgo de botulismo?",
+        "opciones": [
+          "Miel.",
+          "Frutas en puré.",
+          "Pescado blanco.",
+          "Verduras cocidas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La miel no debe administrarse a niños menores de 12 meses debido al riesgo de botulismo infantil."
+      },
+      {
+        "enunciado": "¿Qué práctica alimentaria es crucial para prevenir la obesidad infantil?",
+        "opciones": [
+          "Forzar al niño a terminar toda la comida del plato.",
+          "Reducir el número de comidas al día.",
+          "Fomentar una alimentación variada y adecuada en calorías.",
+          "Excluir completamente los carbohidratos de la dieta."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Fomentar una dieta variada, equilibrada y adaptada a las necesidades calóricas del niño es fundamental para prevenir la obesidad infantil."
+      },      
+      {
+        "enunciado": "¿En qué momento se debe introducir el pescado blanco en la dieta del lactante?",
+        "opciones": [
+          "A partir del primer mes de vida.",
+          "A los 3 meses en forma de puré.",
+          "Entre el sexto y octavo mes.",
+          "Después del primer año."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "El pescado blanco debe incorporarse en la dieta del lactante entre el sexto y octavo mes como fuente de proteínas y ácidos grasos esenciales."
+      },
+      {
+        "enunciado": "¿Qué se recomienda respecto al consumo de frutas en los primeros 6 meses de vida?",
+        "opciones": [
+          "Deben ofrecerse desde el primer mes.",
+          "Se pueden introducir en forma de zumo desde los 5 meses.",
+          "Es preferible evitar las frutas hasta el primer año.",
+          "Solo se deben incluir frutas tropicales durante el primer semestre."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Las frutas pueden introducirse a partir del quinto mes en forma de zumo o puré, dependiendo de la tolerancia y tipo de lactancia."
+      },
+      {
+        "enunciado": "¿Qué aspecto se debe cuidar al preparar alimentos para niños de 12 a 24 meses?",
+        "opciones": [
+          "Evitar completamente las grasas saludables.",
+          "Incluir alimentos azucarados como parte de la dieta diaria.",
+          "Evitar alimentos picantes o muy especiados.",
+          "Incorporar bebidas energéticas para mejorar su actividad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Para niños de 12 a 24 meses, se recomienda una dieta familiar equilibrada y variada, evitando alimentos picantes o muy especiados."
+      },
+      {
+        "enunciado": "¿Qué alimentos se deben evitar por completo durante los primeros 12 meses de vida?",
+        "opciones": [
+          "Leche de continuación y legumbres.",
+          "Miel y frutos secos enteros.",
+          "Carne blanca y pescado azul.",
+          "Frutas y verduras cocidas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Se debe evitar la miel por riesgo de botulismo y los frutos secos enteros por peligro de asfixia en menores de un año."
+      },
+      {
+        "enunciado": "¿Qué proporción de macronutrientes es esencial en una dieta equilibrada para niños en edad preescolar?",
+        "opciones": [
+          "Proteínas 50%, carbohidratos 20%, grasas 30%.",
+          "Carbohidratos 55-60%, grasas 25-30%, proteínas 10-15%.",
+          "Grasas 50%, proteínas 30%, carbohidratos 20%.",
+          "Carbohidratos 70%, grasas 10%, proteínas 20%."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La dieta equilibrada en edad preescolar debe contener carbohidratos como fuente principal de energía (55-60%), grasas saludables (25-30%) y proteínas (10-15%)."
+      },
+      {
+        "enunciado": "¿Por qué es importante limitar el consumo de bollería industrial en la infancia?",
+        "opciones": [
+          "Aumenta la concentración escolar.",
+          "Evita alergias comunes.",
+          "Disminuye el riesgo de obesidad infantil.",
+          "Mejora el desarrollo muscular."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "La bollería industrial contiene grasas y azúcares en exceso, contribuyendo al riesgo de obesidad y enfermedades metabólicas."
+      },
+      {
+        "enunciado": "¿Qué aceite se recomienda como base para la preparación de alimentos infantiles?",
+        "opciones": [
+          "Aceite de palma.",
+          "Aceite de coco.",
+          "Aceite de oliva virgen extra.",
+          "Aceite de girasol refinado."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "El aceite de oliva virgen extra es la mejor opción para preparar alimentos infantiles por su perfil de grasas saludables y antioxidantes."
+      },
+      {
+        "enunciado": "¿Cuál es la mejor manera de introducir vegetales en la dieta del lactante?",
+        "opciones": [
+          "En puré, a partir de los 6 meses.",
+          "Crudos y en trozos grandes desde los 4 meses.",
+          "En forma de jugo con azúcar añadido.",
+          "Cocinados al vapor, pero solo después del primer año."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Los vegetales se deben introducir en forma de puré a partir de los 6 meses, cocinados adecuadamente para facilitar la digestión."
+      },
+      {
+        "enunciado": "¿Qué se recomienda respecto al consumo de agua en lactantes menores de 6 meses?",
+        "opciones": [
+          "Debe sustituir la leche en días calurosos.",
+          "Se recomienda agua mineral en cada toma.",
+          "No es necesario si reciben lactancia materna exclusiva.",
+          "Debe mezclarse con jugo de frutas para mejor hidratación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "En lactantes con lactancia materna exclusiva, no se necesita agua adicional, ya que la leche materna cubre sus requerimientos de hidratación."
+      },
+      {
+        "enunciado": "¿Cuál es una recomendación clave para prevenir la deficiencia de hierro en niños pequeños?",
+        "opciones": [
+          "Evitar la carne y sustituirla por frutas.",
+          "Ofrecer alimentos ricos en hierro como carne y legumbres.",
+          "Proporcionar suplementos sin indicación médica.",
+          "Reducir el consumo de lácteos a cero."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "nutrición_infantil"],
+        "feedback": "Para prevenir la deficiencia de hierro, es importante incluir alimentos ricos en este mineral, como carnes magras, legumbres y vegetales de hoja verde."
+      },
+      {
+        "enunciado": "¿Cuándo se recomienda comenzar la higiene bucodental en los niños?",
+        "opciones": [
+          "A partir de los 6 años, con la erupción de los molares permanentes.",
+          "Desde la aparición del primer diente de leche.",
+          "Después de completar la dentición primaria.",
+          "Solo cuando el niño aprenda a enjuagarse la boca."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "La higiene bucodental debe comenzar desde la aparición del primer diente de leche, utilizando una gasa húmeda o cepillo adecuado a la edad."
+      },
+      {
+        "enunciado": "¿Qué cantidad de pasta dental con flúor se debe usar para un niño menor de 3 años?",
+        "opciones": [
+          "Una cantidad similar al tamaño de un guisante.",
+          "Una cantidad del tamaño de un grano de arroz.",
+          "Una cucharadita completa.",
+          "No se debe usar pasta dental en niños menores de 3 años."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Para niños menores de 3 años, se recomienda usar una cantidad de pasta dental con flúor equivalente al tamaño de un grano de arroz."
+      },
+      {
+        "enunciado": "¿Cuál es una medida clave para prevenir las caries en la infancia?",
+        "opciones": [
+          "Eliminar completamente los carbohidratos de la dieta.",
+          "Evitar el consumo de azúcar añadido y promover una higiene bucal adecuada.",
+          "Aumentar el consumo de frutas ácidas.",
+          "Cepillarse los dientes solo antes de acostarse."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Evitar el consumo de azúcar añadido y garantizar una higiene bucal adecuada son medidas fundamentales para prevenir las caries en la infancia."
+      },
+      {
+        "enunciado": "¿Qué recomendación se da respecto al uso del biberón para prevenir caries?",
+        "opciones": [
+          "Permitir el uso prolongado del biberón durante la noche.",
+          "No agregar azúcares ni miel al biberón.",
+          "Rellenar el biberón con jugos azucarados para estimular el apetito.",
+          "Usar biberones solo hasta los 6 años."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Es fundamental evitar agregar azúcares o miel al biberón para prevenir la caries de biberón, una afección común en la infancia."
+      },
+      {
+        "enunciado": "¿A qué edad se recomienda la primera visita al odontopediatra?",
+        "opciones": [
+          "A los 3 años, al iniciar la educación preescolar.",
+          "Después de la aparición del primer diente o antes del primer año de vida.",
+          "Solo cuando el niño tiene molestias dentales.",
+          "A los 6 años, con la erupción de los primeros molares permanentes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "La primera visita al odontopediatra debe realizarse tras la aparición del primer diente o antes del primer año, para evaluar y prevenir problemas dentales."
+      },
+      {
+        "enunciado": "¿Cuál es el principal beneficio del flúor en la salud bucodental infantil?",
+        "opciones": [
+          "Blanquea los dientes de leche.",
+          "Fortalece el esmalte dental y previene las caries.",
+          "Reduce el tiempo necesario para el cepillado.",
+          "Elimina la necesidad de cepillarse los dientes regularmente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "El flúor fortalece el esmalte dental, haciéndolo más resistente a las caries, y es un elemento clave en la prevención de enfermedades dentales."
+      },
+      {
+        "enunciado": "¿Qué acción puede ayudar a prevenir la caries de biberón?",
+        "opciones": [
+          "Permitir que el bebé se duerma con el biberón de leche en la boca.",
+          "Limitar el uso del biberón únicamente a las tomas necesarias.",
+          "Añadir azúcar al biberón para mejorar su sabor.",
+          "Sustituir el biberón por bebidas azucaradas desde los 6 meses."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Limitar el uso del biberón a las tomas necesarias y no dejar que el bebé se duerma con él en la boca ayuda a prevenir la caries de biberón."
+      },
+      {
+        "enunciado": "¿Qué práctica de higiene es adecuada para los niños que aún no tienen dientes?",
+        "opciones": [
+          "No es necesario realizar ninguna higiene bucal.",
+          "Limpiar las encías con una gasa húmeda después de cada toma.",
+          "Usar un cepillo de dientes con cerdas duras para masajear las encías.",
+          "Cepillar las encías con pasta dental sin flúor."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Para los niños sin dientes, se recomienda limpiar las encías con una gasa húmeda tras cada toma, lo que ayuda a mantener una buena higiene bucal."
+      },
+      {
+        "enunciado": "¿Qué alimentos favorecen la salud bucodental en los niños?",
+        "opciones": [
+          "Frutas y vegetales frescos.",
+          "Dulces y golosinas azucaradas.",
+          "Bebidas carbonatadas.",
+          "Snacks procesados como patatas fritas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Las frutas y vegetales frescos, como manzanas y zanahorias, favorecen la salud bucodental al estimular la limpieza natural de los dientes."
+      },
+      {
+        "enunciado": "¿Qué frecuencia de cepillado dental se recomienda para niños mayores de 2 años?",
+        "opciones": [
+          "Una vez al día antes de dormir.",
+          "Dos veces al día, por la mañana y antes de dormir.",
+          "Cada tres días para evitar desgaste del esmalte.",
+          "Solo después de consumir alimentos azucarados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "higiene_bucodental"],
+        "feedback": "Se recomienda cepillar los dientes de los niños al menos dos veces al día, por la mañana y antes de dormir, para prevenir caries y mantener una buena salud bucal."
+      },
+      {
+        "enunciado": "¿Cuál es una medida efectiva para prevenir el síndrome de muerte súbita del lactante?",
+        "opciones": [
+          "Colocar al bebé boca abajo para dormir.",
+          "Usar almohadas y mantas gruesas en la cuna.",
+          "Acostar al bebé en posición supina (boca arriba).",
+          "Dormir al bebé en la cama de los padres."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "La posición supina (boca arriba) es la recomendación más efectiva para prevenir el síndrome de muerte súbita del lactante."
+      },
+      {
+        "enunciado": "¿Qué elementos deben evitarse en la cuna de un bebé para prevenir accidentes?",
+        "opciones": [
+          "Colchón firme y sábanas ajustadas.",
+          "Almohadas, peluches y protectores acolchados.",
+          "Un espacio libre de objetos con buena ventilación.",
+          "Una cuna con barrotes seguros y resistentes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Para prevenir accidentes, se deben evitar almohadas, peluches y protectores acolchados en la cuna del bebé."
+      },
+      {
+        "enunciado": "¿Qué precaución es clave para evitar accidentes en el baño infantil?",
+        "opciones": [
+          "Dejar al niño solo si el nivel del agua es bajo.",
+          "Utilizar agua muy caliente para mantener al bebé cálido.",
+          "Nunca dejar al niño sin supervisión en la bañera.",
+          "Usar juguetes pequeños y flotantes para entretenerlo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Nunca se debe dejar a un niño sin supervisión en la bañera, incluso si el nivel del agua es bajo, para prevenir ahogamientos."
+      },
+      {
+        "enunciado": "¿Cómo se deben almacenar los productos químicos para evitar accidentes en la infancia?",
+        "opciones": [
+          "En estanterías bajas para facilitar su acceso.",
+          "En envases abiertos para identificar su contenido.",
+          "En armarios altos con cierre de seguridad.",
+          "Mezclados con otros productos para ahorrar espacio."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Los productos químicos deben almacenarse en armarios altos con cierre de seguridad para evitar el acceso de los niños y prevenir intoxicaciones."
+      },
+      {
+        "enunciado": "¿Qué práctica reduce el riesgo de lesiones por caídas en el hogar?",
+        "opciones": [
+          "Permitir que los niños usen escaleras sin supervisión.",
+          "Usar alfombras resbaladizas en áreas de juego.",
+          "Instalar barreras de seguridad en escaleras y ventanas.",
+          "Colocar muebles cerca de ventanas abiertas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Las barreras de seguridad en escaleras y ventanas son esenciales para prevenir caídas en el hogar, especialmente en niños pequeños."
+      },
+      {
+        "enunciado": "¿Qué precaución se debe tomar al usar asientos infantiles en vehículos?",
+        "opciones": [
+          "Colocar al niño en el asiento delantero si es más cómodo.",
+          "Usar un asiento adecuado al peso y talla del niño.",
+          "No fijar el asiento con los cinturones de seguridad.",
+          "Permitir que el niño viaje sin asiento infantil en trayectos cortos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "El uso de un asiento infantil adecuado al peso y talla del niño es crucial para garantizar su seguridad en el vehículo."
+      },
+      {
+        "enunciado": "¿Qué medida es clave para prevenir quemaduras en la infancia?",
+        "opciones": [
+          "Permitir que los niños jueguen cerca de la cocina.",
+          "Colocar protectores en los enchufes eléctricos.",
+          "Usar los fuegos traseros de la cocina y girar las asas de las ollas hacia adentro.",
+          "Dejar velas encendidas al alcance de los niños."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Usar los fuegos traseros y girar las asas de las ollas hacia adentro ayuda a prevenir quemaduras en la cocina."
+      },
+      {
+        "enunciado": "¿Cómo se pueden evitar accidentes relacionados con juguetes pequeños?",
+        "opciones": [
+          "Permitir que los niños menores de 3 años jueguen con piezas pequeñas.",
+          "Supervisar el juego solo en espacios al aire libre.",
+          "Verificar que los juguetes sean adecuados para la edad del niño y sin piezas desmontables pequeñas.",
+          "Almacenar los juguetes pequeños junto a los grandes sin supervisión."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Es importante verificar que los juguetes sean adecuados para la edad del niño y no contengan piezas desmontables pequeñas para prevenir asfixias."
+      },
+      {
+        "enunciado": "¿Qué acción puede prevenir intoxicaciones en niños pequeños?",
+        "opciones": [
+          "Dejar medicamentos y productos de limpieza al alcance de los niños.",
+          "Almacenar productos químicos en botellas de agua reutilizadas.",
+          "Mantener medicamentos y productos tóxicos en envases originales y fuera del alcance de los niños.",
+          "Usar envases transparentes para identificar los productos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Almacenar medicamentos y productos tóxicos en sus envases originales y fuera del alcance de los niños es crucial para prevenir intoxicaciones."
+      },
+      {
+        "enunciado": "¿Qué debe evitarse al alimentar a un niño pequeño para prevenir atragantamientos?",
+        "opciones": [
+          "Cortar los alimentos en trozos pequeños.",
+          "Permitir que coma mientras corre o juega.",
+          "Supervisar al niño durante las comidas.",
+          "Ofrecer alimentos blandos y fáciles de masticar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "prevención_accidentes"],
+        "feedback": "Para prevenir atragantamientos, es importante evitar que el niño coma mientras corre o juega y asegurarse de supervisar sus comidas."
+      },
+      {
+        "enunciado": "¿Cuál es un signo característico que puede indicar deshidratación en un lactante?",
+        "opciones": [
+          "Aumento en la producción de orina.",
+          "Fontanela deprimida y mucosas secas.",
+          "Piel húmeda y sonrojada.",
+          "Aumento de peso repentino."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "En los lactantes, una fontanela deprimida y mucosas secas son indicadores comunes de deshidratación que requieren atención inmediata."
+      },
+      {
+        "enunciado": "¿Qué medida es esencial en el cuidado de un niño con fiebre alta?",
+        "opciones": [
+          "Abrigarlo para aumentar la sudoración.",
+          "Ofrecer líquidos con frecuencia para prevenir la deshidratación.",
+          "Evitar cualquier contacto con agua.",
+          "Administrar antibióticos sin prescripción médica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "Es esencial mantener una hidratación adecuada en un niño con fiebre alta, ofreciendo líquidos frecuentemente para prevenir la deshidratación."
+      },
+      {
+        "enunciado": "¿Qué estrategia es adecuada para manejar una crisis asmática en un niño?",
+        "opciones": [
+          "Evitar el uso de broncodilatadores hasta la confirmación médica.",
+          "Colocarlo en posición semiincorporada y administrar el inhalador prescrito.",
+          "Pedirle que realice ejercicios físicos para expandir los pulmones.",
+          "Esperar a que los síntomas desaparezcan sin intervención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "En una crisis asmática, es importante colocar al niño en posición semiincorporada y usar el broncodilatador recetado según las indicaciones médicas."
+      },
+      {
+        "enunciado": "¿Cuál es una acción clave para prevenir la dermatitis del pañal?",
+        "opciones": [
+          "Cambiar el pañal solo una vez al día.",
+          "Evitar el uso de cremas protectoras.",
+          "Mantener el área del pañal limpia y seca.",
+          "Usar pañales reutilizables sin lavar adecuadamente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "Mantener la zona del pañal limpia y seca, junto con el cambio frecuente de pañales, es fundamental para prevenir la dermatitis del pañal."
+      },
+      {
+        "enunciado": "¿Qué característica puede ser un signo de alarma en infecciones respiratorias agudas en niños?",
+        "opciones": [
+          "Respiración tranquila durante el sueño.",
+          "Dificultad para respirar o retracciones costales.",
+          "Estornudos ocasionales sin otros síntomas.",
+          "Ligero aumento de la temperatura corporal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "La dificultad para respirar o la presencia de retracciones costales son signos de alarma en infecciones respiratorias que requieren atención médica."
+      },
+      {
+        "enunciado": "¿Cuál es el cuidado inicial recomendado para un niño con vómitos frecuentes?",
+        "opciones": [
+          "Administrar alimentos sólidos de inmediato.",
+          "Mantener una hidratación oral con pequeñas cantidades de solución de rehidratación oral.",
+          "Permitir el ayuno completo durante 24 horas.",
+          "Evitar cualquier intento de hidratación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "En caso de vómitos frecuentes, se recomienda ofrecer pequeñas cantidades de solución de rehidratación oral para prevenir la deshidratación."
+      },
+      {
+        "enunciado": "¿Qué acción es fundamental en el cuidado de un niño con diarrea aguda?",
+        "opciones": [
+          "Suspender todos los líquidos.",
+          "Ofrecer una dieta exclusivamente láctea.",
+          "Administrar soluciones de rehidratación oral y evitar alimentos grasos.",
+          "Proporcionar medicamentos antidiarreicos sin consulta médica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "En casos de diarrea aguda, es fundamental mantener la hidratación con soluciones de rehidratación oral y evitar alimentos grasos."
+      },
+      {
+        "enunciado": "¿Qué signo puede indicar una reacción alérgica grave en un niño?",
+        "opciones": [
+          "Picazón leve en la piel.",
+          "Inflamación de labios y dificultad para respirar.",
+          "Enrojecimiento localizado sin otros síntomas.",
+          "Estornudos frecuentes sin dificultad respiratoria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "La inflamación de labios y la dificultad para respirar son signos de una posible reacción alérgica grave que requiere atención médica urgente."
+      },
+      {
+        "enunciado": "¿Qué cuidado es prioritario en un niño con fiebre acompañada de convulsiones?",
+        "opciones": [
+          "Intentar sujetar al niño firmemente durante la convulsión.",
+          "Colocar al niño de lado y asegurar que las vías respiratorias estén despejadas.",
+          "Sumergir al niño en agua fría para bajar la fiebre.",
+          "Administrar medicamentos sin prescripción médica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "En caso de convulsiones febriles, es esencial colocar al niño de lado y despejar las vías respiratorias mientras se busca atención médica."
+      },
+      {
+        "enunciado": "¿Qué medida es clave en el cuidado de un niño con eccema atópico?",
+        "opciones": [
+          "Evitar la hidratación de la piel.",
+          "Usar ropa ajustada para proteger la piel.",
+          "Aplicar cremas hidratantes y evitar irritantes cutáneos.",
+          "Exponer la piel a productos perfumados para aliviar la irritación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "valoración_problemas_salud"],
+        "feedback": "El uso regular de cremas hidratantes y evitar irritantes cutáneos son cuidados fundamentales en el manejo del eccema atópico."
+      },
+      {
+        "enunciado": "¿Qué debe hacer un profesional de la salud ante la sospecha de un caso de maltrato infantil?",
+        "opciones": [
+          "Notificar al Juzgado de Guardia y registrar en la historia clínica.",
+          "Esperar a que se confirme la sospecha antes de actuar.",
+          "Intervenir directamente en el entorno familiar sin consultar a las autoridades.",
+          "Dejar el caso en manos exclusivas de los servicios sociales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Ante la sospecha de maltrato infantil, es obligatorio notificar al Juzgado de Guardia y registrar las observaciones en la historia clínica del menor."
+      },
+      {
+        "enunciado": "¿Qué herramienta se utiliza en Andalucía para valorar la gravedad de situaciones de maltrato infantil?",
+        "opciones": [
+          "Test de Denver.",
+          "Instrumento VALORAME.",
+          "Escala Haizea-Llevant.",
+          "Test de habilidades parentales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "En Andalucía, el instrumento VALORAME se utiliza para valorar la gravedad de situaciones de riesgo y maltrato infantil."
+      },
+      {
+        "enunciado": "¿Qué normativa regula el procedimiento de actuación ante situaciones de riesgo y desamparo infantil en Andalucía?",
+        "opciones": [
+          "Ley de Derechos de la Infancia de la OMS.",
+          "Decreto 210/2018.",
+          "Protocolo Nacional de Protección Infantil.",
+          "Directiva Europea de Protección a la Infancia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El Decreto 210/2018 regula el procedimiento de actuación ante situaciones de riesgo y desamparo en la infancia en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué es el síndrome de Munchausen por poderes en el contexto de malos tratos infantiles?",
+        "opciones": [
+          "Un trastorno en el que el niño simula enfermedades para llamar la atención.",
+          "Un tipo de maltrato en el que un adulto induce o falsifica síntomas en el menor.",
+          "Un síndrome que afecta únicamente a adolescentes con problemas de comportamiento.",
+          "Una afección psicológica que afecta exclusivamente a los cuidadores."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El síndrome de Munchausen por poderes es un tipo de maltrato en el que el adulto induce o falsifica síntomas en el menor para obtener atención médica."
+      },
+      {
+        "enunciado": "¿Cuál es una obligación de los profesionales de la salud según el Decreto 246/2005 respecto a los menores?",
+        "opciones": [
+          "Respetar únicamente las decisiones de los padres sobre el tratamiento médico.",
+          "Respetar la dignidad, intimidad y confidencialidad del menor.",
+          "Notificar únicamente casos confirmados de maltrato al juzgado.",
+          "Permitir la exposición mediática del menor sin restricciones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Según el Decreto 246/2005, los profesionales de la salud deben respetar la dignidad, intimidad y confidencialidad del menor en todo momento."
+      },
+      {
+        "enunciado": "¿Qué tipos de maltrato infantil se incluyen en los protocolos de detección en Andalucía?",
+        "opciones": [
+          "Solo físico y sexual.",
+          "Físico, psicológico/emocional, negligencia/abandono y abuso sexual.",
+          "Exclusivamente negligencia y abuso sexual.",
+          "Solo psicológico/emocional y físico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Los protocolos de detección en Andalucía consideran los tipos de maltrato: físico, psicológico/emocional, negligencia/abandono y abuso sexual."
+      },
+      {
+        "enunciado": "¿Qué acción inicial debe tomar un profesional al detectar signos de maltrato infantil?",
+        "opciones": [
+          "Interrogar directamente al niño en presencia del presunto agresor.",
+          "Buscar una explicación coherente de las lesiones observadas.",
+          "Permitir que el niño regrese a casa sin intervención alguna.",
+          "Tomar fotografías de las lesiones sin consentimiento del tutor."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Al detectar signos de maltrato, el profesional debe buscar una explicación coherente de las lesiones y proceder según los protocolos establecidos."
+      },
+      {
+        "enunciado": "¿Qué derecho tienen los menores en Andalucía en el contexto de la atención sanitaria según el Decreto 246/2005?",
+        "opciones": [
+          "Recibir atención médica solo con la autorización de ambos padres.",
+          "Solicitar asistencia sanitaria según su madurez y situación.",
+          "Tener acceso irrestricto a información médica confidencial.",
+          "Rechazar tratamientos médicos recomendados por profesionales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Según el Decreto 246/2005, los menores tienen derecho a solicitar asistencia sanitaria dependiendo de su madurez y situación."
+      },
+      {
+        "enunciado": "¿Qué instrumento se utiliza para notificar un caso de maltrato infantil en Andalucía?",
+        "opciones": [
+          "Informe de lesión médica.",
+          "Hoja de Detección y Notificación de Maltrato Infantil.",
+          "Registro general de incidencias familiares.",
+          "Formulario de bienestar social municipal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "La Hoja de Detección y Notificación de Maltrato Infantil es el instrumento utilizado para notificar oficialmente estos casos en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué medida se debe tomar en caso de sospecha de maltrato y riesgo grave para la seguridad del menor?",
+        "opciones": [
+          "Informar a las autoridades competentes de manera inmediata.",
+          "Esperar a confirmar la sospecha con un segundo profesional.",
+          "Contactar con el menor únicamente por vía telefónica.",
+          "Permitir la mediación directa entre el menor y su agresor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "En caso de sospecha de maltrato y riesgo grave, se debe informar a las autoridades competentes de manera inmediata para garantizar la protección del menor."
+      },
+      {
+        "enunciado": "¿Qué es el test VALORAME utilizado en Andalucía?",
+        "opciones": [
+          "Una herramienta para evaluar habilidades escolares en niños.",
+          "Un instrumento para valorar la gravedad de situaciones de riesgo y maltrato infantil.",
+          "Un test psicométrico para medir el desarrollo psicomotor.",
+          "Un cuestionario para determinar el nivel socioeconómico familiar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El test VALORAME es un instrumento clave en Andalucía para evaluar la gravedad de situaciones de riesgo y maltrato infantil."
+      },
+      {
+        "enunciado": "¿Qué tipo de información recoge el test VALORAME?",
+        "opciones": [
+          "Solo la descripción de lesiones físicas observadas.",
+          "Datos sobre el entorno familiar, situación emocional y riesgos detectados.",
+          "Resultados académicos y relaciones con pares.",
+          "Historial médico completo del menor y su familia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El test VALORAME recoge información detallada sobre el entorno familiar, el estado emocional del menor y los riesgos detectados para valorar la situación."
+      },
+      {
+        "enunciado": "¿Qué debe hacer un profesional si, tras aplicar el test VALORAME, detecta una situación de alto riesgo?",
+        "opciones": [
+          "Esperar la confirmación de otro profesional antes de notificar.",
+          "Notificar inmediatamente a los servicios sociales y autoridades competentes.",
+          "Recomendar únicamente apoyo psicológico sin informar a las autoridades.",
+          "Permitir que el menor permanezca en su entorno sin intervención."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Si el test VALORAME indica una situación de alto riesgo, el profesional debe notificar de inmediato a los servicios sociales y autoridades para proteger al menor."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal del test VALORAME en el protocolo de maltrato infantil?",
+        "opciones": [
+          "Diagnosticar trastornos psicológicos en los niños.",
+          "Evaluar la capacidad de aprendizaje del menor.",
+          "Determinar la gravedad de la situación de riesgo o desamparo infantil.",
+          "Identificar problemas médicos genéticos en la familia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El objetivo del test VALORAME es determinar la gravedad de las situaciones de riesgo o desamparo infantil para orientar la toma de decisiones adecuadas."
+      },
+      {
+        "enunciado": "¿Qué actuación debe realizar un profesional al identificar negligencia grave durante la aplicación del test VALORAME?",
+        "opciones": [
+          "Informar únicamente a los cuidadores del menor.",
+          "Derivar el caso a los servicios sociales y registrar la información en la historia clínica.",
+          "Intervenir directamente en el hogar del menor sin informar a las autoridades.",
+          "Esperar a que la situación mejore de forma natural."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Ante una negligencia grave identificada con el test VALORAME, es obligatorio derivar el caso a los servicios sociales y registrar los hallazgos en la historia clínica."
+      },
+      {
+        "enunciado": "¿Qué tipo de maltrato infantil incluye el test VALORAME en su evaluación?",
+        "opciones": [
+          "Solo negligencia emocional.",
+          "Maltrato físico, psicológico, negligencia y abuso sexual.",
+          "Exclusivamente abuso físico y sexual.",
+          "Solo problemas relacionados con la educación del menor."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El test VALORAME evalúa diferentes formas de maltrato, como físico, psicológico, negligencia y abuso sexual, para valorar la situación del menor."
+      },
+      {
+        "enunciado": "¿Qué acción es prioritaria tras detectar riesgo moderado mediante el test VALORAME?",
+        "opciones": [
+          "Notificar al equipo de protección de menores para seguimiento del caso.",
+          "Permitir que el menor regrese a su hogar sin intervención alguna.",
+          "Suspender toda acción hasta la confirmación del riesgo alto.",
+          "Administrar únicamente atención psicológica al menor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "En casos de riesgo moderado, es prioritario notificar al equipo de protección de menores para garantizar el seguimiento adecuado del caso."
+      },
+      {
+        "enunciado": "¿Qué profesional está capacitado para utilizar el test VALORAME?",
+        "opciones": [
+          "Solo médicos pediatras.",
+          "Cualquier profesional de salud o servicios sociales con formación específica.",
+          "Únicamente psicólogos especializados en infancia.",
+          "Maestros y educadores sin formación adicional."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El test VALORAME puede ser utilizado por profesionales de salud o servicios sociales que cuenten con la formación específica para evaluar casos de riesgo infantil."
+      },
+      {
+        "enunciado": "¿Cuál es el protocolo recomendado si un menor refiere abuso sexual durante una evaluación con el test VALORAME?",
+        "opciones": [
+          "Notificar de inmediato a las autoridades y garantizar la seguridad del menor.",
+          "Esperar una confirmación clínica antes de actuar.",
+          "Derivar al menor únicamente a terapia psicológica.",
+          "Interrogar exhaustivamente al menor frente al presunto agresor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "Si un menor refiere abuso sexual, es imprescindible notificar a las autoridades de forma inmediata y tomar medidas para garantizar su seguridad."
+      },
+      {
+        "enunciado": "¿Qué áreas evalúa el test VALORAME para identificar riesgos de maltrato?",
+        "opciones": [
+          "Solo el rendimiento escolar del menor.",
+          "Entorno familiar, interacción social, seguridad física y bienestar emocional.",
+          "Exclusivamente el historial médico del menor.",
+          "Relaciones del menor con sus compañeros de clase."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "detección_malos_tratos"],
+        "feedback": "El test VALORAME evalúa áreas como el entorno familiar, la interacción social, la seguridad física y el bienestar emocional para detectar riesgos de maltrato."
+      },
+      {
+        "enunciado": "¿Qué establece el Decreto 246/2005 sobre los derechos de los menores a recibir atención sanitaria en Andalucía?",
+        "opciones": [
+          "Que los menores solo pueden recibir atención médica con autorización de ambos progenitores.",
+          "Que los menores tienen derecho a recibir atención adaptada a su edad y desarrollo.",
+          "Que los menores no pueden participar en decisiones sobre su salud.",
+          "Que los menores no tienen acceso a atención sanitaria sin el consentimiento de un tutor legal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El Decreto 246/2005 garantiza que los menores reciban atención sanitaria adaptada a sus necesidades de edad y desarrollo."
+      },
+      {
+        "enunciado": "¿Qué derecho tiene un menor en Andalucía si posee suficiente madurez para tomar decisiones sobre su salud?",
+        "opciones": [
+          "Elegir los tratamientos sin necesidad de informar a sus padres.",
+          "Solicitar por sí mismo atención sanitaria.",
+          "Rechazar todo tipo de tratamiento médico.",
+          "Solicitar atención únicamente en casos de emergencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "En Andalucía, los menores con suficiente madurez pueden solicitar atención sanitaria directamente, según lo establecido en la normativa."
+      },
+      {
+        "enunciado": "¿Qué principio rige la atención sanitaria a menores según la normativa andaluza?",
+        "opciones": [
+          "La confidencialidad puede ser vulnerada siempre que los padres lo soliciten.",
+          "Se debe respetar la dignidad e intimidad del menor.",
+          "El menor no puede ser atendido sin un tutor legal presente.",
+          "La atención debe centrarse únicamente en aspectos físicos, excluyendo los emocionales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "La normativa andaluza establece que la atención sanitaria a menores debe respetar su dignidad e intimidad en todo momento."
+      },
+      {
+        "enunciado": "¿Qué obligación tienen los profesionales sanitarios al atender a menores según el Decreto 246/2005?",
+        "opciones": [
+          "Garantizar la confidencialidad de la información sanitaria del menor.",
+          "Informar únicamente a los padres sobre las decisiones médicas.",
+          "Pedir consentimiento a ambos progenitores para cualquier tratamiento.",
+          "Evitar que el menor participe en las decisiones sobre su salud."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Los profesionales sanitarios están obligados a garantizar la confidencialidad de la información del menor, respetando sus derechos y privacidad."
+      },
+      {
+        "enunciado": "¿Qué aspecto protege el Decreto 210/2018 en relación con los menores en riesgo en Andalucía?",
+        "opciones": [
+          "El derecho del menor a recibir atención exclusivamente en hospitales públicos.",
+          "El derecho a valorar situaciones de riesgo mediante protocolos establecidos.",
+          "El acceso irrestricto del menor a toda su información médica.",
+          "La eliminación de la obligación de informar a las autoridades sobre situaciones de desamparo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El Decreto 210/2018 protege el derecho a valorar situaciones de riesgo y desamparo mediante protocolos específicos como VALORAME."
+      },
+      {
+        "enunciado": "¿Qué derecho tiene un menor hospitalizado según los principios éticos de atención sanitaria?",
+        "opciones": [
+          "Ser informado sobre su tratamiento de forma adaptada a su capacidad de comprensión.",
+          "Tener acceso a cualquier tipo de información médica sin restricciones.",
+          "Elegir personalmente el equipo médico que lo atenderá.",
+          "Decidir si desea compartir habitación con otros pacientes."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Un menor hospitalizado tiene derecho a recibir información sobre su tratamiento de manera adaptada a su capacidad de comprensión y madurez."
+      },
+      {
+        "enunciado": "¿Qué establece la normativa respecto a la atención sanitaria en casos de violencia o abuso hacia menores?",
+        "opciones": [
+          "Se requiere autorización de los padres para actuar.",
+          "Se debe proteger la integridad física y psíquica del menor, notificando a las autoridades competentes.",
+          "Se recomienda únicamente apoyo psicológico sin intervención legal.",
+          "La atención debe limitarse a casos confirmados de abuso."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "En casos de violencia o abuso hacia menores, es prioritario proteger su integridad física y psíquica, notificando a las autoridades según los protocolos."
+      },
+      {
+        "enunciado": "¿Qué implica el derecho a la confidencialidad en la atención sanitaria de menores en Andalucía?",
+        "opciones": [
+          "Los profesionales pueden compartir información médica del menor sin restricciones.",
+          "La información médica del menor debe ser protegida y solo compartida con autorización adecuada.",
+          "El menor no tiene acceso a su propia información médica hasta cumplir la mayoría de edad.",
+          "La confidencialidad no aplica si los padres lo solicitan."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El derecho a la confidencialidad implica que la información médica del menor debe ser protegida y solo compartida con autorización adecuada."
+      },
+      {
+        "enunciado": "¿Qué derecho tienen los menores en cuanto a sus valores culturales o religiosos en atención sanitaria?",
+        "opciones": [
+          "Los valores culturales o religiosos del menor deben ser respetados siempre que no comprometan su salud.",
+          "Los valores culturales o religiosos no deben influir en las decisiones médicas.",
+          "Los menores no pueden expresar preferencias culturales o religiosas en el contexto sanitario.",
+          "Se debe dar prioridad a las creencias de los padres sobre la salud del menor."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Los valores culturales o religiosos del menor deben ser respetados en la atención sanitaria, siempre que no comprometan su salud o seguridad."
+      },
+      {
+        "enunciado": "¿Qué derecho tiene el menor respecto a la elección de su tratamiento sanitario en función de su madurez?",
+        "opciones": [
+          "No tiene derecho a participar en decisiones sobre su tratamiento.",
+          "Puede participar en las decisiones sobre su salud según su capacidad de comprensión y madurez.",
+          "Solo puede elegir tratamientos no invasivos.",
+          "Debe delegar todas las decisiones en los padres o tutores legales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Un menor tiene derecho a participar en decisiones sobre su tratamiento, siempre que tenga la capacidad de comprensión y madurez necesaria."
+      },
+      {
+        "enunciado": "¿Cuál es un principio clave que guía la influencia de la familia en la adquisición de hábitos saludables en los niños?",
+        "opciones": [
+          "Los hábitos se adquieren exclusivamente en la escuela y no en el hogar.",
+          "La consistencia entre el comportamiento familiar y las recomendaciones de salud es fundamental.",
+          "Los niños son más influenciados por amigos que por sus familiares en cuanto a hábitos saludables.",
+          "La familia debe imponer normas rígidas sin considerar la opinión del niño."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "La consistencia entre las prácticas familiares y las recomendaciones de salud es clave para que los niños adopten hábitos saludables de manera efectiva."
+      },
+      {
+        "enunciado": "¿Qué estrategia familiar favorece el desarrollo de hábitos alimentarios saludables en los niños?",
+        "opciones": [
+          "Permitir que los niños elijan exclusivamente alimentos procesados.",
+          "Realizar comidas familiares regulares con alimentos variados y equilibrados.",
+          "Evitar involucrar a los niños en la preparación de alimentos.",
+          "Ofrecer recompensas alimenticias poco saludables para fomentar la conducta positiva."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Realizar comidas familiares regulares con alimentos equilibrados y variados fomenta una relación positiva con la alimentación en los niños."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes prácticas parentales es más efectiva para fomentar la actividad física en los niños?",
+        "opciones": [
+          "Fomentar únicamente actividades físicas individuales sin supervisión.",
+          "Planificar actividades físicas en familia para modelar conductas saludables.",
+          "Restringir la actividad física a una hora por semana.",
+          "Evitar inscribirlos en actividades deportivas organizadas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Planificar actividades físicas en familia es una estrategia eficaz para modelar conductas saludables y fomentar la actividad física en los niños."
+      },
+      {
+        "enunciado": "¿Qué factor familiar se ha identificado como determinante en el desarrollo de hábitos de sueño saludables en los niños?",
+        "opciones": [
+          "Permitir horarios de sueño irregulares dependiendo de la actividad diaria.",
+          "Establecer rutinas consistentes de horario y entorno de sueño.",
+          "Evitar supervisar el uso de pantallas antes de dormir.",
+          "Prolongar la hora de acostarse los fines de semana para compensar el cansancio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Establecer rutinas consistentes de horario y entorno de sueño contribuye significativamente a la adquisición de hábitos de sueño saludables en los niños."
+      },
+      {
+        "enunciado": "¿Qué rol juega la comunicación familiar en la adopción de hábitos saludables en la infancia?",
+        "opciones": [
+          "Es irrelevante siempre que el niño tenga acceso a información externa sobre salud.",
+          "Fomentar un diálogo abierto y positivo mejora la disposición del niño hacia hábitos saludables.",
+          "Debe centrarse únicamente en la imposición de normas estrictas.",
+          "Es secundaria frente a la influencia de la escuela o los medios de comunicación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Un diálogo familiar abierto y positivo fomenta la comprensión y disposición del niño hacia hábitos saludables, reforzando su aprendizaje en el hogar."
+      },
+      {
+        "enunciado": "¿Cómo influye el modelo parental en la adquisición de hábitos saludables en la infancia?",
+        "opciones": [
+          "Los padres tienen un impacto menor en comparación con los maestros y amigos.",
+          "Los niños tienden a imitar los comportamientos de salud observados en sus padres.",
+          "El modelo parental es irrelevante si se imponen normas claras.",
+          "Los niños desarrollan hábitos saludables independientemente del modelo parental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "El modelo parental es crucial, ya que los niños imitan los comportamientos relacionados con la salud que observan en sus padres."
+      },
+      {
+        "enunciado": "¿Qué impacto tiene la implicación de los padres en la educación nutricional de los niños?",
+        "opciones": [
+          "Los niños tienen mejor comprensión de hábitos alimenticios saludables si sus padres participan activamente.",
+          "Los padres no influyen significativamente en las preferencias alimentarias de sus hijos.",
+          "La educación nutricional debe ser exclusiva de las instituciones escolares.",
+          "La implicación de los padres puede generar conflictos en los hábitos alimentarios del niño."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "La implicación activa de los padres en la educación nutricional mejora la comprensión y adopción de hábitos alimenticios saludables en los niños."
+      },
+      {
+        "enunciado": "¿Qué estrategia es clave para integrar hábitos saludables en la rutina diaria de un niño?",
+        "opciones": [
+          "Establecer reglas rígidas sin explicaciones.",
+          "Involucrar al niño en la planificación de sus actividades y alimentación.",
+          "Centrarse exclusivamente en el ejercicio físico, ignorando otros hábitos.",
+          "Permitir que el niño tome decisiones sin orientación familiar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Involucrar al niño en la planificación de actividades y alimentación fomenta su compromiso y facilita la integración de hábitos saludables en su rutina diaria."
+      },
+      {
+        "enunciado": "¿Cuál es un error común que las familias deben evitar al fomentar hábitos saludables en los niños?",
+        "opciones": [
+          "Dar ejemplo con hábitos saludables.",
+          "Premiar conductas saludables con alimentos poco nutritivos.",
+          "Involucrar al niño en actividades familiares saludables.",
+          "Mantener una comunicación abierta sobre los beneficios de los hábitos saludables."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "Premiar conductas saludables con alimentos poco nutritivos envía un mensaje contradictorio, dificultando la adopción de hábitos saludables en los niños."
+      },
+      {
+        "enunciado": "¿Qué factor es determinante para que las normas familiares promuevan hábitos saludables en los niños?",
+        "opciones": [
+          "Que las normas sean consistentes y aplicadas por todos los miembros de la familia.",
+          "Que las normas se establezcan sin explicación ni participación del niño.",
+          "Que las normas sean flexibles y cambien con frecuencia.",
+          "Que solo uno de los padres las refuerce, independientemente del entorno familiar."
+        ],
+        "correcta": 0,
+        "categorías": ["tema50", "cuidados_infancia", "familia_habitos_saludables"],
+        "feedback": "La consistencia en las normas familiares, aplicadas por todos los miembros, es esencial para que los niños internalicen hábitos saludables de manera efectiva."
+      },
+      {
+        "enunciado": "¿En qué caso un menor tiene derecho a recibir atención sanitaria sin el consentimiento de sus padres según la legislación vigente en Andalucía?",
+        "opciones": [
+          "Cuando está acompañado de un tutor escolar durante una emergencia.",
+          "Si tiene capacidad suficiente para comprender las implicaciones de la atención sanitaria.",
+          "Cuando los servicios médicos consideran innecesaria la autorización parental.",
+          "En ningún caso puede recibir atención sin el consentimiento expreso de ambos padres."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Un menor con suficiente capacidad de comprensión puede recibir atención sanitaria sin el consentimiento de sus padres, conforme a la legislación andaluza."
+      },
+      {
+        "enunciado": "¿Qué principio ético respalda la participación del menor en decisiones sobre su salud según el Decreto 246/2005?",
+        "opciones": [
+          "El principio de no intervención.",
+          "El principio de autonomía progresiva.",
+          "El principio de consentimiento presunto.",
+          "El principio de obediencia a los tutores legales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El principio de autonomía progresiva permite que el menor participe en decisiones sobre su salud a medida que desarrolla capacidad de comprensión."
+      },
+      {
+        "enunciado": "¿Qué obligación específica tienen los profesionales sanitarios al atender a menores en situaciones de violencia doméstica?",
+        "opciones": [
+          "Notificar solo en casos de lesiones físicas visibles.",
+          "Garantizar la seguridad del menor y reportar el caso a las autoridades competentes.",
+          "Informar únicamente a los tutores legales sobre el estado del menor.",
+          "Proporcionar apoyo emocional sin tomar acciones legales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Los profesionales sanitarios deben garantizar la seguridad del menor y notificar las situaciones de violencia doméstica a las autoridades correspondientes."
+      },
+      {
+        "enunciado": "¿Qué establece la normativa andaluza respecto a los valores culturales y religiosos de los menores en atención sanitaria?",
+        "opciones": [
+          "Deben respetarse siempre, incluso si ponen en riesgo la vida del menor.",
+          "Deben respetarse únicamente si son autorizados por los padres.",
+          "Deben respetarse siempre que no comprometan la seguridad ni la salud del menor.",
+          "No se consideran relevantes en las decisiones sanitarias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "La normativa exige respetar los valores culturales y religiosos de los menores siempre que no comprometan su seguridad ni su salud."
+      },
+      {
+        "enunciado": "¿Qué derecho garantiza el Decreto 246/2005 a los menores respecto a la confidencialidad de su información médica?",
+        "opciones": [
+          "Que la información médica puede ser divulgada libremente por los profesionales.",
+          "Que los tutores legales siempre deben acceder a la información médica completa del menor.",
+          "Que la confidencialidad se mantendrá, salvo excepciones legales como riesgo para el menor.",
+          "Que los menores no tienen derecho a confidencialidad antes de los 18 años."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El Decreto 246/2005 garantiza la confidencialidad de la información médica del menor, salvo en situaciones legales como riesgo inminente para el menor."
+      },
+      {
+        "enunciado": "¿Qué consideración legal se da a los menores en casos de rechazo a tratamientos que comprometen su vida?",
+        "opciones": [
+          "Se respeta su decisión independientemente de las consecuencias.",
+          "Los tutores pueden tomar la decisión sin consultar al menor.",
+          "La decisión del menor puede ser evaluada por un juez si compromete su vida.",
+          "El equipo médico está obligado a cumplir con la decisión del menor sin excepciones."
+        ],
+        "correcta": 2,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "En casos de rechazo a tratamientos que comprometen su vida, la decisión del menor puede ser revisada por un juez para garantizar su bienestar."
+      },
+      {
+        "enunciado": "¿En qué casos puede el personal sanitario intervenir sin consentimiento parental en menores según la normativa andaluza?",
+        "opciones": [
+          "Solo en enfermedades crónicas diagnosticadas previamente.",
+          "En emergencias donde la vida del menor está en peligro inminente.",
+          "Cuando los padres están en desacuerdo sobre el tratamiento.",
+          "En cualquier consulta rutinaria o de seguimiento pediátrico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "El personal sanitario puede intervenir sin consentimiento parental en emergencias donde la vida del menor está en peligro inminente."
+      },
+      {
+        "enunciado": "¿Qué protocolo se sigue si un menor solicita confidencialidad en su atención sanitaria?",
+        "opciones": [
+          "Se niega automáticamente si los padres no lo autorizan.",
+          "Se evalúa su capacidad de comprensión y madurez para tomar decisiones.",
+          "La confidencialidad se respeta solo en casos de atención psicológica.",
+          "Los tutores deben ser informados independientemente de la solicitud del menor."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "Si un menor solicita confidencialidad, los profesionales sanitarios deben evaluar su capacidad de comprensión y madurez antes de decidir."
+      },
+      {
+        "enunciado": "¿Qué garantiza la normativa andaluza respecto al acceso de los menores a tratamientos preventivos como la vacunación?",
+        "opciones": [
+          "Solo pueden acceder si los tutores legales lo solicitan.",
+          "Los menores con suficiente madurez pueden consentir tratamientos preventivos.",
+          "El acceso está limitado a menores mayores de 16 años.",
+          "Solo se permiten en contextos escolares o comunitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "La normativa andaluza garantiza que los menores con suficiente madurez puedan consentir tratamientos preventivos, como la vacunación."
+      },
+      {
+        "enunciado": "¿Qué acción deben tomar los profesionales sanitarios si identifican un conflicto entre los padres y el menor sobre un tratamiento necesario?",
+        "opciones": [
+          "Suspender el tratamiento hasta que los padres lleguen a un acuerdo.",
+          "Solicitar la mediación judicial para garantizar el interés superior del menor.",
+          "Cumplir con la decisión de los padres sin consultar al menor.",
+          "Abstenerse de intervenir y derivar el caso a servicios sociales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema50", "cuidados_infancia", "derechos_menores"],
+        "feedback": "En caso de conflicto entre padres y menor sobre un tratamiento necesario, los profesionales deben solicitar la mediación judicial para proteger el interés superior del menor."
+      }                  
 ]
