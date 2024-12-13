@@ -1,1502 +1,2283 @@
 [
-    {
-        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el consumo de tabaco en Andalucía es correcta según los últimos datos disponibles?",
-        "opciones": [
-          "La prevalencia de tabaquismo diario es superior en mujeres que en hombres.",
-          "La edad media de inicio del tabaquismo es más baja en mujeres que en hombres.",
-          "El consumo de tabaco ha aumentado significativamente en las últimas dos décadas.",
-          "El porcentaje de fumadores es más alto en provincias como Cádiz y Huelva."
-        ],
-        "correcta": 3,
-        "categorías": ["tema37", "tabaco"],
-        "feedback": "La opción correcta es la 4. Las provincias de Cádiz y Huelva presentan mayores tasas de prevalencia de consumo de tabaco en comparación con otras regiones de Andalucía. Por otro lado, el consumo de tabaco ha tendido a disminuir en términos generales en las últimas décadas en Andalucía y el inicio es similar entre hombres y mujeres según datos recientes."
-      },
-      {
-        "enunciado": "Según la Encuesta Andaluza de Salud 2015, ¿qué porcentaje de hombres fumaba diariamente en Andalucía?",
-        "opciones": [
-          "27,9%",
-          "31,4%",
-          "24,6%",
-          "18,8%"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "epidemiología"],
-        "feedback": "En Andalucía, la prevalencia de hombres que fumaban diariamente en 2015 era del 31,4%, según la Encuesta Andaluza de Salud."
-      },
-      {
-        "enunciado": "¿Qué edad media de inicio del tabaquismo se registró en mujeres en Andalucía en 2015?",
-        "opciones": [
-          "16,5 años",
-          "17,6 años",
-          "19,5 años",
-          "20 años"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "En 2015, la edad media de inicio del consumo de tabaco en mujeres en Andalucía era de 19,5 años, similar a la de los hombres."
-      },
-      {
-        "enunciado": "Según el Plan Integral de Tabaquismo de Andalucía, ¿cuál de las siguientes acciones forma parte de la estrategia MPOWER?",
-        "opciones": [
-          "Incentivar el consumo responsable",
-          "Proteger a la población del humo ambiental",
-          "Reducir los impuestos al tabaco",
-          "Eliminar la oferta de productos alternativos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "La estrategia MPOWER incluye acciones como proteger a la población del humo ambiental, pero no contempla reducir impuestos al tabaco."
-      },
-      {
-        "enunciado": "¿Qué porcentaje de escolares andaluces entre 11 y 18 años nunca ha probado el tabaco, según datos de 2018?",
-        "opciones": [
-          "80,4% de chicos y 78,5% de chicas",
-          "77,1% en total",
-          "43,45% de chicos y 40% de chicas",
-          "60% en total"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "educación"],
-        "feedback": "En 2018, el 80,4% de los chicos y el 78,5% de las chicas andaluces entre 11 y 18 años nunca habían probado el tabaco, según la encuesta HBSC."
-      },
-      {
-        "enunciado": "Según la OMS, ¿qué proporción de fumadores muere como consecuencia directa del consumo de tabaco?",
-        "opciones": [
-          "Un tercio",
-          "La mitad",
-          "Dos tercios",
-          "Un cuarto"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "salud"],
-        "feedback": "La OMS estima que el tabaco mata a la mitad de las personas que lo consumen durante su vida."
-      },
-      {
-        "enunciado": "¿Cuál es una de las pruebas más utilizadas para medir la dependencia física al tabaco?",
-        "opciones": [
-          "Test de Richmond",
-          "Test de AUDIT",
-          "Test de Fageström",
-          "Cuestionario CAGE"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fageström es una de las herramientas más utilizadas para evaluar la dependencia física a la nicotina."
-      },
-      {
-        "enunciado": "¿Qué efecto a largo plazo es común al consumo de cigarrillos electrónicos?",
-        "opciones": [
-          "Aumento de la inmunidad pulmonar",
-          "Reducción del riesgo cardiovascular",
-          "Efectos negativos a nivel hormonal",
-          "Incremento de la fertilidad en mujeres"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "riesgos"],
-        "feedback": "El consumo de cigarrillos electrónicos puede tener efectos negativos a nivel hormonal y cardiovascular, aunque se desconocen completamente los riesgos a largo plazo."
-      },
-      {
-        "enunciado": "¿Cuál es una recomendación clave del Plan Integral de Tabaquismo de Andalucía para las mujeres embarazadas?",
-        "opciones": [
-          "Reducir el consumo a la mitad",
-          "Evitar completamente el consumo de nicotina",
-          "Limitar el uso a cigarrillos electrónicos",
-          "Consumir tabaco en espacios ventilados"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "El Plan Integral de Tabaquismo de Andalucía recomienda que las mujeres embarazadas eviten completamente el consumo de nicotina para proteger al feto y al bebé."
-      },
-      {
-        "enunciado": "¿Qué porcentaje de fumadores andaluces deseaba dejar de fumar en 2015?",
-        "opciones": [
-          "56%",
-          "45%",
-          "60%",
-          "48%"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "En 2015, el 56% de la población fumadora de Andalucía expresaba su deseo de dejar de fumar, según la Encuesta Andaluza de Salud."
-      },
-      {
-        "enunciado": "¿Qué instrumento es utilizado comúnmente para evaluar la motivación para dejar de fumar?",
-        "opciones": [
-          "Cuestionario AUDIT",
-          "Etapas de Prochaska y DiClemente",
-          "Test de Fageström",
-          "Inventario de Dependencia Nicotínica"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El modelo de etapas de Prochaska y DiClemente es ampliamente utilizado para evaluar la motivación de las personas para dejar de fumar."
-      },
-      {
-        "enunciado": "¿Qué acción preventiva contra el tabaquismo es parte de la estrategia MPOWER según la OMS?",
-        "opciones": [
-          "Distribuir cigarrillos electrónicos de bajo riesgo",
-          "Monitorear el consumo de tabaco y las políticas preventivas",
-          "Promocionar campañas para fumar con moderación",
-          "Proveer incentivos fiscales para fabricantes de tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "La estrategia MPOWER de la OMS incluye la acción de monitorear el consumo de tabaco y las políticas de prevención como una medida clave contra el tabaquismo."
-      },
-      {
-        "enunciado": "¿Qué porcentaje de la población andaluza en 2015 afirmó haber intentado dejar de fumar en el pasado?",
-        "opciones": [
-          "35%",
-          "48%",
-          "62%",
-          "56%"
-        ],
-        "correcta": 3,
-        "categorías": ["tema41", "tabaco", "cesación"],
-        "feedback": "En 2015, el 56% de los fumadores en Andalucía manifestó haber intentado dejar de fumar en algún momento, según datos del Plan Integral de Tabaquismo."
-      },
-      {
-        "enunciado": "¿Cuál es la relación entre nivel educativo y prevalencia de tabaquismo diario en Andalucía, según la Encuesta de Salud?",
-        "opciones": [
-          "Mayor nivel educativo, mayor prevalencia de tabaquismo",
-          "Menor nivel educativo, menor prevalencia de tabaquismo",
-          "Mayor nivel educativo, menor prevalencia de tabaquismo",
-          "No hay relación entre nivel educativo y tabaquismo"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "epidemiología"],
-        "feedback": "La Encuesta Andaluza de Salud muestra que a mayor nivel educativo, menor es la prevalencia de tabaquismo diario."
-      },
-      {
-        "enunciado": "Según el Plan Integral de Tabaquismo, ¿qué colectivo presenta mayor prevalencia de consumo de tabaco en Andalucía?",
-        "opciones": [
-          "Mujeres mayores de 60 años",
-          "Personas con nivel de ingresos inferior a 1.000 euros mensuales",
-          "Hombres con estudios universitarios",
-          "Personas jubiladas"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "poblaciones vulnerables"],
-        "feedback": "Las personas con ingresos inferiores a 1.000 euros mensuales presentan la mayor prevalencia de consumo de tabaco, lo que refleja un marcado impacto socioeconómico."
-      },
-      {
-        "enunciado": "¿Qué porcentaje de las muertes anuales en Andalucía es atribuible al tabaquismo según el Plan Integral de Tabaquismo?",
-        "opciones": [
-          "15%",
-          "21%",
-          "30%",
-          "10%"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "impacto"],
-        "feedback": "El Plan Integral de Tabaquismo estima que el 21% de todas las muertes en Andalucía son atribuibles al tabaquismo."
-      },
-      {
-        "enunciado": "¿Cuál es el objetivo principal del Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Incrementar el acceso a los cigarrillos electrónicos",
-          "Reducir la prevalencia del tabaquismo y productos relacionados",
-          "Proveer incentivos económicos para dejar de fumar",
-          "Promocionar el consumo moderado de tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "El Plan Integral de Tabaquismo de Andalucía tiene como objetivo principal reducir la prevalencia del tabaquismo y los productos relacionados."
-      },
-      {
-        "enunciado": "¿Cuál es la principal herramienta utilizada para evaluar el impacto de las intervenciones contra el tabaquismo en Andalucía?",
-        "opciones": [
-          "Encuesta Nacional de Salud",
-          "Encuesta Andaluza de Salud",
-          "Informe de la OMS sobre Tabaquismo",
-          "Estadísticas del INE"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "evaluación"],
-        "feedback": "La Encuesta Andaluza de Salud es la principal herramienta utilizada para evaluar el impacto de las intervenciones contra el tabaquismo en Andalucía."
-      },
-      {
-        "enunciado": "¿Cuál es una medida eficaz para prevenir el tabaquismo entre los jóvenes, según el Plan Integral de Tabaquismo?",
-        "opciones": [
-          "Promover el consumo responsable de tabaco",
-          "Establecer espacios libres de humo",
-          "Distribuir cigarrillos electrónicos gratuitos",
-          "Reducir los impuestos al tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "Una medida eficaz para prevenir el tabaquismo entre los jóvenes es establecer espacios libres de humo, según el Plan Integral de Tabaquismo."
-      },
-      {
-        "enunciado": "¿Qué elemento de la estrategia MPOWER está directamente relacionado con la fiscalidad del tabaco?",
-        "opciones": [
-          "Monitorizar el consumo",
-          "Aumentar los impuestos",
-          "Advertir sobre los peligros",
-          "Ofrecer ayuda para cesación"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "La estrategia MPOWER incluye aumentar los impuestos al tabaco como una medida para reducir su consumo."
-      },
-      {
-        "enunciado": "¿Qué grupo de edad presenta mayor prevalencia de consumo de tabaco en Andalucía, según la Encuesta Andaluza de Salud?",
-        "opciones": [
-          "15-19 años",
-          "25-55 años",
-          "60-75 años",
-          "Más de 75 años"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "epidemiología"],
-        "feedback": "La prevalencia de consumo de tabaco en Andalucía es mayor en el grupo de edad de 25 a 55 años, según la Encuesta Andaluza de Salud."
-      },
-      {
-        "enunciado": "¿Cuáles son las etapas del modelo de Prochaska y DiClemente según su enfoque en el cambio de conducta?",
-        "opciones": [
-          "Precontemplación, Contemplación, Decisión, Acción, Mantenimiento y Recaída",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
-          "Precontemplación, Reflexión, Preparación, Acción, Consolidación y Recaída",
-          "Precontemplación, Contemplación, Acción, Mantenimiento y Prevención"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "Las etapas del modelo son Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, siendo crucial entender cada fase para aplicar intervenciones adecuadas."
-      },
-      {
-        "enunciado": "En el modelo de Prochaska y DiClemente, ¿cuáles son las fases por las que atraviesa una persona al cambiar un hábito?",
-        "opciones": [
-          "Precontemplación, Reflexión, Decisión, Acción, Consolidación y Recaída",
-          "Precontemplación, Contemplación, Decisión, Implementación, Mantenimiento y Recaída",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
-          "Inicio, Evaluación, Cambio, Acción, Prevención y Mantenimiento"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El modelo de Prochaska y DiClemente establece seis etapas: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, adaptadas al proceso de cambio."
-      },
-      {
-        "enunciado": "¿Cómo se denominan correctamente las etapas del modelo de Prochaska y DiClemente?",
-        "opciones": [
-          "Precontemplación, Contemplación, Preparación, Implementación, Mantenimiento y Recaída",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
-          "Reflexión, Decisión, Planificación, Acción, Consolidación y Mantenimiento",
-          "Inicio, Contemplación, Cambio, Acción, Resolución y Prevención"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "Las etapas correctas son Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, claves para guiar procesos de cambio conductual."
-      },
-      {
-        "enunciado": "¿Cuáles son las etapas del modelo de Prochaska y DiClemente, aunque no estén en el orden correcto?",
-        "opciones": [
-          "Precontemplación, Acción, Contemplación, Recaída, Mantenimiento y Preparación",
-          "Contemplación, Precontemplación, Preparación, Acción, Recaída y Mantenimiento",
-          "Acción, Precontemplación, Contemplación, Mantenimiento, Recaída y Preparación",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
-        ],
-        "correcta": 3,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "Aunque todas las etapas están presentes en las opciones, el orden correcto es: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
-      },
-      {
-        "enunciado": "Selecciona la opción que incluya todas las etapas del modelo de Prochaska y DiClemente, sin importar el orden.",
-        "opciones": [
-          "Contemplación, Preparación, Mantenimiento, Precontemplación, Acción y Recaída",
-          "Preparación, Acción, Mantenimiento, Recaída, Precontemplación y Contemplación",
-          "Mantenimiento, Acción, Precontemplación, Recaída, Preparación y Contemplación",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "Las etapas son correctas en la primera opción, aunque están en un orden diferente al establecido en el modelo clásico."
-      },
-      {
-        "enunciado": "¿Qué opción contiene las etapas del modelo de Prochaska y DiClemente, pero desordenadas?",
-        "opciones": [
-          "Acción, Mantenimiento, Contemplación, Precontemplación, Preparación y Recaída",
-          "Recaída, Acción, Mantenimiento, Preparación, Precontemplación y Contemplación",
-          "Preparación, Contemplación, Mantenimiento, Acción, Precontemplación y Recaída",
-          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "Aunque desordenadas, la tercera opción incluye todas las etapas: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
-      },
-      {
-        "enunciado": "¿Cuál es el principal objetivo del Plan Integral de Tabaquismo en Andalucía?",
-        "opciones": [
-          "Aumentar la accesibilidad al tabaco para estudios científicos",
-          "Reducir la prevalencia del tabaquismo y los productos relacionados",
-          "Incrementar la recaudación fiscal mediante impuestos al tabaco",
-          "Promover campañas de publicidad para el consumo controlado"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "El principal objetivo del Plan Integral de Tabaquismo en Andalucía es reducir la prevalencia del tabaquismo y los productos relacionados, promoviendo la salud pública."
-      },
-      {
-        "enunciado": "¿Qué test se utiliza comúnmente para evaluar la dependencia física a la nicotina?",
-        "opciones": [
-          "Test de Fagerström",
-          "Cuestionario AUDIT",
-          "Entrevista de Richmond",
-          "Escala de motivación de DiClemente"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström es una herramienta estándar para medir la dependencia física a la nicotina en fumadores."
-      },
-      {
-        "enunciado": "¿Qué sustancia es el principal componente adictivo del tabaco?",
-        "opciones": [
-          "Monóxido de carbono",
-          "Nicotina",
-          "Alquitrán",
-          "Cianuro"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "fisiología"],
-        "feedback": "La nicotina es la sustancia responsable de la adicción al tabaco debido a su acción en el sistema nervioso central."
-      },
-      {
-        "enunciado": "¿Cuál es la edad media de inicio en el consumo de tabaco según la Encuesta Andaluza de Salud de 2015?",
-        "opciones": [
-          "15,5 años",
-          "19,5 años",
-          "17,8 años",
-          "16 años"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "epidemiología"],
-        "feedback": "En 2015, la edad media de inicio en el consumo de tabaco en Andalucía era de 19,5 años, similar entre hombres y mujeres."
-      },
-      {
-        "enunciado": "Según la OMS, ¿qué porcentaje de fumadores muere a causa de enfermedades relacionadas con el tabaco?",
-        "opciones": [
-          "25%",
-          "50%",
-          "75%",
-          "10%"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "salud"],
-        "feedback": "La OMS estima que el tabaco causa la muerte de la mitad de las personas que lo consumen regularmente."
-      },
-      {
-        "enunciado": "¿Qué efecto tiene el tabaquismo pasivo en la población infantil?",
-        "opciones": [
-          "Aumento de la inmunidad",
-          "Mayor riesgo de infecciones respiratorias",
-          "Reducción de alergias",
-          "Incremento del metabolismo basal"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "salud"],
-        "feedback": "El tabaquismo pasivo en niños aumenta el riesgo de infecciones respiratorias y otros problemas de salud."
-      },
-      {
-        "enunciado": "¿Qué herramienta del modelo MPOWER está destinada a aumentar el costo del tabaco para desincentivar su consumo?",
-        "opciones": [
-          "Monitorizar el consumo",
-          "Aumentar los impuestos",
-          "Prohibir la publicidad",
-          "Proteger a los no fumadores"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "El aumento de impuestos es una medida clave del modelo MPOWER para reducir el consumo de tabaco mediante el incremento de su precio."
-      },
-      {
-        "enunciado": "¿Qué factor de riesgo está más relacionado con el consumo de cigarrillos electrónicos según el Plan Integral de Tabaquismo?",
-        "opciones": [
-          "Aumento de fertilidad",
-          "Adicción a la nicotina en jóvenes",
-          "Reducción del riesgo cardiovascular",
-          "Desaparición de enfermedades pulmonares"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "riesgos"],
-        "feedback": "El consumo de cigarrillos electrónicos está asociado a una mayor adicción a la nicotina, especialmente en jóvenes, según el Plan Integral de Tabaquismo."
-      },
-      {
-        "enunciado": "¿Cuál es la percepción de accesibilidad al tabaco en menores de 18 años según el Plan Integral de Tabaquismo?",
-        "opciones": [
-          "Muy difícil",
-          "Relativamente fácil o muy fácil",
-          "Imposible",
-          "Desconocida"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "El Plan Integral de Tabaquismo reporta que un 75,9% de los menores de 18 años percibe que es relativamente fácil o muy fácil acceder al tabaco."
-      },
-      {
-        "enunciado": "Según la OMS, ¿cuántas muertes anuales son atribuibles al tabaquismo pasivo a nivel mundial?",
-        "opciones": [
-          "100,000",
-          "500,000",
-          "1.2 millones",
-          "2 millones"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "salud"],
-        "feedback": "El tabaquismo pasivo causa 1.2 millones de muertes al año en todo el mundo, según la OMS, reflejando su grave impacto en la salud pública."
-      },
-      {
-        "enunciado": "¿Qué test es utilizado para evaluar la motivación de un paciente para dejar de fumar?",
-        "opciones": [
-          "Test de Richmond",
-          "Test de Fagerström",
-          "Cuestionario AUDIT",
-          "Escala de Prochaska y DiClemente"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El Test de Richmond es ampliamente utilizado para evaluar la motivación de un paciente para abandonar el tabaquismo."
-      },
-      {
-        "enunciado": "¿Qué mide el Test de Fagerström en relación al tabaquismo?",
-        "opciones": [
-          "La gravedad de los síntomas de abstinencia",
-          "El grado de dependencia física a la nicotina",
-          "La percepción de riesgo del consumo de tabaco",
-          "La motivación para abandonar el hábito"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström mide el grado de dependencia física a la nicotina, ayudando a determinar la intensidad del tratamiento necesario."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes tests es específico para detectar patrones de consumo problemático de alcohol y no para el tabaco?",
-        "opciones": [
-          "Test AUDIT",
-          "Test de Fagerström",
-          "Test de Richmond",
-          "Test CAGE"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "El Test AUDIT está diseñado específicamente para identificar patrones de consumo problemático de alcohol, aunque a veces se usa en combinaciones de sustancias."
-      },
-      {
-        "enunciado": "¿Qué puntuación máxima se puede obtener en el Test de Fagerström?",
-        "opciones": [
-          "5 puntos",
-          "6 puntos",
-          "10 puntos",
-          "12 puntos"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström tiene una puntuación máxima de 10 puntos, y valores más altos indican una mayor dependencia a la nicotina."
-      },
-      {
-        "enunciado": "El Cuestionario CAGE, aunque no es específico para el tabaco, ¿qué aspecto del consumo evalúa?",
-        "opciones": [
-          "La dependencia física",
-          "El impacto emocional del consumo",
-          "El riesgo de consumo problemático",
-          "La motivación para abandonar el consumo"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "El Cuestionario CAGE está diseñado para detectar riesgos de consumo problemático, principalmente en relación con el alcohol."
-      },
-      {
-        "enunciado": "¿Qué herramienta combina preguntas y análisis biológico para confirmar la dependencia al tabaco?",
-        "opciones": [
-          "Test AUDIT",
-          "Test de Fagerström",
-          "Test MALT",
-          "Entrevista clínica estructurada"
-        ],
-        "correcta": 3,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "La entrevista clínica estructurada puede combinarse con pruebas biológicas para confirmar la dependencia al tabaco y evitar falsos negativos."
-      },
-      {
-        "enunciado": "¿Qué evalúa el modelo de etapas de Prochaska y DiClemente en relación con el tabaquismo?",
-        "opciones": [
-          "La gravedad de los síntomas físicos del tabaquismo",
-          "La motivación y disposición del paciente para el cambio",
-          "El impacto psicológico del consumo en el entorno familiar",
-          "La cantidad diaria promedio de cigarrillos consumidos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El modelo de Prochaska y DiClemente evalúa en qué etapa del proceso de cambio se encuentra el paciente y su disposición para avanzar hacia el abandono del tabaco."
-      },
-      {
-        "enunciado": "En el Test de Richmond, ¿cuál de las siguientes opciones puntúa más alto indicando una mayor motivación para dejar de fumar?",
-        "opciones": [
-          "El paciente está considerando dejar de fumar en los próximos seis meses",
-          "El paciente ha intentado dejar de fumar al menos una vez en el último año",
-          "El paciente afirma querer dejar de fumar en el próximo mes",
-          "El paciente no tiene intención de dejar de fumar"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "En el Test de Richmond, el mayor puntaje corresponde a los pacientes que expresan la intención de dejar de fumar en el próximo mes."
-      },
-      {
-        "enunciado": "¿Qué diferencia clave tiene el Test AUDIT con respecto al Test de Fagerström?",
-        "opciones": [
-          "El AUDIT mide el impacto psicológico del tabaco",
-          "El Fagerström evalúa dependencia física al tabaco, mientras que el AUDIT se centra en el alcohol",
-          "El AUDIT evalúa la motivación para dejar de fumar, mientras que el Fagerström mide la cantidad de consumo",
-          "El Fagerström incluye preguntas sobre el entorno social del consumo"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "alcohol", "diagnóstico"],
-        "feedback": "El Test de Fagerström está enfocado en medir la dependencia física al tabaco, mientras que el AUDIT se centra exclusivamente en el consumo problemático de alcohol."
-      },
-      {
-        "enunciado": "¿Cuál es la característica principal del Test MALT en el ámbito del consumo de sustancias?",
-        "opciones": [
-          "Evalúa patrones de consumo conjunto de tabaco y alcohol",
-          "Mide la gravedad de la dependencia al tabaco exclusivamente",
-          "Se usa para diagnosticar y confirmar dependencia al alcohol",
-          "Identifica factores psicológicos asociados al tabaquismo"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "El Test MALT es una herramienta específica para diagnosticar y confirmar la dependencia al alcohol."
-      },
-      {
-        "enunciado": "¿Cuál es el principal objetivo del Test de Fagerström?",
-        "opciones": [
-          "Evaluar la motivación para dejar de fumar",
-          "Medir el nivel de dependencia física a la nicotina",
-          "Identificar el número promedio de cigarrillos consumidos al día",
-          "Determinar el impacto social del consumo de tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström se utiliza para medir el nivel de dependencia física a la nicotina, proporcionando información clave para el tratamiento."
-      },
-      {
-        "enunciado": "¿Qué mide el Test de Richmond en fumadores?",
-        "opciones": [
-          "El nivel de dependencia física al tabaco",
-          "La motivación para dejar de fumar",
-          "La percepción de riesgo del tabaquismo",
-          "Los efectos del tabaco en la salud psicológica"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El Test de Richmond evalúa la motivación de los fumadores para dejar el hábito, siendo una herramienta clave en el proceso de cesación."
-      },
-      {
-        "enunciado": "¿Qué puntuación del Test de Fagerström indica una alta dependencia a la nicotina?",
-        "opciones": [
-          "1-2 puntos",
-          "3-4 puntos",
-          "5-6 puntos",
-          "7 o más puntos"
-        ],
-        "correcta": 3,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "Una puntuación de 7 o más en el Test de Fagerström indica una alta dependencia a la nicotina, requiriendo un abordaje intensivo en el tratamiento."
-      },
-      {
-        "enunciado": "¿Qué instrumento es útil para identificar riesgos en consumidores de alcohol pero no de tabaco?",
-        "opciones": [
-          "Test AUDIT",
-          "Test de Fagerström",
-          "Test de Richmond",
-          "Test CAGE"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "El Test AUDIT está diseñado específicamente para identificar riesgos y patrones de consumo problemático en consumidores de alcohol."
-      },
-      {
-        "enunciado": "¿Qué diferencia clave tiene el Test CAGE en comparación con el Test de Richmond?",
-        "opciones": [
-          "El Test CAGE evalúa motivación, mientras que el Richmond mide dependencia física",
-          "El Test CAGE está diseñado para el consumo de alcohol, mientras que el Richmond mide la motivación para dejar de fumar",
-          "El Richmond incluye aspectos psicológicos y el CAGE se centra en la cantidad de consumo",
-          "El Test de CAGE evalúa recaídas, mientras que el Richmond evalúa intención de cambio"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "alcohol", "tabaco", "diagnóstico"],
-        "feedback": "El Test CAGE está orientado al diagnóstico del consumo problemático de alcohol, mientras que el Test de Richmond mide la motivación para cesar el tabaquismo."
-      },
-      {
-        "enunciado": "¿Qué herramienta es más adecuada para evaluar el grado de dependencia al tabaco?",
-        "opciones": [
-          "Test CAGE",
-          "Test AUDIT",
-          "Test de Fagerström",
-          "Modelo de Prochaska y DiClemente"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström es el estándar para medir el grado de dependencia física a la nicotina."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes tests se aplica comúnmente en el contexto de motivación para el cambio de conducta en tabaquismo?",
-        "opciones": [
-          "Test AUDIT",
-          "Test de Richmond",
-          "Test MALT",
-          "Cuestionario de dependencia nicotínica"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El Test de Richmond evalúa la motivación para abandonar el tabaquismo, proporcionando una orientación para intervenciones personalizadas."
-      },
-      {
-        "enunciado": "¿Qué mide el Cuestionario de Dependencia Nicotínica además de la cantidad de consumo?",
-        "opciones": [
-          "El impacto del consumo en el entorno social",
-          "El tiempo hasta el primer cigarrillo tras despertarse",
-          "La intención de dejar de fumar",
-          "La percepción de riesgos asociados al tabaquismo"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Cuestionario de Dependencia Nicotínica evalúa, entre otros aspectos, el tiempo hasta el primer cigarrillo tras despertarse, un indicador clave de dependencia."
-      },
-      {
-        "enunciado": "¿Qué test evalúa específicamente los síntomas de dependencia al tabaco relacionados con el tiempo hasta el primer cigarrillo?",
-        "opciones": [
-          "Test AUDIT",
-          "Test de Fagerström",
-          "Test de Richmond",
-          "Test CAGE"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström incluye preguntas sobre el tiempo hasta el primer cigarrillo como un indicador clave de la dependencia al tabaco."
-      },
-      {
-        "enunciado": "¿Qué pregunta en el Test de Richmond indica una motivación alta para dejar de fumar?",
-        "opciones": [
-          "¿Cuántos cigarrillos fuma diariamente?",
-          "¿Ha intentado dejar de fumar en el último año?",
-          "¿Tiene intención de dejar de fumar en el próximo mes?",
-          "¿Siente placer al fumar?"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "En el Test de Richmond, la intención de dejar de fumar en el próximo mes es un indicador de alta motivación para abandonar el hábito."
-      },
-      {
-        "enunciado": "¿Qué aspecto evalúa principalmente el Test AUDIT?",
-        "opciones": [
-          "Dependencia al alcohol",
-          "Patrones de consumo problemático de alcohol",
-          "Efectos psicológicos del alcohol",
-          "Impacto del alcohol en las relaciones sociales"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "El Test AUDIT evalúa patrones de consumo problemático de alcohol, ayudando a identificar casos de riesgo."
-      },
-      {
-        "enunciado": "¿Cuál es una diferencia entre el Test de Fagerström y el Cuestionario de Dependencia Nicotínica?",
-        "opciones": [
-          "El Test de Fagerström mide la motivación, mientras que el Cuestionario evalúa dependencia física",
-          "El Test de Fagerström incluye preguntas sobre el tiempo hasta el primer cigarrillo, mientras que el Cuestionario no",
-          "El Cuestionario evalúa el impacto social del tabaquismo, mientras que el Test de Fagerström no",
-          "El Test de Fagerström mide síntomas de abstinencia, mientras que el Cuestionario evalúa intención de cambio"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström incluye preguntas específicas como el tiempo hasta el primer cigarrillo, clave para evaluar la dependencia física."
-      },
-      {
-        "enunciado": "¿Qué puntuación mínima en el Test AUDIT puede sugerir un posible consumo problemático de alcohol?",
-        "opciones": [
-          "6 puntos en hombres y 4 en mujeres",
-          "8 puntos",
-          "10 puntos",
-          "12 puntos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "alcohol", "diagnóstico"],
-        "feedback": "Una puntuación de 8 o más en el Test AUDIT sugiere un posible consumo problemático de alcohol, lo que puede requerir intervención."
-      },
-      {
-        "enunciado": "¿Qué test incluye preguntas sobre el placer percibido al fumar y la fuerza de la adicción psicológica?",
-        "opciones": [
-          "Test de Richmond",
-          "Test de Fagerström",
-          "Cuestionario CAGE",
-          "Test AUDIT"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El Test de Richmond incluye aspectos relacionados con el placer de fumar y la adicción psicológica, evaluando la motivación para dejarlo."
-      },
-      {
-        "enunciado": "¿Qué herramienta se usa para evaluar recaídas en pacientes que han dejado de fumar?",
-        "opciones": [
-          "Test de Fagerström",
-          "Modelo de Prochaska y DiClemente",
-          "Test de Richmond",
-          "Test AUDIT"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "El modelo de Prochaska y DiClemente analiza las recaídas como parte del proceso de cambio, ayudando a ajustar las intervenciones."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes tests es más apropiado para medir la dependencia física al tabaco en adolescentes?",
-        "opciones": [
-          "Test de Fagerström",
-          "Test AUDIT",
-          "Cuestionario CAGE",
-          "Escala de motivación juvenil"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström puede aplicarse en adolescentes, adaptando las preguntas a su contexto, para medir la dependencia física a la nicotina."
-      },
-      {
-        "enunciado": "¿Qué herramienta es clave para evaluar la disposición al cambio en fumadores según el modelo de Prochaska y DiClemente?",
-        "opciones": [
-          "Test de Richmond",
-          "Entrevista motivacional",
-          "Cuestionario CAGE",
-          "Test de Fagerström"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "motivación"],
-        "feedback": "La entrevista motivacional es clave para determinar la disposición al cambio y la etapa en que se encuentra un fumador según el modelo de Prochaska y DiClemente."
-      },
-      {
-        "enunciado": "¿Qué test combina preguntas sobre consumo y dependencia con posibles síntomas de abstinencia?",
-        "opciones": [
-          "Test de Fagerström",
-          "Test de Richmond",
-          "Cuestionario CAGE",
-          "Test AUDIT"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "diagnóstico"],
-        "feedback": "El Test de Fagerström incluye preguntas que evalúan tanto la dependencia como la posibilidad de síntomas de abstinencia."
-      },
-      {
-        "enunciado": "¿Cuál es el nombre del plan diseñado para abordar el tabaquismo en Andalucía?",
-        "opciones": [
-          "Plan Andaluz de Salud",
-          "Plan Integral de Tabaquismo de Andalucía",
-          "Estrategia MPOWER",
-          "Plan Nacional Antitabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "El Plan Integral de Tabaquismo de Andalucía es la iniciativa clave para combatir el tabaquismo en esta comunidad autónoma."
-      },
-      {
-        "enunciado": "¿Qué aspecto se considera prioritario en el Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Promover el consumo responsable de tabaco",
-          "Prevenir el inicio del tabaquismo en jóvenes",
-          "Incentivar la producción de cigarrillos electrónicos",
-          "Reducir los impuestos al tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "El Plan Integral de Tabaquismo pone énfasis en prevenir el inicio del tabaquismo, especialmente entre la población joven."
-      },
-      {
-        "enunciado": "¿Qué colectivo es señalado como prioritario en las estrategias del Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Personas mayores de 65 años",
-          "Mujeres embarazadas y en edad fértil",
-          "Personas con estudios universitarios",
-          "Trabajadores del sector industrial"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "poblaciones vulnerables"],
-        "feedback": "El Plan considera prioritario abordar el tabaquismo en mujeres embarazadas y en edad fértil debido a los riesgos para la salud materno-infantil."
-      },
-      {
-        "enunciado": "¿Qué medida incluye el Plan Integral de Tabaquismo de Andalucía para reducir la exposición al humo del tabaco?",
-        "opciones": [
-          "Prohibir el consumo en espacios cerrados y públicos",
-          "Distribuir dispositivos para fumar de forma segura",
-          "Fomentar campañas protabaco reguladas",
-          "Crear zonas exclusivas para fumadores en hospitales"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "Una de las medidas principales es la prohibición del consumo en espacios cerrados y públicos, promoviendo ambientes libres de humo."
-      },
-      {
-        "enunciado": "Según el Plan Integral de Tabaquismo de Andalucía, ¿qué herramienta educativa se recomienda para fomentar el abandono del tabaco?",
-        "opciones": [
-          "Terapias grupales",
-          "Entrevista motivacional",
-          "Clases teóricas sobre riesgos del tabaco",
-          "Documentales sobre tabaquismo"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "educación"],
-        "feedback": "La entrevista motivacional es recomendada como una herramienta eficaz para ayudar a las personas a reflexionar y decidir abandonar el tabaco."
-      },
-      {
-        "enunciado": "¿Qué programa dentro del Plan Integral de Tabaquismo se centra en la cesación tabáquica en el ámbito laboral?",
-        "opciones": [
-          "Espacios sin Humo en el Trabajo",
-          "Tabaco Cero en Empresas",
-          "Red Andaluza de Servicios Sanitarios y Espacios Libres de Humo",
-          "Prevención Activa en Centros de Trabajo"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "La Red Andaluza de Servicios Sanitarios y Espacios Libres de Humo incluye acciones enfocadas en la promoción de entornos laborales libres de humo."
-      },
-      {
-        "enunciado": "¿Qué novedad incluye el Plan Integral de Tabaquismo en relación con el uso de cigarrillos electrónicos?",
-        "opciones": [
-          "Permitir su uso en espacios cerrados",
-          "Considerarlos una alternativa segura al tabaco",
-          "Evaluarlos como una amenaza para la regulación libre de humo",
-          "Promover su comercialización como método de cesación"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "tecnologías"],
-        "feedback": "El Plan considera los cigarrillos electrónicos una amenaza para las regulaciones sobre espacios libres de humo debido a su impacto en el consumo."
-      },
-      {
-        "enunciado": "¿Qué estrategia del Plan Integral busca reducir la accesibilidad al tabaco entre menores?",
-        "opciones": [
-          "Aumentar los precios mediante impuestos",
-          "Proveer tabaco regulado para menores de edad",
-          "Eliminar las restricciones de venta en comercios",
-          "Distribuir tabaco sin nicotina en colegios"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "Incrementar los precios a través de impuestos es una medida clave para reducir la accesibilidad del tabaco, especialmente entre los jóvenes."
-      },
-      {
-        "enunciado": "Según el Plan Integral de Tabaquismo, ¿qué papel tienen los profesionales de atención primaria en la cesación tabáquica?",
-        "opciones": [
-          "Actuar como principales responsables del tratamiento",
-          "Derivar todos los casos a especialistas en tabaquismo",
-          "Limitarse a prescribir medicamentos",
-          "Evitar intervenir directamente en los intentos de cesación"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "salud pública"],
-        "feedback": "Los profesionales de atención primaria son clave en el tratamiento del tabaquismo, al ser el primer nivel de contacto con los fumadores."
-      },
-      {
-        "enunciado": "¿Qué indicador clave se utiliza para medir el éxito del Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Número de cigarrillos vendidos al año",
-          "Reducción de la prevalencia de fumadores",
-          "Cantidad de impuestos recaudados por tabaco",
-          "Incremento en las ventas de cigarrillos electrónicos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "evaluación"],
-        "feedback": "El éxito del Plan se mide, entre otros indicadores, por la reducción en la prevalencia de fumadores en la población andaluza."
-      },
-      {
-        "enunciado": "¿Qué objetivo general tiene el Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Eliminar por completo el consumo de tabaco en Andalucía",
-          "Reducir la prevalencia del tabaquismo y los productos relacionados",
-          "Promover el consumo responsable de productos de tabaco",
-          "Aumentar la recaudación fiscal proveniente del tabaco"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "El Plan Integral de Tabaquismo busca reducir la prevalencia del tabaquismo y el uso de productos relacionados mediante políticas de prevención y cesación."
-      },
-      {
-        "enunciado": "¿Cuál de las siguientes líneas estratégicas pertenece al Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "Incentivar la exportación de productos del tabaco",
-          "Espacios libres de humo",
-          "Creación de campañas para el consumo regulado",
-          "Promoción del tabaco en eventos culturales"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "La promoción de espacios libres de humo es una de las principales líneas estratégicas del Plan Integral de Tabaquismo de Andalucía."
-      },
-      {
-        "enunciado": "¿Qué impacto busca prevenir el Plan Integral de Tabaquismo en el ámbito infantil?",
-        "opciones": [
-          "Aumento de la tolerancia al tabaco",
-          "Reducción del desarrollo neurocognitivo",
-          "Incremento de la obesidad infantil",
-          "Mayor acceso a productos sin nicotina"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "poblaciones vulnerables"],
-        "feedback": "El Plan previene impactos como la reducción del desarrollo neurocognitivo en menores debido a la exposición al humo del tabaco."
-      },
-      {
-        "enunciado": "¿Qué entidad lidera la implementación del Plan Integral de Tabaquismo en Andalucía?",
-        "opciones": [
-          "Organización Mundial de la Salud",
-          "Consejería de Salud y Consumo de Andalucía",
-          "Ministerio de Sanidad",
-          "Federación Española de Tabaquismo"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "La Consejería de Salud y Consumo de Andalucía lidera la implementación del Plan Integral de Tabaquismo en la comunidad autónoma."
-      },
-      {
-        "enunciado": "¿Qué medida incluye el Plan Integral de Tabaquismo para personas que buscan dejar de fumar?",
-        "opciones": [
-          "Acceso gratuito a terapias psicológicas y farmacológicas",
-          "Subsidios para la compra de cigarrillos electrónicos",
-          "Restricción en la venta de tabaco a adultos jóvenes",
-          "Promoción de métodos alternativos de consumo de tabaco"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "cesación"],
-        "feedback": "El Plan incluye el acceso gratuito a terapias psicológicas y farmacológicas como medida para apoyar a las personas que desean dejar de fumar."
-      },
-      {
-        "enunciado": "¿Qué impacto busca minimizar el Plan Integral en las mujeres embarazadas fumadoras?",
-        "opciones": [
-          "Mayor riesgo de cáncer de pulmón",
-          "Complicaciones en el parto y bajo peso al nacer",
-          "Dependencia psicológica al tabaco",
-          "Incremento de la presión arterial en el embarazo"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "salud materna"],
-        "feedback": "El Plan busca minimizar riesgos como las complicaciones en el parto y el bajo peso al nacer en hijos de mujeres embarazadas fumadoras."
-      },
-      {
-        "enunciado": "¿Qué colectivo se ha identificado como prioritario para intervenciones específicas en el Plan Integral de Tabaquismo?",
-        "opciones": [
-          "Hombres mayores de 50 años",
-          "Personas con bajo nivel socioeconómico",
-          "Estudiantes universitarios",
-          "Trabajadores del sector industrial"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "poblaciones vulnerables"],
-        "feedback": "El Plan identifica a las personas con bajo nivel socioeconómico como un colectivo prioritario debido a la alta prevalencia de tabaquismo en este grupo."
-      },
-      {
-        "enunciado": "¿Qué método utiliza el Plan Integral para monitorizar el consumo de tabaco en Andalucía?",
-        "opciones": [
-          "Encuestas poblacionales periódicas",
-          "Datos de ventas de tabaco",
-          "Monitoreo de redes sociales",
-          "Estudios clínicos en fumadores"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "evaluación"],
-        "feedback": "El Plan utiliza encuestas poblacionales periódicas para monitorizar el consumo de tabaco y evaluar el impacto de las intervenciones."
-      },
-      {
-        "enunciado": "¿Qué aspecto específico aborda el Plan Integral en relación con los cigarrillos electrónicos?",
-        "opciones": [
-          "Promoción de su uso como método de reducción de daños",
-          "Prohibición total de su venta y uso",
-          "Regulación y control como dispositivos que contienen nicotina",
-          "Campañas para educar sobre su seguridad frente al tabaco convencional"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "tecnologías"],
-        "feedback": "El Plan regula y controla los cigarrillos electrónicos como dispositivos que contienen nicotina, considerando su potencial impacto en la salud."
-      },
-      {
-        "enunciado": "¿Qué indicador se utiliza para evaluar el éxito de las políticas de espacios libres de humo en Andalucía?",
-        "opciones": [
-          "Aumento de la recaudación fiscal por multas",
-          "Reducción de la exposición al humo de tabaco en lugares públicos",
-          "Incremento en las ventas de tabaco",
-          "Creación de espacios exclusivos para fumadores"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "El éxito de las políticas de espacios libres de humo se mide por la reducción de la exposición al humo de tabaco en lugares públicos."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes medicamentos se utiliza como tratamiento farmacológico para la cesación tabáquica?",
-        "opciones": [
-          "Bupropión",
-          "Ibuprofeno",
-          "Omeprazol",
-          "Paracetamol"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "El Bupropión es un medicamento aprobado para ayudar en la cesación tabáquica al reducir los síntomas de abstinencia y el deseo de fumar."
-      },
-      {
-        "enunciado": "¿Qué tipo de apoyo psicológico es más utilizado para ayudar a dejar de fumar?",
-        "opciones": [
-          "Psicoanálisis",
-          "Terapia cognitivo-conductual (TCC)",
-          "Hipnosis clínica",
-          "Terapia Gestalt"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La terapia cognitivo-conductual (TCC) es la más utilizada en la cesación tabáquica, ya que ayuda a cambiar los patrones de pensamiento y comportamiento relacionados con el tabaquismo."
-      },
-      {
-        "enunciado": "¿Qué terapia farmacológica reemplaza la nicotina del tabaco para reducir los síntomas de abstinencia?",
-        "opciones": [
-          "Vareniclina",
-          "Terapia sustitutiva con nicotina",
-          "Bupropión",
-          "Antidepresivos tricíclicos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La terapia sustitutiva con nicotina incluye parches, chicles o pastillas que liberan nicotina controlada para reducir los síntomas de abstinencia."
-      },
-      {
-        "enunciado": "¿Qué efecto tiene la vareniclina en el tratamiento del tabaquismo?",
-        "opciones": [
-          "Aumenta la dependencia a la nicotina",
-          "Bloquea los receptores de nicotina y reduce el placer al fumar",
-          "Incrementa el deseo de fumar inicialmente",
-          "Reduce los efectos secundarios de los cigarrillos electrónicos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La vareniclina actúa bloqueando los receptores de nicotina en el cerebro, reduciendo el placer asociado al fumar y ayudando a prevenir recaídas."
-      },
-      {
-        "enunciado": "¿Qué técnica psicológica ayuda a los fumadores a identificar y evitar situaciones de riesgo para recaídas?",
-        "opciones": [
-          "Terapia de exposición",
-          "Entrenamiento en resolución de problemas",
-          "Terapia narrativa",
-          "Relajación progresiva"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "El entrenamiento en resolución de problemas es una técnica utilizada para ayudar a los fumadores a manejar situaciones que pueden llevar a una recaída."
-      },
-      {
-        "enunciado": "¿Qué riesgo presentan los cigarrillos electrónicos según los estudios recientes?",
-        "opciones": [
-          "No tienen ningún impacto en la salud",
-          "Pueden causar adicción a la nicotina en no fumadores",
-          "Son completamente seguros para su uso prolongado",
-          "Reducen significativamente el riesgo de enfermedades pulmonares"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "Los cigarrillos electrónicos pueden causar adicción a la nicotina, especialmente en jóvenes y personas que no fumaban previamente."
-      },
-      {
-        "enunciado": "¿Qué se recomienda en el Plan Integral de Tabaquismo para las personas que usan cigarrillos electrónicos?",
-        "opciones": [
-          "Considerarlos un método efectivo para dejar de fumar",
-          "Evitar su uso debido a los riesgos desconocidos",
-          "Sustituir completamente el tabaco convencional por ellos",
-          "Usarlos únicamente en combinación con parches de nicotina"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "El Plan Integral de Tabaquismo recomienda evitar el uso de cigarrillos electrónicos debido a la falta de evidencia clara sobre su seguridad y eficacia."
-      },
-      {
-        "enunciado": "¿Qué efecto adverso común se ha reportado con el uso de vareniclina?",
-        "opciones": [
-          "Sueños anormales o vívidos",
-          "Hipertensión severa",
-          "Pérdida de peso extrema",
-          "Incremento del deseo de fumar"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "Uno de los efectos adversos comunes de la vareniclina son los sueños anormales o vívidos, aunque generalmente son bien tolerados."
-      },
-      {
-        "enunciado": "¿Qué herramienta psicológica es efectiva para reforzar la motivación en el proceso de cesación tabáquica?",
-        "opciones": [
-          "Entrevista motivacional",
-          "Terapia de exposición gradual",
-          "Psicodrama",
-          "Terapia sistémica"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La entrevista motivacional es una técnica ampliamente utilizada para reforzar la motivación del paciente y ayudarle a tomar decisiones positivas sobre su salud."
-      },
-      {
-        "enunciado": "¿Cuál es el principal componente adictivo en los cigarrillos electrónicos?",
-        "opciones": [
-          "Monóxido de carbono",
-          "Nicotina",
-          "Propilenglicol",
-          "Alquitrán"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "La nicotina es el principal componente adictivo presente en los cigarrillos electrónicos, similar al tabaco convencional."
-      },
-      {
-        "enunciado": "¿Qué tratamiento farmacológico para dejar de fumar está contraindicado en personas con antecedentes de convulsiones?",
-        "opciones": [
-          "Terapia sustitutiva con nicotina",
-          "Bupropión",
-          "Vareniclina",
-          "Parche transdérmico de nicotina"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "El Bupropión está contraindicado en personas con antecedentes de convulsiones, ya que puede aumentar el riesgo de sufrirlas."
-      },
-      {
-        "enunciado": "¿Qué método psicológico se utiliza para ayudar a identificar las asociaciones entre situaciones y el deseo de fumar?",
-        "opciones": [
-          "Terapia cognitivo-conductual",
-          "Entrevista motivacional",
-          "Psicoterapia dinámica",
-          "Mindfulness"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La terapia cognitivo-conductual ayuda a identificar y modificar las asociaciones entre situaciones y el deseo de fumar, fomentando habilidades para manejar estos desencadenantes."
-      },
-      {
-        "enunciado": "¿Qué componente adicional a la nicotina se encuentra comúnmente en los cigarrillos electrónicos y puede irritar el sistema respiratorio?",
-        "opciones": [
-          "Monóxido de carbono",
-          "Propilenglicol",
-          "Alquitrán",
-          "Nitratos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "El propilenglicol es un componente común en los cigarrillos electrónicos que puede irritar el sistema respiratorio, especialmente en personas sensibles."
-      },
-      {
-        "enunciado": "¿Cuál es la principal ventaja de la terapia sustitutiva con nicotina frente al consumo de tabaco?",
-        "opciones": [
-          "Elimina completamente la adicción a la nicotina",
-          "Proporciona nicotina sin otros componentes tóxicos del tabaco",
-          "Es más económica que el tabaco convencional",
-          "Puede usarse indefinidamente sin riesgos"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La terapia sustitutiva con nicotina proporciona nicotina al cuerpo sin los tóxicos presentes en el humo del tabaco, como el monóxido de carbono y el alquitrán."
-      },
-      {
-        "enunciado": "¿Qué efecto tiene la entrevista motivacional en el proceso de cesación tabáquica?",
-        "opciones": [
-          "Incrementa la dependencia a la nicotina",
-          "Ayuda a resolver ambivalencias sobre dejar de fumar",
-          "Sustituye la necesidad de medicamentos para dejar de fumar",
-          "Evita completamente las recaídas"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La entrevista motivacional es una técnica efectiva para resolver ambivalencias y aumentar el compromiso del paciente con el proceso de dejar de fumar."
-      },
-      {
-        "enunciado": "¿Qué riesgo potencial presentan los líquidos de los cigarrillos electrónicos si son ingeridos accidentalmente?",
-        "opciones": [
-          "Son inofensivos si se consumen en pequeñas cantidades",
-          "Pueden causar intoxicación por nicotina",
-          "No contienen sustancias tóxicas",
-          "Actúan como inhibidores de la adicción"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "Los líquidos de los cigarrillos electrónicos pueden causar intoxicación por nicotina si se ingieren accidentalmente, especialmente en niños."
-      },
-      {
-        "enunciado": "¿Qué factor psicológico es importante abordar en las sesiones de apoyo para dejar de fumar?",
-        "opciones": [
-          "La baja autoestima asociada al tabaquismo",
-          "El deseo de consumir alimentos dulces",
-          "La presión social para fumar cigarrillos electrónicos",
-          "El aburrimiento como desencadenante del consumo"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La baja autoestima puede estar asociada al tabaquismo y debe ser abordada en sesiones de apoyo para reforzar la confianza del paciente en dejar de fumar."
-      },
-      {
-        "enunciado": "¿Cuál es un efecto colateral comúnmente reportado al usar parches de nicotina?",
-        "opciones": [
-          "Dolor abdominal severo",
-          "Irritación en la piel",
-          "Pérdida del apetito",
-          "Incremento significativo del peso"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La irritación en la piel es un efecto colateral común al usar parches de nicotina, aunque suele ser leve y controlable."
-      },
-      {
-        "enunciado": "¿Qué técnica se utiliza en terapia cognitivo-conductual para reducir el deseo de fumar en situaciones habituales?",
-        "opciones": [
-          "Reestructuración cognitiva",
-          "Exposición gradual a desencadenantes",
-          "Terapia de aceptación y compromiso",
-          "Desensibilización sistemática"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La exposición gradual a desencadenantes ayuda a reducir el deseo de fumar al permitir que el paciente desarrolle estrategias para manejar esas situaciones."
-      },
-      {
-        "enunciado": "¿Qué enfoque terapéutico combina apoyo psicológico y farmacológico para obtener mejores resultados en la cesación tabáquica?",
-        "opciones": [
-          "Terapia dual integrada",
-          "Modelo biopsicosocial",
-          "Terapia conductual intensiva",
-          "Abordaje individualizado"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "tratamientos integrales"],
-        "feedback": "La terapia dual integrada combina apoyo psicológico con farmacología para mejorar significativamente las tasas de éxito en dejar de fumar."
-      },
-      {
-        "enunciado": "¿Qué tipo de terapia farmacológica está recomendada para fumadores con alta dependencia a la nicotina?",
-        "opciones": [
-          "Parches y chicles de nicotina combinados",
-          "Terapia con ansiolíticos",
-          "Antidepresivos tricíclicos",
-          "Suplementos vitamínicos"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La combinación de parches y chicles de nicotina está recomendada para pacientes con alta dependencia, proporcionando un control eficaz de los síntomas de abstinencia."
-      },
-      {
-        "enunciado": "¿Qué elemento psicológico puede dificultar la cesación tabáquica y debe ser tratado en la terapia?",
-        "opciones": [
-          "La negación del impacto social del tabaquismo",
-          "La asociación emocional entre fumar y momentos de estrés",
-          "El consumo de café sin moderación",
-          "El aislamiento social durante el proceso"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La asociación emocional entre fumar y el manejo del estrés es un obstáculo común que debe abordarse en las sesiones de apoyo psicológico."
-      },
-      {
-        "enunciado": "¿Qué terapia farmacológica puede causar náuseas como efecto secundario común?",
-        "opciones": [
-          "Vareniclina",
-          "Bupropión",
-          "Parches de nicotina",
-          "Gomas de nicotina"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "La vareniclina puede causar náuseas como efecto secundario en algunos pacientes, aunque suelen ser leves y transitorias."
-      },
-      {
-        "enunciado": "¿Qué recomendación se da para evitar recaídas durante el tratamiento de cesación tabáquica?",
-        "opciones": [
-          "Evitar situaciones sociales",
-          "Identificar y manejar desencadenantes",
-          "Reducir gradualmente el consumo sin apoyo adicional",
-          "Fumar cigarrillos electrónicos en lugar de tabaco convencional"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención de recaídas"],
-        "feedback": "Identificar y manejar los desencadenantes es fundamental para evitar recaídas y reforzar el éxito del tratamiento."
-      },
-      {
-        "enunciado": "¿Cuál es una contraindicación para el uso de terapia sustitutiva con nicotina?",
-        "opciones": [
-          "Mujeres embarazadas",
-          "Personas con alergia a los adhesivos",
-          "Pacientes con hipertensión controlada",
-          "Jóvenes menores de 18 años"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "Las personas con alergia a los adhesivos pueden tener reacciones adversas al usar parches de nicotina, siendo necesario buscar alternativas."
-      },
-      {
-        "enunciado": "¿Qué diferencia clave tiene la terapia cognitivo-conductual frente a otros enfoques psicológicos para dejar de fumar?",
-        "opciones": [
-          "Se centra en el presente y en resolver problemas específicos",
-          "Analiza exclusivamente el impacto emocional del tabaquismo",
-          "Incluye únicamente técnicas de relajación",
-          "Requiere sesiones grupales obligatorias"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La terapia cognitivo-conductual se centra en el presente y aborda problemas específicos, como los desencadenantes del deseo de fumar."
-      },
-      {
-        "enunciado": "¿Qué efecto puede tener el uso prolongado de cigarrillos electrónicos en no fumadores según los estudios actuales?",
-        "opciones": [
-          "Incremento de la inmunidad respiratoria",
-          "Riesgo de desarrollar dependencia a la nicotina",
-          "Mejora de la capacidad pulmonar",
-          "Reducción del riesgo de enfermedades cardíacas"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "El uso prolongado de cigarrillos electrónicos puede llevar al desarrollo de dependencia a la nicotina, incluso en personas que no eran fumadoras."
-      },
-      {
-        "enunciado": "¿Qué estrategia farmacológica se recomienda en pacientes que no toleran la vareniclina ni el bupropión?",
-        "opciones": [
-          "Terapia combinada de parches y gomas de nicotina",
-          "Incrementar el consumo de cigarrillos electrónicos",
-          "Uso de antidepresivos tricíclicos",
-          "Administración de medicamentos ansiolíticos"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "terapia farmacológica"],
-        "feedback": "En pacientes que no toleran vareniclina ni bupropión, la combinación de parches y gomas de nicotina es una alternativa efectiva y bien tolerada."
-      },
-      {
-        "enunciado": "¿Qué tipo de intervención psicológica incluye entrenar al paciente para anticipar situaciones de riesgo de recaída?",
-        "opciones": [
-          "Mindfulness",
-          "Terapia cognitivo-conductual",
-          "Hipnosis clínica",
-          "Psicoterapia dinámica"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "apoyo psicológico"],
-        "feedback": "La terapia cognitivo-conductual entrena al paciente para identificar y anticipar situaciones de riesgo de recaída, desarrollando estrategias para manejarlas."
-      },
-      {
-        "enunciado": "¿Qué medida recomienda el Plan Integral de Tabaquismo para abordar el uso de cigarrillos electrónicos en jóvenes?",
-        "opciones": [
-          "Prohibir su uso en espacios públicos",
-          "Incrementar las campañas de prevención específicas",
-          "Permitir su uso regulado como alternativa al tabaco",
-          "Distribuir dispositivos seguros para los menores de edad"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
-        "feedback": "El Plan Integral de Tabaquismo enfatiza la importancia de campañas de prevención específicas para reducir el uso de cigarrillos electrónicos entre los jóvenes."
-      },
-      {
-        "enunciado": "¿De qué año es la versión actual del Plan Integral de Tabaquismo de Andalucía?",
-        "opciones": [
-          "2015",
-          "2021",
-          "2019",
-          "2023"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "El Plan Integral de Tabaquismo de Andalucía en su versión actual fue renovado en 2021 para abordar nuevas realidades sociales y tecnológicas."
-      },
-      {
-        "enunciado": "¿Cuántos años abarca el Plan Integral de Tabaquismo de Andalucía vigente?",
-        "opciones": [
-          "3 años",
-          "4 años",
-          "5 años",
-          "10 años"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "El Plan Integral de Tabaquismo de Andalucía vigente tiene una duración de 5 años, abarcando el período 2021-2025."
-      },
-      {
-        "enunciado": "¿Qué novedad destaca en el Plan Integral de Tabaquismo de Andalucía 2021-2025 respecto a versiones anteriores?",
-        "opciones": [
-          "La inclusión de políticas sobre cigarrillos electrónicos",
-          "La reducción del número de objetivos estratégicos",
-          "La eliminación de la prevención como prioridad",
-          "La ampliación de campañas dirigidas a mayores de 65 años"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "El Plan Integral de Tabaquismo 2021-2025 incluye novedades como la regulación de cigarrillos electrónicos y otros productos emergentes."
-      },
-      {
-        "enunciado": "¿Qué estrategia central se refuerza en el Plan Integral de Tabaquismo de Andalucía 2021-2025?",
-        "opciones": [
-          "Fomentar espacios libres de humo",
-          "Reducir el costo del tabaco",
-          "Aumentar la disponibilidad de cigarrillos electrónicos",
-          "Distribuir productos de tabaco sin combustión"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "estrategias"],
-        "feedback": "El Plan refuerza la creación de espacios libres de humo como una estrategia clave para reducir la exposición al tabaquismo pasivo."
-      },
-      {
-        "enunciado": "¿Qué línea estratégica del Plan Integral de Tabaquismo vigente aborda el tabaquismo en jóvenes?",
-        "opciones": [
-          "Espacios libres de humo",
-          "Prevención del tabaquismo y promoción de la salud",
-          "Regulación de la publicidad del tabaco",
-          "Tratamiento farmacológico en adolescentes"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "prevención"],
-        "feedback": "La línea de prevención del tabaquismo y promoción de la salud se centra en evitar que los jóvenes inicien el consumo de tabaco."
-      },
-      {
-        "enunciado": "¿Qué organismos colaboran en la implementación del Plan Integral de Tabaquismo de Andalucía 2021-2025?",
-        "opciones": [
-          "Asociaciones de tabaquismo pasivo",
-          "Ministerio de Salud y Organismos de Consumo",
-          "Consejería de Salud y Consumo junto con la Escuela Andaluza de Salud Pública",
-          "Federaciones de consumidores de tabaco"
-        ],
-        "correcta": 2,
-        "categorías": ["tema41", "tabaco", "políticas"],
-        "feedback": "La Consejería de Salud y Consumo y la Escuela Andaluza de Salud Pública son clave en la implementación del Plan Integral de Tabaquismo 2021-2025."
-      },
-      {
-        "enunciado": "¿Qué cambios sociodemográficos se mencionan como motivo de la actualización del Plan Integral de Tabaquismo de Andalucía en 2021?",
-        "opciones": [
-          "Incremento en el uso de cigarrillos electrónicos y cachimbas",
-          "Reducción drástica de la prevalencia de fumadores",
-          "Desaparición del tabaquismo pasivo",
-          "Consumo equilibrado entre hombres y mujeres"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "contexto social"],
-        "feedback": "El Plan 2021-2025 actualizó sus objetivos para abordar el incremento en el uso de cigarrillos electrónicos y cachimbas, especialmente en jóvenes."
-      },
-      {
-        "enunciado": "¿Qué porcentaje de muertes en Andalucía está relacionado con el tabaquismo, según datos del Plan 2021-2025?",
-        "opciones": [
-          "15%",
-          "21%",
-          "30%",
-          "25%"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "impacto"],
-        "feedback": "El Plan Integral de Tabaquismo indica que el tabaquismo es responsable del 21% de las muertes en Andalucía, consolidándose como un grave problema de salud pública."
-      },
-      {
-        "enunciado": "¿Qué impacto social se destaca en el análisis del Plan Integral de Tabaquismo de Andalucía 2021-2025?",
-        "opciones": [
-          "Desigualdad en el acceso a tratamientos de cesación",
-          "Incremento del tabaquismo en jóvenes de clase alta",
-          "Mayor prevalencia de fumadores en áreas rurales",
-          "Reducción total del tabaquismo entre mujeres"
-        ],
-        "correcta": 0,
-        "categorías": ["tema41", "tabaco", "desigualdad"],
-        "feedback": "El Plan destaca que la desigualdad social afecta el acceso a tratamientos de cesación, siendo una prioridad intervenir en colectivos vulnerables."
-      },
-      {
-        "enunciado": "¿Qué línea estratégica del Plan Integral de Tabaquismo incluye el seguimiento y evaluación de los resultados obtenidos?",
-        "opciones": [
-          "Control del comercio ilícito de tabaco",
-          "Monitorización y evaluación de estrategias",
-          "Prevención del tabaquismo en menores",
-          "Campañas educativas en colegios"
-        ],
-        "correcta": 1,
-        "categorías": ["tema41", "tabaco", "evaluación"],
-        "feedback": "La monitorización y evaluación de estrategias es esencial en el Plan para medir la efectividad de las intervenciones implementadas."
-      }                                                
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el consumo de tabaco en Andalucía es correcta según los últimos datos disponibles?",
+    "opciones": [
+      "La prevalencia de tabaquismo diario es superior en mujeres que en hombres.",
+      "La edad media de inicio del tabaquismo es más baja en mujeres que en hombres.",
+      "El consumo de tabaco ha aumentado significativamente en las últimas dos décadas.",
+      "El porcentaje de fumadores es más alto en provincias como Cádiz y Huelva."
+    ],
+    "correcta": 3,
+    "categorías": [
+      "tema37",
+      "tabaco"
+    ],
+    "feedback": "La opción correcta es la 4. Las provincias de Cádiz y Huelva presentan mayores tasas de prevalencia de consumo de tabaco en comparación con otras regiones de Andalucía. Por otro lado, el consumo de tabaco ha tendido a disminuir en términos generales en las últimas décadas en Andalucía y el inicio es similar entre hombres y mujeres según datos recientes."
+  },
+  {
+    "enunciado": "Según la Encuesta Andaluza de Salud 2015, ¿qué porcentaje de hombres fumaba diariamente en Andalucía?",
+    "opciones": [
+      "27,9%",
+      "31,4%",
+      "24,6%",
+      "18,8%"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "epidemiología"
+    ],
+    "feedback": "En Andalucía, la prevalencia de hombres que fumaban diariamente en 2015 era del 31,4%, según la Encuesta Andaluza de Salud."
+  },
+  {
+    "enunciado": "¿Qué edad media de inicio del tabaquismo se registró en mujeres en Andalucía en 2015?",
+    "opciones": [
+      "16,5 años",
+      "17,6 años",
+      "19,5 años",
+      "20 años"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "En 2015, la edad media de inicio del consumo de tabaco en mujeres en Andalucía era de 19,5 años, similar a la de los hombres."
+  },
+  {
+    "enunciado": "Según el Plan Integral de Tabaquismo de Andalucía, ¿cuál de las siguientes acciones forma parte de la estrategia MPOWER?",
+    "opciones": [
+      "Incentivar el consumo responsable",
+      "Proteger a la población del humo ambiental",
+      "Reducir los impuestos al tabaco",
+      "Eliminar la oferta de productos alternativos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "La estrategia MPOWER incluye acciones como proteger a la población del humo ambiental, pero no contempla reducir impuestos al tabaco."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de escolares andaluces entre 11 y 18 años nunca ha probado el tabaco, según datos de 2018?",
+    "opciones": [
+      "80,4% de chicos y 78,5% de chicas",
+      "77,1% en total",
+      "43,45% de chicos y 40% de chicas",
+      "60% en total"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "educación"
+    ],
+    "feedback": "En 2018, el 80,4% de los chicos y el 78,5% de las chicas andaluces entre 11 y 18 años nunca habían probado el tabaco, según la encuesta HBSC."
+  },
+  {
+    "enunciado": "Según la OMS, ¿qué proporción de fumadores muere como consecuencia directa del consumo de tabaco?",
+    "opciones": [
+      "Un tercio",
+      "La mitad",
+      "Dos tercios",
+      "Un cuarto"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud"
+    ],
+    "feedback": "La OMS estima que el tabaco mata a la mitad de las personas que lo consumen durante su vida."
+  },
+  {
+    "enunciado": "¿Cuál es una de las pruebas más utilizadas para medir la dependencia física al tabaco?",
+    "opciones": [
+      "Test de Richmond",
+      "Test de AUDIT",
+      "Test de Fageström",
+      "Cuestionario CAGE"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fageström es una de las herramientas más utilizadas para evaluar la dependencia física a la nicotina."
+  },
+  {
+    "enunciado": "¿Qué efecto a largo plazo es común al consumo de cigarrillos electrónicos?",
+    "opciones": [
+      "Aumento de la inmunidad pulmonar",
+      "Reducción del riesgo cardiovascular",
+      "Efectos negativos a nivel hormonal",
+      "Incremento de la fertilidad en mujeres"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "riesgos"
+    ],
+    "feedback": "El consumo de cigarrillos electrónicos puede tener efectos negativos a nivel hormonal y cardiovascular, aunque se desconocen completamente los riesgos a largo plazo."
+  },
+  {
+    "enunciado": "¿Cuál es una recomendación clave del Plan Integral de Tabaquismo de Andalucía para las mujeres embarazadas?",
+    "opciones": [
+      "Reducir el consumo a la mitad",
+      "Evitar completamente el consumo de nicotina",
+      "Limitar el uso a cigarrillos electrónicos",
+      "Consumir tabaco en espacios ventilados"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo de Andalucía recomienda que las mujeres embarazadas eviten completamente el consumo de nicotina para proteger al feto y al bebé."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de fumadores andaluces deseaba dejar de fumar en 2015?",
+    "opciones": [
+      "56%",
+      "45%",
+      "60%",
+      "48%"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "En 2015, el 56% de la población fumadora de Andalucía expresaba su deseo de dejar de fumar, según la Encuesta Andaluza de Salud."
+  },
+  {
+    "enunciado": "¿Qué instrumento es utilizado comúnmente para evaluar la motivación para dejar de fumar?",
+    "opciones": [
+      "Cuestionario AUDIT",
+      "Etapas de Prochaska y DiClemente",
+      "Test de Fageström",
+      "Inventario de Dependencia Nicotínica"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El modelo de etapas de Prochaska y DiClemente es ampliamente utilizado para evaluar la motivación de las personas para dejar de fumar."
+  },
+  {
+    "enunciado": "¿Qué acción preventiva contra el tabaquismo es parte de la estrategia MPOWER según la OMS?",
+    "opciones": [
+      "Distribuir cigarrillos electrónicos de bajo riesgo",
+      "Monitorear el consumo de tabaco y las políticas preventivas",
+      "Promocionar campañas para fumar con moderación",
+      "Proveer incentivos fiscales para fabricantes de tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "La estrategia MPOWER de la OMS incluye la acción de monitorear el consumo de tabaco y las políticas de prevención como una medida clave contra el tabaquismo."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de la población andaluza en 2015 afirmó haber intentado dejar de fumar en el pasado?",
+    "opciones": [
+      "35%",
+      "48%",
+      "62%",
+      "56%"
+    ],
+    "correcta": 3,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cesación"
+    ],
+    "feedback": "En 2015, el 56% de los fumadores en Andalucía manifestó haber intentado dejar de fumar en algún momento, según datos del Plan Integral de Tabaquismo."
+  },
+  {
+    "enunciado": "¿Cuál es la relación entre nivel educativo y prevalencia de tabaquismo diario en Andalucía, según la Encuesta de Salud?",
+    "opciones": [
+      "Mayor nivel educativo, mayor prevalencia de tabaquismo",
+      "Menor nivel educativo, menor prevalencia de tabaquismo",
+      "Mayor nivel educativo, menor prevalencia de tabaquismo",
+      "No hay relación entre nivel educativo y tabaquismo"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "epidemiología"
+    ],
+    "feedback": "La Encuesta Andaluza de Salud muestra que a mayor nivel educativo, menor es la prevalencia de tabaquismo diario."
+  },
+  {
+    "enunciado": "Según el Plan Integral de Tabaquismo, ¿qué colectivo presenta mayor prevalencia de consumo de tabaco en Andalucía?",
+    "opciones": [
+      "Mujeres mayores de 60 años",
+      "Personas con nivel de ingresos inferior a 1.000 euros mensuales",
+      "Hombres con estudios universitarios",
+      "Personas jubiladas"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "poblaciones vulnerables"
+    ],
+    "feedback": "Las personas con ingresos inferiores a 1.000 euros mensuales presentan la mayor prevalencia de consumo de tabaco, lo que refleja un marcado impacto socioeconómico."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de las muertes anuales en Andalucía es atribuible al tabaquismo según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "15%",
+      "21%",
+      "30%",
+      "10%"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "impacto"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo estima que el 21% de todas las muertes en Andalucía son atribuibles al tabaquismo."
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo principal del Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Incrementar el acceso a los cigarrillos electrónicos",
+      "Reducir la prevalencia del tabaquismo y productos relacionados",
+      "Proveer incentivos económicos para dejar de fumar",
+      "Promocionar el consumo moderado de tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo de Andalucía tiene como objetivo principal reducir la prevalencia del tabaquismo y los productos relacionados."
+  },
+  {
+    "enunciado": "¿Cuál es la principal herramienta utilizada para evaluar el impacto de las intervenciones contra el tabaquismo en Andalucía?",
+    "opciones": [
+      "Encuesta Nacional de Salud",
+      "Encuesta Andaluza de Salud",
+      "Informe de la OMS sobre Tabaquismo",
+      "Estadísticas del INE"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "evaluación"
+    ],
+    "feedback": "La Encuesta Andaluza de Salud es la principal herramienta utilizada para evaluar el impacto de las intervenciones contra el tabaquismo en Andalucía."
+  },
+  {
+    "enunciado": "¿Cuál es una medida eficaz para prevenir el tabaquismo entre los jóvenes, según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "Promover el consumo responsable de tabaco",
+      "Establecer espacios libres de humo",
+      "Distribuir cigarrillos electrónicos gratuitos",
+      "Reducir los impuestos al tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "Una medida eficaz para prevenir el tabaquismo entre los jóvenes es establecer espacios libres de humo, según el Plan Integral de Tabaquismo."
+  },
+  {
+    "enunciado": "¿Qué elemento de la estrategia MPOWER está directamente relacionado con la fiscalidad del tabaco?",
+    "opciones": [
+      "Monitorizar el consumo",
+      "Aumentar los impuestos",
+      "Advertir sobre los peligros",
+      "Ofrecer ayuda para cesación"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "La estrategia MPOWER incluye aumentar los impuestos al tabaco como una medida para reducir su consumo."
+  },
+  {
+    "enunciado": "¿Qué grupo de edad presenta mayor prevalencia de consumo de tabaco en Andalucía, según la Encuesta Andaluza de Salud?",
+    "opciones": [
+      "15-19 años",
+      "25-55 años",
+      "60-75 años",
+      "Más de 75 años"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "epidemiología"
+    ],
+    "feedback": "La prevalencia de consumo de tabaco en Andalucía es mayor en el grupo de edad de 25 a 55 años, según la Encuesta Andaluza de Salud."
+  },
+  {
+    "enunciado": "¿Cuáles son las etapas del modelo de Prochaska y DiClemente según su enfoque en el cambio de conducta?",
+    "opciones": [
+      "Precontemplación, Contemplación, Decisión, Acción, Mantenimiento y Recaída",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
+      "Precontemplación, Reflexión, Preparación, Acción, Consolidación y Recaída",
+      "Precontemplación, Contemplación, Acción, Mantenimiento y Prevención"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "Las etapas del modelo son Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, siendo crucial entender cada fase para aplicar intervenciones adecuadas."
+  },
+  {
+    "enunciado": "En el modelo de Prochaska y DiClemente, ¿cuáles son las fases por las que atraviesa una persona al cambiar un hábito?",
+    "opciones": [
+      "Precontemplación, Reflexión, Decisión, Acción, Consolidación y Recaída",
+      "Precontemplación, Contemplación, Decisión, Implementación, Mantenimiento y Recaída",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
+      "Inicio, Evaluación, Cambio, Acción, Prevención y Mantenimiento"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El modelo de Prochaska y DiClemente establece seis etapas: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, adaptadas al proceso de cambio."
+  },
+  {
+    "enunciado": "¿Cómo se denominan correctamente las etapas del modelo de Prochaska y DiClemente?",
+    "opciones": [
+      "Precontemplación, Contemplación, Preparación, Implementación, Mantenimiento y Recaída",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída",
+      "Reflexión, Decisión, Planificación, Acción, Consolidación y Mantenimiento",
+      "Inicio, Contemplación, Cambio, Acción, Resolución y Prevención"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "Las etapas correctas son Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída, claves para guiar procesos de cambio conductual."
+  },
+  {
+    "enunciado": "¿Cuáles son las etapas del modelo de Prochaska y DiClemente, aunque no estén en el orden correcto?",
+    "opciones": [
+      "Precontemplación, Acción, Contemplación, Recaída, Mantenimiento y Preparación",
+      "Contemplación, Precontemplación, Preparación, Acción, Recaída y Mantenimiento",
+      "Acción, Precontemplación, Contemplación, Mantenimiento, Recaída y Preparación",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
+    ],
+    "correcta": 3,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "Aunque todas las etapas están presentes en las opciones, el orden correcto es: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
+  },
+  {
+    "enunciado": "Selecciona la opción que incluya todas las etapas del modelo de Prochaska y DiClemente, sin importar el orden.",
+    "opciones": [
+      "Contemplación, Preparación, Mantenimiento, Precontemplación, Acción y Recaída",
+      "Preparación, Acción, Mantenimiento, Recaída, Precontemplación y Contemplación",
+      "Mantenimiento, Acción, Precontemplación, Recaída, Preparación y Contemplación",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "Las etapas son correctas en la primera opción, aunque están en un orden diferente al establecido en el modelo clásico."
+  },
+  {
+    "enunciado": "¿Qué opción contiene las etapas del modelo de Prochaska y DiClemente, pero desordenadas?",
+    "opciones": [
+      "Acción, Mantenimiento, Contemplación, Precontemplación, Preparación y Recaída",
+      "Recaída, Acción, Mantenimiento, Preparación, Precontemplación y Contemplación",
+      "Preparación, Contemplación, Mantenimiento, Acción, Precontemplación y Recaída",
+      "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "Aunque desordenadas, la tercera opción incluye todas las etapas: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
+  },
+  {
+    "enunciado": "¿Cuál es el principal objetivo del Plan Integral de Tabaquismo en Andalucía?",
+    "opciones": [
+      "Aumentar la accesibilidad al tabaco para estudios científicos",
+      "Reducir la prevalencia del tabaquismo y los productos relacionados",
+      "Incrementar la recaudación fiscal mediante impuestos al tabaco",
+      "Promover campañas de publicidad para el consumo controlado"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "El principal objetivo del Plan Integral de Tabaquismo en Andalucía es reducir la prevalencia del tabaquismo y los productos relacionados, promoviendo la salud pública."
+  },
+  {
+    "enunciado": "¿Qué test se utiliza comúnmente para evaluar la dependencia física a la nicotina?",
+    "opciones": [
+      "Test de Fagerström",
+      "Cuestionario AUDIT",
+      "Entrevista de Richmond",
+      "Escala de motivación de DiClemente"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström es una herramienta estándar para medir la dependencia física a la nicotina en fumadores."
+  },
+  {
+    "enunciado": "¿Qué sustancia es el principal componente adictivo del tabaco?",
+    "opciones": [
+      "Monóxido de carbono",
+      "Nicotina",
+      "Alquitrán",
+      "Cianuro"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "fisiología"
+    ],
+    "feedback": "La nicotina es la sustancia responsable de la adicción al tabaco debido a su acción en el sistema nervioso central."
+  },
+  {
+    "enunciado": "¿Cuál es la edad media de inicio en el consumo de tabaco según la Encuesta Andaluza de Salud de 2015?",
+    "opciones": [
+      "15,5 años",
+      "19,5 años",
+      "17,8 años",
+      "16 años"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "epidemiología"
+    ],
+    "feedback": "En 2015, la edad media de inicio en el consumo de tabaco en Andalucía era de 19,5 años, similar entre hombres y mujeres."
+  },
+  {
+    "enunciado": "Según la OMS, ¿qué porcentaje de fumadores muere a causa de enfermedades relacionadas con el tabaco?",
+    "opciones": [
+      "25%",
+      "50%",
+      "75%",
+      "10%"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud"
+    ],
+    "feedback": "La OMS estima que el tabaco causa la muerte de la mitad de las personas que lo consumen regularmente."
+  },
+  {
+    "enunciado": "¿Qué efecto tiene el tabaquismo pasivo en la población infantil?",
+    "opciones": [
+      "Aumento de la inmunidad",
+      "Mayor riesgo de infecciones respiratorias",
+      "Reducción de alergias",
+      "Incremento del metabolismo basal"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud"
+    ],
+    "feedback": "El tabaquismo pasivo en niños aumenta el riesgo de infecciones respiratorias y otros problemas de salud."
+  },
+  {
+    "enunciado": "¿Qué herramienta del modelo MPOWER está destinada a aumentar el costo del tabaco para desincentivar su consumo?",
+    "opciones": [
+      "Monitorizar el consumo",
+      "Aumentar los impuestos",
+      "Prohibir la publicidad",
+      "Proteger a los no fumadores"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "El aumento de impuestos es una medida clave del modelo MPOWER para reducir el consumo de tabaco mediante el incremento de su precio."
+  },
+  {
+    "enunciado": "¿Qué factor de riesgo está más relacionado con el consumo de cigarrillos electrónicos según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "Aumento de fertilidad",
+      "Adicción a la nicotina en jóvenes",
+      "Reducción del riesgo cardiovascular",
+      "Desaparición de enfermedades pulmonares"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "riesgos"
+    ],
+    "feedback": "El consumo de cigarrillos electrónicos está asociado a una mayor adicción a la nicotina, especialmente en jóvenes, según el Plan Integral de Tabaquismo."
+  },
+  {
+    "enunciado": "¿Cuál es la percepción de accesibilidad al tabaco en menores de 18 años según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "Muy difícil",
+      "Relativamente fácil o muy fácil",
+      "Imposible",
+      "Desconocida"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo reporta que un 75,9% de los menores de 18 años percibe que es relativamente fácil o muy fácil acceder al tabaco."
+  },
+  {
+    "enunciado": "Según la OMS, ¿cuántas muertes anuales son atribuibles al tabaquismo pasivo a nivel mundial?",
+    "opciones": [
+      "100,000",
+      "500,000",
+      "1.2 millones",
+      "2 millones"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud"
+    ],
+    "feedback": "El tabaquismo pasivo causa 1.2 millones de muertes al año en todo el mundo, según la OMS, reflejando su grave impacto en la salud pública."
+  },
+  {
+    "enunciado": "¿Qué test es utilizado para evaluar la motivación de un paciente para dejar de fumar?",
+    "opciones": [
+      "Test de Richmond",
+      "Test de Fagerström",
+      "Cuestionario AUDIT",
+      "Escala de Prochaska y DiClemente"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El Test de Richmond es ampliamente utilizado para evaluar la motivación de un paciente para abandonar el tabaquismo."
+  },
+  {
+    "enunciado": "¿Qué mide el Test de Fagerström en relación al tabaquismo?",
+    "opciones": [
+      "La gravedad de los síntomas de abstinencia",
+      "El grado de dependencia física a la nicotina",
+      "La percepción de riesgo del consumo de tabaco",
+      "La motivación para abandonar el hábito"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström mide el grado de dependencia física a la nicotina, ayudando a determinar la intensidad del tratamiento necesario."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes tests es específico para detectar patrones de consumo problemático de alcohol y no para el tabaco?",
+    "opciones": [
+      "Test AUDIT",
+      "Test de Fagerström",
+      "Test de Richmond",
+      "Test CAGE"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Test AUDIT está diseñado específicamente para identificar patrones de consumo problemático de alcohol, aunque a veces se usa en combinaciones de sustancias."
+  },
+  {
+    "enunciado": "¿Qué puntuación máxima se puede obtener en el Test de Fagerström?",
+    "opciones": [
+      "5 puntos",
+      "6 puntos",
+      "10 puntos",
+      "12 puntos"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström tiene una puntuación máxima de 10 puntos, y valores más altos indican una mayor dependencia a la nicotina."
+  },
+  {
+    "enunciado": "El Cuestionario CAGE, aunque no es específico para el tabaco, ¿qué aspecto del consumo evalúa?",
+    "opciones": [
+      "La dependencia física",
+      "El impacto emocional del consumo",
+      "El riesgo de consumo problemático",
+      "La motivación para abandonar el consumo"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Cuestionario CAGE está diseñado para detectar riesgos de consumo problemático, principalmente en relación con el alcohol."
+  },
+  {
+    "enunciado": "¿Qué herramienta combina preguntas y análisis biológico para confirmar la dependencia al tabaco?",
+    "opciones": [
+      "Test AUDIT",
+      "Test de Fagerström",
+      "Test MALT",
+      "Entrevista clínica estructurada"
+    ],
+    "correcta": 3,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "La entrevista clínica estructurada puede combinarse con pruebas biológicas para confirmar la dependencia al tabaco y evitar falsos negativos."
+  },
+  {
+    "enunciado": "¿Qué evalúa el modelo de etapas de Prochaska y DiClemente en relación con el tabaquismo?",
+    "opciones": [
+      "La gravedad de los síntomas físicos del tabaquismo",
+      "La motivación y disposición del paciente para el cambio",
+      "El impacto psicológico del consumo en el entorno familiar",
+      "La cantidad diaria promedio de cigarrillos consumidos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El modelo de Prochaska y DiClemente evalúa en qué etapa del proceso de cambio se encuentra el paciente y su disposición para avanzar hacia el abandono del tabaco."
+  },
+  {
+    "enunciado": "En el Test de Richmond, ¿cuál de las siguientes opciones puntúa más alto indicando una mayor motivación para dejar de fumar?",
+    "opciones": [
+      "El paciente está considerando dejar de fumar en los próximos seis meses",
+      "El paciente ha intentado dejar de fumar al menos una vez en el último año",
+      "El paciente afirma querer dejar de fumar en el próximo mes",
+      "El paciente no tiene intención de dejar de fumar"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "En el Test de Richmond, el mayor puntaje corresponde a los pacientes que expresan la intención de dejar de fumar en el próximo mes."
+  },
+  {
+    "enunciado": "¿Qué diferencia clave tiene el Test AUDIT con respecto al Test de Fagerström?",
+    "opciones": [
+      "El AUDIT mide el impacto psicológico del tabaco",
+      "El Fagerström evalúa dependencia física al tabaco, mientras que el AUDIT se centra en el alcohol",
+      "El AUDIT evalúa la motivación para dejar de fumar, mientras que el Fagerström mide la cantidad de consumo",
+      "El Fagerström incluye preguntas sobre el entorno social del consumo"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström está enfocado en medir la dependencia física al tabaco, mientras que el AUDIT se centra exclusivamente en el consumo problemático de alcohol."
+  },
+  {
+    "enunciado": "¿Cuál es la característica principal del Test MALT en el ámbito del consumo de sustancias?",
+    "opciones": [
+      "Evalúa patrones de consumo conjunto de tabaco y alcohol",
+      "Mide la gravedad de la dependencia al tabaco exclusivamente",
+      "Se usa para diagnosticar y confirmar dependencia al alcohol",
+      "Identifica factores psicológicos asociados al tabaquismo"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Test MALT es una herramienta específica para diagnosticar y confirmar la dependencia al alcohol."
+  },
+  {
+    "enunciado": "¿Cuál es el principal objetivo del Test de Fagerström?",
+    "opciones": [
+      "Evaluar la motivación para dejar de fumar",
+      "Medir el nivel de dependencia física a la nicotina",
+      "Identificar el número promedio de cigarrillos consumidos al día",
+      "Determinar el impacto social del consumo de tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström se utiliza para medir el nivel de dependencia física a la nicotina, proporcionando información clave para el tratamiento."
+  },
+  {
+    "enunciado": "¿Qué mide el Test de Richmond en fumadores?",
+    "opciones": [
+      "El nivel de dependencia física al tabaco",
+      "La motivación para dejar de fumar",
+      "La percepción de riesgo del tabaquismo",
+      "Los efectos del tabaco en la salud psicológica"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El Test de Richmond evalúa la motivación de los fumadores para dejar el hábito, siendo una herramienta clave en el proceso de cesación."
+  },
+  {
+    "enunciado": "¿Qué puntuación del Test de Fagerström indica una alta dependencia a la nicotina?",
+    "opciones": [
+      "1-2 puntos",
+      "3-4 puntos",
+      "5-6 puntos",
+      "7 o más puntos"
+    ],
+    "correcta": 3,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "Una puntuación de 7 o más en el Test de Fagerström indica una alta dependencia a la nicotina, requiriendo un abordaje intensivo en el tratamiento."
+  },
+  {
+    "enunciado": "¿Qué instrumento es útil para identificar riesgos en consumidores de alcohol pero no de tabaco?",
+    "opciones": [
+      "Test AUDIT",
+      "Test de Fagerström",
+      "Test de Richmond",
+      "Test CAGE"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Test AUDIT está diseñado específicamente para identificar riesgos y patrones de consumo problemático en consumidores de alcohol."
+  },
+  {
+    "enunciado": "¿Qué diferencia clave tiene el Test CAGE en comparación con el Test de Richmond?",
+    "opciones": [
+      "El Test CAGE evalúa motivación, mientras que el Richmond mide dependencia física",
+      "El Test CAGE está diseñado para el consumo de alcohol, mientras que el Richmond mide la motivación para dejar de fumar",
+      "El Richmond incluye aspectos psicológicos y el CAGE se centra en la cantidad de consumo",
+      "El Test de CAGE evalúa recaídas, mientras que el Richmond evalúa intención de cambio"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test CAGE está orientado al diagnóstico del consumo problemático de alcohol, mientras que el Test de Richmond mide la motivación para cesar el tabaquismo."
+  },
+  {
+    "enunciado": "¿Qué herramienta es más adecuada para evaluar el grado de dependencia al tabaco?",
+    "opciones": [
+      "Test CAGE",
+      "Test AUDIT",
+      "Test de Fagerström",
+      "Modelo de Prochaska y DiClemente"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström es el estándar para medir el grado de dependencia física a la nicotina."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes tests se aplica comúnmente en el contexto de motivación para el cambio de conducta en tabaquismo?",
+    "opciones": [
+      "Test AUDIT",
+      "Test de Richmond",
+      "Test MALT",
+      "Cuestionario de dependencia nicotínica"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El Test de Richmond evalúa la motivación para abandonar el tabaquismo, proporcionando una orientación para intervenciones personalizadas."
+  },
+  {
+    "enunciado": "¿Qué mide el Cuestionario de Dependencia Nicotínica además de la cantidad de consumo?",
+    "opciones": [
+      "El impacto del consumo en el entorno social",
+      "El tiempo hasta el primer cigarrillo tras despertarse",
+      "La intención de dejar de fumar",
+      "La percepción de riesgos asociados al tabaquismo"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Cuestionario de Dependencia Nicotínica evalúa, entre otros aspectos, el tiempo hasta el primer cigarrillo tras despertarse, un indicador clave de dependencia."
+  },
+  {
+    "enunciado": "¿Qué test evalúa específicamente los síntomas de dependencia al tabaco relacionados con el tiempo hasta el primer cigarrillo?",
+    "opciones": [
+      "Test AUDIT",
+      "Test de Fagerström",
+      "Test de Richmond",
+      "Test CAGE"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström incluye preguntas sobre el tiempo hasta el primer cigarrillo como un indicador clave de la dependencia al tabaco."
+  },
+  {
+    "enunciado": "¿Qué pregunta en el Test de Richmond indica una motivación alta para dejar de fumar?",
+    "opciones": [
+      "¿Cuántos cigarrillos fuma diariamente?",
+      "¿Ha intentado dejar de fumar en el último año?",
+      "¿Tiene intención de dejar de fumar en el próximo mes?",
+      "¿Siente placer al fumar?"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "En el Test de Richmond, la intención de dejar de fumar en el próximo mes es un indicador de alta motivación para abandonar el hábito."
+  },
+  {
+    "enunciado": "¿Qué aspecto evalúa principalmente el Test AUDIT?",
+    "opciones": [
+      "Dependencia al alcohol",
+      "Patrones de consumo problemático de alcohol",
+      "Efectos psicológicos del alcohol",
+      "Impacto del alcohol en las relaciones sociales"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "El Test AUDIT evalúa patrones de consumo problemático de alcohol, ayudando a identificar casos de riesgo."
+  },
+  {
+    "enunciado": "¿Cuál es una diferencia entre el Test de Fagerström y el Cuestionario de Dependencia Nicotínica?",
+    "opciones": [
+      "El Test de Fagerström mide la motivación, mientras que el Cuestionario evalúa dependencia física",
+      "El Test de Fagerström incluye preguntas sobre el tiempo hasta el primer cigarrillo, mientras que el Cuestionario no",
+      "El Cuestionario evalúa el impacto social del tabaquismo, mientras que el Test de Fagerström no",
+      "El Test de Fagerström mide síntomas de abstinencia, mientras que el Cuestionario evalúa intención de cambio"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström incluye preguntas específicas como el tiempo hasta el primer cigarrillo, clave para evaluar la dependencia física."
+  },
+  {
+    "enunciado": "¿Qué puntuación mínima en el Test AUDIT puede sugerir un posible consumo problemático de alcohol?",
+    "opciones": [
+      "6 puntos en hombres y 4 en mujeres",
+      "8 puntos",
+      "10 puntos",
+      "12 puntos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "alcohol",
+      "diagnóstico"
+    ],
+    "feedback": "Una puntuación de 8 o más en el Test AUDIT sugiere un posible consumo problemático de alcohol, lo que puede requerir intervención."
+  },
+  {
+    "enunciado": "¿Qué test incluye preguntas sobre el placer percibido al fumar y la fuerza de la adicción psicológica?",
+    "opciones": [
+      "Test de Richmond",
+      "Test de Fagerström",
+      "Cuestionario CAGE",
+      "Test AUDIT"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El Test de Richmond incluye aspectos relacionados con el placer de fumar y la adicción psicológica, evaluando la motivación para dejarlo."
+  },
+  {
+    "enunciado": "¿Qué herramienta se usa para evaluar recaídas en pacientes que han dejado de fumar?",
+    "opciones": [
+      "Test de Fagerström",
+      "Modelo de Prochaska y DiClemente",
+      "Test de Richmond",
+      "Test AUDIT"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "El modelo de Prochaska y DiClemente analiza las recaídas como parte del proceso de cambio, ayudando a ajustar las intervenciones."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes tests es más apropiado para medir la dependencia física al tabaco en adolescentes?",
+    "opciones": [
+      "Test de Fagerström",
+      "Test AUDIT",
+      "Cuestionario CAGE",
+      "Escala de motivación juvenil"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström puede aplicarse en adolescentes, adaptando las preguntas a su contexto, para medir la dependencia física a la nicotina."
+  },
+  {
+    "enunciado": "¿Qué herramienta es clave para evaluar la disposición al cambio en fumadores según el modelo de Prochaska y DiClemente?",
+    "opciones": [
+      "Test de Richmond",
+      "Entrevista motivacional",
+      "Cuestionario CAGE",
+      "Test de Fagerström"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "motivación"
+    ],
+    "feedback": "La entrevista motivacional es clave para determinar la disposición al cambio y la etapa en que se encuentra un fumador según el modelo de Prochaska y DiClemente."
+  },
+  {
+    "enunciado": "¿Qué test combina preguntas sobre consumo y dependencia con posibles síntomas de abstinencia?",
+    "opciones": [
+      "Test de Fagerström",
+      "Test de Richmond",
+      "Cuestionario CAGE",
+      "Test AUDIT"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "diagnóstico"
+    ],
+    "feedback": "El Test de Fagerström incluye preguntas que evalúan tanto la dependencia como la posibilidad de síntomas de abstinencia."
+  },
+  {
+    "enunciado": "¿Cuál es el nombre del plan diseñado para abordar el tabaquismo en Andalucía?",
+    "opciones": [
+      "Plan Andaluz de Salud",
+      "Plan Integral de Tabaquismo de Andalucía",
+      "Estrategia MPOWER",
+      "Plan Nacional Antitabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo de Andalucía es la iniciativa clave para combatir el tabaquismo en esta comunidad autónoma."
+  },
+  {
+    "enunciado": "¿Qué aspecto se considera prioritario en el Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Promover el consumo responsable de tabaco",
+      "Prevenir el inicio del tabaquismo en jóvenes",
+      "Incentivar la producción de cigarrillos electrónicos",
+      "Reducir los impuestos al tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo pone énfasis en prevenir el inicio del tabaquismo, especialmente entre la población joven."
+  },
+  {
+    "enunciado": "¿Qué colectivo es señalado como prioritario en las estrategias del Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Personas mayores de 65 años",
+      "Mujeres embarazadas y en edad fértil",
+      "Personas con estudios universitarios",
+      "Trabajadores del sector industrial"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "poblaciones vulnerables"
+    ],
+    "feedback": "El Plan considera prioritario abordar el tabaquismo en mujeres embarazadas y en edad fértil debido a los riesgos para la salud materno-infantil."
+  },
+  {
+    "enunciado": "¿Qué medida incluye el Plan Integral de Tabaquismo de Andalucía para reducir la exposición al humo del tabaco?",
+    "opciones": [
+      "Prohibir el consumo en espacios cerrados y públicos",
+      "Distribuir dispositivos para fumar de forma segura",
+      "Fomentar campañas protabaco reguladas",
+      "Crear zonas exclusivas para fumadores en hospitales"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "Una de las medidas principales es la prohibición del consumo en espacios cerrados y públicos, promoviendo ambientes libres de humo."
+  },
+  {
+    "enunciado": "Según el Plan Integral de Tabaquismo de Andalucía, ¿qué herramienta educativa se recomienda para fomentar el abandono del tabaco?",
+    "opciones": [
+      "Terapias grupales",
+      "Entrevista motivacional",
+      "Clases teóricas sobre riesgos del tabaco",
+      "Documentales sobre tabaquismo"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "educación"
+    ],
+    "feedback": "La entrevista motivacional es recomendada como una herramienta eficaz para ayudar a las personas a reflexionar y decidir abandonar el tabaco."
+  },
+  {
+    "enunciado": "¿Qué programa dentro del Plan Integral de Tabaquismo se centra en la cesación tabáquica en el ámbito laboral?",
+    "opciones": [
+      "Espacios sin Humo en el Trabajo",
+      "Tabaco Cero en Empresas",
+      "Red Andaluza de Servicios Sanitarios y Espacios Libres de Humo",
+      "Prevención Activa en Centros de Trabajo"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "La Red Andaluza de Servicios Sanitarios y Espacios Libres de Humo incluye acciones enfocadas en la promoción de entornos laborales libres de humo."
+  },
+  {
+    "enunciado": "¿Qué novedad incluye el Plan Integral de Tabaquismo en relación con el uso de cigarrillos electrónicos?",
+    "opciones": [
+      "Permitir su uso en espacios cerrados",
+      "Considerarlos una alternativa segura al tabaco",
+      "Evaluarlos como una amenaza para la regulación libre de humo",
+      "Promover su comercialización como método de cesación"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "tecnologías"
+    ],
+    "feedback": "El Plan considera los cigarrillos electrónicos una amenaza para las regulaciones sobre espacios libres de humo debido a su impacto en el consumo."
+  },
+  {
+    "enunciado": "¿Qué estrategia del Plan Integral busca reducir la accesibilidad al tabaco entre menores?",
+    "opciones": [
+      "Aumentar los precios mediante impuestos",
+      "Proveer tabaco regulado para menores de edad",
+      "Eliminar las restricciones de venta en comercios",
+      "Distribuir tabaco sin nicotina en colegios"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "Incrementar los precios a través de impuestos es una medida clave para reducir la accesibilidad del tabaco, especialmente entre los jóvenes."
+  },
+  {
+    "enunciado": "Según el Plan Integral de Tabaquismo, ¿qué papel tienen los profesionales de atención primaria en la cesación tabáquica?",
+    "opciones": [
+      "Actuar como principales responsables del tratamiento",
+      "Derivar todos los casos a especialistas en tabaquismo",
+      "Limitarse a prescribir medicamentos",
+      "Evitar intervenir directamente en los intentos de cesación"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud pública"
+    ],
+    "feedback": "Los profesionales de atención primaria son clave en el tratamiento del tabaquismo, al ser el primer nivel de contacto con los fumadores."
+  },
+  {
+    "enunciado": "¿Qué indicador clave se utiliza para medir el éxito del Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Número de cigarrillos vendidos al año",
+      "Reducción de la prevalencia de fumadores",
+      "Cantidad de impuestos recaudados por tabaco",
+      "Incremento en las ventas de cigarrillos electrónicos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "evaluación"
+    ],
+    "feedback": "El éxito del Plan se mide, entre otros indicadores, por la reducción en la prevalencia de fumadores en la población andaluza."
+  },
+  {
+    "enunciado": "¿Qué objetivo general tiene el Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Eliminar por completo el consumo de tabaco en Andalucía",
+      "Reducir la prevalencia del tabaquismo y los productos relacionados",
+      "Promover el consumo responsable de productos de tabaco",
+      "Aumentar la recaudación fiscal proveniente del tabaco"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo busca reducir la prevalencia del tabaquismo y el uso de productos relacionados mediante políticas de prevención y cesación."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes líneas estratégicas pertenece al Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "Incentivar la exportación de productos del tabaco",
+      "Espacios libres de humo",
+      "Creación de campañas para el consumo regulado",
+      "Promoción del tabaco en eventos culturales"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "La promoción de espacios libres de humo es una de las principales líneas estratégicas del Plan Integral de Tabaquismo de Andalucía."
+  },
+  {
+    "enunciado": "¿Qué impacto busca prevenir el Plan Integral de Tabaquismo en el ámbito infantil?",
+    "opciones": [
+      "Aumento de la tolerancia al tabaco",
+      "Reducción del desarrollo neurocognitivo",
+      "Incremento de la obesidad infantil",
+      "Mayor acceso a productos sin nicotina"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "poblaciones vulnerables"
+    ],
+    "feedback": "El Plan previene impactos como la reducción del desarrollo neurocognitivo en menores debido a la exposición al humo del tabaco."
+  },
+  {
+    "enunciado": "¿Qué entidad lidera la implementación del Plan Integral de Tabaquismo en Andalucía?",
+    "opciones": [
+      "Organización Mundial de la Salud",
+      "Consejería de Salud y Consumo de Andalucía",
+      "Ministerio de Sanidad",
+      "Federación Española de Tabaquismo"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "La Consejería de Salud y Consumo de Andalucía lidera la implementación del Plan Integral de Tabaquismo en la comunidad autónoma."
+  },
+  {
+    "enunciado": "¿Qué medida incluye el Plan Integral de Tabaquismo para personas que buscan dejar de fumar?",
+    "opciones": [
+      "Acceso gratuito a terapias psicológicas y farmacológicas",
+      "Subsidios para la compra de cigarrillos electrónicos",
+      "Restricción en la venta de tabaco a adultos jóvenes",
+      "Promoción de métodos alternativos de consumo de tabaco"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cesación"
+    ],
+    "feedback": "El Plan incluye el acceso gratuito a terapias psicológicas y farmacológicas como medida para apoyar a las personas que desean dejar de fumar."
+  },
+  {
+    "enunciado": "¿Qué impacto busca minimizar el Plan Integral en las mujeres embarazadas fumadoras?",
+    "opciones": [
+      "Mayor riesgo de cáncer de pulmón",
+      "Complicaciones en el parto y bajo peso al nacer",
+      "Dependencia psicológica al tabaco",
+      "Incremento de la presión arterial en el embarazo"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud materna"
+    ],
+    "feedback": "El Plan busca minimizar riesgos como las complicaciones en el parto y el bajo peso al nacer en hijos de mujeres embarazadas fumadoras."
+  },
+  {
+    "enunciado": "¿Qué colectivo se ha identificado como prioritario para intervenciones específicas en el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "Hombres mayores de 50 años",
+      "Personas con bajo nivel socioeconómico",
+      "Estudiantes universitarios",
+      "Trabajadores del sector industrial"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "poblaciones vulnerables"
+    ],
+    "feedback": "El Plan identifica a las personas con bajo nivel socioeconómico como un colectivo prioritario debido a la alta prevalencia de tabaquismo en este grupo."
+  },
+  {
+    "enunciado": "¿Qué método utiliza el Plan Integral para monitorizar el consumo de tabaco en Andalucía?",
+    "opciones": [
+      "Encuestas poblacionales periódicas",
+      "Datos de ventas de tabaco",
+      "Monitoreo de redes sociales",
+      "Estudios clínicos en fumadores"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "evaluación"
+    ],
+    "feedback": "El Plan utiliza encuestas poblacionales periódicas para monitorizar el consumo de tabaco y evaluar el impacto de las intervenciones."
+  },
+  {
+    "enunciado": "¿Qué aspecto específico aborda el Plan Integral en relación con los cigarrillos electrónicos?",
+    "opciones": [
+      "Promoción de su uso como método de reducción de daños",
+      "Prohibición total de su venta y uso",
+      "Regulación y control como dispositivos que contienen nicotina",
+      "Campañas para educar sobre su seguridad frente al tabaco convencional"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "tecnologías"
+    ],
+    "feedback": "El Plan regula y controla los cigarrillos electrónicos como dispositivos que contienen nicotina, considerando su potencial impacto en la salud."
+  },
+  {
+    "enunciado": "¿Qué indicador se utiliza para evaluar el éxito de las políticas de espacios libres de humo en Andalucía?",
+    "opciones": [
+      "Aumento de la recaudación fiscal por multas",
+      "Reducción de la exposición al humo de tabaco en lugares públicos",
+      "Incremento en las ventas de tabaco",
+      "Creación de espacios exclusivos para fumadores"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "El éxito de las políticas de espacios libres de humo se mide por la reducción de la exposición al humo de tabaco en lugares públicos."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes medicamentos se utiliza como tratamiento farmacológico para la cesación tabáquica?",
+    "opciones": [
+      "Bupropión",
+      "Ibuprofeno",
+      "Omeprazol",
+      "Paracetamol"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "El Bupropión es un medicamento aprobado para ayudar en la cesación tabáquica al reducir los síntomas de abstinencia y el deseo de fumar."
+  },
+  {
+    "enunciado": "¿Qué tipo de apoyo psicológico es más utilizado para ayudar a dejar de fumar?",
+    "opciones": [
+      "Psicoanálisis",
+      "Terapia cognitivo-conductual (TCC)",
+      "Hipnosis clínica",
+      "Terapia Gestalt"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La terapia cognitivo-conductual (TCC) es la más utilizada en la cesación tabáquica, ya que ayuda a cambiar los patrones de pensamiento y comportamiento relacionados con el tabaquismo."
+  },
+  {
+    "enunciado": "¿Qué terapia farmacológica reemplaza la nicotina del tabaco para reducir los síntomas de abstinencia?",
+    "opciones": [
+      "Vareniclina",
+      "Terapia sustitutiva con nicotina",
+      "Bupropión",
+      "Antidepresivos tricíclicos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La terapia sustitutiva con nicotina incluye parches, chicles o pastillas que liberan nicotina controlada para reducir los síntomas de abstinencia."
+  },
+  {
+    "enunciado": "¿Qué efecto tiene la vareniclina en el tratamiento del tabaquismo?",
+    "opciones": [
+      "Aumenta la dependencia a la nicotina",
+      "Bloquea los receptores de nicotina y reduce el placer al fumar",
+      "Incrementa el deseo de fumar inicialmente",
+      "Reduce los efectos secundarios de los cigarrillos electrónicos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La vareniclina actúa bloqueando los receptores de nicotina en el cerebro, reduciendo el placer asociado al fumar y ayudando a prevenir recaídas."
+  },
+  {
+    "enunciado": "¿Qué técnica psicológica ayuda a los fumadores a identificar y evitar situaciones de riesgo para recaídas?",
+    "opciones": [
+      "Terapia de exposición",
+      "Entrenamiento en resolución de problemas",
+      "Terapia narrativa",
+      "Relajación progresiva"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "El entrenamiento en resolución de problemas es una técnica utilizada para ayudar a los fumadores a manejar situaciones que pueden llevar a una recaída."
+  },
+  {
+    "enunciado": "¿Qué riesgo presentan los cigarrillos electrónicos según los estudios recientes?",
+    "opciones": [
+      "No tienen ningún impacto en la salud",
+      "Pueden causar adicción a la nicotina en no fumadores",
+      "Son completamente seguros para su uso prolongado",
+      "Reducen significativamente el riesgo de enfermedades pulmonares"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "Los cigarrillos electrónicos pueden causar adicción a la nicotina, especialmente en jóvenes y personas que no fumaban previamente."
+  },
+  {
+    "enunciado": "¿Qué se recomienda en el Plan Integral de Tabaquismo para las personas que usan cigarrillos electrónicos?",
+    "opciones": [
+      "Considerarlos un método efectivo para dejar de fumar",
+      "Evitar su uso debido a los riesgos desconocidos",
+      "Sustituir completamente el tabaco convencional por ellos",
+      "Usarlos únicamente en combinación con parches de nicotina"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo recomienda evitar el uso de cigarrillos electrónicos debido a la falta de evidencia clara sobre su seguridad y eficacia."
+  },
+  {
+    "enunciado": "¿Qué efecto adverso común se ha reportado con el uso de vareniclina?",
+    "opciones": [
+      "Sueños anormales o vívidos",
+      "Hipertensión severa",
+      "Pérdida de peso extrema",
+      "Incremento del deseo de fumar"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "Uno de los efectos adversos comunes de la vareniclina son los sueños anormales o vívidos, aunque generalmente son bien tolerados."
+  },
+  {
+    "enunciado": "¿Qué herramienta psicológica es efectiva para reforzar la motivación en el proceso de cesación tabáquica?",
+    "opciones": [
+      "Entrevista motivacional",
+      "Terapia de exposición gradual",
+      "Psicodrama",
+      "Terapia sistémica"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La entrevista motivacional es una técnica ampliamente utilizada para reforzar la motivación del paciente y ayudarle a tomar decisiones positivas sobre su salud."
+  },
+  {
+    "enunciado": "¿Cuál es el principal componente adictivo en los cigarrillos electrónicos?",
+    "opciones": [
+      "Monóxido de carbono",
+      "Nicotina",
+      "Propilenglicol",
+      "Alquitrán"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "La nicotina es el principal componente adictivo presente en los cigarrillos electrónicos, similar al tabaco convencional."
+  },
+  {
+    "enunciado": "¿Qué tratamiento farmacológico para dejar de fumar está contraindicado en personas con antecedentes de convulsiones?",
+    "opciones": [
+      "Terapia sustitutiva con nicotina",
+      "Bupropión",
+      "Vareniclina",
+      "Parche transdérmico de nicotina"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "El Bupropión está contraindicado en personas con antecedentes de convulsiones, ya que puede aumentar el riesgo de sufrirlas."
+  },
+  {
+    "enunciado": "¿Qué método psicológico se utiliza para ayudar a identificar las asociaciones entre situaciones y el deseo de fumar?",
+    "opciones": [
+      "Terapia cognitivo-conductual",
+      "Entrevista motivacional",
+      "Psicoterapia dinámica",
+      "Mindfulness"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La terapia cognitivo-conductual ayuda a identificar y modificar las asociaciones entre situaciones y el deseo de fumar, fomentando habilidades para manejar estos desencadenantes."
+  },
+  {
+    "enunciado": "¿Qué componente adicional a la nicotina se encuentra comúnmente en los cigarrillos electrónicos y puede irritar el sistema respiratorio?",
+    "opciones": [
+      "Monóxido de carbono",
+      "Propilenglicol",
+      "Alquitrán",
+      "Nitratos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "El propilenglicol es un componente común en los cigarrillos electrónicos que puede irritar el sistema respiratorio, especialmente en personas sensibles."
+  },
+  {
+    "enunciado": "¿Cuál es la principal ventaja de la terapia sustitutiva con nicotina frente al consumo de tabaco?",
+    "opciones": [
+      "Elimina completamente la adicción a la nicotina",
+      "Proporciona nicotina sin otros componentes tóxicos del tabaco",
+      "Es más económica que el tabaco convencional",
+      "Puede usarse indefinidamente sin riesgos"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La terapia sustitutiva con nicotina proporciona nicotina al cuerpo sin los tóxicos presentes en el humo del tabaco, como el monóxido de carbono y el alquitrán."
+  },
+  {
+    "enunciado": "¿Qué efecto tiene la entrevista motivacional en el proceso de cesación tabáquica?",
+    "opciones": [
+      "Incrementa la dependencia a la nicotina",
+      "Ayuda a resolver ambivalencias sobre dejar de fumar",
+      "Sustituye la necesidad de medicamentos para dejar de fumar",
+      "Evita completamente las recaídas"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La entrevista motivacional es una técnica efectiva para resolver ambivalencias y aumentar el compromiso del paciente con el proceso de dejar de fumar."
+  },
+  {
+    "enunciado": "¿Qué riesgo potencial presentan los líquidos de los cigarrillos electrónicos si son ingeridos accidentalmente?",
+    "opciones": [
+      "Son inofensivos si se consumen en pequeñas cantidades",
+      "Pueden causar intoxicación por nicotina",
+      "No contienen sustancias tóxicas",
+      "Actúan como inhibidores de la adicción"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "Los líquidos de los cigarrillos electrónicos pueden causar intoxicación por nicotina si se ingieren accidentalmente, especialmente en niños."
+  },
+  {
+    "enunciado": "¿Qué factor psicológico es importante abordar en las sesiones de apoyo para dejar de fumar?",
+    "opciones": [
+      "La baja autoestima asociada al tabaquismo",
+      "El deseo de consumir alimentos dulces",
+      "La presión social para fumar cigarrillos electrónicos",
+      "El aburrimiento como desencadenante del consumo"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La baja autoestima puede estar asociada al tabaquismo y debe ser abordada en sesiones de apoyo para reforzar la confianza del paciente en dejar de fumar."
+  },
+  {
+    "enunciado": "¿Cuál es un efecto colateral comúnmente reportado al usar parches de nicotina?",
+    "opciones": [
+      "Dolor abdominal severo",
+      "Irritación en la piel",
+      "Pérdida del apetito",
+      "Incremento significativo del peso"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La irritación en la piel es un efecto colateral común al usar parches de nicotina, aunque suele ser leve y controlable."
+  },
+  {
+    "enunciado": "¿Qué técnica se utiliza en terapia cognitivo-conductual para reducir el deseo de fumar en situaciones habituales?",
+    "opciones": [
+      "Reestructuración cognitiva",
+      "Exposición gradual a desencadenantes",
+      "Terapia de aceptación y compromiso",
+      "Desensibilización sistemática"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La exposición gradual a desencadenantes ayuda a reducir el deseo de fumar al permitir que el paciente desarrolle estrategias para manejar esas situaciones."
+  },
+  {
+    "enunciado": "¿Qué enfoque terapéutico combina apoyo psicológico y farmacológico para obtener mejores resultados en la cesación tabáquica?",
+    "opciones": [
+      "Terapia dual integrada",
+      "Modelo biopsicosocial",
+      "Terapia conductual intensiva",
+      "Abordaje individualizado"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "tratamientos integrales"
+    ],
+    "feedback": "La terapia dual integrada combina apoyo psicológico con farmacología para mejorar significativamente las tasas de éxito en dejar de fumar."
+  },
+  {
+    "enunciado": "¿Qué tipo de terapia farmacológica está recomendada para fumadores con alta dependencia a la nicotina?",
+    "opciones": [
+      "Parches y chicles de nicotina combinados",
+      "Terapia con ansiolíticos",
+      "Antidepresivos tricíclicos",
+      "Suplementos vitamínicos"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La combinación de parches y chicles de nicotina está recomendada para pacientes con alta dependencia, proporcionando un control eficaz de los síntomas de abstinencia."
+  },
+  {
+    "enunciado": "¿Qué elemento psicológico puede dificultar la cesación tabáquica y debe ser tratado en la terapia?",
+    "opciones": [
+      "La negación del impacto social del tabaquismo",
+      "La asociación emocional entre fumar y momentos de estrés",
+      "El consumo de café sin moderación",
+      "El aislamiento social durante el proceso"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La asociación emocional entre fumar y el manejo del estrés es un obstáculo común que debe abordarse en las sesiones de apoyo psicológico."
+  },
+  {
+    "enunciado": "¿Qué terapia farmacológica puede causar náuseas como efecto secundario común?",
+    "opciones": [
+      "Vareniclina",
+      "Bupropión",
+      "Parches de nicotina",
+      "Gomas de nicotina"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "La vareniclina puede causar náuseas como efecto secundario en algunos pacientes, aunque suelen ser leves y transitorias."
+  },
+  {
+    "enunciado": "¿Qué recomendación se da para evitar recaídas durante el tratamiento de cesación tabáquica?",
+    "opciones": [
+      "Evitar situaciones sociales",
+      "Identificar y manejar desencadenantes",
+      "Reducir gradualmente el consumo sin apoyo adicional",
+      "Fumar cigarrillos electrónicos en lugar de tabaco convencional"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención de recaídas"
+    ],
+    "feedback": "Identificar y manejar los desencadenantes es fundamental para evitar recaídas y reforzar el éxito del tratamiento."
+  },
+  {
+    "enunciado": "¿Cuál es una contraindicación para el uso de terapia sustitutiva con nicotina?",
+    "opciones": [
+      "Mujeres embarazadas",
+      "Personas con alergia a los adhesivos",
+      "Pacientes con hipertensión controlada",
+      "Jóvenes menores de 18 años"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "Las personas con alergia a los adhesivos pueden tener reacciones adversas al usar parches de nicotina, siendo necesario buscar alternativas."
+  },
+  {
+    "enunciado": "¿Qué diferencia clave tiene la terapia cognitivo-conductual frente a otros enfoques psicológicos para dejar de fumar?",
+    "opciones": [
+      "Se centra en el presente y en resolver problemas específicos",
+      "Analiza exclusivamente el impacto emocional del tabaquismo",
+      "Incluye únicamente técnicas de relajación",
+      "Requiere sesiones grupales obligatorias"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La terapia cognitivo-conductual se centra en el presente y aborda problemas específicos, como los desencadenantes del deseo de fumar."
+  },
+  {
+    "enunciado": "¿Qué efecto puede tener el uso prolongado de cigarrillos electrónicos en no fumadores según los estudios actuales?",
+    "opciones": [
+      "Incremento de la inmunidad respiratoria",
+      "Riesgo de desarrollar dependencia a la nicotina",
+      "Mejora de la capacidad pulmonar",
+      "Reducción del riesgo de enfermedades cardíacas"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "El uso prolongado de cigarrillos electrónicos puede llevar al desarrollo de dependencia a la nicotina, incluso en personas que no eran fumadoras."
+  },
+  {
+    "enunciado": "¿Qué estrategia farmacológica se recomienda en pacientes que no toleran la vareniclina ni el bupropión?",
+    "opciones": [
+      "Terapia combinada de parches y gomas de nicotina",
+      "Incrementar el consumo de cigarrillos electrónicos",
+      "Uso de antidepresivos tricíclicos",
+      "Administración de medicamentos ansiolíticos"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "terapia farmacológica"
+    ],
+    "feedback": "En pacientes que no toleran vareniclina ni bupropión, la combinación de parches y gomas de nicotina es una alternativa efectiva y bien tolerada."
+  },
+  {
+    "enunciado": "¿Qué tipo de intervención psicológica incluye entrenar al paciente para anticipar situaciones de riesgo de recaída?",
+    "opciones": [
+      "Mindfulness",
+      "Terapia cognitivo-conductual",
+      "Hipnosis clínica",
+      "Psicoterapia dinámica"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "apoyo psicológico"
+    ],
+    "feedback": "La terapia cognitivo-conductual entrena al paciente para identificar y anticipar situaciones de riesgo de recaída, desarrollando estrategias para manejarlas."
+  },
+  {
+    "enunciado": "¿Qué medida recomienda el Plan Integral de Tabaquismo para abordar el uso de cigarrillos electrónicos en jóvenes?",
+    "opciones": [
+      "Prohibir su uso en espacios públicos",
+      "Incrementar las campañas de prevención específicas",
+      "Permitir su uso regulado como alternativa al tabaco",
+      "Distribuir dispositivos seguros para los menores de edad"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "cigarrillos electrónicos"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo enfatiza la importancia de campañas de prevención específicas para reducir el uso de cigarrillos electrónicos entre los jóvenes."
+  },
+  {
+    "enunciado": "¿De qué año es la versión actual del Plan Integral de Tabaquismo de Andalucía?",
+    "opciones": [
+      "2015",
+      "2021",
+      "2019",
+      "2023"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo de Andalucía en su versión actual fue renovado en 2021 para abordar nuevas realidades sociales y tecnológicas."
+  },
+  {
+    "enunciado": "¿Cuántos años abarca el Plan Integral de Tabaquismo de Andalucía vigente?",
+    "opciones": [
+      "3 años",
+      "4 años",
+      "5 años",
+      "10 años"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo de Andalucía vigente tiene una duración de 5 años, abarcando el período 2021-2025."
+  },
+  {
+    "enunciado": "¿Qué novedad destaca en el Plan Integral de Tabaquismo de Andalucía 2021-2025 respecto a versiones anteriores?",
+    "opciones": [
+      "La inclusión de políticas sobre cigarrillos electrónicos",
+      "La reducción del número de objetivos estratégicos",
+      "La eliminación de la prevención como prioridad",
+      "La ampliación de campañas dirigidas a mayores de 65 años"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo 2021-2025 incluye novedades como la regulación de cigarrillos electrónicos y otros productos emergentes."
+  },
+  {
+    "enunciado": "¿Qué estrategia central se refuerza en el Plan Integral de Tabaquismo de Andalucía 2021-2025?",
+    "opciones": [
+      "Fomentar espacios libres de humo",
+      "Reducir el costo del tabaco",
+      "Aumentar la disponibilidad de cigarrillos electrónicos",
+      "Distribuir productos de tabaco sin combustión"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "El Plan refuerza la creación de espacios libres de humo como una estrategia clave para reducir la exposición al tabaquismo pasivo."
+  },
+  {
+    "enunciado": "¿Qué línea estratégica del Plan Integral de Tabaquismo vigente aborda el tabaquismo en jóvenes?",
+    "opciones": [
+      "Espacios libres de humo",
+      "Prevención del tabaquismo y promoción de la salud",
+      "Regulación de la publicidad del tabaco",
+      "Tratamiento farmacológico en adolescentes"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "La línea de prevención del tabaquismo y promoción de la salud se centra en evitar que los jóvenes inicien el consumo de tabaco."
+  },
+  {
+    "enunciado": "¿Qué organismos colaboran en la implementación del Plan Integral de Tabaquismo de Andalucía 2021-2025?",
+    "opciones": [
+      "Asociaciones de tabaquismo pasivo",
+      "Ministerio de Salud y Organismos de Consumo",
+      "Consejería de Salud y Consumo junto con la Escuela Andaluza de Salud Pública",
+      "Federaciones de consumidores de tabaco"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "políticas"
+    ],
+    "feedback": "La Consejería de Salud y Consumo y la Escuela Andaluza de Salud Pública son clave en la implementación del Plan Integral de Tabaquismo 2021-2025."
+  },
+  {
+    "enunciado": "¿Qué cambios sociodemográficos se mencionan como motivo de la actualización del Plan Integral de Tabaquismo de Andalucía en 2021?",
+    "opciones": [
+      "Incremento en el uso de cigarrillos electrónicos y cachimbas",
+      "Reducción drástica de la prevalencia de fumadores",
+      "Desaparición del tabaquismo pasivo",
+      "Consumo equilibrado entre hombres y mujeres"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "contexto social"
+    ],
+    "feedback": "El Plan 2021-2025 actualizó sus objetivos para abordar el incremento en el uso de cigarrillos electrónicos y cachimbas, especialmente en jóvenes."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de muertes en Andalucía está relacionado con el tabaquismo, según datos del Plan 2021-2025?",
+    "opciones": [
+      "15%",
+      "21%",
+      "30%",
+      "25%"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "impacto"
+    ],
+    "feedback": "El Plan Integral de Tabaquismo indica que el tabaquismo es responsable del 21% de las muertes en Andalucía, consolidándose como un grave problema de salud pública."
+  },
+  {
+    "enunciado": "¿Qué impacto social se destaca en el análisis del Plan Integral de Tabaquismo de Andalucía 2021-2025?",
+    "opciones": [
+      "Desigualdad en el acceso a tratamientos de cesación",
+      "Incremento del tabaquismo en jóvenes de clase alta",
+      "Mayor prevalencia de fumadores en áreas rurales",
+      "Reducción total del tabaquismo entre mujeres"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "desigualdad"
+    ],
+    "feedback": "El Plan destaca que la desigualdad social afecta el acceso a tratamientos de cesación, siendo una prioridad intervenir en colectivos vulnerables."
+  },
+  {
+    "enunciado": "¿Qué línea estratégica del Plan Integral de Tabaquismo incluye el seguimiento y evaluación de los resultados obtenidos?",
+    "opciones": [
+      "Control del comercio ilícito de tabaco",
+      "Monitorización y evaluación de estrategias",
+      "Prevención del tabaquismo en menores",
+      "Campañas educativas en colegios"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "evaluación"
+    ],
+    "feedback": "La monitorización y evaluación de estrategias es esencial en el Plan para medir la efectividad de las intervenciones implementadas."
+  },
+  {
+    "enunciado": "¿Cuál es el porcentaje estimado de fumadores diarios en Andalucía según la Encuesta Andaluza de Salud de 2015?",
+    "opciones": [
+      "21,3%",
+      "27,9%",
+      "33,5%",
+      "30,1%"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevalencia"
+    ],
+    "feedback": "La Encuesta Andaluza de Salud de 2015 reportó que el 27,9% de la población andaluza mayor de 16 años consume tabaco a diario, siendo más prevalente en hombres (31,4%) que en mujeres (24,6%)."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de muertes en el mundo atribuye la OMS al tabaquismo?",
+    "opciones": [
+      "10%",
+      "15%",
+      "21%",
+      "25%"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "impacto"
+    ],
+    "feedback": "La OMS señala que el tabaquismo es responsable del 21% de las muertes globalmente, principalmente por cáncer, enfermedades cardiovasculares y pulmonares."
+  },
+  {
+    "enunciado": "¿Cuál es la principal causa de mortalidad evitable en Andalucía según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "Accidentes de tráfico",
+      "Tabaquismo",
+      "Alcoholismo",
+      "Obesidad"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "impacto"
+    ],
+    "feedback": "El tabaquismo es la primera causa identificada de mortalidad y morbilidad evitables en Andalucía, seguido del tabaquismo pasivo."
+  },
+  {
+    "enunciado": "¿Qué efecto tiene el tabaquismo pasivo según los estudios mencionados?",
+    "opciones": [
+      "Es inofensivo",
+      "Causa la mitad de las muertes atribuibles al tabaco",
+      "Es la tercera causa de mortalidad evitable en Andalucía",
+      "Solo afecta a niños"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "impacto"
+    ],
+    "feedback": "El tabaquismo pasivo constituye la tercera causa de mortalidad evitable en Andalucía, afectando a no fumadores expuestos al humo de tabaco."
+  },
+  {
+    "enunciado": "Según la estrategia MPOWER de la OMS, ¿qué significa la 'P'?",
+    "opciones": [
+      "Prevenir el inicio del tabaquismo",
+      "Proteger a la población del humo ambiental de tabaco",
+      "Promover alternativas al tabaco",
+      "Prohibir la venta a menores"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "La 'P' en la estrategia MPOWER de la OMS se refiere a proteger a la población del humo ambiental de tabaco, una acción clave para reducir la exposición pasiva."
+  },
+  {
+    "enunciado": "¿Cuál es la edad promedio de inicio del consumo de tabaco en Andalucía según datos de 2015?",
+    "opciones": [
+      "16,5 años",
+      "17,6 años",
+      "19,5 años",
+      "20 años"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevalencia"
+    ],
+    "feedback": "En 2015, la edad promedio de inicio del consumo de tabaco en Andalucía era de 19,5 años, siendo similar entre hombres y mujeres."
+  },
+  {
+    "enunciado": "¿Qué medida no forma parte de la estrategia MPOWER?",
+    "opciones": [
+      "Monitorizar el consumo de tabaco",
+      "Advertir sobre los peligros del tabaco",
+      "Subvencionar la venta de tabaco",
+      "Hacer cumplir las prohibiciones de publicidad"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "estrategias"
+    ],
+    "feedback": "La estrategia MPOWER incluye medidas como monitorizar, advertir y hacer cumplir normas, pero no contempla subvencionar la venta de tabaco."
+  },
+  {
+    "enunciado": "¿Cuál es la prevalencia de fumadores diarios en las provincias más occidentales de Andalucía?",
+    "opciones": [
+      "Menor al 20%",
+      "Entre el 25% y 27%",
+      "Cercana al 30%",
+      "Superior al 35%"
+    ],
+    "correcta": 2,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevalencia"
+    ],
+    "feedback": "Las provincias más occidentales de Andalucía presentan prevalencias de fumadores diarios cercanas al 30%, según la Encuesta Andaluza de Salud de 2015."
+  },
+  {
+    "enunciado": "¿Qué factor de riesgo asociado al tabaquismo se incrementa significativamente en mujeres fumadoras durante el embarazo?",
+    "opciones": [
+      "Mayor riesgo de cáncer de mama",
+      "Mayor incidencia de parto prematuro y bajo peso al nacer",
+      "Mayor riesgo de osteoporosis",
+      "Menor tasa de lactancia exitosa"
+    ],
+    "correcta": 1,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "salud perinatal"
+    ],
+    "feedback": "El consumo de tabaco en mujeres embarazadas aumenta el riesgo de parto prematuro y bajo peso al nacer, con consecuencias graves para el feto."
+  },
+  {
+    "enunciado": "Según el Plan Integral de Tabaquismo, ¿cuál es la herramienta principal para prevenir el inicio del consumo de tabaco en jóvenes?",
+    "opciones": [
+      "Campañas de concienciación",
+      "Aumentar el precio del tabaco",
+      "Eliminar los puntos de venta",
+      "Prohibir el uso de cigarrillos electrónicos"
+    ],
+    "correcta": 0,
+    "categorías": [
+      "tema41",
+      "tabaco",
+      "prevención"
+    ],
+    "feedback": "Las campañas de concienciación son fundamentales en la prevención del inicio del consumo de tabaco, especialmente en jóvenes."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de la población andaluza manifestó su deseo de dejar de fumar en 2015 según el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "45%",
+      "50%",
+      "56%",
+      "60%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "tabaco", "cesación"],
+    "feedback": "En 2015, el 56% de la población fumadora andaluza expresó su deseo de dejar de fumar, aunque esta cifra representaba una disminución respecto a años anteriores."
+  },
+  {
+    "enunciado": "¿Qué efecto tiene la nicotina en el sistema cardiovascular?",
+    "opciones": [
+      "Disminuye la presión arterial",
+      "Aumenta el riesgo de infarto y angina de pecho",
+      "Reduce la frecuencia cardíaca",
+      "Tiene un efecto neutro en el sistema cardiovascular"
+    ],
+    "correcta": 1,
+    "categorías": ["tema41", "tabaco", "efectos"],
+    "feedback": "La nicotina tiene efectos negativos en el sistema cardiovascular, como aumentar el riesgo de infarto, angina de pecho y otras afecciones."
+  },
+  {
+    "enunciado": "Según la OMS, ¿cuántas muertes anuales se atribuyen al tabaquismo pasivo a nivel mundial?",
+    "opciones": [
+      "0,5 millones",
+      "1,2 millones",
+      "2 millones",
+      "2,5 millones"
+    ],
+    "correcta": 1,
+    "categorías": ["tema41", "tabaco", "impacto"],
+    "feedback": "La OMS estima que el tabaquismo pasivo causa 1,2 millones de muertes al año, afectando principalmente a personas expuestas al humo de tabaco en sus entornos."
+  },
+  {
+    "enunciado": "¿Qué estrategia del Plan Integral de Tabaquismo promueve la creación de espacios libres de humo?",
+    "opciones": [
+      "Educación para la salud",
+      "Estrategia MPOWER",
+      "Prevención del tabaquismo",
+      "Normativa sobre espacios libres de humo"
+    ],
+    "correcta": 3,
+    "categorías": ["tema41", "tabaco", "prevención"],
+    "feedback": "La normativa sobre espacios libres de humo es una estrategia clave del Plan Integral de Tabaquismo para proteger a la población del humo ambiental de tabaco."
+  },
+  {
+    "enunciado": "¿Cuál es la prevalencia estimada de personas jóvenes en España que han probado cigarrillos electrónicos según ESTUDES 2021?",
+    "opciones": [
+      "34,2%",
+      "40,5%",
+      "44,3%",
+      "50%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "tabaco", "jóvenes"],
+    "feedback": "Aproximadamente el 44,3% de la población joven en España ha probado cigarrillos electrónicos, según los datos de ESTUDES 2021."
+  },
+  {
+    "enunciado": "¿Qué se considera un consumo de alcohol de riesgo en hombres, según la definición del Plan Integral de Tabaquismo?",
+    "opciones": [
+      "20 cl de alcohol puro al día",
+      "30 cl de alcohol puro al día",
+      "50 cl de alcohol puro al día",
+      "70 cl de alcohol puro al día"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "alcohol", "riesgo"],
+    "feedback": "Se considera un consumo de riesgo en hombres cuando se ingieren 50 cl o más de alcohol puro al día, asociado a un aumento de enfermedades relacionadas con el alcohol."
+  },
+  {
+    "enunciado": "¿Cuál es uno de los efectos del consumo de tabaco en mujeres durante la edad fértil?",
+    "opciones": [
+      "Aumenta la densidad ósea",
+      "Disminuye el riesgo de parto prematuro",
+      "Incrementa los problemas de fecundidad",
+      "Protege contra infecciones"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "tabaco", "salud perinatal"],
+    "feedback": "El consumo de tabaco en mujeres en edad fértil incrementa los problemas de fecundidad y aumenta el riesgo de complicaciones durante el embarazo."
+  },
+  {
+    "enunciado": "¿Qué impacto tienen los cigarrillos electrónicos en la salud pulmonar según los estudios actuales?",
+    "opciones": [
+      "No tienen ningún impacto significativo",
+      "Mejoran la capacidad pulmonar",
+      "Aumentan la frecuencia respiratoria y disminuyen la inmunidad pulmonar",
+      "Son completamente seguros como alternativa al tabaco"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "tabaco", "cigarrillos electrónicos"],
+    "feedback": "Los cigarrillos electrónicos pueden aumentar la frecuencia respiratoria y disminuir la inmunidad pulmonar, aunque sus efectos a largo plazo siguen siendo objeto de debate."
+  },
+  {
+    "enunciado": "¿Qué porcentaje de mujeres fumadoras embarazadas en España presenta un bajo peso al nacer en sus bebés?",
+    "opciones": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema41", "tabaco", "salud perinatal"],
+    "feedback": "El consumo de tabaco durante el embarazo se asocia a un aumento del 15% en el riesgo de que los recién nacidos tengan bajo peso al nacer."
+  },
+  {
+    "enunciado": "¿Qué herramienta de evaluación de dependencia al tabaco se menciona en el Plan Integral de Tabaquismo?",
+    "opciones": [
+      "AUDIT",
+      "Test de Fageström",
+      "CAGE",
+      "Test de Richmond"
+    ],
+    "correcta": 1,
+    "categorías": ["tema41", "tabaco", "evaluación"],
+    "feedback": "El Test de Fageström es ampliamente utilizado para evaluar la dependencia física al tabaco, permitiendo determinar el nivel de adicción de los fumadores."
+  }
 ]
