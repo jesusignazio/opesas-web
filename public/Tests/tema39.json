@@ -1,0 +1,2778 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la ansiedad es correcta según los modelos de respuesta al estrés?",
+        "opciones": [
+            "La ansiedad es siempre negativa para el individuo.",
+            "Los síntomas físicos de ansiedad se deben únicamente a enfermedades orgánicas.",
+            "La ansiedad puede ser beneficiosa en ciertas situaciones, ayudando a afrontar peligros.",
+            "La ansiedad siempre requiere intervención médica especializada."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La ansiedad es un mecanismo de defensa del organismo que puede ayudar a afrontar situaciones peligrosas, aunque se convierte en un problema cuando interfiere en la vida diaria."
+    },
+    {
+        "enunciado": "En relación al modelo de atención por pasos (PAI-ADS), ¿qué principio fundamental lo caracteriza?",
+        "opciones": [
+            "La intervención más intensiva siempre debe ser la primera opción.",
+            "Se basa en derivar a todos los pacientes a atención especializada.",
+            "Promueve el uso de la intervención menos intrusiva efectiva antes de escalar.",
+            "Fomenta únicamente tratamientos farmacológicos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "modelo_asistencial"
+        ],
+        "feedback": "El modelo de atención por pasos prioriza comenzar con la intervención menos intrusiva que sea efectiva, adaptándose a las necesidades del paciente."
+    },
+    {
+        "enunciado": "Según la clasificación diagnóstica de la CIE-10 incluida en el PAI-ADS, ¿a qué categoría corresponde el trastorno mixto ansioso-depresivo?",
+        "opciones": [
+            "F32",
+            "F34",
+            "F41.2",
+            "F43.2"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "El trastorno mixto ansioso-depresivo se clasifica en la categoría F41.2 según la CIE-10."
+    },
+    {
+        "enunciado": "¿Qué factor se considera un desencadenante común de los trastornos de ansiedad, según la guía 'Comprendiendo la ansiedad'?",
+        "opciones": [
+            "Cambios físicos como enfermedad o falta de sueño.",
+            "Participación activa en actividades recreativas.",
+            "Consumo de dietas balanceadas.",
+            "Exposición regular al sol."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "Factores como el estrés físico, incluyendo enfermedad y falta de sueño, son desencadenantes comunes de los trastornos de ansiedad."
+    },
+    {
+        "enunciado": "¿Cuál es una característica distintiva del trastorno de pánico según las guías de autoayuda?",
+        "opciones": [
+            "Ansiedad constante y generalizada durante largos periodos.",
+            "Episodios súbitos de miedo intenso acompañados de síntomas físicos.",
+            "Preocupación por enfermedades graves sin evidencia médica.",
+            "Evitar situaciones sociales por miedo a ser juzgado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "trastorno_pánico"
+        ],
+        "feedback": "El trastorno de pánico se caracteriza por episodios súbitos de miedo intenso, a menudo acompañados de síntomas físicos como taquicardia y sudoración."
+    },
+    {
+        "enunciado": "¿Qué escala es adecuada para evaluar la gravedad de la depresión según el PAI-ADS?",
+        "opciones": [
+            "Escala de Hamilton.",
+            "GAD-7.",
+            "PHQ-9.",
+            "Escala de desesperanza de Beck."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PHQ-9 es una herramienta utilizada para evaluar la gravedad de la depresión en el contexto del PAI-ADS."
+    },
+    {
+        "enunciado": "En el modelo de atención colaborativa del PAI-ADS, ¿cuál es un objetivo clave de la coordinación entre atención primaria y salud mental?",
+        "opciones": [
+            "Reducir la carga de trabajo en los centros de atención primaria.",
+            "Promover la intervención farmacológica inmediata.",
+            "Aumentar la tasa de detección y manejo adecuado de casos.",
+            "Evitar la interacción entre profesionales de diferentes disciplinas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "modelo_asistencial"
+        ],
+        "feedback": "La coordinación entre atención primaria y salud mental en el modelo PAI-ADS busca aumentar la detección y mejorar el manejo adecuado de los casos, evitando el infradiagnóstico."
+    },
+    {
+        "enunciado": "¿Qué característica es común en las personas con trastorno de ansiedad generalizada?",
+        "opciones": [
+            "Preocupaciones excesivas y persistentes difíciles de controlar.",
+            "Miedo específico a situaciones sociales.",
+            "Ataques repentinos de pánico con sensación de asfixia.",
+            "Obsesiones relacionadas con la limpieza y compulsiones para aliviar la ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "El trastorno de ansiedad generalizada se caracteriza por preocupaciones excesivas y persistentes que son difíciles de controlar."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes intervenciones es prioritaria en el manejo inicial de pacientes con síntomas leves de ansiedad según el PAI-ADS?",
+        "opciones": [
+            "Administrar ansiolíticos de forma inmediata.",
+            "Derivación directa a un especialista en salud mental.",
+            "Aplicar estrategias de autocontrol y escucha activa.",
+            "Iniciar terapia electroconvulsiva."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_clínico"
+        ],
+        "feedback": "En pacientes con síntomas leves de ansiedad, el manejo inicial incluye estrategias como el autocontrol, escucha activa y educación sobre el trastorno."
+    },
+    {
+        "enunciado": "En el contexto del PAI-ADS, ¿qué factor se asocia frecuentemente al riesgo de suicidio en pacientes con depresión mayor?",
+        "opciones": [
+            "Historia de intentos previos de autolesión.",
+            "Edad avanzada sin historia de enfermedad mental.",
+            "Uso de técnicas de mindfulness.",
+            "Participación en actividades recreativas grupales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "riesgo_suicidio"
+        ],
+        "feedback": "Una historia de intentos previos de autolesión es uno de los factores de riesgo más significativos asociados al suicidio en pacientes con depresión mayor."
+    },
+    {
+        "enunciado": "¿Qué caracteriza al modelo de atención centrado en la persona del PAI-ADS?",
+        "opciones": [
+            "El enfoque en la intervención exclusivamente farmacológica.",
+            "La participación activa del paciente en la toma de decisiones sobre su tratamiento.",
+            "La minimización de la comunicación entre profesionales de diferentes áreas.",
+            "La priorización de protocolos estándar sobre las necesidades individuales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "modelo_asistencial"
+        ],
+        "feedback": "El modelo de atención centrado en la persona fomenta la participación activa del paciente en la toma de decisiones, adaptando las intervenciones a sus necesidades y preferencias."
+    },
+    {
+        "enunciado": "Según el PAI-ADS, ¿qué diagnóstico incluye el código CIE-10 F41.1?",
+        "opciones": [
+            "Trastorno de ansiedad generalizada.",
+            "Trastorno de pánico.",
+            "Trastorno obsesivo-compulsivo.",
+            "Trastorno mixto ansioso-depresivo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "El código F41.1 de la CIE-10 corresponde al trastorno de ansiedad generalizada."
+    },
+    {
+        "enunciado": "¿Qué factor puede contribuir al mantenimiento de la ansiedad según la guía 'Comprendiendo la ansiedad'?",
+        "opciones": [
+            "Afrontar las situaciones temidas con exposición gradual.",
+            "La evitación constante de las situaciones que generan miedo.",
+            "La práctica regular de técnicas de relajación.",
+            "Un apoyo social sólido y cercano."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La evitación constante refuerza el ciclo de ansiedad al impedir la habituación y enfrentamiento a las situaciones temidas."
+    },
+    {
+        "enunciado": "¿Cuál es un ejemplo de patología incluida en las somatizaciones según el PAI-ADS?",
+        "opciones": [
+            "Hipocondría.",
+            "Depresión mayor.",
+            "Fobia social.",
+            "Trastorno de pánico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "somatización"
+        ],
+        "feedback": "La hipocondría es una patología incluida dentro de las somatizaciones según el PAI-ADS."
+    },
+    {
+        "enunciado": "En el abordaje del duelo según el PAI-ADS, ¿qué situación podría complicarlo?",
+        "opciones": [
+            "El fallecimiento de un familiar cercano tras una enfermedad prolongada.",
+            "Una relación conflictiva previa con la persona fallecida.",
+            "La existencia de una red de apoyo social amplia.",
+            "El empleo de rituales culturales de despedida."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "duelo"
+        ],
+        "feedback": "Una relación conflictiva previa con la persona fallecida puede complicar el proceso de duelo y requerir intervenciones específicas."
+    },
+    {
+        "enunciado": "¿Qué herramienta es recomendada en el PAI-ADS para evaluar el riesgo de suicidio?",
+        "opciones": [
+            "GAD-7.",
+            "PHQ-9.",
+            "Escala de desesperanza de Beck.",
+            "Escala de Hamilton."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La escala de desesperanza de Beck es una herramienta recomendada para evaluar el riesgo de suicidio."
+    },
+    {
+        "enunciado": "¿Qué intervención forma parte del manejo no farmacológico inicial en pacientes con ansiedad leve según el PAI-ADS?",
+        "opciones": [
+            "Terapia electroconvulsiva.",
+            "Terapia cognitivo-conductual.",
+            "Sedación inmediata.",
+            "Derivación directa a psiquiatría."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_clínico"
+        ],
+        "feedback": "La terapia cognitivo-conductual es una intervención no farmacológica inicial recomendada en pacientes con ansiedad leve."
+    },
+    {
+        "enunciado": "En relación con la depresión, ¿qué síntoma se asocia frecuentemente con un mayor riesgo de suicidio?",
+        "opciones": [
+            "Exceso de energía y entusiasmo.",
+            "Pérdida de peso significativa.",
+            "Sentimientos de inutilidad y desesperanza.",
+            "Euforia intermitente."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "riesgo_suicidio"
+        ],
+        "feedback": "Sentimientos de inutilidad y desesperanza son indicadores clave de un mayor riesgo de suicidio en pacientes con depresión."
+    },
+    {
+        "enunciado": "¿Qué práctica contribuye a la adherencia al tratamiento en el modelo PAI-ADS?",
+        "opciones": [
+            "Imponer tratamientos sin consultar al paciente.",
+            "Fomentar la comprensión del paciente sobre su trastorno y tratamiento.",
+            "Evitar proporcionar información detallada sobre el proceso.",
+            "Derivar únicamente casos graves a atención especializada."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "adherencia"
+        ],
+        "feedback": "Fomentar la comprensión del paciente sobre su trastorno y tratamiento mejora significativamente la adherencia al tratamiento."
+    },
+    {
+        "enunciado": "¿Qué tipo de ansiedad se caracteriza por un miedo intenso a situaciones sociales?",
+        "opciones": [
+            "Trastorno de ansiedad generalizada.",
+            "Fobia social.",
+            "Agorafobia.",
+            "Trastorno de pánico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La fobia social se caracteriza por un miedo intenso y persistente a situaciones sociales o de actuación en público."
+    },
+    {
+        "enunciado": "¿Qué diagnóstico diferencial debe considerarse en un paciente con síntomas de somatización?",
+        "opciones": [
+            "Hipertensión esencial.",
+            "Trastorno orgánico que explique los síntomas.",
+            "Trastorno por déficit de atención.",
+            "Síndrome metabólico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "Es crucial descartar la presencia de un trastorno orgánico que explique los síntomas antes de diagnosticar una somatización."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias es útil para manejar pensamientos ansiosos según las guías de autoayuda?",
+        "opciones": [
+            "Aceptar que no se pueden controlar los pensamientos.",
+            "Evitar enfrentar los pensamientos a través de la distracción constante.",
+            "Cuestionar y reemplazar los pensamientos irracionales con ideas realistas.",
+            "Centrarse exclusivamente en los síntomas físicos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_ansiedad"
+        ],
+        "feedback": "Cuestionar y reemplazar los pensamientos irracionales con ideas realistas es una técnica eficaz para manejar la ansiedad."
+    },
+    {
+        "enunciado": "¿Qué síntoma es característico de un ataque de pánico?",
+        "opciones": [
+            "Estado de ánimo elevado y excesiva energía.",
+            "Taquicardia súbita acompañada de sensación de muerte inminente.",
+            "Miedo constante a eventos futuros.",
+            "Pensamientos obsesivos sin compulsiones asociadas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "trastorno_pánico"
+        ],
+        "feedback": "Un ataque de pánico se caracteriza por síntomas físicos intensos como taquicardia y una sensación de muerte inminente."
+    },
+    {
+        "enunciado": "¿Qué escala es utilizada en el PAI-ADS para la evaluación de la ansiedad?",
+        "opciones": [
+            "Escala de Beck.",
+            "PHQ-9.",
+            "GAD-7.",
+            "Test de Hamilton."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La GAD-7 es una escala recomendada en el PAI-ADS para evaluar la ansiedad."
+    },
+    {
+        "enunciado": "¿Qué acción es esencial en la prevención del suicidio según el PAI-ADS?",
+        "opciones": [
+            "Ignorar los signos de alerta para evitar sobrepreocupación.",
+            "Establecer una relación terapéutica basada en la confianza y escucha activa.",
+            "Aumentar la medicación sin previo aviso al paciente.",
+            "Derivar todos los casos al hospital independientemente de la gravedad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "prevención_suicidio"
+        ],
+        "feedback": "La prevención del suicidio requiere establecer una relación terapéutica de confianza, proporcionando un espacio de escucha activa."
+    },
+    {
+        "enunciado": "¿Qué situación puede complicar la adherencia al tratamiento en pacientes con trastornos de ansiedad?",
+        "opciones": [
+            "Explicación clara y comprensible del plan terapéutico.",
+            "Presencia de comorbilidades psiquiátricas no tratadas.",
+            "Intervenciones terapéuticas breves y específicas.",
+            "Participación activa del paciente en las decisiones."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "adherencia"
+        ],
+        "feedback": "La presencia de comorbilidades psiquiátricas no tratadas puede dificultar la adherencia al tratamiento en pacientes con trastornos de ansiedad."
+    },
+    {
+        "enunciado": "¿Cuál es un objetivo principal del modelo colaborativo AP-SM en el PAI-ADS?",
+        "opciones": [
+            "Reducir el tiempo de consulta en atención primaria.",
+            "Garantizar un acceso compartido y coordinado a recursos entre AP y SM.",
+            "Incrementar el uso de tratamientos exclusivamente farmacológicos.",
+            "Eliminación de la necesidad de atención especializada."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "modelo_asistencial"
+        ],
+        "feedback": "El modelo colaborativo entre Atención Primaria (AP) y Salud Mental (SM) busca garantizar un acceso compartido y coordinado a los recursos, mejorando la atención al paciente."
+    },
+    {
+        "enunciado": "¿Qué síntoma diferencia la agorafobia de otros trastornos de ansiedad?",
+        "opciones": [
+            "Preocupación excesiva por problemas cotidianos.",
+            "Miedo a estar en lugares de los que escapar sería difícil o embarazoso.",
+            "Tendencia a rituales obsesivos para aliviar la ansiedad.",
+            "Ataques de pánico recurrentes sin causa aparente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La agorafobia se caracteriza por un miedo intenso a estar en lugares donde escapar sería difícil o embarazoso."
+    },
+    {
+        "enunciado": "En el PAI-ADS, ¿cuál es la prioridad cuando un paciente presenta un alto riesgo de suicidio?",
+        "opciones": [
+            "Esperar a que el paciente solicite ayuda por su cuenta.",
+            "Derivar inmediatamente a un servicio especializado de salud mental.",
+            "Aumentar la dosis de ansiolíticos sin informar al paciente.",
+            "Proporcionar exclusivamente información sobre su condición."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "riesgo_suicidio"
+        ],
+        "feedback": "La derivación inmediata a un servicio especializado es esencial cuando se identifica un alto riesgo de suicidio, según el PAI-ADS."
+    },
+    {
+        "enunciado": "Según el PAI-ADS, ¿qué estrategia es efectiva para manejar el estrés asociado a la ansiedad?",
+        "opciones": [
+            "Incrementar la cantidad de tareas diarias para mantener la mente ocupada.",
+            "Evitar enfrentar situaciones estresantes en cualquier circunstancia.",
+            "Practicar técnicas de relajación como la respiración profunda y mindfulness.",
+            "Ignorar los síntomas físicos hasta que desaparezcan por completo."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_ansiedad"
+        ],
+        "feedback": "Practicar técnicas de relajación como la respiración profunda y el mindfulness puede ser muy efectivo para manejar el estrés asociado a la ansiedad."
+    },
+    {
+        "enunciado": "¿Qué criterio es clave para el diagnóstico de somatizaciones según el PAI-ADS?",
+        "opciones": [
+            "Presencia de síntomas físicos explicados por enfermedades orgánicas.",
+            "Persistencia de síntomas físicos sin causa médica identificable.",
+            "Ausencia total de síntomas psicológicos.",
+            "Predominio de síntomas exclusivamente gastrointestinales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "somatización"
+        ],
+        "feedback": "El diagnóstico de somatizaciones se basa en la presencia de síntomas físicos persistentes sin causa médica identificable, a menudo asociados a factores psicológicos."
+    },
+    {
+        "enunciado": "¿Cuál es una recomendación clave para evitar la cronificación de los trastornos de ansiedad?",
+        "opciones": [
+            "Evitar cualquier tipo de intervención inicial.",
+            "Iniciar una intervención temprana basada en terapia cognitivo-conductual.",
+            "Limitar el contacto del paciente con redes de apoyo social.",
+            "Enfocarse únicamente en el tratamiento farmacológico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "intervención"
+        ],
+        "feedback": "Iniciar una intervención temprana, como la terapia cognitivo-conductual, es fundamental para prevenir la cronificación de los trastornos de ansiedad."
+    },
+    {
+        "enunciado": "En el PAI-ADS, ¿qué herramienta se utiliza para identificar niveles significativos de estrés?",
+        "opciones": [
+            "Escala de ansiedad de Hamilton.",
+            "Evaluación subjetiva de estrés (escala 0-10).",
+            "Cuestionario de depresión de Beck.",
+            "Test de estrés de Zung."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PAI-ADS utiliza una escala subjetiva de estrés (0-10) para identificar niveles significativos que pueden requerir evaluación adicional."
+    },
+    {
+        "enunciado": "¿Qué síntoma distingue al trastorno obsesivo-compulsivo de otros trastornos de ansiedad?",
+        "opciones": [
+            "Ansiedad persistente en situaciones sociales.",
+            "Presencia de pensamientos intrusivos y rituales compulsivos.",
+            "Miedo a espacios abiertos y concurridos.",
+            "Preocupaciones constantes sobre el futuro."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "trastorno_obsesivo"
+        ],
+        "feedback": "El trastorno obsesivo-compulsivo se caracteriza por pensamientos intrusivos (obsesiones) y rituales repetitivos (compulsiones) realizados para reducir la ansiedad."
+    },
+    {
+        "enunciado": "En el PAI-ADS, ¿qué enfoque se considera esencial para la atención de personas con síntomas leves de ansiedad?",
+        "opciones": [
+            "Intervención centrada exclusivamente en el uso de medicación.",
+            "Atención centrada en la persona, con educación y estrategias de autocontrol.",
+            "Evitación de intervenciones hasta que los síntomas sean severos.",
+            "Derivación inmediata a unidades especializadas de salud mental."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_clínico"
+        ],
+        "feedback": "El enfoque centrado en la persona incluye la educación sobre el trastorno y el uso de estrategias de autocontrol como primer paso en la atención a síntomas leves."
+    },
+    {
+        "enunciado": "¿Qué factor se asocia con un mayor riesgo de recaída en pacientes con depresión?",
+        "opciones": [
+            "Apoyo social significativo.",
+            "Historia previa de episodios depresivos.",
+            "Intervención temprana y adecuada.",
+            "Práctica regular de ejercicio físico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "Una historia previa de episodios depresivos es un factor de riesgo importante para recaídas en pacientes con depresión."
+    },
+    {
+        "enunciado": "Según la guía 'Comprendiendo la ansiedad', ¿qué mecanismo biológico explica la aparición de síntomas físicos durante un episodio de ansiedad?",
+        "opciones": [
+            "Una reducción del nivel de serotonina en el sistema nervioso central.",
+            "Un aumento de adrenalina que activa la respuesta de lucha o huida.",
+            "Una deficiencia de oxígeno en el cerebro debido a hipoventilación.",
+            "Una disminución en la actividad del sistema nervioso parasimpático."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "Durante un episodio de ansiedad, la liberación de adrenalina activa la respuesta de lucha o huida, lo que genera cambios físicos como taquicardia y sudoración."
+    },
+    {
+        "enunciado": "En el contexto del trastorno de ansiedad generalizada (TAG), ¿qué característica cognitiva es fundamental en su mantenimiento?",
+        "opciones": [
+            "La hipersensibilidad a estímulos auditivos.",
+            "El procesamiento selectivo de información relacionada con el peligro.",
+            "La incapacidad para experimentar emociones negativas.",
+            "La propensión a evitar las preocupaciones cotidianas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "En el TAG, el procesamiento selectivo de información relacionada con el peligro perpetúa la percepción de amenaza constante, contribuyendo al mantenimiento de la ansiedad."
+    },
+    {
+        "enunciado": "Según las teorías cognitivas, ¿cómo se perpetúa la ansiedad a través del comportamiento de evitación?",
+        "opciones": [
+            "La evitación disminuye la intensidad de los síntomas físicos a largo plazo.",
+            "La evitación refuerza la creencia de que las situaciones temidas son peligrosas.",
+            "La evitación incrementa la percepción de autocontrol en el paciente.",
+            "La evitación permite una desensibilización gradual a los estímulos temidos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "El comportamiento de evitación refuerza las creencias irracionales sobre el peligro de las situaciones temidas, manteniendo el ciclo de ansiedad."
+    },
+    {
+        "enunciado": "En pacientes con trastorno de pánico, ¿qué diferencia a la hiperventilación de otras respuestas fisiológicas?",
+        "opciones": [
+            "Es la única respuesta que provoca síntomas psicológicos.",
+            "Conduce a un incremento de dióxido de carbono en el cuerpo.",
+            "Produce síntomas físicos como mareo y hormigueo por la reducción de dióxido de carbono.",
+            "Es una respuesta exclusiva a estímulos externos amenazantes."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La hiperventilación en el trastorno de pánico reduce el dióxido de carbono en el cuerpo, provocando síntomas como mareo y hormigueo, que intensifican la ansiedad."
+    },
+    {
+        "enunciado": "¿Qué tipo de pensamiento automático es más común en personas con trastorno de ansiedad social?",
+        "opciones": [
+            "Creer que su desempeño será juzgado de forma negativa por los demás.",
+            "Pensar que sus síntomas físicos son señal de una enfermedad grave.",
+            "Anticipar una pérdida de control físico durante situaciones temidas.",
+            "Considerar que la ansiedad es completamente incontrolable."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "En el trastorno de ansiedad social, es común que las personas anticipen juicios negativos de los demás, lo que refuerza la evitación de situaciones sociales."
+    },
+    {
+        "enunciado": "Según el modelo conductual, ¿qué papel juega la habituación en el tratamiento de los trastornos de ansiedad?",
+        "opciones": [
+            "Es un proceso donde el paciente aprende a evitar situaciones que generan ansiedad.",
+            "Es el incremento gradual de la respuesta de ansiedad tras la exposición repetida al estímulo.",
+            "Es la reducción progresiva de la ansiedad cuando se enfrenta repetidamente al estímulo temido sin evitación.",
+            "Es la eliminación total de la respuesta de ansiedad tras una única exposición al estímulo."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La habituación es un proceso clave en el tratamiento de los trastornos de ansiedad, donde la exposición repetida y controlada al estímulo temido reduce progresivamente la respuesta ansiosa."
+    },
+    {
+        "enunciado": "En el contexto del tratamiento del trastorno de ansiedad generalizada, ¿qué papel juega la tolerancia a la incertidumbre?",
+        "opciones": [
+            "Es un objetivo secundario que solo se aborda si las preocupaciones persisten.",
+            "Es irrelevante en el tratamiento ya que las preocupaciones siempre son específicas.",
+            "Es un componente central para reducir las preocupaciones excesivas.",
+            "Se sustituye completamente con técnicas de relajación."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "En el trastorno de ansiedad generalizada, mejorar la tolerancia a la incertidumbre es crucial para reducir las preocupaciones excesivas e irracionales."
+    },
+    {
+        "enunciado": "En el trastorno de ansiedad generalizada, ¿qué diferencia las preocupaciones patológicas de las preocupaciones normales?",
+        "opciones": [
+            "Las preocupaciones normales son más intensas y frecuentes.",
+            "Las preocupaciones patológicas son difíciles de controlar y se perciben como intrusivas.",
+            "Las preocupaciones normales afectan negativamente la funcionalidad del individuo.",
+            "Las preocupaciones patológicas están limitadas a eventos reales y actuales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "Las preocupaciones patológicas se caracterizan por ser excesivas, intrusivas y difíciles de controlar, interfiriendo significativamente en la vida diaria del individuo."
+    },
+    {
+        "enunciado": "¿Qué estructura cerebral está más asociada con la respuesta de ansiedad y el procesamiento del miedo?",
+        "opciones": [
+            "Hipocampo.",
+            "Amígdala.",
+            "Corteza prefrontal.",
+            "Tálamo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La amígdala es una estructura clave en la respuesta de ansiedad, ya que regula el procesamiento del miedo y activa las respuestas fisiológicas asociadas al estrés."
+    },
+    {
+        "enunciado": "En el modelo cognitivo-conductual, ¿cómo se define la interpretación catastrófica en el contexto de los trastornos de ansiedad?",
+        "opciones": [
+            "La creencia de que un estímulo neutro es beneficioso.",
+            "La subestimación de las consecuencias de un evento negativo.",
+            "La tendencia a exagerar el peligro y anticipar los peores resultados posibles.",
+            "La percepción de control absoluto sobre todas las situaciones."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La interpretación catastrófica es un sesgo cognitivo donde las personas tienden a exagerar el peligro y anticipar consecuencias extremas, perpetuando la ansiedad."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre los ataques de pánico y la ansiedad generalizada?",
+        "opciones": [
+            "La ansiedad generalizada incluye síntomas físicos más intensos que los ataques de pánico.",
+            "Los ataques de pánico son episodios agudos, mientras que la ansiedad generalizada es persistente.",
+            "Los ataques de pánico carecen de una causa específica, mientras que la ansiedad generalizada siempre tiene un desencadenante claro.",
+            "La ansiedad generalizada es más comúnmente tratada con intervención farmacológica que los ataques de pánico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "Los ataques de pánico son episodios agudos y breves de miedo intenso, mientras que la ansiedad generalizada implica una preocupación persistente y difusa."
+    },
+    {
+        "enunciado": "Según la teoría del condicionamiento clásico, ¿cómo se adquiere una respuesta de miedo en los trastornos de ansiedad?",
+        "opciones": [
+            "A través de la exposición repetida a estímulos inofensivos.",
+            "Por la asociación de un estímulo neutro con un evento aversivo.",
+            "Mediante la eliminación de conductas de evitación.",
+            "Por el aprendizaje de habilidades de afrontamiento ineficaces."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "En el condicionamiento clásico, una respuesta de miedo se adquiere cuando un estímulo neutro se asocia repetidamente con un evento aversivo, creando una respuesta condicionada."
+    },
+    {
+        "enunciado": "¿Qué factor cognitivo contribuye significativamente al mantenimiento de la ansiedad social?",
+        "opciones": [
+            "La percepción de que los demás tienen expectativas muy bajas.",
+            "La tendencia a interpretar señales ambiguas como evaluaciones negativas.",
+            "El convencimiento de que los síntomas físicos de ansiedad son irrelevantes.",
+            "La sobreestimación de la capacidad personal para manejar situaciones sociales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "En la ansiedad social, interpretar señales ambiguas como evaluaciones negativas de los demás refuerza la creencia de ser juzgado, perpetuando el trastorno."
+    },
+    {
+        "enunciado": "En el tratamiento del trastorno de ansiedad generalizada, ¿qué enfoque se utiliza para abordar la intolerancia a la incertidumbre?",
+        "opciones": [
+            "Exposición gradual a situaciones inciertas.",
+            "Incremento de conductas de evitación para reducir el estrés.",
+            "Reforzar la necesidad de control absoluto sobre las situaciones.",
+            "Sustituir las preocupaciones por técnicas de distracción constante."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La exposición gradual a situaciones inciertas permite que los pacientes desarrollen tolerancia y aprendan a manejar la ansiedad asociada a la incertidumbre."
+    },
+    {
+        "enunciado": "En el trastorno de pánico, ¿qué rol desempeña la hipersensibilidad interoceptiva?",
+        "opciones": [
+            "Reduce la percepción de síntomas físicos durante los ataques de pánico.",
+            "Incrementa la interpretación errónea de sensaciones corporales como peligrosas.",
+            "Mejora la capacidad de reconocer señales fisiológicas reales de peligro.",
+            "Facilita la habituación rápida a estímulos desencadenantes."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "La hipersensibilidad interoceptiva en el trastorno de pánico lleva a interpretar sensaciones corporales normales como peligrosas, desencadenando y perpetuando los ataques."
+    },
+    {
+        "enunciado": "¿Qué evidencia apoya la eficacia de la terapia cognitivo-conductual (TCC) en los trastornos de ansiedad?",
+        "opciones": [
+            "La TCC se enfoca únicamente en modificar los patrones de pensamiento, ignorando los comportamientos.",
+            "Los estudios muestran que la TCC produce mejoras significativas y sostenidas en la reducción de síntomas de ansiedad.",
+            "La TCC solo es efectiva cuando se combina con tratamiento farmacológico.",
+            "La TCC es menos efectiva que las terapias basadas exclusivamente en la exposición."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La terapia cognitivo-conductual ha demostrado ser altamente eficaz en estudios clínicos para reducir síntomas de ansiedad de manera sostenida, abordando tanto pensamientos como comportamientos."
+    },
+    {
+        "enunciado": "En el modelo de mantenimiento de la ansiedad, ¿qué rol juega el sesgo atencional hacia estímulos amenazantes?",
+        "opciones": [
+            "Reduce la capacidad del individuo para reaccionar a estímulos peligrosos.",
+            "Facilita una respuesta adaptativa frente a peligros reales.",
+            "Aumenta la atención a estímulos amenazantes, intensificando la percepción de peligro.",
+            "Disminuye el reconocimiento de señales positivas en el entorno."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "ansiedad"
+        ],
+        "feedback": "El sesgo atencional hacia estímulos amenazantes intensifica la percepción de peligro y mantiene la respuesta de ansiedad al desviar la atención de señales positivas o neutrales."
+    },
+    {
+        "enunciado": "¿Qué técnica específica dentro de la terapia cognitivo-conductual se utiliza para modificar pensamientos catastróficos?",
+        "opciones": [
+            "Reestructuración cognitiva.",
+            "Exposición interoceptiva.",
+            "Entrenamiento en habilidades sociales.",
+            "Técnicas de relajación muscular progresiva."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La reestructuración cognitiva es una técnica central en la TCC, utilizada para identificar y modificar pensamientos catastróficos que contribuyen a la ansiedad."
+    },
+    {
+        "enunciado": "Según los criterios diagnósticos del PAI-ADS, ¿cuál de los siguientes síntomas es central en la depresión mayor?",
+        "opciones": [
+            "Hipersensibilidad emocional.",
+            "Disminución del interés o placer en casi todas las actividades.",
+            "Agitación psicomotora exclusiva.",
+            "Incremento significativo en la energía diaria."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "La disminución del interés o placer en casi todas las actividades es uno de los síntomas principales para diagnosticar la depresión mayor según el PAI-ADS."
+    },
+    {
+        "enunciado": "En pacientes con depresión mayor, ¿cuál es el significado clínico de la anhedonia?",
+        "opciones": [
+            "Es un síntoma físico exclusivo de la depresión.",
+            "Se refiere a la incapacidad para experimentar placer en actividades previamente disfrutadas.",
+            "Implica una necesidad compulsiva de realizar actividades placenteras.",
+            "Es una manifestación exclusivamente asociada a trastornos bipolares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "La anhedonia es un síntoma característico de la depresión que implica la incapacidad para experimentar placer en actividades previamente disfrutadas."
+    },
+    {
+        "enunciado": "¿Qué escala es utilizada frecuentemente para valorar la gravedad de los síntomas depresivos?",
+        "opciones": [
+            "GAD-7.",
+            "Escala de Hamilton para la Depresión.",
+            "Escala de ansiedad de Beck.",
+            "Test de somatización de Zung."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Hamilton para la Depresión es una herramienta ampliamente utilizada para valorar la gravedad de los síntomas depresivos."
+    },
+    {
+        "enunciado": "En el contexto del tratamiento de la depresión, ¿cuál es el mecanismo de acción de los inhibidores selectivos de la recaptación de serotonina (ISRS)?",
+        "opciones": [
+            "Aumentan la producción de serotonina en las neuronas presinápticas.",
+            "Bloquean la recaptación de serotonina, aumentando su disponibilidad en la sinapsis.",
+            "Inhiben la degradación de serotonina por las enzimas hepáticas.",
+            "Estimulan directamente los receptores postsinápticos de serotonina."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "Los ISRS bloquean la recaptación de serotonina en la sinapsis, aumentando su disponibilidad y aliviando los síntomas depresivos."
+    },
+    {
+        "enunciado": "Según la guía PAI-ADS, ¿qué estrategia es fundamental en la prevención de recaídas en pacientes con depresión?",
+        "opciones": [
+            "Suspender abruptamente la medicación al experimentar mejoría.",
+            "Mantener el tratamiento farmacológico durante el tiempo recomendado tras la remisión.",
+            "Evitar cualquier tipo de terapia psicológica.",
+            "Reducir la interacción social para minimizar el estrés."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "prevención"
+        ],
+        "feedback": "Mantener el tratamiento farmacológico durante el tiempo recomendado tras la remisión es clave para prevenir recaídas en pacientes con depresión."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre la depresión mayor y la distimia (trastorno depresivo persistente)?",
+        "opciones": [
+            "La depresión mayor presenta síntomas más leves pero crónicos.",
+            "La distimia implica síntomas menos graves pero de duración prolongada.",
+            "La distimia siempre está acompañada de episodios de manía.",
+            "La depresión mayor se caracteriza exclusivamente por síntomas físicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "La distimia implica síntomas depresivos menos graves pero que persisten durante un periodo más prolongado, generalmente al menos dos años."
+    },
+    {
+        "enunciado": "En pacientes con depresión, ¿qué rol desempeña el pensamiento dicotómico en el mantenimiento del trastorno?",
+        "opciones": [
+            "Facilita la reestructuración cognitiva.",
+            "Promueve interpretaciones equilibradas de eventos.",
+            "Contribuye a una visión rígida y extremista de la realidad.",
+            "Aumenta la flexibilidad cognitiva."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "cognición"
+        ],
+        "feedback": "El pensamiento dicotómico, o pensamiento de 'todo o nada', es un sesgo cognitivo que contribuye a interpretaciones extremistas y al mantenimiento de la depresión."
+    },
+    {
+        "enunciado": "En el marco de la depresión, ¿qué es la desesperanza aprendida?",
+        "opciones": [
+            "Una estrategia adaptativa para enfrentar situaciones estresantes.",
+            "La creencia de que los esfuerzos personales no tienen influencia en los resultados.",
+            "Un síntoma exclusivo de episodios depresivos menores.",
+            "La incapacidad para reconocer síntomas físicos asociados a la depresión."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "cognición"
+        ],
+        "feedback": "La desesperanza aprendida es la creencia de que los esfuerzos personales no pueden cambiar el resultado, un factor importante en el desarrollo y mantenimiento de la depresión."
+    },
+    {
+        "enunciado": "En el tratamiento cognitivo-conductual para la depresión, ¿qué técnica se utiliza para abordar pensamientos negativos automáticos?",
+        "opciones": [
+            "Exposición gradual.",
+            "Reestructuración cognitiva.",
+            "Entrenamiento en habilidades sociales.",
+            "Relajación muscular progresiva."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La reestructuración cognitiva es una técnica fundamental en el tratamiento de la depresión, dirigida a identificar y modificar pensamientos negativos automáticos."
+    },
+    {
+        "enunciado": "En pacientes con depresión, ¿qué factor está más asociado con un mayor riesgo de suicidio?",
+        "opciones": [
+            "Duración breve de los episodios depresivos.",
+            "Presencia de anhedonia e ideación suicida persistente.",
+            "Historia familiar sin trastornos psiquiátricos.",
+            "Respuesta positiva a los tratamientos iniciales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "riesgo_suicidio"
+        ],
+        "feedback": "La presencia de anhedonia combinada con ideación suicida persistente es un indicador clave de mayor riesgo de suicidio en pacientes con depresión."
+    },
+    {
+        "enunciado": "En el diagnóstico diferencial de la depresión, ¿qué característica distingue la depresión mayor de un duelo normal?",
+        "opciones": [
+            "La presencia de tristeza profunda tras una pérdida.",
+            "La duración limitada de los síntomas emocionales intensos.",
+            "La aparición de ideas de inutilidad y culpa desproporcionada.",
+            "La capacidad para experimentar momentos de disfrute."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "La aparición de ideas de inutilidad y culpa desproporcionada es un criterio clave que distingue la depresión mayor de un duelo normal."
+    },
+    {
+        "enunciado": "Según las guías clínicas del PAI-ADS, ¿qué componente es esencial en el manejo de la depresión moderada a severa?",
+        "opciones": [
+            "Intervenciones exclusivas de terapia psicológica.",
+            "Tratamiento combinado de psicoterapia y farmacoterapia.",
+            "Derivación inmediata a unidades de salud mental cerradas.",
+            "Solo monitorización de síntomas sin tratamiento inicial."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "El tratamiento combinado de psicoterapia y farmacoterapia es esencial para abordar la depresión moderada a severa de manera efectiva."
+    },
+    {
+        "enunciado": "En pacientes con depresión mayor, ¿cuál de los siguientes síntomas cognitivos es más frecuente?",
+        "opciones": [
+            "Falta de concentración y dificultad para tomar decisiones.",
+            "Preocupaciones excesivas sobre eventos futuros.",
+            "Episodios recurrentes de euforia intensa.",
+            "Pensamientos obsesivos sobre el perfeccionismo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "La falta de concentración y dificultad para tomar decisiones son síntomas cognitivos frecuentes en la depresión mayor."
+    },
+    {
+        "enunciado": "¿Qué papel juega la neuroplasticidad en el tratamiento de la depresión con antidepresivos?",
+        "opciones": [
+            "Inhibe el desarrollo de conexiones neuronales nuevas.",
+            "Facilita la formación de nuevas conexiones sinápticas en regiones relacionadas con el estado de ánimo.",
+            "Disminuye la actividad del eje hipotálamo-hipofisario-adrenal.",
+            "Reduce la respuesta inflamatoria sistémica."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "Los antidepresivos facilitan la neuroplasticidad al promover la formación de nuevas conexiones sinápticas, mejorando el funcionamiento de circuitos relacionados con el estado de ánimo."
+    },
+    {
+        "enunciado": "¿Qué marcador biológico se ha asociado con una mayor predisposición a la depresión en estudios recientes?",
+        "opciones": [
+            "Disminución de los niveles de cortisol.",
+            "Disminución del factor neurotrófico derivado del cerebro (BDNF).",
+            "Aumento de la actividad del sistema parasimpático.",
+            "Reducción de la inflamación sistémica."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "investigación"
+        ],
+        "feedback": "Una disminución del BDNF se ha asociado con la depresión, ya que este factor es clave para la neuroplasticidad y la salud neuronal."
+    },
+    {
+        "enunciado": "En el contexto de la depresión, ¿qué se entiende por 'rumiación'?",
+        "opciones": [
+            "Un patrón de pensamiento repetitivo centrado en las causas y consecuencias del malestar.",
+            "La incapacidad para generar pensamientos relacionados con el futuro.",
+            "Una estrategia de afrontamiento efectiva en estados depresivos.",
+            "El enfoque exclusivo en estímulos externos para evitar el malestar."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "cognición"
+        ],
+        "feedback": "La rumiación es un patrón de pensamiento repetitivo que se centra en las causas y consecuencias del malestar, perpetuando los síntomas depresivos."
+    },
+    {
+        "enunciado": "Según las teorías de Beck sobre la depresión, ¿qué es la 'tríada cognitiva negativa'?",
+        "opciones": [
+            "La combinación de pensamientos positivos sobre uno mismo, el mundo y el futuro.",
+            "Una perspectiva negativa sobre uno mismo, el mundo y el futuro.",
+            "La tendencia a evitar las situaciones sociales y los estímulos externos.",
+            "Un enfoque en reforzar habilidades sociales para combatir la depresión."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "teorías_psicológicas"
+        ],
+        "feedback": "La tríada cognitiva negativa de Beck describe una perspectiva pesimista sobre uno mismo, el mundo y el futuro, característica de la depresión."
+    },
+    {
+        "enunciado": "En pacientes con depresión, ¿qué factor contribuye al mantenimiento del sentimiento de inutilidad?",
+        "opciones": [
+            "Un exceso de estímulos positivos en el entorno.",
+            "La falta de refuerzo positivo en las actividades diarias.",
+            "La ausencia de síntomas físicos asociados al trastorno.",
+            "Una tendencia hacia la hiperactividad y el exceso de compromisos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "depresión"
+        ],
+        "feedback": "La falta de refuerzo positivo en actividades cotidianas puede reforzar el sentimiento de inutilidad, manteniendo los síntomas depresivos."
+    },
+    {
+        "enunciado": "En el tratamiento de la depresión resistente, ¿qué intervención terapéutica ha mostrado eficacia en algunos casos?",
+        "opciones": [
+            "Exposición interoceptiva.",
+            "Estimulación magnética transcraneal (EMT).",
+            "Terapia de evitación sistemática.",
+            "Psicoterapia basada exclusivamente en la exposición."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La estimulación magnética transcraneal (EMT) ha mostrado eficacia en algunos casos de depresión resistente, al modular la actividad neuronal en áreas específicas del cerebro."
+    },
+    {
+        "enunciado": "En el marco del PAI-ADS, ¿qué indicador puede predecir un peor pronóstico en pacientes con depresión mayor?",
+        "opciones": [
+            "Inicio temprano del tratamiento farmacológico.",
+            "Presencia de síntomas psicóticos concurrentes.",
+            "Baja intensidad de los síntomas iniciales.",
+            "Participación activa en terapia cognitivo-conductual."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "pronóstico"
+        ],
+        "feedback": "La presencia de síntomas psicóticos concurrentes en la depresión mayor está asociada a un peor pronóstico y requiere un manejo más complejo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes características es típica de los trastornos de somatización?",
+        "opciones": [
+            "Síntomas físicos con base médica identificable.",
+            "Síntomas físicos múltiples y persistentes sin explicación médica.",
+            "Ausencia de quejas físicas pero con hipervigilancia hacia el cuerpo.",
+            "Patrones de evitación de actividades sociales sin síntomas físicos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "somatización"
+        ],
+        "feedback": "Los trastornos de somatización se caracterizan por síntomas físicos múltiples y persistentes que no tienen una explicación médica clara."
+    },
+    {
+        "enunciado": "¿Qué enfoque es clave en el tratamiento de los trastornos de somatización según el PAI-ADS?",
+        "opciones": [
+            "Fomentar la búsqueda de múltiples especialistas para una segunda opinión.",
+            "Iniciar tratamiento farmacológico exclusivo con analgésicos.",
+            "Implementar una atención integral que aborde factores psicológicos y físicos.",
+            "Centrarse únicamente en los síntomas físicos del paciente."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "El enfoque integral, que aborda tanto factores psicológicos como físicos, es clave en el tratamiento de los trastornos de somatización según el PAI-ADS."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre un trastorno de somatización y un trastorno de conversión?",
+        "opciones": [
+            "El trastorno de somatización incluye síntomas neurológicos como parálisis.",
+            "El trastorno de conversión implica síntomas neurológicos sin base médica identificable.",
+            "El trastorno de conversión siempre tiene un desencadenante físico.",
+            "Los trastornos de somatización afectan únicamente un sistema corporal específico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "El trastorno de conversión se caracteriza por síntomas neurológicos, como parálisis o pérdida sensorial, sin una causa médica identificable."
+    },
+    {
+        "enunciado": "En pacientes con trastornos de somatización, ¿qué factor psicológico contribuye al mantenimiento de los síntomas?",
+        "opciones": [
+            "Baja percepción de los estímulos físicos.",
+            "Reforzamiento de los síntomas a través de la atención social o médica.",
+            "Ausencia de creencias negativas sobre la salud.",
+            "Tendencia a evitar la comunicación de preocupaciones de salud."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "El reforzamiento de los síntomas a través de la atención social o médica puede perpetuar los trastornos de somatización."
+    },
+    {
+        "enunciado": "Según el PAI-ADS, ¿qué estrategia es útil para reducir la frecuencia de consultas médicas en pacientes con trastornos de somatización?",
+        "opciones": [
+            "Aumentar las pruebas diagnósticas para tranquilizar al paciente.",
+            "Establecer una atención médica regular con un profesional de referencia.",
+            "Limitar la comunicación médica para reducir la dependencia.",
+            "Enfocar la atención en identificar exclusivamente enfermedades físicas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "manejo_clínico"
+        ],
+        "feedback": "Establecer un profesional de referencia y consultas regulares puede ayudar a manejar las preocupaciones de salud sin necesidad de múltiples visitas a especialistas."
+    },
+    {
+        "enunciado": "¿Qué herramienta diagnóstica se utiliza para identificar trastornos de somatización?",
+        "opciones": [
+            "Cuestionario PHQ-15.",
+            "Escala de Beck para la depresión.",
+            "Cuestionario GAD-7.",
+            "Test de ansiedad de Hamilton."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PHQ-15 es una herramienta útil para identificar la presencia de síntomas somáticos en pacientes con posibles trastornos de somatización."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre los trastornos de somatización y la hipocondría?",
+        "opciones": [
+            "La hipocondría implica miedo intenso a tener una enfermedad grave.",
+            "Los trastornos de somatización incluyen síntomas exclusivamente psicológicos.",
+            "La hipocondría carece de cualquier preocupación relacionada con la salud.",
+            "Los trastornos de somatización son siempre de corta duración."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "La hipocondría se caracteriza por el miedo intenso y persistente a tener una enfermedad grave, aunque los exámenes médicos no lo confirmen."
+    },
+    {
+        "enunciado": "En pacientes con trastornos de somatización, ¿qué rol juega la psicoeducación?",
+        "opciones": [
+            "Limita la capacidad del paciente para comprender su condición.",
+            "Promueve una mejor comprensión de la conexión mente-cuerpo.",
+            "Enfatiza exclusivamente la necesidad de pruebas diagnósticas continuas.",
+            "Evita que el paciente desarrolle habilidades de afrontamiento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La psicoeducación es fundamental para que los pacientes comprendan la relación entre mente y cuerpo, mejorando su manejo de los síntomas."
+    },
+    {
+        "enunciado": "¿Qué característica diferencia a los trastornos facticios de los trastornos de somatización?",
+        "opciones": [
+            "En los trastornos facticios, los síntomas son intencionalmente creados por el paciente.",
+            "Los trastornos facticios siempre tienen una base médica identificable.",
+            "Los trastornos de somatización incluyen síntomas psicológicos exclusivamente.",
+            "En los trastornos facticios, no existe motivación consciente para los síntomas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "En los trastornos facticios, los síntomas son creados deliberadamente por el paciente, a diferencia de los trastornos de somatización, donde no hay intención consciente."
+    },
+    {
+        "enunciado": "En el modelo biopsicosocial, ¿qué factor social puede influir en el desarrollo de trastornos de somatización?",
+        "opciones": [
+            "Una red de apoyo social sólida.",
+            "Estigmatización hacia problemas de salud mental.",
+            "Acceso adecuado a recursos educativos sobre salud.",
+            "Participación activa en actividades comunitarias."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "etiología"
+        ],
+        "feedback": "La estigmatización hacia los problemas de salud mental puede contribuir al desarrollo de trastornos de somatización, al dificultar la búsqueda de ayuda psicológica adecuada."
+    },
+    {
+        "enunciado": "En el contexto de los trastornos de somatización, ¿qué hallazgo neurofisiológico se ha asociado con la percepción amplificada de síntomas físicos?",
+        "opciones": [
+            "Hiperactividad en la corteza somatosensorial secundaria.",
+            "Disminución de la conectividad en el sistema límbico.",
+            "Hipofunción del sistema dopaminérgico en la corteza prefrontal.",
+            "Incremento de la actividad en el núcleo accumbens."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "La hiperactividad en la corteza somatosensorial secundaria se ha asociado con la percepción amplificada de síntomas físicos en los trastornos de somatización."
+    },
+    {
+        "enunciado": "Según el PAI-ADS, ¿qué indicador psicológico está fuertemente relacionado con el mantenimiento de los síntomas en los trastornos de somatización?",
+        "opciones": [
+            "Alta tolerancia al malestar físico.",
+            "Creencias disfuncionales sobre la salud y el cuerpo.",
+            "Falta de interés por buscar atención médica.",
+            "Habilidades avanzadas de afrontamiento del estrés."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "Las creencias disfuncionales sobre la salud y el cuerpo, como pensar que todos los síntomas físicos indican una enfermedad grave, contribuyen al mantenimiento de los trastornos de somatización."
+    },
+    {
+        "enunciado": "En pacientes con trastornos de somatización, ¿qué enfoque es más eficaz para abordar la hipervigilancia hacia los síntomas físicos?",
+        "opciones": [
+            "Incentivar la realización de chequeos médicos frecuentes.",
+            "Enseñar técnicas de reatribución cognitiva y atención plena.",
+            "Limitar la discusión sobre los síntomas en las consultas médicas.",
+            "Fomentar el aislamiento social temporal para reducir el estrés."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La reatribución cognitiva y las técnicas de atención plena ayudan a los pacientes a manejar la hipervigilancia y reinterpretar los síntomas físicos de manera menos amenazante."
+    },
+    {
+        "enunciado": "¿Qué característica distingue al trastorno de somatización del trastorno de ansiedad por enfermedad?",
+        "opciones": [
+            "El trastorno de ansiedad por enfermedad se centra en el miedo a tener una enfermedad específica.",
+            "El trastorno de somatización incluye la evitación constante de actividades sociales.",
+            "El trastorno de ansiedad por enfermedad carece de preocupación alguna por la salud física.",
+            "El trastorno de somatización incluye exclusivamente síntomas neurológicos funcionales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "El trastorno de ansiedad por enfermedad se caracteriza por un miedo persistente a tener una enfermedad específica, mientras que el trastorno de somatización abarca múltiples síntomas físicos."
+    },
+    {
+        "enunciado": "¿Qué papel juega el condicionamiento operante en el mantenimiento de los trastornos de somatización?",
+        "opciones": [
+            "Reforzar la tendencia a minimizar la percepción de los síntomas.",
+            "Favorecer la evitación de conductas que perpetúan el malestar.",
+            "Incrementar los síntomas físicos mediante el refuerzo positivo de la atención recibida.",
+            "Reducir la frecuencia de los síntomas a través de la exposición gradual."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "En los trastornos de somatización, la atención social y médica puede actuar como refuerzo positivo, incrementando la percepción y expresión de síntomas físicos."
+    },
+    {
+        "enunciado": "¿Qué intervención se considera más adecuada para mejorar la funcionalidad en pacientes con trastornos de somatización?",
+        "opciones": [
+            "Proporcionar únicamente tratamiento farmacológico.",
+            "Implementar programas de rehabilitación basados en objetivos funcionales graduales.",
+            "Evitar abordar directamente las preocupaciones del paciente sobre su salud.",
+            "Limitar las actividades diarias para reducir el malestar físico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "Los programas de rehabilitación que incluyen objetivos funcionales graduales son efectivos para mejorar la funcionalidad en pacientes con trastornos de somatización."
+    },
+    {
+        "enunciado": "¿Qué teoría psicológica explica el desarrollo de los trastornos de somatización mediante la transferencia de conflictos emocionales al cuerpo?",
+        "opciones": [
+            "Teoría de la disonancia cognitiva.",
+            "Teoría psicoanalítica de la conversión.",
+            "Teoría del aprendizaje social.",
+            "Modelo conductual de evitación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "La teoría psicoanalítica de la conversión postula que los conflictos emocionales inconscientes se expresan físicamente a través de síntomas somáticos."
+    },
+    {
+        "enunciado": "En pacientes con trastornos de somatización, ¿qué técnica terapéutica se utiliza para fomentar la reatribución de los síntomas físicos a factores psicológicos?",
+        "opciones": [
+            "Reestructuración cognitiva.",
+            "Exposición gradual a situaciones temidas.",
+            "Terapia basada en la validación emocional.",
+            "Entrenamiento en habilidades de comunicación."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La reestructuración cognitiva ayuda a los pacientes a reinterpretar sus síntomas físicos como manifestaciones relacionadas con factores psicológicos."
+    },
+    {
+        "enunciado": "Según estudios recientes, ¿qué factor neurobiológico está asociado con los trastornos de somatización?",
+        "opciones": [
+            "Disminución de la actividad en el sistema límbico.",
+            "Hiperconectividad entre la ínsula anterior y la corteza prefrontal medial.",
+            "Aumento de los niveles de serotonina en el sistema nervioso central.",
+            "Reducción de la actividad en la corteza somatosensorial primaria."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "La hiperconectividad entre la ínsula anterior y la corteza prefrontal medial se ha relacionado con una mayor percepción de síntomas físicos en los trastornos de somatización."
+    },
+    {
+        "enunciado": "¿Qué estrategia terapéutica se ha demostrado eficaz para reducir la dependencia médica en pacientes con trastornos de somatización?",
+        "opciones": [
+            "Proporcionar acceso irrestricto a pruebas diagnósticas avanzadas.",
+            "Fomentar una relación terapéutica continua con un único profesional de salud.",
+            "Reducir al mínimo las interacciones con el sistema de salud.",
+            "Priorizar exclusivamente el uso de medicamentos ansiolíticos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "Fomentar una relación terapéutica con un único profesional permite manejar las preocupaciones del paciente y reducir la dependencia médica innecesaria."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes características distingue la anorexia nerviosa de otros trastornos de la conducta alimentaria?",
+        "opciones": [
+            "Episodios recurrentes de atracones seguidos de conductas compensatorias.",
+            "Restricción significativa de la ingesta calórica y un miedo intenso a ganar peso.",
+            "Preocupación exclusiva por la calidad de los alimentos consumidos.",
+            "Ausencia de distorsión en la percepción del peso corporal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "alimentación"
+        ],
+        "feedback": "La anorexia nerviosa se caracteriza por una restricción significativa de la ingesta calórica, un miedo intenso a ganar peso y una percepción distorsionada del cuerpo."
+    },
+    {
+        "enunciado": "¿Qué diferencia principal existe entre la bulimia nerviosa y el trastorno por atracón?",
+        "opciones": [
+            "La bulimia nerviosa incluye conductas compensatorias recurrentes, mientras que el trastorno por atracón no.",
+            "El trastorno por atracón implica una restricción extrema de alimentos, mientras que la bulimia nerviosa no.",
+            "La bulimia nerviosa carece de preocupaciones por el peso corporal.",
+            "El trastorno por atracón siempre está asociado a un bajo índice de masa corporal (IMC)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "alimentación"
+        ],
+        "feedback": "En la bulimia nerviosa, los episodios de atracones se acompañan de conductas compensatorias recurrentes, mientras que en el trastorno por atracón estas conductas están ausentes."
+    },
+    {
+        "enunciado": "En el tratamiento de la anorexia nerviosa, ¿qué objetivo es prioritario en las fases iniciales?",
+        "opciones": [
+            "Mejorar la imagen corporal del paciente.",
+            "Restaurar el peso corporal de manera segura.",
+            "Fomentar la práctica de ejercicio físico intenso.",
+            "Reducir la frecuencia de los episodios de atracones."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "Restaurar el peso corporal de manera segura es una prioridad en las fases iniciales del tratamiento de la anorexia nerviosa, ya que puede haber riesgos médicos significativos asociados con el bajo peso."
+    },
+    {
+        "enunciado": "¿Qué factor psicológico se ha identificado como común en los trastornos de la conducta alimentaria?",
+        "opciones": [
+            "Alta tolerancia a la incertidumbre.",
+            "Perfeccionismo y necesidad de control.",
+            "Baja conciencia interoceptiva.",
+            "Indiferencia hacia las normas sociales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "El perfeccionismo y la necesidad de control son factores psicológicos comunes en personas con trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "¿Qué característica define la ortorexia, un trastorno alimentario no especificado?",
+        "opciones": [
+            "La preocupación obsesiva por la calidad y pureza de los alimentos.",
+            "El miedo irracional a ganar peso incluso con un peso corporal bajo.",
+            "Episodios de atracones sin conductas compensatorias.",
+            "Restricción severa de alimentos con origen animal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "alimentación"
+        ],
+        "feedback": "La ortorexia se caracteriza por una preocupación obsesiva por consumir únicamente alimentos que se perciben como saludables o 'puros'."
+    },
+    {
+        "enunciado": "¿Qué herramienta diagnóstica se utiliza para evaluar la gravedad de los síntomas en la bulimia nerviosa?",
+        "opciones": [
+            "Escala de actitudes alimentarias (EAT-26).",
+            "Cuestionario de depresión de Beck (BDI).",
+            "GAD-7 para la ansiedad.",
+            "PHQ-15 para síntomas somáticos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Actitudes Alimentarias (EAT-26) es una herramienta útil para evaluar las actitudes y comportamientos relacionados con los trastornos de la conducta alimentaria, incluida la bulimia nerviosa."
+    },
+    {
+        "enunciado": "En el contexto del tratamiento de la bulimia nerviosa, ¿qué enfoque terapéutico ha demostrado mayor eficacia?",
+        "opciones": [
+            "Terapia conductual exclusiva.",
+            "Terapia cognitivo-conductual (TCC) enfocada en los patrones de pensamiento y comportamiento.",
+            "Terapia basada en la exposición a alimentos temidos.",
+            "Uso exclusivo de fármacos inhibidores del apetito."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La terapia cognitivo-conductual (TCC) es el tratamiento de elección para la bulimia nerviosa, ya que aborda tanto los patrones de pensamiento como los comportamientos disfuncionales."
+    },
+    {
+        "enunciado": "¿Qué complicación médica es más frecuente en pacientes con bulimia nerviosa?",
+        "opciones": [
+            "Hipoglucemia severa.",
+            "Erosión del esmalte dental por vómitos repetidos.",
+            "Fracturas óseas por desmineralización.",
+            "Hipervitaminosis debido a suplementación excesiva."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "complicaciones"
+        ],
+        "feedback": "La erosión del esmalte dental es una complicación común en la bulimia nerviosa, resultado de los vómitos repetidos y la exposición al ácido gástrico."
+    },
+    {
+        "enunciado": "En el diagnóstico diferencial, ¿qué trastorno puede confundirse con el trastorno por atracón debido a características similares?",
+        "opciones": [
+            "Anorexia nerviosa con conductas restrictivas.",
+            "Bulimia nerviosa sin conductas compensatorias evidentes.",
+            "Ortorexia centrada en la calidad alimentaria.",
+            "Trastorno obsesivo-compulsivo con rituales alimentarios."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "diagnóstico"
+        ],
+        "feedback": "La bulimia nerviosa sin conductas compensatorias evidentes puede confundirse con el trastorno por atracón debido a los episodios de consumo excesivo de alimentos."
+    },
+    {
+        "enunciado": "Según el PAI-TCA, ¿qué indicador psicológico podría predecir un pronóstico más desfavorable en la anorexia nerviosa?",
+        "opciones": [
+            "Menor duración de los síntomas.",
+            "Mayor perfeccionismo y rigidez cognitiva.",
+            "Alta capacidad para aceptar apoyo externo.",
+            "Red social amplia y activa."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "pronóstico"
+        ],
+        "feedback": "El perfeccionismo y la rigidez cognitiva son predictores de un pronóstico más desfavorable en la anorexia nerviosa, ya que dificultan la flexibilidad en el tratamiento."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes alteraciones neuroendocrinas es común en pacientes con anorexia nerviosa?",
+        "opciones": [
+            "Incremento de los niveles de leptina.",
+            "Disminución de los niveles de grelina.",
+            "Hipercortisolemia debido al estrés crónico.",
+            "Incremento de las hormonas tiroideas libres."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neuroendocrinología"
+        ],
+        "feedback": "La hipercortisolemia, asociada al estrés crónico y la desnutrición, es una alteración frecuente en pacientes con anorexia nerviosa."
+    },
+    {
+        "enunciado": "En el contexto del trastorno por atracón, ¿qué patrón emocional suele preceder a los episodios de atracones?",
+        "opciones": [
+            "Euforia y alta energía.",
+            "Ansiedad o emociones negativas intensas.",
+            "Indiferencia emocional ante la comida.",
+            "Satisfacción plena con el peso corporal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "Los episodios de atracones en el trastorno por atracón suelen estar precedidos por ansiedad o emociones negativas intensas, que se alivian temporalmente mediante el consumo excesivo de alimentos."
+    },
+    {
+        "enunciado": "En el tratamiento de los trastornos de la conducta alimentaria, ¿cuál es el enfoque principal de la terapia familiar Maudsley?",
+        "opciones": [
+            "Centrarse únicamente en la autonomía del paciente.",
+            "Involucrar activamente a la familia en la recuperación del peso y la mejora de la conducta alimentaria.",
+            "Limitar el papel de los padres para evitar la interferencia en el tratamiento.",
+            "Reforzar exclusivamente la responsabilidad individual del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La terapia familiar Maudsley involucra activamente a la familia en el proceso de recuperación, especialmente en la fase inicial de reanudación de la alimentación."
+    },
+    {
+        "enunciado": "En la bulimia nerviosa, ¿qué impacto tienen los vómitos autoinducidos en el balance electrolítico?",
+        "opciones": [
+            "Provocan hiperkalemia debido a la pérdida de líquidos.",
+            "Causan hipokalemia y alcalosis metabólica.",
+            "Incrementan los niveles de calcio en plasma.",
+            "Reducen significativamente los niveles de magnesio."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "complicaciones"
+        ],
+        "feedback": "Los vómitos autoinducidos en la bulimia nerviosa suelen causar hipokalemia (niveles bajos de potasio) y alcalosis metabólica debido a la pérdida de iones esenciales."
+    },
+    {
+        "enunciado": "¿Qué factor sociocultural se asocia frecuentemente con el desarrollo de trastornos de la conducta alimentaria?",
+        "opciones": [
+            "Exposición a modelos de belleza ideales en los medios de comunicación.",
+            "Acceso limitado a alimentos saludables.",
+            "Redes sociales con apoyo emocional fuerte.",
+            "Aislamiento de las normas culturales predominantes."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "sociología"
+        ],
+        "feedback": "La exposición a ideales de belleza irrealistas en los medios de comunicación se asocia con un mayor riesgo de desarrollar trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas terapéuticas es más adecuada para abordar la distorsión de la imagen corporal en los trastornos de la conducta alimentaria?",
+        "opciones": [
+            "Terapia de aceptación y compromiso (ACT).",
+            "Entrenamiento en relajación muscular progresiva.",
+            "Terapia cognitivo-conductual enfocada en la reestructuración cognitiva.",
+            "Exposición gradual a alimentos temidos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La terapia cognitivo-conductual que incluye la reestructuración cognitiva es efectiva para abordar la distorsión de la imagen corporal en los trastornos alimentarios."
+    },
+    {
+        "enunciado": "En pacientes con anorexia nerviosa, ¿qué manifestación cardiovascular puede aparecer debido a la desnutrición severa?",
+        "opciones": [
+            "Taquicardia persistente.",
+            "Bradicardia e hipotensión ortostática.",
+            "Hipertensión sistémica.",
+            "Aumento del gasto cardíaco."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "complicaciones"
+        ],
+        "feedback": "La desnutrición severa en la anorexia nerviosa puede llevar a bradicardia e hipotensión ortostática, reflejando una adaptación del cuerpo a la restricción calórica prolongada."
+    },
+    {
+        "enunciado": "¿Qué herramienta diagnóstica se utiliza para evaluar la severidad de la imagen corporal distorsionada en trastornos de la conducta alimentaria?",
+        "opciones": [
+            "Body Shape Questionnaire (BSQ).",
+            "Cuestionario PHQ-9.",
+            "Escala de actitudes alimentarias (EAT-26).",
+            "Test de ansiedad de Hamilton."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Body Shape Questionnaire (BSQ) es una herramienta diseñada para evaluar la percepción distorsionada de la imagen corporal en pacientes con trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "En el diagnóstico de los trastornos de la conducta alimentaria, ¿qué hallazgo endocrino es característico en pacientes con anorexia nerviosa?",
+        "opciones": [
+            "Hiperfunción tiroidea.",
+            "Aumento de la secreción de gonadotropinas.",
+            "Supresión del eje hipotalámico-hipofisario-gonadal.",
+            "Incremento en la producción de insulina."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "endocrinología"
+        ],
+        "feedback": "En la anorexia nerviosa, la supresión del eje hipotalámico-hipofisario-gonadal es común y se manifiesta como amenorrea en mujeres debido a la desnutrición prolongada."
+    },
+    {
+        "enunciado": "Según el PAI-TCA, ¿qué intervención psicosocial se prioriza en adolescentes con anorexia nerviosa?",
+        "opciones": [
+            "Terapia familiar estructurada.",
+            "Tratamiento farmacológico inmediato con antipsicóticos.",
+            "Aislamiento de la dinámica familiar para evitar conflictos.",
+            "Terapia grupal con pacientes de diferentes diagnósticos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La terapia familiar estructurada es una intervención clave en adolescentes con anorexia nerviosa, ya que involucra a la familia en el proceso de recuperación."
+    },
+    {
+        "enunciado": "¿Qué región cerebral ha mostrado hiperactividad en pacientes con trastornos de la conducta alimentaria durante tareas de procesamiento emocional?",
+        "opciones": [
+            "Corteza prefrontal dorsolateral.",
+            "Amígdala.",
+            "Corteza occipital primaria.",
+            "Hipocampo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "La hiperactividad de la amígdala en tareas de procesamiento emocional se asocia con una respuesta aumentada al estrés y a estímulos emocionales en pacientes con trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "En la anorexia nerviosa, ¿qué hallazgo hormonal es indicativo de adaptación metabólica a la desnutrición prolongada?",
+        "opciones": [
+            "Elevación de la hormona tiroidea T3 libre.",
+            "Disminución de los niveles de leptina.",
+            "Aumento de los niveles de insulina basal.",
+            "Incremento de la hormona luteinizante (LH)."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "endocrinología"
+        ],
+        "feedback": "La disminución de los niveles de leptina es un indicador de adaptación metabólica a la desnutrición, regulando las reservas energéticas en pacientes con anorexia nerviosa."
+    },
+    {
+        "enunciado": "¿Qué marcador inflamatorio se ha encontrado elevado en pacientes con trastornos de la conducta alimentaria, especialmente en la anorexia nerviosa?",
+        "opciones": [
+            "Interleucina-6 (IL-6).",
+            "Factor de necrosis tumoral alfa (TNF-α).",
+            "Proteína C reactiva (PCR).",
+            "Interleucina-10 (IL-10)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "investigación"
+        ],
+        "feedback": "La interleucina-6 (IL-6) se ha encontrado elevada en pacientes con anorexia nerviosa, reflejando un estado inflamatorio relacionado con la desnutrición crónica."
+    },
+    {
+        "enunciado": "En el tratamiento de los trastornos de la conducta alimentaria, ¿qué técnica de la terapia cognitivo-conductual se utiliza específicamente para abordar los atracones?",
+        "opciones": [
+            "Exposición interoceptiva.",
+            "Entrenamiento en resolución de problemas.",
+            "Técnica de prevención de respuestas.",
+            "Reestructuración cognitiva centrada en el control de impulsos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "La técnica de prevención de respuestas es utilizada para interrumpir los ciclos de atracones y conductas compensatorias en pacientes con trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "En la bulimia nerviosa, ¿qué alteración neuroquímica contribuye a la falta de regulación de la ingesta alimentaria?",
+        "opciones": [
+            "Deficiencia de serotonina en el núcleo dorsal del rafe.",
+            "Hiperactividad dopaminérgica en la corteza prefrontal.",
+            "Reducción de los niveles de norepinefrina en el sistema límbico.",
+            "Exceso de GABA en el hipocampo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "Una deficiencia de serotonina en el núcleo dorsal del rafe está asociada con una regulación deficiente de la ingesta alimentaria en pacientes con bulimia nerviosa."
+    },
+    {
+        "enunciado": "En el contexto de los trastornos de la conducta alimentaria, ¿qué rol desempeña la insula en la percepción del cuerpo?",
+        "opciones": [
+            "Procesa las señales de recompensa asociadas a la comida.",
+            "Integra señales interoceptivas, contribuyendo a la percepción distorsionada del cuerpo.",
+            "Regula las respuestas emocionales a estímulos estresantes.",
+            "Coordina la motilidad gastrointestinal durante la digestión."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "La ínsula juega un papel crucial en la integración de señales interoceptivas, lo que puede contribuir a la percepción distorsionada del cuerpo en los trastornos de la conducta alimentaria."
+    },
+    {
+        "enunciado": "En pacientes con anorexia nerviosa, ¿qué cambio estructural cerebral se ha observado en estudios de neuroimagen?",
+        "opciones": [
+            "Aumento del volumen del hipocampo.",
+            "Disminución de la materia gris en la corteza prefrontal.",
+            "Hiperplasia del núcleo caudado.",
+            "Incremento del volumen del cuerpo calloso."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "neurociencia"
+        ],
+        "feedback": "Estudios de neuroimagen han mostrado una disminución de la materia gris en la corteza prefrontal de pacientes con anorexia nerviosa, probablemente relacionada con la desnutrición crónica."
+    },
+    {
+        "enunciado": "En la anorexia nerviosa, ¿qué característica psicológica está asociada a la alta adherencia a patrones restrictivos de alimentación?",
+        "opciones": [
+            "Baja sensibilidad al castigo.",
+            "Tendencia al perfeccionismo rígido.",
+            "Alta flexibilidad cognitiva.",
+            "Dificultad para experimentar emociones negativas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "psicología"
+        ],
+        "feedback": "El perfeccionismo rígido es una característica psicológica común en la anorexia nerviosa, lo que refuerza los patrones restrictivos de alimentación y el control excesivo del peso."
+    },
+    {
+        "enunciado": "¿Qué alteración gastrointestinal es frecuente en pacientes con bulimia nerviosa debido a los vómitos autoinducidos?",
+        "opciones": [
+            "Estenosis pilórica.",
+            "Desgaste del esfínter esofágico inferior, causando reflujo gastroesofágico.",
+            "Reducción de la secreción gástrica ácida.",
+            "Aumento de la motilidad intestinal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "complicaciones"
+        ],
+        "feedback": "El desgaste del esfínter esofágico inferior es una complicación común de los vómitos autoinducidos, contribuyendo al reflujo gastroesofágico."
+    },
+    {
+        "enunciado": "En el tratamiento interdisciplinario de los trastornos de la conducta alimentaria, ¿qué papel desempeña el nutricionista?",
+        "opciones": [
+            "Diagnosticar trastornos psiquiátricos asociados.",
+            "Diseñar planes de alimentación que promuevan una relación saludable con la comida.",
+            "Prescribir medicamentos para controlar el apetito.",
+            "Evaluar exclusivamente las deficiencias calóricas diarias."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "tratamiento"
+        ],
+        "feedback": "El nutricionista diseña planes de alimentación personalizados que no solo abordan las necesidades nutricionales, sino que también promueven una relación saludable con la comida."
+    },
+    {
+        "enunciado": "¿Qué herramienta diagnóstica se utiliza para evaluar la gravedad de los síntomas de ansiedad generalizada?",
+        "opciones": [
+            "GAD-7.",
+            "PHQ-9.",
+            "Escala de Hamilton para la depresión.",
+            "Test de Young para adicción a internet."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El GAD-7 es una herramienta ampliamente utilizada para evaluar la gravedad de los síntomas de ansiedad generalizada."
+    },
+    {
+        "enunciado": "¿Qué test es el más adecuado para medir la gravedad de los síntomas depresivos en atención primaria?",
+        "opciones": [
+            "Escala de Zung para la depresión.",
+            "PHQ-9.",
+            "Escala de Ansiedad de Beck.",
+            "GAD-7."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PHQ-9 es una herramienta validada y recomendada para evaluar la gravedad de los síntomas depresivos en entornos de atención primaria."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para valorar específicamente los síntomas de bulimia nerviosa?",
+        "opciones": [
+            "Escala de actitudes alimentarias (EAT-26).",
+            "Escala de Hamilton para la ansiedad.",
+            "Escala de ansiedad social de Liebowitz.",
+            "Body Shape Questionnaire (BSQ)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La EAT-26 es una escala específica que evalúa actitudes alimentarias anormales y es útil para identificar la bulimia nerviosa."
+    },
+    {
+        "enunciado": "¿Qué test evalúa la presencia de pensamientos automáticos negativos en depresión?",
+        "opciones": [
+            "Cuestionario de Pensamientos Automáticos (ATQ).",
+            "Escala de Hamilton para la depresión.",
+            "GAD-7.",
+            "Test de ansiedad de Zung."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Cuestionario de Pensamientos Automáticos (ATQ) evalúa la frecuencia y contenido de pensamientos negativos comunes en la depresión."
+    },
+    {
+        "enunciado": "En el contexto de los trastornos de la conducta alimentaria, ¿qué test mide la percepción distorsionada del cuerpo?",
+        "opciones": [
+            "Escala de actitudes alimentarias (EAT-26).",
+            "Body Shape Questionnaire (BSQ).",
+            "PHQ-15.",
+            "Cuestionario de Zung para ansiedad."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Body Shape Questionnaire (BSQ) es una herramienta que mide la percepción distorsionada de la imagen corporal."
+    },
+    {
+        "enunciado": "¿Qué herramienta se emplea para identificar síntomas físicos sin base médica en trastornos de somatización?",
+        "opciones": [
+            "PHQ-15.",
+            "Escala de Ansiedad de Hamilton.",
+            "Escala de Zung para depresión.",
+            "EAT-26."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PHQ-15 es una herramienta que evalúa la presencia y gravedad de síntomas físicos asociados a los trastornos de somatización."
+    },
+    {
+        "enunciado": "¿Qué test es más útil para evaluar la ansiedad relacionada con situaciones sociales?",
+        "opciones": [
+            "Escala de ansiedad social de Liebowitz (LSAS).",
+            "GAD-7.",
+            "PHQ-9.",
+            "Escala de actitudes alimentarias (EAT-26)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Ansiedad Social de Liebowitz (LSAS) mide la ansiedad y evitación en contextos sociales y de actuación."
+    },
+    {
+        "enunciado": "¿Qué herramienta evalúa específicamente el riesgo de suicidio en pacientes con depresión?",
+        "opciones": [
+            "Escala de desesperanza de Beck.",
+            "GAD-7.",
+            "Body Shape Questionnaire (BSQ).",
+            "Escala de Ansiedad de Hamilton."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Desesperanza de Beck es útil para evaluar pensamientos negativos sobre el futuro y el riesgo de suicidio en depresión."
+    },
+    {
+        "enunciado": "¿Qué test se emplea para evaluar la ansiedad en el contexto de un trastorno de pánico?",
+        "opciones": [
+            "Inventario de Ansiedad de Beck (BAI).",
+            "Escala de Zung para ansiedad.",
+            "PHQ-9.",
+            "Body Shape Questionnaire (BSQ)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Inventario de Ansiedad de Beck (BAI) mide la intensidad de los síntomas de ansiedad, siendo útil en trastornos de pánico."
+    },
+    {
+        "enunciado": "¿Qué herramienta es adecuada para identificar atracones en el trastorno por atracón?",
+        "opciones": [
+            "Cuestionario de alimentación compulsiva (BES).",
+            "PHQ-15.",
+            "Escala de Liebowitz para ansiedad social.",
+            "Test de Young para adicción a internet."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Cuestionario de Alimentación Compulsiva (BES) es útil para identificar patrones de atracones en el trastorno por atracón."
+    },
+    {
+        "enunciado": "En casos de depresión resistente, ¿qué escala ayuda a evaluar el impacto de la enfermedad en la calidad de vida?",
+        "opciones": [
+            "Escala de Calidad de Vida en la Depresión (QLDS).",
+            "GAD-7.",
+            "PHQ-9.",
+            "Body Shape Questionnaire (BSQ)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Calidad de Vida en la Depresión (QLDS) mide cómo la depresión afecta la vida diaria y el bienestar."
+    },
+    {
+        "enunciado": "¿Qué cuestionario es más adecuado para identificar síntomas físicos relacionados con la ansiedad?",
+        "opciones": [
+            "Inventario de Ansiedad de Beck (BAI).",
+            "GAD-7.",
+            "PHQ-15.",
+            "Escala de actitudes alimentarias (EAT-26)."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El PHQ-15 evalúa síntomas físicos que pueden estar relacionados con la ansiedad o somatización."
+    },
+    {
+        "enunciado": "¿Qué herramienta es adecuada para evaluar la distorsión cognitiva en pacientes con depresión?",
+        "opciones": [
+            "Inventario de Depresión de Beck (BDI-II).",
+            "Escala de Hamilton para depresión.",
+            "Escala de Zung para ansiedad.",
+            "GAD-7."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El Inventario de Depresión de Beck (BDI-II) evalúa la presencia de distorsiones cognitivas características de la depresión."
+    },
+    {
+        "enunciado": "¿Qué escala es útil para evaluar la gravedad de la depresión posparto?",
+        "opciones": [
+            "Escala de Edimburgo para la Depresión Posparto (EPDS).",
+            "PHQ-9.",
+            "Inventario de Depresión de Beck (BDI-II).",
+            "Escala de Hamilton para depresión."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "La Escala de Edimburgo (EPDS) está diseñada específicamente para evaluar la depresión en el período posparto."
+    },
+    {
+        "enunciado": "¿Qué test es más adecuado para evaluar el impacto de los síntomas alimentarios en adolescentes?",
+        "opciones": [
+            "Cuestionario SCOFF.",
+            "Body Shape Questionnaire (BSQ).",
+            "PHQ-9.",
+            "Inventario de Depresión de Beck (BDI-II)."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema39",
+            "trastornos_conducta",
+            "herramientas_diagnósticas"
+        ],
+        "feedback": "El cuestionario SCOFF está diseñado para detectar posibles trastornos de la conducta alimentaria en adolescentes y adultos jóvenes."
+    },
+    {
+        "enunciado": "¿Qué herramienta es utilizada para medir el nivel de funcionalidad global en pacientes con trastornos mentales, incluyendo ansiedad y depresión?",
+        "opciones": [
+          "Escala de Evaluación de la Actividad Global (GAF).",
+          "Escala de Hamilton para depresión.",
+          "PHQ-9.",
+          "Cuestionario de Beck para la ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Evaluación de la Actividad Global (GAF) mide el nivel de funcionalidad y la capacidad de un paciente para realizar actividades diarias."
+      },
+      {
+        "enunciado": "En el contexto de los trastornos alimentarios, ¿qué test evalúa la autovaloración basada en el peso y la forma corporal?",
+        "opciones": [
+          "Escala de insatisfacción corporal (BIS).",
+          "Escala de actitudes alimentarias (EAT-26).",
+          "PHQ-15.",
+          "Escala de Ansiedad de Hamilton."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Insatisfacción Corporal (BIS) evalúa la percepción negativa de la forma y el peso corporal, aspectos clave en los trastornos alimentarios."
+      },
+      {
+        "enunciado": "¿Qué herramienta diagnóstica evalúa la severidad del insomnio relacionado con trastornos como ansiedad y depresión?",
+        "opciones": [
+          "Índice de Severidad de Insomnio (ISI).",
+          "Escala de Hamilton para ansiedad.",
+          "Inventario de Depresión de Beck (BDI-II).",
+          "Escala de Liebowitz para ansiedad social."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El Índice de Severidad de Insomnio (ISI) evalúa la gravedad del insomnio y su impacto en la funcionalidad, útil en ansiedad y depresión."
+      },
+      {
+        "enunciado": "¿Qué test es el más adecuado para detectar riesgo de trastornos alimentarios en población general?",
+        "opciones": [
+          "Cuestionario SCOFF.",
+          "Body Shape Questionnaire (BSQ).",
+          "PHQ-9.",
+          "Escala de Zung para ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El cuestionario SCOFF detecta el riesgo de trastornos alimentarios en la población general mediante preguntas clave sobre patrones y preocupaciones alimentarias."
+      },
+      {
+        "enunciado": "En pacientes con depresión mayor, ¿qué escala se utiliza para evaluar la gravedad de los síntomas en un contexto clínico?",
+        "opciones": [
+          "Escala de Hamilton para la depresión.",
+          "PHQ-15.",
+          "Escala de Ansiedad Social de Liebowitz.",
+          "Cuestionario SCOFF."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Hamilton para la depresión mide la gravedad de los síntomas depresivos en un entorno clínico, siendo una de las herramientas más utilizadas."
+      },
+      {
+        "enunciado": "¿Qué test se emplea para evaluar la ansiedad anticipatoria en trastornos de pánico?",
+        "opciones": [
+          "Inventario de Ansiedad de Beck (BAI).",
+          "PHQ-9.",
+          "Índice de Severidad de Insomnio (ISI).",
+          "Escala de Hamilton para ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El Inventario de Ansiedad de Beck (BAI) mide la intensidad de los síntomas de ansiedad, incluyendo la ansiedad anticipatoria en el trastorno de pánico."
+      },
+      {
+        "enunciado": "¿Qué herramienta evalúa específicamente los síntomas físicos en pacientes con ansiedad somatizada?",
+        "opciones": [
+          "PHQ-15.",
+          "GAD-7.",
+          "Escala de Hamilton para depresión.",
+          "Body Shape Questionnaire (BSQ)."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El PHQ-15 evalúa la presencia de síntomas físicos asociados a la ansiedad somatizada, permitiendo un diagnóstico más completo."
+      },
+      {
+        "enunciado": "¿Qué escala es útil para medir la ansiedad en niños y adolescentes?",
+        "opciones": [
+          "Escala Multidimensional de Ansiedad para Niños (MASC).",
+          "PHQ-9.",
+          "Cuestionario SCOFF.",
+          "Índice de Severidad de Insomnio (ISI)."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala Multidimensional de Ansiedad para Niños (MASC) evalúa diferentes dimensiones de la ansiedad en niños y adolescentes."
+      },
+      {
+        "enunciado": "¿Qué herramienta es adecuada para detectar depresión en ancianos?",
+        "opciones": [
+          "Escala de Depresión Geriátrica (GDS).",
+          "PHQ-15.",
+          "Body Shape Questionnaire (BSQ).",
+          "Escala de Hamilton para ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Depresión Geriátrica (GDS) está diseñada para detectar síntomas depresivos en personas mayores, adaptada a sus características específicas."
+      },
+      {
+        "enunciado": "En el contexto de los trastornos de la conducta alimentaria, ¿qué herramienta mide los patrones de atracones?",
+        "opciones": [
+          "Cuestionario de Alimentación Compulsiva (BES).",
+          "Body Shape Questionnaire (BSQ).",
+          "PHQ-9.",
+          "Índice de Severidad de Insomnio (ISI)."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El Cuestionario de Alimentación Compulsiva (BES) mide la presencia y gravedad de los patrones de atracones, siendo clave en el diagnóstico del trastorno por atracón."
+      },
+      {
+        "enunciado": "¿Cuál es una característica clave de la anorexia nerviosa atípica según los criterios diagnósticos actuales?",
+        "opciones": [
+          "Pérdida de peso significativa pero el peso corporal sigue siendo dentro del rango normal.",
+          "Restricción alimentaria severa con episodios de hiperfagia compensatoria.",
+          "Ausencia de miedo intenso a ganar peso.",
+          "Ganancia de peso repentina tras una dieta restrictiva."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "anorexia_atípica"],
+        "feedback": "En la anorexia nerviosa atípica, los pacientes presentan pérdida de peso significativa, pero mantienen un peso dentro del rango normal o incluso por encima de este."
+      },
+      {
+        "enunciado": "En la anorexia nerviosa atípica, ¿qué diferencia principal existe respecto a la anorexia nerviosa clásica?",
+        "opciones": [
+          "Los pacientes con anorexia nerviosa atípica no presentan conductas de restricción alimentaria.",
+          "El índice de masa corporal (IMC) no cae por debajo de 18.5, aunque hay pérdida significativa de peso.",
+          "La anorexia nerviosa atípica está asociada exclusivamente con la adolescencia temprana.",
+          "No se observa distorsión de la imagen corporal en la anorexia nerviosa atípica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema39", "trastornos_conducta", "anorexia_atípica"],
+        "feedback": "En la anorexia nerviosa atípica, a pesar de la pérdida de peso significativa, el IMC puede mantenerse dentro de un rango normal, lo que la diferencia de la anorexia nerviosa clásica."
+      },
+      {
+        "enunciado": "En el diagnóstico de bulimia nerviosa atípica, ¿qué característica la distingue de la bulimia nerviosa típica?",
+        "opciones": [
+          "La ausencia de episodios de atracones recurrentes.",
+          "Conductas compensatorias que no cumplen con la frecuencia establecida en los criterios diagnósticos.",
+          "Peso corporal por debajo del rango normal.",
+          "Presencia de atracones sin malestar psicológico asociado."
+        ],
+        "correcta": 1,
+        "categorías": ["tema39", "trastornos_conducta", "bulimia_atípica"],
+        "feedback": "En la bulimia nerviosa atípica, las conductas compensatorias o los atracones no cumplen con la frecuencia o duración mínima establecida en los criterios diagnósticos estándar."
+      },
+      {
+        "enunciado": "¿Qué factor psicológico común se encuentra en pacientes con anorexia nerviosa atípica y bulimia nerviosa atípica?",
+        "opciones": [
+          "Ausencia de perfeccionismo y necesidad de control.",
+          "Dificultades para experimentar culpa tras los episodios de atracón.",
+          "Presencia de miedo intenso a ganar peso o a perder el control sobre la alimentación.",
+          "Baja autoestima sin relación con la imagen corporal."
+        ],
+        "correcta": 2,
+        "categorías": ["tema39", "trastornos_conducta", "anorexia_atípica", "bulimia_atípica"],
+        "feedback": "El miedo intenso a ganar peso o perder el control sobre la alimentación es un factor común en ambas variantes atípicas, a pesar de las diferencias en los criterios diagnósticos."
+      },
+      {
+        "enunciado": "En la anorexia nerviosa atípica, ¿qué complicación médica es más probable, incluso si el peso corporal es normal?",
+        "opciones": [
+          "Bradicardia debido a la restricción alimentaria severa.",
+          "Hiperkalemia causada por vómitos autoinducidos frecuentes.",
+          "Ganancia de peso súbita por un desbalance hormonal.",
+          "Hipertensión secundaria al estrés alimentario."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "anorexia_atípica"],
+        "feedback": "A pesar de un peso corporal normal, la bradicardia puede aparecer debido a la restricción calórica severa y prolongada, característica de la anorexia nerviosa atípica."
+      },
+      {
+        "enunciado": "En la bulimia nerviosa atípica, ¿qué patrón compensatorio es menos común en comparación con la bulimia clásica?",
+        "opciones": [
+          "Vómitos autoinducidos.",
+          "Ejercicio excesivo como conducta compensatoria primaria.",
+          "Uso de laxantes de manera frecuente.",
+          "Restricción calórica severa tras los atracones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema39", "trastornos_conducta", "bulimia_atípica"],
+        "feedback": "En la bulimia nerviosa atípica, el ejercicio excesivo como conducta compensatoria puede ser menos común que los vómitos o el uso de laxantes."
+      },
+      {
+        "enunciado": "En pacientes con anorexia nerviosa atípica, ¿qué indicador puede predecir un peor pronóstico?",
+        "opciones": [
+          "Red de apoyo social amplia.",
+          "Mayor rigidez cognitiva y perfeccionismo extremo.",
+          "Presencia de atracones frecuentes sin conductas compensatorias.",
+          "Bajo nivel de insatisfacción corporal."
+        ],
+        "correcta": 1,
+        "categorías": ["tema39", "trastornos_conducta", "anorexia_atípica"],
+        "feedback": "La rigidez cognitiva y el perfeccionismo extremo son predictores de un peor pronóstico, ya que dificultan la flexibilidad necesaria para el tratamiento efectivo."
+      },
+      {
+        "enunciado": "¿Qué complicación médica se asocia comúnmente con bulimia nerviosa atípica debido al uso inconsistente de conductas compensatorias?",
+        "opciones": [
+          "Hipocalemia moderada a severa.",
+          "Hipoglucemia persistente.",
+          "Deshidratación secundaria a atracones frecuentes.",
+          "Alteración en la motilidad intestinal por abuso ocasional de laxantes."
+        ],
+        "correcta": 3,
+        "categorías": ["tema39", "trastornos_conducta", "bulimia_atípica"],
+        "feedback": "En la bulimia nerviosa atípica, el abuso ocasional de laxantes puede causar alteraciones en la motilidad intestinal, incluso si no es una conducta frecuente."
+      },
+      {
+        "enunciado": "¿Qué herramienta diagnóstica es útil para identificar anorexia nerviosa atípica en adolescentes?",
+        "opciones": [
+          "Escala de Actitudes Alimentarias (EAT-26).",
+          "Cuestionario de Alimentación Compulsiva (BES).",
+          "Body Shape Questionnaire (BSQ).",
+          "SCOFF para adolescentes."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Actitudes Alimentarias (EAT-26) ayuda a identificar patrones de restricción y conductas alimentarias problemáticas en adolescentes, incluyendo anorexia nerviosa atípica."
+      },
+      {
+        "enunciado": "En la bulimia nerviosa atípica, ¿qué intervención inicial suele ser más eficaz en el manejo psicológico?",
+        "opciones": [
+          "Terapia cognitivo-conductual focalizada en la regulación emocional.",
+          "Terapia de exposición gradual a alimentos temidos.",
+          "Psicoeducación sobre riesgos cardiovasculares inmediatos.",
+          "Intervención farmacológica con ansiolíticos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "tratamiento"],
+        "feedback": "La terapia cognitivo-conductual focalizada en la regulación emocional es efectiva para manejar los desencadenantes emocionales y los patrones de atracones."
+      },
+      {
+        "enunciado": "El GAD-7 se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad de la ansiedad generalizada.",
+          "Medir síntomas depresivos en atención primaria.",
+          "Detectar pensamientos automáticos negativos.",
+          "Identificar patrones de atracones en trastornos alimentarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El GAD-7 es una herramienta validada y ampliamente utilizada para evaluar la gravedad de los síntomas de ansiedad generalizada."
+      },
+      {
+        "enunciado": "El PHQ-9 es útil para:",
+        "opciones": [
+          "Medir la gravedad de los síntomas depresivos.",
+          "Evaluar los síntomas físicos relacionados con somatización.",
+          "Identificar distorsión de la imagen corporal.",
+          "Diagnosticar fobias específicas en entornos clínicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El PHQ-9 es una herramienta clave para medir la gravedad de los síntomas depresivos, especialmente en atención primaria."
+      },
+      {
+        "enunciado": "El Body Shape Questionnaire (BSQ) se utiliza para:",
+        "opciones": [
+          "Evaluar la distorsión de la imagen corporal.",
+          "Medir patrones de atracones en trastornos alimentarios.",
+          "Detectar síntomas de depresión en adolescentes.",
+          "Determinar la gravedad de la ansiedad generalizada."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BSQ mide la percepción distorsionada de la imagen corporal, un aspecto clave en los trastornos alimentarios."
+      },
+      {
+        "enunciado": "El cuestionario SCOFF se emplea para:",
+        "opciones": [
+          "Detectar riesgo de trastornos de la conducta alimentaria.",
+          "Evaluar ansiedad anticipatoria en trastornos de pánico.",
+          "Medir la calidad de vida en depresión.",
+          "Identificar síntomas físicos sin causa médica."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El cuestionario SCOFF es una herramienta breve y efectiva para identificar riesgo de trastornos de la conducta alimentaria en población general."
+      },
+      {
+        "enunciado": "El Inventario de Depresión de Beck (BDI-II) es útil para:",
+        "opciones": [
+          "Evaluar síntomas depresivos y distorsiones cognitivas.",
+          "Medir la intensidad de los síntomas de ansiedad.",
+          "Detectar síntomas físicos relacionados con somatización.",
+          "Evaluar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BDI-II evalúa síntomas depresivos y distorsiones cognitivas, siendo una herramienta fundamental en la evaluación de la depresión."
+      },
+      {
+        "enunciado": "El Índice de Severidad de Insomnio (ISI) se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad del insomnio y su impacto funcional.",
+          "Medir síntomas de ansiedad generalizada.",
+          "Detectar distorsión de la imagen corporal.",
+          "Evaluar síntomas depresivos leves."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El ISI mide la gravedad del insomnio y cómo este afecta la funcionalidad diaria, útil en trastornos como ansiedad y depresión."
+      },
+      {
+        "enunciado": "La Escala de Evaluación de la Actividad Global (GAF) se utiliza para:",
+        "opciones": [
+          "Medir el nivel de funcionalidad global en pacientes con trastornos mentales.",
+          "Evaluar la gravedad de los síntomas depresivos.",
+          "Identificar síntomas físicos asociados a somatización.",
+          "Determinar la intensidad de la ansiedad social."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La GAF mide la funcionalidad global de los pacientes, evaluando su capacidad para realizar actividades diarias en presencia de trastornos mentales."
+      },
+      {
+        "enunciado": "El Cuestionario de Alimentación Compulsiva (BES) es útil para:",
+        "opciones": [
+          "Identificar patrones de atracones en el trastorno por atracón.",
+          "Evaluar la distorsión de la imagen corporal.",
+          "Detectar ansiedad anticipatoria en trastornos de pánico.",
+          "Medir la calidad de vida en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BES es clave para evaluar patrones de atracones, proporcionando información para el diagnóstico y tratamiento del trastorno por atracón."
+      },
+      {
+        "enunciado": "La Escala de Desesperanza de Beck se utiliza para:",
+        "opciones": [
+          "Evaluar pensamientos negativos sobre el futuro y riesgo de suicidio.",
+          "Medir la intensidad de los síntomas de ansiedad.",
+          "Detectar distorsiones cognitivas específicas en pacientes con depresión.",
+          "Identificar trastornos de la conducta alimentaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Desesperanza de Beck mide pensamientos negativos sobre el futuro, un indicador importante de riesgo de suicidio."
+      },
+      {
+        "enunciado": "La Escala Multidimensional de Ansiedad para Niños (MASC) se emplea para:",
+        "opciones": [
+          "Evaluar diferentes dimensiones de la ansiedad en niños y adolescentes.",
+          "Medir la gravedad de la ansiedad social en adultos.",
+          "Detectar síntomas depresivos en la población geriátrica.",
+          "Identificar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La MASC evalúa múltiples dimensiones de la ansiedad en niños y adolescentes, proporcionando un perfil detallado de los síntomas."
+      },
+      {
+        "enunciado": "El PHQ-15 se utiliza para:",
+        "opciones": [
+          "Evaluar síntomas físicos relacionados con somatización.",
+          "Medir la gravedad de los síntomas depresivos.",
+          "Detectar la distorsión de la imagen corporal.",
+          "Determinar el riesgo de suicidio en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El PHQ-15 evalúa síntomas físicos que no tienen explicación médica clara, siendo útil en trastornos de somatización."
+      },
+      {
+        "enunciado": "La Escala de Edimburgo para la Depresión Posparto (EPDS) se emplea para:",
+        "opciones": [
+          "Evaluar la depresión en mujeres durante el posparto.",
+          "Medir síntomas depresivos en adolescentes.",
+          "Detectar ansiedad generalizada en adultos.",
+          "Evaluar distorsiones cognitivas en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La EPDS es una herramienta específica para detectar y medir la gravedad de la depresión posparto en mujeres."
+      },
+      {
+        "enunciado": "La Escala de Ansiedad Social de Liebowitz (LSAS) se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad de la ansiedad y evitación en situaciones sociales.",
+          "Medir los síntomas físicos relacionados con somatización.",
+          "Detectar pensamientos automáticos negativos en pacientes con depresión.",
+          "Identificar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La LSAS mide la ansiedad y evitación en situaciones sociales, siendo especialmente útil en el diagnóstico del trastorno de ansiedad social."
+      },
+      {
+        "enunciado": "El GAD-7 se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad de la ansiedad generalizada.",
+          "Medir síntomas depresivos en atención primaria.",
+          "Detectar pensamientos automáticos negativos.",
+          "Identificar patrones de atracones en trastornos alimentarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El GAD-7 es una herramienta validada y ampliamente utilizada para evaluar la gravedad de los síntomas de ansiedad generalizada."
+      },
+      {
+        "enunciado": "El PHQ-9 es útil para:",
+        "opciones": [
+          "Medir la gravedad de los síntomas depresivos.",
+          "Evaluar los síntomas físicos relacionados con somatización.",
+          "Identificar distorsión de la imagen corporal.",
+          "Diagnosticar fobias específicas en entornos clínicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El PHQ-9 es una herramienta clave para medir la gravedad de los síntomas depresivos, especialmente en atención primaria."
+      },
+      {
+        "enunciado": "El Body Shape Questionnaire (BSQ) se utiliza para:",
+        "opciones": [
+          "Evaluar la distorsión de la imagen corporal.",
+          "Medir patrones de atracones en trastornos alimentarios.",
+          "Detectar síntomas de depresión en adolescentes.",
+          "Determinar la gravedad de la ansiedad generalizada."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BSQ mide la percepción distorsionada de la imagen corporal, un aspecto clave en los trastornos alimentarios."
+      },
+      {
+        "enunciado": "El cuestionario SCOFF se emplea para:",
+        "opciones": [
+          "Detectar riesgo de trastornos de la conducta alimentaria.",
+          "Evaluar ansiedad anticipatoria en trastornos de pánico.",
+          "Medir la calidad de vida en depresión.",
+          "Identificar síntomas físicos sin causa médica."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El cuestionario SCOFF es una herramienta breve y efectiva para identificar riesgo de trastornos de la conducta alimentaria en población general."
+      },
+      {
+        "enunciado": "El Inventario de Depresión de Beck (BDI-II) es útil para:",
+        "opciones": [
+          "Evaluar síntomas depresivos y distorsiones cognitivas.",
+          "Medir la intensidad de los síntomas de ansiedad.",
+          "Detectar síntomas físicos relacionados con somatización.",
+          "Evaluar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BDI-II evalúa síntomas depresivos y distorsiones cognitivas, siendo una herramienta fundamental en la evaluación de la depresión."
+      },
+      {
+        "enunciado": "El Índice de Severidad de Insomnio (ISI) se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad del insomnio y su impacto funcional.",
+          "Medir síntomas de ansiedad generalizada.",
+          "Detectar distorsión de la imagen corporal.",
+          "Evaluar síntomas depresivos leves."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El ISI mide la gravedad del insomnio y cómo este afecta la funcionalidad diaria, útil en trastornos como ansiedad y depresión."
+      },
+      {
+        "enunciado": "La Escala de Evaluación de la Actividad Global (GAF) se utiliza para:",
+        "opciones": [
+          "Medir el nivel de funcionalidad global en pacientes con trastornos mentales.",
+          "Evaluar la gravedad de los síntomas depresivos.",
+          "Identificar síntomas físicos asociados a somatización.",
+          "Determinar la intensidad de la ansiedad social."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La GAF mide la funcionalidad global de los pacientes, evaluando su capacidad para realizar actividades diarias en presencia de trastornos mentales."
+      },
+      {
+        "enunciado": "El Cuestionario de Alimentación Compulsiva (BES) es útil para:",
+        "opciones": [
+          "Identificar patrones de atracones en el trastorno por atracón.",
+          "Evaluar la distorsión de la imagen corporal.",
+          "Detectar ansiedad anticipatoria en trastornos de pánico.",
+          "Medir la calidad de vida en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El BES es clave para evaluar patrones de atracones, proporcionando información para el diagnóstico y tratamiento del trastorno por atracón."
+      },
+      {
+        "enunciado": "La Escala de Desesperanza de Beck se utiliza para:",
+        "opciones": [
+          "Evaluar pensamientos negativos sobre el futuro y riesgo de suicidio.",
+          "Medir la intensidad de los síntomas de ansiedad.",
+          "Detectar distorsiones cognitivas específicas en pacientes con depresión.",
+          "Identificar trastornos de la conducta alimentaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La Escala de Desesperanza de Beck mide pensamientos negativos sobre el futuro, un indicador importante de riesgo de suicidio."
+      },
+      {
+        "enunciado": "La Escala Multidimensional de Ansiedad para Niños (MASC) se emplea para:",
+        "opciones": [
+          "Evaluar diferentes dimensiones de la ansiedad en niños y adolescentes.",
+          "Medir la gravedad de la ansiedad social en adultos.",
+          "Detectar síntomas depresivos en la población geriátrica.",
+          "Identificar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La MASC evalúa múltiples dimensiones de la ansiedad en niños y adolescentes, proporcionando un perfil detallado de los síntomas."
+      },
+      {
+        "enunciado": "El PHQ-15 se utiliza para:",
+        "opciones": [
+          "Evaluar síntomas físicos relacionados con somatización.",
+          "Medir la gravedad de los síntomas depresivos.",
+          "Detectar la distorsión de la imagen corporal.",
+          "Determinar el riesgo de suicidio en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "El PHQ-15 evalúa síntomas físicos que no tienen explicación médica clara, siendo útil en trastornos de somatización."
+      },
+      {
+        "enunciado": "La Escala de Edimburgo para la Depresión Posparto (EPDS) se emplea para:",
+        "opciones": [
+          "Evaluar la depresión en mujeres durante el posparto.",
+          "Medir síntomas depresivos en adolescentes.",
+          "Detectar ansiedad generalizada en adultos.",
+          "Evaluar distorsiones cognitivas en pacientes con depresión."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La EPDS es una herramienta específica para detectar y medir la gravedad de la depresión posparto en mujeres."
+      },
+      {
+        "enunciado": "La Escala de Ansiedad Social de Liebowitz (LSAS) se utiliza para:",
+        "opciones": [
+          "Evaluar la gravedad de la ansiedad y evitación en situaciones sociales.",
+          "Medir los síntomas físicos relacionados con somatización.",
+          "Detectar pensamientos automáticos negativos en pacientes con depresión.",
+          "Identificar patrones de atracones en el trastorno por atracón."
+        ],
+        "correcta": 0,
+        "categorías": ["tema39", "trastornos_conducta", "herramientas_diagnósticas"],
+        "feedback": "La LSAS mide la ansiedad y evitación en situaciones sociales, siendo especialmente útil en el diagnóstico del trastorno de ansiedad social."
+      }                        
+]

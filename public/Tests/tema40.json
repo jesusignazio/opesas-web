@@ -1,0 +1,1406 @@
+[
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Proceso Asistencial Integrado para el Trastorno Mental Grave (PAI-TMG)?",
+        "opciones": [
+          "Brindar atención especializada exclusivamente en casos de emergencia.",
+          "Garantizar una atención integral y coordinada a personas con TMG.",
+          "Promover únicamente el uso de intervenciones farmacológicas.",
+          "Eliminar la necesidad de atención primaria en casos de TMG."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "salud_mental"],
+        "feedback": "El objetivo del PAI-TMG es proporcionar una atención integral que incluye aspectos biológicos, psicológicos y sociales para personas con trastornos mentales graves, integrando diversos recursos y profesionales."
+      },
+      {
+        "enunciado": "Según los criterios del PAI-TMG, ¿qué escalas se utilizan para evaluar la gravedad del trastorno?",
+        "opciones": [
+          "Escala de Ansiedad de Hamilton (HAM-A).",
+          "Escala de Evaluación Global del Funcionamiento (GAF), HONOS y BPRS.",
+          "Escala de Depresión de Beck (BDI).",
+          "Cuestionario de Salud General (GHQ)."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "El PAI-TMG emplea las escalas GAF, HONOS y BPRS para evaluar la gravedad del trastorno y establecer un diagnóstico más preciso."
+      },
+      {
+        "enunciado": "¿Qué diagnóstico CIE-10 está incluido dentro de los criterios del TMG?",
+        "opciones": [
+          "F00 - F09.",
+          "F10 - F19.",
+          "F20 - F31.",
+          "F40 - F48."
+        ],
+        "correcta": 2,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "Los diagnósticos incluidos para TMG según CIE-10 son F20-F31, que abarcan trastornos como la esquizofrenia y el trastorno afectivo bipolar."
+      },
+      {
+        "enunciado": "¿Cuál es la característica clave de los trastornos esquizoafectivos (F25)?",
+        "opciones": [
+          "Presencia de síntomas exclusivamente esquizofrénicos.",
+          "Síntomas afectivos y esquizofrénicos de igual relevancia.",
+          "Delirios persistentes sin componente afectivo.",
+          "Inicio repentino de síntomas psicóticos breves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "diagnóstico"],
+        "feedback": "Los trastornos esquizoafectivos se caracterizan por la coexistencia significativa de síntomas afectivos y esquizofrénicos."
+      },
+      {
+        "enunciado": "¿Qué modelo de intervención se recomienda para casos de alta complejidad en el tratamiento del TMG?",
+        "opciones": [
+          "Modelo de Tratamiento Asertivo Comunitario (TAC).",
+          "Terapia Cognitivo-Conductual.",
+          "Hospitalización prolongada.",
+          "Consulta de seguimiento en atención primaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "El modelo de Tratamiento Asertivo Comunitario (TAC) es eficaz para casos complejos, ya que permite un seguimiento intensivo y personalizado."
+      },
+      {
+        "enunciado": "¿Cuál es un factor que contribuye al exceso de mortalidad en personas con TMG?",
+        "opciones": [
+          "Mayor acceso a tratamientos médicos.",
+          "Mejor calidad de vida.",
+          "Enfermedades físicas no tratadas adecuadamente.",
+          "Menor incidencia de trastornos metabólicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema40", "trastorno_mental", "salud_física"],
+        "feedback": "El exceso de mortalidad en personas con TMG está relacionado con enfermedades físicas no tratadas y una atención médica insuficiente."
+      },
+      {
+        "enunciado": "¿Qué intervención psicosocial es clave para mejorar las redes de apoyo en pacientes con TMG?",
+        "opciones": [
+          "Psicoterapia individual.",
+          "Grupos de Apoyo Mutuo (GAM).",
+          "Hospitalización involuntaria.",
+          "Terapia farmacológica intensiva."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones_psicosociales"],
+        "feedback": "Los Grupos de Apoyo Mutuo fortalecen las redes sociales y promueven la recuperación en personas con TMG."
+      },
+      {
+        "enunciado": "Según el III Plan Integral de Salud Mental de Andalucía, ¿qué principio ético guía las intervenciones?",
+        "opciones": [
+          "Eficiencia económica.",
+          "Evidencia científica únicamente.",
+          "Autonomía y derechos humanos.",
+          "Reducción de costos hospitalarios."
+        ],
+        "correcta": 2,
+        "categorías": ["tema40", "trastorno_mental", "principios_éticos"],
+        "feedback": "El III Plan Integral de Salud Mental prioriza la autonomía y los derechos humanos, en línea con la Convención sobre los Derechos de las Personas con Discapacidad."
+      },
+      {
+        "enunciado": "¿Qué tipo de trastornos incluye la categoría F30-F39 en la CIE-10?",
+        "opciones": [
+          "Trastornos del estado del ánimo.",
+          "Trastornos de la personalidad.",
+          "Trastornos de ansiedad generalizada.",
+          "Trastornos psicóticos agudos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "La categoría F30-F39 incluye trastornos del estado del ánimo, como el trastorno bipolar y episodios depresivos."
+      },
+      {
+        "enunciado": "¿Qué factor es esencial para la detección temprana del TMG según el PAI?",
+        "opciones": [
+          "Diagnóstico exclusivo en hospitales psiquiátricos.",
+          "Colaboración entre Atención Primaria y Unidades de Salud Mental Comunitaria.",
+          "Focalizarse únicamente en síntomas físicos.",
+          "Evitar evaluaciones multidisciplinarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "detección"],
+        "feedback": "La detección temprana del TMG requiere una colaboración activa entre Atención Primaria y las Unidades de Salud Mental Comunitaria."
+      },
+      {
+        "enunciado": "¿Qué característica define a los trastornos delirantes persistentes (F22)?",
+        "opciones": [
+          "Alucinaciones visuales como síntoma principal.",
+          "Delirios prolongados sin síntomas afectivos ni esquizofrénicos significativos.",
+          "Inicio brusco y resolución rápida de los síntomas.",
+          "Predominio de síntomas afectivos como la manía o depresión."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "diagnóstico"],
+        "feedback": "Los trastornos delirantes persistentes se caracterizan por la presencia de delirios prolongados como único o principal síntoma clínico, sin relación con otros trastornos psicóticos o afectivos."
+      },
+      {
+        "enunciado": "¿Cuál es un objetivo fundamental de los Planes Individualizados de Tratamiento (PIT) para personas con TMG?",
+        "opciones": [
+          "Maximizar la hospitalización prolongada.",
+          "Establecer metas de tratamiento compartidas con el paciente y sus familiares.",
+          "Priorizar exclusivamente los aspectos farmacológicos del tratamiento.",
+          "Eliminar la intervención psicosocial en los cuidados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "El PIT busca involucrar activamente a la persona con TMG y sus familiares en la definición de objetivos terapéuticos, garantizando un enfoque multidisciplinario."
+      },
+      {
+        "enunciado": "¿Qué tasa de prevalencia global de TMG por 1000 habitantes se reporta en Andalucía según el PAI?",
+        "opciones": [
+          "1,2 personas por cada 1000 habitantes.",
+          "2,4 personas por cada 1000 habitantes.",
+          "5 personas por cada 1000 habitantes.",
+          "3,5 personas por cada 1000 habitantes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "estadísticas"],
+        "feedback": "La prevalencia de TMG en Andalucía es de 2,4 personas por cada 1000 habitantes, una cifra cercana a los valores reportados en la literatura internacional."
+      },
+      {
+        "enunciado": "¿Qué principio clave orienta las estrategias del III Plan Integral de Salud Mental en relación con el estigma?",
+        "opciones": [
+          "Reforzar los estereotipos para mejorar el control de los pacientes.",
+          "Reducir el estigma mediante programas educativos y de inclusión.",
+          "Enfocar los recursos únicamente en la atención médica hospitalaria.",
+          "Limitar la participación comunitaria en programas de salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "derechos_humanos"],
+        "feedback": "El III Plan Integral de Salud Mental enfatiza la importancia de reducir el estigma a través de la educación, la inclusión social y el apoyo a los derechos humanos de las personas con TMG."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diagnósticos NO forma parte de los criterios para TMG en el PAI?",
+        "opciones": [
+          "F20 Esquizofrenia.",
+          "F23 Trastornos psicóticos agudos y transitorios.",
+          "F29 Psicosis no orgánica no especificada.",
+          "F40 Trastornos fóbicos de ansiedad."
+        ],
+        "correcta": 3,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "Los trastornos fóbicos (F40) no están incluidos en los criterios diagnósticos del TMG, que se enfocan en psicosis y trastornos afectivos graves."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de disminución de ingresos hospitalarios se reporta en Andalucía gracias al trabajo comunitario en TMG?",
+        "opciones": [
+          "10%",
+          "18%",
+          "25%",
+          "30%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "atención_comunitaria"],
+        "feedback": "El trabajo comunitario en salud mental ha contribuido a una disminución del 18% en los ingresos hospitalarios en Andalucía, promoviendo la atención cercana y accesible."
+      },
+      {
+        "enunciado": "¿Qué elemento clave se incluye en las intervenciones sociales del PIT para personas con TMG?",
+        "opciones": [
+          "Programas de apoyo mutuo y lucha contra el estigma.",
+          "Incremento de la medicación para control inmediato.",
+          "Hospitalización obligatoria de larga duración.",
+          "Reducción del acceso a recursos comunitarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones_psicosociales"],
+        "feedback": "El PIT incorpora programas de apoyo mutuo y estrategias para combatir el estigma, lo cual es esencial para la integración social de las personas con TMG."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de las intervenciones tempranas en psicosis según el PAI?",
+        "opciones": [
+          "Aumentar la duración de la psicosis no tratada.",
+          "Reducir la duración de la psicosis no tratada mediante evaluación y atención rápida.",
+          "Evitar la atención médica inicial hasta que los síntomas sean graves.",
+          "Focalizar exclusivamente en aspectos farmacológicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "detección"],
+        "feedback": "Las intervenciones tempranas buscan reducir la duración de la psicosis no tratada, proporcionando una atención integral desde las primeras etapas."
+      },
+      {
+        "enunciado": "Según el PAI, ¿qué tipo de evaluación se recomienda realizar en un plazo máximo de dos meses para personas con TMG?",
+        "opciones": [
+          "Evaluación psicológica y ocupacional.",
+          "Valoración multidisciplinaria integral.",
+          "Evaluación farmacológica exclusiva.",
+          "Análisis genético para determinar predisposición."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "El PAI establece que la valoración multidisciplinaria integral debe realizarse en un plazo máximo de dos meses para garantizar una intervención adecuada."
+      },
+      {
+        "enunciado": "¿Qué aspecto relacionado con la salud física debe ser vigilado anualmente en personas con TMG según el PAI?",
+        "opciones": [
+          "Enfermedades cardiovasculares, obesidad y efectos secundarios de la medicación.",
+          "Solo los niveles de glucosa en sangre.",
+          "Exclusivamente el índice de masa corporal (IMC).",
+          "Ningún aspecto, ya que no es prioridad del PAI."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "salud_física"],
+        "feedback": "El PAI recomienda monitorear enfermedades cardiovasculares, obesidad y efectos secundarios de la medicación en personas con TMG, como parte de un enfoque integral de atención."
+      },
+      {
+        "enunciado": "¿Cuál es la definición operativa de trastorno mental grave según el Proceso Asistencial Integrado del Sistema Sanitario Público de Andalucía (SSPA)?",
+        "opciones": [
+          "Trastornos mentales orgánicos con síntomas transitorios.",
+          "Trastornos con alteración grave en el funcionamiento personal y social, y una evolución prolongada.",
+          "Cualquier trastorno psicológico que cause malestar significativo durante un mes.",
+          "Trastornos que únicamente requieren tratamiento farmacológico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "definición"],
+        "feedback": "El trastorno mental grave en el contexto del SSPA se caracteriza por un impacto severo en la funcionalidad personal y social, así como por su curso prolongado en el tiempo."
+      },
+      {
+        "enunciado": "¿Qué intervenciones se consideran fundamentales en el modelo de atención comunitaria para personas con trastorno mental grave en Andalucía?",
+        "opciones": [
+          "Hospitalización psiquiátrica prolongada como única estrategia.",
+          "Intervenciones psicosociales, apoyo a la familia y coordinación intersectorial.",
+          "Terapias exclusivas de psicoanálisis.",
+          "Tratamientos basados exclusivamente en medicación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "El modelo comunitario en Andalucía incluye intervenciones psicosociales, apoyo familiar y coordinación entre sectores como salud, educación y trabajo."
+      },
+      {
+        "enunciado": "¿Qué recursos públicos se destacan en la red de atención a la salud mental del Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+          "Únicamente hospitales de alta especialización.",
+          "Unidades de Salud Mental Comunitaria (USMC), hospitales de día y dispositivos residenciales.",
+          "Solo servicios de emergencia psiquiátrica.",
+          "Centros privados con apoyo público."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "recursos"],
+        "feedback": "La red de atención a la salud mental en Andalucía incluye USMC, hospitales de día y dispositivos residenciales, promoviendo una atención comunitaria e integral."
+      },
+      {
+        "enunciado": "¿Qué diagnóstico según la Clasificación Internacional de Enfermedades (CIE-10) se incluye en los criterios del trastorno mental grave?",
+        "opciones": [
+          "Trastornos por uso de sustancias (F10-F19).",
+          "Trastornos esquizotípicos, delirantes y otros psicóticos no afectivos (F20-F29).",
+          "Trastornos neuróticos relacionados con el estrés (F40-F48).",
+          "Trastornos orgánicos (F00-F09)."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "El trastorno mental grave incluye trastornos como la esquizofrenia y otros psicóticos no afectivos (F20-F29) según la CIE-10."
+      },
+      {
+        "enunciado": "¿Qué población se identifica como vulnerable en el III Plan Integral de Salud Mental de Andalucía (2016-2020)?",
+        "opciones": [
+          "Personas con trastornos de ansiedad generalizada.",
+          "Niños, adolescentes y adultos en riesgo social o con trastornos mentales graves.",
+          "Únicamente personas mayores de 65 años con depresión.",
+          "Cualquier individuo que reciba tratamiento médico en un hospital."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "poblaciones_vulnerables"],
+        "feedback": "El III Plan Integral de Salud Mental identifica como vulnerables a niños, adolescentes y adultos en riesgo social o diagnosticados con trastornos mentales graves."
+      },
+      {
+        "enunciado": "¿Cuál es el enfoque principal de la atención a personas con trastorno mental grave según el modelo de recuperación de la Organización Mundial de la Salud?",
+        "opciones": [
+          "El tratamiento exclusivo de los síntomas psiquiátricos.",
+          "Fomentar la autonomía y participación activa de las personas afectadas.",
+          "La centralización del cuidado en unidades hospitalarias.",
+          "Evitar la interacción con el entorno social para proteger al paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "modelos_de_atención"],
+        "feedback": "El modelo de recuperación de la OMS promueve la autonomía, la esperanza y la participación activa de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "Según el III Plan Integral de Salud Mental de Andalucía, ¿qué principio guía la planificación de los servicios de salud mental?",
+        "opciones": [
+          "La equidad y la accesibilidad.",
+          "El predominio de tratamientos farmacológicos.",
+          "La centralización de los servicios en hospitales regionales.",
+          "La exclusión de familiares en el proceso de atención."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "planificación"],
+        "feedback": "La equidad y la accesibilidad son principios fundamentales en la planificación de los servicios de salud mental en Andalucía, garantizando el derecho universal a la atención."
+      },
+      {
+        "enunciado": "¿Qué evaluación se considera esencial para determinar el nivel de intensidad del tratamiento en personas con trastorno mental grave según el Proceso Asistencial Integrado en Andalucía?",
+        "opciones": [
+          "Evaluación de calidad de vida percibida por la persona.",
+          "Análisis genético para predisposición a enfermedades mentales.",
+          "Monitoreo exclusivo de efectos secundarios farmacológicos.",
+          "Pruebas de neuroimagen funcional."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "La evaluación de la calidad de vida percibida por la persona es clave para adaptar el tratamiento a sus necesidades específicas y garantizar un enfoque centrado en la recuperación."
+      },
+      {
+        "enunciado": "¿Qué programa se menciona en el III Plan Integral de Salud Mental de Andalucía para promover la inclusión laboral en personas con trastorno mental grave?",
+        "opciones": [
+          "Proyectos de integración socioeducativa.",
+          "Formación y empleo en contextos reales.",
+          "Hospitalización ocupacional prolongada.",
+          "Rehabilitación exclusivamente farmacológica."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "inclusión_laboral"],
+        "feedback": "El III Plan Integral destaca programas basados en formación y empleo en contextos reales como estrategias clave para la inclusión laboral de personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Qué acción clave se sugiere en el III Plan Integral de Salud Mental para prevenir el suicidio en Andalucía?",
+        "opciones": [
+          "Exclusivamente campañas publicitarias en medios masivos.",
+          "Implementación de intervenciones intersectoriales con enfoque preventivo.",
+          "Reducir la atención comunitaria.",
+          "Fomentar el aislamiento de personas en riesgo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "prevención"],
+        "feedback": "El III Plan Integral propone acciones intersectoriales con un enfoque preventivo como estrategia fundamental para abordar el riesgo de suicidio."
+      },
+      {
+        "enunciado": "¿Qué enfoque propone el III Plan Integral de Salud Mental de Andalucía para abordar el riesgo de suicidio en personas con trastorno mental grave?",
+        "opciones": [
+          "Desarrollar protocolos estandarizados para atención en crisis.",
+          "Implementar intervenciones basadas en terapias farmacológicas únicamente.",
+          "Centralizar los servicios de prevención en hospitales especializados.",
+          "Limitar las redes de apoyo para concentrar los recursos en la atención individual."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "prevención"],
+        "feedback": "El III Plan Integral de Salud Mental de Andalucía aboga por desarrollar protocolos de atención en crisis y planes de intervención personalizados para prevenir el suicidio."
+      },
+      {
+        "enunciado": "Según el modelo comunitario del Sistema Sanitario Público de Andalucía, ¿cuál es un objetivo prioritario en la atención a personas con trastorno mental grave?",
+        "opciones": [
+          "Fomentar su hospitalización en unidades de larga estancia.",
+          "Promover la autonomía personal y la inclusión en la comunidad.",
+          "Sustituir intervenciones psicosociales por farmacológicas.",
+          "Reducir la participación familiar en los planes de tratamiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "modelo_comunitario"],
+        "feedback": "El modelo comunitario busca fomentar la autonomía personal y la inclusión de las personas con trastorno mental grave en su entorno social."
+      },
+      {
+        "enunciado": "¿Qué aspecto diferencial presenta el Plan Individualizado de Tratamiento (PIT) en el Proceso Asistencial Integrado para el trastorno mental grave en Andalucía?",
+        "opciones": [
+          "El PIT es diseñado exclusivamente por profesionales médicos.",
+          "Incluye la participación activa de la persona y sus familiares en las decisiones terapéuticas.",
+          "Su objetivo principal es aumentar la hospitalización prolongada.",
+          "Se centra únicamente en el manejo farmacológico del trastorno."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "El PIT se diferencia por incluir a la persona afectada y a su familia en el diseño de estrategias terapéuticas, promoviendo la toma de decisiones compartida."
+      },
+      {
+        "enunciado": "En el contexto del Proceso Asistencial Integrado, ¿qué escalas se utilizan para determinar la inclusión de un paciente en el programa de atención al trastorno mental grave?",
+        "opciones": [
+          "Escalas de Zung y de Ansiedad de Hamilton (HAM-A).",
+          "Escalas GAF, HONOS y BPRS.",
+          "Escala de Depresión de Beck (BDI) y Cuestionario de Salud General (GHQ).",
+          "Escalas CAGE y CIWA-Ar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "El uso de las escalas GAF, HONOS y BPRS permite evaluar de manera estructurada el nivel de funcionalidad y síntomas para determinar la inclusión en el programa."
+      },
+      {
+        "enunciado": "¿Qué característica clave diferencia a los trastornos esquizoafectivos (F25) dentro de los criterios del trastorno mental grave según la Clasificación Internacional de Enfermedades (CIE-10)?",
+        "opciones": [
+          "La predominancia de síntomas exclusivamente esquizofrénicos.",
+          "La coexistencia significativa de síntomas afectivos y esquizofrénicos.",
+          "El inicio súbito con resolución completa de los síntomas en menos de un mes.",
+          "La presencia de delirios persistentes sin alteraciones del estado de ánimo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "Los trastornos esquizoafectivos se caracterizan por la coexistencia significativa y simultánea de síntomas afectivos y esquizofrénicos."
+      },
+      {
+        "enunciado": "Dentro de la red de atención a la salud mental del Sistema Sanitario Público de Andalucía, ¿qué función tienen las Unidades de Salud Mental Comunitaria (USMC)?",
+        "opciones": [
+          "Proveer únicamente atención hospitalaria especializada.",
+          "Coordinar los tratamientos en el ámbito comunitario, incluyendo rehabilitación psicosocial.",
+          "Centralizar el diagnóstico inicial en pacientes con trastornos leves.",
+          "Ofrecer servicios exclusivamente para tratamiento farmacológico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "recursos"],
+        "feedback": "Las USMC tienen un rol central en la atención comunitaria, coordinando tratamientos multidisciplinarios y promoviendo la rehabilitación psicosocial."
+      },
+      {
+        "enunciado": "En el III Plan Integral de Salud Mental de Andalucía, ¿qué estrategia se propone para mejorar la accesibilidad en la atención a personas con trastorno mental grave?",
+        "opciones": [
+          "Incrementar los tiempos de espera para favorecer la derivación a unidades especializadas.",
+          "Desarrollar dispositivos de atención comunitaria y seguimiento intensivo.",
+          "Concentrar los recursos en hospitales regionales y urbanos.",
+          "Eliminar las intervenciones en redes de apoyo social para optimizar costos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "accesibilidad"],
+        "feedback": "El III Plan Integral promueve dispositivos de atención comunitaria y programas de seguimiento intensivo como estrategias para mejorar la accesibilidad."
+      },
+      {
+        "enunciado": "En el modelo de recuperación promovido por el III Plan Integral de Salud Mental de Andalucía, ¿qué se considera un factor central para la recuperación en personas con trastorno mental grave?",
+        "opciones": [
+          "La dependencia total de servicios médicos especializados.",
+          "La autodeterminación y el apoyo mutuo.",
+          "El enfoque exclusivo en intervenciones farmacológicas.",
+          "La ausencia de participación en redes comunitarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "modelo_de_recuperación"],
+        "feedback": "El modelo de recuperación destaca la importancia de la autodeterminación y el apoyo mutuo para fomentar la autonomía y la inclusión social de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Qué diferencia principal se observa en el abordaje de los trastornos del estado del ánimo (F30-F39) frente a los trastornos psicóticos (F20-F29) en el contexto del Proceso Asistencial Integrado en Andalucía?",
+        "opciones": [
+          "Los trastornos del estado del ánimo incluyen mayor énfasis en la rehabilitación laboral.",
+          "Los trastornos psicóticos no requieren de intervenciones familiares.",
+          "Los trastornos del estado del ánimo tienen una mayor tasa de remisión completa.",
+          "Los trastornos psicóticos son manejados exclusivamente en ambientes hospitalarios."
+        ],
+        "correcta": 2,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "En general, los trastornos del estado del ánimo muestran una mayor tasa de remisión completa, mientras que los trastornos psicóticos suelen requerir abordajes prolongados."
+      },
+      {
+        "enunciado": "¿Qué estrategia sugiere el III Plan Integral de Salud Mental de Andalucía para mejorar la calidad de vida en personas con trastorno mental grave?",
+        "opciones": [
+          "Focalizar las intervenciones exclusivamente en síntomas psiquiátricos.",
+          "Integrar programas de formación, empleo y redes de apoyo social.",
+          "Reducir la atención comunitaria para priorizar el manejo farmacológico.",
+          "Limitar la participación del paciente en la planificación de su tratamiento."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "calidad_de_vida"],
+        "feedback": "El III Plan Integral aboga por integrar formación, empleo y redes de apoyo social para mejorar la calidad de vida y la autonomía en personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Cuál es un criterio esencial para diagnosticar a una persona con trastorno mental grave en el Proceso Asistencial Integrado del Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+          "La presencia de un episodio único de ansiedad severa.",
+          "Alteraciones graves en la funcionalidad social y personal con una evolución prolongada.",
+          "Un historial de abuso de sustancias psicoactivas.",
+          "La existencia de síntomas físicos asociados a un trastorno mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "criterios_diagnósticos"],
+        "feedback": "El diagnóstico de trastorno mental grave requiere identificar alteraciones significativas en la funcionalidad social y personal, acompañadas de un curso prolongado."
+      },
+      {
+        "enunciado": "Según el Proceso Asistencial Integrado en Andalucía, ¿qué intervenciones se consideran prioritarias para personas con trastorno mental grave?",
+        "opciones": [
+          "Programas de hospitalización a largo plazo sin integración comunitaria.",
+          "Terapias combinadas de rehabilitación psicosocial, apoyo familiar y atención médica integral.",
+          "Focalizar exclusivamente en el manejo farmacológico sin intervención psicosocial.",
+          "Proporcionar únicamente terapias psicológicas breves y esporádicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "Las intervenciones prioritarias incluyen una combinación de rehabilitación psicosocial, apoyo familiar y atención médica integral, promoviendo un modelo de atención comunitaria."
+      },
+      {
+        "enunciado": "¿Qué aspecto diferencia el abordaje en los hospitales de día para personas con trastorno mental grave en el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+          "Enfoque exclusivo en tratamientos farmacológicos intensivos.",
+          "Ofrecen un espacio terapéutico que permite la continuidad de la vida comunitaria.",
+          "Restricción al acceso de pacientes con trastornos del estado del ánimo.",
+          "Proporcionan únicamente atención para crisis agudas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "recursos"],
+        "feedback": "Los hospitales de día combinan intervenciones terapéuticas mientras permiten a las personas mantener su conexión con el entorno comunitario, facilitando la integración social."
+      },
+      {
+        "enunciado": "En el III Plan Integral de Salud Mental de Andalucía, ¿qué acción es clave para prevenir la cronificación de los trastornos mentales graves?",
+        "opciones": [
+          "Evitar intervenciones multidisciplinarias.",
+          "Priorizar el diagnóstico temprano y el tratamiento integral.",
+          "Fomentar el aislamiento para reducir el impacto social.",
+          "Centrar los esfuerzos en tratamientos farmacológicos únicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "prevención"],
+        "feedback": "El III Plan Integral destaca la importancia del diagnóstico temprano y el tratamiento integral para prevenir la cronificación de los trastornos mentales graves."
+      },
+      {
+        "enunciado": "En el marco del Proceso Asistencial Integrado del trastorno mental grave, ¿cuál es la principal utilidad de la escala GAF (Global Assessment of Functioning)?",
+        "opciones": [
+          "Medir la intensidad de los síntomas psicóticos.",
+          "Evaluar el nivel de funcionamiento global en áreas sociales, laborales y personales.",
+          "Determinar exclusivamente el nivel de ansiedad del paciente.",
+          "Identificar la necesidad de intervención farmacológica inmediata."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "La escala GAF mide el nivel de funcionamiento global en áreas clave, proporcionando una visión integral del impacto del trastorno en la vida del paciente."
+      },
+      {
+        "enunciado": "En el contexto del III Plan Integral de Salud Mental de Andalucía, ¿qué se prioriza en la atención a personas con trastorno mental grave y comorbilidad física?",
+        "opciones": [
+          "La atención exclusiva en unidades psiquiátricas cerradas.",
+          "El manejo integrado de la salud física y mental, incluyendo la colaboración con atención primaria.",
+          "La derivación a especialistas en salud mental sin interacción con otros servicios médicos.",
+          "El monitoreo periódico únicamente de los síntomas psiquiátricos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "integración"],
+        "feedback": "El manejo integrado de la salud física y mental, junto con la colaboración con atención primaria, es clave para garantizar una atención holística en personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Qué rol desempeñan las redes de apoyo mutuo según las estrategias del III Plan Integral de Salud Mental en Andalucía?",
+        "opciones": [
+          "Proveer exclusivamente atención profesional para la rehabilitación.",
+          "Favorecer la autonomía y la integración social mediante el apoyo entre iguales.",
+          "Sustituir los tratamientos médicos en el ámbito comunitario.",
+          "Focalizarse en la reducción de los costos asociados a la atención en salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "redes_de_apoyo"],
+        "feedback": "Las redes de apoyo mutuo promueven la autonomía y la integración social mediante el intercambio de experiencias y apoyo entre personas con condiciones similares."
+      },
+      {
+        "enunciado": "Según el III Plan Integral de Salud Mental, ¿cuál es un factor determinante para mejorar la continuidad asistencial en personas con trastorno mental grave?",
+        "opciones": [
+          "Reducir el enfoque en la colaboración intersectorial.",
+          "Establecer sistemas de coordinación entre salud mental, servicios sociales y empleo.",
+          "Priorizar tratamientos en unidades de alta especialización alejadas de las comunidades.",
+          "Enfocar las intervenciones exclusivamente en la etapa de crisis."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "continuidad_asistencial"],
+        "feedback": "La coordinación entre salud mental, servicios sociales y empleo es esencial para garantizar una atención continua y efectiva en personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "En el Proceso Asistencial Integrado del Sistema Sanitario Público de Andalucía, ¿qué se busca con el Plan Individualizado de Tratamiento (PIT) en personas con trastorno mental grave?",
+        "opciones": [
+          "Reducir la intervención de familiares en las decisiones terapéuticas.",
+          "Garantizar un tratamiento ajustado a las necesidades específicas del paciente y su contexto.",
+          "Enfocar exclusivamente en intervenciones farmacológicas.",
+          "Promover hospitalizaciones prolongadas como único recurso."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "planificación_terapéutica"],
+        "feedback": "El PIT busca personalizar las intervenciones según las necesidades del paciente, fomentando su autonomía y promoviendo la colaboración entre los profesionales, el paciente y su entorno."
+      },
+      {
+        "enunciado": "En relación con el abordaje del trastorno mental grave, ¿qué se incluye como un componente esencial en los programas de rehabilitación psicosocial?",
+        "opciones": [
+          "Aislamiento de las personas afectadas para evitar recaídas.",
+          "Fomentar la participación en actividades ocupacionales y educativas.",
+          "Reducción de las intervenciones familiares en el tratamiento.",
+          "Exclusivo enfoque en la administración de medicamentos antipsicóticos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "rehabilitación"],
+        "feedback": "Los programas de rehabilitación psicosocial incluyen actividades ocupacionales y educativas que promueven la integración social y el desarrollo personal de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los principios transversales del III Plan Integral de Salud Mental de Andalucía en relación con los derechos de las personas con trastorno mental grave?",
+        "opciones": [
+          "Promover la participación en todas las fases del proceso asistencial.",
+          "Limitar las decisiones compartidas a situaciones de crisis aguda.",
+          "Focalizar exclusivamente en el tratamiento médico especializado.",
+          "Sustituir los programas comunitarios por hospitalización prolongada."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "derechos_humanos"],
+        "feedback": "El III Plan Integral de Salud Mental enfatiza la participación activa de las personas con trastorno mental grave en todas las fases de su tratamiento como parte de un enfoque basado en derechos."
+      },
+      {
+        "enunciado": "¿Qué herramienta del Sistema Sanitario Público de Andalucía permite reducir la variabilidad en la atención al trastorno mental grave?",
+        "opciones": [
+          "El uso de protocolos estandarizados de contención mecánica.",
+          "El Proceso Asistencial Integrado (PAI).",
+          "La restricción de intervenciones a terapias farmacológicas.",
+          "La priorización de tratamientos exclusivamente en hospitales de referencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "planificación_asistencial"],
+        "feedback": "El Proceso Asistencial Integrado (PAI) reduce la variabilidad en la atención al trastorno mental grave mediante la implementación de guías basadas en evidencia y protocolos homogéneos."
+      },
+      {
+        "enunciado": "En el marco del III Plan Integral de Salud Mental de Andalucía, ¿qué acción se recomienda para abordar el estigma asociado al trastorno mental grave?",
+        "opciones": [
+          "Implementar programas de sensibilización en el ámbito comunitario.",
+          "Focalizar la atención exclusivamente en el entorno hospitalario.",
+          "Restringir el acceso a las redes de apoyo social.",
+          "Priorizar el tratamiento individualizado sin contacto con otros pacientes."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "estigma"],
+        "feedback": "Los programas de sensibilización comunitaria son esenciales para combatir el estigma asociado al trastorno mental grave y fomentar la inclusión social."
+      },
+      {
+        "enunciado": "¿Qué componente esencial debe incluirse en la valoración inicial de una persona con trastorno mental grave según el Proceso Asistencial Integrado?",
+        "opciones": [
+          "Exclusivo análisis farmacológico del paciente.",
+          "Evaluación psicológica, social y ocupacional.",
+          "Restricción a la evaluación médica sin considerar el entorno.",
+          "Diagnóstico basado únicamente en autoinformes del paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "evaluación"],
+        "feedback": "La valoración inicial debe ser integral, abarcando dimensiones psicológicas, sociales y ocupacionales para establecer un plan de tratamiento adecuado."
+      },
+      {
+        "enunciado": "¿Qué se entiende por tratamiento asertivo comunitario en el abordaje del trastorno mental grave?",
+        "opciones": [
+          "Hospitalización permanente con un equipo multidisciplinario.",
+          "Seguimiento intensivo en el entorno natural del paciente con un equipo especializado.",
+          "Focalización en el uso exclusivo de intervenciones farmacológicas.",
+          "Atención en unidades de día sin integración comunitaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones_comunitarias"],
+        "feedback": "El tratamiento asertivo comunitario se caracteriza por un seguimiento intensivo en el entorno del paciente, con la participación de un equipo multidisciplinario."
+      },
+      {
+        "enunciado": "En el contexto del III Plan Integral de Salud Mental, ¿qué objetivo persiguen los programas de psicoeducación para familiares de personas con trastorno mental grave?",
+        "opciones": [
+          "Reducir la participación familiar en el tratamiento.",
+          "Proporcionar herramientas para manejar el impacto del trastorno y fomentar el apoyo activo.",
+          "Fomentar la dependencia exclusiva de los servicios hospitalarios.",
+          "Enseñar técnicas de contención física para el manejo de crisis."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "psicoeducación"],
+        "feedback": "Los programas de psicoeducación tienen como objetivo empoderar a los familiares, proporcionándoles herramientas para apoyar eficazmente a la persona afectada."
+      },
+      {
+        "enunciado": "En el modelo de atención comunitaria del Sistema Sanitario Público de Andalucía, ¿qué acción se considera clave para la rehabilitación de personas con trastorno mental grave?",
+        "opciones": [
+          "Concentrar todos los servicios en entornos hospitalarios.",
+          "Facilitar la integración laboral y social a través de programas específicos.",
+          "Evitar el uso de redes de apoyo externo al sistema de salud.",
+          "Limitar las intervenciones terapéuticas al ámbito individual."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "rehabilitación"],
+        "feedback": "La integración laboral y social mediante programas específicos es una acción central en el modelo comunitario, fomentando la recuperación y autonomía de las personas."
+      },
+      {
+        "enunciado": "Según el III Plan Integral de Salud Mental, ¿qué población se identifica como prioritaria para las estrategias de prevención e intervención temprana?",
+        "opciones": [
+          "Personas con trastornos de ansiedad generalizada.",
+          "Adolescentes y adultos jóvenes en riesgo de desarrollar trastornos mentales graves.",
+          "Individuos con diagnóstico confirmado de trastornos de la personalidad.",
+          "Pacientes mayores de 65 años con problemas crónicos de salud física."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "prevención"],
+        "feedback": "El III Plan Integral de Salud Mental identifica a adolescentes y adultos jóvenes en riesgo como una población prioritaria para la prevención e intervención temprana."
+      },
+      {
+        "enunciado": "¿Qué estrategia clave se menciona en el III Plan Integral de Salud Mental para reducir la medicalización en personas con trastorno mental grave?",
+        "opciones": [
+          "Fomentar intervenciones combinadas de terapia psicológica y programas psicosociales.",
+          "Eliminar por completo el uso de tratamientos farmacológicos.",
+          "Concentrar la atención en unidades hospitalarias para mayor control médico.",
+          "Promover exclusivamente el apoyo de grupos de autoayuda sin intervención profesional."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "trastorno_mental", "intervenciones"],
+        "feedback": "El III Plan Integral propone combinar terapias psicológicas y programas psicosociales para reducir la dependencia de tratamientos exclusivamente farmacológicos."
+      },
+      {
+        "enunciado": "En el Proceso Asistencial Integrado para el trastorno mental grave, ¿qué función tienen las intervenciones en el entorno social del paciente?",
+        "opciones": [
+          "Asegurar la exclusión social para evitar recaídas.",
+          "Fomentar la integración comunitaria y fortalecer redes de apoyo.",
+          "Restringir el acceso del paciente a recursos externos.",
+          "Centrar las intervenciones únicamente en el control farmacológico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "trastorno_mental", "entorno_social"],
+        "feedback": "Las intervenciones en el entorno social buscan fortalecer las redes de apoyo y fomentar la integración comunitaria como parte del enfoque integral de tratamiento."
+      },
+      {
+        "enunciado": "¿Cuál es la principal diferencia en el enfoque de las Unidades de Salud Mental Comunitaria (USMC) respecto a los hospitales de día dentro de la red pública de atención a la salud mental en Andalucía?",
+        "opciones": [
+          "Las USMC realizan intervenciones exclusivamente farmacológicas, mientras que los hospitales de día se centran en la atención psicoterapéutica.",
+          "Los hospitales de día proveen terapias intensivas en horario diurno, mientras que las USMC coordinan la atención integral en el entorno comunitario del paciente.",
+          "Las USMC operan en un marco hospitalario, mientras que los hospitales de día solo abordan casos de emergencia psiquiátrica.",
+          "Los hospitales de día están destinados exclusivamente a menores, mientras que las USMC atienden únicamente a adultos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "recursos"],
+        "feedback": "Los hospitales de día se enfocan en terapias intensivas durante el horario diurno, mientras que las USMC desempeñan un papel central en la coordinación de la atención integral del paciente dentro de su comunidad."
+      },
+      {
+        "enunciado": "En el contexto de la red pública de atención a la salud mental en Andalucía, ¿qué tipo de atención proporcionan los dispositivos residenciales gestionados por FAISEM?",
+        "opciones": [
+          "Atención exclusivamente médica a pacientes en crisis aguda.",
+          "Apoyo habitacional y rehabilitación psicosocial para personas con trastorno mental grave en proceso de integración comunitaria.",
+          "Intervenciones farmacológicas intensivas para trastornos resistentes al tratamiento.",
+          "Alojamientos temporales para personas con trastornos leves y sin necesidades terapéuticas específicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "recursos_residenciales"],
+        "feedback": "Los dispositivos residenciales gestionados por FAISEM están diseñados para ofrecer un entorno seguro y rehabilitador que facilite la integración social de personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "¿Qué estrategia clave se emplea en los Programas de Tratamiento Asertivo Comunitario (TAC) dentro de la red de atención a la salud mental en Andalucía?",
+        "opciones": [
+          "Centralizar los tratamientos en hospitales especializados.",
+          "Establecer un seguimiento intensivo en el entorno del paciente mediante un equipo multidisciplinario móvil.",
+          "Realizar exclusivamente intervenciones farmacológicas para pacientes con baja adherencia.",
+          "Promover la hospitalización de larga estancia en casos de riesgo social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "tratamiento_asertivo"],
+        "feedback": "Los TAC son equipos móviles que brindan atención intensiva y multidisciplinaria en el entorno del paciente, con el objetivo de reducir hospitalizaciones y favorecer la recuperación comunitaria."
+      },
+      {
+        "enunciado": "En el marco de la atención comunitaria en Andalucía, ¿qué función tienen los Equipos de Salud Mental Hospitalaria (ESMH)?",
+        "opciones": [
+          "Brindar atención a pacientes únicamente durante el horario laboral.",
+          "Coordinar la transición de pacientes entre unidades hospitalarias y recursos comunitarios.",
+          "Servir exclusivamente como centro de atención para pacientes con trastornos leves.",
+          "Implementar programas psicoeducativos para familias sin conexión con el tratamiento del paciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "transición_asistencial"],
+        "feedback": "Los ESMH tienen como función principal coordinar la continuidad de la atención entre el entorno hospitalario y los recursos comunitarios, facilitando la integración del paciente tras el alta."
+      },
+      {
+        "enunciado": "Dentro de la red pública de salud mental en Andalucía, ¿qué diferencia existe entre las Unidades de Hospitalización de Salud Mental (UHSM) y los hospitales de día?",
+        "opciones": [
+          "Las UHSM ofrecen un tratamiento intensivo en régimen de internamiento completo, mientras que los hospitales de día permiten al paciente regresar a su domicilio tras las sesiones terapéuticas.",
+          "Los hospitales de día solo atienden trastornos leves, mientras que las UHSM están destinadas a pacientes en riesgo bajo.",
+          "Las UHSM operan exclusivamente para adultos, mientras que los hospitales de día se centran en la atención infantil.",
+          "Los hospitales de día se especializan en la intervención farmacológica, mientras que las UHSM se centran en terapias psicoterapéuticas intensivas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "recursos"],
+        "feedback": "Las UHSM están diseñadas para pacientes que requieren tratamiento intensivo en régimen de internamiento, mientras que los hospitales de día permiten una continuidad terapéutica sin necesidad de ingreso."
+      },
+      {
+        "enunciado": "En la organización de la salud mental en Andalucía, ¿qué papel desempeñan los programas de apoyo domiciliario gestionados por la red pública?",
+        "opciones": [
+          "Sustituir completamente las visitas a los centros de salud mental.",
+          "Ofrecer apoyo a personas con trastorno mental grave para fomentar la autonomía en su entorno habitual.",
+          "Centralizar las intervenciones familiares sin participación del paciente.",
+          "Proporcionar tratamientos farmacológicos intensivos en el hogar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "apoyo_domiciliario"],
+        "feedback": "Los programas de apoyo domiciliario están orientados a proporcionar asistencia personalizada a personas con trastorno mental grave, promoviendo su autonomía y participación en la comunidad."
+      },
+      {
+        "enunciado": "En la red pública de atención a la salud mental en Andalucía, ¿qué servicios ofrecen los Centros de Día?",
+        "opciones": [
+          "Alojamiento temporal para pacientes en crisis aguda.",
+          "Actividades estructuradas de rehabilitación y apoyo social en horario diurno.",
+          "Tratamiento farmacológico intensivo para casos graves.",
+          "Unidades cerradas destinadas exclusivamente a la intervención en crisis."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "recursos"],
+        "feedback": "Los Centros de Día ofrecen actividades de rehabilitación y apoyo social durante el día, permitiendo al paciente mantener su integración comunitaria."
+      },
+      {
+        "enunciado": "En el modelo de salud mental en Andalucía, ¿cómo se facilita la integración social de personas con trastorno mental grave a través de FAISEM?",
+        "opciones": [
+          "Mediante hospitalizaciones prolongadas en dispositivos residenciales.",
+          "A través de programas de empleo protegido, apoyo habitacional y actividades de ocio inclusivo.",
+          "Ofreciendo tratamientos exclusivamente farmacológicos.",
+          "Proporcionando atención psiquiátrica individualizada sin actividades grupales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "integración_social"],
+        "feedback": "FAISEM facilita la integración social mediante empleo protegido, dispositivos habitacionales y actividades inclusivas que promueven la participación activa en la comunidad."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo de los dispositivos de media estancia en la red de salud mental de Andalucía?",
+        "opciones": [
+          "Proveer internamiento prolongado para personas con trastornos leves.",
+          "Ofrecer un recurso intermedio entre la hospitalización completa y la atención comunitaria, centrado en la recuperación funcional.",
+          "Focalizarse únicamente en la evaluación diagnóstica.",
+          "Proporcionar alojamiento sin intervención terapéutica activa."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "media_estancia"],
+        "feedback": "Los dispositivos de media estancia tienen como objetivo la recuperación funcional de las personas con trastorno mental grave, actuando como un recurso intermedio entre la hospitalización completa y la reintegración comunitaria."
+      },
+      {
+        "enunciado": "En el modelo de salud mental en Andalucía, ¿qué diferencia estratégica existe entre las Unidades de Salud Mental Comunitaria (USMC) y los hospitales de día?",
+        "opciones": [
+          "Las USMC actúan como centros de coordinación para el tratamiento comunitario, mientras los hospitales de día ofrecen intervenciones terapéuticas intensivas en horario diurno para pacientes estabilizados.",
+          "Los hospitales de día se encargan del diagnóstico inicial de pacientes, mientras las USMC realizan intervenciones farmacológicas exclusivamente.",
+          "Las USMC proporcionan hospitalización a largo plazo, mientras los hospitales de día se enfocan en tratamientos específicos para crisis agudas.",
+          "Los hospitales de día están dirigidos a niños y adolescentes, mientras las USMC gestionan casos de adultos con trastornos de ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "organización"],
+        "feedback": "Las USMC son responsables de la coordinación del tratamiento comunitario, mientras los hospitales de día brindan intervenciones terapéuticas intensivas durante el día para pacientes que no requieren hospitalización completa."
+      },
+      {
+        "enunciado": "Dentro de la red de salud mental de Andalucía, ¿qué papel desempeñan los dispositivos de media estancia en el proceso de recuperación?",
+        "opciones": [
+          "Facilitar un entorno de transición entre la hospitalización completa y la atención comunitaria, promoviendo la rehabilitación psicosocial.",
+          "Actuar como espacios para el manejo exclusivo de emergencias psiquiátricas agudas.",
+          "Servir como alternativa a las USMC en áreas rurales, ofreciendo servicios de diagnóstico básico.",
+          "Proveer atención farmacológica intensiva para pacientes con baja respuesta a los tratamientos ambulatorios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "recursos"],
+        "feedback": "Los dispositivos de media estancia ofrecen un espacio de transición entre la hospitalización y la comunidad, centrándose en la rehabilitación funcional y la preparación para la vida independiente."
+      },
+      {
+        "enunciado": "En el marco de los programas gestionados por FAISEM en Andalucía, ¿qué objetivo tienen los dispositivos residenciales de apoyo extenso?",
+        "opciones": [
+          "Brindar atención temporal para personas con trastornos leves que no requieren seguimiento continuo.",
+          "Proveer un entorno de vida supervisada para personas con trastorno mental grave que necesitan un alto nivel de apoyo para su funcionamiento diario.",
+          "Ofrecer únicamente alojamiento para pacientes en transición desde la hospitalización hasta su retorno a casa.",
+          "Servir como unidades exclusivas para el manejo de crisis psiquiátricas severas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos residenciales de apoyo extenso están diseñados para proporcionar supervisión continua a personas con trastorno mental grave, ayudándoles a mantener una calidad de vida estable."
+      },
+      {
+        "enunciado": "En el modelo andaluz de atención a la salud mental, ¿qué estrategia se utiliza en los programas de empleo protegido para personas con trastorno mental grave?",
+        "opciones": [
+          "Integrar a las personas en empleos altamente competitivos sin adaptación previa.",
+          "Ofrecer oportunidades laborales estructuradas en entornos protegidos que faciliten la inclusión gradual en el mercado laboral general.",
+          "Proporcionar empleo temporal exclusivamente en actividades relacionadas con la salud mental.",
+          "Fomentar el aislamiento laboral para reducir el estrés asociado al trabajo competitivo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "empleo_protegido"],
+        "feedback": "Los programas de empleo protegido en Andalucía ofrecen entornos laborales adaptados que permiten a las personas con trastorno mental grave desarrollar habilidades y ganar confianza para su integración en el mercado laboral general."
+      },
+      {
+        "enunciado": "En la red pública de salud mental de Andalucía, ¿cuál es el objetivo principal de las Unidades de Salud Mental Infanto-Juvenil (USMIJ)?",
+        "opciones": [
+          "Brindar tratamiento psiquiátrico intensivo exclusivamente a menores en riesgo social.",
+          "Abordar integralmente los trastornos mentales graves en niños y adolescentes, incluyendo el apoyo al entorno familiar y escolar.",
+          "Centralizar la atención de urgencias psiquiátricas para menores en todo el sistema de salud.",
+          "Proveer terapias ocupacionales para prevenir trastornos futuros en la población infantil."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "infancia_y_adolescencia"],
+        "feedback": "Las USMIJ tienen un enfoque integral que incluye el tratamiento de los trastornos mentales graves en menores, trabajando también con el entorno familiar y educativo para promover una recuperación sostenida."
+      },
+      {
+        "enunciado": "En la red pública de salud mental de Andalucía, ¿qué caracteriza a los programas de ocio inclusivo gestionados por FAISEM?",
+        "opciones": [
+          "Están diseñados para proporcionar actividades recreativas dirigidas exclusivamente a personas hospitalizadas.",
+          "Promueven la participación activa en actividades culturales, deportivas y sociales como parte de la integración comunitaria de personas con trastorno mental grave.",
+          "Se enfocan únicamente en el desarrollo de habilidades artísticas para pacientes en rehabilitación.",
+          "Funcionan como alternativa a las intervenciones farmacológicas para reducir síntomas psiquiátricos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "ocio_inclusivo"],
+        "feedback": "Los programas de ocio inclusivo de FAISEM fomentan la participación en actividades culturales, deportivas y sociales para reducir el aislamiento y mejorar la calidad de vida de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "Dentro de la organización de la salud mental en Andalucía, ¿qué función tienen los Equipos de Salud Mental Hospitalaria (ESMH)?",
+        "opciones": [
+          "Proporcionar tratamiento en régimen de hospitalización a largo plazo para trastornos graves.",
+          "Coordinar la atención y transición de pacientes entre unidades hospitalarias y recursos comunitarios, asegurando la continuidad asistencial.",
+          "Servir como unidades de crisis para casos agudos sin seguimiento posterior.",
+          "Realizar únicamente evaluaciones diagnósticas en pacientes derivados de atención primaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "coordinación_hospitalaria"],
+        "feedback": "Los ESMH son responsables de coordinar la transición y continuidad de la atención entre el hospital y los recursos comunitarios, facilitando una atención integral y sostenida."
+      },
+      {
+        "enunciado": "En la red de salud mental en Andalucía, ¿qué rol específico cumplen los hospitales de día para personas con trastorno mental grave?",
+        "opciones": [
+          "Servir como centros de diagnóstico para pacientes derivados desde atención primaria.",
+          "Proveer tratamientos terapéuticos intensivos durante el día, facilitando que los pacientes regresen a su entorno familiar al final de la jornada.",
+          "Ofrecer internamiento prolongado para pacientes con baja adherencia al tratamiento ambulatorio.",
+          "Centralizar los servicios de intervención farmacológica avanzada para casos resistentes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "hospitales_de_día"],
+        "feedback": "Los hospitales de día ofrecen un modelo de atención intensiva en horario diurno, permitiendo a los pacientes mantener sus vínculos familiares y comunitarios mientras reciben terapia estructurada."
+      },
+      {
+        "enunciado": "En el modelo andaluz de atención a la salud mental, ¿qué objetivo tienen los programas de intervención precoz en psicosis?",
+        "opciones": [
+          "Reducir el tiempo de duración de la psicosis no tratada mediante la identificación y tratamiento temprano.",
+          "Concentrar todos los esfuerzos terapéuticos en la hospitalización de los primeros episodios psicóticos.",
+          "Limitar el impacto social de la psicosis restringiendo la exposición del paciente a su comunidad.",
+          "Promover únicamente intervenciones farmacológicas durante la fase inicial del trastorno."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "intervención_temprana"],
+        "feedback": "Los programas de intervención precoz en psicosis tienen como objetivo identificar y tratar de manera temprana los episodios psicóticos, reduciendo la duración de la psicosis no tratada y mejorando los resultados a largo plazo."
+      },
+      {
+        "enunciado": "En la organización de la red pública de salud mental en Andalucía, ¿qué diferencia funcional existe entre los dispositivos de larga estancia y los de media estancia?",
+        "opciones": [
+          "Los dispositivos de media estancia están dirigidos a pacientes con trastornos leves, mientras los de larga estancia solo atienden casos crónicos.",
+          "Los dispositivos de media estancia se enfocan en la recuperación funcional y la transición a la vida independiente, mientras los de larga estancia proporcionan apoyo continuo a personas con dependencia elevada.",
+          "Los dispositivos de larga estancia están reservados para intervenciones farmacológicas intensivas, mientras los de media estancia se centran en la rehabilitación psicosocial.",
+          "Los dispositivos de media estancia operan únicamente en zonas rurales, mientras los de larga estancia se concentran en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "recursos_residenciales"],
+        "feedback": "Los dispositivos de media estancia están diseñados para la recuperación y transición hacia la independencia, mientras que los de larga estancia se destinan a personas que necesitan apoyo continuo para su funcionamiento diario."
+      },
+      {
+        "enunciado": "En el marco de la salud mental en Andalucía, ¿cuál es el principal propósito de los Centros de Día dentro de la red pública?",
+        "opciones": [
+          "Proveer un entorno de internamiento diurno para casos de emergencia psiquiátrica.",
+          "Ofrecer actividades estructuradas de rehabilitación y socialización que permitan mantener a las personas con trastorno mental grave conectadas a su comunidad.",
+          "Sustituir las intervenciones hospitalarias mediante terapia exclusivamente farmacológica.",
+          "Centralizar los servicios de diagnóstico temprano para todas las edades."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "rehabilitación"],
+        "feedback": "Los Centros de Día ofrecen programas de rehabilitación estructurados que fomentan la integración social y la mejora de la calidad de vida de personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "Dentro de la red pública de atención a la salud mental en Andalucía, ¿qué característica define a los Programas de Tratamiento Asertivo Comunitario (TAC)?",
+        "opciones": [
+          "Intervenciones hospitalarias intensivas para pacientes con alta adherencia al tratamiento.",
+          "Seguimiento intensivo en el entorno del paciente, orientado a prevenir hospitalizaciones y promover la integración comunitaria.",
+          "Centralización de la atención en grandes hospitales con equipos especializados.",
+          "Proveer exclusivamente servicios terapéuticos farmacológicos para casos agudos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "tratamiento_comunitario"],
+        "feedback": "Los Programas de Tratamiento Asertivo Comunitario brindan un seguimiento intensivo en el entorno natural del paciente, buscando reducir hospitalizaciones y apoyar la recuperación en la comunidad."
+      },
+      {
+        "enunciado": "En el modelo andaluz de salud mental, ¿qué función principal desempeñan las Unidades de Salud Mental Comunitaria (USMC)?",
+        "opciones": [
+          "Brindar exclusivamente atención farmacológica en entornos hospitalarios.",
+          "Coordinar la atención integral y multidisciplinaria de pacientes con trastorno mental grave en su entorno comunitario.",
+          "Proveer únicamente intervenciones en crisis agudas en coordinación con hospitales de día.",
+          "Centralizar los programas de rehabilitación laboral en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "coordinación_comunitaria"],
+        "feedback": "Las USMC son el pilar de la atención comunitaria, encargándose de coordinar intervenciones multidisciplinarias y garantizar el acceso a recursos en el entorno del paciente."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿cómo contribuyen los dispositivos residenciales a la atención de personas con trastorno mental grave?",
+        "opciones": [
+          "Proveen atención temporal para crisis agudas sin incluir rehabilitación.",
+          "Ofrecen un entorno estable que combina apoyo habitacional y rehabilitación psicosocial.",
+          "Sustituyen los servicios hospitalarios mediante programas exclusivos de medicación.",
+          "Se enfocan en pacientes con trastornos leves para prevenir hospitalizaciones innecesarias."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos residenciales combinan apoyo habitacional con programas de rehabilitación psicosocial, ayudando a personas con trastorno mental grave a lograr mayor autonomía."
+      },
+      {
+        "enunciado": "Dentro de la red de salud mental en Andalucía, ¿qué aspecto diferencia a los dispositivos de larga estancia gestionados por FAISEM de los dispositivos de media estancia?",
+        "opciones": [
+          "Los dispositivos de larga estancia ofrecen apoyo habitacional permanente, mientras los de media estancia se enfocan en la recuperación funcional y la reintegración comunitaria.",
+          "Los dispositivos de media estancia atienden exclusivamente a pacientes en edad laboral, mientras los de larga estancia están reservados para personas mayores de 65 años.",
+          "Los dispositivos de larga estancia priorizan tratamientos farmacológicos, mientras los de media estancia se centran en terapias psicológicas.",
+          "Los dispositivos de larga estancia operan únicamente en áreas urbanas, mientras los de media estancia están presentes en zonas rurales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "gestión_faisem"],
+        "feedback": "Los dispositivos de larga estancia están orientados a proporcionar apoyo continuo y habitacional permanente, mientras que los de media estancia se centran en preparar al paciente para su reintegración en la comunidad."
+      },
+      {
+        "enunciado": "En la red pública de atención a la salud mental de Andalucía, ¿qué papel tienen los Equipos de Salud Mental Hospitalaria (ESMH)?",
+        "opciones": [
+          "Proveer terapia individual a pacientes en atención primaria.",
+          "Asegurar la continuidad asistencial entre las unidades hospitalarias y los recursos comunitarios, facilitando la reintegración del paciente tras el alta.",
+          "Centralizar la atención de pacientes crónicos mediante hospitalización prolongada.",
+          "Realizar diagnósticos iniciales para derivar casos a las USMC."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "coordinación_hospitalaria"],
+        "feedback": "Los ESMH garantizan la continuidad asistencial al coordinar la transición de pacientes desde los servicios hospitalarios hacia los recursos comunitarios, promoviendo una integración efectiva."
+      },
+      {
+        "enunciado": "En el modelo de atención a la salud mental en Andalucía, ¿qué servicios ofrecen los Centros de Día como parte de la red pública?",
+        "opciones": [
+          "Alojamientos temporales para personas sin acceso a dispositivos residenciales.",
+          "Actividades terapéuticas estructuradas y de rehabilitación en horario diurno, para mantener la vinculación del paciente con su entorno comunitario.",
+          "Intervenciones farmacológicas intensivas para casos resistentes a tratamientos ambulatorios.",
+          "Evaluaciones diagnósticas especializadas en trastornos de inicio reciente."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "rehabilitación"],
+        "feedback": "Los Centros de Día proporcionan un entorno terapéutico que combina actividades estructuradas y rehabilitación, fomentando la integración comunitaria de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "En la organización de la salud mental en Andalucía, ¿qué objetivo tienen los programas de ocio inclusivo de FAISEM?",
+        "opciones": [
+          "Reducir la dependencia de la atención médica especializada mediante actividades recreativas.",
+          "Fomentar la participación activa en actividades culturales y sociales que promuevan la integración comunitaria de personas con trastorno mental grave.",
+          "Proveer una alternativa a las intervenciones farmacológicas para mejorar el pronóstico clínico.",
+          "Centralizar las actividades recreativas exclusivamente en centros de día y dispositivos residenciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "integración_social"],
+        "feedback": "Los programas de ocio inclusivo de FAISEM están diseñados para fomentar la participación en actividades culturales y sociales, ayudando a reducir el aislamiento y promoviendo la integración comunitaria."
+      },
+      {
+        "enunciado": "En el modelo de atención a la salud mental en Andalucía, ¿qué diferencia clave tienen los hospitales de día respecto a las Unidades de Hospitalización de Salud Mental (UHSM)?",
+        "opciones": [
+          "Los hospitales de día proporcionan terapias intensivas durante el día con retorno al hogar, mientras las UHSM ofrecen atención integral en régimen de internamiento completo para pacientes en crisis.",
+          "Las UHSM se centran en la rehabilitación laboral, mientras los hospitales de día abordan exclusivamente casos de emergencia.",
+          "Los hospitales de día están diseñados para intervenciones farmacológicas, mientras las UHSM priorizan las terapias psicosociales.",
+          "Las UHSM operan únicamente en entornos rurales, mientras los hospitales de día funcionan en áreas urbanas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "recursos_hospitalarios"],
+        "feedback": "Los hospitales de día ofrecen atención terapéutica intensiva en horario diurno, mientras las UHSM están destinadas a pacientes que requieren internamiento completo para estabilización en situaciones de crisis aguda."
+      },
+      {
+        "enunciado": "En la red de atención a la salud mental en Andalucía, ¿cuál es el principal objetivo de los Programas de Tratamiento Asertivo Comunitario (TAC)?",
+        "opciones": [
+          "Reducir el uso de servicios hospitalarios mediante la atención intensiva en el entorno comunitario.",
+          "Centralizar el tratamiento de trastornos graves en unidades de hospitalización prolongada.",
+          "Proveer únicamente terapia psicológica a largo plazo.",
+          "Priorizar intervenciones farmacológicas intensivas para casos crónicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "tratamiento_comunitario"],
+        "feedback": "Los TAC buscan reducir la necesidad de hospitalización al brindar atención multidisciplinaria intensiva en el entorno del paciente, promoviendo su autonomía y recuperación."
+      },
+      {
+        "enunciado": "Dentro de la red pública de salud mental en Andalucía, ¿qué diferencia esencial existe entre los dispositivos residenciales de apoyo extenso y los de apoyo limitado gestionados por FAISEM?",
+        "opciones": [
+          "Los dispositivos de apoyo limitado ofrecen un entorno menos supervisado, orientado a personas con mayor autonomía, mientras los de apoyo extenso están diseñados para personas con necesidades de supervisión constante.",
+          "Los dispositivos de apoyo extenso proporcionan alojamiento temporal, mientras los de apoyo limitado se centran en tratamientos farmacológicos intensivos.",
+          "Los dispositivos de apoyo limitado están orientados a menores de edad, mientras los de apoyo extenso se enfocan en adultos mayores.",
+          "No hay diferencias significativas en sus funciones, ya que ambos se enfocan exclusivamente en la rehabilitación laboral."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos de apoyo extenso están orientados a personas con necesidades de supervisión continua, mientras que los de apoyo limitado atienden a quienes tienen mayor capacidad de autonomía."
+      },
+      {
+        "enunciado": "En el modelo andaluz de atención a la salud mental, ¿cómo se definen los Centros de Día en términos de su función en la red pública?",
+        "opciones": [
+          "Espacios destinados exclusivamente a la atención de crisis agudas.",
+          "Unidades terapéuticas que ofrecen programas de rehabilitación y socialización para personas con trastorno mental grave, sin necesidad de internamiento.",
+          "Recursos habitacionales temporales para pacientes en transición tras el alta hospitalaria.",
+          "Unidades especializadas en diagnóstico de trastornos del estado del ánimo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "centros_de_día"],
+        "feedback": "Los Centros de Día son espacios terapéuticos que proporcionan programas de rehabilitación psicosocial y actividades de socialización en un marco no hospitalario."
+      },
+      {
+        "enunciado": "En el marco de la red de atención a la salud mental en Andalucía, ¿qué función tienen los Equipos de Salud Mental Hospitalaria (ESMH)?",
+        "opciones": [
+          "Centralizar la atención psiquiátrica en pacientes crónicos mediante hospitalización prolongada.",
+          "Garantizar la continuidad asistencial mediante la coordinación entre recursos hospitalarios y comunitarios.",
+          "Proveer exclusivamente intervenciones farmacológicas a pacientes hospitalizados.",
+          "Realizar terapias grupales para la integración laboral en los hospitales de día."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "coordinación_asistencial"],
+        "feedback": "Los ESMH aseguran la continuidad asistencial al facilitar la transición de los pacientes entre los servicios hospitalarios y los recursos comunitarios, promoviendo su reintegración social."
+      },
+      {
+        "enunciado": "En el modelo de atención comunitaria en Andalucía, ¿qué recurso es clave para coordinar los diferentes niveles asistenciales y servicios de apoyo para personas con trastorno mental grave?",
+        "opciones": [
+          "Las Unidades de Hospitalización de Salud Mental (UHSM).",
+          "Las Unidades de Salud Mental Comunitaria (USMC).",
+          "Los dispositivos de apoyo limitado.",
+          "Los programas de ocio inclusivo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "coordinación_comunitaria"],
+        "feedback": "Las USMC son esenciales en el modelo de atención comunitaria, ya que coordinan los distintos niveles asistenciales y servicios de apoyo para garantizar una atención integral."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿qué característica define a los dispositivos de media estancia en comparación con otros recursos?",
+        "opciones": [
+          "Se enfocan en la intervención farmacológica intensiva para trastornos refractarios.",
+          "Proveen un recurso intermedio entre la hospitalización completa y la atención comunitaria, centrado en la recuperación funcional del paciente.",
+          "Son unidades de diagnóstico rápido para derivaciones urgentes.",
+          "Ofrecen alojamiento temporal para personas con problemas leves de salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "recursos"],
+        "feedback": "Los dispositivos de media estancia ofrecen una atención transitoria orientada a la recuperación funcional y preparan al paciente para su reintegración en la comunidad."
+      },
+      {
+        "enunciado": "Dentro de la red pública de salud mental en Andalucía, ¿qué servicios diferenciales ofrecen los hospitales de día respecto a las UHSM?",
+        "opciones": [
+          "Los hospitales de día ofrecen un programa intensivo terapéutico en horario diurno, mientras las UHSM manejan casos de crisis en régimen de internamiento.",
+          "Las UHSM están destinadas únicamente a menores, mientras los hospitales de día atienden a adultos.",
+          "Los hospitales de día se centran en el tratamiento farmacológico, mientras las UHSM priorizan la rehabilitación social.",
+          "No existen diferencias significativas entre estos recursos asistenciales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "hospitales_de_día"],
+        "feedback": "Los hospitales de día permiten a los pacientes recibir atención intensiva en un entorno terapéutico durante el día, mientras que las UHSM atienden crisis agudas en régimen de internamiento completo."
+      },
+      {
+        "enunciado": "En el modelo andaluz de atención a la salud mental, ¿cómo contribuyen los programas de ocio inclusivo gestionados por FAISEM a la integración social?",
+        "opciones": [
+          "Proporcionan actividades recreativas en entornos hospitalarios exclusivamente.",
+          "Facilitan la participación en actividades culturales, deportivas y sociales que promueven la inclusión y reducen el aislamiento.",
+          "Reemplazan las intervenciones terapéuticas en pacientes con trastornos mentales leves.",
+          "Se enfocan en reducir la medicación mediante técnicas alternativas de recreación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "integración_social"],
+        "feedback": "Los programas de ocio inclusivo gestionados por FAISEM fomentan la participación activa en actividades sociales y culturales, ayudando a reducir el aislamiento y promoviendo la integración comunitaria."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿cuál es el enfoque principal de los dispositivos residenciales gestionados por FAISEM?",
+        "opciones": [
+          "Ofrecer un entorno de vida supervisado y rehabilitación psicosocial para personas con trastorno mental grave.",
+          "Proporcionar únicamente alojamiento temporal para emergencias psiquiátricas.",
+          "Centralizar las intervenciones farmacológicas en un entorno residencial.",
+          "Focalizarse en la rehabilitación laboral sin servicios habitacionales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos residenciales de FAISEM proporcionan un entorno de vida supervisado que combina apoyo habitacional con programas de rehabilitación psicosocial, promoviendo la autonomía y calidad de vida."
+      },
+      {
+        "enunciado": "En la organización de la red pública de salud mental en Andalucía, ¿qué función específica cumplen los dispositivos de apoyo limitado gestionados por FAISEM?",
+        "opciones": [
+          "Proveer alojamiento temporal exclusivamente para personas en crisis agudas.",
+          "Ofrecer apoyo habitacional a personas con trastorno mental grave que cuentan con mayor autonomía funcional.",
+          "Gestionar actividades recreativas en comunidades rurales.",
+          "Brindar servicios de atención hospitalaria intensiva para casos refractarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos de apoyo limitado están dirigidos a personas con trastorno mental grave que poseen un grado de autonomía suficiente para vivir con menor supervisión, manteniendo el apoyo necesario para su integración social."
+      },
+      {
+        "enunciado": "Dentro del modelo andaluz de atención a la salud mental, ¿qué objetivo principal tienen los Programas de Tratamiento Asertivo Comunitario (TAC)?",
+        "opciones": [
+          "Centralizar el tratamiento farmacológico en unidades especializadas.",
+          "Realizar intervenciones intensivas en el entorno natural del paciente, con el fin de evitar hospitalizaciones y promover la recuperación comunitaria.",
+          "Proveer terapias exclusivamente grupales para pacientes con trastornos leves.",
+          "Reducir el acceso a servicios comunitarios mediante hospitalización prolongada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "tratamiento_comunitario"],
+        "feedback": "Los TAC buscan realizar intervenciones intensivas en el entorno del paciente, reduciendo la necesidad de hospitalización y apoyando su integración en la comunidad a través de un enfoque multidisciplinario."
+      },
+      {
+        "enunciado": "En el contexto de los dispositivos de media estancia de la red de salud mental en Andalucía, ¿qué tipo de atención se prioriza?",
+        "opciones": [
+          "Diagnóstico exclusivo de trastornos del estado del ánimo.",
+          "Recuperación funcional mediante programas que preparan al paciente para su reintegración en la comunidad.",
+          "Intervenciones farmacológicas avanzadas para trastornos refractarios.",
+          "Hospitalización prolongada con foco en el tratamiento de crisis agudas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "media_estancia"],
+        "feedback": "Los dispositivos de media estancia ofrecen un entorno intermedio entre la hospitalización y la vida comunitaria, priorizando la rehabilitación funcional y el desarrollo de habilidades para la autonomía."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿cuál es la diferencia principal entre las Unidades de Salud Mental Comunitaria (USMC) y las Unidades de Salud Mental Infanto-Juvenil (USMIJ)?",
+        "opciones": [
+          "Las USMC atienden a adultos con trastornos mentales graves, mientras las USMIJ están especializadas en la atención integral de menores.",
+          "Las USMC ofrecen servicios exclusivamente farmacológicos, mientras las USMIJ se centran en terapias psicológicas.",
+          "Las USMIJ manejan únicamente casos de ansiedad en adolescentes, mientras las USMC tratan crisis agudas en cualquier población.",
+          "No existe una diferencia funcional significativa entre estas dos unidades."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "organización"],
+        "feedback": "Las USMC están dirigidas a adultos y son el eje de la atención comunitaria, mientras que las USMIJ se especializan en la atención de menores, abordando sus necesidades específicas de manera integral."
+      },
+      {
+        "enunciado": "En la organización de la salud mental en Andalucía, ¿qué papel desempeñan los hospitales de día en el tratamiento de personas con trastorno mental grave?",
+        "opciones": [
+          "Brindar atención intensiva en horario diurno para pacientes que no requieren hospitalización completa, permitiendo su reintegración diaria en el entorno familiar y social.",
+          "Proveer servicios de internamiento prolongado para casos crónicos.",
+          "Centralizar las intervenciones de crisis para menores de 18 años.",
+          "Focalizarse en el diagnóstico exclusivo de trastornos psicóticos en adultos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "hospitales_de_día"],
+        "feedback": "Los hospitales de día son recursos esenciales que proporcionan atención terapéutica intensiva en horario diurno, permitiendo a los pacientes continuar vinculados a su entorno familiar y comunitario mientras avanzan en su recuperación."
+      },
+      {
+        "enunciado": "En el modelo andaluz de atención a la salud mental, ¿cómo contribuyen los programas de ocio inclusivo de FAISEM a la rehabilitación de personas con trastorno mental grave?",
+        "opciones": [
+          "Promoviendo actividades que favorecen la participación social y cultural como parte del proceso de integración comunitaria.",
+          "Sustituyendo las terapias psicológicas por actividades recreativas organizadas.",
+          "Proveyendo alternativas de entretenimiento exclusivamente en entornos hospitalarios.",
+          "Reduciendo la medicación mediante el uso de estrategias recreativas y de relajación."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "ocio_inclusivo"],
+        "feedback": "Los programas de ocio inclusivo fomentan la participación en actividades sociales, culturales y recreativas, contribuyendo al proceso de rehabilitación e integración social de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "En la red de salud mental en Andalucía, ¿qué rol específico tienen las Unidades de Hospitalización de Salud Mental (UHSM) en comparación con otros recursos?",
+        "opciones": [
+          "Proveer hospitalización intensiva para la estabilización de pacientes en crisis agudas, con un enfoque en la transición hacia recursos comunitarios.",
+          "Centralizar las actividades recreativas y de socialización para pacientes con trastornos leves.",
+          "Realizar diagnósticos iniciales y derivaciones a las USMC.",
+          "Proveer alojamiento temporal para personas con trastornos no graves."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "recursos_hospitalarios"],
+        "feedback": "Las UHSM están diseñadas para la estabilización de pacientes en crisis agudas mediante hospitalización intensiva, coordinando la transición hacia la atención comunitaria tras la recuperación inicial."
+      },
+      {
+        "enunciado": "En el marco de la red pública de salud mental en Andalucía, ¿qué recurso se utiliza principalmente para fomentar la rehabilitación laboral en personas con trastorno mental grave?",
+        "opciones": [
+          "Programas de empleo protegido gestionados por FAISEM.",
+          "Centros de Día especializados en intervención ocupacional.",
+          "Unidades de Hospitalización de Salud Mental con programas formativos.",
+          "Dispositivos de larga estancia orientados al aprendizaje de habilidades laborales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "empleo_protegido"],
+        "feedback": "Los programas de empleo protegido de FAISEM están diseñados para ofrecer oportunidades laborales adaptadas, fomentando la rehabilitación e inclusión social de las personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "En la red de atención a la salud mental en Andalucía, ¿qué característica distingue a los dispositivos residenciales de apoyo extenso de los de apoyo limitado?",
+        "opciones": [
+          "Los dispositivos de apoyo extenso están destinados a personas con mayores necesidades de supervisión y apoyo continuo, mientras los de apoyo limitado se dirigen a quienes tienen mayor autonomía funcional.",
+          "Los dispositivos de apoyo limitado solo atienden a personas con trastornos leves, mientras los de apoyo extenso tratan casos crónicos.",
+          "Los dispositivos de apoyo extenso funcionan exclusivamente en áreas rurales, mientras los de apoyo limitado operan en zonas urbanas.",
+          "No existe una distinción significativa entre estos dispositivos en cuanto a sus funciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos de apoyo extenso proporcionan un entorno más supervisado para personas con necesidades de apoyo continuo, mientras los de apoyo limitado atienden a aquellas con mayor autonomía funcional."
+      },
+      {
+        "enunciado": "En el modelo de atención a la salud mental en Andalucía, ¿qué papel desempeñan los dispositivos de media estancia en el proceso de recuperación?",
+        "opciones": [
+          "Proveer un recurso transitorio que combine estabilización clínica y rehabilitación funcional, preparando a los pacientes para la vida en comunidad.",
+          "Centralizar el diagnóstico y tratamiento de trastornos del estado del ánimo exclusivamente.",
+          "Proveer servicios de internamiento prolongado para pacientes crónicos.",
+          "Funcionan como centros de diagnóstico temprano para todas las poblaciones."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "media_estancia"],
+        "feedback": "Los dispositivos de media estancia ofrecen un recurso transitorio que equilibra la estabilización clínica con la rehabilitación funcional, ayudando a las personas con trastorno mental grave en su preparación para la reintegración comunitaria."
+      },
+      {
+        "enunciado": "En el modelo de atención a la salud mental en Andalucía, ¿qué diferencia fundamental presentan los dispositivos de larga estancia gestionados por FAISEM frente a los de media estancia?",
+        "opciones": [
+          "Los dispositivos de larga estancia ofrecen apoyo habitacional permanente para personas con alta dependencia, mientras los de media estancia son recursos transitorios enfocados en la recuperación funcional.",
+          "Los dispositivos de media estancia son exclusivos para menores, mientras los de larga estancia atienden únicamente a adultos mayores.",
+          "Los dispositivos de larga estancia proporcionan intervenciones médicas intensivas, mientras los de media estancia están orientados a la integración laboral.",
+          "No existe una diferencia significativa entre ambos dispositivos, ya que cumplen funciones similares."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "recursos_residenciales"],
+        "feedback": "Los dispositivos de larga estancia están diseñados para brindar apoyo habitacional permanente a personas con mayores necesidades de supervisión, mientras que los de media estancia se enfocan en la transición hacia la autonomía."
+      },
+      {
+        "enunciado": "En el marco de la red pública de salud mental en Andalucía, ¿qué papel tienen las Unidades de Salud Mental Infanto-Juvenil (USMIJ) en comparación con las Unidades de Salud Mental Comunitaria (USMC)?",
+        "opciones": [
+          "Las USMIJ se especializan en la atención integral a menores con trastornos graves, mientras las USMC coordinan los tratamientos comunitarios para adultos.",
+          "Ambas unidades comparten funciones y poblaciones objetivo, siendo equivalentes en su operativa.",
+          "Las USMC son responsables del tratamiento de crisis agudas en adolescentes, mientras las USMIJ se centran en la intervención farmacológica en menores.",
+          "Las USMIJ manejan exclusivamente casos de ansiedad infantil, mientras las USMC se ocupan de trastornos psicóticos en adultos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "organización"],
+        "feedback": "Las USMIJ están especializadas en la atención de menores con trastornos graves, incluyendo el trabajo con sus familias y escuelas, mientras que las USMC son el recurso principal para la coordinación de la atención comunitaria en adultos."
+      },
+      {
+        "enunciado": "En los dispositivos de apoyo limitado gestionados por FAISEM, ¿qué criterio principal determina su diseño y operación?",
+        "opciones": [
+          "Atender exclusivamente a personas en fase aguda de su trastorno mental.",
+          "Proveer un entorno habitacional que fomente la autonomía para personas con menor necesidad de supervisión.",
+          "Centralizar las actividades recreativas en el entorno hospitalario.",
+          "Ofrecer servicios exclusivamente farmacológicos a personas con trastorno mental leve."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos de apoyo limitado están diseñados para personas con trastorno mental grave que tienen mayor autonomía, proporcionando un entorno que favorece su vida independiente con apoyo supervisado."
+      },
+      {
+        "enunciado": "Dentro de la red pública de salud mental en Andalucía, ¿cuál es la principal función de los Programas de Tratamiento Asertivo Comunitario (TAC)?",
+        "opciones": [
+          "Realizar intervenciones terapéuticas exclusivamente en entornos hospitalarios.",
+          "Prevenir hospitalizaciones innecesarias mediante la atención intensiva en el entorno del paciente con un equipo multidisciplinario.",
+          "Proveer un diagnóstico inicial para pacientes derivados de atención primaria.",
+          "Focalizarse en la intervención farmacológica avanzada en trastornos graves."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "tratamiento_comunitario"],
+        "feedback": "Los TAC tienen como objetivo principal ofrecer atención intensiva en el entorno del paciente, reduciendo la necesidad de hospitalización y promoviendo la recuperación comunitaria."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿qué distingue a los Centros de Día de otros recursos como los hospitales de día?",
+        "opciones": [
+          "Los Centros de Día se centran en la rehabilitación psicosocial y actividades estructuradas, mientras los hospitales de día ofrecen tratamientos intensivos para pacientes en fases agudas.",
+          "Los Centros de Día están exclusivamente destinados a menores, mientras los hospitales de día atienden a todas las edades.",
+          "Los hospitales de día se centran en actividades recreativas, mientras los Centros de Día proporcionan únicamente terapia farmacológica.",
+          "No existen diferencias funcionales significativas entre estos dos recursos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "centros_de_día"],
+        "feedback": "Los Centros de Día están orientados a la rehabilitación psicosocial y la integración comunitaria, mientras que los hospitales de día brindan tratamientos intensivos en fases más agudas."
+      },
+      {
+        "enunciado": "En el modelo de salud mental de Andalucía, ¿qué función principal tienen los dispositivos de media estancia en el proceso de recuperación?",
+        "opciones": [
+          "Ofrecer servicios de diagnóstico y evaluación inicial para trastornos mentales graves.",
+          "Proporcionar un recurso intermedio que combine estabilización clínica y rehabilitación, facilitando la transición del paciente hacia la comunidad.",
+          "Proveer intervenciones farmacológicas avanzadas para pacientes crónicos.",
+          "Centralizar las actividades de rehabilitación laboral en entornos hospitalarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "media_estancia"],
+        "feedback": "Los dispositivos de media estancia ofrecen un recurso intermedio entre la hospitalización y la vida comunitaria, enfocándose en la estabilización clínica y la rehabilitación funcional del paciente."
+      },
+      {
+        "enunciado": "En el marco de los programas de ocio inclusivo gestionados por FAISEM, ¿qué objetivo específico se busca alcanzar?",
+        "opciones": [
+          "Reducir la dependencia de servicios terapéuticos mediante actividades recreativas.",
+          "Fomentar la participación activa en actividades culturales y sociales como parte de la integración comunitaria de personas con trastorno mental grave.",
+          "Proveer alternativas a las terapias farmacológicas en pacientes con trastornos leves.",
+          "Limitar el contacto comunitario para proteger a las personas en rehabilitación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema40", "salud_mental", "ocio_inclusivo"],
+        "feedback": "Los programas de ocio inclusivo promueven la participación social y cultural, ayudando a reducir el aislamiento y fortaleciendo la integración comunitaria de personas con trastorno mental grave."
+      },
+      {
+        "enunciado": "En la red de salud mental en Andalucía, ¿qué caracteriza a los dispositivos de apoyo extenso frente a otros dispositivos residenciales?",
+        "opciones": [
+          "Proveen un entorno de vida supervisado para personas con alta dependencia, que requieren apoyo continuo para su funcionamiento diario.",
+          "Están diseñados exclusivamente para la transición de pacientes dados de alta hospitalaria.",
+          "Son recursos temporales enfocados en el tratamiento farmacológico intensivo.",
+          "No hay diferencias funcionales entre dispositivos de apoyo extenso y de apoyo limitado."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "dispositivos_residenciales"],
+        "feedback": "Los dispositivos de apoyo extenso ofrecen un entorno habitacional altamente supervisado para personas con mayores necesidades de apoyo continuo, promoviendo su estabilidad y calidad de vida."
+      },
+      {
+        "enunciado": "En la red pública de salud mental en Andalucía, ¿cómo contribuyen los hospitales de día a la recuperación de pacientes con trastorno mental grave?",
+        "opciones": [
+          "Proporcionan atención intensiva en horario diurno, permitiendo al paciente continuar vinculado a su entorno familiar y comunitario.",
+          "Ofrecen internamiento prolongado para pacientes con necesidades complejas.",
+          "Se enfocan exclusivamente en actividades recreativas como estrategia de rehabilitación.",
+          "Centralizan el tratamiento farmacológico para casos refractarios en entornos hospitalarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "hospitales_de_día"],
+        "feedback": "Los hospitales de día combinan terapias intensivas con un modelo que permite al paciente mantenerse conectado con su entorno familiar y social, facilitando su recuperación."
+      },
+      {
+        "enunciado": "Dentro de la organización de la salud mental en Andalucía, ¿qué función clave tienen los Equipos de Salud Mental Hospitalaria (ESMH)?",
+        "opciones": [
+          "Asegurar la continuidad asistencial mediante la coordinación de la atención entre los recursos hospitalarios y comunitarios.",
+          "Proveer atención médica intensiva en dispositivos residenciales.",
+          "Ofrecer servicios exclusivamente en unidades de día para pacientes en crisis aguda.",
+          "Focalizarse en la intervención farmacológica para trastornos refractarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema40", "salud_mental", "coordinación_asistencial"],
+        "feedback": "Los ESMH son responsables de coordinar la atención entre los hospitales y los recursos comunitarios, asegurando la continuidad y efectividad del tratamiento tras el alta."
+      }                                                                        
+]
