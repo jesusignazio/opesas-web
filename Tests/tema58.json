@@ -1,0 +1,994 @@
+[
+    {
+        "enunciado": "¿Qué define la Ley 39/2006 como autonomía personal?",
+        "opciones": [
+            "La capacidad de decidir sobre el cuidado médico recibido.",
+            "La capacidad de controlar y decidir cómo vivir según normas y preferencias propias.",
+            "La capacidad de realizar actividades físicas sin ayuda externa.",
+            "La capacidad de gestionar recursos financieros de manera independiente."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "legislacion_dependencia"
+        ],
+        "feedback": "La Ley 39/2006 define la autonomía personal como la capacidad de controlar, afrontar y tomar decisiones personales sobre cómo vivir de acuerdo con las normas y preferencias propias."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los pilares fundamentales del envejecimiento activo según la OMS?",
+        "opciones": [
+            "La promoción de la actividad física constante.",
+            "La optimización de oportunidades de salud, participación y seguridad.",
+            "El aumento de la esperanza de vida.",
+            "El acceso universal a servicios médicos gratuitos."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "La OMS define el envejecimiento activo como el proceso de optimización de oportunidades de salud, participación y seguridad para mejorar la calidad de vida a medida que se envejece."
+    },
+    {
+        "enunciado": "¿Qué índice se utiliza en Andalucía para clasificar la fragilidad en personas mayores?",
+        "opciones": [
+            "Índice de Barthel",
+            "Índice de Framingham",
+            "Índice de Frailty",
+            "Índice de Lawton y Brody"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "En Andalucía, se utiliza el Índice de Barthel para clasificar la fragilidad en personas mayores, valorando su capacidad para realizar actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué define el concepto de fragilidad según Morley y colaboradores?",
+        "opciones": [
+            "La capacidad de recuperación ante enfermedades crónicas.",
+            "Un síndrome caracterizado por pérdida de fuerza, resistencia y reservas fisiológicas.",
+            "La independencia en actividades de la vida diaria.",
+            "La acumulación de enfermedades crónicas."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "Morley y colaboradores definen la fragilidad como un síndrome de causas múltiples, caracterizado por pérdida de fuerza, resistencia y reservas fisiológicas, aumentando el riesgo de deterioro funcional."
+    },
+    {
+        "enunciado": "¿Qué instrumento evalúa la capacidad funcional para actividades instrumentales en mayores?",
+        "opciones": [
+            "Índice de Barthel",
+            "Índice de Lawton y Brody",
+            "Cuestionario FRAIL",
+            "Escala de Fragilidad de Edmonton"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Índice de Lawton y Brody evalúa la capacidad funcional para actividades instrumentales, como hacer compras, manejar dinero o usar el transporte."
+    },
+    {
+        "enunciado": "¿Qué categoría de dependencia corresponde a una puntuación menor de 20 en el Índice de Barthel?",
+        "opciones": [
+            "Dependencia moderada",
+            "Dependencia severa",
+            "Gran dependencia",
+            "Independencia funcional"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación menor de 20 en el Índice de Barthel corresponde a una gran dependencia, indicando la necesidad de apoyo continuo para las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué medida incluye el Examen de Salud para Mayores de 65 años para evaluar la fragilidad?",
+        "opciones": [
+            "Test de Pfeiffer",
+            "Índice de Fragilidad de Rockwood",
+            "Cuestionario FRAIL",
+            "Mini-Mental State Examination"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Cuestionario FRAIL es una de las herramientas utilizadas en el Examen de Salud para Mayores de 65 años para evaluar la fragilidad en Andalucía."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 39/2006 como autonomía personal?",
+        "opciones": [
+            "La capacidad de decidir sobre el cuidado médico recibido.",
+            "La capacidad de controlar y decidir cómo vivir según normas y preferencias propias.",
+            "La capacidad de realizar actividades físicas sin ayuda externa.",
+            "La capacidad de gestionar recursos financieros de manera independiente."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "legislacion_dependencia"
+        ],
+        "feedback": "La Ley 39/2006 define la autonomía personal como la capacidad de controlar, afrontar y tomar decisiones personales sobre cómo vivir de acuerdo con las normas y preferencias propias."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los pilares fundamentales del envejecimiento activo según la OMS?",
+        "opciones": [
+            "La promoción de la actividad física constante.",
+            "La optimización de oportunidades de salud, participación y seguridad.",
+            "El aumento de la esperanza de vida.",
+            "El acceso universal a servicios médicos gratuitos."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "La OMS define el envejecimiento activo como el proceso de optimización de oportunidades de salud, participación y seguridad para mejorar la calidad de vida a medida que se envejece."
+    },
+    {
+        "enunciado": "¿Qué índice se utiliza en Andalucía para clasificar la fragilidad en personas mayores?",
+        "opciones": [
+            "Índice de Barthel",
+            "Índice de Framingham",
+            "Índice de Frailty",
+            "Índice de Lawton y Brody"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "En Andalucía, se utiliza el Índice de Barthel para clasificar la fragilidad en personas mayores, valorando su capacidad para realizar actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué instrumento evalúa las actividades instrumentales de la vida diaria?",
+        "opciones": [
+            "Índice de Barthel",
+            "Índice de Lawton y Brody",
+            "Cuestionario FRAIL",
+            "Escala de Fragilidad de Edmonton"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Índice de Lawton y Brody evalúa la capacidad funcional para actividades instrumentales, como hacer compras, manejar dinero o usar el transporte."
+    },
+    {
+        "enunciado": "¿Qué herramienta mide la velocidad de la marcha en personas mayores?",
+        "opciones": [
+            "Test de Pfeiffer",
+            "Mini-Barthel",
+            "SPPB (Short Physical Performance Battery)",
+            "Escala de Yesavage"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La SPPB (Short Physical Performance Battery) incluye la medición de la velocidad de la marcha para evaluar el rendimiento físico en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué elemento no forma parte de las Actividades Básicas de la Vida Diaria (ABVD)?",
+        "opciones": [
+            "Alimentarse",
+            "Vestirse",
+            "Usar el teléfono",
+            "Desplazarse"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Usar el teléfono es una Actividad Instrumental de la Vida Diaria (AIVD), no una Actividad Básica de la Vida Diaria (ABVD)."
+    },
+    {
+        "enunciado": "¿Qué grado de dependencia corresponde a la necesidad de ayuda continua para las ABVD según la Ley 39/2006?",
+        "opciones": [
+            "Grado I: Dependencia moderada",
+            "Grado II: Dependencia severa",
+            "Grado III: Gran dependencia",
+            "Grado IV: Dependencia extrema"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "legislacion_dependencia"
+        ],
+        "feedback": "El Grado III, Gran dependencia, implica la necesidad de ayuda continua para las Actividades Básicas de la Vida Diaria debido a la pérdida total de autonomía."
+    },
+    {
+        "enunciado": "¿Cuál es la puntuación máxima del Índice de Barthel para determinar independencia funcional?",
+        "opciones": [
+            "50",
+            "75",
+            "90",
+            "100"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación de 100 en el Índice de Barthel indica independencia funcional en las Actividades Básicas de la Vida Diaria."
+    },
+    {
+        "enunciado": "¿Qué define el concepto de fragilidad según Morley y colaboradores?",
+        "opciones": [
+            "La capacidad de recuperación ante enfermedades crónicas.",
+            "Un síndrome caracterizado por pérdida de fuerza, resistencia y reservas fisiológicas.",
+            "La independencia en actividades de la vida diaria.",
+            "La acumulación de enfermedades crónicas."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "Morley y colaboradores definen la fragilidad como un síndrome de causas múltiples, caracterizado por pérdida de fuerza, resistencia y reservas fisiológicas, aumentando el riesgo de deterioro funcional."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza en el Examen de Salud para Mayores de 65 años para evaluar la fragilidad?",
+        "opciones": [
+            "Test de Pfeiffer",
+            "Cuestionario FRAIL",
+            "Índice de Barthel",
+            "Índice PROFUND"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Cuestionario FRAIL es una herramienta clave para la evaluación de la fragilidad en el Examen de Salud para Mayores de 65 años."
+    },
+    {
+        "enunciado": "¿Qué es el síndrome de fragilidad según la NANDA?",
+        "opciones": [
+            "Un estado irreversible de deterioro funcional.",
+            "Un estado dinámico de equilibrio inestable que aumenta la susceptibilidad a efectos adversos en la salud.",
+            "Un diagnóstico clínico específico relacionado con la sarcopenia.",
+            "Un indicador de pérdida permanente de autonomía."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "La NANDA define el síndrome de fragilidad como un estado dinámico de equilibrio inestable que aumenta la susceptibilidad a efectos adversos en la salud, especialmente en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué escala se emplea para valorar el esfuerzo del cuidador en el entorno sociofamiliar?",
+        "opciones": [
+            "Escala de Gijón",
+            "Índice de Barthel",
+            "Escala de Yesavage",
+            "Índice de Esfuerzo del Cuidador"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "entorno_sociofamiliar"
+        ],
+        "feedback": "El Índice de Esfuerzo del Cuidador se utiliza para valorar el impacto y la carga que el cuidado puede tener en los cuidadores familiares."
+    },
+    {
+        "enunciado": "¿Qué dimensión no está incluida en el modelo de calidad de vida de Schalock y Verdugo?",
+        "opciones": [
+            "Bienestar emocional",
+            "Inclusión social",
+            "Empoderamiento económico",
+            "Relaciones interpersonales"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "calidad_vida"
+        ],
+        "feedback": "El modelo de calidad de vida de Schalock y Verdugo no incluye el empoderamiento económico como dimensión específica, aunque promueve el bienestar material."
+    },
+    {
+        "enunciado": "¿Qué define el envejecimiento activo según la OMS?",
+        "opciones": [
+            "Un estado de plena actividad física y mental en la vejez.",
+            "El proceso de optimización de oportunidades de salud, participación y seguridad.",
+            "La ausencia de enfermedades crónicas en la vejez.",
+            "La integración social plena en comunidades activas."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "La OMS define el envejecimiento activo como el proceso de optimización de oportunidades de salud, participación y seguridad para mejorar la calidad de vida en la vejez."
+    },
+    {
+        "enunciado": "¿Qué componente no forma parte de las estrategias de prevención de la dependencia?",
+        "opciones": [
+            "Promoción de estilos de vida saludables.",
+            "Diagnóstico precoz de enfermedades degenerativas.",
+            "Creación de centros de internamiento masivo.",
+            "Desarrollo de programas de rehabilitación."
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "prevencion_dependencia"
+        ],
+        "feedback": "La prevención de la dependencia no incluye la creación de centros de internamiento masivo, sino estrategias orientadas a la promoción de salud y la rehabilitación."
+    },
+    {
+        "enunciado": "¿Qué criterio es esencial para clasificar a una persona como frágil según el modelo de Fried?",
+        "opciones": [
+            "Diagnóstico confirmado de una enfermedad crónica.",
+            "Presencia de al menos tres características: pérdida de peso, fatiga, debilidad, lentitud y actividad física reducida.",
+            "Dependencia total en actividades básicas de la vida diaria.",
+            "Puntuación inferior a 50 en el Índice de Barthel."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El modelo de Fried considera a una persona frágil si presenta al menos tres características: pérdida de peso, fatiga, debilidad, lentitud y actividad física reducida."
+    },
+    {
+        "enunciado": "¿Qué instrumento se utiliza para evaluar el riesgo de caídas en personas mayores?",
+        "opciones": [
+            "Índice PROFUND",
+            "Test Timed Up and Go (TUG)",
+            "Cuestionario FRAIL",
+            "Escala de Lawton y Brody"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "prevencion_caidas"
+        ],
+        "feedback": "El Test Timed Up and Go (TUG) evalúa la movilidad y el riesgo de caídas en personas mayores midiendo el tiempo necesario para levantarse, caminar y regresar al asiento."
+    },
+    {
+        "enunciado": "¿Qué define la Ley 4/2017 sobre discapacidad en Andalucía?",
+        "opciones": [
+            "La obligatoriedad de tratamiento médico para todas las personas con discapacidad.",
+            "La discapacidad como una interacción entre deficiencias permanentes y barreras sociales.",
+            "La discapacidad como una condición temporal vinculada a la edad.",
+            "La eliminación de los beneficios fiscales para personas con discapacidad."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "legislacion_dependencia"
+        ],
+        "feedback": "La Ley 4/2017 de Andalucía define la discapacidad como una interacción entre deficiencias permanentes y barreras sociales que limitan la participación en igualdad de condiciones."
+    },
+    {
+        "enunciado": "¿Qué elemento no forma parte del modelo de envejecimiento activo de Andalucía?",
+        "opciones": [
+            "Seguridad",
+            "Formación a lo largo de la vida",
+            "Integración en comunidades digitales",
+            "Participación social"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "El modelo andaluz de envejecimiento activo incluye pilares como seguridad, salud, participación y formación a lo largo de la vida, pero no hace mención específica a la integración en comunidades digitales."
+    },
+    {
+        "enunciado": "¿Cuál es un indicador clave de la fragilidad según la Escala de Edmonton?",
+        "opciones": [
+            "Deterioro cognitivo.",
+            "Índice de masa corporal elevado.",
+            "Independencia en actividades instrumentales.",
+            "Fuerza muscular aumentada."
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La Escala de Edmonton incluye indicadores como el deterioro cognitivo para evaluar la fragilidad en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el Índice de Barthel indica dependencia severa?",
+        "opciones": [
+            "80-100",
+            "50-79",
+            "21-49",
+            "Menos de 20"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación de 21 a 49 en el Índice de Barthel se considera indicativa de dependencia severa."
+    },
+    {
+        "enunciado": "¿Qué escala se usa para medir la satisfacción del cuidador principal?",
+        "opciones": [
+            "Escala de Gijón",
+            "Escala de Esfuerzo del Cuidador",
+            "Índice PROFUND",
+            "Escala de Yesavage"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "entorno_sociofamiliar"
+        ],
+        "feedback": "La Escala de Esfuerzo del Cuidador evalúa la carga emocional y física que experimentan los cuidadores principales."
+    },
+    {
+        "enunciado": "¿Qué herramienta valora la depresión en personas mayores?",
+        "opciones": [
+            "Escala de Yesavage",
+            "Test Timed Up and Go",
+            "Cuestionario FRAIL",
+            "Índice de Barthel"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_mental"
+        ],
+        "feedback": "La Escala de Yesavage es una herramienta específica para evaluar la depresión en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué prueba mide la capacidad funcional de las extremidades inferiores en personas mayores?",
+        "opciones": [
+            "SPPB (Short Physical Performance Battery)",
+            "Índice de Lawton y Brody",
+            "Cuestionario FRAIL",
+            "Test de Pfeiffer"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La SPPB mide la capacidad funcional de las extremidades inferiores, evaluando equilibrio, velocidad de la marcha y fuerza."
+    },
+    {
+        "enunciado": "¿Qué define el término envejecimiento activo según el Libro Blanco de Andalucía?",
+        "opciones": [
+            "La actividad física diaria en personas mayores.",
+            "El proceso de mejorar la salud, participación y seguridad durante la vejez.",
+            "El acceso a tecnologías digitales para mayores de 65 años.",
+            "La prevención de enfermedades crónicas exclusivamente."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "El Libro Blanco de Andalucía define el envejecimiento activo como el proceso de mejorar la salud, participación y seguridad, promoviendo una calidad de vida óptima en la vejez."
+    },
+    {
+        "enunciado": "¿Qué prueba se emplea para valorar la fragilidad funcional en personas mayores mediante velocidad de marcha?",
+        "opciones": [
+            "Índice de Barthel",
+            "SPPB (Short Physical Performance Battery)",
+            "Escala de Lawton y Brody",
+            "Cuestionario FRAIL"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La SPPB (Short Physical Performance Battery) evalúa la fragilidad funcional considerando aspectos como la velocidad de marcha y el equilibrio."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el Índice de Lawton y Brody indica independencia funcional en actividades instrumentales?",
+        "opciones": [
+            "De 6 a 8 puntos",
+            "De 3 a 5 puntos",
+            "Menos de 3 puntos",
+            "Más de 8 puntos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación de 6 a 8 puntos en el Índice de Lawton y Brody indica independencia funcional en actividades instrumentales de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué elemento se considera parte de las Actividades Instrumentales de la Vida Diaria (AIVD)?",
+        "opciones": [
+            "Alimentarse",
+            "Hacer compras",
+            "Vestirse",
+            "Desplazarse dentro del hogar"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Hacer compras es una Actividad Instrumental de la Vida Diaria (AIVD), vinculada a la independencia funcional en la comunidad."
+    },
+    {
+        "enunciado": "Según el modelo de Schalock y Verdugo, ¿qué dimensión de calidad de vida incluye la capacidad de decidir sobre aspectos personales?",
+        "opciones": [
+            "Bienestar emocional",
+            "Autodeterminación",
+            "Inclusión social",
+            "Relaciones interpersonales"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "calidad_vida"
+        ],
+        "feedback": "La autodeterminación, según Schalock y Verdugo, incluye la capacidad de tomar decisiones personales relacionadas con la propia vida."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza comúnmente para evaluar la depresión en personas mayores?",
+        "opciones": [
+            "Escala de Yesavage",
+            "Índice de Barthel",
+            "SPPB (Short Physical Performance Battery)",
+            "Cuestionario FRAIL"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_mental"
+        ],
+        "feedback": "La Escala de Yesavage es ampliamente utilizada para evaluar la depresión en personas mayores, considerando factores emocionales y conductuales."
+    },
+    {
+        "enunciado": "¿Qué tipo de apoyo es fundamental para prevenir la dependencia según la Ley 39/2006?",
+        "opciones": [
+            "Apoyo técnico para rehabilitación física exclusivamente.",
+            "Apoyo integral que combine servicios sociales y sanitarios.",
+            "Ayudas económicas directas sin valoración previa.",
+            "Asistencia domiciliaria sin supervisión."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "legislacion_dependencia"
+        ],
+        "feedback": "La Ley 39/2006 destaca la importancia de un apoyo integral que combine servicios sociales y sanitarios para prevenir la dependencia."
+    },
+    {
+        "enunciado": "¿Qué herramienta se emplea para detectar fragilidad en la población general?",
+        "opciones": [
+            "Índice de Lawton y Brody",
+            "Cuestionario FRAIL",
+            "Escala de Barthel",
+            "Test Timed Up and Go (TUG)"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Cuestionario FRAIL es una herramienta sencilla y eficaz para detectar la fragilidad en la población general, evaluando aspectos clave como la fatiga y pérdida de fuerza."
+    },
+    {
+        "enunciado": "¿Qué característica distingue al envejecimiento activo según la OMS?",
+        "opciones": [
+            "La exclusión de personas con enfermedades crónicas.",
+            "La inclusión de personas frágiles y con discapacidad.",
+            "La priorización de aspectos económicos sobre sociales.",
+            "La prevención de enfermedades mediante medicación intensiva."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "La OMS incluye a personas frágiles y con discapacidad en el concepto de envejecimiento activo, destacando su carácter universal e inclusivo."
+    },
+    {
+        "enunciado": "¿Cuál es una acción clave para promover el envejecimiento activo según el Libro Blanco de Andalucía?",
+        "opciones": [
+            "Implementar actividades físicas obligatorias.",
+            "Facilitar la participación social y comunitaria.",
+            "Centralizar los servicios médicos en un único punto.",
+            "Reducir la interacción social para evitar riesgos."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "El Libro Blanco de Andalucía enfatiza la participación social como un eje fundamental para el envejecimiento activo, promoviendo la inclusión y el empoderamiento."
+    },
+    {
+        "enunciado": "¿Qué herramienta evalúa el riesgo pronóstico en personas mayores con patologías crónicas?",
+        "opciones": [
+            "Índice PROFUND",
+            "Cuestionario FRAIL",
+            "Escala de Yesavage",
+            "SPPB (Short Physical Performance Battery)"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_pronostica"
+        ],
+        "feedback": "El Índice PROFUND evalúa el riesgo pronóstico en personas mayores con patologías crónicas, ayudando a planificar intervenciones personalizadas."
+    },
+    {
+        "enunciado": "¿Qué concepto define el estado en el que una persona necesita la ayuda de otros para realizar actividades básicas de la vida diaria?",
+        "opciones": [
+            "Autonomía",
+            "Dependencia",
+            "Fragilidad",
+            "Vulnerabilidad"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "La dependencia se define como el estado en que una persona necesita la ayuda de otros para realizar actividades básicas de la vida diaria debido a la pérdida de autonomía."
+    },
+    {
+        "enunciado": "¿Qué dimensión del modelo de Schalock y Verdugo está relacionada con los derechos y la igualdad?",
+        "opciones": [
+            "Bienestar emocional",
+            "Inclusión social",
+            "Relaciones interpersonales",
+            "Derechos"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "calidad_vida"
+        ],
+        "feedback": "La dimensión de derechos en el modelo de Schalock y Verdugo se relaciona con la igualdad de oportunidades y el acceso a la justicia para todas las personas."
+    },
+    {
+        "enunciado": "¿Qué escala mide la capacidad funcional de actividades como cocinar y usar el teléfono?",
+        "opciones": [
+            "Índice de Barthel",
+            "Índice de Lawton y Brody",
+            "Escala de Yesavage",
+            "SPPB (Short Physical Performance Battery)"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El Índice de Lawton y Brody mide la capacidad funcional para actividades instrumentales de la vida diaria como cocinar, usar el teléfono y manejar finanzas."
+    },
+    {
+        "enunciado": "¿Qué indicador en el modelo de Fried evalúa la fragilidad física?",
+        "opciones": [
+            "Pérdida de peso no intencionada",
+            "Elevada capacidad cardiovascular",
+            "Alta movilidad funcional",
+            "Fuerza muscular aumentada"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La pérdida de peso no intencionada es uno de los indicadores clave del modelo de Fried para evaluar la fragilidad física en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué acción es prioritaria en la prevención de la dependencia según el I Plan Andaluz de Promoción de la Autonomía Personal?",
+        "opciones": [
+            "Aumentar la construcción de residencias geriátricas.",
+            "Fomentar la integración entre servicios sociales y sanitarios.",
+            "Ofrecer ayuda económica sin supervisión.",
+            "Reducir la atención primaria en zonas rurales."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "prevencion_dependencia"
+        ],
+        "feedback": "El I Plan Andaluz de Promoción de la Autonomía Personal prioriza la integración entre servicios sociales y sanitarios para prevenir la dependencia y mejorar la calidad de vida."
+    },
+    {
+        "enunciado": "¿Qué escala evalúa la sobrecarga del cuidador en el entorno sociofamiliar?",
+        "opciones": [
+            "Índice PROFUND",
+            "Escala de Zarit",
+            "Escala de Gijón",
+            "Cuestionario FRAIL"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "entorno_sociofamiliar"
+        ],
+        "feedback": "La Escala de Zarit mide la sobrecarga percibida por el cuidador, evaluando el impacto emocional y físico del cuidado en el entorno familiar."
+    },
+    {
+        "enunciado": "¿Cuál es una característica clave del envejecimiento activo según la OMS?",
+        "opciones": [
+            "Fomentar exclusivamente actividades económicas.",
+            "Promover la participación social, salud y seguridad.",
+            "Enfocarse en la reducción de costos de atención médica.",
+            "Excluir a personas con discapacidad de programas activos."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "El envejecimiento activo según la OMS promueve la participación social, la salud y la seguridad, abarcando a toda la población, incluidas personas con discapacidad."
+    },
+    {
+        "enunciado": "¿Qué herramienta evalúa la funcionalidad global en personas con enfermedades crónicas avanzadas?",
+        "opciones": [
+            "Índice PROFUND",
+            "Índice de Barthel",
+            "SPPB (Short Physical Performance Battery)",
+            "Escala de Edmonton"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_pronostica"
+        ],
+        "feedback": "El Índice PROFUND evalúa la funcionalidad global y el pronóstico en personas con enfermedades crónicas avanzadas, siendo útil en la planificación de cuidados."
+    },
+    {
+        "enunciado": "¿Qué definición corresponde a la vulnerabilidad según el tema 58?",
+        "opciones": [
+            "Condición de riesgo que aumenta el daño potencial dependiendo del grado de fragilidad y dependencia.",
+            "Estado de completa independencia funcional en actividades diarias.",
+            "Capacidad de recuperación rápida ante enfermedades crónicas.",
+            "Reducción de barreras para personas con discapacidad."
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "La vulnerabilidad es una condición de riesgo que incrementa el daño potencial dependiendo del grado de fragilidad y dependencia de la persona."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el Índice de Barthel indica dependencia moderada?",
+        "opciones": [
+            "Menos de 20",
+            "Entre 21 y 60",
+            "Entre 61 y 90",
+            "Más de 90"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación entre 61 y 90 en el Índice de Barthel indica una dependencia moderada para realizar actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué medida es fundamental para fomentar el envejecimiento activo en la población mayor según el Libro Blanco de Andalucía?",
+        "opciones": [
+            "Aumentar las actividades recreativas.",
+            "Fomentar la formación a lo largo de la vida.",
+            "Implementar restricciones de movilidad.",
+            "Reducir las interacciones sociales."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "El Libro Blanco de Andalucía destaca la formación continua como una medida esencial para fomentar el envejecimiento activo y la participación social."
+    },
+    {
+        "enunciado": "¿Qué factor no se incluye en la valoración integral de personas mayores según el Examen de Salud para Mayores de 65 años?",
+        "opciones": [
+            "Factores sociales",
+            "Capacidad funcional",
+            "Estado económico",
+            "Capacidad cognitiva"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_integral"
+        ],
+        "feedback": "El Examen de Salud para Mayores de 65 años evalúa aspectos sociales, funcionales y cognitivos, pero no incluye una evaluación económica directa."
+    },
+    {
+        "enunciado": "¿Qué objetivo persigue la estrategia de envejecimiento activo promovida por la OMS?",
+        "opciones": [
+            "Extender el periodo de actividad laboral en la población mayor.",
+            "Optimizar las oportunidades de salud, participación y seguridad.",
+            "Reducir los costos asociados a la atención geriátrica.",
+            "Evitar la fragilidad mediante restricciones físicas."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "envejecimiento_activo"
+        ],
+        "feedback": "La OMS promueve el envejecimiento activo optimizando las oportunidades de salud, participación y seguridad para mejorar la calidad de vida en la vejez."
+    },
+    {
+        "enunciado": "¿Cuál es la principal causa de fragilidad física según el modelo de Fried?",
+        "opciones": [
+            "Deterioro cognitivo progresivo.",
+            "Sarcopenia o pérdida de masa muscular.",
+            "Aumento de la masa grasa corporal.",
+            "Hipertensión arterial persistente."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "El modelo de Fried identifica la sarcopenia, o pérdida de masa muscular, como una de las principales causas de fragilidad física."
+    },
+    {
+        "enunciado": "¿Qué escala permite valorar la sobrecarga emocional de los cuidadores familiares?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala de Zarit",
+            "Escala de Gijón",
+            "SPPB (Short Physical Performance Battery)"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "entorno_sociofamiliar"
+        ],
+        "feedback": "La Escala de Zarit evalúa la sobrecarga emocional y física de los cuidadores familiares, ayudando a identificar necesidades de apoyo."
+    },
+    {
+        "enunciado": "¿Qué característica define a una persona en riesgo de dependencia según el Examen de Salud para Mayores de 65 años?",
+        "opciones": [
+            "Puntuación de 90-100 en el Índice de Barthel.",
+            "Puntuación entre 61-90 en el Índice de Barthel.",
+            "Uso exclusivo de dispositivos de asistencia técnica.",
+            "Presencia de enfermedades crónicas irreversibles."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Una puntuación entre 61 y 90 en el Índice de Barthel identifica a personas en riesgo de dependencia, que pueden necesitar apoyo en actividades diarias."
+    },
+    {
+        "enunciado": "¿Qué estrategia se considera prioritaria para prevenir la dependencia en personas mayores según el I Plan Andaluz de Autonomía?",
+        "opciones": [
+            "Ampliar los programas de formación sanitaria.",
+            "Impulsar la coordinación entre servicios sociales y sanitarios.",
+            "Implementar servicios de hospitalización masiva.",
+            "Reducir la inversión en programas de envejecimiento activo."
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "prevencion_dependencia"
+        ],
+        "feedback": "El I Plan Andaluz de Autonomía prioriza la coordinación de servicios sociales y sanitarios como clave para prevenir la dependencia y promover la calidad de vida."
+    },
+    {
+        "enunciado": "¿Qué prueba es más adecuada para evaluar el equilibrio y movilidad en personas mayores?",
+        "opciones": [
+            "SPPB (Short Physical Performance Battery)",
+            "Índice de Lawton y Brody",
+            "Escala de Yesavage",
+            "Cuestionario FRAIL"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "La SPPB es una prueba estandarizada para evaluar el equilibrio, la movilidad y el rendimiento físico general en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué aspecto no se considera en la definición de discapacidad según la OMS?",
+        "opciones": [
+            "Restricciones en la participación social.",
+            "Limitaciones en la actividad diaria.",
+            "Presencia de barreras del entorno.",
+            "Ausencia de diagnóstico médico."
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "conceptos_basicos"
+        ],
+        "feedback": "La definición de discapacidad según la OMS incluye restricciones en la actividad y participación, pero no requiere necesariamente un diagnóstico médico específico."
+    },
+    {
+        "enunciado": "¿Qué es una Actividad Básica de la Vida Diaria (ABVD)?",
+        "opciones": [
+            "Usar el teléfono para emergencias.",
+            "Preparar la comida diariamente.",
+            "Alimentarse sin asistencia.",
+            "Realizar transacciones bancarias."
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema58",
+            "autonomia_fragilidad",
+            "valoracion_funcional"
+        ],
+        "feedback": "Alimentarse sin asistencia es una Actividad Básica de la Vida Diaria (ABVD), fundamental para evaluar la independencia funcional de una persona."
+    }
+]
