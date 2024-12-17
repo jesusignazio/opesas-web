@@ -1,0 +1,3778 @@
+[
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Plan Andaluz de Atención Integrada a Pacientes con Enfermedades Crónicas (PAAIPEC)?",
+        "opciones": [
+            "Mejorar la calidad de vida de los pacientes con enfermedades crónicas",
+            "Reducir únicamente los costos del sistema sanitario",
+            "Incrementar el uso de tecnologías sanitarias sin restricciones",
+            "Garantizar exclusivamente la atención hospitalaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_integrada"
+        ],
+        "feedback": "El principal objetivo del PAAIPEC es mejorar la calidad de vida de los pacientes con enfermedades crónicas mediante un enfoque integral y coordinado."
+    },
+    {
+        "enunciado": "¿Qué papel juega la Atención Primaria en el PAAIPEC?",
+        "opciones": [
+            "Es el nivel secundario de atención en el plan",
+            "Actúa como soporte de la atención hospitalaria",
+            "Es el eje central y puerta de entrada al sistema",
+            "No tiene relevancia en el proceso asistencial"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_primaria"
+        ],
+        "feedback": "La Atención Primaria es el eje central y la puerta de entrada del sistema, desempeñando un papel clave en el seguimiento del paciente crónico."
+    },
+    {
+        "enunciado": "¿Qué determina la categoría clínica 'G' en la definición de paciente pluripatológico según el SAS?",
+        "opciones": [
+            "Enfermedad respiratoria crónica con disnea grado 2",
+            "Anemia crónica con Hb < 10 mg/dl mantenida más de tres meses",
+            "Diabetes mellitus con retinopatía proliferativa",
+            "Enfermedad neurológica con déficit motor permanente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "pluripatologia"
+        ],
+        "feedback": "La categoría G incluye anemia crónica no tratable curativamente con Hb < 10 mg/dl en dos determinaciones separadas en más de tres meses."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes intervenciones es una prioridad en el PAAIPEC?",
+        "opciones": [
+            "El desarrollo de programas de alta hospitalaria sin coordinación",
+            "Fomentar la autonomía y corresponsabilidad del paciente",
+            "Incrementar el uso exclusivo de pruebas diagnósticas",
+            "Centrarse en atención especializada únicamente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomía_paciente"
+        ],
+        "feedback": "El PAAIPEC enfatiza la autonomía y corresponsabilidad del paciente como parte fundamental del manejo de enfermedades crónicas."
+    },
+    {
+        "enunciado": "Según el PAAIPEC, ¿cuál de las siguientes categorías NO corresponde a los criterios de pluripatología?",
+        "opciones": [
+            "Insuficiencia cardíaca en grado II de NYHA",
+            "Enfermedad inflamatoria intestinal",
+            "Retinopatía diabética leve",
+            "Hepatopatía crónica con hipertensión portal"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "criterios_pluripatologia"
+        ],
+        "feedback": "La retinopatía diabética leve no corresponde a los criterios de pluripatología; solo se considera en casos de retinopatía proliferativa."
+    },
+    {
+        "enunciado": "¿Qué valor del índice Barthel indica una limitación en actividades básicas de la vida diaria según los criterios de paciente pluripatológico?",
+        "opciones": [
+            "Menor de 80",
+            "Menor de 60",
+            "Igual a 70",
+            "Mayor de 90"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoración_funcional"
+        ],
+        "feedback": "Un índice de Barthel menor de 60 indica una limitación funcional para las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los componentes clave del modelo de atención propuesto por el PAAIPEC?",
+        "opciones": [
+            "Atención centrada únicamente en la enfermedad",
+            "Enfoque integral, coordinado y personalizado",
+            "Priorización de la atención hospitalaria sobre la primaria",
+            "Desarrollo de protocolos inflexibles de atención"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "modelo_integral"
+        ],
+        "feedback": "El PAAIPEC promueve un enfoque integral, coordinado y personalizado, centrado en la atención multidisciplinaria."
+    },
+    {
+        "enunciado": "En el contexto del PAAIPEC, ¿qué significa la 'valoración integral exhaustiva' (VIE)?",
+        "opciones": [
+            "Únicamente la valoración clínica y farmacológica",
+            "Evaluación global que incluye aspectos clínicos, funcionales y sociofamiliares",
+            "Una revisión periódica de las pruebas diagnósticas",
+            "Valoración enfocada en los episodios agudos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_integral"
+        ],
+        "feedback": "La valoración integral exhaustiva abarca aspectos clínicos, funcionales, cognitivos, sociofamiliares y farmacológicos del paciente."
+    },
+    {
+        "enunciado": "¿Qué resultado se espera del desarrollo del PAAIPEC en el Sistema Sanitario Público de Andalucía?",
+        "opciones": [
+            "Aumento del gasto sanitario sin resultados medibles",
+            "Reducción de la mortalidad prematura y complicaciones",
+            "Centralización de la atención en hospitales de referencia",
+            "Exclusión de la atención comunitaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "resultados_paaipiec"
+        ],
+        "feedback": "El desarrollo del PAAIPEC busca reducir la mortalidad prematura y las complicaciones mediante un enfoque preventivo e integral."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza en el PAAIPEC para definir las intervenciones en un paciente crónico?",
+        "opciones": [
+            "Plan de Acción Personalizado (PAP)",
+            "Índice Barthel",
+            "Escala NYHA",
+            "Pruebas de laboratorio generales"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "herramientas_paaipiec"
+        ],
+        "feedback": "El Plan de Acción Personalizado (PAP) es la herramienta utilizada en el PAAIPEC para definir metas, objetivos e intervenciones adaptadas."
+    },
+    {
+        "enunciado": "¿Qué línea estratégica del PAAIPEC busca fomentar el autocuidado y la responsabilidad del paciente?",
+        "opciones": [
+            "Prevención y promoción de la salud",
+            "Autonomía y corresponsabilidad del paciente",
+            "Modelo de atención hospitalaria",
+            "Orientación a resultados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "estrategias_paaipiec"
+        ],
+        "feedback": "La línea estratégica de autonomía y corresponsabilidad del paciente busca fomentar el autocuidado y la implicación activa del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el porcentaje aproximado de personas dependientes que sufren al menos una enfermedad crónica según el PAAIPEC?",
+        "opciones": [
+            "72%",
+            "80%",
+            "96%",
+            "50%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dependencia_enfermedad"
+        ],
+        "feedback": "Según el PAAIPEC, más del 96% de las personas dependientes padecen al menos una enfermedad crónica."
+    },
+    {
+        "enunciado": "¿Qué método se utiliza en el PAAIPEC para evaluar la fragilidad de los pacientes crónicos?",
+        "opciones": [
+            "Valoración geriátrica integral",
+            "Pruebas de función pulmonar",
+            "Medición de creatinina en sangre",
+            "Test de glucemia basal"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_fragilidad"
+        ],
+        "feedback": "La fragilidad de los pacientes crónicos se evalúa a través de la valoración geriátrica integral dentro del PAAIPEC."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes enfermedades pertenece a la categoría B en el paciente pluripatológico?",
+        "opciones": [
+            "Enfermedad renal crónica",
+            "Insuficiencia cardíaca",
+            "Diabetes mellitus con retinopatía",
+            "Fractura de cadera osteoporótica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorías_pluripatología"
+        ],
+        "feedback": "La enfermedad renal crónica pertenece a la categoría B en la definición del paciente pluripatológico."
+    },
+    {
+        "enunciado": "¿Qué concepto central diferencia al PAAIPEC de otros modelos de atención sanitaria?",
+        "opciones": [
+            "Atención fragmentada por episodios agudos",
+            "Atención integral y longitudinal centrada en la persona",
+            "Priorización de la atención hospitalaria frente a primaria",
+            "Intervención solo en etapas avanzadas de enfermedad"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "modelo_atencion"
+        ],
+        "feedback": "El PAAIPEC se centra en una atención integral y longitudinal, poniendo el foco en la persona y no solo en la enfermedad."
+    },
+    {
+        "enunciado": "¿Qué profesional sanitario es considerado el referente principal en la atención a pacientes crónicos complejos en el PAAIPEC?",
+        "opciones": [
+            "Especialista hospitalario",
+            "Médico y enfermería de familia",
+            "Trabajador social",
+            "Farmacéutico clínico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_primaria_referente"
+        ],
+        "feedback": "En el PAAIPEC, los profesionales de medicina y enfermería de familia son los referentes principales en la atención a pacientes crónicos complejos."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes criterios es clave para definir a un paciente como pluripatológico?",
+        "opciones": [
+            "Presencia de una enfermedad crónica con tratamiento activo",
+            "Dos o más categorías clínicas con síntomas continuados",
+            "Ingresos hospitalarios frecuentes sin diagnóstico definido",
+            "Enfermedades agudas recurrentes sin tratamiento"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "criterios_pluripatología"
+        ],
+        "feedback": "Un paciente pluripatológico presenta dos o más categorías clínicas con síntomas continuados y/o agudizaciones frecuentes."
+    },
+    {
+        "enunciado": "¿Qué elemento clave incluye el PAAIPEC para optimizar la gestión de la información médica de los pacientes crónicos?",
+        "opciones": [
+            "Digitalización de las consultas",
+            "Uso de nuevas tecnologías como telemedicina",
+            "Incremento en las visitas domiciliarias",
+            "Archivado manual de historias clínicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "tecnologia_paaipiec"
+        ],
+        "feedback": "El PAAIPEC promueve el uso de nuevas tecnologías, como la telemedicina y plataformas digitales, para optimizar la gestión de la información médica."
+    },
+    {
+        "enunciado": "¿Qué componente se evalúa en la valoración sociofamiliar del paciente crónico según el PAAIPEC?",
+        "opciones": [
+            "Estado cognitivo del paciente",
+            "Funcionalidad de los órganos vitales",
+            "Red de apoyo social y familiar",
+            "Adherencia farmacológica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La valoración sociofamiliar evalúa la red de apoyo social y familiar del paciente crónico para planificar intervenciones adecuadas."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los objetivos del modelo de atención compartida entre Atención Primaria y Hospitalaria?",
+        "opciones": [
+            "Reducir la implicación de los médicos de familia",
+            "Promover la fragmentación de la atención sanitaria",
+            "Garantizar la continuidad y coordinación de cuidados",
+            "Priorizar las intervenciones en etapas agudas únicamente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_compartida"
+        ],
+        "feedback": "El modelo de atención compartida busca garantizar la continuidad y coordinación de los cuidados entre Atención Primaria y Hospitalaria."
+    },
+    {
+        "enunciado": "¿Qué modelo conceptual internacional sirvió de base para el desarrollo del PAAIPEC?",
+        "opciones": [
+            "Modelo de atención integrada de la OMS",
+            "Chronic Care Model (CCM) de Wagner",
+            "Modelo de Estratificación de Kaiser Permanente",
+            "Modelo de Atención Multimodal (MAM)"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "modelo_conceptual"
+        ],
+        "feedback": "El PAAIPEC está inspirado en el Chronic Care Model (CCM) desarrollado por Wagner y colaboradores en Estados Unidos."
+    },
+    {
+        "enunciado": "¿Qué intervención estratégica del PAAIPEC está directamente orientada a la integración sociosanitaria?",
+        "opciones": [
+            "Desarrollo del Plan en el marco de la gestión clínica",
+            "Promoción del uso adecuado del medicamento",
+            "Modelo de atención compartida entre primaria y hospitalaria",
+            "Modelo de integración sociosanitaria"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "integracion_sociosanitaria"
+        ],
+        "feedback": "El desarrollo de un modelo de integración sociosanitaria busca atender las necesidades de cuidados en personas con problemas crónicos complejos."
+    },
+    {
+        "enunciado": "¿Qué característica diferencia al PAAIPEC respecto a la atención tradicional de pacientes con enfermedades crónicas?",
+        "opciones": [
+            "El abordaje episódico de enfermedades agudas",
+            "La priorización del tratamiento hospitalario sobre el ambulatorio",
+            "El enfoque longitudinal y biográfico centrado en el paciente",
+            "La fragmentación en la asignación de profesionales referentes"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "modelo_atencion"
+        ],
+        "feedback": "El PAAIPEC introduce un enfoque longitudinal y biográfico que aborda al paciente en su globalidad y no como episodios aislados."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes proyectos estratégicos del PAAIPEC busca evaluar intervenciones y resultados en salud?",
+        "opciones": [
+            "Desarrollar un modelo de atención compartida",
+            "Evaluar las intervenciones y resultados",
+            "Afrontar los determinantes de la enfermedad crónica",
+            "Promocionar el uso adecuado del medicamento"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_resultados"
+        ],
+        "feedback": "La evaluación de intervenciones y resultados en salud es un proyecto estratégico del PAAIPEC para medir el impacto de las acciones implementadas."
+    },
+    {
+        "enunciado": "¿Qué aspecto NO está incluido en la Valoración Integral Exhaustiva (VIE) del PAAIPEC?",
+        "opciones": [
+            "Valoración de preferencias y valores del paciente",
+            "Valoración farmacológica",
+            "Valoración cognitiva",
+            "Valoración de riesgos laborales"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_integral"
+        ],
+        "feedback": "La valoración de riesgos laborales no está incluida en la Valoración Integral Exhaustiva (VIE) del PAAIPEC."
+    },
+    {
+        "enunciado": "Según el PAAIPEC, ¿qué porcentaje de personas mayores presenta una condición crónica?",
+        "opciones": [
+            "Entre el 50 y el 70%",
+            "Entre el 60 y el 80%",
+            "Entre el 72 y el 96%",
+            "Exactamente el 90%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevalencia_cronicidad"
+        ],
+        "feedback": "Según el PAAIPEC, entre el 72% y el 96% de las personas mayores presentan al menos una condición crónica."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes líneas estratégicas del PAAIPEC está enfocada en garantizar una atención de calidad basada en datos medibles?",
+        "opciones": [
+            "Gestión poblacional",
+            "Orientación a resultados",
+            "Prevención y promoción de la salud",
+            "Autonomía y corresponsabilidad del paciente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "orientacion_resultados"
+        ],
+        "feedback": "La orientación a resultados garantiza que la atención del PAAIPEC se base en datos objetivos y en la evaluación de indicadores."
+    },
+    {
+        "enunciado": "¿Qué tecnología promueve el PAAIPEC para facilitar el seguimiento remoto de los pacientes crónicos?",
+        "opciones": [
+            "Redes sociales especializadas",
+            "Telemedicina y monitorización remota",
+            "Historiales médicos en papel",
+            "Consultas presenciales sistemáticas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "tecnologias_innovadoras"
+        ],
+        "feedback": "El PAAIPEC promueve el uso de telemedicina y monitorización remota para facilitar el seguimiento y accesibilidad de los pacientes crónicos."
+    },
+    {
+        "enunciado": "¿Qué resultado tiene como objetivo el desarrollo de programas de prevención dentro del PAAIPEC?",
+        "opciones": [
+            "Reducir la incidencia y mortalidad prematura de enfermedades crónicas",
+            "Centralizar la atención en hospitales especializados",
+            "Aumentar el uso de pruebas diagnósticas en Atención Primaria",
+            "Evitar intervenciones de promoción de salud"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_paaipiec"
+        ],
+        "feedback": "Los programas de prevención del PAAIPEC tienen como objetivo reducir la incidencia y la mortalidad prematura de las enfermedades crónicas."
+    },
+    {
+        "enunciado": "¿Cuál es una de las principales ventajas de los modelos de atención comunitaria impulsados por el PAAIPEC?",
+        "opciones": [
+            "Reforzar el aislamiento del paciente crónico",
+            "Promover la colaboración con recursos y asociaciones comunitarias",
+            "Reducir la participación de profesionales de la salud",
+            "Priorizar únicamente el tratamiento hospitalario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_comunitaria"
+        ],
+        "feedback": "El PAAIPEC impulsa modelos de atención comunitaria que promueven la colaboración con recursos y asociaciones comunitarias para reforzar el apoyo al paciente."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes factores es considerado un determinante clave en el desarrollo de enfermedades crónicas según el PAAIPEC?",
+        "opciones": [
+            "El acceso exclusivo a hospitales terciarios",
+            "El desarrollo de programas de investigación genética",
+            "Los determinantes sociales de la salud",
+            "El envejecimiento exclusivo de la población rural"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "determinantes_salud"
+        ],
+        "feedback": "El PAAIPEC identifica los determinantes sociales de la salud como clave en el desarrollo y abordaje de enfermedades crónicas."
+    },
+    {
+        "enunciado": "¿Qué herramienta específica se utiliza para identificar a pacientes con necesidades complejas de salud en el PAAIPEC?",
+        "opciones": [
+            "Índice de fragilidad de Rockwood",
+            "Índice PROFUND",
+            "Escala de NYHA para insuficiencia cardiaca",
+            "Puntuación MRC para disnea"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "herramientas_evaluacion"
+        ],
+        "feedback": "El índice PROFUND se utiliza para identificar y estratificar a pacientes con necesidades complejas de salud en el PAAIPEC."
+    },
+    {
+        "enunciado": "Según el PAAIPEC, ¿qué papel tiene la gestión clínica en el modelo de atención integrada?",
+        "opciones": [
+            "Reemplazar el papel de los médicos de Atención Primaria",
+            "Definir el marco para ejecutar los cambios organizativos",
+            "Centrar los cuidados exclusivamente en unidades hospitalarias",
+            "Reducir la participación de otros profesionales de la salud"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "gestion_clinica"
+        ],
+        "feedback": "La gestión clínica define el marco organizativo necesario para implementar cambios y adaptarse a las necesidades de los pacientes crónicos."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de recursos consume aproximadamente el 4% de la población andaluza clasificada como pluripatológica?",
+        "opciones": [
+            "15% de los recursos",
+            "20% de los recursos",
+            "30% de los recursos",
+            "40% de los recursos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_economico"
+        ],
+        "feedback": "El 4% de la población andaluza identificada como pluripatológica consume aproximadamente el 30% de los recursos sanitarios."
+    },
+    {
+        "enunciado": "¿Qué se pretende evitar mediante la integración sociosanitaria en el PAAIPEC?",
+        "opciones": [
+            "Duplicidades y fragmentación en la atención",
+            "Incremento de visitas hospitalarias programadas",
+            "Sobrecarga de las unidades de hospitalización",
+            "Atención exclusiva en entornos comunitarios"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "integracion_sociosanitaria"
+        ],
+        "feedback": "La integración sociosanitaria busca evitar duplicidades y fragmentación, mejorando la eficiencia y continuidad de la atención."
+    },
+    {
+        "enunciado": "¿Qué componente clave del PAAIPEC promueve la implementación de tecnologías de la información y comunicación?",
+        "opciones": [
+            "Espacio compartido",
+            "Atención exclusivamente hospitalaria",
+            "Gestión clínica centralizada",
+            "Orientación de resultados a corto plazo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "tecnologias_informacion"
+        ],
+        "feedback": "El espacio compartido es un componente clave donde se integran las tecnologías de información y comunicación para mejorar la coordinación."
+    },
+    {
+        "enunciado": "¿Cuál es una de las características del enfoque multidisciplinar impulsado por el PAAIPEC?",
+        "opciones": [
+            "Atención centrada exclusivamente en la patología principal",
+            "Colaboración entre médicos, enfermeros y otros profesionales",
+            "Exclusión de la participación de trabajadores sociales",
+            "Intervención basada únicamente en diagnósticos especializados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_multidisciplinar"
+        ],
+        "feedback": "El enfoque multidisciplinar del PAAIPEC promueve la colaboración entre profesionales como médicos, enfermeros, psicólogos y trabajadores sociales."
+    },
+    {
+        "enunciado": "¿Qué intervenciones prioriza el PAAIPEC en pacientes con alto riesgo de caídas?",
+        "opciones": [
+            "Planificación anticipada de decisiones",
+            "Revisión de medicación y entorno domiciliario",
+            "Implementación de telemedicina",
+            "Valoración cognitiva simplificada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_caidas"
+        ],
+        "feedback": "En pacientes con alto riesgo de caídas, el PAAIPEC prioriza intervenciones como la revisión de medicación y las barreras en el domicilio."
+    },
+    {
+        "enunciado": "¿Qué elemento del PAAIPEC garantiza la personalización de la atención al paciente crónico?",
+        "opciones": [
+            "Valoración farmacológica periódica",
+            "Plan de Acción Personalizado (PAP)",
+            "Revisión sistemática del historial clínico",
+            "Incremento en las pruebas complementarias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "personalizacion_atencion"
+        ],
+        "feedback": "El Plan de Acción Personalizado (PAP) garantiza la atención adaptada a las necesidades y valores individuales del paciente crónico."
+    },
+    {
+        "enunciado": "¿Qué tipo de enfermedades se incluyen en la categoría E de paciente pluripatológico?",
+        "opciones": [
+            "Enfermedad respiratoria crónica con disnea grado 2",
+            "Hepatopatía crónica con hipertensión portal",
+            "Enfermedad neurológica con déficit motor permanente",
+            "Insuficiencia cardiaca grado II de la NYHA"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_clinicas"
+        ],
+        "feedback": "La categoría E incluye enfermedades neurológicas con déficit motor permanente que provocan limitación para actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los principales desafíos que aborda el PAAIPEC en relación con la atención a pacientes crónicos?",
+        "opciones": [
+            "Incrementar la cantidad de ingresos hospitalarios",
+            "Evitar la fragmentación y garantizar la continuidad asistencial",
+            "Centralizar la atención exclusivamente en unidades especializadas",
+            "Priorizar la atención aguda sobre la crónica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "continuidad_asistencial"
+        ],
+        "feedback": "El PAAIPEC busca evitar la fragmentación del sistema y garantizar la continuidad asistencial mediante un modelo integrado."
+    },
+    {
+        "enunciado": "¿Qué acción dentro del PAAIPEC está orientada a garantizar la formación de los profesionales sanitarios?",
+        "opciones": [
+            "La implantación de planes de alta hospitalaria",
+            "Programas de formación en competencias específicas",
+            "Reducción del papel de la atención primaria",
+            "Optimización de circuitos hospitalarios especializados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "formacion_profesionales"
+        ],
+        "feedback": "El PAAIPEC incluye programas de formación orientados a garantizar competencias específicas en la atención de pacientes crónicos."
+    },
+    {
+        "enunciado": "Según el PAAIPEC, ¿qué papel desempeñan los activos comunitarios en la atención a pacientes crónicos?",
+        "opciones": [
+            "Son elementos secundarios sin impacto relevante",
+            "Se integran como parte activa en el proceso de atención",
+            "Reemplazan el papel de los profesionales sanitarios",
+            "Se limitan a intervenir en situaciones de urgencia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "activos_comunitarios"
+        ],
+        "feedback": "Los activos comunitarios, como asociaciones y recursos locales, se integran como parte activa en la atención a pacientes crónicos."
+    },
+    {
+        "enunciado": "¿Qué criterio define a un paciente pluripatológico según el PAAIPEC?",
+        "opciones": [
+            "Tres o más enfermedades agudas recurrentes",
+            "Dos o más categorías clínicas crónicas con síntomas continuados",
+            "Una enfermedad crónica con tratamiento hospitalario exclusivo",
+            "Criterios de dependencia moderada en actividades avanzadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "criterios_pluripatologia"
+        ],
+        "feedback": "Un paciente pluripatológico presenta dos o más categorías clínicas crónicas con síntomas continuados y/o agudizaciones frecuentes."
+    },
+    {
+        "enunciado": "¿Qué objetivo busca la línea estratégica de 'orientación a resultados' en el PAAIPEC?",
+        "opciones": [
+            "Medir y evaluar el impacto de las intervenciones implementadas",
+            "Aumentar la frecuencia de pruebas diagnósticas",
+            "Centrar la atención en la hospitalización prolongada",
+            "Eliminar la intervención de los profesionales de enfermería"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_resultados"
+        ],
+        "feedback": "La línea estratégica de 'orientación a resultados' en el PAAIPEC busca medir y evaluar el impacto de las intervenciones implementadas."
+    },
+    {
+        "enunciado": "¿Cuál es una característica clave del 'modelo de atención integral e integrada' promovido por el PAAIPEC?",
+        "opciones": [
+            "Intervención basada en episodios agudos",
+            "Atención fragmentada entre niveles asistenciales",
+            "Coordinación entre atención primaria y hospitalaria",
+            "Priorización de intervenciones aisladas a corto plazo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_integrada"
+        ],
+        "feedback": "El modelo de atención integral e integrada promueve la coordinación entre los niveles asistenciales, garantizando continuidad de cuidados."
+    },
+    {
+        "enunciado": "¿Qué indicador funcional se utiliza en el PAAIPEC para evaluar la autonomía del paciente pluripatológico?",
+        "opciones": [
+            "Índice Barthel",
+            "Escala NYHA",
+            "Índice de fragilidad de Fried",
+            "Valoración de Pfeiffer"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_funcional"
+        ],
+        "feedback": "El índice Barthel se utiliza en el PAAIPEC para evaluar la autonomía y funcionalidad del paciente pluripatológico."
+    },
+    {
+        "enunciado": "¿Qué proyecto estratégico del PAAIPEC está dirigido a la prevención de la enfermedad crónica?",
+        "opciones": [
+            "Promoción del uso adecuado del medicamento",
+            "Desarrollo del modelo de atención compartida",
+            "Gestión de determinantes de la enfermedad crónica",
+            "Evaluación de resultados clínicos"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_enfermedad"
+        ],
+        "feedback": "El proyecto estratégico de 'gestión de determinantes de la enfermedad crónica' se enfoca en la prevención de enfermedades crónicas."
+    },
+    {
+        "enunciado": "¿Qué papel desempeñan las tecnologías de la información y comunicación (TIC) en el PAAIPEC?",
+        "opciones": [
+            "Reducen la necesidad de atención primaria",
+            "Facilitan la monitorización remota y el acceso a servicios de salud",
+            "Se limitan al almacenamiento de historiales clínicos en papel",
+            "Reemplazan la intervención de equipos multidisciplinares"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "tecnologias_paaipiec"
+        ],
+        "feedback": "Las TIC facilitan la monitorización remota, el acceso a servicios y la coordinación en la atención de pacientes crónicos."
+    },
+    {
+        "enunciado": "¿Qué elemento se incorpora en el PAAIPEC para evitar la variabilidad en las intervenciones de salud?",
+        "opciones": [
+            "Protocolos específicos basados en evidencias científicas",
+            "Dependencia exclusiva de la opinión de expertos",
+            "Eliminación de la atención multidisciplinar",
+            "Priorización de intervenciones hospitalarias no planificadas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "protocolos_atencion"
+        ],
+        "feedback": "El PAAIPEC incorpora protocolos específicos basados en evidencias científicas para evitar la variabilidad en las intervenciones."
+    },
+    {
+        "enunciado": "¿Qué categoría clínica en el PAAIPEC incluye a pacientes con hepatopatía crónica e insuficiencia hepatocelular?",
+        "opciones": [
+            "Categoría B",
+            "Categoría C",
+            "Categoría D",
+            "Categoría E"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_clinicas"
+        ],
+        "feedback": "La categoría D incluye a pacientes con hepatopatía crónica con datos de insuficiencia hepatocelular o hipertensión portal."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes elementos es considerado esencial en la planificación anticipada de decisiones del PAAIPEC?",
+        "opciones": [
+            "La preferencia de los familiares sobre la del paciente",
+            "El consentimiento del paciente en situación de capacidad",
+            "La intervención exclusiva del médico internista",
+            "El establecimiento de un plan genérico de cuidados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "planificacion_decisiones"
+        ],
+        "feedback": "La planificación anticipada de decisiones requiere el consentimiento informado del paciente en situación de capacidad y conocimiento del diagnóstico."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de la mortalidad mundial se atribuye a enfermedades crónicas según datos mencionados en el PAAIPEC?",
+        "opciones": [
+            "63%",
+            "75%",
+            "45%",
+            "50%"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "mortalidad_cronica"
+        ],
+        "feedback": "El PAAIPEC indica que aproximadamente el 63% de la mortalidad mundial se atribuye a enfermedades crónicas."
+    },
+    {
+        "enunciado": "¿Qué función tiene el equipo multidisciplinar en el modelo PAAIPEC?",
+        "opciones": [
+            "Centrar la atención exclusivamente en la enfermedad más grave",
+            "Coordinar la atención integral desde diferentes perspectivas profesionales",
+            "Reducir la intervención de trabajadores sociales y enfermeros",
+            "Proporcionar cuidados fragmentados en episodios agudos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "equipo_multidisciplinar"
+        ],
+        "feedback": "El equipo multidisciplinar en el PAAIPEC coordina la atención integral, combinando las perspectivas de diferentes profesionales de la salud."
+    },
+    {
+        "enunciado": "¿Qué intervención se considera prioritaria en los pacientes pluripatológicos frágiles según el PAAIPEC?",
+        "opciones": [
+            "Administración de tratamientos preventivos generalizados",
+            "Programa de actividad física multicomponente",
+            "Incremento de pruebas complementarias periódicas",
+            "Reducción del contacto con atención primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "fragilidad_intervencion"
+        ],
+        "feedback": "El PAAIPEC prioriza programas de actividad física multicomponente en pacientes pluripatológicos frágiles para mejorar su funcionalidad."
+    },
+    {
+        "enunciado": "¿Qué factor social se menciona en el PAAIPEC como desencadenante de la aparición precoz de la multimorbilidad?",
+        "opciones": [
+            "El acceso a recursos tecnológicos",
+            "El nivel socioeconómico bajo",
+            "La urbanización de áreas rurales",
+            "La falta de tratamiento farmacológico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "factores_sociales"
+        ],
+        "feedback": "El PAAIPEC destaca que el nivel socioeconómico bajo puede adelantar entre 10 y 15 años la aparición de la multimorbilidad."
+    },
+    {
+        "enunciado": "¿Qué herramienta se menciona en el PAAIPEC para evaluar el riesgo de descompensación en pacientes pluripatológicos?",
+        "opciones": [
+            "Índice de Barthel",
+            "Escala MRC de disnea",
+            "Índice PROFUND",
+            "Escala Pfeiffer de deterioro cognitivo"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "riesgo_descompensacion"
+        ],
+        "feedback": "El índice PROFUND es una herramienta utilizada en el PAAIPEC para evaluar el riesgo de descompensación en pacientes pluripatológicos."
+    },
+    {
+        "enunciado": "¿Qué resultado espera el PAAIPEC al reforzar la atención compartida entre niveles asistenciales?",
+        "opciones": [
+            "Incrementar la duplicación de pruebas diagnósticas",
+            "Mejorar la continuidad y calidad en la atención del paciente",
+            "Centralizar la atención en hospitales terciarios",
+            "Disminuir la participación de los profesionales de Atención Primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_compartida"
+        ],
+        "feedback": "El PAAIPEC busca mejorar la continuidad y calidad de la atención mediante una atención compartida entre niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué categoría clínica del paciente pluripatológico incluye anemia crónica con hemoglobina < 10 mg/dL mantenida?",
+        "opciones": [
+            "Categoría G",
+            "Categoría E",
+            "Categoría H",
+            "Categoría B"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_clinicas"
+        ],
+        "feedback": "La categoría G incluye anemia crónica con hemoglobina < 10 mg/dL mantenida en más de tres meses."
+    },
+    {
+        "enunciado": "¿Qué componente del PAAIPEC garantiza que las acciones y resultados en salud sean evaluados periódicamente?",
+        "opciones": [
+            "Modelo de atención compartida",
+            "Orientación a resultados y evaluación continua",
+            "Gestión exclusiva de recursos hospitalarios",
+            "Intervención sistemática en episodios agudos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_continua"
+        ],
+        "feedback": "El PAAIPEC incluye la orientación a resultados y la evaluación continua para garantizar que las acciones implementadas sean efectivas."
+    },
+    {
+        "enunciado": "¿Qué aspecto innovador propone el PAAIPEC en relación con la atención de los pacientes crónicos?",
+        "opciones": [
+            "Atención centrada únicamente en hospitales de referencia",
+            "Un modelo centrado en la persona y su contexto sociofamiliar",
+            "Intervenciones diseñadas solo para la fase aguda de la enfermedad",
+            "Eliminación de la intervención de la Atención Primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "modelo_atencion_innovador"
+        ],
+        "feedback": "El PAAIPEC propone un modelo innovador centrado en la persona y su contexto sociofamiliar, garantizando una atención integral y continua."
+    },
+    {
+        "enunciado": "¿Qué área de evaluación del PAAIPEC permite identificar el estado emocional del paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración del área afectiva",
+            "Valoración clínica",
+            "Valoración farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La valoración del área afectiva permite identificar el estado emocional y detectar problemas como ansiedad o depresión en el paciente crónico."
+    },
+    {
+        "enunciado": "¿Qué estrategia se impulsa en el PAAIPEC para mejorar la adherencia terapéutica en los pacientes pluripatológicos?",
+        "opciones": [
+            "Simplificación y conciliación de la medicación",
+            "Reducción de visitas médicas",
+            "Aplicación de tratamientos exclusivamente hospitalarios",
+            "Aumento de pruebas diagnósticas innecesarias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "adherencia_terapeutica"
+        ],
+        "feedback": "El PAAIPEC impulsa la simplificación y conciliación de la medicación como estrategia clave para mejorar la adherencia terapéutica."
+    },
+    {
+        "enunciado": "¿Qué significa la corresponsabilidad del paciente en el contexto del PAAIPEC?",
+        "opciones": [
+            "El paciente asume todas las decisiones médicas sin apoyo profesional",
+            "El paciente participa activamente en el manejo de su salud",
+            "La atención se basa en un modelo exclusivamente paternalista",
+            "El paciente depende totalmente de la intervención hospitalaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "corresponsabilidad_paciente"
+        ],
+        "feedback": "La corresponsabilidad implica que el paciente participa activamente en el manejo de su salud y en la toma de decisiones compartidas con los profesionales."
+    },
+    {
+        "enunciado": "¿Qué categoría clínica del paciente pluripatológico incluye la enfermedad neurológica con deterioro cognitivo moderado?",
+        "opciones": [
+            "Categoría A",
+            "Categoría E",
+            "Categoría H",
+            "Categoría F"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_clinicas"
+        ],
+        "feedback": "La categoría E incluye enfermedades neurológicas con deterioro cognitivo moderado, como se evalúa mediante la escala Pfeiffer."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes NO es un componente de la Valoración Integral Exhaustiva (VIE) del PAAIPEC?",
+        "opciones": [
+            "Valoración pronóstica",
+            "Valoración sociofamiliar",
+            "Valoración de la adherencia escolar",
+            "Valoración funcional"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_integral"
+        ],
+        "feedback": "La adherencia escolar no forma parte de la VIE; en cambio, sí lo son las valoraciones pronóstica, sociofamiliar y funcional."
+    },
+    {
+        "enunciado": "¿Qué elemento promueve el PAAIPEC para mejorar la accesibilidad y eficiencia en la atención al paciente crónico?",
+        "opciones": [
+            "Priorización de hospitalización prolongada",
+            "Telemedicina y uso de TIC",
+            "Disminución del contacto con Atención Primaria",
+            "Intervenciones fragmentadas por niveles asistenciales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "tecnologias_accesibilidad"
+        ],
+        "feedback": "El PAAIPEC promueve la telemedicina y el uso de tecnologías de la información y comunicación (TIC) para mejorar accesibilidad y eficiencia."
+    },
+    {
+        "enunciado": "¿Qué porcentaje de la población andaluza consume el 30% de los recursos sanitarios según el PAAIPEC?",
+        "opciones": [
+            "El 10%",
+            "El 5%",
+            "El 4%",
+            "El 15%"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_recursos"
+        ],
+        "feedback": "El 4% de la población andaluza clasificada como pluripatológica consume aproximadamente el 30% de los recursos sanitarios disponibles."
+    },
+    {
+        "enunciado": "¿Qué intervención se recomienda en el PAAIPEC para pacientes pluripatológicos con riesgo elevado de caídas?",
+        "opciones": [
+            "Evaluación del entorno domiciliario y revisión de medicación",
+            "Incremento de la hospitalización preventiva",
+            "Aplicación de tratamientos farmacológicos de refuerzo",
+            "Aislamiento prolongado en unidades especializadas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_caidas"
+        ],
+        "feedback": "El PAAIPEC recomienda la revisión de la medicación y la evaluación del entorno domiciliario como intervenciones para reducir el riesgo de caídas."
+    },
+    {
+        "enunciado": "¿Qué principio ético subyace en la planificación anticipada de decisiones dentro del PAAIPEC?",
+        "opciones": [
+            "Autonomía del paciente",
+            "Beneficencia exclusiva del médico",
+            "Intervención paternalista en la toma de decisiones",
+            "Priorización de familiares sobre el paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "etica_paaipiec"
+        ],
+        "feedback": "La planificación anticipada de decisiones se basa en el principio ético de autonomía, respetando la voluntad y preferencias del paciente."
+    },
+    {
+        "enunciado": "¿Qué sistema o área del organismo agrupa las patologías incluidas en la categoría C del PAAIPEC?",
+        "opciones": [
+            "Sistema nervioso central",
+            "Sistema respiratorio",
+            "Sistema cardiovascular",
+            "Sistema endocrino"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_paaipiec"
+        ],
+        "feedback": "La categoría C del PAAIPEC agrupa las enfermedades crónicas del sistema respiratorio, como las que generan disnea persistente o hipoxemia."
+    },
+    {
+        "enunciado": "¿Qué característica principal comparten las enfermedades clasificadas en la categoría E del PAAIPEC?",
+        "opciones": [
+            "Causan deterioro funcional del sistema neurológico",
+            "Afectan principalmente al sistema inmunológico",
+            "Provocan síntomas respiratorios crónicos",
+            "Se limitan a afectar el sistema digestivo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_neurologicas"
+        ],
+        "feedback": "Las enfermedades de la categoría E afectan principalmente al sistema neurológico, provocando deterioro funcional motor o cognitivo."
+    },
+    {
+        "enunciado": "¿En qué categoría del PAAIPEC se incluyen las enfermedades relacionadas con insuficiencia renal crónica y vasculitis?",
+        "opciones": [
+            "Categoría B",
+            "Categoría D",
+            "Categoría F",
+            "Categoría H"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_renales"
+        ],
+        "feedback": "La categoría B del PAAIPEC incluye enfermedades como la insuficiencia renal crónica y las vasculitis, que afectan al sistema renal e inmunológico."
+    },
+    {
+        "enunciado": "¿Qué función cumplen las categorías clínicas del PAAIPEC en la identificación de pacientes pluripatológicos?",
+        "opciones": [
+            "Facilitar la clasificación según órganos o sistemas afectados",
+            "Determinar exclusivamente el tratamiento hospitalario",
+            "Identificar únicamente a pacientes con enfermedad aguda",
+            "Seleccionar pacientes con una única enfermedad crónica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "criterios_clasificacion"
+        ],
+        "feedback": "Las categorías clínicas del PAAIPEC permiten clasificar a los pacientes pluripatológicos según los órganos o sistemas afectados por enfermedades crónicas."
+    },
+    {
+        "enunciado": "¿Qué área del organismo se considera en la categoría D del PAAIPEC?",
+        "opciones": [
+            "Sistema digestivo y hepatobiliar",
+            "Sistema nervioso periférico",
+            "Sistema cardiovascular",
+            "Sistema respiratorio"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_digestivas"
+        ],
+        "feedback": "La categoría D del PAAIPEC engloba enfermedades que afectan al sistema digestivo y hepatobiliar, como las hepatopatías crónicas."
+    },
+    {
+        "enunciado": "¿Por qué es importante la clasificación por categorías clínicas en el modelo PAAIPEC?",
+        "opciones": [
+            "Porque determina únicamente los recursos hospitalarios disponibles",
+            "Porque facilita una intervención multidisciplinar basada en el sistema afectado",
+            "Porque selecciona a los pacientes con mayor prioridad económica",
+            "Porque excluye a los pacientes sin enfermedades crónicas avanzadas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "importancia_clasificacion"
+        ],
+        "feedback": "La clasificación por categorías clínicas facilita una intervención multidisciplinar adaptada a los sistemas u órganos afectados en cada paciente."
+    },
+    {
+        "enunciado": "¿Qué grupos de enfermedades incluye la categoría G del PAAIPEC?",
+        "opciones": [
+            "Enfermedades osteoarticulares crónicas",
+            "Neoplasias y hemopatías crónicas no curativas",
+            "Enfermedades respiratorias crónicas",
+            "Trastornos endocrinos y metabólicos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_neoplasicas"
+        ],
+        "feedback": "La categoría G incluye neoplasias activas y hemopatías crónicas no subsidiarias de tratamiento curativo, como anemia crónica grave."
+    },
+    {
+        "enunciado": "¿Qué área funcional del organismo está comprometida en la categoría F del PAAIPEC?",
+        "opciones": [
+            "Sistema cardiovascular y arteriopatía periférica",
+            "Sistema digestivo",
+            "Sistema inmunológico",
+            "Sistema neurológico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_cardiovasculares"
+        ],
+        "feedback": "La categoría F incluye patologías del sistema cardiovascular y arteriopatía periférica, además de complicaciones avanzadas de la diabetes."
+    },
+    {
+        "enunciado": "¿Qué sistema está comprometido en las enfermedades de la categoría H del PAAIPEC?",
+        "opciones": [
+            "Sistema osteoarticular",
+            "Sistema endocrino",
+            "Sistema nervioso central",
+            "Sistema renal"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_osteoarticulares"
+        ],
+        "feedback": "La categoría H agrupa las enfermedades crónicas del sistema osteoarticular que limitan las actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Cuál es una característica común de las enfermedades incluidas en la categoría A del PAAIPEC?",
+        "opciones": [
+            "Comprometen el sistema cardiovascular en situación estable",
+            "Afectan al sistema inmunológico con síntomas severos",
+            "Provocan alteraciones del sistema respiratorio crónico",
+            "Se limitan a condiciones agudas recurrentes"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categorias_cardiacas"
+        ],
+        "feedback": "La categoría A incluye enfermedades cardiovasculares crónicas, como insuficiencia cardíaca en situación estable y cardiopatía isquémica."
+    },
+    {
+        "enunciado": "¿Qué sistema orgánico es el principal afectado en las enfermedades clasificadas dentro de la **categoría A** del PAAIPEC?",
+        "opciones": [
+            "Sistema cardiovascular",
+            "Sistema nervioso",
+            "Sistema respiratorio",
+            "Sistema osteoarticular"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_a"
+        ],
+        "feedback": "La categoría A del PAAIPEC incluye enfermedades que afectan al **sistema cardiovascular**, como la insuficiencia cardíaca estable y la cardiopatía isquémica. Recordatorio: **Categoría A** = enfermedades cardiovasculares."
+    },
+    {
+        "enunciado": "¿Qué tipo de enfermedades crónicas se incluyen en la **categoría B** del PAAIPEC?",
+        "opciones": [
+            "Enfermedades respiratorias crónicas",
+            "Enfermedades autoinmunes y renales crónicas",
+            "Enfermedades osteoarticulares crónicas",
+            "Trastornos neurológicos con secuelas motoras"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_b"
+        ],
+        "feedback": "La categoría B del PAAIPEC engloba **enfermedades autoinmunes y renales crónicas**, como las vasculitis y la insuficiencia renal. Recordatorio: **Categoría B** = enfermedades autoinmunes y renales."
+    },
+    {
+        "enunciado": "¿Qué sistema orgánico se ve comprometido en las enfermedades incluidas en la **categoría C** del PAAIPEC?",
+        "opciones": [
+            "Sistema digestivo",
+            "Sistema respiratorio",
+            "Sistema cardiovascular",
+            "Sistema nervioso"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_c"
+        ],
+        "feedback": "La categoría C del PAAIPEC incluye **enfermedades respiratorias crónicas**, como aquellas que causan disnea persistente o hipoxemia. Recordatorio: **Categoría C** = enfermedades respiratorias."
+    },
+    {
+        "enunciado": "¿Qué grupo de enfermedades está representado en la **categoría D** del PAAIPEC?",
+        "opciones": [
+            "Enfermedades hepáticas y digestivas crónicas",
+            "Enfermedades renales crónicas",
+            "Trastornos del sistema nervioso",
+            "Enfermedades cardiovasculares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_d"
+        ],
+        "feedback": "La categoría D del PAAIPEC agrupa **enfermedades digestivas y hepáticas crónicas**, como la hepatopatía crónica. Recordatorio: **Categoría D** = enfermedades hepáticas y digestivas."
+    },
+    {
+        "enunciado": "¿Qué caracteriza a las enfermedades clasificadas en la **categoría E** del PAAIPEC?",
+        "opciones": [
+            "Afectación del sistema nervioso con deterioro motor o cognitivo",
+            "Insuficiencia renal crónica con proteinuria",
+            "Complicaciones de diabetes con retinopatía",
+            "Trastornos respiratorios con desaturación de oxígeno"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_e"
+        ],
+        "feedback": "La categoría E del PAAIPEC incluye **enfermedades neurológicas** con afectación motora o cognitiva, como el deterioro moderado. Recordatorio: **Categoría E** = enfermedades neurológicas."
+    },
+    {
+        "enunciado": "¿Qué órganos o sistemas se ven principalmente afectados en las enfermedades de la **categoría F** del PAAIPEC?",
+        "opciones": [
+            "Sistema endocrino y metabólico",
+            "Sistema cardiovascular y arteriopatía periférica",
+            "Sistema osteoarticular",
+            "Sistema respiratorio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_f"
+        ],
+        "feedback": "La categoría F del PAAIPEC engloba **enfermedades cardiovasculares y arteriopatías periféricas**, como las complicaciones avanzadas de la diabetes. Recordatorio: **Categoría F** = enfermedades cardiovasculares y vasculares periféricas."
+    },
+    {
+        "enunciado": "¿Qué condición es característica en las enfermedades de la **categoría G** del PAAIPEC?",
+        "opciones": [
+            "Afectación osteoarticular severa",
+            "Presencia de neoplasias o hemopatías crónicas",
+            "Compromiso del sistema renal con creatinina elevada",
+            "Insuficiencia respiratoria crónica con hipoxia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_g"
+        ],
+        "feedback": "La categoría G del PAAIPEC incluye **neoplasias activas y hemopatías crónicas** no subsidiarias de tratamiento curativo. Recordatorio: **Categoría G** = neoplasias y hemopatías crónicas."
+    },
+    {
+        "enunciado": "¿Qué limitación funcional define a las enfermedades incluidas en la **categoría H** del PAAIPEC?",
+        "opciones": [
+            "Limitación para las actividades básicas de la vida diaria",
+            "Deterioro cognitivo leve a moderado",
+            "Presencia de anemia crónica no tratable",
+            "Afectación severa del sistema digestivo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_h"
+        ],
+        "feedback": "La categoría H del PAAIPEC se caracteriza por **enfermedades osteoarticulares crónicas** que limitan las actividades básicas de la vida diaria. Recordatorio: **Categoría H** = enfermedades osteoarticulares con limitación funcional."
+    },
+    {
+        "enunciado": "¿Qué sistema orgánico principal se ve afectado en las enfermedades incluidas en la **categoría B** del PAAIPEC?",
+        "opciones": [
+            "Sistema respiratorio",
+            "Sistema inmunológico y renal",
+            "Sistema cardiovascular",
+            "Sistema osteoarticular"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_b"
+        ],
+        "feedback": "La categoría B del PAAIPEC se enfoca en enfermedades que afectan al **sistema inmunológico y renal**, como la insuficiencia renal crónica y las vasculitis. Recordatorio: **Categoría B** = enfermedades autoinmunes y renales."
+    },
+    {
+        "enunciado": "¿Qué condición es característica de las enfermedades incluidas en la **categoría D** del PAAIPEC?",
+        "opciones": [
+            "Afectación hepática o digestiva crónica",
+            "Deterioro cognitivo avanzado",
+            "Insuficiencia renal con diálisis",
+            "Complicaciones respiratorias con hipoxia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_d"
+        ],
+        "feedback": "La categoría D del PAAIPEC incluye **enfermedades digestivas y hepáticas crónicas**, como la hepatopatía crónica con hipertensión portal. Recordatorio: **Categoría D** = enfermedades hepáticas y digestivas."
+    },
+    {
+        "enunciado": "¿Qué función tiene la clasificación de la **categoría C** dentro del PAAIPEC?",
+        "opciones": [
+            "Identificar enfermedades cardiovasculares",
+            "Agrupar enfermedades del sistema respiratorio crónico",
+            "Clasificar enfermedades del sistema inmunológico",
+            "Categorizar trastornos metabólicos complejos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_c"
+        ],
+        "feedback": "La categoría C del PAAIPEC agrupa **enfermedades respiratorias crónicas** como la EPOC avanzada y otras patologías que comprometen la función pulmonar. Recordatorio: **Categoría C** = enfermedades respiratorias crónicas."
+    },
+    {
+        "enunciado": "¿Qué patologías son más representativas de la **categoría F** en la clasificación del PAAIPEC?",
+        "opciones": [
+            "Enfermedades cardiovasculares y vasculares periféricas",
+            "Enfermedades respiratorias crónicas",
+            "Trastornos del sistema nervioso central",
+            "Enfermedades hepáticas avanzadas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_f"
+        ],
+        "feedback": "La categoría F del PAAIPEC engloba **enfermedades cardiovasculares y vasculares periféricas**, así como complicaciones avanzadas de diabetes. Recordatorio: **Categoría F** = enfermedades cardiovasculares y vasculares periféricas."
+    },
+    {
+        "enunciado": "¿Qué afectación común define a las enfermedades incluidas en la **categoría E** del PAAIPEC?",
+        "opciones": [
+            "Compromiso respiratorio crónico",
+            "Deterioro neurológico funcional o cognitivo",
+            "Enfermedades inmunológicas avanzadas",
+            "Complicaciones de tipo endocrino"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_e"
+        ],
+        "feedback": "La categoría E del PAAIPEC incluye **enfermedades neurológicas** que provocan deterioro funcional motor o cognitivo, como los ACV con secuelas. Recordatorio: **Categoría E** = enfermedades neurológicas."
+    },
+    {
+        "enunciado": "¿Qué característica principal comparten las enfermedades clasificadas dentro de la **categoría G** del PAAIPEC?",
+        "opciones": [
+            "Afectación hepática con hipertensión portal",
+            "Neoplasias activas y hemopatías crónicas no curativas",
+            "Trastornos digestivos con insuficiencia funcional",
+            "Enfermedades renales con diálisis crónica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_g"
+        ],
+        "feedback": "La categoría G incluye **neoplasias activas y hemopatías crónicas** no subsidiarias de tratamiento curativo, como el cáncer activo. Recordatorio: **Categoría G** = neoplasias y hemopatías crónicas."
+    },
+    {
+        "enunciado": "¿Qué área funcional se ve comprometida en las enfermedades clasificadas en la **categoría H** del PAAIPEC?",
+        "opciones": [
+            "Sistema digestivo",
+            "Sistema osteoarticular con limitación funcional",
+            "Sistema respiratorio crónico",
+            "Sistema cardiovascular"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_h"
+        ],
+        "feedback": "La categoría H del PAAIPEC agrupa **enfermedades osteoarticulares crónicas** que provocan limitaciones funcionales en actividades básicas. Recordatorio: **Categoría H** = enfermedades osteoarticulares crónicas."
+    },
+    {
+        "enunciado": "¿Por qué es importante la categoría A en la clasificación del PAAIPEC?",
+        "opciones": [
+            "Permite identificar enfermedades renales avanzadas",
+            "Agrupa enfermedades cardiovasculares crónicas",
+            "Clasifica enfermedades respiratorias complejas",
+            "Detecta neoplasias activas en fases tempranas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_a"
+        ],
+        "feedback": "La categoría A del PAAIPEC agrupa **enfermedades cardiovasculares crónicas**, como la insuficiencia cardíaca estable. Recordatorio: **Categoría A** = enfermedades cardiovasculares."
+    },
+    {
+        "enunciado": "¿Qué diferencia a las enfermedades incluidas en la **categoría D** respecto a otras categorías del PAAIPEC?",
+        "opciones": [
+            "Afectan principalmente al sistema hepático y digestivo",
+            "Se limitan al sistema cardiovascular",
+            "Comprometen el sistema nervioso central",
+            "Se centran en alteraciones del sistema inmunológico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_d"
+        ],
+        "feedback": "La categoría D incluye **enfermedades del sistema hepático y digestivo**, como la hepatopatía crónica. Recordatorio: **Categoría D** = enfermedades hepáticas y digestivas."
+    },
+    {
+        "enunciado": "¿Qué sistemas orgánicos se ven afectados en las enfermedades clasificadas en la **categoría F** del PAAIPEC?",
+        "opciones": [
+            "Sistema inmunológico y endocrino",
+            "Sistema cardiovascular y vascular periférico",
+            "Sistema respiratorio con insuficiencia crónica",
+            "Sistema neurológico con deterioro funcional"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "categoria_f"
+        ],
+        "feedback": "La categoría F del PAAIPEC afecta al **sistema cardiovascular y vascular periférico**, como en la arteriopatía periférica. Recordatorio: **Categoría F** = enfermedades cardiovasculares y vasculares periféricas."
+    },
+    {
+        "enunciado": "¿Qué herramienta clave del PAAIPEC permite diseñar un Plan de Cuidados Individualizado para el paciente crónico?",
+        "opciones": [
+            "Valoración geriátrica inicial",
+            "Plan de Acción Personalizado (PAP)",
+            "Historial clínico electrónico",
+            "Evaluación de adherencia terapéutica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "plan_cuidados"
+        ],
+        "feedback": "El **Plan de Acción Personalizado (PAP)** es la herramienta central del PAAIPEC para diseñar un Plan de Cuidados Individualizado adaptado a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué elemento NO debe faltar en un Plan de Cuidados Individualizado según el PAAIPEC?",
+        "opciones": [
+            "Objetivos terapéuticos realistas y consensuados",
+            "Identificación de necesidades de la familia y cuidador",
+            "Un listado genérico de tratamientos médicos",
+            "Valoración de preferencias y valores del paciente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "plan_cuidados"
+        ],
+        "feedback": "Un Plan de Cuidados Individualizado debe incluir objetivos terapéuticos, la valoración de preferencias del paciente y el apoyo al cuidador. Los listados genéricos no tienen cabida."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de un Plan de Cuidados Individualizado en pacientes crónicos complejos?",
+        "opciones": [
+            "Reducir el número de visitas al hospital",
+            "Mejorar la calidad de vida y autonomía del paciente",
+            "Aumentar la frecuencia de pruebas diagnósticas",
+            "Centrar los cuidados únicamente en el ámbito hospitalario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "plan_cuidados_objetivos"
+        ],
+        "feedback": "El objetivo principal de un Plan de Cuidados Individualizado es **mejorar la calidad de vida y la autonomía del paciente**, adaptando los cuidados a sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué profesional desempeña un papel central en el desarrollo del Plan de Cuidados Individualizado en Atención Primaria?",
+        "opciones": [
+            "Médico especialista hospitalario",
+            "Enfermería de familia y medicina de familia",
+            "Trabajador social comunitario",
+            "Farmacéutico clínico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "rol_profesional"
+        ],
+        "feedback": "El desarrollo del Plan de Cuidados Individualizado en Atención Primaria es liderado por **enfermería y medicina de familia**, con un enfoque integral y coordinado."
+    },
+    {
+        "enunciado": "¿Qué componente clave del Plan de Cuidados Individualizado asegura que se adapten las intervenciones a cada fase de la enfermedad crónica?",
+        "opciones": [
+            "La revisión periódica del plan de acción",
+            "La inclusión de pruebas diagnósticas complejas",
+            "La monitorización continua en unidades hospitalarias",
+            "El incremento de visitas a atención especializada"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "plan_cuidados_flexibilidad"
+        ],
+        "feedback": "La **revisión periódica del plan** garantiza que las intervenciones se adapten a cada fase de la enfermedad y a la evolución del paciente."
+    },
+    {
+        "enunciado": "¿Qué aspecto debe incluir un Plan de Cuidados Individualizado para garantizar la corresponsabilidad del paciente?",
+        "opciones": [
+            "Definición de metas y objetivos consensuados con el paciente",
+            "Decisiones médicas tomadas exclusivamente por el profesional",
+            "Programación de pruebas sin consultar al paciente",
+            "Intervenciones únicamente enfocadas en la medicación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "corresponsabilidad_paciente"
+        ],
+        "feedback": "El Plan de Cuidados debe incluir **metas y objetivos consensuados** para garantizar la corresponsabilidad y la participación activa del paciente."
+    },
+    {
+        "enunciado": "¿Qué evaluación periódica es necesaria para ajustar el Plan de Cuidados Individualizado a la evolución del paciente crónico?",
+        "opciones": [
+            "Evaluación integral del paciente",
+            "Revisión trimestral del tratamiento farmacológico",
+            "Control hospitalario especializado cada seis meses",
+            "Seguimiento exclusivo de indicadores clínicos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_plan_cuidados"
+        ],
+        "feedback": "La **evaluación integral periódica** es clave para ajustar el Plan de Cuidados Individualizado según la evolución clínica, funcional y social del paciente."
+    },
+    {
+        "enunciado": "¿Qué elemento del Plan de Cuidados Individualizado facilita la detección precoz de complicaciones en el paciente pluripatológico?",
+        "opciones": [
+            "El historial clínico electrónico compartido",
+            "El registro de signos de alarma consensuados con el paciente",
+            "El seguimiento exclusivo por especialistas",
+            "La programación de pruebas complementarias sin criterio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_precoz"
+        ],
+        "feedback": "El **registro de signos de alarma** en el Plan de Cuidados facilita la detección precoz de complicaciones, mejorando la respuesta asistencial."
+    },
+    {
+        "enunciado": "¿Qué característica hace que el Plan de Cuidados Individualizado sea efectivo en el PAAIPEC?",
+        "opciones": [
+            "Su enfoque generalizado para todos los pacientes",
+            "La adaptación a las necesidades específicas de cada paciente",
+            "La exclusión de la valoración sociofamiliar",
+            "La limitación a intervenciones exclusivamente hospitalarias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "efectividad_plan_cuidados"
+        ],
+        "feedback": "La **adaptación a las necesidades específicas del paciente** hace que el Plan de Cuidados Individualizado sea efectivo y centrado en la persona."
+    },
+    {
+        "enunciado": "¿Qué papel tienen los cuidadores en la elaboración del Plan de Cuidados Individualizado en el PAAIPEC?",
+        "opciones": [
+            "No tienen ningún papel relevante en la planificación",
+            "Se consideran aliados clave para garantizar el éxito del plan",
+            "Deben ser evaluados únicamente en fase aguda",
+            "Sustituyen al equipo profesional en la toma de decisiones"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "rol_cuidador"
+        ],
+        "feedback": "Los cuidadores son **aliados clave** en la elaboración e implementación del Plan de Cuidados, ya que brindan apoyo continuo al paciente."
+    },
+    {
+        "enunciado": "¿Qué aspecto es imprescindible en un Plan de Cuidados Individualizado para garantizar su continuidad en los diferentes niveles asistenciales?",
+        "opciones": [
+            "Centralización del cuidado únicamente en el hospital",
+            "Coordinación entre Atención Primaria y Hospitalaria",
+            "Priorización de pruebas diagnósticas frecuentes",
+            "Limitación del plan a un único profesional sanitario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "continuidad_asistencial"
+        ],
+        "feedback": "La **coordinación entre Atención Primaria y Hospitalaria** garantiza la continuidad del Plan de Cuidados Individualizado en los diferentes niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué elemento del Plan de Cuidados Individualizado facilita la implicación activa del paciente en el proceso asistencial?",
+        "opciones": [
+            "La evaluación periódica del equipo médico sin consulta al paciente",
+            "El establecimiento de objetivos alcanzables y consensuados",
+            "La implementación de un protocolo genérico",
+            "La limitación de información al cuidador principal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "implicacion_paciente"
+        ],
+        "feedback": "El establecimiento de **objetivos alcanzables y consensuados** facilita la implicación activa del paciente en su proceso de cuidados."
+    },
+    {
+        "enunciado": "¿Qué objetivo debe cumplir un Plan de Cuidados Individualizado en pacientes con enfermedades crónicas complejas?",
+        "opciones": [
+            "Reducir la carga asistencial sin seguimiento personalizado",
+            "Optimizar la calidad de vida y prevenir complicaciones",
+            "Priorizar la atención en hospitales terciarios",
+            "Eliminar la participación del cuidador en la planificación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "objetivos_plan_cuidados"
+        ],
+        "feedback": "El Plan de Cuidados Individualizado debe **optimizar la calidad de vida del paciente y prevenir complicaciones** mediante intervenciones personalizadas."
+    },
+    {
+        "enunciado": "¿Qué valoración se debe realizar para ajustar el Plan de Cuidados Individualizado en un paciente con deterioro funcional progresivo?",
+        "opciones": [
+            "Valoración farmacológica únicamente",
+            "Valoración integral funcional, cognitiva y social",
+            "Evaluación específica del tratamiento hospitalario",
+            "Revisión de adherencia sin evaluar al cuidador"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_integral"
+        ],
+        "feedback": "Una **valoración integral funcional, cognitiva y social** permite ajustar el Plan de Cuidados a la evolución del paciente con deterioro progresivo."
+    },
+    {
+        "enunciado": "¿Qué profesionales deben participar en la elaboración de un Plan de Cuidados Individualizado para pacientes crónicos complejos?",
+        "opciones": [
+            "Exclusivamente médicos especialistas",
+            "Médicos de familia, enfermería y otros profesionales multidisciplinares",
+            "Solo el personal hospitalario de alta complejidad",
+            "Farmacéuticos y psicólogos, sin intervención clínica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "equipo_multidisciplinar"
+        ],
+        "feedback": "La participación de **médicos de familia, enfermería y profesionales multidisciplinares** asegura una atención integral y ajustada a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué función tiene la **Valoración Sociofamiliar** en un Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Detectar problemas cognitivos del paciente",
+            "Evaluar el apoyo y la red de recursos del entorno del paciente",
+            "Medir la eficacia de la farmacoterapia utilizada",
+            "Priorizar intervenciones hospitalarias frente a las comunitarias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **Valoración Sociofamiliar** evalúa el apoyo del entorno del paciente y los recursos disponibles para garantizar cuidados efectivos."
+    },
+    {
+        "enunciado": "¿Por qué es fundamental la revisión periódica de un Plan de Cuidados Individualizado en el PAAIPEC?",
+        "opciones": [
+            "Para evitar cambios en la situación del paciente",
+            "Para ajustar las intervenciones a la evolución clínica y funcional",
+            "Para limitar el papel de Atención Primaria en el proceso",
+            "Para priorizar intervenciones hospitalarias frente a comunitarias"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "revision_periodica"
+        ],
+        "feedback": "La revisión periódica del plan es clave para **ajustar las intervenciones a la evolución clínica, funcional y social del paciente**."
+    },
+    {
+        "enunciado": "¿Qué papel juega el cuidador principal en la implementación del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Proporciona apoyo y asegura el cumplimiento del plan",
+            "Debe limitar su intervención a aspectos emocionales",
+            "Sustituye a los profesionales sanitarios en la toma de decisiones",
+            "No tiene ninguna participación relevante en el proceso"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "rol_cuidador"
+        ],
+        "feedback": "El cuidador principal juega un papel crucial al **proporcionar apoyo** y asegurar el **cumplimiento del plan** en el día a día del paciente."
+    },
+    {
+        "enunciado": "¿Qué aspecto del Plan de Cuidados Individualizado permite detectar posibles descompensaciones en el paciente pluripatológico?",
+        "opciones": [
+            "Identificación de signos de alerta específicos",
+            "Evaluación exclusiva del entorno social",
+            "Programación de hospitalizaciones preventivas",
+            "Priorizar la medicación sin revisión periódica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_descompensacion"
+        ],
+        "feedback": "La **identificación de signos de alerta específicos** en el Plan de Cuidados permite detectar descompensaciones de manera temprana."
+    },
+    {
+        "enunciado": "¿Qué estrategia debe incorporar un Plan de Cuidados Individualizado para fomentar la autonomía del paciente crónico?",
+        "opciones": [
+            "Programar intervenciones exclusivamente hospitalarias",
+            "Promover la educación sanitaria y el autocuidado",
+            "Reducir el seguimiento médico a largo plazo",
+            "Eliminar la participación del entorno sociofamiliar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomia_paciente"
+        ],
+        "feedback": "El Plan de Cuidados debe **promover la educación sanitaria y el autocuidado** para fomentar la autonomía del paciente crónico."
+    },
+    {
+        "enunciado": "¿Cuál es el principal beneficio de implementar un Plan de Cuidados Individualizado en pacientes crónicos complejos?",
+        "opciones": [
+            "Reducir el uso de recursos comunitarios",
+            "Mejorar la coordinación y continuidad de la atención",
+            "Centralizar los cuidados en el ámbito hospitalario",
+            "Evitar el contacto con los cuidadores principales"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "beneficio_plan_cuidados"
+        ],
+        "feedback": "El principal beneficio de un Plan de Cuidados Individualizado es **mejorar la coordinación y la continuidad de la atención**, adaptándola a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué componente del Plan de Cuidados Individualizado ayuda a prevenir complicaciones en pacientes pluripatológicos?",
+        "opciones": [
+            "Monitorización de signos y síntomas de alerta",
+            "Aumento de hospitalizaciones frecuentes",
+            "Limitación de intervenciones a un solo nivel asistencial",
+            "Priorización de tratamientos sin evaluación funcional"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_complicaciones"
+        ],
+        "feedback": "La **monitorización de signos y síntomas de alerta** en el Plan de Cuidados Individualizado ayuda a prevenir complicaciones en pacientes pluripatológicos."
+    },
+    {
+        "enunciado": "¿Qué papel tiene la evaluación funcional dentro del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Identificar problemas en la funcionalidad física y la autonomía",
+            "Determinar exclusivamente los tratamientos farmacológicos",
+            "Reducir la intervención de la atención domiciliaria",
+            "Priorizar hospitalizaciones innecesarias en fases estables"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La evaluación funcional permite **identificar problemas físicos y de autonomía** para adaptar el plan a las necesidades reales del paciente."
+    },
+    {
+        "enunciado": "¿Qué acción es fundamental en un Plan de Cuidados Individualizado para garantizar la adherencia terapéutica?",
+        "opciones": [
+            "Simplificar y revisar periódicamente el tratamiento",
+            "Eliminar la intervención de los cuidadores",
+            "Priorizar tratamientos genéricos sin consulta al paciente",
+            "Fomentar el ingreso prolongado en unidades hospitalarias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "adherencia_terapeutica"
+        ],
+        "feedback": "La **simplificación y revisión periódica del tratamiento** en el Plan de Cuidados Individualizado es clave para garantizar la adherencia terapéutica."
+    },
+    {
+        "enunciado": "¿Por qué es importante incluir la red de apoyo social en el Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Para reducir la carga del equipo sanitario",
+            "Para facilitar el seguimiento y mejorar la calidad de vida del paciente",
+            "Para limitar la responsabilidad del equipo asistencial",
+            "Para evitar intervenciones en Atención Primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "red_apoyo_social"
+        ],
+        "feedback": "Incluir la **red de apoyo social** facilita el seguimiento del paciente y mejora su calidad de vida al garantizar un soporte constante."
+    },
+    {
+        "enunciado": "¿Qué elemento clave debe estar presente en un Plan de Cuidados Individualizado para pacientes con deterioro cognitivo?",
+        "opciones": [
+            "Evaluación del entorno domiciliario y apoyo al cuidador",
+            "Prescripción intensiva de fármacos neurológicos",
+            "Reducción de intervenciones comunitarias",
+            "Programación de ingresos hospitalarios prolongados"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deterioro_cognitivo"
+        ],
+        "feedback": "El **apoyo al cuidador** y la **evaluación del entorno domiciliario** son esenciales en un Plan de Cuidados Individualizado para pacientes con deterioro cognitivo."
+    },
+    {
+        "enunciado": "¿Qué acción garantiza que un Plan de Cuidados Individualizado sea dinámico y ajustado a las necesidades del paciente?",
+        "opciones": [
+            "Aplicación de un protocolo estándar sin cambios",
+            "Revisión y actualización periódica del plan",
+            "Reducción del contacto con el equipo multidisciplinar",
+            "Intervenciones centradas únicamente en hospitalización"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "ajuste_dinamico"
+        ],
+        "feedback": "La **revisión y actualización periódica** del Plan de Cuidados garantiza que este sea dinámico y se ajuste a las necesidades cambiantes del paciente."
+    },
+    {
+        "enunciado": "¿Qué rol tiene la educación sanitaria dentro del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Mejorar el autocuidado y la toma de decisiones del paciente",
+            "Centralizar la atención exclusivamente en hospitales",
+            "Reemplazar la intervención del equipo sanitario",
+            "Reducir el seguimiento en Atención Primaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "educacion_sanitaria"
+        ],
+        "feedback": "La **educación sanitaria** mejora el **autocuidado** y fomenta la toma de decisiones informadas por parte del paciente en su proceso de salud."
+    },
+    {
+        "enunciado": "¿Qué aspecto del Plan de Cuidados Individualizado permite involucrar a los cuidadores en el proceso asistencial?",
+        "opciones": [
+            "Identificación de roles y necesidades del cuidador",
+            "Programación de intervenciones exclusivamente hospitalarias",
+            "Reducción del seguimiento domiciliario",
+            "Limitación de su implicación a fases agudas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "implicacion_cuidador"
+        ],
+        "feedback": "La **identificación de roles y necesidades** del cuidador permite involucrarlo activamente en el proceso asistencial y mejorar el soporte del paciente."
+    },
+    {
+        "enunciado": "¿Qué componente del Plan de Cuidados Individualizado permite medir su efectividad a lo largo del tiempo?",
+        "opciones": [
+            "Indicadores de resultados clínicos y funcionales",
+            "Programación exclusiva de pruebas complementarias",
+            "Reducción del papel de Atención Primaria",
+            "Priorización de hospitalizaciones preventivas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_resultados"
+        ],
+        "feedback": "La medición de **indicadores de resultados clínicos y funcionales** permite evaluar la efectividad del Plan de Cuidados Individualizado a lo largo del tiempo."
+    },
+    {
+        "enunciado": "¿Qué elemento del Plan de Cuidados Individualizado permite adaptar las intervenciones a las preferencias del paciente?",
+        "opciones": [
+            "La valoración integral multidimensional",
+            "El uso de protocolos estandarizados",
+            "La limitación a tratamientos farmacológicos",
+            "El ingreso obligatorio en unidades especializadas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "personalizacion_cuidados"
+        ],
+        "feedback": "La **valoración integral multidimensional** permite conocer las preferencias, valores y necesidades del paciente, personalizando así las intervenciones del plan."
+    },
+    {
+        "enunciado": "¿Qué aspecto garantiza la continuidad asistencial en un Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Intervenciones aisladas sin comunicación entre niveles",
+            "Coordinación entre los distintos niveles asistenciales",
+            "Limitación de cuidados al ámbito hospitalario",
+            "Revisiones infrecuentes del plan de acción"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "continuidad_asistencial"
+        ],
+        "feedback": "La **coordinación entre los distintos niveles asistenciales** garantiza la continuidad del cuidado y evita la fragmentación de la atención."
+    },
+    {
+        "enunciado": "¿Qué resultado se espera al implementar un Plan de Cuidados Individualizado en pacientes pluripatológicos?",
+        "opciones": [
+            "Mejoría en la calidad de vida y reducción de descompensaciones",
+            "Incremento en el número de ingresos hospitalarios",
+            "Disminución del rol del cuidador principal",
+            "Aumento en la realización de pruebas diagnósticas innecesarias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "resultados_cuidados"
+        ],
+        "feedback": "Un Plan de Cuidados Individualizado busca **mejorar la calidad de vida del paciente** y **reducir las descompensaciones** a través de intervenciones personalizadas."
+    },
+    {
+        "enunciado": "¿Qué herramienta es fundamental en la planificación de un Plan de Cuidados Individualizado para evaluar la funcionalidad del paciente?",
+        "opciones": [
+            "Índice Barthel",
+            "Escala de Glasgow",
+            "Prueba de función pulmonar",
+            "Test de glucemia basal"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_funcionalidad"
+        ],
+        "feedback": "El **Índice Barthel** es una herramienta fundamental para evaluar la funcionalidad del paciente y su capacidad para realizar actividades básicas de la vida diaria."
+    },
+    {
+        "enunciado": "¿Qué rol desempeñan los profesionales de enfermería en la implementación del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Lideran la educación sanitaria y el seguimiento del plan",
+            "Se limitan a tareas administrativas del historial clínico",
+            "Centran sus intervenciones únicamente en el hospital",
+            "Reducen su participación en fases estables del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "rol_enfermeria"
+        ],
+        "feedback": "Los profesionales de **enfermería** desempeñan un rol central al liderar la **educación sanitaria** y el **seguimiento** del Plan de Cuidados Individualizado."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la planificación anticipada de decisiones dentro del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Evitar la intervención del paciente en la toma de decisiones",
+            "Garantizar que se respeten las preferencias del paciente",
+            "Reducir el seguimiento domiciliario del paciente",
+            "Aumentar los ingresos hospitalarios preventivos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "planificacion_anticipada"
+        ],
+        "feedback": "La **planificación anticipada de decisiones** garantiza que se respeten las **preferencias del paciente** en relación con su atención y tratamiento."
+    },
+    {
+        "enunciado": "¿Qué función cumple la red comunitaria dentro del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Sustituir al equipo sanitario en la planificación",
+            "Complementar el plan mediante recursos locales y sociales",
+            "Limitar la intervención de los profesionales de Atención Primaria",
+            "Excluir al cuidador del proceso asistencial"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "red_comunitaria"
+        ],
+        "feedback": "La **red comunitaria** complementa el Plan de Cuidados con **recursos locales y sociales**, facilitando el soporte al paciente y su familia."
+    },
+    {
+        "enunciado": "¿Por qué es fundamental integrar la **valoración cognitiva** en el Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Para detectar deterioro que pueda influir en el autocuidado",
+            "Para determinar exclusivamente tratamientos farmacológicos",
+            "Para reducir las intervenciones domiciliarias",
+            "Para priorizar pruebas diagnósticas hospitalarias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La **valoración cognitiva** permite **detectar deterioro** que influye en el autocuidado, ayudando a personalizar las intervenciones del plan."
+    },
+    {
+        "enunciado": "¿Qué estrategia del Plan de Cuidados Individualizado asegura la participación activa del paciente y sus cuidadores?",
+        "opciones": [
+            "Educación sanitaria y establecimiento de metas consensuadas",
+            "Programación de hospitalizaciones periódicas obligatorias",
+            "Aplicación de un plan genérico sin revisiones",
+            "Priorización exclusiva de intervenciones farmacológicas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "participacion_activa"
+        ],
+        "feedback": "La **educación sanitaria** y el **establecimiento de metas consensuadas** aseguran la participación activa del paciente y sus cuidadores en el plan."
+    },
+    {
+        "enunciado": "¿Qué componente del Plan de Cuidados Individualizado permite identificar y priorizar las necesidades del paciente?",
+        "opciones": [
+            "La valoración integral exhaustiva",
+            "La realización de pruebas diagnósticas aisladas",
+            "La reducción del seguimiento multidisciplinar",
+            "La programación exclusiva de visitas hospitalarias"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "priorizacion_necesidades"
+        ],
+        "feedback": "La **valoración integral exhaustiva** permite identificar y priorizar las **necesidades del paciente** para personalizar las intervenciones del plan."
+    },
+    {
+        "enunciado": "¿Qué característica define a un Plan de Cuidados Individualizado dentro del PAAIPEC?",
+        "opciones": [
+            "Su rigidez para aplicar protocolos únicos en todos los pacientes",
+            "Su flexibilidad para adaptarse a las necesidades individuales",
+            "La exclusión de la participación del cuidador principal",
+            "Su aplicación exclusiva en el ámbito hospitalario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "flexibilidad_plan"
+        ],
+        "feedback": "Un Plan de Cuidados Individualizado se caracteriza por su **flexibilidad** para adaptarse a las **necesidades individuales** del paciente."
+    },
+    {
+        "enunciado": "¿Qué aspecto se prioriza en un Plan de Cuidados Individualizado para pacientes con enfermedades crónicas complejas?",
+        "opciones": [
+            "El seguimiento hospitalario de corta duración",
+            "La atención integral y multidimensional",
+            "La reducción del contacto con el equipo comunitario",
+            "El enfoque exclusivo en la medicación farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "atencion_integral"
+        ],
+        "feedback": "El Plan de Cuidados Individualizado prioriza la **atención integral y multidimensional**, que abarca aspectos clínicos, funcionales y sociales del paciente."
+    },
+    {
+        "enunciado": "¿Qué intervención específica se debe incluir en el Plan de Cuidados Individualizado para reducir el riesgo de caídas?",
+        "opciones": [
+            "Incrementar las visitas hospitalarias programadas",
+            "Evaluar el entorno y revisar la medicación del paciente",
+            "Limitar las actividades físicas para evitar esfuerzos",
+            "Centrar los cuidados en pruebas diagnósticas periódicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_caidas"
+        ],
+        "feedback": "Para reducir el riesgo de caídas, el plan debe incluir la **evaluación del entorno** del paciente y la **revisión de su medicación**."
+    },
+    {
+        "enunciado": "¿Cuál es una de las funciones principales de la revisión periódica en el Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Actualizar las intervenciones según la evolución del paciente",
+            "Priorizar las intervenciones hospitalarias sobre las comunitarias",
+            "Eliminar el seguimiento del cuidador principal",
+            "Establecer un tratamiento farmacológico permanente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "revision_plan"
+        ],
+        "feedback": "La **revisión periódica** del plan permite **actualizar las intervenciones** en función de la evolución clínica y funcional del paciente."
+    },
+    {
+        "enunciado": "¿Por qué es importante incluir al cuidador principal en la planificación del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Para reducir la implicación del equipo asistencial",
+            "Para garantizar el apoyo y la continuidad del cuidado",
+            "Para asumir completamente las responsabilidades del equipo médico",
+            "Para limitar las intervenciones a nivel domiciliario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "cuidador_plan"
+        ],
+        "feedback": "Incluir al cuidador principal en el plan garantiza **apoyo continuo** y facilita la **continuidad del cuidado** en el entorno del paciente."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña la educación sanitaria en la implementación de un Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Facilita el autocuidado y la toma de decisiones informadas",
+            "Se limita a la entrega de información sobre medicamentos",
+            "Reemplaza la intervención del equipo sanitario",
+            "Fomenta la hospitalización prolongada de los pacientes"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "educacion_autocuidado"
+        ],
+        "feedback": "La **educación sanitaria** facilita el **autocuidado** y permite al paciente tomar **decisiones informadas** sobre su salud."
+    },
+    {
+        "enunciado": "¿Qué elemento clave del Plan de Cuidados Individualizado permite anticiparse a descompensaciones clínicas?",
+        "opciones": [
+            "Identificación de signos de alarma y seguimiento regular",
+            "Priorización de hospitalizaciones preventivas",
+            "Reducción de la intervención de Atención Primaria",
+            "Evaluación única al inicio del tratamiento"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "descompensaciones_clinicas"
+        ],
+        "feedback": "La **identificación de signos de alarma** y el **seguimiento regular** son claves para anticiparse a posibles descompensaciones clínicas."
+    },
+    {
+        "enunciado": "¿Qué elemento facilita la personalización de un Plan de Cuidados Individualizado en el PAAIPEC?",
+        "opciones": [
+            "La valoración integral y multidimensional del paciente",
+            "La aplicación de un protocolo estándar para todos",
+            "La limitación de intervenciones a la fase aguda",
+            "La exclusión del cuidador principal del proceso"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "personalizacion_plan"
+        ],
+        "feedback": "La **valoración integral y multidimensional** facilita la **personalización** del plan al adaptarse a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué beneficio proporciona el seguimiento domiciliario dentro de un Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Garantiza la atención continua y previene hospitalizaciones",
+            "Reemplaza completamente el seguimiento hospitalario",
+            "Reduce la participación del equipo sanitario",
+            "Limita la intervención a los familiares del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "seguimiento_domiciliario"
+        ],
+        "feedback": "El **seguimiento domiciliario** garantiza la **atención continua** del paciente y ayuda a **prevenir hospitalizaciones** innecesarias."
+    },
+    {
+        "enunciado": "¿Qué componente del Plan de Cuidados Individualizado contribuye a la detección de necesidades sociales no cubiertas?",
+        "opciones": [
+            "Valoración sociofamiliar del paciente",
+            "Aplicación de pruebas diagnósticas avanzadas",
+            "Priorización de la atención hospitalaria",
+            "Estandarización de tratamientos farmacológicos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_necesidades_sociales"
+        ],
+        "feedback": "La **valoración sociofamiliar** del paciente permite identificar **necesidades sociales no cubiertas**, facilitando la intervención adecuada."
+    },
+    {
+        "enunciado": "¿Qué áreas abarca la Valoración Integral Exhaustiva (VIE) del paciente crónico complejo según el PAAIPEC?",
+        "opciones": [
+            "Solo la valoración clínica y farmacológica",
+            "Clínica, funcional, cognitiva, sociofamiliar y farmacológica",
+            "Únicamente la valoración funcional y cognitiva",
+            "Valoración genética y de estilo de vida"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_integral"
+        ],
+        "feedback": "La **Valoración Integral Exhaustiva (VIE)** incluye aspectos **clínicos, funcionales, cognitivos, sociofamiliares y farmacológicos** del paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la Valoración Integral Exhaustiva (VIE) en el manejo del paciente crónico complejo?",
+        "opciones": [
+            "Detectar factores de riesgo y necesidades de intervención",
+            "Reducir el número de visitas al especialista",
+            "Garantizar hospitalizaciones programadas",
+            "Priorizar únicamente el tratamiento farmacológico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "objetivos_vie"
+        ],
+        "feedback": "El objetivo de la **VIE** es **detectar factores de riesgo** y **necesidades de intervención** para planificar cuidados adaptados al paciente."
+    },
+    {
+        "enunciado": "¿Qué aspecto funcional se evalúa en la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "La autonomía en actividades básicas de la vida diaria",
+            "La respuesta a pruebas diagnósticas hospitalarias",
+            "La adherencia estricta a la medicación",
+            "La presencia de deterioro inmunológico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_funcional"
+        ],
+        "feedback": "La **VIE** evalúa la **autonomía** del paciente en las **actividades básicas de la vida diaria**, identificando limitaciones funcionales."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza frecuentemente en la Valoración Integral Exhaustiva para evaluar la capacidad funcional del paciente?",
+        "opciones": [
+            "Escala de Barthel",
+            "Escala de Glasgow",
+            "Escala MRC de disnea",
+            "Prueba de función hepática"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "herramientas_funcionales"
+        ],
+        "feedback": "La **Escala de Barthel** es una herramienta utilizada en la VIE para evaluar la **capacidad funcional** del paciente en actividades básicas."
+    },
+    {
+        "enunciado": "¿Qué componente de la Valoración Integral Exhaustiva permite identificar signos de deterioro cognitivo en el paciente crónico complejo?",
+        "opciones": [
+            "Valoración farmacológica",
+            "Evaluación funcional",
+            "Valoración cognitiva",
+            "Valoración sociofamiliar"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La **valoración cognitiva** dentro de la VIE permite identificar signos de **deterioro cognitivo**, como demencias o déficits de memoria."
+    },
+    {
+        "enunciado": "¿Qué evalúa la Valoración Sociofamiliar dentro de la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "El estado emocional del paciente",
+            "La red de apoyo familiar y recursos sociales disponibles",
+            "La gravedad de las enfermedades crónicas",
+            "La adherencia estricta al tratamiento farmacológico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **Valoración Sociofamiliar** evalúa la **red de apoyo familiar** y los **recursos sociales disponibles**, fundamentales en el cuidado del paciente."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la Valoración Integral Exhaustiva en el paciente crónico complejo?",
+        "opciones": [
+            "Permite personalizar las intervenciones y el plan de cuidados",
+            "Reduce la intervención de los cuidadores familiares",
+            "Elimina la necesidad de valoración periódica",
+            "Prioriza hospitalizaciones frecuentes"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "beneficio_vie"
+        ],
+        "feedback": "La **VIE** permite **personalizar las intervenciones** y el **plan de cuidados**, adaptándolo a las necesidades del paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué componente farmacológico se evalúa en la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "La efectividad del tratamiento exclusivamente hospitalario",
+            "La adecuación, interacciones y adherencia a la medicación",
+            "La necesidad de incluir tratamientos preventivos obligatorios",
+            "El uso exclusivo de medicación genérica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_farmacologica"
+        ],
+        "feedback": "La **VIE** evalúa la **adecuación, interacciones y adherencia** a la medicación para garantizar la efectividad y seguridad del tratamiento."
+    },
+    {
+        "enunciado": "¿En qué momento se recomienda realizar la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "En cada ingreso hospitalario prolongado",
+            "De forma periódica y en cambios significativos de salud",
+            "Únicamente en la fase aguda de la enfermedad",
+            "Una única vez al inicio del diagnóstico"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "momentos_vie"
+        ],
+        "feedback": "La **VIE** debe realizarse de forma **periódica** y en **cambios significativos** del estado de salud para ajustar el plan de cuidados."
+    },
+    {
+        "enunciado": "¿Qué dimensión evalúa la Valoración Afectiva dentro de la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "La capacidad funcional del paciente",
+            "El estado emocional y síntomas como depresión o ansiedad",
+            "La adherencia al tratamiento farmacológico",
+            "La red de apoyo social del paciente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La **Valoración Afectiva** evalúa el **estado emocional** del paciente, identificando problemas como la **depresión** o la **ansiedad**."
+    },
+    {
+        "enunciado": "¿Por qué la Valoración Integral Exhaustiva es fundamental en el abordaje del paciente crónico complejo?",
+        "opciones": [
+            "Porque reduce la necesidad de intervenciones comunitarias",
+            "Porque permite identificar problemas clínicos, funcionales y sociales",
+            "Porque elimina la necesidad de un plan de cuidados personalizado",
+            "Porque garantiza únicamente intervenciones farmacológicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "fundamento_vie"
+        ],
+        "feedback": "La **VIE** es fundamental porque permite **identificar problemas clínicos, funcionales y sociales**, facilitando un abordaje integral y adaptado."
+    },
+    {
+        "enunciado": "¿Qué profesionales deben participar en la realización de la Valoración Integral Exhaustiva (VIE) en el paciente crónico complejo?",
+        "opciones": [
+            "Solo médicos especialistas hospitalarios",
+            "Médicos de familia, enfermería y equipo multidisciplinar",
+            "Exclusivamente trabajadores sociales",
+            "Personal administrativo y farmacéuticos clínicos"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "equipo_vie"
+        ],
+        "feedback": "La realización de la **VIE** requiere la participación de **médicos de familia, enfermería y otros profesionales del equipo multidisciplinar**, asegurando una valoración integral."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes dimensiones NO forma parte de la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración genética avanzada",
+            "Valoración cognitiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "componentes_vie"
+        ],
+        "feedback": "La **VIE** no incluye la **valoración genética avanzada**; se centra en las dimensiones **funcional, cognitiva, sociofamiliar, afectiva y farmacológica**."
+    },
+    {
+        "enunciado": "¿Qué herramienta es comúnmente utilizada en la VIE para valorar el riesgo de deterioro cognitivo en el paciente crónico complejo?",
+        "opciones": [
+            "Escala de Barthel",
+            "Mini-Mental State Examination (MMSE)",
+            "Índice de Fragilidad de Rockwood",
+            "Escala NYHA para insuficiencia cardíaca"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "herramientas_vie"
+        ],
+        "feedback": "El **Mini-Mental State Examination (MMSE)** es una herramienta ampliamente utilizada en la **VIE** para valorar el riesgo de **deterioro cognitivo**."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa la dimensión farmacológica dentro de la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "La calidad de vida del paciente",
+            "La funcionalidad en actividades básicas",
+            "La adecuación, duplicidad y efectos adversos de la medicación",
+            "La red de apoyo sociofamiliar del paciente"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_farmacologica"
+        ],
+        "feedback": "La **dimensión farmacológica** evalúa la **adecuación, duplicidad y efectos adversos** de la medicación, asegurando la seguridad del tratamiento."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE permite identificar la capacidad del paciente para realizar actividades cotidianas como vestirse o comer?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración farmacológica",
+            "Valoración afectiva"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomia_funcional"
+        ],
+        "feedback": "La **valoración funcional** de la VIE identifica la **capacidad del paciente para realizar actividades básicas de la vida diaria**, como vestirse o comer."
+    },
+    {
+        "enunciado": "¿Cuál es la finalidad principal de incluir la valoración sociofamiliar en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Optimizar el uso de medicación",
+            "Evaluar la red de apoyo y necesidades sociales del paciente",
+            "Determinar el nivel de deterioro cognitivo",
+            "Medir la capacidad funcional en actividades físicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite evaluar la **red de apoyo** del paciente y detectar **necesidades sociales** que influyen en su calidad de vida."
+    },
+    {
+        "enunciado": "¿Por qué es necesaria la valoración afectiva en el contexto de la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "Para diagnosticar enfermedades cardiovasculares",
+            "Para identificar problemas emocionales como ansiedad o depresión",
+            "Para medir la funcionalidad del sistema respiratorio",
+            "Para detectar interacciones farmacológicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La **valoración afectiva** en la VIE es fundamental para **identificar problemas emocionales** como la **ansiedad** o la **depresión**."
+    },
+    {
+        "enunciado": "¿Qué indicador funcional es utilizado comúnmente en la VIE para evaluar la autonomía en la movilidad del paciente crónico complejo?",
+        "opciones": [
+            "Escala Tinetti",
+            "Índice de Barthel",
+            "Escala Pfeiffer",
+            "Escala MRC de disnea"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_movilidad"
+        ],
+        "feedback": "La **Escala Tinetti** es una herramienta utilizada en la VIE para evaluar la **autonomía en la movilidad** y el **riesgo de caídas** del paciente."
+    },
+    {
+        "enunciado": "¿En qué casos se debe priorizar la realización de una Valoración Integral Exhaustiva en el paciente crónico complejo?",
+        "opciones": [
+            "Ante una situación estable sin cambios clínicos",
+            "En presencia de descompensación clínica o deterioro funcional",
+            "Únicamente cuando el paciente ingresa en el hospital",
+            "Durante las revisiones anuales de Atención Primaria"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "priorizacion_vie"
+        ],
+        "feedback": "La **VIE** debe priorizarse ante situaciones de **descompensación clínica** o **deterioro funcional**, adaptando el plan de cuidados a la nueva situación."
+    },
+    {
+        "enunciado": "¿Qué área específica de la VIE facilita la planificación de intervenciones dirigidas a evitar la dependencia del paciente?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración farmacológica",
+            "Valoración afectiva"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_dependencia"
+        ],
+        "feedback": "La **valoración funcional** facilita la planificación de intervenciones que promueven la **autonomía** y evitan la **dependencia** del paciente."
+    },
+    {
+        "enunciado": "¿Qué herramienta puede incluirse en la VIE para valorar la red de apoyo social del paciente crónico complejo?",
+        "opciones": [
+            "Escala Gijón",
+            "Índice de Barthel",
+            "Escala de Glasgow",
+            "Mini-Mental State Examination (MMSE)"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "red_apoyo_social"
+        ],
+        "feedback": "La **Escala Gijón** es una herramienta útil dentro de la VIE para valorar la **red de apoyo social** y la situación sociofamiliar del paciente."
+    },
+    {
+        "enunciado": "¿Qué característica hace que la Valoración Integral Exhaustiva (VIE) sea una herramienta esencial en el abordaje del paciente crónico complejo?",
+        "opciones": [
+            "Su enfoque exclusivo en el tratamiento farmacológico",
+            "La identificación multidimensional de problemas clínicos y sociales",
+            "Su aplicación únicamente en la fase aguda de la enfermedad",
+            "La evaluación de problemas genéticos a largo plazo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "importancia_vie"
+        ],
+        "feedback": "La **VIE** es esencial porque permite la **identificación multidimensional** de problemas **clínicos, funcionales y sociales** del paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes herramientas se utiliza para evaluar la sobrecarga del cuidador en el contexto de la VIE?",
+        "opciones": [
+            "Escala Zarit",
+            "Mini-Mental State Examination (MMSE)",
+            "Índice Barthel",
+            "Escala de Tinetti"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "sobrecarga_cuidador"
+        ],
+        "feedback": "La **Escala Zarit** es utilizada en la **VIE** para evaluar la **sobrecarga del cuidador**, un aspecto clave en el cuidado del paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué evaluación incluida en la VIE permite detectar problemas emocionales como la ansiedad o la depresión?",
+        "opciones": [
+            "Valoración afectiva",
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración farmacológica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "problemas_emocionales"
+        ],
+        "feedback": "La **valoración afectiva** en la VIE es clave para detectar **problemas emocionales**, como la **ansiedad** o la **depresión**, que afectan al paciente."
+    },
+    {
+        "enunciado": "¿Por qué es importante realizar la Valoración Funcional dentro de la Valoración Integral Exhaustiva (VIE)?",
+        "opciones": [
+            "Permite identificar problemas de movilidad y autonomía del paciente",
+            "Ayuda a clasificar las enfermedades crónicas por prioridad",
+            "Facilita la elección del tratamiento farmacológico más adecuado",
+            "Garantiza la planificación de hospitalizaciones preventivas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_funcional"
+        ],
+        "feedback": "La **valoración funcional** permite identificar problemas de **movilidad y autonomía**, fundamentales para planificar intervenciones adecuadas."
+    },
+    {
+        "enunciado": "¿Qué herramienta de la VIE es útil para valorar la capacidad cognitiva y detectar deterioro temprano?",
+        "opciones": [
+            "Mini-Mental State Examination (MMSE)",
+            "Índice Barthel",
+            "Escala Zarit",
+            "Escala MRC de disnea"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La herramienta **Mini-Mental State Examination (MMSE)** permite valorar la **capacidad cognitiva** y detectar **deterioro temprano** en el paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué factor clave evalúa la Valoración Sociofamiliar dentro de la VIE del paciente crónico complejo?",
+        "opciones": [
+            "El estado de la función renal del paciente",
+            "El soporte social y la red de apoyo familiar",
+            "La efectividad de la medicación administrada",
+            "La frecuencia de hospitalizaciones previas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **valoración sociofamiliar** en la VIE evalúa el **soporte social** y la **red de apoyo familiar**, fundamentales para el cuidado integral del paciente."
+    },
+    {
+        "enunciado": "¿Qué componente de la Valoración Integral Exhaustiva identifica problemas derivados de la polimedicación?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración afectiva",
+            "Valoración cognitiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "polimedicacion"
+        ],
+        "feedback": "La **valoración farmacológica** dentro de la VIE identifica problemas como la **polimedicación**, interacciones adversas y duplicidades en los tratamientos."
+    },
+    {
+        "enunciado": "¿Qué beneficio proporciona la Valoración Integral Exhaustiva en la prevención de descompensaciones clínicas?",
+        "opciones": [
+            "Permite la identificación precoz de signos de alerta",
+            "Limita el seguimiento del paciente a fases agudas",
+            "Facilita la hospitalización prolongada del paciente",
+            "Centraliza el cuidado exclusivamente en Atención Primaria"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "prevencion_descompensacion"
+        ],
+        "feedback": "La **VIE** permite la **identificación precoz de signos de alerta**, facilitando intervenciones oportunas para prevenir descompensaciones clínicas."
+    },
+    {
+        "enunciado": "¿Qué función tiene la Valoración Integral Exhaustiva en la personalización del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Ayuda a aplicar tratamientos estándar para todos los pacientes",
+            "Permite adaptar las intervenciones a las necesidades específicas del paciente",
+            "Elimina la necesidad de intervenciones sociofamiliares",
+            "Prioriza únicamente la atención farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "personalizacion_cuidados"
+        ],
+        "feedback": "La **VIE** permite **adaptar las intervenciones** a las **necesidades específicas del paciente**, personalizando el Plan de Cuidados Individualizado."
+    },
+    {
+        "enunciado": "¿Qué herramienta se emplea dentro de la VIE para medir el nivel de dependencia del paciente en las actividades básicas de la vida diaria?",
+        "opciones": [
+            "Índice Barthel",
+            "Escala Zarit",
+            "Escala Gijón",
+            "Mini-Mental State Examination (MMSE)"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dependencia_funcional"
+        ],
+        "feedback": "El **Índice Barthel** es una herramienta utilizada en la **VIE** para medir el **nivel de dependencia** en las **actividades básicas de la vida diaria**."
+    },
+    {
+        "enunciado": "¿Por qué es importante la dimensión afectiva en la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "Porque permite identificar problemas emocionales y su impacto en la salud",
+            "Porque facilita la evaluación del tratamiento farmacológico",
+            "Porque mide únicamente la funcionalidad física del paciente",
+            "Porque limita las intervenciones a nivel hospitalario"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dimension_afectiva"
+        ],
+        "feedback": "La **dimensión afectiva** de la VIE es importante porque permite **identificar problemas emocionales** como la **depresión** y su impacto en la salud global del paciente."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la Valoración Integral Exhaustiva (VIE) es clave para detectar problemas relacionados con el entorno del paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración sociofamiliar",
+            "Valoración afectiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "entorno_paciente"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite detectar problemas relacionados con el **entorno del paciente**, como la falta de apoyo familiar o social."
+    },
+    {
+        "enunciado": "¿Cuál es el principal objetivo de la Valoración Cognitiva dentro de la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Detectar niveles de dependencia funcional",
+            "Identificar deterioro cognitivo y afectación de la memoria",
+            "Medir la adherencia a tratamientos farmacológicos",
+            "Evaluar el estado emocional del cuidador principal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La **valoración cognitiva** tiene como objetivo **identificar deterioro cognitivo** y **afectación de la memoria**, comunes en pacientes crónicos complejos."
+    },
+    {
+        "enunciado": "¿Qué herramienta se emplea frecuentemente en la VIE para evaluar el riesgo de caídas en el paciente crónico complejo?",
+        "opciones": [
+            "Escala de Tinetti",
+            "Índice Barthel",
+            "Escala Zarit",
+            "Mini-Mental State Examination (MMSE)"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "riesgo_caidas"
+        ],
+        "feedback": "La **Escala de Tinetti** es utilizada en la **VIE** para **evaluar el riesgo de caídas** y la estabilidad postural del paciente."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE analiza el impacto de la medicación en la funcionalidad del paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración cognitiva",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_medicacion"
+        ],
+        "feedback": "La **valoración farmacológica** analiza el **impacto de la medicación** en la salud y funcionalidad del paciente, detectando posibles efectos adversos."
+    },
+    {
+        "enunciado": "¿Qué resultado se espera al aplicar la Valoración Integral Exhaustiva en un paciente crónico complejo?",
+        "opciones": [
+            "Reducción del número de hospitalizaciones innecesarias",
+            "Centralización del cuidado en unidades hospitalarias",
+            "Aplicación de tratamientos farmacológicos uniformes",
+            "Evaluación única del estado funcional del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "resultados_vie"
+        ],
+        "feedback": "La **VIE** permite identificar necesidades específicas, lo que contribuye a la **reducción de hospitalizaciones innecesarias** y mejora la atención personalizada."
+    },
+    {
+        "enunciado": "¿En qué consiste la Valoración Afectiva dentro de la Valoración Integral Exhaustiva del paciente crónico complejo?",
+        "opciones": [
+            "Evaluación de la capacidad de realizar actividades básicas",
+            "Identificación de problemas emocionales como ansiedad y depresión",
+            "Revisión de la adherencia a los tratamientos médicos",
+            "Medición de la red de apoyo familiar"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La **valoración afectiva** se centra en la **identificación de problemas emocionales**, como la ansiedad y la depresión, que impactan en la salud del paciente."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE permite identificar barreras en el entorno domiciliario que dificultan la autonomía del paciente?",
+        "opciones": [
+            "Valoración cognitiva",
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración farmacológica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "barreras_entorno"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite identificar **barreras en el entorno domiciliario**, como accesibilidad limitada, que dificultan la autonomía del paciente."
+    },
+    {
+        "enunciado": "¿Por qué es fundamental realizar una valoración funcional periódica en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Para identificar cambios en la movilidad y la autonomía del paciente",
+            "Para evaluar el estado emocional del cuidador principal",
+            "Para analizar la eficacia del tratamiento farmacológico",
+            "Para determinar únicamente el nivel de apoyo social"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "periodicidad_funcional"
+        ],
+        "feedback": "La **valoración funcional periódica** permite **identificar cambios** en la movilidad y autonomía del paciente, ajustando las intervenciones necesarias."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE aborda la evaluación del estado emocional del paciente crónico complejo?",
+        "opciones": [
+            "Valoración cognitiva",
+            "Valoración afectiva",
+            "Valoración funcional",
+            "Valoración farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "estado_emocional"
+        ],
+        "feedback": "La **valoración afectiva** evalúa el **estado emocional** del paciente, detectando signos de depresión, ansiedad y otros trastornos afectivos."
+    },
+    {
+        "enunciado": "¿Qué herramienta de la VIE facilita la identificación de dificultades para realizar actividades básicas de la vida diaria?",
+        "opciones": [
+            "Índice Barthel",
+            "Escala Zarit",
+            "Mini-Mental State Examination (MMSE)",
+            "Escala Gijón"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomia_paciente"
+        ],
+        "feedback": "El **Índice Barthel** facilita la **identificación de dificultades** para realizar **actividades básicas de la vida diaria**, como comer o vestirse."
+    },
+    {
+        "enunciado": "¿Qué rol tiene la red de apoyo en el contexto de la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "Sustituir el seguimiento del equipo sanitario",
+            "Apoyar en el cuidado y detectar necesidades sociofamiliares",
+            "Limitar las intervenciones a nivel hospitalario",
+            "Excluir la participación del cuidador principal"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "red_apoyo"
+        ],
+        "feedback": "La **red de apoyo** juega un rol clave al **apoyar en el cuidado del paciente** y **detectar necesidades sociofamiliares** que impactan en su bienestar."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito de incluir la valoración farmacológica dentro de la Valoración Integral Exhaustiva (VIE)?",
+        "opciones": [
+            "Detectar duplicidades, interacciones y efectos adversos de la medicación",
+            "Identificar la red de apoyo social del paciente",
+            "Evaluar la capacidad funcional del paciente",
+            "Medir el grado de deterioro cognitivo"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_farmacologica"
+        ],
+        "feedback": "La **valoración farmacológica** tiene como propósito **detectar duplicidades, interacciones y efectos adversos** para optimizar la medicación del paciente."
+    },
+    {
+        "enunciado": "¿Qué herramienta es más adecuada para evaluar el apoyo social del paciente durante la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "Escala Gijón",
+            "Índice Barthel",
+            "Mini-Mental State Examination (MMSE)",
+            "Escala de Tinetti"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **Escala Gijón** se utiliza en la VIE para **evaluar el apoyo social del paciente** y su red de recursos familiares o comunitarios."
+    },
+    {
+        "enunciado": "¿Por qué es importante la valoración funcional en pacientes crónicos complejos dentro de la VIE?",
+        "opciones": [
+            "Permite identificar el nivel de autonomía y dependencia del paciente",
+            "Facilita la optimización de tratamientos farmacológicos",
+            "Garantiza la detección de problemas emocionales",
+            "Reduce la necesidad de seguimiento domiciliario"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomia_funcional"
+        ],
+        "feedback": "La **valoración funcional** es clave porque permite **identificar el nivel de autonomía y dependencia**, facilitando intervenciones ajustadas al paciente."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la valoración sociofamiliar en el diseño del Plan de Cuidados Individualizado?",
+        "opciones": [
+            "Optimiza las intervenciones médicas hospitalarias",
+            "Detecta necesidades sociales y fortalece la red de apoyo",
+            "Centraliza los cuidados en especialistas hospitalarios",
+            "Limita la atención a intervenciones farmacológicas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_sociofamiliar"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite **detectar necesidades sociales** y **fortalecer la red de apoyo**, clave en el diseño del Plan de Cuidados Individualizado."
+    },
+    {
+        "enunciado": "¿Qué componente de la VIE permite detectar signos de deterioro funcional en fases iniciales?",
+        "opciones": [
+            "Valoración farmacológica",
+            "Valoración funcional",
+            "Valoración afectiva",
+            "Valoración cognitiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_funcional"
+        ],
+        "feedback": "La **valoración funcional** dentro de la VIE permite **detectar signos de deterioro** en las capacidades físicas del paciente en fases iniciales."
+    },
+    {
+        "enunciado": "¿Qué intervención debe realizarse tras detectar sobrecarga en el cuidador principal durante la VIE?",
+        "opciones": [
+            "Revisar el tratamiento farmacológico del paciente",
+            "Ofrecer apoyo psicosocial y recursos comunitarios",
+            "Reducir las visitas domiciliarias del equipo sanitario",
+            "Priorizar ingresos hospitalarios prolongados"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "sobrecarga_cuidador"
+        ],
+        "feedback": "Al detectar **sobrecarga en el cuidador**, es fundamental ofrecer **apoyo psicosocial** y conectar con **recursos comunitarios** para su bienestar."
+    },
+    {
+        "enunciado": "¿Qué herramienta es útil dentro de la VIE para evaluar el riesgo de dependencia en actividades básicas de la vida diaria?",
+        "opciones": [
+            "Escala Zarit",
+            "Índice Barthel",
+            "Escala Mini-Mental",
+            "Escala MRC de disnea"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dependencia_actividades"
+        ],
+        "feedback": "El **Índice Barthel** evalúa el riesgo de **dependencia en actividades básicas**, como comer, vestirse o desplazarse, en pacientes crónicos complejos."
+    },
+    {
+        "enunciado": "¿Qué papel tiene la valoración afectiva en la calidad de vida del paciente crónico complejo?",
+        "opciones": [
+            "Identificar problemas emocionales y su impacto en la salud",
+            "Reducir el seguimiento en Atención Primaria",
+            "Garantizar hospitalizaciones programadas",
+            "Optimizar únicamente el tratamiento farmacológico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La **valoración afectiva** permite **identificar problemas emocionales** como la depresión, mejorando la calidad de vida y el bienestar del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito de la valoración cognitiva en la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "Medir la red de apoyo social del paciente",
+            "Detectar deterioro cognitivo y planificar intervenciones tempranas",
+            "Identificar interacciones farmacológicas peligrosas",
+            "Optimizar la capacidad funcional del paciente"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La **valoración cognitiva** tiene como propósito **detectar el deterioro cognitivo** y planificar **intervenciones tempranas** para preservar las funciones mentales."
+    },
+    {
+        "enunciado": "¿Qué evaluación de la VIE facilita la identificación de efectos adversos relacionados con la medicación?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración sociofamiliar",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "efectos_adversos"
+        ],
+        "feedback": "La **valoración farmacológica** dentro de la VIE facilita la **identificación de efectos adversos** y la adecuación de los tratamientos en el paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la Valoración Integral Exhaustiva se utiliza para evaluar el entorno social del paciente y su capacidad de apoyo?",
+        "opciones": [
+            "Valoración farmacológica",
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración cognitiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "entorno_social"
+        ],
+        "feedback": "La **valoración sociofamiliar** evalúa el **entorno social** del paciente y su **capacidad de apoyo**, aspectos clave para planificar intervenciones efectivas."
+    },
+    {
+        "enunciado": "¿Qué impacto tiene la Valoración Integral Exhaustiva (VIE) en la planificación de cuidados del paciente crónico complejo?",
+        "opciones": [
+            "Permite adaptar el plan de cuidados a las necesidades individuales",
+            "Elimina la necesidad de seguimiento multidisciplinar",
+            "Centraliza los cuidados exclusivamente en el ámbito hospitalario",
+            "Prioriza el tratamiento farmacológico sin otras intervenciones"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_vie"
+        ],
+        "feedback": "La **VIE** permite **adaptar el plan de cuidados** a las **necesidades individuales** del paciente, facilitando un abordaje personalizado y efectivo."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE se centra en detectar barreras físicas y funcionales en el entorno del paciente?",
+        "opciones": [
+            "Valoración sociofamiliar",
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "barreras_funcionales"
+        ],
+        "feedback": "La **valoración funcional** de la VIE permite detectar **barreras físicas y funcionales** que limitan la autonomía del paciente en su entorno."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes áreas es evaluada en la Valoración Integral Exhaustiva para detectar problemas emocionales?",
+        "opciones": [
+            "Valoración cognitiva",
+            "Valoración afectiva",
+            "Valoración funcional",
+            "Valoración farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_emocional"
+        ],
+        "feedback": "La **valoración afectiva** se centra en detectar **problemas emocionales**, como ansiedad o depresión, que impactan en la salud del paciente."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la evaluación periódica de la funcionalidad dentro de la VIE?",
+        "opciones": [
+            "Facilita la detección temprana del deterioro físico",
+            "Permite medir la red de apoyo social",
+            "Optimiza el ajuste de la medicación",
+            "Identifica exclusivamente problemas emocionales"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_periodica"
+        ],
+        "feedback": "La evaluación periódica de la **funcionalidad** dentro de la VIE facilita la **detección temprana del deterioro físico**, permitiendo intervenciones preventivas."
+    },
+    {
+        "enunciado": "¿Por qué es importante incluir la valoración farmacológica en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Para evaluar la adherencia al tratamiento y detectar polimedicación",
+            "Para identificar barreras sociales y funcionales",
+            "Para medir el estado cognitivo del paciente",
+            "Para evaluar la calidad del entorno sociofamiliar"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_farmacologica"
+        ],
+        "feedback": "La **valoración farmacológica** en la VIE es crucial para **evaluar la adherencia** y detectar problemas como la **polimedicación** o interacciones adversas."
+    },
+    {
+        "enunciado": "¿Qué herramienta dentro de la VIE permite valorar la autonomía en actividades de la vida diaria?",
+        "opciones": [
+            "Mini-Mental State Examination (MMSE)",
+            "Escala Gijón",
+            "Índice de Barthel",
+            "Escala Zarit"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "autonomia_actividades"
+        ],
+        "feedback": "El **Índice de Barthel** es una herramienta que permite valorar la **autonomía en actividades de la vida diaria**, como alimentación o higiene personal."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE evalúa el impacto del entorno social y familiar en el bienestar del paciente?",
+        "opciones": [
+            "Valoración cognitiva",
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración farmacológica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_entorno"
+        ],
+        "feedback": "La **valoración sociofamiliar** evalúa el **impacto del entorno social y familiar** en el bienestar y la calidad de vida del paciente crónico complejo."
+    },
+    {
+        "enunciado": "¿Qué evaluación dentro de la VIE facilita la identificación de los signos iniciales de deterioro cognitivo?",
+        "opciones": [
+            "Valoración afectiva",
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración sociofamiliar"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_deterioro"
+        ],
+        "feedback": "La **valoración cognitiva** permite identificar los **signos iniciales de deterioro**, como pérdida de memoria o dificultades en la toma de decisiones."
+    },
+    {
+        "enunciado": "¿Qué beneficio directo ofrece la VIE al equipo multidisciplinar en el manejo del paciente crónico complejo?",
+        "opciones": [
+            "Facilita la personalización del plan de cuidados",
+            "Elimina la necesidad de valoraciones periódicas",
+            "Reduce la intervención del cuidador principal",
+            "Prioriza la hospitalización prolongada del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "beneficio_multidisciplinar"
+        ],
+        "feedback": "La **VIE** facilita al equipo multidisciplinar la **personalización del plan de cuidados**, adaptando las intervenciones a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué herramienta es utilizada en la VIE para evaluar el riesgo de sobrecarga en los cuidadores?",
+        "opciones": [
+            "Escala Zarit",
+            "Índice Barthel",
+            "Escala Tinetti",
+            "Mini-Mental State Examination (MMSE)"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "sobrecarga_cuidador"
+        ],
+        "feedback": "La **Escala Zarit** es una herramienta clave en la VIE para **evaluar la sobrecarga** de los cuidadores y proporcionar intervenciones de apoyo."
+    },
+    {
+        "enunciado": "¿Qué resultado se obtiene al integrar la valoración funcional, afectiva y cognitiva en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Un diagnóstico único centrado en la medicación",
+            "Un plan de cuidados integral adaptado a las necesidades del paciente",
+            "La eliminación de la necesidad de revisiones periódicas",
+            "La limitación de los cuidados al ámbito hospitalario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "resultados_integracion_vie"
+        ],
+        "feedback": "La integración de **valoraciones funcional, afectiva y cognitiva** permite diseñar un **plan de cuidados integral** adaptado a las necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué área de la Valoración Integral Exhaustiva (VIE) evalúa el impacto de la salud del paciente en su red de apoyo familiar?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración cognitiva",
+            "Valoración farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_red_apoyo"
+        ],
+        "feedback": "La **valoración sociofamiliar** analiza cómo la salud del paciente afecta su **red de apoyo familiar** y detecta posibles necesidades de intervención."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la valoración funcional periódica en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Medir únicamente los efectos adversos de la medicación",
+            "Detectar precozmente la pérdida de autonomía del paciente",
+            "Evaluar el impacto emocional en la familia",
+            "Determinar la red de apoyo social disponible"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "objetivo_funcional"
+        ],
+        "feedback": "La **valoración funcional periódica** permite **detectar precozmente** la pérdida de autonomía, permitiendo ajustes en el plan de cuidados."
+    },
+    {
+        "enunciado": "¿Qué componente de la VIE es clave para la detección de problemas relacionados con polimedicación y duplicidades?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración sociofamiliar",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_polimedicacion"
+        ],
+        "feedback": "La **valoración farmacológica** es clave para detectar **problemas de polimedicación y duplicidades**, mejorando la seguridad del tratamiento."
+    },
+    {
+        "enunciado": "¿Qué beneficios aporta la valoración cognitiva dentro de la Valoración Integral Exhaustiva en fases iniciales de la enfermedad?",
+        "opciones": [
+            "Detectar signos tempranos de deterioro cognitivo",
+            "Optimizar el tratamiento farmacológico",
+            "Reducir la necesidad de atención multidisciplinar",
+            "Fomentar hospitalizaciones preventivas"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "beneficio_cognitivo"
+        ],
+        "feedback": "La **valoración cognitiva** en fases iniciales permite **detectar signos tempranos de deterioro cognitivo** e iniciar intervenciones oportunas."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE facilita la identificación de barreras en el entorno domiciliario que afectan a la calidad de vida del paciente?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración cognitiva",
+            "Valoración farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "barreras_entorno"
+        ],
+        "feedback": "La **valoración sociofamiliar** facilita la identificación de **barreras en el entorno domiciliario** que afectan la calidad de vida del paciente."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de integrar la valoración afectiva en la Valoración Integral Exhaustiva?",
+        "opciones": [
+            "Identificar signos de ansiedad, depresión u otros problemas emocionales",
+            "Optimizar la medicación del paciente crónico complejo",
+            "Evaluar el apoyo social proporcionado por la familia",
+            "Medir la capacidad funcional del paciente en su entorno"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "objetivo_afectiva"
+        ],
+        "feedback": "La **valoración afectiva** tiene como objetivo **identificar problemas emocionales**, como ansiedad o depresión, que afectan al bienestar del paciente."
+    },
+    {
+        "enunciado": "¿Qué resultado proporciona la evaluación sociofamiliar en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Identificación de recursos y apoyo disponibles en su entorno",
+            "Medición de los efectos adversos de la medicación",
+            "Evaluación del grado de deterioro cognitivo",
+            "Valoración de la capacidad funcional del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_sociofamiliar"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite identificar los **recursos de apoyo** y el **entorno social** que pueden influir en el cuidado del paciente."
+    },
+    {
+        "enunciado": "¿Qué herramienta de la VIE se utiliza para detectar riesgo de dependencia en actividades instrumentales de la vida diaria?",
+        "opciones": [
+            "Índice de Lawton y Brody",
+            "Índice de Barthel",
+            "Escala Zarit",
+            "Mini-Mental State Examination (MMSE)"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dependencia_actividades"
+        ],
+        "feedback": "El **Índice de Lawton y Brody** se emplea en la VIE para detectar **riesgo de dependencia** en actividades instrumentales, como uso del transporte o manejo del hogar."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE evalúa el impacto de las enfermedades crónicas en la autonomía del paciente?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración farmacológica",
+            "Valoración afectiva"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_autonomia"
+        ],
+        "feedback": "La **valoración funcional** evalúa cómo las enfermedades crónicas afectan la **autonomía** del paciente en sus actividades diarias."
+    },
+    {
+        "enunciado": "¿Qué herramienta se puede usar dentro de la valoración afectiva para identificar síntomas depresivos?",
+        "opciones": [
+            "Escala de Yesavage",
+            "Índice de Barthel",
+            "Escala Gijón",
+            "Escala Tinetti"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "evaluacion_depresion"
+        ],
+        "feedback": "La **Escala de Yesavage** es una herramienta utilizada en la **valoración afectiva** para identificar **síntomas depresivos** en pacientes crónicos complejos."
+    },
+    {
+        "enunciado": "¿Por qué es fundamental realizar una valoración farmacológica en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Para garantizar el uso seguro y adecuado de la medicación",
+            "Para priorizar la atención en el entorno hospitalario",
+            "Para reducir la necesidad de atención domiciliaria",
+            "Para medir la red de apoyo del cuidador principal"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "seguridad_farmacologica"
+        ],
+        "feedback": "La **valoración farmacológica** es fundamental para garantizar el **uso seguro y adecuado de la medicación**, evitando errores y efectos adversos."
+    },
+    {
+        "enunciado": "¿Qué área de la Valoración Integral Exhaustiva (VIE) analiza la capacidad del paciente para realizar actividades instrumentales de la vida diaria, como la gestión de la economía o el transporte?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración sociofamiliar",
+            "Valoración afectiva"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "actividades_instrumentales"
+        ],
+        "feedback": "La **valoración funcional** dentro de la VIE analiza la capacidad del paciente para realizar **actividades instrumentales de la vida diaria**, como la gestión del transporte o de la economía."
+    },
+    {
+        "enunciado": "¿Qué componente de la VIE ayuda a identificar síntomas tempranos de ansiedad y depresión en el paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración cognitiva",
+            "Valoración afectiva",
+            "Valoración farmacológica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "deteccion_emocional"
+        ],
+        "feedback": "La **valoración afectiva** es esencial para detectar síntomas tempranos de **ansiedad y depresión**, que pueden afectar la calidad de vida del paciente."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE permite evaluar la adherencia y posibles barreras al tratamiento farmacológico?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración sociofamiliar",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "adherencia_farmacologica"
+        ],
+        "feedback": "La **valoración farmacológica** evalúa la **adherencia al tratamiento** y permite detectar **barreras** como olvidos o efectos secundarios."
+    },
+    {
+        "enunciado": "¿Qué herramienta de la VIE es útil para detectar dificultades cognitivas asociadas a la toma de decisiones en el paciente crónico?",
+        "opciones": [
+            "Mini-Mental State Examination (MMSE)",
+            "Índice de Barthel",
+            "Escala Zarit",
+            "Escala de Tinetti"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "dificultades_cognitivas"
+        ],
+        "feedback": "El **Mini-Mental State Examination (MMSE)** es una herramienta clave para detectar **dificultades cognitivas**, como problemas de memoria o toma de decisiones."
+    },
+    {
+        "enunciado": "¿Qué papel juega la valoración sociofamiliar en la VIE para la planificación de cuidados del paciente crónico complejo?",
+        "opciones": [
+            "Detecta barreras sociales y evalúa el nivel de apoyo disponible",
+            "Mide la capacidad cognitiva del paciente",
+            "Identifica efectos secundarios de la medicación",
+            "Evalúa la autonomía física y funcional del paciente"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "planificacion_sociofamiliar"
+        ],
+        "feedback": "La **valoración sociofamiliar** detecta **barreras sociales** y evalúa el **nivel de apoyo disponible**, lo cual es clave para la planificación de cuidados."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la valoración funcional en el contexto de la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Facilita la detección de limitaciones en la autonomía del paciente",
+            "Identifica problemas emocionales como la ansiedad",
+            "Evalúa la adherencia a los tratamientos farmacológicos",
+            "Prioriza la hospitalización como primera intervención"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "beneficio_funcional"
+        ],
+        "feedback": "La **valoración funcional** permite detectar **limitaciones en la autonomía del paciente**, facilitando intervenciones que promuevan la independencia."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE evalúa los problemas de seguridad derivados de la polimedicación en el paciente crónico complejo?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración farmacológica",
+            "Valoración afectiva",
+            "Valoración cognitiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "seguridad_farmacologica"
+        ],
+        "feedback": "La **valoración farmacológica** evalúa problemas de seguridad relacionados con la **polimedicación**, como interacciones o duplicidades de fármacos."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito de integrar la valoración cognitiva en el proceso de la VIE?",
+        "opciones": [
+            "Evaluar la red de apoyo familiar",
+            "Detectar signos de deterioro cognitivo y planificar intervenciones",
+            "Medir la capacidad funcional del paciente",
+            "Identificar barreras sociales en el entorno domiciliario"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "La **valoración cognitiva** tiene como propósito **detectar signos de deterioro cognitivo** y facilitar la **planificación de intervenciones tempranas**."
+    },
+    {
+        "enunciado": "¿Qué dimensión de la VIE permite analizar cómo el entorno familiar impacta en el manejo de la enfermedad del paciente?",
+        "opciones": [
+            "Valoración funcional",
+            "Valoración sociofamiliar",
+            "Valoración cognitiva",
+            "Valoración afectiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "impacto_entorno_familiar"
+        ],
+        "feedback": "La **valoración sociofamiliar** permite analizar cómo el **entorno familiar** influye en el manejo de la enfermedad y en la calidad de vida del paciente."
+    },
+    {
+        "enunciado": "¿Qué resultado se obtiene al realizar una valoración funcional en la VIE del paciente crónico complejo?",
+        "opciones": [
+            "Evaluación del riesgo de caídas y limitaciones en la movilidad",
+            "Identificación de problemas emocionales no diagnosticados",
+            "Medición del nivel de adherencia al tratamiento farmacológico",
+            "Análisis de la red de apoyo sociofamiliar"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "resultado_funcional"
+        ],
+        "feedback": "La **valoración funcional** permite evaluar el **riesgo de caídas** y las **limitaciones en la movilidad**, facilitando intervenciones preventivas."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza dentro de la VIE para evaluar las actividades instrumentales de la vida diaria en el paciente crónico?",
+        "opciones": [
+            "Índice de Lawton y Brody",
+            "Mini-Mental State Examination (MMSE)",
+            "Escala Zarit",
+            "Índice Barthel"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema63",
+            "enfermos_complejos",
+            "actividades_instrumentales"
+        ],
+        "feedback": "El **Índice de Lawton y Brody** evalúa la capacidad del paciente para realizar **actividades instrumentales** como manejar su economía o usar el transporte."
+    }
+]
