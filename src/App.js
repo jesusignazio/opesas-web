@@ -93,7 +93,7 @@ function App() {
             { title: '•63: Atención a enfermedades crónicas: valoración y cuidados', archivo: 'tema63.json', bloque: 4 },
             { title: '•64: Atención al dolor: tipos, escalas y estrategias', archivo: 'tema64.json', bloque: 4 },
             { title: '65: Prevención de caídas: evaluación y cribado', archivo: 'tema65.json', bloque: 4 },
-            { title: '66: Atención enfermera en situaciones de dependencia', archivo: 'tema66.json', bloque: 4 },
+            { title: '•66: Atención enfermera en situaciones de dependencia', archivo: 'tema66.json', bloque: 4 },
             { title: '67: Cuidados a personas con problemas cardiovasculares', archivo: 'tema67.json', bloque: 4 },
             { title: '68: Cuidados a personas con problemas respiratorios', archivo: 'tema68.json', bloque: 4 },
             { title: '69: Cuidados a personas con problemas endocrinológicos', archivo: 'tema69.json', bloque: 4 },
