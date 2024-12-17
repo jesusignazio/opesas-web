@@ -990,5 +990,1349 @@
             "valoracion_funcional"
         ],
         "feedback": "Alimentarse sin asistencia es una Actividad Básica de la Vida Diaria (ABVD), fundamental para evaluar la independencia funcional de una persona."
-    }
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza principalmente en Andalucía para clasificar la fragilidad en personas mayores de 65 años dentro del Examen de Salud para Mayores de 65 años?",
+        "opciones": [
+          "Índice de Barthel.",
+          "Escala FRAIL.",
+          "Cuestionario de Pfeiffer.",
+          "Escala de Katz."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "herramientas_evaluacion"],
+        "feedback": "En Andalucía, el Índice de Barthel se usa como herramienta para clasificar la fragilidad en personas mayores, evaluando la capacidad para realizar actividades básicas de la vida diaria."
+      },
+      {
+        "enunciado": "Según la definición de Schalock y Verdugo, ¿cuál de las siguientes NO es una de las dimensiones fundamentales de la calidad de vida?",
+        "opciones": [
+          "Bienestar emocional.",
+          "Autonomía financiera.",
+          "Relaciones interpersonales.",
+          "Inclusión social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "calidad_vida"],
+        "feedback": "La autonomía financiera no forma parte de las dimensiones de calidad de vida según Schalock y Verdugo, quienes incluyen bienestar emocional, relaciones interpersonales e inclusión social, entre otras."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente el síndrome de fragilidad del anciano según la NANDA?",
+        "opciones": [
+          "Estado crónico irreversible asociado a enfermedades cognitivas y físicas graves.",
+          "Estado dinámico de equilibrio inestable que afecta al anciano, con deterioro en uno o más dominios de la salud.",
+          "Condición que implica exclusivamente pérdida de masa muscular debido a la sarcopenia.",
+          "Dependencia total en las actividades básicas de la vida diaria debido a limitaciones sensoriales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "síndrome_fragilidad"],
+        "feedback": "Según la NANDA, el síndrome de fragilidad del anciano es un estado dinámico de equilibrio inestable con deterioro en dominios físicos, funcionales, psicológicos o sociales."
+      },
+      {
+        "enunciado": "¿Qué factor NO está considerado un mecanismo responsable del origen de la fragilidad física según Morley y colaboradores?",
+        "opciones": [
+          "Aterosclerosis.",
+          "Desnutrición.",
+          "Hipertensión arterial.",
+          "Sarcopenia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "factores_fragilidad"],
+        "feedback": "Morley y colaboradores identifican la aterosclerosis, la desnutrición y la sarcopenia como mecanismos responsables de la fragilidad, pero no la hipertensión arterial."
+      },
+      {
+        "enunciado": "Según la Ley 4/2017 de Derechos y Atención a las Personas con Discapacidad en Andalucía, ¿qué porcentaje mínimo de grado de discapacidad debe reconocerse para acceder a medidas de acción positiva?",
+        "opciones": [
+          "25%.",
+          "33%.",
+          "50%.",
+          "75%."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "legislacion_discapacidad"],
+        "feedback": "La Ley 4/2017 establece que se debe reconocer un grado de discapacidad igual o superior al 33% para acceder a medidas de acción positiva."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes instrumentos evalúa las actividades instrumentales de la vida diaria (AIVD)?",
+        "opciones": [
+          "Índice de Barthel.",
+          "Escala de Lawton y Brody.",
+          "Test SPPB (Short Physical Performance Battery).",
+          "Escala de Yesavage."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "evaluacion_funcional"],
+        "feedback": "La Escala de Lawton y Brody evalúa las actividades instrumentales de la vida diaria (AIVD), como usar el teléfono, hacer compras y preparar la comida."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una característica clave del envejecimiento activo según la OMS?",
+        "opciones": [
+          "Se centra exclusivamente en el mantenimiento de la salud física.",
+          "Es inclusivo y considera a personas con discapacidad o en situación de dependencia.",
+          "Promueve únicamente la prolongación de la vida laboral.",
+          "Se basa en la reducción de gastos económicos para el sistema de salud."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "envejecimiento_activo"],
+        "feedback": "El envejecimiento activo, según la OMS, es inclusivo y considera también a personas frágiles o con alguna discapacidad o dependencia, no limitándose solo a la salud física."
+      },
+      {
+        "enunciado": "¿Qué concepto refleja la capacidad de una persona para tomar decisiones personales y desarrollar actividades básicas de la vida diaria, según la Ley 39/2006?",
+        "opciones": [
+          "Fragilidad.",
+          "Dependencia.",
+          "Autonomía.",
+          "Complejidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_legales"],
+        "feedback": "La autonomía es la capacidad de controlar, afrontar y tomar decisiones personales, así como desarrollar actividades básicas de la vida diaria, según la Ley 39/2006."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes herramientas es útil para la valoración pronóstica en personas frágiles o con dependencia?",
+        "opciones": [
+          "Índice PROFUND.",
+          "Escala de Lawton.",
+          "Índice de Barthel.",
+          "Test de Pfeiffer."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "valoracion_pronostica"],
+        "feedback": "El Índice PROFUND se utiliza para realizar valoraciones pronósticas en personas frágiles o con pluripatología, ayudando a determinar riesgos de evolución clínica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores contribuye directamente al desarrollo de la fragilidad según el modelo de Morley y colaboradores?",
+        "opciones": [
+          "La hipertrofia muscular.",
+          "La aterosclerosis.",
+          "El aumento del metabolismo basal.",
+          "El incremento de la reserva homeostática."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "factores_fragilidad"],
+        "feedback": "Morley y colaboradores señalan la aterosclerosis como uno de los principales factores contribuyentes a la fragilidad, junto a la sarcopenia, la desnutrición y el deterioro cognitivo."
+      },
+      {
+        "enunciado": "En el contexto de la fragilidad, ¿cuál de las siguientes afirmaciones es incorrecta?",
+        "opciones": [
+          "La fragilidad aumenta el riesgo de deterioro funcional en personas mayores.",
+          "El síndrome de fragilidad es reversible si se interviene precozmente.",
+          "La fragilidad se asocia exclusivamente a enfermedades crónicas.",
+          "La detección precoz de fragilidad puede evitar la dependencia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_fragilidad"],
+        "feedback": "La fragilidad no está asociada exclusivamente a enfermedades crónicas; es un síndrome complejo que también involucra factores sociales, nutricionales y funcionales."
+      },
+      {
+        "enunciado": "¿Qué estrategia implementada en Andalucía tiene como objetivo la promoción de la autonomía personal y la prevención de la dependencia?",
+        "opciones": [
+          "Plan Andaluz de Atención Integral a Pacientes Crónicos.",
+          "Plan Andaluz de Promoción de la Autonomía Personal y Prevención de la Dependencia (2016-2020).",
+          "Estrategia Nacional de Cuidados Paliativos.",
+          "Plan Integral de Diabetes en Andalucía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "políticas_autonomía"],
+        "feedback": "El Plan Andaluz de Promoción de la Autonomía Personal y Prevención de la Dependencia (2016-2020) busca fomentar la autonomía y prevenir el agravamiento de situaciones de dependencia."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los pilares del envejecimiento activo según el Libro Blanco del Envejecimiento Activo de Andalucía?",
+        "opciones": [
+          "La universalización de la asistencia hospitalaria.",
+          "La promoción de la formación a lo largo de toda la vida.",
+          "La exclusividad en la atención sanitaria a personas mayores.",
+          "El enfoque en el aumento del gasto público en dependencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "envejecimiento_activo"],
+        "feedback": "El Libro Blanco del Envejecimiento Activo en Andalucía incluye la formación a lo largo de toda la vida como uno de los pilares clave para garantizar un envejecimiento saludable."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas se utiliza para valorar la funcionalidad física y riesgo de caídas en personas mayores?",
+        "opciones": [
+          "Escala de Yesavage.",
+          "Índice de Lawton-Brody.",
+          "Prueba SPPB (Short Physical Performance Battery).",
+          "Test de Pfeiffer."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "valoracion_funcional"],
+        "feedback": "La prueba SPPB es una herramienta útil para evaluar la funcionalidad física y el riesgo de caídas en personas mayores, midiendo el equilibrio, la fuerza y la velocidad de la marcha."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de la población andaluza en situación de dependencia estaba siendo atendida, según datos del I Plan Andaluz de Promoción de la Autonomía Personal y Prevención de la Dependencia?",
+        "opciones": [
+          "10%.",
+          "18%.",
+          "22%.",
+          "30%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "datos_dependencia"],
+        "feedback": "Según el I Plan Andaluz, Andalucía atendía al 22% de la población en situación de dependencia en España, destacando el compromiso con la autonomía personal."
+      },
+      {
+        "enunciado": "¿Qué tipo de actividades son evaluadas mediante el Índice de Lawton y Brody?",
+        "opciones": [
+          "Actividades básicas de la vida diaria (ABVD).",
+          "Actividades instrumentales de la vida diaria (AIVD).",
+          "Capacidad cognitiva y memoria.",
+          "Riesgo de deterioro funcional grave."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "herramientas_evaluacion"],
+        "feedback": "El Índice de Lawton y Brody evalúa las actividades instrumentales de la vida diaria (AIVD), que incluyen tareas más complejas, como usar el teléfono, cocinar y manejar dinero."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes dimensiones NO forma parte del modelo de calidad de vida de Schalock y Verdugo?",
+        "opciones": [
+          "Bienestar físico.",
+          "Bienestar emocional.",
+          "Capacidad económica.",
+          "Autodeterminación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "calidad_vida"],
+        "feedback": "El modelo de calidad de vida de Schalock y Verdugo incluye dimensiones como bienestar físico, emocional, autodeterminación, pero no hace referencia directa a la capacidad económica."
+      },
+      {
+        "enunciado": "¿Qué diferencia clave existe entre dependencia y discapacidad, según los conceptos legales en España?",
+        "opciones": [
+          "La discapacidad es temporal, mientras que la dependencia es permanente.",
+          "Toda persona dependiente tiene una discapacidad, pero no toda persona con discapacidad es dependiente.",
+          "La dependencia se refiere solo a limitaciones físicas, mientras que la discapacidad incluye las cognitivas.",
+          "La dependencia implica una limitación económica, mientras que la discapacidad no."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_legales"],
+        "feedback": "La diferencia clave es que toda persona dependiente tiene una discapacidad, pero no toda persona con discapacidad presenta dependencia, ya que esta última implica necesidad de ayuda para las ABVD."
+      },
+      {
+        "enunciado": "Según el Examen de Salud para Mayores de 65 años, ¿a qué grupo pertenece una persona con un Índice de Barthel entre 61 y 90?",
+        "opciones": [
+          "Persona autónoma.",
+          "Persona frágil o en riesgo de dependencia.",
+          "Persona con gran dependencia.",
+          "Persona con discapacidad leve."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "clasificacion_funcional"],
+        "feedback": "Una persona con un Índice de Barthel entre 61 y 90 se considera frágil o en riesgo de dependencia, lo que requiere intervenciones preventivas para evitar el deterioro funcional."
+      },
+      {
+        "enunciado": "¿Cuál es una característica distintiva de la fragilidad en comparación con la dependencia?",
+        "opciones": [
+          "La fragilidad siempre implica una pérdida total de autonomía.",
+          "La dependencia precede a la fragilidad en todos los casos.",
+          "La fragilidad es un estado reversible si se detecta y trata precozmente.",
+          "La dependencia solo afecta a las personas con discapacidad reconocida."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "diferencias_conceptos"],
+        "feedback": "La fragilidad es un estado potencialmente reversible si se detecta a tiempo y se implementan intervenciones adecuadas, mientras que la dependencia suele implicar una pérdida más estable de autonomía."
+      },
+      {
+        "enunciado": "Según la Ley 39/2006, ¿cuál de las siguientes actividades básicas de la vida diaria (ABVD) se considera en la valoración de la dependencia?",
+        "opciones": [
+          "Preparación de comidas.",
+          "Uso del transporte público.",
+          "Higiene personal.",
+          "Gestión de la medicación."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "actividades_basicas"],
+        "feedback": "La higiene personal es una de las actividades básicas de la vida diaria (ABVD) evaluadas en la valoración de la dependencia, junto con alimentarse, vestirse y desplazarse."
+      },
+      {
+        "enunciado": "¿Qué objetivo específico del I Plan Andaluz de Promoción de la Autonomía Personal se centra en la sensibilización y formación?",
+        "opciones": [
+          "Reducir el impacto y agravamiento de las situaciones de dependencia.",
+          "Promover la sensibilización social y la formación de los agentes implicados.",
+          "Incrementar la esperanza de vida libre de enfermedades y discapacidad.",
+          "Mejorar la accesibilidad a los recursos sociales y sanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "objetivos_plan_andaluz"],
+        "feedback": "Uno de los objetivos del Plan Andaluz es promover la sensibilización de la sociedad y la formación de los profesionales y agentes implicados en la promoción de la autonomía personal."
+      },
+      {
+        "enunciado": "¿Qué instrumento permite evaluar la velocidad de la marcha y es útil para la detección de fragilidad física?",
+        "opciones": [
+          "Escala de Lawton-Brody.",
+          "Test Time Up and Go (TUG).",
+          "Test de Pfeiffer.",
+          "Índice de Barthel."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "herramientas_funcionalidad"],
+        "feedback": "El Test Time Up and Go (TUG) evalúa la velocidad de la marcha, el equilibrio y la movilidad, y es una herramienta clave para detectar fragilidad física y riesgo de caídas."
+      },
+      {
+        "enunciado": "En el contexto del envejecimiento activo, ¿qué dimensión de la calidad de vida según Schalock y Verdugo se relaciona con la participación en la comunidad?",
+        "opciones": [
+          "Bienestar emocional.",
+          "Desarrollo personal.",
+          "Relaciones interpersonales.",
+          "Inclusión social."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "calidad_vida"],
+        "feedback": "La inclusión social, según Schalock y Verdugo, se relaciona con la participación de las personas en la comunidad y la integración social como parte de una vida de calidad."
+      },
+      {
+        "enunciado": "¿Qué característica diferencia el envejecimiento activo propuesto por la OMS de otras estrategias de salud pública?",
+        "opciones": [
+          "Se centra exclusivamente en prevenir enfermedades crónicas.",
+          "Integra la salud, la participación y la seguridad como pilares fundamentales.",
+          "Se enfoca en la reducción de costes económicos en sistemas de salud.",
+          "Se aplica únicamente a personas mayores autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "envejecimiento_activo"],
+        "feedback": "El envejecimiento activo de la OMS integra tres pilares fundamentales: salud, participación y seguridad, promoviendo una visión inclusiva y global del proceso de envejecimiento."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes elementos no se evalúa en el Índice de Barthel?",
+        "opciones": [
+          "Alimentación.",
+          "Subir y bajar escaleras.",
+          "Uso del transporte público.",
+          "Control de esfínteres."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "evaluacion_funcional"],
+        "feedback": "El Índice de Barthel evalúa actividades básicas de la vida diaria (ABVD) como alimentación, desplazamiento y control de esfínteres, pero no incluye el uso del transporte público."
+      },
+      {
+        "enunciado": "¿Qué situación define mejor la vulnerabilidad en el contexto de la fragilidad y la dependencia?",
+        "opciones": [
+          "Una condición estática asociada únicamente a la edad avanzada.",
+          "Un mayor riesgo de daño o deterioro debido a factores sociales y personales.",
+          "Una pérdida irreversible de la autonomía física y mental.",
+          "Una situación exclusiva de personas con discapacidad reconocida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "concepto_vulnerabilidad"],
+        "feedback": "La vulnerabilidad implica un mayor riesgo de daño o deterioro relacionado con factores personales, sociales y ambientales, especialmente en situaciones de fragilidad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores es considerado clave en la prevención de la dependencia según el I Plan Andaluz de Promoción de la Autonomía Personal?",
+        "opciones": [
+          "La hospitalización prolongada.",
+          "La coordinación entre servicios sociales y sanitarios.",
+          "El uso exclusivo de ayudas técnicas.",
+          "La intervención tardía en personas frágiles."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "prevencion_dependencia"],
+        "feedback": "La coordinación entre los servicios sociales y sanitarios es fundamental para prevenir la dependencia y promover la autonomía personal, como recoge el I Plan Andaluz."
+      },
+      {
+        "enunciado": "Según la OMS, ¿qué término se utiliza para referirse al proceso de optimización de la salud, la participación y la seguridad en el envejecimiento?",
+        "opciones": [
+          "Envejecimiento saludable.",
+          "Envejecimiento positivo.",
+          "Envejecimiento activo.",
+          "Envejecimiento funcional."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "envejecimiento_activo"],
+        "feedback": "La OMS define el envejecimiento activo como el proceso de optimización de las oportunidades de salud, participación y seguridad para mejorar la calidad de vida en la vejez."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones corresponde al grado II de dependencia según la Ley 39/2006?",
+        "opciones": [
+          "Necesidad de ayuda limitada para una actividad básica de la vida diaria una vez al día.",
+          "Necesidad de ayuda varias veces al día, sin requerir apoyo permanente de un cuidador.",
+          "Pérdida total de autonomía y necesidad de apoyo continuo.",
+          "Necesidad de apoyo ocasional para tareas instrumentales de la vida diaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "grados_dependencia"],
+        "feedback": "El grado II de dependencia, conocido como dependencia severa, implica la necesidad de ayuda para realizar varias actividades básicas de la vida diaria, dos o tres veces al día, sin requerir apoyo permanente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un factor determinante de la fragilidad en personas mayores según el Examen de Salud para Mayores de 65 años?",
+        "opciones": [
+          "Pérdida de peso no intencionada.",
+          "Reducción de la actividad física.",
+          "Deterioro de la salud mental.",
+          "Aumento de la masa muscular."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "factores_fragilidad"],
+        "feedback": "El aumento de la masa muscular no es un factor determinante de la fragilidad. En cambio, la pérdida de peso, la inactividad física y el deterioro cognitivo sí lo son."
+      },
+      {
+        "enunciado": "¿Qué acción está incluida en la línea de 'Promoción de la Autonomía' dentro del I Plan Andaluz de Promoción de la Autonomía Personal y Prevención de la Dependencia?",
+        "opciones": [
+          "Fomento del uso de tecnologías de apoyo para personas en situación de dependencia.",
+          "Reducción del tiempo de hospitalización para personas mayores.",
+          "Cierre de centros residenciales en favor de servicios hospitalarios.",
+          "Aumento de barreras arquitectónicas en los espacios públicos."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "promocion_autonomia"],
+        "feedback": "El I Plan Andaluz incluye acciones como el fomento del uso de tecnologías de apoyo para promover la autonomía de personas en situación de dependencia."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes actividades se considera una Actividad Instrumental de la Vida Diaria (AIVD)?",
+        "opciones": [
+          "Vestirse.",
+          "Bañarse.",
+          "Realizar compras.",
+          "Comer sin ayuda."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "actividades_vida"],
+        "feedback": "Realizar compras es una Actividad Instrumental de la Vida Diaria (AIVD), que implica tareas más complejas necesarias para vivir de manera independiente en la comunidad."
+      },
+      {
+        "enunciado": "Según Schalock y Verdugo, ¿qué dimensión de la calidad de vida se asocia con la mejora de competencias y habilidades personales?",
+        "opciones": [
+          "Bienestar físico.",
+          "Desarrollo personal.",
+          "Autodeterminación.",
+          "Relaciones interpersonales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "calidad_vida"],
+        "feedback": "La dimensión de desarrollo personal, según Schalock y Verdugo, está relacionada con la mejora de las competencias y habilidades individuales para alcanzar una vida plena."
+      },
+      {
+        "enunciado": "¿Qué herramienta se utiliza para detectar deterioro cognitivo leve en personas mayores?",
+        "opciones": [
+          "Índice de Barthel.",
+          "Test de Pfeiffer.",
+          "Escala de Yesavage.",
+          "Test Time Up and Go (TUG)."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "valoracion_cognitiva"],
+        "feedback": "El Test de Pfeiffer es una herramienta utilizada para detectar deterioro cognitivo leve mediante preguntas sencillas orientadas a evaluar la memoria y la capacidad de atención."
+      },
+      {
+        "enunciado": "¿Qué principio fundamental guía la promoción de la autonomía personal en el marco del envejecimiento activo?",
+        "opciones": [
+          "Reducción de la esperanza de vida en situaciones de dependencia.",
+          "Accesibilidad universal y no discriminación.",
+          "Fomento exclusivo de tratamientos farmacológicos.",
+          "Aislamiento de las personas en situación de dependencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "principios_envejecimiento"],
+        "feedback": "La accesibilidad universal y la no discriminación son principios fundamentales que guían la promoción de la autonomía personal, garantizando la igualdad de oportunidades."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el envejecimiento activo es correcta?",
+        "opciones": [
+          "Solo aplica a personas mayores sin discapacidad.",
+          "Se centra en optimizar la salud, participación y seguridad de las personas mayores.",
+          "Prioriza la intervención hospitalaria en personas frágiles.",
+          "Se limita a aumentar la longevidad sin considerar la calidad de vida."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "envejecimiento_activo"],
+        "feedback": "El envejecimiento activo se centra en optimizar la salud, la participación y la seguridad de las personas mayores, mejorando su calidad de vida."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de grado de discapacidad mínimo se necesita para obtener beneficios fiscales y otras medidas de acción positiva?",
+        "opciones": [
+          "25%.",
+          "33%.",
+          "50%.",
+          "75%."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "legislacion_discapacidad"],
+        "feedback": "Para acceder a medidas de acción positiva, como beneficios fiscales, se requiere un grado de discapacidad igual o superior al 33%."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores es considerado modificable para prevenir la fragilidad en personas mayores?",
+        "opciones": [
+          "La edad cronológica.",
+          "La pérdida de masa muscular (sarcopenia).",
+          "El sexo biológico.",
+          "La predisposición genética."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "prevencion_fragilidad"],
+        "feedback": "La pérdida de masa muscular, conocida como sarcopenia, es un factor modificable mediante intervenciones como el ejercicio físico, que pueden prevenir la fragilidad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes elementos no forma parte de la definición de dependencia según la Ley 39/2006?",
+        "opciones": [
+          "Necesidad de apoyo para actividades básicas de la vida diaria.",
+          "Pérdida total de autonomía sensorial e intelectual.",
+          "Requerimiento de ayudas técnicas o personales.",
+          "Dificultad temporal para realizar actividades laborales."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "concepto_dependencia"],
+        "feedback": "La dependencia, según la Ley 39/2006, implica la necesidad de apoyo para las actividades básicas de la vida diaria, pero no se refiere a dificultades laborales temporales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes instrumentos evalúa el esfuerzo y carga del cuidador principal?",
+        "opciones": [
+          "Escala de Gijón.",
+          "Índice de Lawton-Brody.",
+          "Índice de Esfuerzo del Cuidador.",
+          "Índice PROFUND."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "evaluacion_cuidador"],
+        "feedback": "El Índice de Esfuerzo del Cuidador evalúa el nivel de carga y esfuerzo que supone para una persona ejercer el rol de cuidador principal en situaciones de dependencia."
+      },
+      {
+        "enunciado": "¿Cuál es una medida clave en el abordaje de la fragilidad física en personas mayores?",
+        "opciones": [
+          "La hospitalización prolongada.",
+          "El reposo absoluto para evitar caídas.",
+          "La promoción de ejercicio físico multicomponente.",
+          "La administración sistemática de fármacos analgésicos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "abordaje_fragilidad"],
+        "feedback": "La promoción del ejercicio físico multicomponente, que incluye fuerza, equilibrio y resistencia, es fundamental para abordar la fragilidad física y reducir el riesgo de dependencia."
+      },
+      {
+        "enunciado": "¿Qué instrumento se utiliza para valorar el riesgo de caídas en personas mayores?",
+        "opciones": [
+          "Índice de Barthel.",
+          "SPPB (Short Physical Performance Battery).",
+          "Escala de Yesavage.",
+          "Test de Pfeiffer."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "riesgo_caidas"],
+        "feedback": "El SPPB (Short Physical Performance Battery) evalúa la fuerza, el equilibrio y la velocidad de la marcha, siendo útil para detectar riesgo de caídas en personas mayores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores aumenta el riesgo de vulnerabilidad en personas mayores?",
+        "opciones": [
+          "Red de apoyo social amplia.",
+          "Accesibilidad universal garantizada.",
+          "Presencia de pobreza y aislamiento social.",
+          "Participación activa en actividades comunitarias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "concepto_vulnerabilidad"],
+        "feedback": "La pobreza y el aislamiento social son factores que incrementan significativamente la vulnerabilidad en personas mayores, dificultando su autonomía y calidad de vida."
+      },
+      {
+        "enunciado": "Según la Estrategia de Promoción de la Salud en Andalucía, ¿qué enfoque es prioritario para personas frágiles mayores de 65 años?",
+        "opciones": [
+          "Intervenciones centradas únicamente en cuidados hospitalarios.",
+          "Actuaciones preventivas y de promoción de la salud en la comunidad.",
+          "Tratamientos farmacológicos exclusivos para evitar dependencia.",
+          "Reubicación de personas mayores en centros residenciales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "promocion_salud"],
+        "feedback": "La estrategia prioriza actuaciones preventivas y de promoción de la salud en la comunidad, con un enfoque centrado en la autonomía y la detección precoz de la fragilidad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe la capacidad de una persona para decidir sobre su vida y participar activamente en su entorno?",
+        "opciones": [
+          "Fragilidad.",
+          "Dependencia.",
+          "Autodeterminación.",
+          "Complejidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La autodeterminación se refiere a la capacidad de las personas para tomar decisiones sobre su vida, siendo clave en la promoción de la autonomía personal."
+      },
+      {
+        "enunciado": "¿Qué herramienta es adecuada para valorar el nivel de funcionalidad en actividades básicas de la vida diaria (ABVD)?",
+        "opciones": [
+          "Índice de Barthel.",
+          "Escala de Gijón.",
+          "Cuestionario FRAIL.",
+          "Test de Yesavage."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "evaluacion_funcional"],
+        "feedback": "El Índice de Barthel evalúa la autonomía en las actividades básicas de la vida diaria (ABVD), como alimentación, vestirse y moverse, y es útil en la valoración funcional."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la sarcopenia en personas mayores?",
+        "opciones": [
+          "Es un proceso irreversible e inevitable con la edad.",
+          "Se caracteriza por pérdida de masa y fuerza muscular.",
+          "No está relacionada con la fragilidad física.",
+          "Se resuelve con reposo prolongado y medicación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "fragilidad_fisica"],
+        "feedback": "La sarcopenia se caracteriza por la pérdida de masa y fuerza muscular, y es un factor clave en la fragilidad física que puede abordarse con ejercicio y nutrición adecuada."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de la población mayor de 65 años en Andalucía era considerada frágil o en riesgo de dependencia según datos recientes?",
+        "opciones": [
+          "10%.",
+          "23%.",
+          "35%.",
+          "50%."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "datos_estadisticos"],
+        "feedback": "Según datos del Examen de Salud para Mayores de 65 años, aproximadamente el 23% de la población mayor de 65 años en Andalucía es frágil o está en riesgo de dependencia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe una situación en la que una persona tiene un mayor riesgo de daño o perjuicio debido a factores personales, sociales o ambientales?",
+        "opciones": [
+          "Dependencia.",
+          "Fragilidad.",
+          "Vulnerabilidad.",
+          "Autonomía."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La vulnerabilidad describe una situación en la que una persona tiene un mayor riesgo de sufrir daños o perjuicios debido a factores personales, sociales o ambientales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe el estado en el que una persona pierde la capacidad para realizar actividades básicas de la vida diaria y necesita ayuda de otros?",
+        "opciones": [
+          "Fragilidad.",
+          "Dependencia.",
+          "Vulnerabilidad.",
+          "Complejidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La dependencia es el estado en el que una persona necesita ayuda para realizar actividades básicas de la vida diaria debido a la pérdida de autonomía física o mental."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos hace referencia a una condición en la que se reduce la resistencia y reserva funcional, aumentando la susceptibilidad a eventos adversos?",
+        "opciones": [
+          "Dependencia.",
+          "Fragilidad.",
+          "Vulnerabilidad.",
+          "Autonomía."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La fragilidad se caracteriza por una disminución de la resistencia y las reservas funcionales, lo que aumenta el riesgo de eventos adversos, como caídas o deterioro funcional."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe las limitaciones en la actividad y restricciones en la participación debido a barreras físicas o sociales?",
+        "opciones": [
+          "Dependencia.",
+          "Discapacidad.",
+          "Complejidad.",
+          "Fragilidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La discapacidad describe las limitaciones en la actividad y restricciones en la participación que surgen de la interacción entre una persona con deficiencias y barreras sociales o físicas."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe un estado en el que convergen múltiples factores que dificultan la gestión de cuidados y soluciones efectivas?",
+        "opciones": [
+          "Complejidad.",
+          "Fragilidad.",
+          "Vulnerabilidad.",
+          "Dependencia."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La complejidad surge cuando múltiples factores, como la presencia de problemas de salud y entornos desfavorables, dificultan la gestión de cuidados y soluciones efectivas."
+      },
+      {
+        "enunciado": "¿Qué concepto hace referencia a la capacidad de una persona para realizar actividades básicas de la vida diaria y tomar decisiones personales sin ayuda de otros?",
+        "opciones": [
+          "Dependencia.",
+          "Autonomía.",
+          "Complejidad.",
+          "Fragilidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La autonomía es la capacidad de una persona para realizar actividades básicas de la vida diaria y tomar decisiones personales de manera independiente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe la interacción entre deficiencias físicas, sensoriales o intelectuales y barreras externas que limitan la participación plena en la sociedad?",
+        "opciones": [
+          "Fragilidad.",
+          "Dependencia.",
+          "Discapacidad.",
+          "Vulnerabilidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La discapacidad es el resultado de la interacción entre deficiencias físicas, sensoriales o intelectuales y las barreras externas que limitan la participación en la sociedad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos describe un estado intermedio que aumenta el riesgo de dependencia debido a la pérdida de reserva funcional?",
+        "opciones": [
+          "Vulnerabilidad.",
+          "Fragilidad.",
+          "Discapacidad.",
+          "Complejidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La fragilidad es un estado intermedio que conlleva una mayor vulnerabilidad y riesgo de desarrollar dependencia debido a la pérdida progresiva de la reserva funcional."
+      },
+      {
+        "enunciado": "¿Qué concepto describe un proceso dinámico de equilibrio inestable en personas mayores que experimentan deterioro físico, psicológico o social?",
+        "opciones": [
+          "Dependencia.",
+          "Fragilidad.",
+          "Vulnerabilidad.",
+          "Complejidad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La fragilidad es un proceso dinámico de equilibrio inestable, especialmente en personas mayores, que experimentan deterioro en dominios físicos, psicológicos o sociales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos está relacionado con la pérdida de masa muscular (sarcopenia) y la disminución de la fuerza física en personas mayores?",
+        "opciones": [
+          "Vulnerabilidad.",
+          "Dependencia.",
+          "Fragilidad.",
+          "Discapacidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "conceptos_basicos"],
+        "feedback": "La fragilidad, a menudo asociada con la sarcopenia, implica una pérdida de masa muscular y fuerza física, lo que incrementa el riesgo de deterioro funcional y dependencia."
+      },
+      {
+        "enunciado": "¿Qué objetivo principal tiene la Tarjeta + Cuidados en Andalucía?",
+        "opciones": [
+          "Garantizar la atención prioritaria a personas con Alzheimer.",
+          "Proporcionar servicios prioritarios a personas cuidadoras de personas con gran discapacidad.",
+          "Facilitar el acceso a medicamentos a personas en situación de dependencia.",
+          "Otorgar ayudas económicas directas a personas cuidadoras."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados está destinada a personas que cuidan de personas con gran discapacidad, permitiéndoles acceder a servicios prioritarios y medidas especiales recogidas en el plan andaluz."
+      },
+      {
+        "enunciado": "¿Cuántas personas cuidadoras disponían de la Tarjeta + Cuidados en Andalucía en el año 2015?",
+        "opciones": [
+          "Más de 46.000.",
+          "Unas 70.000.",
+          "Más de 92.000.",
+          "Cerca de 100.000."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, más de 92.000 personas cuidadoras en Andalucía disponían de la Tarjeta + Cuidados, facilitando su acceso a recursos y programas específicos."
+      },
+      {
+        "enunciado": "¿Qué colectivo de personas cuidadoras tiene especial prioridad para obtener la Tarjeta + Cuidados?",
+        "opciones": [
+          "Personas que cuidan a menores con discapacidad reconocida.",
+          "Personas que cuidan a personas con Alzheimer y otras demencias.",
+          "Personas profesionales del cuidado en residencias.",
+          "Personas que cuidan de adultos con problemas económicos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Las personas que cuidan a personas con Alzheimer y otras demencias tienen prioridad para obtener la Tarjeta + Cuidados, facilitando el acceso a servicios y medidas especiales."
+      },
+      {
+        "enunciado": "¿Qué ventajas ofrece la Tarjeta + Cuidados a las personas cuidadoras?",
+        "opciones": [
+          "Reducción del tiempo de hospitalización para las personas dependientes.",
+          "Acceso prioritario a ayudas técnicas y programas de apoyo en domicilio.",
+          "Descuentos fiscales y económicos para las personas cuidadoras.",
+          "Otorgamiento de vivienda social prioritaria."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados facilita el acceso prioritario a ayudas técnicas y programas de apoyo en el domicilio, mejorando la atención a las personas dependientes y al entorno cuidador."
+      },
+      {
+        "enunciado": "¿Cuántas personas cuidadoras de personas con Alzheimer y otras demencias disponían de la Tarjeta + Cuidados en Andalucía en 2015?",
+        "opciones": [
+          "20.000 personas.",
+          "46.675 personas.",
+          "92.000 personas.",
+          "Más de 100.000 personas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, un total de 46.675 personas cuidadoras de personas con Alzheimer y otras demencias disponían de la Tarjeta + Cuidados en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué función tienen las ayudas técnicas que se facilitan a través del programa vinculado a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Mejorar el acceso de las personas cuidadoras al transporte público.",
+          "Facilitar dispositivos y material ortoprotésico de apoyo al cuidado en domicilio.",
+          "Proporcionar ayudas económicas para contratar a cuidadores profesionales.",
+          "Garantizar la adquisición de medicamentos gratuitos para personas dependientes."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Las ayudas técnicas vinculadas a la Tarjeta + Cuidados incluyen material ortoprotésico y dispositivos para apoyar el cuidado en el domicilio, facilitando la labor de las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Cuál es el principal requisito para que una persona cuidadora obtenga la Tarjeta + Cuidados en Andalucía?",
+        "opciones": [
+          "Ser cuidador de una persona con gran discapacidad reconocida.",
+          "Realizar un curso de formación específico para cuidadores.",
+          "Tener más de 70 años y ser cuidador principal.",
+          "Demostrar una dependencia económica total de la persona cuidada."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados se otorga a personas que cuidan de individuos con gran discapacidad reconocida, otorgándoles prioridad en el acceso a servicios y recursos."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras con Tarjeta + Cuidados en Andalucía eran mujeres en el año 2015?",
+        "opciones": [
+          "65%.",
+          "72%.",
+          "86%.",
+          "93%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, el 86% de las personas cuidadoras con la Tarjeta + Cuidados eran mujeres, lo que refleja la predominancia femenina en los roles de cuidado."
+      },
+      {
+        "enunciado": "¿Qué servicio adicional, vinculado a la Tarjeta + Cuidados, mejora la atención en el domicilio de personas dependientes?",
+        "opciones": [
+          "Distribución de ayudas técnicas y material ortoprotésico.",
+          "Acceso gratuito a teleasistencia avanzada.",
+          "Formación obligatoria en cuidados paliativos.",
+          "Descuentos en servicios de atención hospitalaria."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "El programa vinculado a la Tarjeta + Cuidados incluye la distribución de ayudas técnicas y material ortoprotésico para facilitar la atención en el domicilio."
+      },
+      {
+        "enunciado": "¿Qué medida innovadora facilita el acceso a ayudas técnicas a personas con Tarjeta + Cuidados en Andalucía?",
+        "opciones": [
+          "Entrega de ayudas técnicas en el domicilio del cuidador.",
+          "Reembolso del 50% del coste del material sanitario.",
+          "Formación presencial sobre el uso de ayudas técnicas.",
+          "Acceso exclusivo a subvenciones para cuidadores profesionales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Una medida innovadora vinculada a la Tarjeta + Cuidados es la entrega directa de ayudas técnicas en el domicilio, mejorando la rapidez y calidad de la prestación."
+      },
+      {
+        "enunciado": "¿Qué programa complementario a la Tarjeta + Cuidados promueve la formación de personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Programa de Formación Continua del SAS.",
+          "Talleres impartidos por enfermeras de Atención Primaria.",
+          "Cursos certificados por la Junta de Andalucía.",
+          "Programa de Certificación de Cuidados en el Hogar."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Los talleres impartidos por enfermeras de Atención Primaria forman parte del programa complementario vinculado a la Tarjeta + Cuidados, orientado a mejorar las competencias de las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Qué cifra aproximada de personas cuidadoras mayores de 70 años disponían de la Tarjeta + Cuidados en Andalucía en 2015?",
+        "opciones": [
+          "15.500.",
+          "23.500.",
+          "32.000.",
+          "46.000."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, alrededor de 23.500 personas cuidadoras mayores de 70 años disponían de la Tarjeta + Cuidados en Andalucía, lo que representa una parte significativa de este colectivo."
+      },
+      {
+        "enunciado": "¿Qué organismo es responsable de facilitar la Tarjeta + Cuidados a las personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Servicio Andaluz de Teleasistencia.",
+          "Sistema Andaluz de Salud (SAS).",
+          "Consejería de Igualdad y Políticas Sociales.",
+          "Centros de Participación Activa para Mayores."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Consejería de Igualdad y Políticas Sociales es responsable de facilitar la Tarjeta + Cuidados a personas cuidadoras en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los objetivos específicos del Plan Andaluz vinculado a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Reducir el gasto sanitario en personas dependientes.",
+          "Ofrecer estancias temporales en centros hospitalarios.",
+          "Fomentar la prevención del agotamiento de las personas cuidadoras.",
+          "Garantizar el acceso prioritario a atención quirúrgica."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Uno de los objetivos específicos del Plan Andaluz es prevenir el agotamiento físico y emocional de las personas cuidadoras, facilitando recursos como la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras menores de 70 años disponían de la Tarjeta + Cuidados en 2015?",
+        "opciones": [
+          "65%.",
+          "72%.",
+          "80%.",
+          "85%."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, el 85% de las personas cuidadoras menores de 70 años disponían de la Tarjeta + Cuidados, evidenciando su amplio alcance en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué tipo de atención prioritaria ofrece la Tarjeta + Cuidados a las personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Atención sanitaria urgente en hospitales.",
+          "Acceso prioritario a programas de respiro familiar.",
+          "Servicios gratuitos de teleasistencia avanzada.",
+          "Prioridad en ayudas económicas para vivienda adaptada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados ofrece a las personas cuidadoras acceso prioritario a programas de respiro familiar, que son fundamentales para evitar el agotamiento físico y emocional."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes acciones forma parte del apoyo específico vinculado a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Entrega de dispositivos de monitorización médica a domicilio.",
+          "Formación y asesoramiento continuo a las personas cuidadoras.",
+          "Proporcionar transporte gratuito para las personas dependientes.",
+          "Otorgamiento de ayudas para compra de medicamentos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "El apoyo vinculado a la Tarjeta + Cuidados incluye formación y asesoramiento continuo a las personas cuidadoras, mejorando su capacidad para proporcionar cuidados adecuados."
+      },
+      {
+        "enunciado": "¿Qué colectivo puede beneficiarse directamente de la Tarjeta + Cuidados además de las personas cuidadoras?",
+        "opciones": [
+          "Personas con discapacidad reconocida.",
+          "Personal sanitario especializado en geriatría.",
+          "Familiares de personas con enfermedades terminales.",
+          "Profesionales de servicios sociales comunitarios."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Además de las personas cuidadoras, la Tarjeta + Cuidados está orientada a personas con gran discapacidad reconocida, garantizando la mejora de su atención."
+      },
+      {
+        "enunciado": "¿Qué objetivo principal tiene el programa de formación vinculado a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Reducir la carga asistencial de los hospitales.",
+          "Formar a cuidadores en técnicas avanzadas de resucitación.",
+          "Capacitar a las personas cuidadoras para proporcionar cuidados de calidad.",
+          "Sustituir la labor de los profesionales sociosanitarios en el hogar."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "El programa de formación asociado a la Tarjeta + Cuidados tiene como objetivo capacitar a las personas cuidadoras para ofrecer cuidados de calidad a las personas dependientes."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones refleja un beneficio clave de la Tarjeta + Cuidados para las personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Acceso prioritario a servicios de atención hospitalaria de alta complejidad.",
+          "Facilitación de ayudas económicas directas sin justificación de uso.",
+          "Prioridad en la concesión de programas de teleasistencia y apoyo domiciliario.",
+          "Entrega anual de equipos tecnológicos para monitorización remota."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Uno de los beneficios clave de la Tarjeta + Cuidados es la prioridad en el acceso a servicios como teleasistencia avanzada y apoyo domiciliario, mejorando la atención y el bienestar."
+      },
+      {
+        "enunciado": "¿Qué medida específica de apoyo se ofrece a través de la Tarjeta + Cuidados para personas que cuidan a dependientes en situación de Alzheimer?",
+        "opciones": [
+          "Programas especiales de formación para cuidadores.",
+          "Atención psicológica gratuita en centros de día.",
+          "Subvenciones completas para terapias ocupacionales.",
+          "Acceso exclusivo a servicios de fisioterapia avanzada."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Para las personas cuidadoras de dependientes con Alzheimer, la Tarjeta + Cuidados ofrece programas específicos de formación para mejorar sus competencias y aliviar su carga."
+      },
+      {
+        "enunciado": "¿Qué tipo de recurso facilita la Tarjeta + Cuidados para prevenir el agotamiento de las personas cuidadoras?",
+        "opciones": [
+          "Acceso a programas de rehabilitación funcional.",
+          "Estancias temporales en residencias como respiro familiar.",
+          "Ayudas económicas mensuales para gastos médicos.",
+          "Subsidios directos para contratar personal sanitario."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados incluye estancias temporales en residencias, conocidas como programas de respiro familiar, que ayudan a prevenir el agotamiento de las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes servicios es prioritario para personas cuidadoras con la Tarjeta + Cuidados en Andalucía?",
+        "opciones": [
+          "Atención hospitalaria especializada en horario nocturno.",
+          "Acceso prioritario a programas de ayudas técnicas.",
+          "Servicios de diagnóstico gratuito en centros públicos.",
+          "Entrega de medicamentos sin coste alguno."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Las personas cuidadoras con la Tarjeta + Cuidados tienen acceso prioritario a programas de ayudas técnicas, facilitando el cuidado en el domicilio de personas dependientes."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de cuidadores de personas con gran dependencia en Andalucía se beneficiaron de la Tarjeta + Cuidados en su primera fase de implementación?",
+        "opciones": [
+          "40%.",
+          "52%.",
+          "65%.",
+          "72%."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En su primera fase de implementación, el 72% de los cuidadores de personas con gran dependencia en Andalucía se beneficiaron de la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué proceso debe completarse para que una persona cuidadora pueda solicitar la Tarjeta + Cuidados?",
+        "opciones": [
+          "Valoración del grado de dependencia de la persona cuidada.",
+          "Informe médico del cuidador sobre su capacidad física.",
+          "Registro en la lista de espera de servicios residenciales.",
+          "Declaración de la situación económica del cuidador principal."
+        ],
+        "correcta": 0,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Para solicitar la Tarjeta + Cuidados, es necesario completar la valoración del grado de dependencia de la persona cuidada, acreditando así la necesidad del recurso."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes cifras corresponde al número total de personas cuidadoras que disponían de la Tarjeta + Cuidados en Andalucía en 2015?",
+        "opciones": [
+          "46.675.",
+          "68.650.",
+          "79.608.",
+          "92.271."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En el año 2015, un total de 92.271 personas cuidadoras disponían de la Tarjeta + Cuidados, facilitándoles el acceso a recursos y medidas especiales."
+      },
+      {
+        "enunciado": "¿Qué servicio innovador se introdujo en Andalucía para mejorar la entrega de ayudas técnicas vinculadas a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Prescripción centralizada de ayudas técnicas.",
+          "Entrega de material ortoprotésico directamente en el domicilio.",
+          "Programas de formación sobre uso de ayudas técnicas.",
+          "Subvenciones completas para adquisición de dispositivos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La innovación vinculada a la Tarjeta + Cuidados consiste en la entrega de ayudas técnicas directamente en el domicilio, mejorando la rapidez y calidad de la prestación."
+      },
+      {
+        "enunciado": "En el marco de la Tarjeta + Cuidados, ¿qué porcentaje de personas cuidadoras eran mujeres en Andalucía en 2015?",
+        "opciones": [
+          "65%.",
+          "75%.",
+          "86%.",
+          "92%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, el 86% de las personas cuidadoras con la Tarjeta + Cuidados en Andalucía eran mujeres, evidenciando la predominancia femenina en este rol."
+      },
+      {
+        "enunciado": "¿Qué programa complementario facilita ayudas técnicas como camas articuladas y cojines antiescaras vinculados a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Programa de Respiro Familiar.",
+          "Programa de Cuidados Domiciliarios.",
+          "Catálogo General de Ortoprotésicos.",
+          "Plan de Rehabilitación Funcional."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "El Catálogo General de Ortoprotésicos facilita ayudas técnicas como camas articuladas y cojines antiescaras, vinculadas a la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras menores de 70 años se beneficiaron de la Tarjeta + Cuidados en Andalucía en 2015?",
+        "opciones": [
+          "52%.",
+          "65%.",
+          "74%.",
+          "85%."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En Andalucía, el 85% de las personas cuidadoras menores de 70 años disponían de la Tarjeta + Cuidados en el año 2015."
+      },
+      {
+        "enunciado": "¿Qué tipo de apoyo proporcionan los dispositivos móviles de rehabilitación dentro del programa vinculado a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Asesoramiento técnico sobre el material ortoprotésico.",
+          "Tratamientos de fisioterapia y terapia ocupacional en el domicilio.",
+          "Entrega gratuita de dispositivos tecnológicos avanzados.",
+          "Evaluación clínica centralizada en hospitales de referencia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Los dispositivos móviles vinculados a la Tarjeta + Cuidados proporcionan tratamientos de fisioterapia y terapia ocupacional en el domicilio de las personas cuidadoras y dependientes."
+      },
+      {
+        "enunciado": "¿Qué medida incluida en la Tarjeta + Cuidados tiene como objetivo específico reducir los niveles de agotamiento de las personas cuidadoras?",
+        "opciones": [
+          "Entrega de ayudas económicas directas.",
+          "Acceso prioritario a programas de respiro familiar.",
+          "Provisión de apoyo psicológico en centros de día.",
+          "Distribución gratuita de ayudas técnicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "El acceso prioritario a programas de respiro familiar, incluido en la Tarjeta + Cuidados, ayuda a prevenir y reducir los niveles de agotamiento físico y emocional de las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras de personas con Alzheimer y otras demencias disponían de la Tarjeta + Cuidados en Andalucía en 2015?",
+        "opciones": [
+          "20%.",
+          "35%.",
+          "50%.",
+          "65%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "En 2015, el 50% de las personas cuidadoras de personas con Alzheimer y otras demencias en Andalucía disponían de la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué recurso se introdujo para garantizar la formación específica de las personas cuidadoras vinculadas a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Cursos impartidos en hospitales públicos.",
+          "Talleres formativos dirigidos por enfermeras de Atención Primaria.",
+          "Programas de aprendizaje en centros de día especializados.",
+          "Plataformas online con contenidos personalizados."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La formación específica de personas cuidadoras vinculadas a la Tarjeta + Cuidados se garantiza mediante talleres dirigidos por enfermeras de Atención Primaria."
+      },
+      {
+        "enunciado": "¿Qué estrategia se implementó en Andalucía para evaluar las necesidades de las personas cuidadoras beneficiarias de la Tarjeta + Cuidados?",
+        "opciones": [
+          "Cuestionario de carga emocional para cuidadores.",
+          "Evaluación personalizada de los servicios sociales.",
+          "Valoración del grado de dependencia en centros de salud.",
+          "Aplicación de la escala de fragilidad en el domicilio."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La estrategia implementada incluye la evaluación personalizada de los servicios sociales para analizar y responder a las necesidades de las personas cuidadoras beneficiarias de la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué recurso asociado a la Tarjeta + Cuidados tiene como objetivo fomentar la conciliación de las personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Programas de apoyo psicológico continuado.",
+          "Servicios de atención diurna en centros especializados.",
+          "Ayudas económicas para adaptar el entorno del hogar.",
+          "Programas de respiro familiar con estancias temporales."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Los programas de respiro familiar con estancias temporales permiten a las personas cuidadoras conciliar su vida personal y profesional, reduciendo el agotamiento."
+      },
+      {
+        "enunciado": "¿Qué tipo de prioridad ofrece la Tarjeta + Cuidados en el acceso a servicios públicos en Andalucía?",
+        "opciones": [
+          "Acceso prioritario a consultas especializadas de salud mental.",
+          "Prioridad en la valoración del grado de discapacidad.",
+          "Atención preferente en servicios de teleasistencia y ayudas técnicas.",
+          "Prioridad en hospitalización prolongada en unidades geriátricas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados ofrece atención preferente en servicios como teleasistencia avanzada y ayudas técnicas, facilitando la atención a las personas cuidadoras y dependientes."
+      },
+      {
+        "enunciado": "¿Qué característica fundamental diferencia a la Tarjeta + Cuidados de otros programas de apoyo a cuidadores en Andalucía?",
+        "opciones": [
+          "Se enfoca exclusivamente en cuidadores profesionales.",
+          "Combina formación, ayudas técnicas y acceso a recursos prioritarios.",
+          "Proporciona asistencia financiera mensual a los cuidadores.",
+          "Otorga beneficios solo a personas con discapacidad leve."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados se diferencia por combinar formación, ayudas técnicas y acceso prioritario a recursos, apoyando integralmente a las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Qué innovación en la distribución de recursos fue incluida en el programa de la Tarjeta + Cuidados para facilitar el acceso en zonas rurales?",
+        "opciones": [
+          "Teleasistencia gratuita en zonas rurales.",
+          "Entrega de ayudas técnicas mediante unidades móviles.",
+          "Consultas virtuales con equipos de valoración.",
+          "Subvenciones económicas especiales para transporte."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La entrega de ayudas técnicas mediante unidades móviles facilita el acceso a recursos en zonas rurales, una innovación clave vinculada a la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Cuál es una de las principales finalidades de los programas de respiro familiar asociados a la Tarjeta + Cuidados?",
+        "opciones": [
+          "Garantizar cuidados médicos continuados en hospitales.",
+          "Reducir el aislamiento social de las personas cuidadoras.",
+          "Facilitar la entrega de dispositivos tecnológicos avanzados.",
+          "Formar a profesionales en cuidados intensivos domiciliarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Los programas de respiro familiar tienen como finalidad reducir el aislamiento social y el agotamiento de las personas cuidadoras, ofreciendo apoyo temporal."
+      },
+      {
+        "enunciado": "¿Qué criterio de valoración debe cumplir una persona dependiente para que su cuidador pueda beneficiarse de la Tarjeta + Cuidados?",
+        "opciones": [
+          "Tener reconocida una discapacidad de al menos el 25%.",
+          "Estar valorado con un grado de dependencia II o III.",
+          "Haber sido hospitalizado al menos dos veces en el último año.",
+          "Ser beneficiario de una pensión no contributiva."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Para que una persona cuidadora obtenga la Tarjeta + Cuidados, la persona dependiente a su cargo debe tener un grado de dependencia reconocido de nivel II o III."
+      },
+      {
+        "enunciado": "¿Qué impacto directo busca generar la Tarjeta + Cuidados en las personas cuidadoras en términos de salud emocional?",
+        "opciones": [
+          "Reducción del tiempo dedicado al cuidado diario.",
+          "Prevención de cuadros de ansiedad y depresión.",
+          "Acceso a atención hospitalaria prioritaria.",
+          "Formación avanzada en manejo de medicamentos."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Tarjeta + Cuidados busca prevenir cuadros de ansiedad y depresión mediante programas de respiro familiar y apoyo psicológico para personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Qué institución pública en Andalucía coordina y gestiona la entrega de la Tarjeta + Cuidados?",
+        "opciones": [
+          "Servicio Andaluz de Salud (SAS).",
+          "Agencia de Servicios Sociales y Dependencia de Andalucía.",
+          "Consejería de Salud y Familias.",
+          "Instituto Andaluz de Bienestar Social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "La Agencia de Servicios Sociales y Dependencia de Andalucía es la encargada de coordinar y gestionar la entrega de la Tarjeta + Cuidados."
+      },
+      {
+        "enunciado": "¿Qué colectivo es considerado prioritario en la concesión de la Tarjeta + Cuidados, además de personas con gran dependencia?",
+        "opciones": [
+          "Personas cuidadoras menores de 50 años.",
+          "Cuidadores de personas con Alzheimer u otras demencias.",
+          "Familias monoparentales con personas dependientes.",
+          "Personas cuidadoras que residen en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "tarjeta_cuidados"],
+        "feedback": "Los cuidadores de personas con Alzheimer u otras demencias son considerados prioritarios en la concesión de la Tarjeta + Cuidados debido a la alta carga de cuidados que requieren."
+      },
+      {
+        "enunciado": "¿Cuál es la consecuencia más frecuente en la vida personal de las personas cuidadoras según los datos en Andalucía?",
+        "opciones": [
+          "Deterioro de la salud física.",
+          "Reducción del tiempo de ocio.",
+          "Pérdida del empleo.",
+          "Aislamiento social."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "La reducción del tiempo de ocio es la consecuencia más mencionada por las personas cuidadoras en Andalucía, con un 63,4% afirmando que ha tenido que reducir su tiempo libre&#8203;:contentReference[oaicite:0]{index=0}."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras en Andalucía declara no poder irse de vacaciones debido a su rol de cuidado?",
+        "opciones": [
+          "25%.",
+          "37%.",
+          "47,9%.",
+          "52%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "Casi la mitad de las personas cuidadoras (47,9%) en Andalucía declara que no puede irse de vacaciones debido a las responsabilidades de cuidado&#8203;:contentReference[oaicite:1]{index=1}."
+      },
+      {
+        "enunciado": "¿Qué problema de salud declara un 37,9% de las personas cuidadoras como consecuencia de su rol de cuidado?",
+        "opciones": [
+          "Deterioro de la salud mental.",
+          "Cansancio generalizado.",
+          "Problemas musculoesqueléticos.",
+          "Trastornos del sueño."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "El 37,9% de las personas cuidadoras declara sentirse cansada como consecuencia directa de sus responsabilidades de cuidado&#8203;:contentReference[oaicite:2]{index=2}."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones impacta más negativamente en la vida profesional de las personas cuidadoras en Andalucía?",
+        "opciones": [
+          "Tener que reducir las horas de trabajo.",
+          "Dejar el empleo por completo.",
+          "Faltar al trabajo por emergencias constantes.",
+          "Dificultades para acceder a permisos laborales."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "El impacto más significativo es la necesidad de reducir las horas de trabajo, lo que limita las oportunidades profesionales y económicas de las personas cuidadoras&#8203;:contentReference[oaicite:3]{index=3}."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras declara que su vida profesional no se ha visto afectada por su rol en Andalucía?",
+        "opciones": [
+          "21%.",
+          "28%.",
+          "37,8%.",
+          "41,2%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "Un 37,8% de personas cuidadoras en Andalucía manifiesta que su vida profesional no se ha visto afectada por las responsabilidades de cuidado&#8203;:contentReference[oaicite:4]{index=4}."
+      },
+      {
+        "enunciado": "¿Qué aspecto de la salud mental es más frecuente en las personas cuidadoras como consecuencia de su rol, según los estudios?",
+        "opciones": [
+          "Estrés prolongado.",
+          "Ansiedad y depresión.",
+          "Aislamiento emocional.",
+          "Pérdida de autoestima."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "La ansiedad y la depresión son problemas de salud mental frecuentes en personas cuidadoras debido a la carga emocional y el estrés prolongado&#8203;:contentReference[oaicite:5]{index=5}."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras manifiesta que ha reducido el contacto con sus amistades debido a sus responsabilidades?",
+        "opciones": [
+          "29%.",
+          "35%.",
+          "41%.",
+          "50%."
+        ],
+        "correcta": 2,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "El 41% de las personas cuidadoras declara que ha tenido que reducir el tiempo dedicado a sus amistades debido a las responsabilidades de cuidado&#8203;:contentReference[oaicite:6]{index=6}."
+      },
+      {
+        "enunciado": "¿Qué porcentaje de personas cuidadoras en Andalucía afirma no haber sentido las consecuencias del cuidado en su tiempo de ocio?",
+        "opciones": [
+          "18%.",
+          "21%.",
+          "25%.",
+          "30%."
+        ],
+        "correcta": 1,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "Solo un 21% de las personas cuidadoras en Andalucía manifiesta no haber sentido las consecuencias del cuidado en su tiempo de ocio, lo que refleja la alta carga de trabajo&#8203;:contentReference[oaicite:7]{index=7}."
+      },
+      {
+        "enunciado": "¿Qué impacto perciben más las mujeres cuidadoras en comparación con los hombres en relación con el cuidado?",
+        "opciones": [
+          "Mayor pérdida de salud mental.",
+          "Mayor reducción del tiempo laboral.",
+          "Deterioro de su salud física.",
+          "Mayor agotamiento por la intensidad del cuidado."
+        ],
+        "correcta": 3,
+        "categorías": ["tema58", "autonomia_fragilidad", "problemas_cuidadores"],
+        "feedback": "Las mujeres cuidadoras perciben un mayor agotamiento debido a la intensidad y el tipo de tareas que realizan, como el aseo y cuidado personal, que son más exigentes&#8203;:contentReference[oaicite:8]{index=8}."
+      }                        
 ]

@@ -1,0 +1,3746 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes tipos de dolor se origina por la estimulación de receptores periféricos en la piel y tejidos musculoesqueléticos?",
+        "opciones": [
+            "Dolor neuropático",
+            "Dolor somático",
+            "Dolor visceral",
+            "Dolor simpáticamente mantenido"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor somático se origina en los receptores periféricos localizados en la piel, músculos y tejidos esqueléticos, y suele describirse como bien localizado."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor el dolor neuropático?",
+        "opciones": [
+            "Se produce por daño en el tejido muscular.",
+            "Es causado por la activación de los receptores NMDA.",
+            "Es un dolor localizado en órganos internos.",
+            "Proviene de la compresión de estructuras óseas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor neuropático está asociado al daño en el sistema nervioso central o periférico, donde los receptores NMDA están claramente involucrados."
+    },
+    {
+        "enunciado": "¿Qué escala utiliza una línea recta donde el paciente marca el nivel de dolor que siente?",
+        "opciones": [
+            "Escala de caras",
+            "Escala verbal descriptiva",
+            "Escala visual analógica (EVA)",
+            "Escala numérica"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala EVA consiste en una línea recta donde los extremos representan 'sin dolor' y 'dolor máximo', y el paciente debe marcar un punto intermedio."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes características NO corresponde al dolor visceral?",
+        "opciones": [
+            "Es mal localizado.",
+            "Se irradia hacia áreas cutáneas.",
+            "Es constante y profundo.",
+            "Se origina en el tejido nervioso periférico."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor visceral no se origina en el tejido nervioso periférico; proviene de los órganos internos y puede irradiarse a zonas cutáneas."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor se describe como punzante o con sensación de quemazón, típico de polineuropatías?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor visceral",
+            "Dolor neuropático",
+            "Dolor simpáticamente mantenido"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "Las polineuropatías suelen caracterizarse por disestesias continuas con sensación de quemazón, propias del dolor neuropático."
+    },
+    {
+        "enunciado": "En la escala verbal descriptiva, ¿cómo se define un dolor que limita gravemente las actividades diarias?",
+        "opciones": [
+            "Dolor leve",
+            "Dolor moderado",
+            "Dolor intenso",
+            "Dolor insoportable"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "El dolor intenso en la escala verbal descriptiva limita gravemente las actividades diarias y requiere una intervención urgente."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes fármacos es un antagonista de los receptores NMDA, útil en el tratamiento del dolor neuropático?",
+        "opciones": [
+            "Tramadol",
+            "Ketamina",
+            "Amitriptilina",
+            "Gabapentina"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "La ketamina actúa bloqueando los receptores NMDA, lo cual es útil para reducir la hiperalgesia y el dolor neuropático."
+    },
+    {
+        "enunciado": "¿Qué característica define al dolor crónico no oncológico según el Plan Andaluz de Atención al Dolor?",
+        "opciones": [
+            "Dolor con duración mayor de 3 meses.",
+            "Dolor relacionado con intervenciones quirúrgicas.",
+            "Dolor exclusivo de enfermedades terminales.",
+            "Dolor asociado únicamente a problemas musculares."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor crónico no oncológico se caracteriza por una duración superior a 3 meses y un impacto en la funcionalidad del paciente."
+    },
+    {
+        "enunciado": "¿Qué escala de medida es más adecuada para evaluar el dolor en pacientes pediátricos pequeños?",
+        "opciones": [
+            "Escala visual analógica",
+            "Escala de caras",
+            "Escala numérica",
+            "Escala verbal descriptiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala de caras es la más adecuada para niños pequeños, ya que permite asociar su nivel de dolor con expresiones faciales."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes opciones corresponde a un dolor de tipo simpáticamente mantenido?",
+        "opciones": [
+            "Distrofia simpático-refleja",
+            "Dolor somático profundo",
+            "Polineuropatía tóxica",
+            "Dolor muscular postquirúrgico"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "La distrofia simpático-refleja es un ejemplo de dolor simpáticamente mantenido, caracterizado por su relación con el sistema nervioso simpático."
+    },
+    {
+        "enunciado": "¿Qué característica diferencia al dolor agudo del dolor crónico?",
+        "opciones": [
+            "El dolor agudo es más frecuente en enfermedades terminales.",
+            "El dolor crónico tiene una duración superior a 3-6 meses.",
+            "El dolor agudo siempre requiere opioides para controlarse.",
+            "El dolor crónico se origina en el tejido muscular."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor crónico se caracteriza por su duración prolongada, generalmente mayor a 3-6 meses, y su impacto funcional a largo plazo."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está asociado con infiltración o compresión de órganos internos?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor neuropático",
+            "Dolor visceral",
+            "Dolor simpáticamente mantenido"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor visceral se origina por infiltración, compresión o distensión de órganos internos, y es mal localizado y profundo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes opciones representa un dolor continuo, no localizado, asociado a oclusión intestinal?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor neuropático",
+            "Dolor visceral",
+            "Dolor inflamatorio"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "La oclusión intestinal produce un dolor visceral, que es profundo, constante y suele irradiarse a áreas cutáneas."
+    },
+    {
+        "enunciado": "¿Qué técnica se utiliza para medir la intensidad del dolor mediante la observación de conductas en neonatos?",
+        "opciones": [
+            "Escala numérica",
+            "Escala visual analógica",
+            "Método observacional",
+            "Cuestionario de McGill"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "En neonatos, se utilizan métodos observacionales que evalúan signos como el llanto, movimientos o expresiones faciales."
+    },
+    {
+        "enunciado": "¿Qué característica define al dolor somático profundo?",
+        "opciones": [
+            "Es bien localizado y constante.",
+            "Se irradia hacia áreas cutáneas.",
+            "Proviene de daño en nervios periféricos.",
+            "Es resistente a los AINEs."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor somático profundo es bien localizado, constante y generalmente relacionado con daño en estructuras musculoesqueléticas."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente la función de los analgésicos antiinflamatorios no esteroideos (AINES)?",
+        "opciones": [
+            "Actúan inhibiendo los receptores opioides.",
+            "Bloquean la acción de la ciclooxigenasa para reducir prostaglandinas.",
+            "Aumentan la transmisión del impulso nervioso.",
+            "Activan los receptores NMDA en el sistema nervioso central."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "Los AINES inhiben la enzima ciclooxigenasa (COX), lo que reduce la síntesis de prostaglandinas, mediadores inflamatorios que sensibilizan las terminaciones nerviosas al dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes escalas es utilizada específicamente para medir el dolor neuropático?",
+        "opciones": [
+            "Cuestionario de McGill",
+            "Escala visual analógica (EVA)",
+            "DN4",
+            "Escala verbal descriptiva"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala DN4 es un cuestionario específico para evaluar y diagnosticar el dolor neuropático, mediante síntomas y signos clínicos."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está relacionado con procesos inflamatorios, como la artritis reumatoide?",
+        "opciones": [
+            "Dolor neuropático",
+            "Dolor visceral",
+            "Dolor inflamatorio nociceptivo",
+            "Dolor simpático mantenido"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor inflamatorio nociceptivo está asociado con procesos inflamatorios, como ocurre en patologías como la artritis reumatoide."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes opciones corresponde a una escala multidimensional para la evaluación del dolor?",
+        "opciones": [
+            "Escala numérica (0-10)",
+            "Cuestionario de McGill",
+            "Escala de caras",
+            "Escala visual analógica (EVA)"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "El cuestionario de McGill es una herramienta multidimensional que evalúa el dolor en términos de intensidad, calidad sensorial y afectiva."
+    },
+    {
+        "enunciado": "¿Qué efecto tiene la inhibición de los receptores NMDA en el control del dolor crónico?",
+        "opciones": [
+            "Aumenta la percepción del dolor.",
+            "Reduce la sensibilización central.",
+            "Estimula la producción de endorfinas.",
+            "Potencia el efecto de los AINES."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mecanismos del dolor"
+        ],
+        "feedback": "La inhibición de los receptores NMDA reduce la sensibilización central, un proceso clave en la perpetuación del dolor crónico y neuropático."
+    },
+    {
+        "enunciado": "¿Cuál es la principal ventaja del paracetamol en comparación con otros AINES?",
+        "opciones": [
+            "Tiene un efecto antiinflamatorio potente.",
+            "No afecta la función plaquetaria.",
+            "Actúa sobre los receptores opioides.",
+            "Es útil en el manejo del dolor neuropático."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "El paracetamol, a diferencia de otros AINES, no afecta la función plaquetaria, lo que lo hace adecuado en pacientes con riesgo de sangrado."
+    },
+    {
+        "enunciado": "¿Qué característica diferencia el dolor somático del dolor visceral?",
+        "opciones": [
+            "El dolor somático es bien localizado y constante.",
+            "El dolor visceral es punzante y localizado.",
+            "El dolor somático se irradia a zonas cutáneas.",
+            "El dolor visceral responde bien a los opioides."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor somático es bien localizado y constante, mientras que el dolor visceral es mal localizado y más difuso."
+    },
+    {
+        "enunciado": "¿Cuál es la escala de referencia recomendada por la OMS para la medición de dolor en adultos?",
+        "opciones": [
+            "Escala visual analógica (EVA)",
+            "Escala numérica (0-10)",
+            "Escala de caras",
+            "Cuestionario DN4"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala numérica (0-10) es una de las más utilizadas y recomendadas por la OMS para evaluar la intensidad del dolor en adultos."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor puede ser causado por un daño en el sistema nervioso periférico debido a cirugía o infiltración tumoral?",
+        "opciones": [
+            "Dolor neuropático",
+            "Dolor inflamatorio",
+            "Dolor visceral",
+            "Dolor somático"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor neuropático se origina por daño en el sistema nervioso central o periférico, como ocurre en casos de daño quirúrgico o infiltración tumoral."
+    },
+    {
+        "enunciado": "En el tratamiento del dolor crónico, ¿cuál de los siguientes fármacos es un coadyuvante indicado para el dolor neuropático?",
+        "opciones": [
+            "Gabapentina",
+            "Diclofenaco",
+            "Tramadol",
+            "Paracetamol"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "La gabapentina es un fármaco coadyuvante eficaz en el tratamiento del dolor neuropático, ayudando a reducir los síntomas lancinantes."
+    },
+    {
+        "enunciado": "¿Qué describe mejor la alodinia en el contexto del dolor crónico?",
+        "opciones": [
+            "Sensación de dolor ante estímulos no dolorosos.",
+            "Aumento de la percepción del dolor ante estímulos leves.",
+            "Dolor localizado en órganos internos.",
+            "Dolor constante e intenso relacionado con fracturas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "La alodinia es una característica del dolor crónico donde estímulos que normalmente no causan dolor resultan dolorosos."
+    },
+    {
+        "enunciado": "¿Cuál es el principal uso terapéutico de los corticosteroides en el manejo del dolor?",
+        "opciones": [
+            "Control del dolor neuropático.",
+            "Reducción del edema y compresión nerviosa.",
+            "Inhibición de los receptores NMDA.",
+            "Activación de los receptores opioides."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "Los corticosteroides son utilizados para reducir el edema y la compresión de estructuras nerviosas, aliviando así el dolor asociado."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está asociado a la inflamación de los tejidos somáticos, como en esguinces o fracturas?",
+        "opciones": [
+            "Dolor neuropático",
+            "Dolor visceral",
+            "Dolor inflamatorio nociceptivo",
+            "Dolor simpáticamente mantenido"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor inflamatorio nociceptivo ocurre por la inflamación de tejidos somáticos debido a lesiones como fracturas o esguinces."
+    },
+    {
+        "enunciado": "¿Cuál es una característica distintiva del dolor crónico en comparación con el dolor agudo?",
+        "opciones": [
+            "Es de corta duración y autolimitado.",
+            "Puede persistir más allá del proceso de curación.",
+            "Se origina únicamente en daños tisulares recientes.",
+            "Es siempre de intensidad leve a moderada."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor crónico puede persistir más allá del proceso de curación y no siempre está relacionado con un daño tisular evidente."
+    },
+    {
+        "enunciado": "¿Qué término describe un aumento anormal de la sensibilidad al dolor, característico del dolor crónico?",
+        "opciones": [
+            "Alodinia",
+            "Hiperalgesia",
+            "Disestesia",
+            "Parestesia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "La hiperalgesia es un aumento anormal de la sensibilidad al dolor, lo que provoca respuestas exageradas a estímulos dolorosos leves."
+    },
+    {
+        "enunciado": "En la escala analgésica de la OMS, ¿qué fármaco se recomienda en el primer escalón para el dolor leve?",
+        "opciones": [
+            "Morfina",
+            "Paracetamol",
+            "Tramadol",
+            "Fentanilo"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "En el primer escalón de la escala analgésica de la OMS para el dolor leve, se recomiendan analgésicos no opioides como el paracetamol."
+    },
+    {
+        "enunciado": "¿Qué característica define al dolor neuropático en comparación con otros tipos de dolor?",
+        "opciones": [
+            "Está bien localizado y constante.",
+            "Es causado por daño o disfunción nerviosa.",
+            "Se relaciona con distensión de órganos internos.",
+            "Responde principalmente a antiinflamatorios no esteroideos (AINES)."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor neuropático se origina por daño o disfunción en el sistema nervioso central o periférico, y tiene características como sensaciones de quemazón o punzantes."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica es recomendada por la OMS para el control del dolor en combinación con tratamientos analgésicos?",
+        "opciones": [
+            "Electroterapia",
+            "Terapia cognitivo-conductual",
+            "Crioterapia",
+            "Hidroterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia cognitivo-conductual es una técnica no farmacológica eficaz que ayuda a los pacientes a manejar mejor el dolor crónico."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes describe mejor el dolor perioperatorio?",
+        "opciones": [
+            "Es un dolor neuropático severo.",
+            "Es causado exclusivamente por el daño nervioso postquirúrgico.",
+            "Ocurre antes, durante o después de una intervención quirúrgica.",
+            "Está asociado únicamente a procedimientos menores."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor perioperatorio engloba el dolor que aparece antes, durante o después de un procedimiento quirúrgico, debido a la intervención y la patología asociada."
+    },
+    {
+        "enunciado": "¿Cuál es una causa común del dolor simpáticamente mantenido?",
+        "opciones": [
+            "Distrofia simpático-refleja",
+            "Lesión visceral",
+            "Daño tisular somático",
+            "Contracturas musculares"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "La distrofia simpático-refleja es una condición relacionada con el sistema nervioso simpático y es una causa común del dolor simpáticamente mantenido."
+    },
+    {
+        "enunciado": "En la evaluación del dolor en neonatos, ¿qué indicador es más utilizado?",
+        "opciones": [
+            "Puntuación verbal de dolor",
+            "Método de observación de conductas",
+            "Escala numérica de 0-10",
+            "Cuestionario de McGill"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "En neonatos, se utilizan métodos de observación de conductas, como el llanto, expresiones faciales y movimientos, para evaluar el dolor."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está relacionado con la activación de los receptores NMDA?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor visceral",
+            "Dolor neuropático",
+            "Dolor inflamatorio"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mecanismos del dolor"
+        ],
+        "feedback": "En el dolor neuropático, la activación de los receptores NMDA del sistema nervioso central está implicada en la sensibilización central y la percepción aumentada del dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe una ventaja de los opioides agonistas puros en el manejo del dolor?",
+        "opciones": [
+            "Tienen un efecto techo en la analgesia.",
+            "No bloquean los receptores opioides.",
+            "Carecen de efectos secundarios.",
+            "No tienen tope en su eficacia analgésica."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "Los opioides agonistas puros, como la morfina, no tienen tope en su eficacia analgésica, permitiendo un ajuste progresivo de la dosis."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor se caracteriza por ser difuso, mal localizado y relacionado con la distensión de estructuras internas?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor visceral",
+            "Dolor neuropático",
+            "Dolor inflamatorio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor visceral proviene de la distensión, compresión o infiltración de órganos internos, y se caracteriza por ser mal localizado y difuso."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera respecto al dolor crónico no oncológico?",
+        "opciones": [
+            "Siempre tiene una causa identificable.",
+            "Su duración suele ser mayor a 3 meses.",
+            "Está limitado al sistema musculoesquelético.",
+            "No afecta la calidad de vida del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor crónico no oncológico se define como aquel con una duración mayor a 3 meses y que impacta en la funcionalidad y calidad de vida."
+    },
+    {
+        "enunciado": "¿Qué escala de dolor se basa en términos descriptivos como 'leve', 'moderado' e 'intenso'?",
+        "opciones": [
+            "Escala visual analógica (EVA)",
+            "Escala de caras",
+            "Escala verbal descriptiva",
+            "Escala DN4"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala verbal descriptiva utiliza términos como 'leve', 'moderado' e 'intenso' para evaluar la intensidad del dolor."
+    },
+    {
+        "enunciado": "¿Qué término describe el dolor experimentado ante estímulos táctiles normalmente no dolorosos?",
+        "opciones": [
+            "Hiperalgesia",
+            "Alodinia",
+            "Disestesia",
+            "Parestesia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mecanismos del dolor"
+        ],
+        "feedback": "La alodinia es una condición en la que estímulos táctiles o leves, que no suelen causar dolor, resultan percibidos como dolorosos."
+    },
+    {
+        "enunciado": "En la escala analgésica de la OMS, ¿qué fármaco se introduce en el segundo escalón para el manejo del dolor moderado?",
+        "opciones": [
+            "Paracetamol",
+            "Ibuprofeno",
+            "Tramadol",
+            "Morfina"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "En el segundo escalón de la escala analgésica de la OMS, se introducen opioides débiles como el tramadol, combinados con analgésicos no opioides."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor es resistente a los tratamientos convencionales con opioides?",
+        "opciones": [
+            "Dolor inflamatorio",
+            "Dolor neuropático",
+            "Dolor somático",
+            "Dolor visceral"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor neuropático es parcialmente resistente a los opioides, por lo que a menudo requiere el uso de coadyuvantes como antidepresivos o anticonvulsivantes."
+    },
+    {
+        "enunciado": "¿Cuál es el mecanismo de acción principal de los opioides en el control del dolor?",
+        "opciones": [
+            "Inhiben la síntesis de prostaglandinas.",
+            "Bloquean los receptores NMDA.",
+            "Se unen a receptores opioides en el sistema nervioso.",
+            "Reducen la inflamación de los tejidos dañados."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mecanismos del dolor"
+        ],
+        "feedback": "Los opioides actúan uniéndose a receptores opioides en el sistema nervioso central y periférico, bloqueando la transmisión de señales de dolor."
+    },
+    {
+        "enunciado": "¿Qué opción describe mejor el uso de la escala DN4 en la práctica clínica?",
+        "opciones": [
+            "Evaluar el dolor somático profundo.",
+            "Medir la intensidad del dolor agudo.",
+            "Identificar y diagnosticar dolor neuropático.",
+            "Evaluar el dolor en población pediátrica."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "La escala DN4 es una herramienta utilizada específicamente para identificar y diagnosticar el dolor neuropático mediante síntomas y signos clínicos."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está relacionado con una respuesta exagerada del sistema nervioso simpático?",
+        "opciones": [
+            "Dolor neuropático",
+            "Dolor visceral",
+            "Dolor inflamatorio",
+            "Dolor simpáticamente mantenido"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor simpáticamente mantenido, como en la distrofia simpático-refleja, está asociado a una respuesta exagerada del sistema nervioso simpático."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas no farmacológicas es más efectiva en el manejo del dolor crónico?",
+        "opciones": [
+            "Aplicación de calor local",
+            "Ejercicio físico supervisado",
+            "Masoterapia ocasional",
+            "Reposo prolongado"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El ejercicio físico supervisado es una medida no farmacológica eficaz para mejorar la funcionalidad y reducir la percepción del dolor crónico."
+    },
+    {
+        "enunciado": "¿Cuál es el efecto más frecuente asociado al uso prolongado de opioides en el manejo del dolor?",
+        "opciones": [
+            "Hipertensión arterial",
+            "Insuficiencia renal",
+            "Estreñimiento",
+            "Hepatotoxicidad"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos"
+        ],
+        "feedback": "El estreñimiento es uno de los efectos secundarios más frecuentes y persistentes del uso prolongado de opioides en el tratamiento del dolor."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor puede describirse como 'punzante y eléctrico', y suele ser paroxístico?",
+        "opciones": [
+            "Dolor inflamatorio",
+            "Dolor visceral",
+            "Dolor neuropático",
+            "Dolor somático"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "características del dolor"
+        ],
+        "feedback": "El dolor neuropático suele describirse como 'punzante y eléctrico', y puede aparecer de forma paroxística, debido a la disfunción nerviosa."
+    },
+    {
+        "enunciado": "¿Qué factor contribuye a la sensibilización central en el dolor crónico?",
+        "opciones": [
+            "Daño tisular localizado",
+            "Activación persistente de los receptores NMDA",
+            "Aumento del flujo sanguíneo",
+            "Liberación de endorfinas"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mecanismos del dolor"
+        ],
+        "feedback": "La activación persistente de los receptores NMDA contribuye a la sensibilización central, un proceso clave en el desarrollo del dolor crónico."
+    },
+    {
+        "enunciado": "¿Qué escala es más adecuada para evaluar el dolor en personas con dificultades cognitivas?",
+        "opciones": [
+            "Escala numérica (0-10)",
+            "Escala de caras",
+            "Escala visual analógica (EVA)",
+            "Método observacional"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escalas de medida"
+        ],
+        "feedback": "En personas con dificultades cognitivas, los métodos observacionales permiten evaluar el dolor a través de signos y comportamientos visibles."
+    },
+    {
+        "enunciado": "¿Qué tipo de dolor está relacionado con la distensión o compresión de estructuras internas como el hígado o el intestino?",
+        "opciones": [
+            "Dolor somático",
+            "Dolor visceral",
+            "Dolor neuropático",
+            "Dolor inflamatorio"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tipos de dolor"
+        ],
+        "feedback": "El dolor visceral está relacionado con la distensión, compresión o infiltración de estructuras internas como el hígado o el intestino."
+    },
+    {
+        "enunciado": "¿Cuántos escalones tiene la escalera analgésica de la OMS para el tratamiento del dolor?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "La escalera analgésica de la OMS consta de 3 escalones, diseñados para guiar el tratamiento del dolor de acuerdo con su intensidad."
+    },
+    {
+        "enunciado": "¿Qué tipo de fármacos se utilizan en el primer escalón de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Opioides mayores",
+            "Corticosteroides",
+            "Analgésicos no opioides",
+            "Benzodiacepinas"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En el primer escalón se utilizan analgésicos no opioides, como el paracetamol y los AINES, para el dolor leve."
+    },
+    {
+        "enunciado": "¿Qué medicamento representa un ejemplo de opioide débil recomendado en el segundo escalón de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Tramadol",
+            "Fentanilo",
+            "Morfina",
+            "Diclofenaco"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En el segundo escalón se recomiendan opioides débiles como el tramadol, a menudo combinados con analgésicos no opioides."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes fármacos pertenece al tercer escalón de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Paracetamol",
+            "Tramadol",
+            "Morfina",
+            "Ibuprofeno"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En el tercer escalón se utilizan opioides mayores, como la morfina, para tratar el dolor moderado a severo."
+    },
+    {
+        "enunciado": "¿En qué situaciones se recomienda utilizar fármacos del tercer escalón de la escala analgésica de la OMS?",
+        "opciones": [
+            "Dolor leve",
+            "Dolor moderado",
+            "Dolor severo o intratable",
+            "Dolor inflamatorio leve"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "Los fármacos del tercer escalón, como los opioides mayores, se recomiendan para tratar el dolor severo o intratable."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes opciones es correcta respecto al uso de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Se aplica solo en dolor oncológico.",
+            "Se puede combinar con fármacos coadyuvantes.",
+            "Los opioides son exclusivos del primer escalón.",
+            "El segundo escalón excluye el uso de analgésicos no opioides."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "La escalera analgésica de la OMS permite la combinación de analgésicos con fármacos coadyuvantes, como antidepresivos o anticonvulsivantes."
+    },
+    {
+        "enunciado": "¿Qué fármacos se combinan frecuentemente en el segundo escalón de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Analgésicos no opioides y opioides débiles",
+            "Opioides mayores y corticosteroides",
+            "AINES y benzodiacepinas",
+            "Analgésicos no opioides y antipsicóticos"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En el segundo escalón, se combinan analgésicos no opioides con opioides débiles para tratar el dolor moderado."
+    },
+    {
+        "enunciado": "¿Cuál es la principal ventaja de seguir la escalera analgésica de la OMS en el tratamiento del dolor?",
+        "opciones": [
+            "Evita el uso de opioides en cualquier fase.",
+            "Asegura un tratamiento progresivo y escalonado según la intensidad del dolor.",
+            "Limita el uso de analgésicos no opioides.",
+            "Permite prescribir opioides desde el inicio del tratamiento."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "La escalera analgésica de la OMS proporciona un enfoque progresivo, comenzando con fármacos adecuados a la intensidad del dolor y avanzando según sea necesario."
+    },
+    {
+        "enunciado": "¿Qué se debe considerar al combinar opioides mayores con otros fármacos en el tercer escalón de la OMS?",
+        "opciones": [
+            "Evitar la combinación con analgésicos no opioides.",
+            "Ajustar las dosis para minimizar los efectos secundarios.",
+            "Suspender el uso de coadyuvantes.",
+            "Utilizar solo en dolor leve."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En el tercer escalón, al combinar opioides mayores con otros fármacos, es importante ajustar las dosis para evitar efectos secundarios como sedación o estreñimiento."
+    },
+    {
+        "enunciado": "¿Cuál es la recomendación principal para el manejo del dolor refractario en la escalera analgésica de la OMS?",
+        "opciones": [
+            "Uso de opioides débiles a altas dosis.",
+            "Añadir fármacos coadyuvantes o técnicas intervencionistas.",
+            "Incrementar la dosis de AINES únicamente.",
+            "Suspender el tratamiento analgésico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "En casos de dolor refractario, se recomienda añadir fármacos coadyuvantes o considerar técnicas intervencionistas para lograr un mejor control del dolor."
+    },
+    {
+        "enunciado": "¿Qué efecto secundario es más común en el uso prolongado de opioides del tercer escalón?",
+        "opciones": [
+            "Hepatotoxicidad",
+            "Estreñimiento",
+            "Hipotensión severa",
+            "Insuficiencia renal aguda"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "El estreñimiento es el efecto secundario más frecuente en el uso prolongado de opioides, y suele requerir tratamiento específico."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la escalera analgésica de la OMS?",
+        "opciones": [
+            "Eliminar completamente el dolor leve.",
+            "Lograr un control adecuado del dolor progresando en escalones según su intensidad.",
+            "Limitar el uso de analgésicos en enfermedades crónicas.",
+            "Tratar únicamente el dolor de origen oncológico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "escala analgésica OMS"
+        ],
+        "feedback": "El objetivo de la escalera analgésica de la OMS es lograr un control efectivo del dolor, ajustando el tratamiento de manera progresiva según la intensidad del dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas no farmacológicas es recomendada por la OMS para el manejo del dolor crónico?",
+        "opciones": [
+            "Terapia cognitivo-conductual",
+            "Uso prolongado de reposo",
+            "Aumento de la actividad sedentaria",
+            "Aplicación indiscriminada de frío"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia cognitivo-conductual es una estrategia efectiva recomendada por la OMS para ayudar a los pacientes a manejar el dolor crónico y reducir su impacto emocional."
+    },
+    {
+        "enunciado": "¿Qué técnica física no farmacológica ayuda a reducir el dolor mediante el control de la temperatura corporal?",
+        "opciones": [
+            "Terapia con frío y calor",
+            "Electroterapia",
+            "Acupuntura",
+            "Terapia cognitivo-conductual"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia con frío y calor es una técnica física no farmacológica eficaz para aliviar el dolor muscular, inflamatorio y espasmos."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica se utiliza comúnmente para el manejo del dolor a través de estimulación eléctrica?",
+        "opciones": [
+            "Acupuntura",
+            "Ejercicio terapéutico",
+            "Electroestimulación nerviosa transcutánea (TENS)",
+            "Aplicación de calor local"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La electroestimulación nerviosa transcutánea (TENS) es una técnica que utiliza impulsos eléctricos suaves para reducir la percepción del dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas no farmacológicas está basada en la inserción de agujas en puntos específicos del cuerpo?",
+        "opciones": [
+            "Masoterapia",
+            "Acupuntura",
+            "Crioterapia",
+            "Terapia de relajación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La acupuntura es una técnica que consiste en insertar agujas en puntos específicos del cuerpo para aliviar el dolor y mejorar el equilibrio energético."
+    },
+    {
+        "enunciado": "¿Qué tipo de ejercicios físicos son recomendados por la OMS para pacientes con dolor crónico?",
+        "opciones": [
+            "Ejercicios de alta intensidad sin supervisión",
+            "Ejercicio físico aeróbico y de fortalecimiento supervisado",
+            "Ejercicios de impacto repetitivo",
+            "Inmovilización prolongada"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El ejercicio físico aeróbico y de fortalecimiento supervisado ayuda a mejorar la funcionalidad y reducir el dolor en pacientes con dolor crónico."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias psicológicas es eficaz en el control del dolor crónico?",
+        "opciones": [
+            "Distracción prolongada mediante reposo absoluto",
+            "Aislamiento social",
+            "Terapia de meditación y relajación",
+            "Aumento de la actividad sedentaria"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia de meditación y relajación es eficaz para reducir la percepción del dolor y mejorar el bienestar emocional del paciente."
+    },
+    {
+        "enunciado": "¿Qué técnica de manipulación física se utiliza para aliviar el dolor muscular y mejorar la circulación?",
+        "opciones": [
+            "Electroestimulación",
+            "Terapia de relajación",
+            "Masoterapia",
+            "Crioterapia"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La masoterapia, que consiste en masajes terapéuticos, es eficaz para aliviar el dolor muscular y mejorar la circulación sanguínea."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica utiliza ejercicios respiratorios y visualización para reducir la percepción del dolor?",
+        "opciones": [
+            "Electroterapia",
+            "Crioterapia",
+            "Relajación guiada",
+            "Aplicación de calor local"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La relajación guiada utiliza ejercicios respiratorios y técnicas de visualización para reducir la percepción del dolor y el estrés asociado."
+    },
+    {
+        "enunciado": "¿Qué técnica recomendada por la OMS se enfoca en modificar los pensamientos y emociones relacionados con el dolor?",
+        "opciones": [
+            "Terapia cognitivo-conductual",
+            "Masoterapia",
+            "Acupuntura",
+            "Crioterapia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia cognitivo-conductual ayuda a modificar pensamientos y emociones negativas relacionadas con el dolor, mejorando la calidad de vida."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias no farmacológicas implica la exposición progresiva al movimiento para reducir el miedo al dolor?",
+        "opciones": [
+            "Masoterapia",
+            "Ejercicio terapéutico gradual",
+            "Relajación pasiva",
+            "Crioterapia intensa"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El ejercicio terapéutico gradual expone al paciente progresivamente al movimiento, reduciendo el miedo y ayudando a mejorar su funcionalidad."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica utiliza temperaturas frías para reducir la inflamación y aliviar el dolor?",
+        "opciones": [
+            "Crioterapia",
+            "Masoterapia",
+            "Acupuntura",
+            "Relajación guiada"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La crioterapia utiliza frío local para reducir la inflamación y aliviar el dolor agudo, especialmente en lesiones musculares y articulares."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas no farmacológicas está enfocada en la estimulación de puntos energéticos del cuerpo?",
+        "opciones": [
+            "Crioterapia",
+            "Electroestimulación",
+            "Acupuntura",
+            "Terapia cognitivo-conductual"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La acupuntura se enfoca en estimular puntos energéticos específicos del cuerpo, ayudando a reducir el dolor y mejorar el bienestar general."
+    },
+    {
+        "enunciado": "¿Qué efecto tiene el ejercicio físico regular en el manejo del dolor crónico según la OMS?",
+        "opciones": [
+            "Aumenta la inflamación tisular.",
+            "Reduce la percepción del dolor y mejora la funcionalidad.",
+            "Limita la circulación sanguínea.",
+            "Favorece el desarrollo de rigidez muscular."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El ejercicio físico regular ayuda a reducir la percepción del dolor, mejora la movilidad y fortalece la musculatura, facilitando una mejor calidad de vida."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas ayuda a aliviar el dolor al liberar tensiones en los tejidos blandos del cuerpo?",
+        "opciones": [
+            "Electroterapia",
+            "Masoterapia",
+            "Crioterapia",
+            "Relajación pasiva"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La masoterapia ayuda a aliviar el dolor mediante el masaje de los tejidos blandos, liberando tensiones y mejorando la circulación."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas no farmacológicas utiliza estímulos eléctricos para aliviar el dolor crónico?",
+        "opciones": [
+            "Crioterapia",
+            "Electroestimulación nerviosa transcutánea (TENS)",
+            "Masoterapia",
+            "Terapia de relajación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La electroestimulación nerviosa transcutánea (TENS) utiliza estímulos eléctricos de baja intensidad para aliviar el dolor crónico."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica implica la práctica de técnicas como el yoga y el tai chi para controlar el dolor?",
+        "opciones": [
+            "Terapia de relajación",
+            "Ejercicio físico supervisado",
+            "Terapia cognitivo-conductual",
+            "Mindfulness y técnicas de atención plena"
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El mindfulness y las técnicas de atención plena, como el yoga y el tai chi, ayudan a manejar el dolor mediante la conciencia del cuerpo y la mente."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre la hipnoterapia en el manejo del dolor?",
+        "opciones": [
+            "No tiene evidencia científica que respalde su uso.",
+            "Es efectiva solo para el dolor agudo postoperatorio.",
+            "Puede reducir la percepción del dolor al inducir un estado de concentración profunda.",
+            "Es una técnica invasiva que requiere equipamiento especializado."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La hipnoterapia puede ser efectiva en reducir la percepción del dolor al inducir un estado de concentración y relajación profundos."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica consiste en proporcionar al paciente información sobre sus procesos fisiológicos para ayudar a controlar el dolor?",
+        "opciones": [
+            "Biofeedback",
+            "Acupuntura",
+            "Crioterapia",
+            "Terapia cognitivo-conductual"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El biofeedback proporciona información al paciente sobre sus procesos fisiológicos (como la frecuencia cardíaca) para ayudarle a controlar el dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una técnica de medicina tradicional china utilizada en el manejo del dolor crónico?",
+        "opciones": [
+            "Homeopatía",
+            "Acupuntura",
+            "Masoterapia",
+            "Electroterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La acupuntura, una técnica de medicina tradicional china, se utiliza para el manejo del dolor mediante la inserción de agujas en puntos específicos."
+    },
+    {
+        "enunciado": "¿Qué estrategia no farmacológica para el manejo del dolor incluye la educación al paciente sobre su condición y técnicas de autogestión?",
+        "opciones": [
+            "Terapia cognitivo-conductual",
+            "Programa de autocuidado",
+            "Electroestimulación nerviosa transcutánea (TENS)",
+            "Crioterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "Los programas de autocuidado educan al paciente sobre su condición y le proporcionan herramientas para manejar su dolor de manera autónoma."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica se enfoca en modificar las respuestas emocionales y conductuales al dolor?",
+        "opciones": [
+            "Terapia de relajación muscular progresiva",
+            "Masoterapia",
+            "Terapia cognitivo-conductual",
+            "Crioterapia"
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia cognitivo-conductual ayuda a los pacientes a modificar las respuestas emocionales y conductuales al dolor, mejorando su manejo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas no farmacológicas utiliza la imaginación dirigida para aliviar el dolor?",
+        "opciones": [
+            "Hipnoterapia",
+            "Visualización guiada",
+            "Masoterapia",
+            "Electroterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La visualización guiada utiliza la imaginación y la visualización de imágenes positivas para reducir la percepción del dolor."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica para el manejo del dolor implica el uso de música para aliviar síntomas físicos y emocionales?",
+        "opciones": [
+            "Musicoterapia",
+            "Terapia cognitivo-conductual",
+            "Electroestimulación nerviosa transcutánea (TENS)",
+            "Crioterapia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La musicoterapia utiliza la música para abordar necesidades físicas, emocionales y cognitivas, ayudando a aliviar el dolor y el estrés."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes es una técnica de movimiento que combina ejercicios suaves y conciencia corporal para manejar el dolor?",
+        "opciones": [
+            "Método Pilates",
+            "Tai Chi",
+            "Crioterapia",
+            "Masoterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El Tai Chi es una práctica que combina movimientos suaves, respiración y conciencia corporal, útil en el manejo del dolor crónico."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica utiliza campos magnéticos para aliviar el dolor y mejorar la cicatrización?",
+        "opciones": [
+            "Terapia magnética",
+            "Crioterapia",
+            "Masoterapia",
+            "Electroterapia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia magnética utiliza campos magnéticos estáticos o pulsátiles para aliviar el dolor y promover la curación de tejidos."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto a la terapia con láser de baja intensidad en el manejo del dolor?",
+        "opciones": [
+            "No tiene ningún efecto en el alivio del dolor.",
+            "Puede reducir la inflamación y estimular la curación de tejidos.",
+            "Es una técnica invasiva y dolorosa.",
+            "Está contraindicada en pacientes con dolor crónico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia con láser de baja intensidad puede reducir la inflamación, aliviar el dolor y estimular la curación de los tejidos."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica implica la aplicación de presión en puntos específicos del cuerpo sin el uso de agujas?",
+        "opciones": [
+            "Acupuntura",
+            "Acupresión",
+            "Masoterapia",
+            "Electroterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La acupresión es similar a la acupuntura pero utiliza la presión física en lugar de agujas para estimular puntos específicos y aliviar el dolor."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal de la biorretroalimentación (biofeedback) en el manejo del dolor?",
+        "opciones": [
+            "Someter al paciente a estímulos dolorosos controlados.",
+            "Enseñar al paciente a controlar procesos fisiológicos involuntarios.",
+            "Incrementar la percepción del dolor para mejor manejo.",
+            "Utilizar fármacos de liberación prolongada."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La biorretroalimentación enseña al paciente a controlar procesos fisiológicos involuntarios (como la tensión muscular) para reducir el dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas no farmacológicas utiliza el agua como medio terapéutico para el manejo del dolor?",
+        "opciones": [
+            "Hidroterapia",
+            "Crioterapia",
+            "Terapia de compresión",
+            "Electroterapia"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La hidroterapia utiliza el agua a diferentes temperaturas y movimientos para reducir el dolor, mejorar la movilidad y relajar los músculos."
+    },
+    {
+        "enunciado": "¿Qué técnica basada en la respiración y meditación ayuda a reducir el dolor y el estrés asociado?",
+        "opciones": [
+            "Tai Chi",
+            "Mindfulness",
+            "Electroestimulación",
+            "Crioterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El mindfulness, basado en la respiración y la meditación consciente, ayuda a reducir el dolor y el estrés asociado al mismo."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica implica la realización de movimientos controlados y suaves para mejorar el dolor musculoesquelético?",
+        "opciones": [
+            "Hidroterapia",
+            "Pilates",
+            "Acupuntura",
+            "Masoterapia"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El método Pilates utiliza movimientos suaves y controlados que ayudan a fortalecer el cuerpo y aliviar el dolor musculoesquelético."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes técnicas no farmacológicas utiliza el estiramiento y manipulación de tejidos blandos para aliviar el dolor?",
+        "opciones": [
+            "Terapia miofascial",
+            "Electroestimulación",
+            "Crioterapia",
+            "Mindfulness"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia miofascial alivia el dolor a través del estiramiento y la manipulación de tejidos blandos que presentan tensiones o restricciones."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica se centra en el uso de presión constante sobre músculos y tejidos para reducir el dolor?",
+        "opciones": [
+            "Acupuntura",
+            "Compresión terapéutica",
+            "Hidroterapia",
+            "Terapia de relajación"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La compresión terapéutica ayuda a reducir el dolor y mejorar la circulación mediante la aplicación de presión constante sobre músculos y tejidos."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica puede ser útil en el tratamiento del dolor lumbar crónico?",
+        "opciones": [
+            "Reposo absoluto prolongado",
+            "Ejercicio físico adecuado y supervisado",
+            "Uso constante de fajas rígidas",
+            "Aplicación continua de frío intenso"
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El ejercicio físico adecuado y supervisado es eficaz para mejorar la movilidad y reducir el dolor lumbar crónico, evitando el reposo prolongado."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica se enfoca en la liberación de tensión acumulada mediante respiraciones y contracciones controladas?",
+        "opciones": [
+            "Relajación muscular progresiva",
+            "Pilates",
+            "Hidroterapia",
+            "Acupresión"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La relajación muscular progresiva consiste en tensar y relajar grupos musculares para liberar tensiones acumuladas y aliviar el dolor."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la musicoterapia en el manejo del dolor crónico?",
+        "opciones": [
+            "Estimula los receptores de dolor para su desensibilización.",
+            "Reduce la percepción del dolor al influir en el sistema nervioso central.",
+            "Incrementa la producción de prostaglandinas.",
+            "Bloquea la transmisión nerviosa en la médula espinal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La musicoterapia reduce la percepción del dolor al influir en el sistema nervioso central, ayudando a calmar al paciente y disminuir su estrés."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias no farmacológicas utiliza el equilibrio y el control de la postura como herramientas terapéuticas?",
+        "opciones": [
+            "Pilates",
+            "Tai Chi",
+            "Hidroterapia",
+            "Electroestimulación"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El método Pilates trabaja el equilibrio, control postural y la fuerza para aliviar tensiones musculares y reducir el dolor."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica consiste en la exposición controlada y gradual al movimiento para reducir el dolor crónico?",
+        "opciones": [
+            "Terapia de exposición al ejercicio",
+            "Mindfulness",
+            "Terapia miofascial",
+            "Compresión terapéutica"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia de exposición al ejercicio introduce gradualmente el movimiento para reducir el miedo al dolor y mejorar la funcionalidad."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor el efecto del masaje terapéutico en el manejo del dolor?",
+        "opciones": [
+            "Aumenta la percepción del dolor.",
+            "Disminuye la circulación sanguínea.",
+            "Libera tensión muscular y mejora la circulación.",
+            "Estimula el sistema nervioso simpático."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "El masaje terapéutico ayuda a liberar la tensión muscular, mejorar la circulación y reducir la percepción del dolor."
+    },
+    {
+        "enunciado": "¿Qué técnica no farmacológica utiliza el estiramiento suave y prolongado para reducir tensiones musculares relacionadas con el dolor crónico?",
+        "opciones": [
+            "Terapia miofascial",
+            "Tai Chi",
+            "Masoterapia",
+            "Pilates"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La terapia miofascial consiste en estiramientos suaves y prolongados que liberan tensiones y alivian el dolor en los tejidos conectivos."
+    },
+    {
+        "enunciado": "¿Qué medida no farmacológica recomendada por la OMS puede ser implementada para el manejo del dolor oncológico crónico?",
+        "opciones": [
+            "Musicoterapia",
+            "Reposo absoluto prolongado",
+            "Uso excesivo de frío local",
+            "Aislamiento social controlado"
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "medidas no farmacológicas"
+        ],
+        "feedback": "La musicoterapia se ha mostrado efectiva en el manejo del dolor oncológico crónico al reducir la ansiedad y mejorar la calidad de vida."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias es fundamental para equilibrar la carga emocional de la persona cuidadora en el manejo del dolor crónico?",
+        "opciones": [
+            "Realizar intervenciones médicas por su cuenta sin consultar a profesionales.",
+            "Adoptar técnicas de afrontamiento, como el autocuidado y la organización del tiempo.",
+            "Reducir las visitas a los servicios de apoyo y descanso para priorizar el cuidado.",
+            "Concentrarse únicamente en las necesidades del paciente, ignorando las propias."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "Adoptar técnicas de afrontamiento, como el autocuidado y la organización del tiempo, es esencial para prevenir el agotamiento y manejar la carga emocional."
+    },
+    {
+        "enunciado": "¿Qué indicador es más utilizado para detectar el síndrome del cuidador quemado en personas que atienden a pacientes con dolor crónico?",
+        "opciones": [
+            "Presencia de síntomas depresivos, ansiedad y agotamiento físico.",
+            "Aumento de energía y mayor dedicación al paciente.",
+            "Reducción de horas de sueño para atender al paciente.",
+            "Incremento de la capacidad de tomar decisiones complejas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "El síndrome del cuidador quemado se caracteriza por síntomas como depresión, ansiedad y agotamiento físico debido a la sobrecarga prolongada."
+    },
+    {
+        "enunciado": "¿Cuál es una función clave de los programas de apoyo a familiares en el manejo del dolor crónico?",
+        "opciones": [
+            "Formar a los familiares para sustituir completamente al personal médico.",
+            "Proporcionar herramientas para afrontar el estrés y mejorar su rol de apoyo.",
+            "Aislar a los familiares del proceso de toma de decisiones clínicas.",
+            "Fomentar que el cuidador asuma toda la responsabilidad sin ayuda externa."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a familiares"
+        ],
+        "feedback": "Los programas de apoyo familiar tienen como objetivo dotar a los familiares de herramientas para manejar el estrés y fortalecer su rol de apoyo en el proceso del cuidado."
+    },
+    {
+        "enunciado": "¿Qué consecuencia puede tener la falta de apoyo a los cuidadores en entornos de atención a pacientes con dolor crónico?",
+        "opciones": [
+            "Incremento de la adherencia al tratamiento del paciente.",
+            "Mejora de la salud emocional del cuidador.",
+            "Mayor riesgo de abandono del rol y deterioro de la relación cuidador-paciente.",
+            "Reducción de la necesidad de recursos profesionales adicionales."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "La falta de apoyo puede llevar al abandono del rol del cuidador y al deterioro de la relación con el paciente debido a la sobrecarga y el agotamiento."
+    },
+    {
+        "enunciado": "¿Cuál es el papel del apoyo emocional en el manejo del dolor crónico para la familia y los cuidadores?",
+        "opciones": [
+            "Fomentar la negación del dolor para reducir el impacto emocional.",
+            "Ayudar a prevenir la fatiga emocional y mantener el equilibrio psicosocial.",
+            "Minimizar la participación en la atención para evitar la sobrecarga.",
+            "Enseñar a depender únicamente de los recursos farmacológicos del paciente."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo emocional"
+        ],
+        "feedback": "El apoyo emocional es clave para prevenir la fatiga y el agotamiento, permitiendo que las familias y cuidadores mantengan su equilibrio psicosocial."
+    },
+    {
+        "enunciado": "¿Por qué es esencial la formación específica de la persona cuidadora en el manejo del dolor crónico del paciente?",
+        "opciones": [
+            "Para identificar y tratar complicaciones médicas avanzadas sin ayuda profesional.",
+            "Para evitar completamente el uso de apoyo psicológico o emocional.",
+            "Para mejorar su comprensión del tratamiento, detectar signos de deterioro y colaborar con el equipo de salud.",
+            "Para asumir todas las responsabilidades sin necesidad de un equipo multidisciplinar."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "La formación específica permite al cuidador detectar cambios en la condición del paciente, colaborar en su tratamiento y mejorar su eficacia en el cuidado."
+    },
+    {
+        "enunciado": "¿Qué técnica de afrontamiento puede implementarse para evitar el agotamiento del cuidador principal?",
+        "opciones": [
+            "Delegar tareas y pedir apoyo a otros miembros de la familia o profesionales.",
+            "Aumentar las horas dedicadas al cuidado sin interrupciones.",
+            "Mantenerse aislado para centrarse únicamente en el paciente.",
+            "Suspender las pausas de descanso hasta que el paciente mejore."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a cuidadores"
+        ],
+        "feedback": "Delegar tareas y buscar apoyo permite distribuir la carga del cuidado, previniendo el agotamiento físico y emocional del cuidador principal."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes intervenciones puede facilitar la adaptación de la familia al manejo del dolor crónico del paciente?",
+        "opciones": [
+            "Ofrecer información clara y accesible sobre el dolor y sus tratamientos.",
+            "Excluir a los familiares de las decisiones clínicas para evitar tensiones.",
+            "Reducir el contacto del equipo sanitario con los cuidadores.",
+            "Aislar emocionalmente al paciente para proteger a la familia."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a familiares"
+        ],
+        "feedback": "Proporcionar información clara y accesible ayuda a la familia a comprender mejor el proceso del dolor y sus tratamientos, facilitando su adaptación y apoyo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes señales puede indicar que un cuidador necesita apoyo profesional adicional?",
+        "opciones": [
+            "Mantenimiento de hábitos de autocuidado regulares.",
+            "Aumento de la irritabilidad, fatiga constante y aislamiento social.",
+            "Disminución progresiva del estrés percibido.",
+            "Aumento de la comunicación abierta con el equipo médico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "El aumento de irritabilidad, fatiga constante y aislamiento social son señales de que el cuidador está sobrecargado y necesita apoyo profesional adicional."
+    },
+    {
+        "enunciado": "¿Qué herramienta puede utilizarse para evaluar el impacto del rol de cuidador en la calidad de vida?",
+        "opciones": [
+            "Escala EVA de medición del dolor.",
+            "Cuestionario Zarit de sobrecarga del cuidador.",
+            "Escala DN4 para el dolor neuropático.",
+            "Cuestionario McGill de calidad del dolor."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a cuidadores"
+        ],
+        "feedback": "El cuestionario Zarit es una herramienta que evalúa la sobrecarga y el impacto del rol del cuidador en su calidad de vida y bienestar emocional."
+    },
+    {
+        "enunciado": "¿Qué enfoque promueve la OMS para apoyar a los cuidadores en el manejo de pacientes con dolor crónico?",
+        "opciones": [
+            "Dar prioridad a la salud del paciente sobre la del cuidador.",
+            "Adoptar un enfoque integral que incluya apoyo emocional y físico.",
+            "Instruir al cuidador para evitar cualquier tipo de respiro familiar.",
+            "Limitar la educación sobre el manejo del dolor para reducir la carga de trabajo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a la persona cuidadora"
+        ],
+        "feedback": "La OMS promueve un enfoque integral que aborde tanto el bienestar emocional como físico de los cuidadores, asegurando su capacidad para apoyar al paciente."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias resulta más efectiva para reducir el impacto emocional del rol del cuidador en pacientes con dolor crónico?",
+        "opciones": [
+            "Establecer un equilibrio entre el tiempo dedicado al paciente y el autocuidado.",
+            "Evitar implicarse emocionalmente con el proceso de enfermedad del paciente.",
+            "Asumir todas las responsabilidades del cuidado sin apoyo externo.",
+            "Priorizar la administración de medicación sobre el apoyo emocional al paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a cuidadores"
+        ],
+        "feedback": "Establecer un equilibrio entre el tiempo dedicado al cuidado del paciente y el autocuidado personal es clave para reducir el impacto emocional del rol del cuidador."
+    },
+    {
+        "enunciado": "¿Qué intervención es más apropiada para ayudar a un cuidador que presenta signos de sobrecarga y fatiga crónica?",
+        "opciones": [
+            "Proporcionarle apoyo psicológico individual y grupos de ayuda.",
+            "Instruirle para que aumente el tiempo dedicado al descanso del paciente.",
+            "Reforzar su responsabilidad principal como único cuidador a cargo.",
+            "Reducir la comunicación con el equipo médico para simplificar tareas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo emocional"
+        ],
+        "feedback": "El apoyo psicológico individual y los grupos de ayuda permiten al cuidador manejar el estrés y encontrar soluciones para aliviar su sobrecarga."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor un enfoque positivo para apoyar al cuidador en la toma de decisiones sobre el manejo del dolor?",
+        "opciones": [
+            "Capacitar al cuidador con información sobre tratamientos y herramientas de afrontamiento.",
+            "Fomentar que el cuidador tome decisiones únicamente intuitivas.",
+            "Evitar involucrar al cuidador en la planificación del tratamiento.",
+            "Centrarse exclusivamente en los síntomas físicos del paciente, ignorando el impacto emocional."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo a familiares"
+        ],
+        "feedback": "Capacitar al cuidador con información y herramientas de afrontamiento le permite participar activamente en el manejo del dolor del paciente."
+    },
+    {
+        "enunciado": "¿Qué factor puede contribuir más al agotamiento del cuidador en el manejo prolongado de un paciente con dolor crónico?",
+        "opciones": [
+            "Falta de descanso adecuado y apoyo externo insuficiente.",
+            "Participación activa del cuidador en decisiones de tratamiento.",
+            "Acceso a recursos de apoyo y respiro familiar.",
+            "Establecimiento de límites claros entre el cuidado y su vida personal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "sobrecarga del cuidador"
+        ],
+        "feedback": "La falta de descanso y de apoyo externo es uno de los principales factores que contribuyen al agotamiento de cuidadores en el manejo prolongado de un paciente."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes prácticas mejora la calidad de vida tanto del cuidador como del paciente con dolor crónico?",
+        "opciones": [
+            "Implementar rutinas flexibles que incluyan tiempo de descanso y autocuidado.",
+            "Priorizar el cuidado del paciente a expensas del bienestar del cuidador.",
+            "Restringir el acceso del cuidador a grupos de apoyo y asesoramiento profesional.",
+            "Aumentar el aislamiento del cuidador para evitar distracciones externas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "calidad de vida del cuidador"
+        ],
+        "feedback": "Las rutinas flexibles que incluyen tiempo de descanso y autocuidado permiten mejorar la calidad de vida del cuidador y del paciente."
+    },
+    {
+        "enunciado": "¿Por qué es importante que los cuidadores reciban formación específica en el manejo del dolor de los pacientes?",
+        "opciones": [
+            "Les ayuda a identificar signos de deterioro y colaborar con el equipo sanitario.",
+            "Permite sustituir por completo la atención médica profesional.",
+            "Garantiza que el cuidador tome decisiones médicas independientes.",
+            "Reduce la necesidad de comunicarse con otros familiares y profesionales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación de cuidadores"
+        ],
+        "feedback": "La formación permite a los cuidadores detectar signos importantes en el manejo del dolor y colaborar de manera efectiva con el equipo médico."
+    },
+    {
+        "enunciado": "¿Qué práctica se debe evitar para proteger la salud física y emocional del cuidador de un paciente con dolor crónico?",
+        "opciones": [
+            "Delegar algunas responsabilidades en otros miembros de la familia.",
+            "Descuidar el autocuidado para dedicar más tiempo al paciente.",
+            "Buscar apoyo externo como programas de respiro familiar.",
+            "Establecer límites en la cantidad de tiempo de cuidado diario."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "salud del cuidador"
+        ],
+        "feedback": "Descuidar el autocuidado para dedicar más tiempo al paciente puede llevar al agotamiento físico y emocional del cuidador."
+    },
+    {
+        "enunciado": "¿Qué estrategia es más efectiva para reducir el sentimiento de aislamiento social en cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Participar en grupos de apoyo con personas en situaciones similares.",
+            "Dedicar todo su tiempo al cuidado sin interactuar con otras personas.",
+            "Evitar hablar de sus emociones para centrarse únicamente en el paciente.",
+            "Limitar la comunicación con el equipo de salud para simplificar responsabilidades."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo emocional"
+        ],
+        "feedback": "Participar en grupos de apoyo permite a los cuidadores compartir experiencias, reducir el aislamiento social y encontrar recursos emocionales."
+    },
+    {
+        "enunciado": "¿Qué puede facilitar la comunicación entre el cuidador y el equipo sanitario en el manejo del dolor del paciente?",
+        "opciones": [
+            "Mantener registros detallados de los síntomas y necesidades del paciente.",
+            "Evitar las visitas médicas regulares para reducir el tiempo de atención.",
+            "Centrarse únicamente en la administración de la medicación del paciente.",
+            "Limitar las preguntas relacionadas con el manejo del dolor a lo estrictamente básico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "comunicación con el equipo médico"
+        ],
+        "feedback": "Mantener registros detallados facilita la comunicación con el equipo médico, ayudando a un manejo más efectivo del dolor y necesidades del paciente."
+    },
+    {
+        "enunciado": "¿Qué efecto tiene la falta de tiempo de descanso en la salud del cuidador principal?",
+        "opciones": [
+            "Mejora su capacidad para atender al paciente.",
+            "Aumenta el riesgo de agotamiento físico y emocional.",
+            "Disminuye la dependencia del paciente hacia el cuidador.",
+            "Facilita un mejor manejo del tratamiento del dolor."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "sobrecarga del cuidador"
+        ],
+        "feedback": "La falta de tiempo de descanso contribuye al agotamiento físico y emocional, lo que puede afectar negativamente la calidad del cuidado brindado."
+    },
+    {
+        "enunciado": "¿Por qué es importante que el cuidador establezca límites claros en su rol de atención?",
+        "opciones": [
+            "Para reducir la participación de otros miembros de la familia.",
+            "Para mantener un equilibrio entre el cuidado del paciente y su propia salud.",
+            "Para evitar involucrarse en la toma de decisiones del tratamiento.",
+            "Para dedicar la mayor cantidad de tiempo posible al paciente sin descanso."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "autocuidado del cuidador"
+        ],
+        "feedback": "Establecer límites claros permite al cuidador equilibrar sus responsabilidades y proteger su salud física y emocional."
+    },
+    {
+        "enunciado": "¿Qué característica es esencial en los programas de respiro dirigidos a cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Proporcionar atención temporal al paciente para que el cuidador descanse.",
+            "Sustituir completamente al cuidador en todas sus funciones a largo plazo.",
+            "Limitar el descanso del cuidador a periodos muy breves e irregulares.",
+            "Reforzar la dependencia emocional del paciente hacia el cuidador."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "programas de respiro"
+        ],
+        "feedback": "Los programas de respiro brindan atención temporal al paciente, permitiendo al cuidador descansar y recuperar su bienestar físico y emocional."
+    },
+    {
+        "enunciado": "¿Qué enfoque debería priorizarse en la formación de cuidadores para el manejo del dolor crónico?",
+        "opciones": [
+            "Capacitación en técnicas básicas de manejo del dolor y autocuidado.",
+            "Instrucción para asumir todas las responsabilidades del tratamiento médico.",
+            "Evitar el uso de herramientas educativas que fomenten autonomía.",
+            "Limitar el acceso a recursos emocionales para centrarse solo en tareas físicas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación de cuidadores"
+        ],
+        "feedback": "La capacitación en técnicas de manejo del dolor y autocuidado permite a los cuidadores brindar apoyo efectivo y proteger su propio bienestar."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes señales indica que un cuidador podría estar experimentando una sobrecarga emocional?",
+        "opciones": [
+            "Incremento de la irritabilidad, ansiedad y síntomas de depresión.",
+            "Mayor capacidad para delegar tareas en otros miembros de la familia.",
+            "Disminución de la carga emocional percibida.",
+            "Mejora en la comunicación con profesionales de la salud."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "sobrecarga emocional"
+        ],
+        "feedback": "La sobrecarga emocional se manifiesta a través de síntomas como irritabilidad, ansiedad, fatiga y signos de depresión."
+    },
+    {
+        "enunciado": "¿Cuál es un beneficio clave de involucrar a la familia en el proceso de cuidado del paciente con dolor crónico?",
+        "opciones": [
+            "Distribuir las responsabilidades del cuidado y brindar apoyo emocional.",
+            "Evitar que otros familiares participen en las decisiones médicas.",
+            "Incrementar la dependencia exclusiva del paciente hacia el cuidador principal.",
+            "Reducir la interacción del paciente con profesionales médicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo familiar"
+        ],
+        "feedback": "Involucrar a la familia permite distribuir las responsabilidades del cuidado, ofreciendo apoyo emocional al cuidador principal y al paciente."
+    },
+    {
+        "enunciado": "¿Por qué es importante el autocuidado en los cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Para asegurar que el cuidador pueda mantener su salud física y emocional.",
+            "Para reducir la necesidad de involucrar a otros familiares en el cuidado.",
+            "Para eliminar la necesidad de apoyo externo profesional.",
+            "Para enfocarse únicamente en tareas físicas y no emocionales del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "autocuidado del cuidador"
+        ],
+        "feedback": "El autocuidado es fundamental para proteger la salud física y emocional del cuidador, permitiéndole brindar un apoyo continuo y de calidad."
+    },
+    {
+        "enunciado": "¿Qué técnica puede mejorar la gestión del tiempo de los cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Organización de rutinas con tiempo para descanso personal.",
+            "Evitar pausas en la atención para enfocarse en el paciente.",
+            "Delegar tareas únicamente cuando el cuidador se sienta agotado.",
+            "Priorizar exclusivamente las demandas emocionales del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "gestión del tiempo"
+        ],
+        "feedback": "La organización de rutinas que incluyan tiempo para el descanso personal permite a los cuidadores manejar mejor sus responsabilidades y evitar la sobrecarga."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias promueve la resiliencia en cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Fomentar el aislamiento social para centrarse en el cuidado del paciente.",
+            "Acceder a formación en manejo del dolor y técnicas de afrontamiento.",
+            "Aumentar el tiempo dedicado al cuidado sin pausas ni descansos.",
+            "Evitar expresar las emociones negativas relacionadas con su rol."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "resiliencia del cuidador"
+        ],
+        "feedback": "Acceder a formación en manejo del dolor y técnicas de afrontamiento proporciona a los cuidadores herramientas para fortalecer su resiliencia y evitar el desgaste emocional."
+    },
+    {
+        "enunciado": "¿Qué enfoque debería adoptar un cuidador para apoyar emocionalmente a un paciente con dolor crónico sin descuidar su bienestar?",
+        "opciones": [
+            "Compartir las emociones y buscar apoyo externo cuando sea necesario.",
+            "Asumir todas las tareas del cuidado sin descanso ni ayuda adicional.",
+            "Priorizar las necesidades emocionales del paciente sobre las propias.",
+            "Evitar hablar de las dificultades para no preocupar al paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo emocional"
+        ],
+        "feedback": "Compartir las emociones y buscar apoyo externo ayuda al cuidador a brindar apoyo emocional sin comprometer su propio bienestar."
+    },
+    {
+        "enunciado": "¿Qué herramienta puede ayudar a los cuidadores a identificar signos tempranos de agotamiento físico y emocional?",
+        "opciones": [
+            "Cuestionario de calidad de vida Zarit.",
+            "Escala visual analógica (EVA).",
+            "Registro diario exclusivo de los síntomas del paciente.",
+            "Cuestionario DN4 para dolor neuropático."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "detección de agotamiento"
+        ],
+        "feedback": "El cuestionario Zarit es una herramienta específica para evaluar la sobrecarga del cuidador, permitiendo detectar signos tempranos de agotamiento físico y emocional."
+    },
+    {
+        "enunciado": "¿Qué rol desempeñan los grupos de apoyo en el bienestar de los cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Proporcionar un espacio para compartir experiencias y estrategias efectivas.",
+            "Reemplazar por completo la intervención del equipo médico.",
+            "Promover que los cuidadores se centren únicamente en el paciente.",
+            "Reducir la necesidad de buscar recursos emocionales adicionales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "grupos de apoyo"
+        ],
+        "feedback": "Los grupos de apoyo permiten a los cuidadores compartir experiencias, aprender estrategias efectivas y sentirse acompañados en su rol."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes prácticas ayuda a un cuidador a mantener el equilibrio entre el cuidado y su vida personal?",
+        "opciones": [
+            "Establecer rutinas que incluyan momentos de descanso y autocuidado.",
+            "Evitar realizar pausas para asegurarse de atender todas las demandas del paciente.",
+            "Asumir todas las decisiones médicas sin apoyo externo.",
+            "Fomentar la dependencia del paciente para facilitar el control del cuidado."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "equilibrio del cuidador"
+        ],
+        "feedback": "Establecer rutinas con momentos de descanso y autocuidado permite al cuidador mantener un equilibrio saludable entre su vida personal y el cuidado del paciente."
+    },
+    {
+        "enunciado": "¿Qué factor puede mejorar la comunicación entre el equipo de salud y los cuidadores en el manejo del dolor crónico?",
+        "opciones": [
+            "Fomentar la participación activa del cuidador en el plan de tratamiento.",
+            "Reducir al mínimo las consultas médicas para evitar sobrecargar al cuidador.",
+            "Limitar la información proporcionada al cuidador para simplificar decisiones.",
+            "Priorizar únicamente la administración de la medicación sin seguimiento."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "comunicación en el cuidado"
+        ],
+        "feedback": "La participación activa del cuidador en el plan de tratamiento facilita una comunicación fluida y mejora la atención integral del paciente."
+    },
+    {
+        "enunciado": "¿Qué efecto tiene el apoyo psicológico en el bienestar de cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Ayuda a reducir la carga emocional y desarrollar habilidades de afrontamiento.",
+            "Incrementa la carga de trabajo del cuidador principal.",
+            "Limita la comunicación del cuidador con su entorno social.",
+            "Fomenta la dependencia emocional del paciente hacia el cuidador."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "apoyo psicológico"
+        ],
+        "feedback": "El apoyo psicológico reduce la carga emocional del cuidador y le ayuda a desarrollar habilidades para afrontar su rol de manera más efectiva."
+    },
+    {
+        "enunciado": "¿Por qué es importante educar a los cuidadores sobre la naturaleza del dolor crónico del paciente?",
+        "opciones": [
+            "Para identificar mejor las necesidades del paciente y manejar sus expectativas.",
+            "Para reemplazar la intervención del equipo médico en el tratamiento.",
+            "Para evitar la interacción del cuidador con otros familiares.",
+            "Para priorizar únicamente la administración de medicación sin apoyo emocional."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "educación del cuidador"
+        ],
+        "feedback": "Educar a los cuidadores sobre el dolor crónico permite que comprendan mejor las necesidades del paciente y manejen sus expectativas de manera adecuada."
+    },
+    {
+        "enunciado": "¿Qué impacto tiene la falta de apoyo en los cuidadores de pacientes con dolor crónico a largo plazo?",
+        "opciones": [
+            "Incremento de estrés, ansiedad y riesgo de depresión.",
+            "Mayor capacidad para asumir responsabilidades adicionales.",
+            "Reducción de la carga emocional percibida.",
+            "Mejora en la comunicación con el equipo de salud."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "impacto en cuidadores"
+        ],
+        "feedback": "La falta de apoyo puede incrementar el estrés, la ansiedad y el riesgo de depresión en los cuidadores, afectando su salud a largo plazo."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes prácticas favorece la salud mental del cuidador principal?",
+        "opciones": [
+            "Participar en actividades de ocio y mantener una vida social activa.",
+            "Evitar pausas y dedicarse exclusivamente al cuidado del paciente.",
+            "Ignorar las emociones negativas relacionadas con su rol.",
+            "Asumir todas las tareas del cuidado sin delegar responsabilidades."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "salud mental del cuidador"
+        ],
+        "feedback": "Participar en actividades de ocio y mantener una vida social activa favorece la salud mental y el bienestar del cuidador principal."
+    },
+    {
+        "enunciado": "¿Qué intervención permite reducir el riesgo de agotamiento en cuidadores que atienden a pacientes con dolor crónico?",
+        "opciones": [
+            "Fomentar la delegación de tareas entre familiares y profesionales.",
+            "Evitar cualquier contacto con grupos de apoyo para centrarse en el paciente.",
+            "Reducir al mínimo el descanso para atender las necesidades del paciente.",
+            "Limitar la búsqueda de recursos externos para simplificar la atención."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "prevención del agotamiento"
+        ],
+        "feedback": "La delegación de tareas y el apoyo de familiares y profesionales ayuda a reducir la carga sobre el cuidador, previniendo el agotamiento físico y emocional."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes factores contribuye significativamente a la carga emocional del cuidador en el manejo del dolor crónico?",
+        "opciones": [
+            "Falta de reconocimiento del esfuerzo del cuidador.",
+            "Participación en programas de respiro familiar.",
+            "Acceso adecuado a apoyo profesional y psicológico.",
+            "Distribución equitativa de las responsabilidades entre familiares."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "impacto emocional"
+        ],
+        "feedback": "La falta de reconocimiento del esfuerzo puede incrementar la carga emocional del cuidador, afectando su motivación y bienestar general."
+    },
+    {
+        "enunciado": "¿Qué recurso profesional puede facilitar el manejo del estrés en cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Terapia individual o grupos de apoyo psicológico.",
+            "Aislamiento del cuidador respecto a otros miembros de la familia.",
+            "Evitar la educación sobre la naturaleza del dolor crónico.",
+            "Incrementar la dedicación sin pausas al cuidado del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "manejo del estrés"
+        ],
+        "feedback": "La terapia individual o la participación en grupos de apoyo proporciona estrategias eficaces para manejar el estrés derivado del rol de cuidador."
+    },
+    {
+        "enunciado": "¿Cuál es una señal de alerta que indica que el cuidador necesita intervención profesional inmediata?",
+        "opciones": [
+            "Aumento de la irritabilidad y dificultades para conciliar el sueño.",
+            "Mejor comunicación con otros cuidadores en situaciones similares.",
+            "Mayor eficacia en la organización de las rutinas diarias.",
+            "Reducción de los niveles percibidos de fatiga y ansiedad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "señales de alerta"
+        ],
+        "feedback": "La irritabilidad y los problemas para dormir son signos de alerta frecuentes que indican una sobrecarga emocional y la necesidad de intervención profesional."
+    },
+    {
+        "enunciado": "¿Qué técnica puede ayudar a los cuidadores a mejorar la calidad de su sueño y reducir el agotamiento?",
+        "opciones": [
+            "Incorporar rutinas de relajación antes de dormir.",
+            "Evitar delegar tareas para mantenerse activos todo el día.",
+            "Dedicar las horas nocturnas a atender exclusivamente al paciente.",
+            "Reducir el tiempo dedicado a actividades de ocio personal."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "autocuidado del cuidador"
+        ],
+        "feedback": "Incorporar rutinas de relajación antes de dormir ayuda a mejorar la calidad del sueño, reduciendo los niveles de agotamiento físico y mental."
+    },
+    {
+        "enunciado": "¿Qué beneficio aporta la formación específica sobre el dolor crónico a los cuidadores principales?",
+        "opciones": [
+            "Les permite detectar signos de empeoramiento y colaborar en el tratamiento.",
+            "Sustituye la necesidad de intervención profesional médica.",
+            "Reduce la necesidad de involucrar a otros familiares en el cuidado.",
+            "Les ayuda a evitar la expresión de emociones relacionadas con el cuidado."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación de cuidadores"
+        ],
+        "feedback": "La formación específica permite a los cuidadores detectar cambios en el estado del paciente y colaborar activamente en el tratamiento del dolor."
+    },
+    {
+        "enunciado": "¿Cuál es el principal objetivo de los programas de respiro dirigidos a los cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Brindar un descanso temporal al cuidador para reducir la sobrecarga.",
+            "Sustituir permanentemente al cuidador en todas sus tareas.",
+            "Evitar que el cuidador participe en la planificación del tratamiento.",
+            "Reducir la comunicación entre el cuidador y el equipo de salud."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "programas de respiro"
+        ],
+        "feedback": "El objetivo de los programas de respiro es ofrecer un descanso temporal al cuidador, ayudando a reducir la sobrecarga y mejorar su bienestar."
+    },
+    {
+        "enunciado": "¿Por qué es importante fomentar la comunicación abierta entre el cuidador y el equipo sanitario?",
+        "opciones": [
+            "Permite resolver dudas y coordinar estrategias efectivas de manejo del dolor.",
+            "Reduce la necesidad de seguimiento regular del estado del paciente.",
+            "Evita que el cuidador exprese preocupaciones que puedan afectar al equipo.",
+            "Facilita que el cuidador asuma todas las decisiones médicas sin supervisión."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "comunicación profesional"
+        ],
+        "feedback": "La comunicación abierta facilita la resolución de dudas y permite coordinar estrategias efectivas para un manejo integral del dolor del paciente."
+    },
+    {
+        "enunciado": "¿Qué medida puede ayudar a los cuidadores a encontrar un equilibrio entre su rol y su bienestar personal?",
+        "opciones": [
+            "Establecer límites claros en su tiempo de cuidado y descanso.",
+            "Reducir al mínimo las actividades de ocio personal.",
+            "Evitar buscar apoyo externo para centrarse en el cuidado del paciente.",
+            "Dedicar exclusivamente todo su tiempo a atender al paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "bienestar del cuidador"
+        ],
+        "feedback": "Establecer límites claros en el tiempo dedicado al cuidado y al descanso ayuda al cuidador a equilibrar su rol con su bienestar personal."
+    },
+    {
+        "enunciado": "¿Qué efecto positivo tienen las técnicas de relajación en los cuidadores de pacientes con dolor crónico?",
+        "opciones": [
+            "Reducen los niveles de estrés y mejoran el bienestar general.",
+            "Aumentan la cantidad de tareas asumidas por el cuidador.",
+            "Eliminan la necesidad de recursos de apoyo profesional.",
+            "Permiten al cuidador prolongar las horas de cuidado sin descanso."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "técnicas de relajación"
+        ],
+        "feedback": "Las técnicas de relajación reducen los niveles de estrés y ansiedad, lo que mejora el bienestar general del cuidador y su capacidad para brindar apoyo."
+    },
+    {
+        "enunciado": "¿Qué medida forma parte de las estrategias del SSPA para mejorar la atención al dolor en los servicios de salud?",
+        "opciones": [
+            "Implementar programas formativos continuos en el manejo integral del dolor.",
+            "Focalizar la atención al dolor únicamente en pacientes oncológicos.",
+            "Priorizar el uso exclusivo de tratamientos farmacológicos en todos los casos.",
+            "Limitar la participación de equipos multidisciplinares en el abordaje del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El SSPA promueve programas formativos continuos para garantizar un manejo integral y actualizado del dolor, involucrando a equipos multidisciplinares."
+    },
+    {
+        "enunciado": "¿Qué enfoque promueve el SSPA para la evaluación y tratamiento del dolor en pacientes crónicos?",
+        "opciones": [
+            "Aplicar herramientas de evaluación estandarizadas adaptadas a cada paciente.",
+            "Centrar la evaluación del dolor únicamente en criterios subjetivos del profesional.",
+            "Restringir el tratamiento del dolor crónico a unidades hospitalarias.",
+            "Evitar la reevaluación periódica de la efectividad del tratamiento aplicado."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El SSPA promueve la aplicación de herramientas estandarizadas que faciliten la evaluación objetiva y adaptada del dolor en cada paciente."
+    },
+    {
+        "enunciado": "¿Cuál es un pilar fundamental de las estrategias del SSPA para garantizar un abordaje efectivo del dolor?",
+        "opciones": [
+            "Integrar el manejo del dolor en todos los niveles asistenciales.",
+            "Limitar el manejo del dolor a especialistas en cuidados paliativos.",
+            "Excluir la formación sobre dolor de los planes de estudio universitarios.",
+            "Fomentar un uso indiscriminado de opioides en cualquier tipo de dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El SSPA enfatiza la necesidad de integrar el manejo del dolor en todos los niveles asistenciales, desde Atención Primaria hasta Especializada."
+    },
+    {
+        "enunciado": "Según las estrategias del SSPA, ¿qué acción mejora la coordinación en la atención del dolor entre niveles asistenciales?",
+        "opciones": [
+            "Desarrollar rutas asistenciales específicas para el manejo del dolor.",
+            "Eliminar la comunicación entre Atención Primaria y Especializada.",
+            "Limitar el abordaje del dolor crónico a la atención domiciliaria.",
+            "Centrar la atención del dolor únicamente en urgencias hospitalarias."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El desarrollo de rutas asistenciales permite mejorar la coordinación entre niveles asistenciales, garantizando un abordaje integral del dolor."
+    },
+    {
+        "enunciado": "¿Qué herramienta utiliza el SSPA para evaluar la calidad de la atención prestada a pacientes con dolor?",
+        "opciones": [
+            "Indicadores de evaluación y seguimiento del manejo del dolor.",
+            "Valoración exclusiva del tiempo de atención en consultas médicas.",
+            "Registro únicamente de tratamientos farmacológicos aplicados.",
+            "Recolección de datos sin considerar la percepción del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El SSPA emplea indicadores de evaluación y seguimiento para medir la calidad de la atención y los resultados percibidos en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA favorece el empoderamiento del paciente en el manejo de su dolor?",
+        "opciones": [
+            "Fomentar la educación sanitaria y la autogestión del dolor.",
+            "Reducir la información ofrecida para evitar preocupaciones adicionales.",
+            "Limitar el acceso a programas de educación sobre el manejo del dolor.",
+            "Promover exclusivamente intervenciones farmacológicas sin participación del paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El empoderamiento del paciente se logra a través de la educación sanitaria, facilitando herramientas para que participen en el manejo de su dolor."
+    },
+    {
+        "enunciado": "Dentro de las estrategias del SSPA, ¿qué aspecto es clave para un abordaje multidisciplinar del dolor?",
+        "opciones": [
+            "La participación coordinada de profesionales de diferentes disciplinas.",
+            "La centralización de todas las decisiones en el profesional de medicina general.",
+            "Excluir a profesionales de enfermería y psicología del manejo del dolor.",
+            "Limitar las intervenciones a un único nivel asistencial."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "abordaje multidisciplinar"
+        ],
+        "feedback": "El SSPA promueve la participación coordinada de profesionales de diferentes disciplinas como medicina, enfermería, fisioterapia y psicología."
+    },
+    {
+        "enunciado": "¿Qué objetivo tienen las campañas educativas impulsadas por el SSPA sobre el manejo del dolor?",
+        "opciones": [
+            "Aumentar la sensibilización y conocimiento de la población sobre el dolor.",
+            "Reducir el acceso de los pacientes a información sobre sus tratamientos.",
+            "Evitar la participación de los pacientes en la toma de decisiones terapéuticas.",
+            "Limitar las campañas a personal sanitario especializado en dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "educación sanitaria"
+        ],
+        "feedback": "Las campañas educativas del SSPA buscan sensibilizar a la población sobre el dolor, mejorando su conocimiento y acceso a recursos disponibles."
+    },
+    {
+        "enunciado": "¿Qué aspecto prioriza el SSPA en el desarrollo de tratamientos para el dolor crónico?",
+        "opciones": [
+            "Adaptar los tratamientos a las necesidades individuales del paciente.",
+            "Utilizar exclusivamente tratamientos farmacológicos en todos los casos.",
+            "Evitar la personalización de las intervenciones terapéuticas.",
+            "Centrarse únicamente en el manejo del dolor agudo en urgencias."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamiento personalizado"
+        ],
+        "feedback": "El SSPA prioriza adaptar los tratamientos a las necesidades individuales de cada paciente, garantizando un abordaje personalizado y efectivo."
+    },
+    {
+        "enunciado": "¿Qué medida forma parte del compromiso del SSPA para garantizar la mejora continua en la atención al dolor?",
+        "opciones": [
+            "Incorporar sistemas de registro y evaluación continua de resultados.",
+            "Reducir el seguimiento de los resultados de las intervenciones terapéuticas.",
+            "Limitar la mejora continua a tratamientos farmacológicos exclusivos.",
+            "Evitar la actualización de protocolos y guías clínicas sobre el dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mejora continua"
+        ],
+        "feedback": "El SSPA implementa sistemas de registro y evaluación continua que permiten medir resultados y garantizar la mejora de la atención al dolor."
+    },
+    {
+        "enunciado": "¿Qué estrategia específica del SSPA promueve un abordaje integral del dolor crónico?",
+        "opciones": [
+            "Incorporar unidades multidisciplinares con enfoque biopsicosocial.",
+            "Limitar el tratamiento del dolor crónico a unidades de urgencia.",
+            "Priorizar únicamente el manejo farmacológico en Atención Primaria.",
+            "Reducir la intervención de profesionales no médicos en el plan de tratamiento."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "abordaje integral"
+        ],
+        "feedback": "El SSPA impulsa un abordaje integral a través de unidades multidisciplinares que aplican un enfoque biopsicosocial, adaptado a las necesidades del paciente."
+    },
+    {
+        "enunciado": "Según las estrategias del SSPA, ¿qué práctica es fundamental para la evaluación continua del dolor en pacientes?",
+        "opciones": [
+            "Reevaluar periódicamente mediante herramientas validadas y adaptadas.",
+            "Aplicar exclusivamente escalas numéricas independientemente del contexto.",
+            "Limitar la evaluación del dolor a pacientes con enfermedades terminales.",
+            "Priorizar la percepción del profesional sobre la del paciente al medir el dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "evaluación del dolor"
+        ],
+        "feedback": "La evaluación continua mediante herramientas validadas y adaptadas permite un manejo efectivo y objetivo del dolor en diferentes contextos clínicos."
+    },
+    {
+        "enunciado": "¿Qué componente clave distingue las estrategias del SSPA en la atención al dolor de otros modelos asistenciales?",
+        "opciones": [
+            "Integrar el tratamiento en programas formativos, investigación y práctica asistencial.",
+            "Enfocar el tratamiento únicamente en la administración de fármacos opioides.",
+            "Exclusión de unidades multidisciplinares para evitar redundancias terapéuticas.",
+            "Centrar las estrategias solo en el dolor agudo de origen quirúrgico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "El SSPA destaca por integrar el manejo del dolor en la formación, la investigación y la práctica asistencial, promoviendo un enfoque completo y coordinado."
+    },
+    {
+        "enunciado": "Dentro de las estrategias del SSPA, ¿qué acción garantiza la equidad en el acceso al manejo del dolor?",
+        "opciones": [
+            "Establecer rutas asistenciales para todos los niveles de atención.",
+            "Centralizar el tratamiento del dolor exclusivamente en hospitales de referencia.",
+            "Restringir el acceso a las unidades del dolor solo a pacientes oncológicos.",
+            "Priorizar la intervención en pacientes con dolor agudo frente al crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "accesibilidad"
+        ],
+        "feedback": "El SSPA garantiza la equidad en el manejo del dolor a través de rutas asistenciales que facilitan el acceso a la atención en todos los niveles del sistema."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA facilita la detección temprana y tratamiento del dolor en Atención Primaria?",
+        "opciones": [
+            "Incorporar protocolos de detección temprana y guías de práctica clínica.",
+            "Derivar a todos los pacientes con dolor directamente a unidades especializadas.",
+            "Evitar la implementación de herramientas de evaluación sistemática del dolor.",
+            "Centrar la atención solo en pacientes con dolor postquirúrgico severo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "detección temprana"
+        ],
+        "feedback": "La implementación de protocolos y guías facilita la detección temprana y el tratamiento adecuado del dolor desde la Atención Primaria."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA mejora la formación de los profesionales sanitarios en el manejo del dolor?",
+        "opciones": [
+            "Desarrollar programas de formación continua y acreditada.",
+            "Limitar la formación a especialidades médicas concretas.",
+            "Priorizar la experiencia clínica sobre la educación específica en dolor.",
+            "Evitar la actualización periódica de protocolos clínicos sobre el manejo del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación profesional"
+        ],
+        "feedback": "El SSPA fomenta la formación continua y acreditada en manejo del dolor, garantizando la actualización constante de los profesionales sanitarios."
+    },
+    {
+        "enunciado": "¿Qué objetivo persigue la estrategia del SSPA al implementar un enfoque biopsicosocial en el tratamiento del dolor?",
+        "opciones": [
+            "Atender los factores físicos, emocionales y sociales que influyen en el dolor.",
+            "Enfocar el tratamiento únicamente en la causa física del dolor.",
+            "Reducir la intervención psicológica en pacientes con dolor crónico.",
+            "Priorizar la intervención farmacológica en detrimento de enfoques alternativos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "enfoque biopsicosocial"
+        ],
+        "feedback": "El enfoque biopsicosocial atiende los factores físicos, emocionales y sociales que influyen en la percepción y manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué medida del SSPA asegura la continuidad asistencial en el tratamiento del dolor entre niveles de atención?",
+        "opciones": [
+            "Elaboración de rutas asistenciales que integren Atención Primaria y Especializada.",
+            "Derivación exclusiva de pacientes con dolor crónico a hospitales de referencia.",
+            "Restringir la comunicación entre niveles asistenciales para simplificar procesos.",
+            "Priorizar la atención del dolor agudo en detrimento del dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "continuidad asistencial"
+        ],
+        "feedback": "Las rutas asistenciales integradas garantizan la coordinación entre Atención Primaria y Especializada, favoreciendo la continuidad asistencial."
+    },
+    {
+        "enunciado": "¿Qué componente promueve el SSPA en la atención al dolor para mejorar la experiencia del paciente?",
+        "opciones": [
+            "Potenciar la comunicación y participación activa del paciente en su tratamiento.",
+            "Reducir la información proporcionada al paciente para evitar preocupaciones.",
+            "Priorizar únicamente el tratamiento farmacológico como medida terapéutica.",
+            "Limitar la evaluación del dolor a criterios exclusivamente clínicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "experiencia del paciente"
+        ],
+        "feedback": "El SSPA promueve la comunicación y participación activa del paciente, permitiéndole formar parte del proceso de decisión en su tratamiento."
+    },
+    {
+        "enunciado": "¿Cómo aborda el SSPA la mejora de resultados en la atención al dolor crónico?",
+        "opciones": [
+            "Mediante la evaluación continua y el uso de indicadores de calidad asistencial.",
+            "Reduciendo las evaluaciones sistemáticas para simplificar procesos.",
+            "Priorizando la atención únicamente en fases agudas del dolor.",
+            "Evitando la medición de resultados percibidos por el paciente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "mejora de resultados"
+        ],
+        "feedback": "El SSPA aborda la mejora de resultados mediante la evaluación continua y la implementación de indicadores de calidad asistencial."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes líneas estratégicas del SSPA se centra en garantizar la continuidad asistencial en la atención al dolor?",
+        "opciones": [
+            "Reorganizar los recursos sanitarios y garantizar el manejo integral del dolor.",
+            "Implementar intervenciones específicas únicamente en hospitales de referencia.",
+            "Limitar el abordaje del dolor crónico a unidades de urgencias hospitalarias.",
+            "Reducir la participación de Atención Primaria en el tratamiento del dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "estrategias SSPA"
+        ],
+        "feedback": "Una de las líneas estratégicas clave del SSPA es reorganizar recursos y garantizar el manejo integral del dolor, favoreciendo la continuidad entre Atención Primaria y Especializada."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA promueve la equidad en el acceso al manejo del dolor en grupos vulnerables?",
+        "opciones": [
+            "Desarrollar intervenciones específicas para grupos como mayores o institucionalizados.",
+            "Centralizar la atención del dolor únicamente en hospitales de especialidades.",
+            "Priorizar intervenciones farmacológicas sin considerar grupos de riesgo.",
+            "Evitar la personalización de las estrategias para simplificar recursos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "acceso equitativo"
+        ],
+        "feedback": "El SSPA desarrolla intervenciones específicas que aseguran el abordaje equitativo del dolor en grupos vulnerables como personas mayores o institucionalizadas."
+    },
+    {
+        "enunciado": "¿Qué herramienta del SSPA contribuye a evaluar y mejorar la calidad de las estrategias frente al dolor?",
+        "opciones": [
+            "Indicadores de evaluación y seguimiento específicos del Plan.",
+            "Reducción del análisis de resultados para simplificar el proceso.",
+            "Valoración única del manejo del dolor postoperatorio.",
+            "Eliminación de indicadores en Atención Primaria para centrar recursos en hospitales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "evaluación y mejora"
+        ],
+        "feedback": "El uso de indicadores de evaluación y seguimiento permite al SSPA medir la efectividad y mejorar continuamente las estrategias implementadas frente al dolor."
+    },
+    {
+        "enunciado": "¿Qué enfoque aplica el SSPA para garantizar la participación ciudadana en la atención al dolor?",
+        "opciones": [
+            "Desarrollar planes de comunicación e información sobre el dolor.",
+            "Limitar la participación a consultas hospitalarias específicas.",
+            "Evitar la inclusión de la ciudadanía en la toma de decisiones asistenciales.",
+            "Fomentar la educación únicamente en profesionales sanitarios especializados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "participación ciudadana"
+        ],
+        "feedback": "El SSPA fomenta la participación ciudadana mediante planes de comunicación e información que promueven la toma de decisiones compartidas en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes acciones del SSPA busca garantizar la formación continua en la atención al dolor?",
+        "opciones": [
+            "Acreditar actividades y programas específicos de formación para profesionales.",
+            "Limitar la formación a los profesionales de Unidades del Dolor.",
+            "Reducir los programas educativos en Atención Primaria.",
+            "Evitar la actualización de protocolos en el manejo del dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación profesional"
+        ],
+        "feedback": "La acreditación de programas formativos específicos garantiza que los profesionales del SSPA estén actualizados en la atención al dolor."
+    },
+    {
+        "enunciado": "¿Qué elemento innovador impulsa el SSPA en sus estrategias para mejorar la atención al dolor?",
+        "opciones": [
+            "Incorporación de nuevas tecnologías y herramientas TIC en el seguimiento del dolor.",
+            "Centrar el manejo del dolor exclusivamente en intervenciones quirúrgicas.",
+            "Reducir la aplicación de herramientas tecnológicas en domicilios.",
+            "Evitar el uso de telemedicina en pacientes alejados de centros sanitarios."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "innovación tecnológica"
+        ],
+        "feedback": "El SSPA impulsa el uso de tecnologías innovadoras, como la telemedicina, para mejorar el seguimiento del dolor en pacientes alejados de centros sanitarios."
+    },
+    {
+        "enunciado": "¿Qué medida propone el SSPA para garantizar el abordaje ético del dolor en el sistema sanitario?",
+        "opciones": [
+            "Incorporar la atención al dolor en todas las decisiones bioéticas del sistema.",
+            "Limitar la valoración ética del dolor únicamente a las Unidades de Cuidados Paliativos.",
+            "Excluir el dolor de los ámbitos de decisión bioética en la organización.",
+            "Centralizar las estrategias éticas en los comités hospitalarios sin incluir Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "atención ética"
+        ],
+        "feedback": "El SSPA garantiza un abordaje ético al incluir la atención al dolor en las decisiones bioéticas y en los mecanismos de dirección del sistema."
+    },
+    {
+        "enunciado": "¿Qué estrategia activa promueve el SSPA para mejorar la atención integral del dolor a nivel local?",
+        "opciones": [
+            "Impulsar comisiones clínicas que garanticen el manejo integral del dolor.",
+            "Centralizar las decisiones sobre el dolor exclusivamente en la dirección hospitalaria.",
+            "Reducir la coordinación entre niveles asistenciales para simplificar procesos.",
+            "Priorizar el manejo exclusivo del dolor en grandes centros especializados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "coordinación local"
+        ],
+        "feedback": "El SSPA promueve la creación de comisiones clínicas locales que garanticen el manejo integral y multidisciplinar del dolor."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la reorganización de recursos sanitarios propuesta por el SSPA?",
+        "opciones": [
+            "Garantizar una atención integral y continuada basada en la complejidad del dolor.",
+            "Limitar la atención al dolor a centros hospitalarios de referencia.",
+            "Reducir la participación de Atención Primaria en el tratamiento del dolor crónico.",
+            "Fomentar intervenciones únicamente en situaciones de dolor agudo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "reorganización de recursos"
+        ],
+        "feedback": "La reorganización propuesta por el SSPA busca garantizar una atención continuada e integral, adaptada a las necesidades de los pacientes con dolor."
+    },
+    {
+        "enunciado": "¿Qué línea estratégica del SSPA fomenta la investigación e innovación en el manejo del dolor?",
+        "opciones": [
+            "Fomentar la generación de conocimiento y el uso de nuevas tecnologías.",
+            "Centrar la investigación únicamente en el dolor postoperatorio.",
+            "Restringir los estudios a tratamientos farmacológicos tradicionales.",
+            "Evitar la implementación de nuevas tecnologías en el seguimiento del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "investigación e innovación"
+        ],
+        "feedback": "El SSPA promueve la investigación y la innovación mediante la generación de conocimiento y el uso de nuevas tecnologías aplicadas al manejo del dolor."
+    },
+    {
+        "enunciado": "¿Cuál es uno de los objetivos del SSPA para garantizar una atención personalizada en el manejo del dolor?",
+        "opciones": [
+            "Adaptar los tratamientos a las características individuales de cada paciente.",
+            "Priorizar tratamientos estándar sin considerar las necesidades del paciente.",
+            "Limitar las intervenciones a los casos más complejos en unidades hospitalarias.",
+            "Evitar el uso de herramientas de evaluación sistemática del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "atención personalizada"
+        ],
+        "feedback": "El SSPA promueve una atención personalizada mediante tratamientos adaptados a las características individuales y necesidades específicas de cada paciente."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña la Atención Primaria en las estrategias del SSPA para el manejo del dolor crónico?",
+        "opciones": [
+            "Actúa como primer nivel de detección y seguimiento del dolor.",
+            "Se limita a derivar todos los casos a unidades hospitalarias especializadas.",
+            "Evita la intervención en el manejo del dolor para centrarse en patologías agudas.",
+            "Prioriza únicamente la atención de pacientes con dolor neuropático."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "Atención Primaria"
+        ],
+        "feedback": "La Atención Primaria desempeña un papel clave como primer nivel en la detección, seguimiento y manejo del dolor crónico, favoreciendo su abordaje temprano."
+    },
+    {
+        "enunciado": "¿Qué medida fomenta el SSPA para mejorar la comunicación con los pacientes en el tratamiento del dolor?",
+        "opciones": [
+            "Implementar planes de información y educación sanitaria.",
+            "Reducir el tiempo dedicado a las consultas relacionadas con el dolor.",
+            "Evitar la participación activa del paciente en las decisiones terapéuticas.",
+            "Priorizar únicamente el seguimiento farmacológico sin interacción adicional."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "comunicación con el paciente"
+        ],
+        "feedback": "El SSPA fomenta la implementación de planes de información y educación sanitaria para mejorar la comunicación y el empoderamiento del paciente."
+    },
+    {
+        "enunciado": "¿Qué acción forma parte de la estrategia del SSPA para garantizar un enfoque multidisciplinar en el tratamiento del dolor?",
+        "opciones": [
+            "Integrar equipos formados por profesionales de diferentes disciplinas.",
+            "Limitar la intervención a médicos especializados en dolor agudo.",
+            "Priorizar únicamente la atención farmacológica en unidades del dolor.",
+            "Reducir la coordinación entre niveles asistenciales para simplificar procesos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "abordaje multidisciplinar"
+        ],
+        "feedback": "El enfoque multidisciplinar del SSPA integra equipos con profesionales de distintas disciplinas, como medicina, enfermería, psicología y fisioterapia."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA permite mejorar la detección del dolor en poblaciones vulnerables?",
+        "opciones": [
+            "Desarrollar herramientas de evaluación específicas y adaptadas.",
+            "Centrar la detección del dolor únicamente en entornos hospitalarios.",
+            "Evitar el uso de protocolos específicos en grupos vulnerables.",
+            "Reducir la formación de profesionales en técnicas de evaluación del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "detección en grupos vulnerables"
+        ],
+        "feedback": "El SSPA desarrolla herramientas y protocolos específicos que permiten una evaluación adaptada del dolor en poblaciones vulnerables."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA busca fomentar la calidad asistencial en el manejo del dolor?",
+        "opciones": [
+            "Implementar indicadores de seguimiento y evaluación continuada.",
+            "Limitar la evaluación a tratamientos farmacológicos en casos agudos.",
+            "Reducir la recopilación de datos sobre los resultados percibidos.",
+            "Evitar la actualización de protocolos en el manejo del dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "calidad asistencial"
+        ],
+        "feedback": "El uso de indicadores de seguimiento y evaluación permite al SSPA medir la calidad asistencial y garantizar la mejora continua en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué medida promueve el SSPA para reducir la variabilidad en la atención al dolor entre centros asistenciales?",
+        "opciones": [
+            "Elaborar y actualizar guías clínicas y protocolos basados en la evidencia.",
+            "Permitir que cada centro desarrolle intervenciones independientes sin coordinación.",
+            "Restringir la implementación de guías únicamente a hospitales de referencia.",
+            "Priorizar el manejo del dolor agudo sobre el crónico en cualquier nivel asistencial."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "reducción de la variabilidad"
+        ],
+        "feedback": "El SSPA fomenta la elaboración y actualización de guías clínicas basadas en la evidencia para reducir la variabilidad en la atención entre centros asistenciales."
+    },
+    {
+        "enunciado": "¿Qué medida del SSPA mejora el acceso de los pacientes al tratamiento del dolor crónico en áreas rurales?",
+        "opciones": [
+            "Incorporar programas de telemedicina y seguimiento remoto.",
+            "Centrar la atención únicamente en unidades del dolor urbanas.",
+            "Reducir la derivación de pacientes a programas de Atención Primaria.",
+            "Limitar la implementación de estrategias a hospitales especializados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "acceso en áreas rurales"
+        ],
+        "feedback": "El SSPA facilita el acceso al tratamiento del dolor en áreas rurales mediante programas de telemedicina y seguimiento remoto."
+    },
+    {
+        "enunciado": "¿Qué objetivo tiene la creación de comisiones clínicas locales dentro del SSPA?",
+        "opciones": [
+            "Garantizar la coordinación y el manejo integral del dolor.",
+            "Reducir la intervención de equipos multidisciplinares para simplificar procesos.",
+            "Limitar la atención del dolor crónico a unidades hospitalarias centralizadas.",
+            "Evitar la colaboración entre Atención Primaria y Especializada."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "comisiones clínicas"
+        ],
+        "feedback": "Las comisiones clínicas locales tienen como objetivo coordinar y garantizar un manejo integral y efectivo del dolor en los diferentes niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Cómo contribuye el SSPA a la investigación en el manejo del dolor?",
+        "opciones": [
+            "Fomentando estudios clínicos y la innovación en tratamientos.",
+            "Reduciendo el enfoque en el desarrollo de nuevas estrategias terapéuticas.",
+            "Limitar la investigación únicamente a tratamientos farmacológicos tradicionales.",
+            "Evitar la implementación de resultados de estudios en la práctica clínica."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "investigación en dolor"
+        ],
+        "feedback": "El SSPA fomenta la investigación y la innovación a través de estudios clínicos, promoviendo la implementación de nuevas estrategias en la práctica asistencial."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA garantiza un seguimiento adecuado y continuado del dolor en pacientes crónicos?",
+        "opciones": [
+            "Establecer planes individualizados de seguimiento en todos los niveles asistenciales.",
+            "Reducir las consultas de seguimiento a los casos de dolor agudo.",
+            "Limitar el manejo del dolor a intervenciones puntuales sin revisión periódica.",
+            "Evitar la integración de sistemas de seguimiento en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "seguimiento del dolor"
+        ],
+        "feedback": "El SSPA garantiza un manejo adecuado del dolor en pacientes crónicos mediante planes individualizados de seguimiento en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Cuál es el enfoque del SSPA para mejorar la atención del dolor en pacientes institucionalizados?",
+        "opciones": [
+            "Implementar programas específicos de evaluación y tratamiento del dolor.",
+            "Priorizar únicamente el manejo del dolor en entornos hospitalarios.",
+            "Evitar la inclusión de pacientes institucionalizados en programas de atención.",
+            "Limitar la atención del dolor a la administración de analgésicos básicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "pacientes institucionalizados"
+        ],
+        "feedback": "El SSPA mejora la atención del dolor en pacientes institucionalizados mediante programas específicos de evaluación y tratamiento adaptados a sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué papel desempeñan las guías clínicas dentro de las estrategias del SSPA para el manejo del dolor?",
+        "opciones": [
+            "Unificar criterios de actuación basados en la evidencia científica.",
+            "Limitar las intervenciones al juicio clínico del profesional sin guías de apoyo.",
+            "Restringir la actualización de guías clínicas a periodos muy prolongados.",
+            "Evitar el uso de guías clínicas en Atención Primaria para simplificar la atención."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "guías clínicas"
+        ],
+        "feedback": "Las guías clínicas unifican criterios basados en la evidencia científica, garantizando un manejo homogéneo y de calidad del dolor en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA facilita la detección precoz del dolor crónico en la población general?",
+        "opciones": [
+            "Incorporar cribados específicos en Atención Primaria.",
+            "Limitar la detección del dolor crónico a casos hospitalarios complejos.",
+            "Evitar la evaluación sistemática del dolor en revisiones médicas rutinarias.",
+            "Priorizar la detección únicamente en pacientes con enfermedades terminales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "detección precoz"
+        ],
+        "feedback": "El SSPA facilita la detección precoz del dolor crónico mediante cribados específicos en Atención Primaria y en revisiones rutinarias."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA asegura una intervención temprana en pacientes con dolor neuropático?",
+        "opciones": [
+            "Aplicar protocolos de diagnóstico precoz y tratamiento específico.",
+            "Limitar las intervenciones a unidades hospitalarias especializadas.",
+            "Restringir la valoración del dolor neuropático a criterios subjetivos.",
+            "Reducir el uso de herramientas validadas para la evaluación del dolor neuropático."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "dolor neuropático"
+        ],
+        "feedback": "El SSPA promueve protocolos específicos para el diagnóstico precoz y el tratamiento adecuado del dolor neuropático, asegurando una intervención temprana."
+    },
+    {
+        "enunciado": "¿Qué medida impulsa el SSPA para garantizar la participación activa de los pacientes en la gestión de su dolor?",
+        "opciones": [
+            "Fomentar la educación sanitaria y la toma de decisiones compartidas.",
+            "Reducir el acceso del paciente a la información sobre su tratamiento.",
+            "Limitar la intervención del paciente en la planificación de su tratamiento.",
+            "Priorizar únicamente la aplicación de tratamientos farmacológicos estandarizados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "participación del paciente"
+        ],
+        "feedback": "El SSPA impulsa la participación activa de los pacientes mediante educación sanitaria y toma de decisiones compartidas, fortaleciendo su rol en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué elemento clave del SSPA facilita la coordinación entre Atención Primaria y Especializada en el tratamiento del dolor?",
+        "opciones": [
+            "Desarrollo de rutas asistenciales que integran ambos niveles.",
+            "Reducir la comunicación entre niveles asistenciales para agilizar procesos.",
+            "Limitar la derivación de casos de dolor crónico a unidades especializadas.",
+            "Centrar la atención en el dolor agudo sin intervención en el dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "coordinación asistencial"
+        ],
+        "feedback": "Las rutas asistenciales desarrolladas por el SSPA garantizan la coordinación y continuidad entre Atención Primaria y Especializada en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué intervención del SSPA mejora el manejo del dolor en el ámbito domiciliario?",
+        "opciones": [
+            "Incorporar programas de atención y seguimiento domiciliario.",
+            "Priorizar únicamente la atención hospitalaria en casos de dolor crónico.",
+            "Evitar la implementación de servicios de telemedicina en el hogar.",
+            "Restringir las visitas domiciliarias a pacientes en fases terminales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "atención domiciliaria"
+        ],
+        "feedback": "El SSPA facilita el manejo del dolor mediante programas de atención y seguimiento domiciliario, adaptados a las necesidades de los pacientes."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA permite optimizar el uso de recursos sanitarios en la atención al dolor?",
+        "opciones": [
+            "Reorganización de recursos en función de la complejidad del dolor.",
+            "Centralizar la atención en grandes hospitales sin involucrar Atención Primaria.",
+            "Limitar la atención del dolor crónico a consultas de urgencias.",
+            "Evitar la personalización de los tratamientos en niveles asistenciales bajos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "optimización de recursos"
+        ],
+        "feedback": "El SSPA optimiza el uso de recursos mediante su reorganización en función de la complejidad del dolor, mejorando la eficiencia del sistema."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña la telemedicina en las estrategias del SSPA para el seguimiento del dolor crónico?",
+        "opciones": [
+            "Facilita el seguimiento remoto y reduce las barreras geográficas.",
+            "Limita el acceso de pacientes a la atención presencial en centros especializados.",
+            "Restringe el seguimiento a casos de dolor agudo postoperatorio.",
+            "Reduce la participación de los profesionales de Atención Primaria en la atención del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "telemedicina"
+        ],
+        "feedback": "La telemedicina permite el seguimiento remoto de pacientes con dolor crónico, facilitando el acceso a la atención y reduciendo barreras geográficas."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA garantiza un seguimiento adecuado y continuado del dolor en pacientes crónicos?",
+        "opciones": [
+            "Establecer planes individualizados de seguimiento en todos los niveles asistenciales.",
+            "Reducir las consultas de seguimiento a los casos de dolor agudo.",
+            "Limitar el manejo del dolor a intervenciones puntuales sin revisión periódica.",
+            "Evitar la integración de sistemas de seguimiento en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "seguimiento del dolor"
+        ],
+        "feedback": "El SSPA garantiza un manejo adecuado del dolor en pacientes crónicos mediante planes individualizados de seguimiento en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Cuál es el enfoque del SSPA para mejorar la atención del dolor en pacientes institucionalizados?",
+        "opciones": [
+            "Implementar programas específicos de evaluación y tratamiento del dolor.",
+            "Priorizar únicamente el manejo del dolor en entornos hospitalarios.",
+            "Evitar la inclusión de pacientes institucionalizados en programas de atención.",
+            "Limitar la atención del dolor a la administración de analgésicos básicos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "pacientes institucionalizados"
+        ],
+        "feedback": "El SSPA mejora la atención del dolor en pacientes institucionalizados mediante programas específicos de evaluación y tratamiento adaptados a sus necesidades."
+    },
+    {
+        "enunciado": "¿Qué papel desempeñan las guías clínicas dentro de las estrategias del SSPA para el manejo del dolor?",
+        "opciones": [
+            "Unificar criterios de actuación basados en la evidencia científica.",
+            "Limitar las intervenciones al juicio clínico del profesional sin guías de apoyo.",
+            "Restringir la actualización de guías clínicas a periodos muy prolongados.",
+            "Evitar el uso de guías clínicas en Atención Primaria para simplificar la atención."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "guías clínicas"
+        ],
+        "feedback": "Las guías clínicas unifican criterios basados en la evidencia científica, garantizando un manejo homogéneo y de calidad del dolor en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA facilita la detección precoz del dolor crónico en la población general?",
+        "opciones": [
+            "Incorporar cribados específicos en Atención Primaria.",
+            "Limitar la detección del dolor crónico a casos hospitalarios complejos.",
+            "Evitar la evaluación sistemática del dolor en revisiones médicas rutinarias.",
+            "Priorizar la detección únicamente en pacientes con enfermedades terminales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "detección precoz"
+        ],
+        "feedback": "El SSPA facilita la detección precoz del dolor crónico mediante cribados específicos en Atención Primaria y en revisiones rutinarias."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA asegura una intervención temprana en pacientes con dolor neuropático?",
+        "opciones": [
+            "Aplicar protocolos de diagnóstico precoz y tratamiento específico.",
+            "Limitar las intervenciones a unidades hospitalarias especializadas.",
+            "Restringir la valoración del dolor neuropático a criterios subjetivos.",
+            "Reducir el uso de herramientas validadas para la evaluación del dolor neuropático."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "dolor neuropático"
+        ],
+        "feedback": "El SSPA promueve protocolos específicos para el diagnóstico precoz y el tratamiento adecuado del dolor neuropático, asegurando una intervención temprana."
+    },
+    {
+        "enunciado": "¿Qué medida impulsa el SSPA para garantizar la participación activa de los pacientes en la gestión de su dolor?",
+        "opciones": [
+            "Fomentar la educación sanitaria y la toma de decisiones compartidas.",
+            "Reducir el acceso del paciente a la información sobre su tratamiento.",
+            "Limitar la intervención del paciente en la planificación de su tratamiento.",
+            "Priorizar únicamente la aplicación de tratamientos farmacológicos estandarizados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "participación del paciente"
+        ],
+        "feedback": "El SSPA impulsa la participación activa de los pacientes mediante educación sanitaria y toma de decisiones compartidas, fortaleciendo su rol en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué elemento clave del SSPA facilita la coordinación entre Atención Primaria y Especializada en el tratamiento del dolor?",
+        "opciones": [
+            "Desarrollo de rutas asistenciales que integran ambos niveles.",
+            "Reducir la comunicación entre niveles asistenciales para agilizar procesos.",
+            "Limitar la derivación de casos de dolor crónico a unidades especializadas.",
+            "Centrar la atención en el dolor agudo sin intervención en el dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "coordinación asistencial"
+        ],
+        "feedback": "Las rutas asistenciales desarrolladas por el SSPA garantizan la coordinación y continuidad entre Atención Primaria y Especializada en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué intervención del SSPA mejora el manejo del dolor en el ámbito domiciliario?",
+        "opciones": [
+            "Incorporar programas de atención y seguimiento domiciliario.",
+            "Priorizar únicamente la atención hospitalaria en casos de dolor crónico.",
+            "Evitar la implementación de servicios de telemedicina en el hogar.",
+            "Restringir las visitas domiciliarias a pacientes en fases terminales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "atención domiciliaria"
+        ],
+        "feedback": "El SSPA facilita el manejo del dolor mediante programas de atención y seguimiento domiciliario, adaptados a las necesidades de los pacientes."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA permite optimizar el uso de recursos sanitarios en la atención al dolor?",
+        "opciones": [
+            "Reorganización de recursos en función de la complejidad del dolor.",
+            "Centralizar la atención en grandes hospitales sin involucrar Atención Primaria.",
+            "Limitar la atención del dolor crónico a consultas de urgencias.",
+            "Evitar la personalización de los tratamientos en niveles asistenciales bajos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "optimización de recursos"
+        ],
+        "feedback": "El SSPA optimiza el uso de recursos mediante su reorganización en función de la complejidad del dolor, mejorando la eficiencia del sistema."
+    },
+    {
+        "enunciado": "¿Qué papel desempeña la telemedicina en las estrategias del SSPA para el seguimiento del dolor crónico?",
+        "opciones": [
+            "Facilita el seguimiento remoto y reduce las barreras geográficas.",
+            "Limita el acceso de pacientes a la atención presencial en centros especializados.",
+            "Restringe el seguimiento a casos de dolor agudo postoperatorio.",
+            "Reduce la participación de los profesionales de Atención Primaria en la atención del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "telemedicina"
+        ],
+        "feedback": "La telemedicina permite el seguimiento remoto de pacientes con dolor crónico, facilitando el acceso a la atención y reduciendo barreras geográficas."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA facilita la identificación de necesidades no cubiertas en el manejo del dolor?",
+        "opciones": [
+            "Realización de estudios de evaluación y encuestas de satisfacción.",
+            "Centrar la atención del dolor únicamente en la intervención farmacológica.",
+            "Evitar la recopilación de datos relacionados con la experiencia del paciente.",
+            "Reducir el enfoque en el seguimiento continuo de los casos de dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "evaluación de necesidades"
+        ],
+        "feedback": "La realización de estudios y encuestas permite identificar necesidades no cubiertas en el manejo del dolor, mejorando las estrategias implementadas."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA mejora la equidad en la atención al dolor en poblaciones con difícil acceso a servicios sanitarios?",
+        "opciones": [
+            "Incorporar servicios de telemedicina y programas de atención comunitaria.",
+            "Priorizar únicamente el tratamiento del dolor en centros urbanos especializados.",
+            "Reducir la inversión en recursos para zonas rurales y alejadas.",
+            "Limitar el acceso a programas de seguimiento en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "equidad en atención"
+        ],
+        "feedback": "La telemedicina y los programas comunitarios facilitan el acceso equitativo a servicios de manejo del dolor, especialmente en áreas con difícil acceso."
+    },
+    {
+        "enunciado": "¿Qué intervención promueve el SSPA para garantizar una adecuada evaluación del dolor en pediatría?",
+        "opciones": [
+            "Adaptación de herramientas y escalas de evaluación específicas para niños.",
+            "Limitar la evaluación del dolor pediátrico a métodos subjetivos del profesional.",
+            "Priorizar la administración sistemática de opioides en niños con dolor.",
+            "Reducir el seguimiento del dolor pediátrico en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "evaluación pediátrica"
+        ],
+        "feedback": "El SSPA adapta herramientas y escalas específicas para la evaluación del dolor pediátrico, asegurando un manejo efectivo y adecuado a la edad."
+    },
+    {
+        "enunciado": "¿Qué objetivo persigue el SSPA al integrar la perspectiva biopsicosocial en la atención al dolor?",
+        "opciones": [
+            "Abordar los aspectos físicos, emocionales y sociales que influyen en el dolor.",
+            "Limitar la intervención a la administración de tratamientos farmacológicos.",
+            "Evitar la valoración de factores emocionales y sociales en pacientes con dolor.",
+            "Centrar el tratamiento únicamente en la intervención quirúrgica del dolor severo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "perspectiva biopsicosocial"
+        ],
+        "feedback": "El enfoque biopsicosocial permite abordar de manera integral los aspectos físicos, emocionales y sociales que impactan en la experiencia del dolor."
+    },
+    {
+        "enunciado": "¿Qué aspecto promueve el SSPA para mejorar la calidad asistencial en el tratamiento del dolor agudo?",
+        "opciones": [
+            "Implementación de protocolos basados en la evidencia clínica.",
+            "Reducir la intervención de equipos multidisciplinares en el dolor agudo.",
+            "Evitar la personalización del tratamiento para simplificar procesos.",
+            "Priorizar únicamente los tratamientos quirúrgicos en casos de dolor agudo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "calidad asistencial"
+        ],
+        "feedback": "La implementación de protocolos basados en la evidencia clínica mejora la calidad y efectividad en el tratamiento del dolor agudo en el SSPA."
+    },
+    {
+        "enunciado": "¿Qué estrategia implementa el SSPA para involucrar a los pacientes en la toma de decisiones sobre su tratamiento del dolor?",
+        "opciones": [
+            "Promover la toma de decisiones compartidas entre paciente y equipo médico.",
+            "Limitar la comunicación sobre opciones de tratamiento disponibles.",
+            "Reducir el acceso del paciente a información sobre su condición de dolor.",
+            "Centrar la planificación del tratamiento únicamente en el criterio del profesional."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "toma de decisiones compartida"
+        ],
+        "feedback": "El SSPA promueve la toma de decisiones compartidas, permitiendo al paciente participar activamente en la planificación de su tratamiento del dolor."
+    },
+    {
+        "enunciado": "¿Qué medida facilita el seguimiento longitudinal de los pacientes con dolor crónico dentro del SSPA?",
+        "opciones": [
+            "Integrar herramientas digitales para monitorización y registro continuo.",
+            "Centrar la atención del dolor crónico en intervenciones puntuales.",
+            "Evitar la implementación de sistemas de seguimiento sistemático.",
+            "Restringir el acceso a programas de monitorización a pacientes hospitalizados."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "seguimiento longitudinal"
+        ],
+        "feedback": "El SSPA integra herramientas digitales que facilitan la monitorización y el registro continuo, asegurando un seguimiento longitudinal del dolor crónico."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA fomenta el desarrollo de competencias profesionales en el manejo del dolor?",
+        "opciones": [
+            "Desarrollar programas formativos específicos y acreditados.",
+            "Limitar la formación a profesionales de unidades hospitalarias especializadas.",
+            "Reducir las actividades educativas relacionadas con el manejo del dolor.",
+            "Evitar la actualización de conocimientos en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "competencias profesionales"
+        ],
+        "feedback": "El SSPA promueve la formación continua a través de programas acreditados, desarrollando competencias profesionales en el manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué papel desempeñan los indicadores de calidad en las estrategias del SSPA para la atención al dolor?",
+        "opciones": [
+            "Permiten medir y mejorar la efectividad de las intervenciones implementadas.",
+            "Limitar la evaluación de calidad al juicio clínico subjetivo de los profesionales.",
+            "Evitar la recopilación de datos relacionados con la experiencia del paciente.",
+            "Reducir la implementación de indicadores a unidades hospitalarias únicamente."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "indicadores de calidad"
+        ],
+        "feedback": "Los indicadores de calidad permiten medir la efectividad de las intervenciones, facilitando la mejora continua en la atención al dolor dentro del SSPA."
+    },
+    {
+        "enunciado": "¿Qué recurso utiliza el SSPA para mejorar el acceso al manejo del dolor en pacientes con movilidad reducida?",
+        "opciones": [
+            "Programas de atención domiciliaria y seguimiento remoto.",
+            "Limitar el acceso a intervenciones terapéuticas a consultas hospitalarias.",
+            "Evitar la implementación de programas de atención adaptados.",
+            "Restringir la atención del dolor a pacientes con alta movilidad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "accesibilidad"
+        ],
+        "feedback": "El SSPA facilita el manejo del dolor en pacientes con movilidad reducida mediante programas de atención domiciliaria y seguimiento remoto."
+    },
+    {
+        "enunciado": "¿Qué acción del SSPA busca reducir la variabilidad en la práctica clínica del manejo del dolor?",
+        "opciones": [
+            "Aplicar guías y protocolos estandarizados en todos los niveles asistenciales.",
+            "Permitir que cada profesional aplique métodos basados únicamente en su criterio personal.",
+            "Restringir el uso de guías clínicas a unidades de referencia hospitalaria.",
+            "Evitar la implementación de protocolos en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "variabilidad clínica"
+        ],
+        "feedback": "La implementación de guías y protocolos estandarizados asegura una atención homogénea y de calidad en el manejo del dolor en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA fomenta la mejora en la atención al dolor en pacientes geriátricos?",
+        "opciones": [
+            "Desarrollar programas específicos de evaluación adaptada a las necesidades del paciente mayor.",
+            "Limitar la evaluación del dolor en personas mayores a la atención hospitalaria.",
+            "Evitar el uso de herramientas de valoración del dolor en geriatría.",
+            "Centrar la intervención en el dolor agudo, excluyendo el dolor crónico en mayores."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "geriatría"
+        ],
+        "feedback": "El SSPA fomenta la mejora en la atención al dolor en geriatría a través de programas específicos que adaptan la evaluación y el tratamiento a las necesidades del paciente mayor."
+    },
+    {
+        "enunciado": "¿Qué medida adopta el SSPA para garantizar la atención integral del dolor en el ámbito hospitalario?",
+        "opciones": [
+            "Crear unidades de dolor multidisciplinarias que trabajen de forma coordinada.",
+            "Centrar la atención del dolor únicamente en servicios quirúrgicos.",
+            "Reducir la intervención de especialistas no médicos en el manejo del dolor.",
+            "Limitar las unidades del dolor a hospitales de referencia, sin alcance general."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "ámbito hospitalario"
+        ],
+        "feedback": "El SSPA garantiza la atención integral del dolor en el ámbito hospitalario mediante la creación de unidades multidisciplinarias coordinadas que abordan todas las dimensiones del dolor."
+    },
+    {
+        "enunciado": "¿Cuál es el enfoque del SSPA para promover la educación sanitaria en pacientes con dolor crónico?",
+        "opciones": [
+            "Facilitar información y formación que fomente la autogestión del dolor.",
+            "Evitar la implicación del paciente en su proceso de tratamiento.",
+            "Limitar la educación sanitaria únicamente a pacientes en cuidados paliativos.",
+            "Reducir el tiempo dedicado a la educación en consultas médicas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "educación sanitaria"
+        ],
+        "feedback": "El SSPA promueve la educación sanitaria como herramienta clave para fomentar la autogestión del dolor crónico y la participación activa del paciente."
+    },
+    {
+        "enunciado": "¿Qué acción estratégica del SSPA contribuye a mejorar la eficacia de los tratamientos no farmacológicos del dolor?",
+        "opciones": [
+            "Integrar terapias físicas y psicológicas en los planes de manejo del dolor.",
+            "Centrar exclusivamente las intervenciones en tratamientos farmacológicos.",
+            "Limitar el acceso a terapias no farmacológicas en Atención Primaria.",
+            "Evitar la colaboración entre especialistas en terapias complementarias."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "tratamientos no farmacológicos"
+        ],
+        "feedback": "El SSPA mejora la eficacia del manejo del dolor al integrar terapias físicas y psicológicas, ofreciendo un enfoque complementario a los tratamientos farmacológicos."
+    },
+    {
+        "enunciado": "¿Qué intervención facilita el SSPA para asegurar la atención al dolor en pacientes con barreras de comunicación?",
+        "opciones": [
+            "Implementar herramientas de evaluación adaptadas, como escalas visuales y gestuales.",
+            "Limitar la evaluación del dolor a métodos verbales únicamente.",
+            "Evitar la atención especializada en pacientes con dificultades de comunicación.",
+            "Reducir el seguimiento del dolor en población con barreras idiomáticas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "barreras de comunicación"
+        ],
+        "feedback": "El SSPA implementa herramientas adaptadas, como escalas visuales y gestuales, para evaluar el dolor en pacientes con barreras de comunicación."
+    },
+    {
+        "enunciado": "¿Qué recurso impulsa el SSPA para optimizar la atención al dolor en pacientes en situación paliativa?",
+        "opciones": [
+            "Desarrollar unidades de cuidados paliativos con manejo específico del dolor.",
+            "Restringir el manejo del dolor paliativo únicamente a Atención Primaria.",
+            "Evitar la intervención de equipos multidisciplinarios en cuidados paliativos.",
+            "Limitar el acceso a cuidados paliativos en fases avanzadas de la enfermedad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "cuidados paliativos"
+        ],
+        "feedback": "El SSPA optimiza la atención al dolor en cuidados paliativos mediante unidades especializadas y un abordaje integral del manejo del dolor."
+    },
+    {
+        "enunciado": "¿Qué medida implementa el SSPA para garantizar la actualización constante en el manejo del dolor entre profesionales?",
+        "opciones": [
+            "Programas de formación continuada y acreditada en todos los niveles asistenciales.",
+            "Centrar la formación únicamente en médicos especialistas en dolor crónico.",
+            "Reducir el acceso a recursos formativos en Atención Primaria.",
+            "Evitar la actualización de protocolos de manejo del dolor."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "formación continua"
+        ],
+        "feedback": "El SSPA garantiza la actualización de los profesionales mediante programas de formación continuada y acreditada en el manejo del dolor en todos los niveles asistenciales."
+    },
+    {
+        "enunciado": "¿Qué herramienta del SSPA mejora la coordinación entre los diferentes niveles asistenciales en el manejo del dolor?",
+        "opciones": [
+            "El desarrollo de rutas asistenciales consensuadas entre Primaria y Especializada.",
+            "Restringir la comunicación entre niveles para simplificar la atención.",
+            "Priorizar únicamente la intervención hospitalaria en casos de dolor crónico.",
+            "Evitar la derivación de casos de dolor entre niveles asistenciales."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "coordinación asistencial"
+        ],
+        "feedback": "El desarrollo de rutas asistenciales mejora la coordinación entre Atención Primaria y Especializada, optimizando la atención al dolor en todos los niveles."
+    },
+    {
+        "enunciado": "¿Qué estrategia del SSPA garantiza la atención al dolor en pacientes con enfermedades crónicas complejas?",
+        "opciones": [
+            "Integrar unidades de referencia con equipos multidisciplinarios especializados.",
+            "Centrar la atención en tratamientos agudos, sin continuidad en casos crónicos.",
+            "Evitar la derivación de pacientes a unidades especializadas en dolor.",
+            "Limitar la intervención del manejo del dolor a consultas de urgencias."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema64",
+            "dolor",
+            "enfermedades crónicas"
+        ],
+        "feedback": "El SSPA garantiza la atención al dolor en casos complejos mediante unidades de referencia que cuentan con equipos multidisciplinarios especializados."
+    }
+]
