@@ -1,0 +1,527 @@
+[
+    {
+        "enunciado": "¿Cuál es el principal objetivo del Código de Conducta en el uso de las TIC para profesionales públicos de la Junta de Andalucía?",
+        "opciones": [
+            "Facilitar el uso adecuado de las TIC y proteger la información",
+            "Asegurar el acceso público a todos los sistemas administrativos",
+            "Incrementar el uso de software libre en la administración",
+            "Garantizar la eliminación de datos obsoletos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El Código de Conducta busca facilitar un uso adecuado y seguro de las TIC para proteger derechos y mejorar los servicios públicos."
+    },
+    {
+        "enunciado": "Según la Guía de Ciberseguridad del SAS, ¿qué acción es crítica para prevenir un ataque de phishing?",
+        "opciones": [
+            "Utilizar siempre la misma contraseña para todos los servicios",
+            "Abrir correos electrónicos sospechosos con precaución",
+            "Evitar hacer clic en enlaces o descargar archivos adjuntos sospechosos",
+            "Compartir información confidencial con usuarios verificados"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Evitar hacer clic en enlaces sospechosos o descargar adjuntos reduce el riesgo de phishing."
+    },
+    {
+        "enunciado": "¿Qué principio NO se encuentra en el Código de Conducta para el uso de las TIC?",
+        "opciones": [
+            "Proximidad a la ciudadanía",
+            "Eficiencia en el uso de recursos públicos",
+            "Privacidad de los correos electrónicos personales",
+            "Accesibilidad de tecnologías y contenidos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El Código de Conducta no aborda la privacidad de correos electrónicos personales, sino los principios relacionados con las TIC en el ámbito laboral."
+    },
+    {
+        "enunciado": "En el contexto del SAS, ¿cómo deben los profesionales gestionar sus credenciales de acceso?",
+        "opciones": [
+            "Revelándolas solo a compañeros de confianza",
+            "Cambiándolas regularmente y notificando cualquier uso no autorizado",
+            "Escribiéndolas en lugares visibles para recordarlas fácilmente",
+            "Usando contraseñas simples para facilitar su uso diario"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Las credenciales deben cambiarse periódicamente y notificarse cualquier incidencia para garantizar la seguridad."
+    },
+    {
+        "enunciado": "¿Qué herramientas deben utilizar los profesionales del SAS para compartir archivos grandes?",
+        "opciones": [
+            "Cuentas personales de almacenamiento en la nube",
+            "Herramientas corporativas de intercambio de archivos",
+            "Cualquier aplicación de mensajería instantánea",
+            "Correos electrónicos con destinatarios múltiples"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Las herramientas corporativas están diseñadas para manejar archivos grandes de manera segura."
+    },
+    {
+        "enunciado": "¿Qué medida está prohibida según el Código de Conducta para proteger la información en papel?",
+        "opciones": [
+            "Dejar documentos sobre las mesas de trabajo al finalizar la jornada",
+            "Utilizar papel reciclado para documentos internos",
+            "Destruir documentos confidenciales en trituradoras autorizadas",
+            "Guardar documentos en armarios cerrados bajo llave"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El Código de Conducta prohíbe dejar documentos expuestos para proteger la confidencialidad."
+    },
+    {
+        "enunciado": "En relación al correo corporativo del SAS, ¿qué conducta está expresamente prohibida?",
+        "opciones": [
+            "Usar la cuenta corporativa para fines personales",
+            "Acceder al correo desde dispositivos móviles",
+            "Configurar respuestas automáticas en caso de ausencia",
+            "Usar el campo de 'copia oculta' para múltiples destinatarios"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El uso del correo corporativo está limitado exclusivamente a fines profesionales."
+    },
+    {
+        "enunciado": "Según el Código de Conducta, ¿qué se debe hacer si un profesional sospecha que su contraseña ha sido comprometida?",
+        "opciones": [
+            "Esperar a recibir una notificación oficial para cambiarla",
+            "Cambiar la contraseña inmediatamente y notificar la incidencia",
+            "Bloquear su cuenta temporalmente",
+            "No utilizar la cuenta hasta que se resuelva el problema"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Ante una sospecha de compromiso de la contraseña, se debe actuar inmediatamente cambiándola y notificando la situación."
+    },
+    {
+        "enunciado": "En el contexto del SAS, ¿qué uso es aceptable para dispositivos de almacenamiento extraíble como USB?",
+        "opciones": [
+            "Almacenamiento permanente de información sensible",
+            "Transporte temporal de archivos siguiendo las medidas de seguridad establecidas",
+            "Copia de seguridad de documentos personales",
+            "Instalación de software no corporativo"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Los dispositivos de almacenamiento extraíble deben usarse exclusivamente para transporte temporal bajo medidas de seguridad."
+    },
+    {
+        "enunciado": "¿Qué normativa regula el ámbito del Código de Conducta en la Administración de la Junta de Andalucía?",
+        "opciones": [
+            "Ley 39/2015 de Procedimiento Administrativo Común",
+            "Ley 9/2007 de Administración de la Junta de Andalucía",
+            "Reglamento General de Protección de Datos (RGPD)",
+            "Todas las anteriores"
+        ],
+        "correcta": 3,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El Código de Conducta se basa en normativa administrativa, autonómica y de protección de datos."
+    },
+    {
+        "enunciado": "¿Qué acción debe realizarse al finalizar el uso de una aplicación o sistema en el SAS?",
+        "opciones": [
+            "Cerrar la ventana de trabajo",
+            "Cerrar sesión correctamente mediante las funcionalidades disponibles",
+            "Bloquear el equipo pero dejar la sesión abierta",
+            "Nada, ya que la sesión se cierra automáticamente"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El cierre correcto de la sesión evita accesos no autorizados y es obligatorio según las directrices."
+    },
+    {
+        "enunciado": "¿Qué principio debe guiar el uso de Internet por parte de los profesionales del SAS?",
+        "opciones": [
+            "Acceder libremente a cualquier contenido",
+            "Navegar exclusivamente para fines profesionales",
+            "Usar Internet para fines recreativos durante los descansos",
+            "Evitar cualquier monitorización de la navegación"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El uso de Internet debe estar orientado exclusivamente a tareas profesionales, evitando usos personales."
+    },
+    {
+        "enunciado": "¿Qué acción está terminantemente prohibida con respecto a los certificados electrónicos?",
+        "opciones": [
+            "Instalar certificados de terceros",
+            "Utilizar certificados en una tarjeta criptográfica",
+            "Actualizar los certificados según las directrices",
+            "Almacenar certificados en dispositivos corporativos"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Los certificados electrónicos son personales y no deben ser instalados ni utilizados por terceros."
+    },
+    {
+        "enunciado": "¿Qué comportamiento está sancionado según el Código de Conducta del SAS?",
+        "opciones": [
+            "Usar contraseñas débiles",
+            "Compartir imágenes de dependencias administrativas sin autorización",
+            "Acceder a sistemas de información desde dispositivos móviles",
+            "Solicitar soporte técnico fuera del horario laboral"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "La captura y difusión no autorizada de imágenes está prohibida por el Código de Conducta."
+    },
+    {
+        "enunciado": "Según el Código de Conducta, ¿cómo deben gestionarse las incidencias de seguridad?",
+        "opciones": [
+            "Esperar a que sean detectadas por el departamento TIC",
+            "Notificar inmediatamente a través de los canales establecidos",
+            "Resolverlas personalmente si son menores",
+            "Ignorarlas si no afectan directamente al profesional"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Las incidencias de seguridad deben notificarse de inmediato para minimizar riesgos."
+    },
+    {
+        "enunciado": "¿Qué es una VPN en el contexto de las TIC?",
+        "opciones": [
+            "Un tipo de red local utilizada en oficinas",
+            "Una red privada virtual que permite conexiones seguras a través de Internet",
+            "Un software de protección contra malware",
+            "Un protocolo de acceso remoto exclusivo del SAS"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Una VPN es una red privada virtual que asegura la conexión a través de Internet, protegiendo los datos."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes opciones es un ejemplo de hardware TIC asignado al puesto de trabajo en el SAS?",
+        "opciones": [
+            "Un navegador web",
+            "Una impresora de red",
+            "Un sistema operativo",
+            "Un software de gestión documental"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Una impresora de red es un ejemplo de hardware proporcionado para el trabajo diario."
+    },
+    {
+        "enunciado": "¿Cuál es una ventaja principal del uso de una VPN en el teletrabajo?",
+        "opciones": [
+            "Acceso más rápido a Internet",
+            "Mayor seguridad en la transmisión de datos",
+            "Eliminación de restricciones de ancho de banda",
+            "Facilita el acceso anónimo a cualquier sitio web"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "La VPN protege los datos transmitidos al trabajar desde ubicaciones remotas, esencial en el teletrabajo seguro."
+    },
+    {
+        "enunciado": "En el SAS, ¿qué equipo está generalmente asociado con el concepto de puesto de trabajo digital?",
+        "opciones": [
+            "Un ordenador personal con software corporativo",
+            "Un servidor dedicado a cada usuario",
+            "Un teléfono móvil personal del usuario",
+            "Cualquier dispositivo conectado a Internet"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El puesto de trabajo digital incluye equipos como ordenadores y software específicamente configurados para las funciones del SAS."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre VPN es incorrecta?",
+        "opciones": [
+            "Encripta la información transmitida entre el usuario y la red",
+            "Permite el acceso seguro a recursos internos de una organización",
+            "Siempre garantiza un aumento significativo en la velocidad de conexión",
+            "Es útil para proteger conexiones desde redes públicas"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Una VPN no mejora la velocidad de conexión; su propósito principal es la seguridad de los datos."
+    },
+    {
+        "enunciado": "En el Código de Conducta del SAS, ¿qué se especifica respecto al uso de hardware TIC asignado?",
+        "opciones": [
+            "Puede ser utilizado para actividades personales fuera del horario laboral",
+            "Debe utilizarse exclusivamente para funciones profesionales",
+            "Se permite su modificación si mejora la productividad",
+            "Puede ser compartido con familiares para uso educativo"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El hardware asignado debe utilizarse exclusivamente para tareas profesionales según el Código de Conducta."
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes medidas NO es una recomendación de ciberseguridad básica en el SAS?",
+        "opciones": [
+            "Usar contraseñas robustas y cambiarlas regularmente",
+            "Acceder a cuentas corporativas desde redes públicas sin VPN",
+            "Evitar el uso de software no autorizado",
+            "Notificar cualquier incidencia de seguridad inmediatamente"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Acceder desde redes públicas sin usar una VPN es una práctica insegura y no está recomendada."
+    },
+    {
+        "enunciado": "¿Qué componente de hardware se considera crítico para proteger los datos en equipos del SAS?",
+        "opciones": [
+            "Un antivirus instalado",
+            "Un cortafuegos físico o integrado",
+            "Un teclado mecánico",
+            "Una pantalla de alta resolución"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El cortafuegos es esencial para proteger los equipos del SAS frente a amenazas externas."
+    },
+    {
+        "enunciado": "En el SAS, ¿qué acción está prohibida al utilizar dispositivos de red asignados?",
+        "opciones": [
+            "Configurar el dispositivo según las políticas de seguridad",
+            "Compartir el dispositivo con personas no autorizadas",
+            "Acceder a sitios web corporativos desde el dispositivo",
+            "Actualizar el firmware del dispositivo con autorización"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Compartir dispositivos de red con personas no autorizadas compromete la seguridad corporativa y está prohibido."
+    },
+    {
+        "enunciado": "¿Cuál es la función principal de un cortafuegos en una red corporativa como la del SAS?",
+        "opciones": [
+            "Aumentar la velocidad de conexión",
+            "Proporcionar almacenamiento adicional",
+            "Bloquear accesos no autorizados a la red",
+            "Facilitar la compartición de archivos grandes"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El cortafuegos protege contra accesos no autorizados, actuando como una barrera de seguridad para la red."
+    },
+    {
+        "enunciado": "¿Qué es el SARAC en el contexto del teletrabajo del SAS?",
+        "opciones": [
+            "Un sistema de almacenamiento en la nube",
+            "Un Servicio de Acceso Remoto a Aplicaciones",
+            "Un software de gestión de recursos humanos",
+            "Un programa de protección antivirus"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El SARAC es un Servicio de Acceso Remoto a Aplicaciones que facilita el acceso seguro y sencillo a herramientas del SAS."
+    },
+    {
+        "enunciado": "¿Cuál es una ventaja principal de utilizar el SARAC?",
+        "opciones": [
+            "Permite acceder a cualquier aplicación instalada en el ordenador personal",
+            "Proporciona acceso seguro y con menos complejidades técnicas",
+            "Elimina la necesidad de autenticación para acceder a las aplicaciones",
+            "Es un servicio exclusivo para usuarios avanzados del SAS"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El SARAC destaca por ser una modalidad segura y con menos complejidades técnicas para acceder a las aplicaciones del SAS."
+    },
+    {
+        "enunciado": "¿Qué tipo de aplicaciones están disponibles actualmente en SARAC?",
+        "opciones": [
+            "Solo aplicaciones relacionadas con los módulos Clínicos",
+            "Aplicaciones de los módulos Clínicos, de Gestión, Soporte y SIGLO",
+            "Aplicaciones exclusivamente administrativas",
+            "Herramientas externas y aplicaciones de terceros"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El SARAC incluye aplicaciones de los módulos Clínicos, de Gestión, herramientas de Soporte y el ecosistema SIGLO."
+    },
+    {
+        "enunciado": "¿Qué se debe hacer antes de teletrabajar si se necesita acceder a una aplicación específica?",
+        "opciones": [
+            "Consultar si la aplicación está disponible en SARAC",
+            "Configurar un acceso directo en el escritorio",
+            "Contactar con soporte técnico para obtener acceso especial",
+            "Actualizar el equipo a la última versión del sistema operativo"
+        ],
+        "correcta": 0,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Antes de teletrabajar, es necesario verificar si la aplicación está disponible en SARAC para facilitar el acceso remoto."
+    },
+    {
+        "enunciado": "¿Qué ecosistema de herramientas forma parte del conjunto de aplicaciones del SARAC?",
+        "opciones": [
+            "Sistema de Gestión de Recursos Humanos (SGRH)",
+            "Ecosistema SIGLO",
+            "Plataforma de Trabajo Digital (PTD)",
+            "Entorno Virtual de Aprendizaje (EVA)"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El ecosistema SIGLO forma parte del conjunto de herramientas disponibles en SARAC."
+    },
+    {
+        "enunciado": "Según el Código de Conducta del SAS, ¿bajo qué condiciones pueden los profesionales acceder a información clínica de un paciente?",
+        "opciones": [
+            "Siempre que tengan acceso técnico habilitado",
+            "Solo cuando sea necesario para el desempeño de sus funciones",
+            "Con el consentimiento verbal del paciente",
+            "Siempre que pertenezcan al mismo centro donde se trate al paciente"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El acceso a información clínica está estrictamente limitado a lo necesario para el desempeño de las funciones profesionales asignadas."
+    },
+    {
+        "enunciado": "¿Qué principio ético debe guiar el acceso a la información clínica en el SAS?",
+        "opciones": [
+            "La accesibilidad universal de los datos",
+            "El derecho a la privacidad de los pacientes",
+            "La priorización del rendimiento laboral",
+            "La disponibilidad inmediata de datos para cualquier profesional"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El derecho a la privacidad de los pacientes es un principio clave para el acceso a información clínica."
+    },
+    {
+        "enunciado": "¿Qué acción está prohibida en relación con la información clínica según el Código de Conducta del SAS?",
+        "opciones": [
+            "Consultar datos de un paciente bajo su responsabilidad clínica",
+            "Compartir información clínica con otro profesional para una consulta médica",
+            "Acceder a datos de un paciente sin justificación profesional",
+            "Solicitar acceso a registros de pacientes específicos"
+        ],
+        "correcta": 2,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Acceder sin justificación profesional a datos clínicos está estrictamente prohibido según el Código de Conducta."
+    },
+    {
+        "enunciado": "¿Qué debe hacer un profesional del SAS si detecta un acceso no autorizado a información clínica?",
+        "opciones": [
+            "Ignorar el incidente si no afecta directamente a su trabajo",
+            "Notificar la incidencia de seguridad a través de los canales establecidos",
+            "Modificar la información afectada para proteger al paciente",
+            "Contactar directamente con el paciente para informarle"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "Es obligatorio notificar cualquier acceso no autorizado a información clínica siguiendo los procedimientos establecidos."
+    },
+    {
+        "enunciado": "Según el Código de Conducta, ¿qué implica el deber de confidencialidad sobre la información clínica?",
+        "opciones": [
+            "No compartir información clínica con colegas en ninguna circunstancia",
+            "Proteger la información frente a accesos, usos o divulgaciones no autorizados",
+            "Eliminar la información clínica tras finalizar su uso",
+            "Hacer públicas las conclusiones de los tratamientos para fines educativos"
+        ],
+        "correcta": 1,
+        "categorias": [
+            "tema10",
+            "TIC"
+        ],
+        "feedback": "El deber de confidencialidad implica proteger la información clínica frente a cualquier acceso o uso no autorizado."
+    }
+]

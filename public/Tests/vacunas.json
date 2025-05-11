@@ -1,0 +1,1636 @@
+[
+    {
+  "pregunta": "Según el calendario de vacunaciones de Andalucía 2025, ¿cuándo deben recibir nirsevimab los recién nacidos que nacen fuera de la temporada del virus respiratorio sincitial (VRS)?",
+  "opciones": [
+    "En las primeras 12 horas de vida",
+    "En la semana 27 de gestación",
+    "A partir de la última semana de septiembre",
+    "Durante el segundo semestre de 2025"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "anticuerpo monoclonal"],
+  "feedback": "Los recién nacidos nacidos entre el 1 de abril y el 30 de septiembre deben recibir nirsevimab (Beyfortus®) a partir de la última semana de septiembre, ya que esta pauta busca protegerlos al inicio de la temporada de VRS (octubre-marzo)."
+},
+{
+  "pregunta": "¿Qué vacuna debe administrarse a los adolescentes de 14 años que no hayan recibido Tdpa desde los 10 años según el calendario andaluz 2025?",
+  "opciones": [
+    "Td",
+    "DTPa-VPI",
+    "Tdpa",
+    "MenACWY"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "La vacuna Tdpa (Boostrix®) se administra a los 14 años a quienes no hayan recibido esta vacuna desde los 10 años. A partir de marzo de 2025, se implementará esta medida también como rescate entre los 15 y 18 años si no han recibido Td o Tdpa."
+},
+{
+  "pregunta": "¿Qué personas deben recibir una dosis única de la vacuna conjugada frente al neumococo 20-valente (VNC20) según el calendario de 2025?",
+  "opciones": [
+    "Todos los mayores de 70 años",
+    "Los nacidos entre 1949 y 1965 que no hayan recibido VNC13, VNC15 ni VNC20",
+    "Los menores de 2 años con factores de riesgo",
+    "Todas las personas con antecedentes de neumonía"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "El calendario de 2025 recomienda una dosis de VNC20 a quienes nacieron entre 1949 y 1965, si no han recibido antes ninguna vacuna neumocócica conjugada (ni VNC13, ni VNC15, ni VNC20)."
+},
+{
+  "pregunta": "Según el calendario 2025, ¿qué combinación de vacunas debe recibir un niño de 6 años si fue vacunado con esquema 2+1?",
+  "opciones": [
+    "Tdpa-VPI",
+    "Tdpa",
+    "VPI sola",
+    "DTPa-VPI"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "infancia"],
+  "feedback": "Para niños nacidos desde 2017 que recibieron un esquema 2+1, se administra DTPa-VPI (Tetraxim®) a los 6 años como refuerzo."
+},
+{
+  "pregunta": "¿Qué vacuna está indicada durante cualquier trimestre del embarazo en la campaña anual de vacunación según la instrucción de 2025?",
+  "opciones": [
+    "Tdpa",
+    "Hepatitis B",
+    "Gripe",
+    "Triple vírica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "La vacuna frente a la gripe se recomienda durante cualquier trimestre del embarazo o en los primeros 6 meses del puerperio, en el marco de la campaña anual."
+},
+{
+  "pregunta": "¿Qué medida preventiva debe aplicarse a un recién nacido de madre con antígeno de superficie de hepatitis B (AgHBs+) positivo?",
+  "opciones": [
+    "Vacuna frente a hepatitis B en las primeras 48 horas",
+    "Solo inmunoglobulina anti-HB",
+    "Vacuna e inmunoglobulina anti-HB en las primeras 12-24 horas",
+    "Vacuna a los 2 meses junto con hexavalente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "neonatos"],
+  "feedback": "En neonatos de madre AgHBs+, se recomienda administrar en las primeras 24 horas (idealmente en las primeras 12) tanto la vacuna de hepatitis B como inmunoglobulina anti-HB."
+},
+{
+  "pregunta": "¿Cuál es la indicación de la vacuna frente al herpes zóster (Shingrix®) en Andalucía 2025?",
+  "opciones": [
+    "Dosis única a los 60 años",
+    "Dos dosis en mayores de 70 años con factores de riesgo",
+    "Dos dosis a los nacidos en 1960, con rescate para los nacidos en 1959 no vacunados",
+    "Una dosis anual para mayores de 65 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "Shingrix® se administra en dos dosis a personas nacidas en 1960 (a los 65 años) y como rescate a los nacidos en 1959 no vacunados."
+},
+{
+  "pregunta": "¿Qué vacuna se recomienda como rescate a los 12 años si no hay antecedentes de enfermedad ni de vacunación?",
+  "opciones": [
+    "Triple vírica",
+    "Varicela",
+    "VPH",
+    "Meningococo ACWY"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "Se programa una estrategia de rescate frente a la varicela a los 12 años para quienes no presentan antecedentes de vacunación ni enfermedad."
+},
+{
+  "pregunta": "¿Cuál es la edad objetivo para la vacunación sistemática frente al meningococo B (MenB) en Andalucía 2025?",
+  "opciones": [
+    "Desde el nacimiento",
+    "A partir de los 2 meses",
+    "A partir del 1 de octubre de 2021",
+    "Solo en adolescentes con factores de riesgo"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "La vacunación frente a MenB (Bexsero®) está incluida para todos los nacidos desde el 1 de octubre de 2021 en adelante."
+},
+{
+  "pregunta": "¿Qué vacuna requiere una pauta de rescate en personas nacidas después de 1978 sin historia de vacunación ni sarampión documentado?",
+  "opciones": [
+    "Td",
+    "TV (triple vírica)",
+    "VPH",
+    "Rotavirus"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adultos jóvenes"],
+  "feedback": "La vacuna triple vírica (sarampión, rubeola y parotiditis) se administra como rescate en personas menores de 65 años, preferentemente nacidas desde 1978, sin constancia de vacunación ni antecedentes de sarampión."
+},
+{
+  "pregunta": "¿Qué vacuna se administra a los 4 meses de edad según el calendario 2025?",
+  "opciones": [
+    "MenB",
+    "VPH",
+    "MenACWY (Nimenrix®)",
+    "Rotavirus"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "infancia"],
+  "feedback": "La vacuna frente al meningococo ACWY (Nimenrix®) se administra a los 4 meses de edad según el calendario vacunal de Andalucía 2025."
+},
+{
+  "pregunta": "¿Qué pauta se recomienda para la vacunación frente al virus del papiloma humano (VPH) según el calendario andaluz?",
+  "opciones": [
+    "Tres dosis a los 11 años solo en niñas",
+    "Una dosis a los 12 años en ambos sexos y rescate en adolescentes hasta los 18",
+    "Dosis única solo para chicas de 13 años",
+    "Una dosis cada 10 años desde los 12"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "La pauta consiste en una dosis a chicas y chicos de 12 años, y como rescate para adolescentes de 13 a 18 años que no hayan recibido ninguna dosis."
+},
+{
+  "pregunta": "¿Cuál es la vacuna indicada en adultos a los 65 años que recibieron 5 dosis de Td en la infancia?",
+  "opciones": [
+    "Tdpa",
+    "Td",
+    "VNC13",
+    "MenACWY"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "Se recomienda una dosis de Td (Diftavax®) a los 65 años en adultos que ya recibieron las 5 dosis durante la infancia y adolescencia."
+},
+{
+  "pregunta": "¿Qué vacuna se incorporará en el segundo semestre de 2025 según el documento?",
+  "opciones": [
+    "Rotavirus",
+    "Herpes zóster",
+    "Varicela",
+    "VPH"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "nuevas incorporaciones"],
+  "feedback": "La vacunación frente al rotavirus está prevista para iniciarse en el segundo semestre de 2025, aunque aún está pendiente de asignación de preparado comercial."
+},
+{
+  "pregunta": "¿Qué vacuna debe administrarse preferentemente en la semana 27 o 28 de gestación?",
+  "opciones": [
+    "Gripe",
+    "COVID-19",
+    "Tdpa",
+    "VPH"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "La vacuna Tdpa (Boostrix®) debe administrarse en cada embarazo a partir de la semana 27, preferentemente en la 27 o 28, para maximizar la protección neonatal frente a la tosferina."
+},
+{
+  "pregunta": "¿Qué vacuna debe administrarse a los 12 meses en Andalucía según el calendario 2025?",
+  "opciones": [
+    "MenB",
+    "MenACWY (MenQuadfi®)",
+    "Triple vírica",
+    "Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "infancia"],
+  "feedback": "A los 12 meses se administra una dosis de MenACWY (MenQuadfi®), diferente de la que se aplica a los 4 meses (Nimenrix®)."
+},
+
+{
+  "pregunta": "¿Qué vacuna frente al meningococo ACWY está indicada a los 12 meses de edad según el calendario 2025?",
+  "opciones": [
+    "MenQuadfi®",
+    "Nimenrix®",
+    "Bexsero®",
+    "Menveo®"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "A los 12 meses se administra MenACWY con el preparado MenQuadfi®. A los 4 meses se utiliza Nimenrix®, diferenciando los preparados por edad."
+},
+{
+  "pregunta": "¿Cuál es el intervalo mínimo recomendado entre dosis para la vacuna frente a varicela en la estrategia de rescate?",
+  "opciones": [
+    "2 semanas",
+    "4 semanas",
+    "8 semanas",
+    "12 semanas"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "varicela"],
+  "feedback": "El calendario establece un intervalo mínimo de 4 semanas entre dosis, aunque se recomienda preferiblemente un intervalo de 8 semanas."
+},
+{
+  "pregunta": "¿Qué vacuna se administra a los adolescentes de 12 años junto con una estrategia de rescate entre los 13 y 18 años?",
+  "opciones": [
+    "VPH",
+    "Varicela",
+    "MenACWY",
+    "Tdpa"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "MenACWY se administra a los 12 años con rescate para quienes no hayan recibido ninguna dosis a partir de los 10 años."
+},
+{
+  "pregunta": "¿Qué pauta debe seguir una persona no vacunada contra hepatitis B hasta los 18 años?",
+  "opciones": [
+    "2 dosis con intervalo de 1 mes",
+    "3 dosis: 0, 1 y 6 meses",
+    "Una dosis anual durante tres años",
+    "2 dosis al nacimiento y al mes"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "La pauta estándar para no vacunados hasta los 18 años es de 3 dosis en los meses 0, 1 y 6."
+},
+{
+  "pregunta": "¿Cuál es la edad de inicio para administrar VPH sistemáticamente en Andalucía 2025?",
+  "opciones": [
+    "11 años",
+    "12 años",
+    "13 años",
+    "14 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "Se administra una dosis de Gardasil 9® a chicos y chicas de 12 años y como rescate hasta los 18 años si no han recibido ninguna dosis."
+},
+{
+  "pregunta": "¿Qué vacuna requiere verificación del estado vacunal previo en adultos antes de iniciar pauta de primovacunación?",
+  "opciones": [
+    "COVID-19",
+    "Gripe",
+    "Td",
+    "Varicela"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos"],
+  "feedback": "Antes de iniciar la primovacunación con Td en adultos, se debe verificar el estado vacunal previo para no repetir dosis innecesarias."
+},
+{
+  "pregunta": "¿Qué vacuna se recomienda durante los primeros 6 meses del puerperio?",
+  "opciones": [
+    "Triple vírica",
+    "Tdpa",
+    "Gripe",
+    "MenACWY"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo y puerperio"],
+  "feedback": "La vacuna de la gripe puede administrarse tanto en cualquier trimestre del embarazo como en los primeros 6 meses del puerperio."
+},
+{
+  "pregunta": "¿Cuál es el esquema estándar de vacunación hexavalente para lactantes según la instrucción 2025?",
+  "opciones": [
+    "0, 1 y 6 meses",
+    "2, 4 y 6 meses",
+    "2, 4 y 11 meses",
+    "1, 3 y 5 meses"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "lactantes"],
+  "feedback": "La pauta estándar de la vacuna hexavalente es 2, 4 y 11 meses, incluyendo protección frente a difteria, tétanos, tosferina, polio, Haemophilus influenzae tipo b y hepatitis B."
+},
+{
+  "pregunta": "¿En qué momento debe administrarse nirsevimab a los recién nacidos que nacen durante la temporada de VRS?",
+  "opciones": [
+    "En la semana 28 de gestación",
+    "A los 2 meses de vida",
+    "Lo antes posible tras el nacimiento",
+    "En la última semana de septiembre"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "anticuerpo monoclonal"],
+  "feedback": "Los recién nacidos entre octubre y marzo deben recibir nirsevimab (Beyfortus®) lo antes posible tras nacer, para protegerles contra el VRS."
+},
+{
+  "pregunta": "¿Qué preparado se usará para la vacuna de rotavirus en 2025?",
+  "opciones": [
+    "Rotateq®",
+    "Rotarix®",
+    "Está pendiente de asignación",
+    "No está incluida en el calendario"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "rotavirus"],
+  "feedback": "El calendario indica que la vacuna contra el rotavirus será incorporada en el segundo semestre de 2025, pero aún está pendiente la asignación del preparado comercial."
+},
+{
+  "pregunta": "¿Qué preparados de MenACWY están autorizados según el calendario andaluz de vacunación?",
+  "opciones": [
+    "Menveo®, MenHibrix® y Bexsero®",
+    "Nimenrix®, MenQuadfi® y Menveo®",
+    "Prevenar 13®, Nimenrix® y MenQuadfi®",
+    "Solo Nimenrix® y MenQuadfi®"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "Nimenrix®, MenQuadfi® y Menveo® son los preparados autorizados y mencionados para MenACWY en el calendario 2025, usados según grupo de edad."
+},
+{
+  "pregunta": "¿Qué vacuna frente al COVID-19 se recomienda durante la gestación o puerperio en 2025?",
+  "opciones": [
+    "Una dosis anual a partir de los 12 años",
+    "Una dosis durante cualquier trimestre o en los 6 meses posteriores al parto",
+    "Dos dosis separadas por 6 meses",
+    "Refuerzo con vacuna bivalente únicamente en tercer trimestre"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "COVID-19"],
+  "feedback": "La vacuna frente a COVID-19 puede administrarse en cualquier trimestre del embarazo o durante los primeros 6 meses del puerperio."
+},
+{
+  "pregunta": "¿Qué cohortes están incluidas en la campaña de VNC20 a partir del 1 de marzo de 2025?",
+  "opciones": [
+    "1949, 1950, 1960",
+    "1955, 1965, 1970",
+    "1949, 1950, 1965",
+    "1950, 1960, 1975"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "neumococo"],
+  "feedback": "La campaña incluye a los nacidos en 1949, 1950 y 1965. Estas cohortes comenzarán la vacunación con VNC20 a partir del 1 de marzo de 2025."
+},
+{
+  "pregunta": "¿Qué vacuna tiene contraindicación en embarazadas e inmunodeprimidos según el calendario andaluz?",
+  "opciones": [
+    "Tdpa",
+    "Triple vírica",
+    "VNC20",
+    "COVID-19"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "contraindicaciones"],
+  "feedback": "La vacuna triple vírica está contraindicada en embarazadas e inmunodeprimidos, por tratarse de una vacuna atenuada de virus vivos."
+},
+{
+  "pregunta": "¿Cuál es la indicación de rescate con Tdpa entre 15 y 18 años según la actualización de 2025?",
+  "opciones": [
+    "Para quienes no hayan recibido ninguna dosis de DTPa antes de los 6 años",
+    "Para todos los adolescentes, como dosis de refuerzo universal",
+    "Para quienes no hayan recibido Td ni Tdpa desde los 10 años",
+    "Solo si han recibido una sola dosis de Td"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "El rescate con Tdpa entre los 15 y 18 años está indicado en adolescentes que no hayan recibido Td ni Tdpa desde los 10 años. Esta medida se aplica desde marzo de 2025."
+},
+{
+  "pregunta": "¿Qué vacuna debe administrarse a los nacidos antes de 2017 si no han recibido la dosis de los 6 años?",
+  "opciones": [
+    "DTPa-VPI",
+    "Tdpa",
+    "Td",
+    "Solo polio inactivada (VPI)"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquemas anteriores"],
+  "feedback": "Los nacidos antes de 2017, con esquema 3+1, deben recibir una dosis de Tdpa a los 6 años si aún no la han recibido, pero sin componente de polio."
+},
+{
+  "pregunta": "¿Qué vacuna se administra como rescate en adolescentes si no han recibido ninguna dosis de VPH?",
+  "opciones": [
+    "Dos dosis con intervalo de 6 meses",
+    "Una dosis entre los 13 y 18 años",
+    "Dosis única solo en chicas",
+    "Tres dosis a los 14 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "El calendario establece una única dosis como rescate en adolescentes de 13 a 18 años de ambos sexos si no han recibido ninguna dosis de vacuna frente al VPH."
+},
+{
+  "pregunta": "¿Qué vacuna se administra como refuerzo a los 6 años en el calendario de 2025 si se ha seguido un esquema 2+1?",
+  "opciones": [
+    "Tdpa",
+    "DTPa-VPI",
+    "Td",
+    "MenACWY"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "infancia"],
+  "feedback": "Para los nacidos desde 2017 que recibieron esquema 2+1, se administra DTPa-VPI (Tetraxim®) como dosis de refuerzo a los 6 años."
+},
+{
+  "pregunta": "¿Cuál es la vacuna indicada a partir de los 60 años durante la campaña anual según la instrucción de 2025?",
+  "opciones": [
+    "COVID-19",
+    "Herpes zóster",
+    "Tdpa",
+    "Gripe"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "La vacunación frente a la gripe se recomienda anualmente a todas las personas de 60 años o más durante la campaña estacional."
+},
+{
+  "pregunta": "¿Qué vacuna se administra en las primeras 12 a 24 horas junto a inmunoglobulina si la madre es AgHBs+?",
+  "opciones": [
+    "Hexavalente",
+    "Hepatitis B",
+    "DTPa-VPI",
+    "Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "En hijos de madres AgHBs+, la primera dosis de vacuna de hepatitis B junto a inmunoglobulina anti-HB debe administrarse preferentemente en las primeras 12 horas de vida."
+},
+{
+  "pregunta": "¿Cuál es la vacuna que se programa como estrategia de rescate universal a los 12 años?",
+  "opciones": [
+    "VPH",
+    "MenACWY",
+    "Varicela",
+    "Triple vírica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "infancia tardía"],
+  "feedback": "A los 12 años se realiza una estrategia de rescate frente a la varicela en personas sin antecedentes de vacunación ni enfermedad."
+},
+{
+  "pregunta": "¿Qué pauta se recomienda para herpes zóster en la cohorte de 1960?",
+  "opciones": [
+    "Una dosis en marzo de 2025",
+    "Dos dosis con intervalo mínimo de 2 meses",
+    "Refuerzo anual durante tres años",
+    "Dosis única solo si hay antecedente de varicela"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "La pauta consiste en dos dosis de Shingrix® separadas al menos 2 meses, y se inicia en marzo de 2025 para la cohorte nacida en 1960."
+},
+{
+  "pregunta": "¿Qué preparados comerciales se emplean en el calendario para la vacuna triple vírica?",
+  "opciones": [
+    "Priorix®",
+    "TVVax®",
+    "M-R-V-VaxPro®",
+    "Varivax®"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "triple vírica"],
+  "feedback": "M-R-V-VaxPro® es el preparado utilizado en Andalucía para la triple vírica, que cubre sarampión, rubeola y parotiditis."
+},
+{
+  "pregunta": "¿En qué casos debe realizarse serología frente a varicela antes de vacunar en adultos?",
+  "opciones": [
+    "Siempre que se vacune fuera de calendario",
+    "Si no hay antecedentes claros de enfermedad ni vacunación",
+    "Si fue vacunado con triple vírica previamente",
+    "Solo si tiene más de 40 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "serología"],
+  "feedback": "Si un adulto no tiene antecedentes documentados de enfermedad ni vacunación frente a varicela, se debe realizar serología de IgG antes de vacunar."
+},
+{
+  "pregunta": "¿Qué preparado se utiliza para Tdpa en el calendario andaluz?",
+  "opciones": [
+    "Tetraxim®",
+    "Boostrix®",
+    "Diftavax®",
+    "Vaxelis®"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "preparados comerciales"],
+  "feedback": "Boostrix® es el preparado de elección para la vacuna Tdpa (tétanos, difteria, tosferina) en las dosis recomendadas a partir de los 10 años."
+},
+{
+  "pregunta": "¿Cuál es la indicación de vacunación frente al COVID-19 en mayores de 60 años según el calendario de 2025?",
+  "opciones": [
+    "Dos dosis en cada campaña",
+    "Dosis única anual",
+    "Solo si tienen patologías crónicas",
+    "Cada dos años con vacuna bivalente"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "COVID-19"],
+  "feedback": "Se recomienda una dosis anual frente a COVID-19 a todas las personas de 60 años o más, sin necesidad de factores de riesgo adicionales."
+},
+{
+  "pregunta": "¿Qué vacuna incluye el preparado Tetraxim® utilizado en el calendario 2025?",
+  "opciones": [
+    "DTPa-Td-VPI",
+    "Tdpa-VPI",
+    "DTPa-VPI",
+    "Hexavalente sin HepB"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "preparados comerciales"],
+  "feedback": "Tetraxim® es un preparado que combina DTPa (difteria, tétanos, tosferina acelular) y VPI (polio inactivada)."
+},
+{
+  "pregunta": "¿Qué preparados se reconocen como válidos para la vacuna MenACWY a partir de los 10 años en el calendario andaluz?",
+  "opciones": [
+    "Solo MenQuadfi®",
+    "Solo Nimenrix®",
+    "Menveo®, Nimenrix®, MenQuadfi®",
+    "Solo Menveo® si se administró antes de los 10 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "A partir de los 10 años, se consideran válidos los preparados Menveo®, Nimenrix® y MenQuadfi® si se ha recibido al menos una dosis."
+},
+{
+  "pregunta": "¿Qué vacuna está específicamente contraindicada en inmunodeprimidos además de en embarazadas?",
+  "opciones": [
+    "Tdpa",
+    "Gripe inactivada",
+    "Triple vírica",
+    "VPH"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "contraindicaciones"],
+  "feedback": "La triple vírica está contraindicada en personas inmunodeprimidas por ser una vacuna de virus vivos atenuados."
+},
+{
+  "pregunta": "¿Cuál es el objetivo de iniciar la vacunación de nirsevimab en la última semana de septiembre en recién nacidos?",
+  "opciones": [
+    "Completar la serie antes de los 6 meses",
+    "Ajustarse al calendario hexavalente",
+    "Proteger al inicio de la temporada de VRS",
+    "Coincidir con la dosis de gripe"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "VRS"],
+  "feedback": "Se inicia en la última semana de septiembre para asegurar la protección de los recién nacidos antes del inicio de la temporada de circulación del VRS (octubre-marzo)."
+},
+{
+  "pregunta": "¿Qué componente no está incluido en la vacuna hexavalente administrada en el primer año de vida?",
+  "opciones": [
+    "Hepatitis B",
+    "Poliomielitis",
+    "Meningococo B",
+    "Haemophilus influenzae tipo b"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "hexavalente"],
+  "feedback": "La vacuna hexavalente protege frente a hepatitis B, difteria, tétanos, tosferina, polio y Hib, pero no frente a meningococo B, que se administra por separado."
+},
+{
+  "pregunta": "¿Qué vacuna no debe administrarse en mujeres embarazadas?",
+  "opciones": [
+    "Tdpa",
+    "Gripe",
+    "Triple vírica",
+    "COVID-19"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "La triple vírica está contraindicada durante el embarazo por ser una vacuna de virus vivos atenuados."
+},
+{
+  "pregunta": "¿Cuál es la edad mínima para recibir la vacuna frente al meningococo ACWY con MenQuadfi®?",
+  "opciones": [
+    "2 meses",
+    "4 meses",
+    "12 meses",
+    "10 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "MenQuadfi® se administra a los 12 meses y también a los 12 años. A los 4 meses se usa Nimenrix®."
+},
+{
+  "pregunta": "¿Cuál es la indicación específica para administrar MenACWY a adolescentes entre 13 y 18 años?",
+  "opciones": [
+    "Rescate si no se ha recibido ninguna dosis desde los 10 años",
+    "Dosis adicional tras los 12 años",
+    "Solo en caso de brotes escolares",
+    "En adolescentes con enfermedades crónicas"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "El rescate se realiza en adolescentes de 13 a 18 años que no hayan recibido al menos una dosis de MenACWY a partir de los 10 años."
+},
+{
+  "pregunta": "¿Qué vacuna se aplica de forma universal entre los 6 y 59 meses en la campaña anual de Andalucía?",
+  "opciones": [
+    "COVID-19",
+    "Gripe",
+    "MenB",
+    "Varicela"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "campañas"],
+  "feedback": "Durante la campaña anual de gripe, se recomienda una dosis para todos los niños y niñas de entre 6 y 59 meses de edad."
+},
+{
+  "pregunta": "¿Qué estrategia se aplica para la vacunación de hepatitis B en recién nacidos con madre AgHBs desconocido?",
+  "opciones": [
+    "Esperar resultados antes de vacunar",
+    "Administrar solo inmunoglobulina",
+    "Administrar vacuna si no se dispone del resultado en 24h",
+    "No administrar nada hasta los 2 meses"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "Si no se puede disponer del resultado en las primeras 24 horas, se administra igualmente la vacuna de hepatitis B para prevenir el contagio neonatal."
+},
+{
+  "pregunta": "¿Qué intervalo mínimo debe haber entre las dos dosis de vacuna frente a herpes zóster?",
+  "opciones": [
+    "1 mes",
+    "2 meses",
+    "4 meses",
+    "6 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "Las dos dosis de Shingrix® deben administrarse con al menos 2 meses de diferencia."
+},
+{
+  "pregunta": "¿Qué vacuna requiere una estrategia de rescate en menores de 65 años sin antecedentes de vacunación o enfermedad?",
+  "opciones": [
+    "MenACWY",
+    "VPH",
+    "Varicela",
+    "Td"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos jóvenes"],
+  "feedback": "Se recomienda vacunación de rescate frente a varicela en personas menores de 65 años sin antecedentes de enfermedad ni vacunación."
+},
+{
+  "pregunta": "¿Qué pauta se sigue para la vacunación frente a hepatitis B en adolescentes no vacunados previamente?",
+  "opciones": [
+    "0 y 1 mes",
+    "0, 2 y 6 meses",
+    "0, 1 y 6 meses",
+    "2 dosis separadas por 4 semanas"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "La pauta estándar en adolescentes no vacunados es 0, 1 y 6 meses."
+},
+{
+  "pregunta": "¿Cuál es la vacuna indicada a chicas y chicos de 12 años frente al virus del papiloma humano?",
+  "opciones": [
+    "Gardasil 9®",
+    "Cervarix®",
+    "Gardasil® (bivalente)",
+    "VPHrix®"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "Gardasil 9® es el preparado utilizado en el calendario para chicos y chicas de 12 años."
+},
+{
+  "pregunta": "¿Cuál es la recomendación para la vacunación frente a Tdpa durante el embarazo según el calendario 2025?",
+  "opciones": [
+    "A partir de la semana 20",
+    "Preferentemente en la semana 32",
+    "En cualquier trimestre",
+    "Preferentemente en semanas 27 o 28"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "Aunque se puede administrar a partir de la semana 27, se recomienda preferentemente en las semanas 27 o 28 para lograr mayor transferencia de anticuerpos al feto."
+},
+{
+  "pregunta": "¿Qué vacuna puede administrarse simultáneamente con la vacuna frente al VPH sin interferir inmunológicamente?",
+  "opciones": [
+    "Varicela",
+    "MenACWY",
+    "Gripe",
+    "Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "compatibilidades"],
+  "feedback": "La vacuna MenACWY puede administrarse al mismo tiempo que la de VPH sin riesgo de interferencia inmunológica."
+},
+{
+  "pregunta": "¿Qué población puede iniciar vacunación frente a rotavirus en 2025 según el calendario?",
+  "opciones": [
+    "Todos los nacidos en 2024",
+    "Solo prematuros extremos",
+    "Lactantes del segundo semestre de 2025",
+    "Niños entre 1 y 2 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "rotavirus"],
+  "feedback": "La primovacunación frente a rotavirus comenzará en el segundo semestre de 2025; aún está pendiente la selección del preparado."
+},
+{
+  "pregunta": "¿Qué criterio se utiliza para administrar una dosis de Td a los 65 años?",
+  "opciones": [
+    "Haber completado 3 dosis durante la infancia",
+    "Tener una patología crónica pulmonar",
+    "Haber recibido 5 dosis en la infancia y adolescencia",
+    "Ser cuidador de persona inmunodeprimida"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "Se recomienda una dosis de Td a los 65 años en personas que hayan recibido ya 5 dosis durante infancia y adolescencia."
+},
+{
+  "pregunta": "¿Qué vacuna se considera obligatoria para todos los recién nacidos según el calendario 2025?",
+  "opciones": [
+    "MenB",
+    "Hepatitis B",
+    "Varicela",
+    "Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "neonatos"],
+  "feedback": "La vacuna frente a la hepatitis B se incluye dentro de la hexavalente, administrada desde los 2 meses; en neonatos con madre AgHBs+, se administra al nacimiento."
+},
+{
+  "pregunta": "¿A qué edades se administra la vacuna hexavalente en el calendario sistemático andaluz 2025?",
+  "opciones": [
+    "0, 2 y 6 meses",
+    "2, 4 y 11 meses",
+    "2, 4 y 6 meses",
+    "2, 6 y 12 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "hexavalente"],
+  "feedback": "La vacuna hexavalente se administra a los 2, 4 y 11 meses de edad como parte del esquema infantil estándar."
+},
+{
+  "pregunta": "¿En qué semanas del embarazo se recomienda preferentemente la vacuna Tdpa (Boostrix®)?",
+  "opciones": [
+    "22-24 semanas",
+    "25-26 semanas",
+    "27-28 semanas",
+    "31-32 semanas"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "La vacuna Tdpa se administra en cada embarazo a partir de la semana 27, recomendándose preferentemente en las semanas 27 o 28."
+},
+{
+  "pregunta": "¿En qué momento se administra la vacuna frente a meningococo ACWY con Nimenrix®?",
+  "opciones": [
+    "A los 12 meses",
+    "A los 4 meses",
+    "A los 6 meses",
+    "A los 2 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "meningococo"],
+  "feedback": "Nimenrix® se administra a los 4 meses de edad como parte del esquema frente a meningococo ACWY."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna frente al meningococo B (Bexsero®)?",
+  "opciones": [
+    "2, 4 y 12 meses",
+    "2, 6 y 11 meses",
+    "A partir de 2 meses según pauta autonómica",
+    "No está incluida en 2025"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "meningococo B"],
+  "feedback": "La vacuna frente a MenB está incluida para nacidos desde 1 de octubre de 2021, iniciándose habitualmente desde los 2 meses según el calendario de Andalucía."
+},
+{
+  "pregunta": "¿En qué momento se administra la vacuna MenACWY (MenQuadfi®) en el segundo año de vida?",
+  "opciones": [
+    "A los 4 meses",
+    "A los 6 meses",
+    "A los 9 meses",
+    "A los 12 meses"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "meningococo ACWY"],
+  "feedback": "MenQuadfi® se administra a los 12 meses de edad como parte del calendario infantil frente a meningococo ACWY."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna frente al virus del papiloma humano (VPH) en Andalucía?",
+  "opciones": [
+    "11 años",
+    "12 años",
+    "13 años",
+    "14 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "La vacuna frente al VPH (Gardasil 9®) se administra a los 12 años de edad, tanto a chicas como a chicos."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna DTPa-VPI (Tetraxim®) como refuerzo en niños con pauta 2+1?",
+  "opciones": [
+    "4 años",
+    "5 años",
+    "6 años",
+    "7 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "infancia"],
+  "feedback": "Se administra una dosis de DTPa-VPI (Tetraxim®) a los 6 años en niños que recibieron previamente una pauta 2+1 (2, 4 y 11 meses)."
+},
+{
+  "pregunta": "¿A qué edad se aplica la dosis de Tdpa como rescate si no se ha recibido desde los 10 años?",
+  "opciones": [
+    "12 años",
+    "14 años",
+    "16 años",
+    "18 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "Una dosis de Tdpa se administra a los 14 años si no se ha recibido desde los 10. Además, hay rescate entre los 15 y 18 años si no se ha recibido Td ni Tdpa."
+},
+{
+  "pregunta": "¿En qué edades se aplica la pauta de 3 dosis de hepatitis B en personas no vacunadas hasta 18 años?",
+  "opciones": [
+    "0, 2 y 6 meses",
+    "0, 1 y 6 meses",
+    "2, 4 y 6 meses",
+    "1, 2 y 5 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "La pauta estándar en personas no vacunadas con anterioridad hasta los 18 años es de 3 dosis en 0, 1 y 6 meses."
+},
+{
+  "pregunta": "¿Cuándo se administra la vacuna de rescate frente a la varicela según el calendario 2025?",
+  "opciones": [
+    "6 años",
+    "9 años",
+    "10 años",
+    "12 años"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "varicela"],
+  "feedback": "La estrategia programada de rescate frente a la varicela se realiza a los 12 años de edad si no hay antecedentes de vacunación ni enfermedad."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna de la gripe en población pediátrica según campaña anual?",
+  "opciones": [
+    "0 a 12 meses",
+    "2 a 5 años",
+    "6 a 59 meses",
+    "12 a 36 meses"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "gripe"],
+  "feedback": "La vacunación anual frente a gripe se recomienda en todos los niños y niñas de 6 a 59 meses de edad (hasta casi 5 años)."
+},
+{
+  "pregunta": "¿A qué edad se administra una dosis de Td a adultos que han recibido 5 dosis en la infancia?",
+  "opciones": [
+    "60 años",
+    "65 años",
+    "70 años",
+    "75 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "A los 65 años se recomienda una dosis de Td (Diftavax®) en personas que recibieron correctamente las 5 dosis durante su infancia y adolescencia."
+},
+{
+  "pregunta": "¿Cuándo se administra la vacuna frente al herpes zóster (Shingrix®) en la cohorte objetivo del calendario 2025?",
+  "opciones": [
+    "60 años",
+    "63 años",
+    "65 años",
+    "67 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "A los 65 años (nacidos en 1960) se administra la vacuna frente a herpes zóster, con pauta de dos dosis separadas por al menos 2 meses."
+},
+{
+  "pregunta": "¿En qué edades se inicia la vacunación frente al rotavirus según lo previsto para 2025?",
+  "opciones": [
+    "Desde el nacimiento",
+    "A los 2 meses",
+    "En el segundo semestre de 2025, según preparado asignado",
+    "A los 4 y 6 meses exclusivamente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "rotavirus"],
+  "feedback": "La vacunación frente a rotavirus comenzará en el segundo semestre de 2025, en cuanto se asigne el preparado comercial concreto."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna triple vírica en personas sin historia de vacunación ni sarampión documentado?",
+  "opciones": [
+    "Antes de los 5 años",
+    "12 meses y 3 años",
+    "Menores de 65 años, preferentemente nacidos desde 1978",
+    "Solo a los 14 años como rescate"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "triple vírica"],
+  "feedback": "La vacunación de rescate con triple vírica está dirigida a personas menores de 65 años sin evidencia de vacunación ni enfermedad, preferentemente nacidas desde 1978."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna MenACWY (MenQuadfi®) en adolescentes según el calendario andaluz?",
+  "opciones": [
+    "10 años",
+    "11 años",
+    "12 años",
+    "13 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "meningococo ACWY"],
+  "feedback": "La vacuna MenACWY (MenQuadfi®) se administra a los 12 años y también se establece una estrategia de rescate hasta los 18 si no se recibió desde los 10 años."
+},
+{
+  "pregunta": "¿En qué momento debe administrarse la vacuna Tdpa como dosis de refuerzo en adolescentes?",
+  "opciones": [
+    "A los 12 años",
+    "A los 13 años",
+    "A los 14 años",
+    "A los 16 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "La dosis de refuerzo de Tdpa se administra a los 14 años si no ha sido recibida previamente desde los 10 años."
+},
+{
+  "pregunta": "¿Cuándo se recomienda administrar la vacuna de la gripe en mujeres embarazadas?",
+  "opciones": [
+    "Solo en primer trimestre",
+    "Solo en tercer trimestre",
+    "Durante cualquier trimestre del embarazo",
+    "Solo después del parto"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "embarazo"],
+  "feedback": "La vacuna frente a gripe puede administrarse durante cualquier trimestre del embarazo o en los primeros 6 meses del puerperio."
+},
+{
+  "pregunta": "¿A qué edad debe aplicarse la vacuna frente a la gripe en personas mayores según el calendario de 2025?",
+  "opciones": [
+    "A partir de los 50 años",
+    "A partir de los 55 años",
+    "A partir de los 60 años",
+    "A partir de los 65 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "La vacuna antigripal está recomendada a todas las personas de 60 años o más durante la campaña anual de vacunación."
+},
+{
+  "pregunta": "¿A qué edad se inicia la vacunación frente a hepatitis B en recién nacidos de madre AgHBs+?",
+  "opciones": [
+    "Antes de las 48 horas",
+    "Durante la primera semana",
+    "En las primeras 24 horas (idealmente 12)",
+    "A los 2 meses con la hexavalente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "hepatitis B"],
+  "feedback": "En neonatos de madre AgHBs+, la primera dosis se administra idealmente en las primeras 12 horas de vida, junto con inmunoglobulina anti-HB."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna frente a varicela como rescate sistemático?",
+  "opciones": [
+    "9 años",
+    "10 años",
+    "12 años",
+    "14 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "varicela"],
+  "feedback": "La estrategia de rescate frente a varicela está dirigida a los 12 años en personas sin antecedentes documentados de enfermedad ni vacunación."
+},
+{
+  "pregunta": "¿Cuándo se inicia la vacunación frente a rotavirus según el calendario 2025?",
+  "opciones": [
+    "En el primer trimestre del año",
+    "En el segundo semestre del año",
+    "Al nacimiento",
+    "A partir del primer año de vida"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "rotavirus"],
+  "feedback": "El inicio de la vacunación frente a rotavirus está previsto para el segundo semestre de 2025, una vez se haya asignado el preparado comercial."
+},
+{
+  "pregunta": "¿Qué edades comprende la campaña de vacunación anual de gripe para población infantil?",
+  "opciones": [
+    "2 a 5 años",
+    "6 a 59 meses",
+    "12 a 48 meses",
+    "6 a 36 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "campañas estacionales"],
+  "feedback": "Todos los niños y niñas entre 6 y 59 meses deben recibir la vacuna de la gripe durante la campaña anual, según el calendario 2025."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna frente al herpes zóster en el calendario 2025?",
+  "opciones": [
+    "60 años",
+    "62 años",
+    "65 años",
+    "68 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "La vacuna frente a herpes zóster (Shingrix®) se administra a los 65 años como parte del calendario sistemático, en pauta de dos dosis."
+},
+{
+  "pregunta": "¿Cuándo debe administrarse nirsevimab a recién nacidos durante la temporada del VRS?",
+  "opciones": [
+    "En la primera semana de vida",
+    "Lo antes posible tras el nacimiento",
+    "A los 28 días de vida",
+    "Durante el primer control pediátrico"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "anticuerpos monoclonales"],
+  "feedback": "Durante la temporada de VRS (octubre a marzo), nirsevimab se administra lo antes posible tras el nacimiento para ofrecer protección temprana."
+},
+{
+  "pregunta": "¿En qué momento se inicia la administración de nirsevimab a recién nacidos nacidos entre abril y septiembre?",
+  "opciones": [
+    "Al nacimiento",
+    "A los 2 meses",
+    "En la última semana de septiembre",
+    "Durante el primer mes de vida"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "anticuerpos monoclonales"],
+  "feedback": "Los nacidos entre abril y septiembre deben recibir nirsevimab a partir de la última semana de septiembre, justo antes del inicio de la temporada de VRS."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna Tdpa si no se recibió entre los 10 y 14 años?",
+  "opciones": [
+    "Entre 13 y 15 años",
+    "Entre 15 y 18 años",
+    "Solo a los 18 años",
+    "Después de los 20 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "adolescentes"],
+  "feedback": "El calendario incluye un rescate de Tdpa para adolescentes de entre 15 y 18 años que no hayan recibido Td ni Tdpa a partir de los 10 años."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna triple vírica como pauta de rescate en adultos sin antecedentes?",
+  "opciones": [
+    "18 a 30 años",
+    "Menores de 65 años, nacidos desde 1978",
+    "Únicamente menores de 40 años",
+    "Mayores de 50 años sin vacunación"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "triple vírica"],
+  "feedback": "Se recomienda la vacuna triple vírica en pauta de rescate a menores de 65 años, preferentemente nacidos desde 1978, sin historia de vacunación ni sarampión."
+},
+{
+  "pregunta": "¿A qué edad se administra la vacuna Td en adultos con primovacunación incompleta?",
+  "opciones": [
+    "A los 50 años",
+    "A los 55 años",
+    "A cualquier edad si se comprueba pauta incompleta",
+    "Solo a los 65 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos"],
+  "feedback": "Si se detecta una pauta de primovacunación incompleta con Td en adultos, debe completarse a cualquier edad hasta alcanzar las 5 dosis totales recomendadas."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna VNC20 a la población adulta según el calendario 2025?",
+  "opciones": [
+    "Mayores de 70 años",
+    "Nacidos entre 1950 y 1970",
+    "Nacidos entre 1949 y 1965",
+    "Solo mayores de 75 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "neumococo"],
+  "feedback": "La vacuna conjugada frente a neumococo 20-valente (VNC20) se administra a personas nacidas entre 1949 y 1965 que no hayan recibido ninguna vacuna conjugada previa."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna hexavalente en el calendario infantil andaluz?",
+  "opciones": [
+    "2, 4 y 6 meses",
+    "0, 1 y 6 meses",
+    "2, 4 y 11 meses",
+    "3, 5 y 12 meses"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "hexavalente"],
+  "feedback": "La vacuna hexavalente se administra en tres dosis a los 2, 4 y 11 meses de edad según el calendario sistemático de Andalucía."
+},
+{
+  "pregunta": "¿Cuándo se administra la vacuna frente a meningococo ACWY con Nimenrix®?",
+  "opciones": [
+    "2 meses",
+    "4 meses",
+    "6 meses",
+    "12 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "meningococo ACWY"],
+  "feedback": "La vacuna MenACWY con Nimenrix® se administra a los 4 meses de edad como parte del esquema sistemático."
+},
+{
+  "pregunta": "¿A qué edad se aplica la segunda dosis de varicela en la estrategia de rescate?",
+  "opciones": [
+    "4 semanas después de la primera",
+    "6 semanas después de la primera",
+    "8 semanas después de la primera",
+    "12 semanas después de la primera"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "varicela"],
+  "feedback": "La pauta de rescate de la vacuna frente a varicela es de dos dosis separadas por un mínimo de 4 semanas, preferiblemente 8 semanas."
+},
+{
+  "pregunta": "¿En qué momento se administra la primera dosis de nirsevimab a los nacidos entre abril y septiembre?",
+  "opciones": [
+    "A los 2 meses",
+    "Al nacimiento",
+    "Última semana de septiembre",
+    "A las 6 semanas"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "VRS"],
+  "feedback": "Los nacidos entre abril y septiembre deben recibir nirsevimab (Beyfortus®) en la última semana de septiembre, justo antes del inicio de la temporada del VRS."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna frente a difteria, tétanos, tosferina y polio (DTPa-VPI) como refuerzo?",
+  "opciones": [
+    "4 años",
+    "6 años",
+    "8 años",
+    "9 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "DTPa-VPI"],
+  "feedback": "DTPa-VPI (Tetraxim®) se administra como dosis de refuerzo a los 6 años para quienes recibieron el esquema 2+1."
+},
+{
+  "pregunta": "¿A qué edad se administra una dosis de Tdpa en personas nacidas antes de 2017 con esquema 3+1?",
+  "opciones": [
+    "6 años",
+    "7 años",
+    "9 años",
+    "10 años"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "esquema 3+1"],
+  "feedback": "Quienes siguieron esquema 3+1 y no han recibido la dosis correspondiente, deben recibir Tdpa (sin polio) a los 6 años."
+},
+{
+  "pregunta": "¿Cuándo debe administrarse la vacuna frente al VPH en la población general según el calendario 2025?",
+  "opciones": [
+    "11 años",
+    "12 años",
+    "13 años",
+    "14 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "VPH"],
+  "feedback": "Gardasil 9® se administra a los 12 años en chicos y chicas, con rescate si no se ha administrado hasta los 18 años."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna triple vírica en pauta de rescate si no hay antecedentes?",
+  "opciones": [
+    "Menores de 40 años",
+    "Entre 20 y 50 años",
+    "Preferentemente nacidos desde 1978, menores de 65 años",
+    "Solo hasta los 30 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "triple vírica"],
+  "feedback": "La vacuna triple vírica debe administrarse en personas menores de 65 años, preferentemente nacidas desde 1978, sin constancia de vacunación o enfermedad."
+},
+{
+  "pregunta": "¿A qué edad se administra una dosis de Tdpa si no se recibió desde los 10 años?",
+  "opciones": [
+    "14 años",
+    "13 años",
+    "11 años",
+    "16 años"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "Tdpa"],
+  "feedback": "Se administra una dosis de Tdpa a los 14 años si no se ha recibido desde los 10 años, con rescate hasta los 18."
+},
+{
+  "pregunta": "¿A qué edad se recomienda la vacuna frente a herpes zóster según la cohorte de 1960?",
+  "opciones": [
+    "60 años",
+    "62 años",
+    "65 años",
+    "67 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "herpes zóster"],
+  "feedback": "La vacuna frente al herpes zóster (Shingrix®) se recomienda a los 65 años (cohorte de 1960), en dos dosis separadas al menos 2 meses."
+},
+{
+  "pregunta": "¿A qué edad se administra la segunda dosis de MenACWY en la infancia?",
+  "opciones": [
+    "12 meses",
+    "18 meses",
+    "24 meses",
+    "36 meses"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "meningococo ACWY"],
+  "feedback": "La segunda dosis de vacuna MenACWY se administra a los 12 meses con MenQuadfi®, después de una primera dosis a los 4 meses."
+},
+{
+  "pregunta": "¿En qué edades se administra la vacuna frente al neumococo 20-valente (VNC20) en adultos según el calendario 2025?",
+  "opciones": [
+    "Nacidos entre 1949 y 1965",
+    "Mayores de 70 años",
+    "Nacidos antes de 1950",
+    "Todos los mayores de 60 años"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "neumococo"],
+  "feedback": "La vacuna VNC20 se administra en personas nacidas entre 1949 y 1965 que no hayan recibido previamente ninguna vacuna conjugada antineumocócica."
+},
+{
+  "pregunta": "¿Cuándo se administra la vacuna frente a la gripe en lactantes según el calendario 2025?",
+  "opciones": [
+    "A los 2 meses",
+    "A los 4 meses",
+    "Desde los 6 meses",
+    "A los 12 meses"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "gripe"],
+  "feedback": "La vacunación frente a gripe se recomienda desde los 6 meses hasta los 59 meses de edad."
+},
+{
+  "pregunta": "¿A qué edad se recomienda administrar la vacuna Td como dosis adicional en adultos correctamente vacunados en la infancia?",
+  "opciones": [
+    "60 años",
+    "62 años",
+    "65 años",
+    "70 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "adultos mayores"],
+  "feedback": "En adultos que recibieron correctamente las 5 dosis durante infancia y adolescencia, se recomienda una dosis adicional de Td a los 65 años."
+},
+{
+  "pregunta": "¿Cuándo se administra la vacuna frente a COVID-19 en embarazadas o puérperas?",
+  "opciones": [
+    "En el segundo trimestre exclusivamente",
+    "Solo durante el puerperio",
+    "En cualquier trimestre del embarazo o en los primeros 6 meses del puerperio",
+    "Solo si hay factores de riesgo"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "COVID-19"],
+  "feedback": "La vacuna frente a COVID-19 está recomendada durante cualquier trimestre del embarazo y durante los primeros 6 meses del puerperio."
+},
+{
+  "pregunta": "¿Qué debe hacerse si un adolescente de 16 años no ha recibido ninguna dosis de Td ni Tdpa desde los 10 años?",
+  "opciones": [
+    "Administrar una dosis de Td",
+    "Administrar una dosis de Tdpa como rescate",
+    "Esperar hasta los 18 años",
+    "Completar 3 dosis de Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "El calendario andaluz establece un rescate con Tdpa entre los 15 y 18 años en adolescentes que no han recibido ninguna dosis de Td ni Tdpa desde los 10 años."
+},
+{
+  "pregunta": "¿Qué debe hacerse si una persona adulta no tiene documentación de haber recibido vacunación antitetánica previa?",
+  "opciones": [
+    "Una dosis única de Td",
+    "Dos dosis de Tdpa",
+    "Verificar serología y administrar Td si es negativa",
+    "Completar pauta de primovacunación con Td hasta 5 dosis"
+  ],
+  "correcta": 3,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "En adultos sin constancia vacunal, debe completarse la pauta de 5 dosis de Td según calendario de rescate."
+},
+{
+  "pregunta": "Un niño de 6 años recibió esquema 3+1 y no tiene registrada la dosis de refuerzo, ¿qué vacuna se le debe administrar?",
+  "opciones": [
+    "DTPa-VPI",
+    "Tdpa con polio",
+    "Tdpa sin polio",
+    "Hexavalente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "Para los nacidos antes de 2017 con esquema 3+1, se administra una dosis de Tdpa (Boostrix®) sin polio a los 6 años si no la han recibido."
+},
+{
+  "pregunta": "Una persona nacida en 1962 nunca recibió vacuna antineumocócica conjugada. ¿Qué pauta se recomienda?",
+  "opciones": [
+    "Una dosis de VNC13",
+    "Una dosis de VNC20",
+    "Dos dosis separadas de VNC13 y VPP23",
+    "No está indicada ninguna pauta"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "La vacuna VNC20 (Prevenar 20®) se administra a nacidos entre 1949 y 1965 que no hayan recibido VNC13, VNC15 ni VNC20."
+},
+{
+  "pregunta": "Un adolescente de 14 años no ha recibido ninguna dosis de MenACWY. ¿Qué se debe hacer según el calendario?",
+  "opciones": [
+    "Administrar una dosis de MenQuadfi®",
+    "Iniciar pauta de dos dosis",
+    "No es necesario vacunar a esa edad",
+    "Administrar MenB como sustituto"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "En adolescentes de 13 a 18 años sin ninguna dosis de MenACWY desde los 10 años, se administra una única dosis de rescate con MenQuadfi®."
+},
+{
+  "pregunta": "Un adolescente de 17 años no ha recibido ninguna dosis frente al VPH. ¿Qué se debe hacer?",
+  "opciones": [
+    "Administrar dos dosis con intervalo de 6 meses",
+    "Administrar una dosis única de Gardasil 9®",
+    "Esperar hasta los 18 años para vacunar",
+    "Aplicar tres dosis en 0, 1 y 6 meses"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "El calendario indica rescate con una dosis de VPH a chicos y chicas entre 13 y 18 años si no han recibido ninguna dosis previa."
+},
+{
+  "pregunta": "¿Qué se debe hacer si un adulto no vacunado frente a hepatitis B requiere protección rápida?",
+  "opciones": [
+    "Administrar dos dosis juntas",
+    "Administrar vacuna e inmunoglobulina",
+    "Iniciar pauta 0, 1 y 6 meses",
+    "Vacunar con hexavalente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "La pauta de vacunación frente a hepatitis B en no vacunados es de 3 dosis: 0, 1 y 6 meses."
+},
+{
+  "pregunta": "¿Qué se debe hacer si un adulto sin antecedentes de varicela ni vacunación tiene IgG negativa?",
+  "opciones": [
+    "Administrar una dosis única de varicela",
+    "Administrar dos dosis separadas por 4 semanas",
+    "No vacunar, ya que es mayor de 30 años",
+    "Solo controlar si hay exposición"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "Si la serología es negativa, se deben administrar dos dosis de vacuna de varicela separadas al menos 4 semanas."
+},
+{
+  "pregunta": "Una persona nacida en 1980 sin antecedentes de sarampión ni vacunación, ¿qué pauta debe recibir?",
+  "opciones": [
+    "Una dosis de triple vírica",
+    "Dos dosis de triple vírica con 4 semanas de intervalo",
+    "Solo una dosis si es menor de 40 años",
+    "No vacunar si no hay brotes activos"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "En personas menores de 65 años nacidas desde 1978 sin evidencia de vacunación ni enfermedad, se administran dos dosis de triple vírica separadas por al menos 4 semanas."
+},
+{
+  "pregunta": "¿Qué se debe hacer si un lactante ha perdido la primera dosis de hexavalente a los 2 meses?",
+  "opciones": [
+    "Administrar doble dosis a los 4 meses",
+    "Iniciar pauta desde los 4 meses",
+    "Esperar hasta los 6 meses",
+    "Suspender el esquema y esperar al año"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "En caso de omisión de la primera dosis, se inicia pauta con las dosis que falten según edad, comenzando en el siguiente control posible."
+},
+{
+  "pregunta": "¿Qué debe hacerse si un niño de 12 meses no ha recibido ninguna dosis de MenACWY?",
+  "opciones": [
+    "Administrar MenQuadfi®",
+    "Esperar a los 12 años",
+    "Completar pauta con dos dosis separadas por 6 meses",
+    "Administrar MenB como alternativa"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "Si a los 12 meses no se ha administrado MenACWY, debe aplicarse MenQuadfi® según el esquema estándar infantil."
+},
+{
+  "pregunta": "Un adulto con esquema vacunal completo en la infancia, ¿qué dosis adicional debe recibir a los 65 años?",
+  "opciones": [
+    "Td",
+    "Tdpa",
+    "VNC13",
+    "Triple vírica"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "A los 65 años se administra una dosis de Td a quienes recibieron previamente las 5 dosis completas en infancia y adolescencia."
+},
+{
+  "pregunta": "Una mujer embarazada de 29 semanas no ha recibido la vacuna Tdpa. ¿Qué debe hacerse?",
+  "opciones": [
+    "Esperar a la semana 36",
+    "Administrar Tdpa lo antes posible",
+    "Solo vacunar si hay brote de tosferina",
+    "Administrar tras el parto"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "La vacuna Tdpa debe administrarse lo antes posible a partir de la semana 27, idealmente en la 27 o 28, aunque aún sea efectiva después."
+},
+{
+  "pregunta": "Un niño de 12 años sin constancia de vacunación frente a varicela ni enfermedad, ¿qué debe hacerse?",
+  "opciones": [
+    "Administrar una dosis",
+    "Solicitar serología y vacunar si es negativa",
+    "Administrar dos dosis con intervalo mínimo de 4 semanas",
+    "Esperar a los 14 años"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "En niños de 12 años sin historia de vacunación ni enfermedad, se administra pauta de 2 dosis separadas al menos por 4 semanas (preferiblemente 8)."
+},
+{
+  "pregunta": "Una persona de 67 años nacida en 1958 sin vacunación previa frente a herpes zóster, ¿qué se recomienda?",
+  "opciones": [
+    "No vacunar, ya que no pertenece a la cohorte objetivo",
+    "Administrar dos dosis de Shingrix® como rescate",
+    "Una dosis única de Zostavax®",
+    "Administrar sólo si hay antecedentes de varicela"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "esquema incompleto"],
+  "feedback": "Como parte del rescate, se puede administrar vacuna frente a herpes zóster (Shingrix®) a nacidos en 1959 o años próximos si no han sido vacunados."
+},
+{
+  "pregunta": "¿Qué vacuna está contraindicada en personas inmunodeprimidas según el calendario 2025?",
+  "opciones": [
+    "Tdpa",
+    "Triple vírica",
+    "VNC20",
+    "MenACWY"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La vacuna triple vírica (sarampión, rubeola y parotiditis) está contraindicada en inmunodeprimidos por tratarse de una vacuna de virus vivos atenuados."
+},
+{
+  "pregunta": "¿En qué trimestre del embarazo puede administrarse la vacuna de la gripe?",
+  "opciones": [
+    "Solo segundo y tercero",
+    "Cualquiera",
+    "Solo primero",
+    "Solo a partir de la semana 30"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La vacuna frente a la gripe puede administrarse en cualquier trimestre del embarazo o durante los primeros 6 meses del puerperio."
+},
+{
+  "pregunta": "¿Qué vacuna debe administrarse lo antes posible tras el nacimiento a un recién nacido de madre con AgHBs+?",
+  "opciones": [
+    "Hexavalente",
+    "Varicela",
+    "Hepatitis B e inmunoglobulina anti-HB",
+    "VPH"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Los recién nacidos de madre con hepatitis B (AgHBs+) deben recibir una dosis de vacuna frente a hepatitis B e inmunoglobulina anti-HB en las primeras 12-24 h."
+},
+{
+  "pregunta": "¿Qué vacuna está indicada en los primeros 6 meses del puerperio si no se administró durante el embarazo?",
+  "opciones": [
+    "Varicela",
+    "COVID-19",
+    "VPH",
+    "Tdpa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La vacuna frente a COVID-19 puede administrarse durante el embarazo o en los primeros 6 meses del puerperio, especialmente si no se administró previamente."
+},
+{
+  "pregunta": "¿Qué vacuna se recomienda en embarazadas a partir de la semana 27 de gestación?",
+  "opciones": [
+    "Td",
+    "Tdpa",
+    "Varicela",
+    "MenB"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Se administra una dosis de Tdpa en cada embarazo a partir de la semana 27, preferentemente en las semanas 27 o 28."
+},
+{
+  "pregunta": "¿Qué se debe hacer si la serología de varicela (IgG) es negativa en un adulto sin antecedentes?",
+  "opciones": [
+    "No vacunar",
+    "Administrar una dosis",
+    "Administrar dos dosis separadas por al menos 4 semanas",
+    "Solicitar nueva serología antes de actuar"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "En adultos con IgG negativa frente a varicela y sin antecedentes de enfermedad o vacunación, se administra pauta de 2 dosis."
+},
+{
+  "pregunta": "¿Qué vacuna se recomienda en pacientes de 65 años como parte del calendario sistemático?",
+  "opciones": [
+    "Triple vírica",
+    "Td",
+    "VPH",
+    "Varicela"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Se administra una dosis de Td a los 65 años a personas que recibieron 5 dosis durante la infancia y adolescencia."
+},
+{
+  "pregunta": "¿Qué vacuna no se debe administrar durante el embarazo por estar contraindicada?",
+  "opciones": [
+    "Gripe",
+    "Tdpa",
+    "Triple vírica",
+    "COVID-19"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La triple vírica está contraindicada en embarazadas por tratarse de una vacuna de virus vivos atenuados."
+},
+{
+  "pregunta": "¿Qué vacuna se recomienda a personas inmunocompetentes nacidas en 1959 no vacunadas frente a herpes zóster?",
+  "opciones": [
+    "VNC13",
+    "Zostavax",
+    "Shingrix (2 dosis)",
+    "Gardasil 9"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Como parte del rescate, la cohorte nacida en 1959 que no recibió la vacuna frente a herpes zóster debe vacunarse con 2 dosis de Shingrix®."
+},
+{
+  "pregunta": "¿Qué preparado debe administrarse a un paciente inmunocompetente de 12 años sin dosis previa de MenACWY?",
+  "opciones": [
+    "MenB",
+    "MenQuadfi®",
+    "Nimenrix®",
+    "Menveo®"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "En adolescentes, la vacuna frente a meningococo ACWY se administra con el preparado MenQuadfi®, incluyendo rescates hasta los 18 años."
+},
+{
+  "pregunta": "¿Qué vacuna no debe administrarse en pacientes inmunodeprimidos por alto riesgo de reactivación viral?",
+  "opciones": [
+    "Td",
+    "Gripe inactivada",
+    "Varicela",
+    "VPH"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La vacuna frente a varicela está contraindicada en personas inmunodeprimidas por tratarse de virus vivos atenuados."
+},
+{
+  "pregunta": "¿Qué se debe hacer con un recién nacido de madre con estado AgHBs desconocido si no hay resultado en 24 h?",
+  "opciones": [
+    "Administrar inmunoglobulina sola",
+    "No administrar nada",
+    "Administrar vacuna hepatitis B",
+    "Esperar resultado para actuar"
+  ],
+  "correcta": 2,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Si no se dispone del resultado del estado AgHBs en 24 horas, se administra igualmente una dosis de vacuna hepatitis B al recién nacido."
+},
+{
+  "pregunta": "¿Qué vacuna puede administrarse en cualquier trimestre del embarazo según el calendario andaluz?",
+  "opciones": [
+    "COVID-19",
+    "Triple vírica",
+    "VPH",
+    "MenB"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "La vacuna frente a COVID-19 está indicada en cualquier trimestre del embarazo, además de en el puerperio temprano."
+},
+{
+  "pregunta": "¿Qué vacuna debe aplicarse en mujeres que no recibieron Tdpa durante el embarazo?",
+  "opciones": [
+    "Durante el puerperio inmediato",
+    "En el siguiente embarazo",
+    "Solo si el lactante tiene menos de 2 meses",
+    "No debe aplicarse fuera del embarazo"
+  ],
+  "correcta": 0,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "Si una embarazada no ha recibido Tdpa, puede administrarse durante el puerperio para aumentar la protección del lactante vía contacto estrecho."
+},
+{
+  "pregunta": "¿Qué pauta debe seguirse en personas que recibieron menos de 3 dosis de Td y van a viajar a zona endémica?",
+  "opciones": [
+    "Una dosis de refuerzo",
+    "Administrar Tdpa y completar pauta hasta 5 dosis",
+    "Solo Td si han pasado más de 5 años",
+    "Evitar vacunas durante viajes"
+  ],
+  "correcta": 1,
+  "categorías": ["tema00", "temaVacunas", "grupos especiales"],
+  "feedback": "En viajeros a zonas de riesgo, si no tienen pauta completa de Td, debe iniciarse o completarse con Tdpa y Td hasta alcanzar 5 dosis."
+}
+
+]

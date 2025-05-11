@@ -1948,5 +1948,576 @@
             "Constitución"
         ],
         "feedback": "El artículo 43.3 indica que los poderes públicos deben fomentar la educación física como una parte activa de las políticas de salud pública."
-    }
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes derechos o libertades puede suspenderse en casos de declaración del estado de excepción o de sitio, según el artículo 55 de la Constitución Española?",
+        "opciones": [
+            "El derecho a la vida.",
+            "El derecho de reunión.",
+            "El derecho al trabajo.",
+            "El derecho a la educación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 55 permite suspender el derecho de reunión, entre otros, durante estados de excepción o sitio."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución, ¿qué NO compete a los poderes públicos en relación con la protección de la salud?",
+        "opciones": [
+            "Organizar la salud pública.",
+            "Fomentar la educación sanitaria.",
+            "Garantizar la seguridad ciudadana.",
+            "Facilitar la utilización del ocio."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La seguridad ciudadana no es una competencia directa relacionada con la salud según el artículo 43."
+    },
+    {
+        "enunciado": "¿Qué principio se menciona en el artículo 9 de la Constitución como garantía para evitar la arbitrariedad de los poderes públicos?",
+        "opciones": [
+            "El principio de legalidad.",
+            "El principio de solidaridad.",
+            "El principio de igualdad.",
+            "El principio de unidad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 9 garantiza el principio de legalidad para evitar la arbitrariedad."
+    },
+    {
+        "enunciado": "¿Quién tiene la potestad para disolver las Cortes Generales en caso de no obtener un Presidente del Gobierno en el plazo establecido por la Constitución?",
+        "opciones": [
+            "El Congreso de los Diputados.",
+            "El Tribunal Constitucional.",
+            "El Rey.",
+            "El Consejo de Ministros."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El Rey, según el artículo 99.5, disuelve las Cortes si no se elige un Presidente en dos meses."
+    },
+    {
+        "enunciado": "¿Qué artículo de la Constitución establece que la dignidad de la persona y los derechos inviolables son fundamento del orden político y la paz social?",
+        "opciones": [
+            "Artículo 1.",
+            "Artículo 10.",
+            "Artículo 14.",
+            "Artículo 16."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 10 recoge estos principios como fundamento del orden político y la paz social."
+    },
+    {
+        "enunciado": "En el artículo 56, ¿cómo se define el papel del Rey en relación con la unidad del Estado?",
+        "opciones": [
+            "Como árbitro en conflictos internos.",
+            "Como símbolo de unidad y permanencia.",
+            "Como garante de los derechos fundamentales.",
+            "Como máximo representante legislativo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 56 establece que el Rey es símbolo de unidad y permanencia del Estado."
+    },
+    {
+        "enunciado": "Según el artículo 14, ¿cuál de las siguientes discriminaciones NO está expresamente prohibida?",
+        "opciones": [
+            "Por sexo.",
+            "Por raza.",
+            "Por nacionalidad.",
+            "Por religión."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 14 no menciona expresamente la nacionalidad como causa de discriminación prohibida."
+    },
+    {
+        "enunciado": "De acuerdo con el artículo 8, ¿qué misión tienen asignadas las Fuerzas Armadas?",
+        "opciones": [
+            "Garantizar la seguridad ciudadana.",
+            "Defender el ordenamiento constitucional.",
+            "Supervisar el cumplimiento de las leyes.",
+            "Garantizar el desarrollo económico."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 8 asigna a las Fuerzas Armadas la misión de defender el ordenamiento constitucional."
+    },
+    {
+        "enunciado": "En el artículo 57, ¿qué ocurre si un sucesor al trono contrae matrimonio contra la expresa prohibición del Rey y las Cortes Generales?",
+        "opciones": [
+            "Pierde el derecho a la sucesión.",
+            "Debe abdicar voluntariamente.",
+            "Es sometido a un juicio político.",
+            "Se limita su capacidad para ejercer funciones públicas."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 57 establece que quien contraiga matrimonio contra dicha prohibición queda excluido de la sucesión."
+    },
+    {
+        "enunciado": "¿Qué principio rector, según el artículo 45, obliga a los poderes públicos a proteger y mejorar la calidad de vida?",
+        "opciones": [
+            "El principio de solidaridad colectiva.",
+            "El principio de proporcionalidad.",
+            "El principio de sostenibilidad.",
+            "El principio de subsidiariedad."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 45 menciona la solidaridad colectiva como base para proteger el medio ambiente y mejorar la calidad de vida."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución Española, ¿cuál es una de las competencias fundamentales de los poderes públicos en relación con la salud pública?",
+        "opciones": [
+            "Garantizar exclusivamente la asistencia médica en casos graves.",
+            "Desarrollar y tutelar la salud pública mediante medidas preventivas.",
+            "Delegar la responsabilidad de salud en organismos internacionales.",
+            "Centralizar todas las decisiones sanitarias en el Gobierno central."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y servicios necesarios."
+    },
+    {
+        "enunciado": "En el contexto del artículo 43, ¿qué incluye la educación sanitaria promovida por los poderes públicos?",
+        "opciones": [
+            "Únicamente información sobre enfermedades infecciosas.",
+            "Programas educativos dirigidos exclusivamente a menores de edad.",
+            "Promoción del bienestar físico, mental y social.",
+            "Campañas enfocadas en la prohibición de medicamentos alternativos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La educación sanitaria abarca la promoción integral del bienestar físico, mental y social, según el artículo 43."
+    },
+    {
+        "enunciado": "¿Qué señala el artículo 43 sobre las medidas relacionadas con el ocio?",
+        "opciones": [
+            "Los poderes públicos deben prohibir actividades de ocio que no sean productivas.",
+            "El ocio debe ser utilizado únicamente para la recuperación física.",
+            "Los poderes públicos deben facilitar la utilización adecuada del ocio.",
+            "El ocio no se menciona como un elemento relevante en la salud pública."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 menciona que los poderes públicos facilitarán el uso adecuado del ocio como parte de las medidas relacionadas con la salud."
+    },
+    {
+        "enunciado": "En relación con la psiquiatría, ¿cómo deben las Comunidades Autónomas ejercer sus competencias en sanidad según la Constitución?",
+        "opciones": [
+            "Pueden establecer protocolos independientes sin coordinación estatal.",
+            "Deben garantizar la igualdad en el acceso a servicios de salud mental.",
+            "Se enfocan únicamente en tratamientos de enfermedades físicas.",
+            "Tienen total autonomía para excluir servicios psiquiátricos del sistema público."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "Las Comunidades Autónomas, en el marco de sus competencias, deben garantizar la igualdad en el acceso a los servicios de salud, incluyendo la salud mental."
+    },
+    {
+        "enunciado": "¿Qué competencias exclusivas pueden asumir las Comunidades Autónomas en materia de sanidad según el artículo 148 de la Constitución?",
+        "opciones": [
+            "Gestión directa de hospitales militares.",
+            "Regulación y ejecución de las políticas de salud pública en su territorio.",
+            "Definir las bases generales de la legislación sanitaria.",
+            "Establecer tratados internacionales en materia de salud."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 148 permite que las Comunidades Autónomas asuman competencias en la regulación y ejecución de la salud pública dentro de su territorio."
+    },
+    {
+        "enunciado": "Según la Constitución, ¿qué implica la protección de la salud mental como parte del derecho a la protección de la salud recogido en el artículo 43?",
+        "opciones": [
+            "Tratamientos opcionales para casos leves.",
+            "Medidas preventivas y el acceso a servicios de salud mental adecuados.",
+            "Un enfoque exclusivo en tratamientos farmacológicos.",
+            "Descentralización total de la responsabilidad al ámbito privado."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 incluye medidas preventivas y servicios adecuados para garantizar la salud mental como parte integral del derecho a la salud."
+    },
+    {
+        "enunciado": "¿Qué organismo garantiza la coordinación y cohesión del sistema sanitario en España en relación con las competencias de las Comunidades Autónomas?",
+        "opciones": [
+            "El Tribunal Constitucional.",
+            "El Consejo Interterritorial del Sistema Nacional de Salud.",
+            "El Congreso de los Diputados.",
+            "El Consejo General del Poder Judicial."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El Consejo Interterritorial del Sistema Nacional de Salud asegura la coordinación entre el Estado y las Comunidades Autónomas."
+    },
+    {
+        "enunciado": "Según la Constitución, ¿qué principios deben guiar a los poderes públicos en la organización de los servicios sanitarios?",
+        "opciones": [
+            "Eficiencia, solidaridad y universalidad.",
+            "Lucratividad, descentralización y exclusividad.",
+            "Autonomía total, desconexión regional y minimización de costes.",
+            "Centralización, igualdad de acceso y autosuficiencia."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La organización de los servicios sanitarios debe guiarse por los principios de eficiencia, solidaridad y universalidad, conforme a la Constitución."
+    },
+    {
+        "enunciado": "¿Qué establece la Constitución Española sobre la financiación de los servicios sanitarios en las Comunidades Autónomas?",
+        "opciones": [
+            "Deben financiarse exclusivamente mediante impuestos locales.",
+            "Son financiados en su totalidad por el Estado central.",
+            "Las Comunidades Autónomas pueden establecer tributos propios para este fin.",
+            "La financiación se realiza mediante mecanismos de solidaridad interterritorial."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La financiación de los servicios sanitarios en las Comunidades Autónomas se basa en mecanismos de solidaridad interterritorial según la Constitución."
+    },
+    {
+        "enunciado": "En el ámbito de la psiquiatría, ¿qué papel tienen los poderes públicos según el artículo 43 de la Constitución Española?",
+        "opciones": [
+            "Proveer exclusivamente tratamientos médicos en hospitales psiquiátricos.",
+            "Fomentar la educación sanitaria en salud mental y medidas preventivas.",
+            "Delegar la atención psiquiátrica al sector privado.",
+            "Exclusivamente garantizar tratamientos farmacológicos para enfermedades mentales graves."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 establece que los poderes públicos deben fomentar la educación sanitaria, incluidas medidas preventivas en salud mental."
+    },
+    {
+        "enunciado": "Según el artículo 43 de la Constitución, ¿qué obligación tienen los poderes públicos en relación con la salud?",
+        "opciones": [
+            "Proveer servicios sanitarios básicos a través de seguros privados.",
+            "Garantizar prestaciones y servicios necesarios mediante medidas preventivas.",
+            "Limitar los servicios de salud a los grupos más vulnerables.",
+            "Centralizar la gestión de la salud en el Gobierno central."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 establece que los poderes públicos deben organizar y tutelar la salud pública mediante medidas preventivas y servicios necesarios."
+    },
+    {
+        "enunciado": "En el ámbito de las competencias autonómicas, ¿qué permite la Constitución respecto a la salud pública?",
+        "opciones": [
+            "Centralizar toda la gestión en el Estado.",
+            "Permitir a las Comunidades Autónomas asumir competencias de ejecución.",
+            "Excluir a las Comunidades Autónomas de decisiones en salud mental.",
+            "Dejar la salud pública bajo la supervisión exclusiva de organismos internacionales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La Constitución permite que las Comunidades Autónomas asuman competencias de regulación y ejecución en materia de salud pública."
+    },
+    {
+        "enunciado": "En el contexto del artículo 43, ¿qué significa 'educación sanitaria'?",
+        "opciones": [
+            "Enseñar solo prevención de enfermedades físicas.",
+            "Incluir promoción de salud mental, física y uso adecuado del ocio.",
+            "Limitarse a campañas publicitarias sobre alimentación saludable.",
+            "Centrarse exclusivamente en la prevención de adicciones."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 contempla la educación sanitaria como un esfuerzo integral que incluye la promoción del bienestar físico y mental y el uso adecuado del ocio."
+    },
+    {
+        "enunciado": "Según la Constitución Española, ¿qué NO forma parte del derecho a la protección de la salud?",
+        "opciones": [
+            "Medidas preventivas de salud pública.",
+            "Acceso universal a los servicios sanitarios.",
+            "Educación física y deportiva.",
+            "Exclusividad del acceso a tratamientos privados."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La Constitución establece medidas preventivas, acceso universal y fomento de la educación física, pero no menciona la exclusividad de acceso a servicios privados."
+    },
+    {
+        "enunciado": "¿Qué establece la Constitución sobre la equidad en el acceso a servicios de salud mental?",
+        "opciones": [
+            "Solo las regiones con mayores recursos deben ofrecer servicios de salud mental.",
+            "El acceso debe ser garantizado de forma igualitaria por los poderes públicos.",
+            "Los servicios de salud mental deben limitarse a tratamientos farmacológicos.",
+            "No establece ninguna obligación específica sobre la salud mental."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "La Constitución garantiza la equidad en el acceso a todos los servicios de salud, incluyendo la salud mental, como parte del derecho a la protección de la salud."
+    },
+    {
+        "enunciado": "En el marco de la psiquiatría, ¿qué rol tienen los poderes públicos según el artículo 43?",
+        "opciones": [
+            "Establecer únicamente políticas de internamiento psiquiátrico.",
+            "Desarrollar medidas preventivas y educativas en salud mental.",
+            "Subcontratar todos los servicios de psiquiatría a empresas privadas.",
+            "Delegar la salud mental exclusivamente a las Comunidades Autónomas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 43 señala que los poderes públicos deben fomentar medidas preventivas y educativas en salud mental como parte de la protección de la salud."
+    },
+    {
+        "enunciado": "¿Qué limita el artículo 148 de la Constitución en relación con las competencias autonómicas en sanidad?",
+        "opciones": [
+            "No permite asumir competencias en salud pública.",
+            "Excluye la planificación de políticas de prevención sanitaria.",
+            "Permite competencias de ejecución sin afectar las bases generales estatales.",
+            "Obliga a las Comunidades Autónomas a financiar todos los servicios sanitarios."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El artículo 148 permite a las Comunidades Autónomas asumir competencias de ejecución, siempre respetando las bases generales del Estado."
+    },
+    {
+        "enunciado": "¿Qué establece la Constitución sobre el derecho a la protección de la salud en relación con la prevención de enfermedades mentales?",
+        "opciones": [
+            "Los poderes públicos deben priorizar la salud física sobre la mental.",
+            "Se fomenta la prevención y el tratamiento de forma integral.",
+            "Las enfermedades mentales no están cubiertas como parte del derecho a la salud.",
+            "Solo las entidades privadas pueden ofrecer tratamientos preventivos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El derecho a la protección de la salud incluye la prevención y tratamiento integral de enfermedades mentales según el artículo 43."
+    },
+    {
+        "enunciado": "Según el artículo 43, ¿cómo deben actuar los poderes públicos respecto a la salud pública?",
+        "opciones": [
+            "Fomentar la salud solo en contextos de emergencia.",
+            "Garantizar servicios mediante planificación y prevención.",
+            "Centralizar la atención en áreas urbanas prioritariamente.",
+            "Permitir a las Comunidades Autónomas decidir sin coordinación estatal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "Los poderes públicos deben garantizar servicios mediante planificación y medidas preventivas según el artículo 43."
+    },
+    {
+        "enunciado": "En el ámbito de la psiquiatría, ¿qué principio constitucional respalda el acceso igualitario a los servicios de salud mental?",
+        "opciones": [
+            "La descentralización total del sistema sanitario.",
+            "El principio de solidaridad y universalidad en salud.",
+            "La libre competencia en los servicios sanitarios.",
+            "La exclusividad estatal en la gestión sanitaria."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema1",
+            "Constitución"
+        ],
+        "feedback": "El principio de solidaridad y universalidad respalda el acceso igualitario a servicios de salud mental, como parte de la protección de la salud."
+    },
+    {
+        "enunciado": "¿Qué establece el artículo 43 de la Constitución sobre las competencias de los poderes públicos en la organización de la salud?",
+        "opciones": [
+          "Solo deben coordinar los servicios entre Comunidades Autónomas.",
+          "Tienen la obligación de organizar y tutelar la salud pública mediante medidas preventivas.",
+          "Se limitan a garantizar acceso a servicios en casos de emergencia.",
+          "Delegan totalmente la salud pública a las Comunidades Autónomas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 43 obliga a los poderes públicos a organizar y tutelar la salud pública, incluyendo medidas preventivas."
+      },
+      {
+        "enunciado": "Según la Constitución, ¿qué límite se establece para la organización sanitaria por parte de las Comunidades Autónomas?",
+        "opciones": [
+          "No pueden gestionar servicios sanitarios sin autorización estatal.",
+          "Deben respetar las bases generales establecidas por el Estado.",
+          "Solo pueden ofrecer servicios secundarios, no primarios.",
+          "No tienen competencias en salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "Las Comunidades Autónomas deben respetar las bases generales fijadas por el Estado al ejercer competencias en sanidad."
+      },
+      {
+        "enunciado": "¿Qué principio mencionado en el artículo 43 está relacionado con la educación física y el deporte?",
+        "opciones": [
+          "El principio de igualdad.",
+          "El principio de prevención.",
+          "El principio de universalidad.",
+          "El principio de subsidiariedad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 43 menciona el principio de prevención como base para fomentar la educación física y el deporte."
+      },
+      {
+        "enunciado": "En el contexto de la salud pública, ¿qué incluye el artículo 43 respecto al ocio?",
+        "opciones": [
+          "El ocio debe estar regulado exclusivamente por las Comunidades Autónomas.",
+          "Los poderes públicos deben facilitar su utilización adecuada.",
+          "Solo se menciona el ocio relacionado con actividades deportivas.",
+          "No se menciona el ocio como un componente de la salud pública."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 43 establece que los poderes públicos deben facilitar la utilización adecuada del ocio como parte de la salud pública."
+      },
+      {
+        "enunciado": "En relación con las competencias en salud, ¿qué regula el artículo 148 respecto a las Comunidades Autónomas?",
+        "opciones": [
+          "Pueden asumir competencias de ejecución en salud pública.",
+          "Tienen competencias exclusivas en la regulación de la sanidad nacional.",
+          "Solo pueden intervenir en casos de emergencia sanitaria.",
+          "No pueden legislar sobre temas relacionados con la salud."
+        ],
+        "correcta": 0,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 148 permite a las Comunidades Autónomas asumir competencias de ejecución en salud pública, respetando las bases estatales."
+      },
+      {
+        "enunciado": "¿Qué establece el artículo 43 sobre las prestaciones complementarias a la salud pública?",
+        "opciones": [
+          "Son obligatorias para todos los ciudadanos.",
+          "Son libres y no necesariamente garantizadas por el sistema público.",
+          "Deben ser proporcionadas por organismos internacionales.",
+          "Solo aplican a servicios psiquiátricos y de salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 43 establece que las prestaciones complementarias son libres y no obligatorias."
+      },
+      {
+        "enunciado": "En el marco de la psiquiatría, ¿qué deben garantizar los poderes públicos según el derecho a la protección de la salud?",
+        "opciones": [
+          "Solo acceso a tratamientos farmacológicos en casos graves.",
+          "Medidas preventivas y acceso a servicios integrales de salud mental.",
+          "Centralización de la atención en hospitales psiquiátricos estatales.",
+          "Tratamiento únicamente para menores de edad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El derecho a la protección de la salud incluye medidas preventivas y el acceso a servicios integrales de salud mental."
+      },
+      {
+        "enunciado": "¿Qué implica el principio de solidaridad mencionado en la Constitución para las Comunidades Autónomas en materia sanitaria?",
+        "opciones": [
+          "Centralización de todos los recursos en el Gobierno central.",
+          "Reparto equitativo de recursos para garantizar igualdad en los servicios.",
+          "Delegación completa de competencias sanitarias.",
+          "Prioridad de los servicios en regiones económicamente desarrolladas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El principio de solidaridad asegura un reparto equitativo de recursos para garantizar igualdad en los servicios sanitarios en todo el territorio."
+      },
+      {
+        "enunciado": "Según el artículo 43, ¿qué enfoque deben adoptar los poderes públicos hacia la salud pública?",
+        "opciones": [
+          "Enfocarse exclusivamente en la curación de enfermedades.",
+          "Adoptar medidas preventivas y servicios necesarios para la tutela de la salud.",
+          "Dejar la responsabilidad de la salud a las entidades privadas.",
+          "Garantizar servicios únicamente en áreas urbanas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El artículo 43 subraya la importancia de las medidas preventivas y la organización de servicios necesarios como parte de la tutela de la salud."
+      },
+      {
+        "enunciado": "En el ámbito de las competencias autonómicas en sanidad, ¿qué papel juega el Consejo Interterritorial del Sistema Nacional de Salud?",
+        "opciones": [
+          "Determina las leyes autonómicas sobre salud pública.",
+          "Garantiza la coordinación entre Comunidades Autónomas y el Estado.",
+          "Supervisa únicamente los hospitales militares.",
+          "Se centra en regular exclusivamente la salud mental."
+        ],
+        "correcta": 1,
+        "categorías": ["tema1", "Constitución"],
+        "feedback": "El Consejo Interterritorial del Sistema Nacional de Salud asegura la coordinación entre las Comunidades Autónomas y el Estado en materia sanitaria."
+      }    
+      
 ]

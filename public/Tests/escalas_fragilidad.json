@@ -1,0 +1,1226 @@
+[
+    {
+        "enunciado": "¿Qué mide el Índice de Gijón?",
+        "opciones": [
+            "El nivel de esfuerzo del cuidador.",
+            "El estado sociofamiliar del paciente.",
+            "La capacidad cognitiva.",
+            "El riesgo de caídas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_sociofamiliar"
+        ],
+        "feedback": "El Índice de Gijón mide el estado sociofamiliar del paciente, evaluando factores como el entorno y el apoyo social."
+    },
+    {
+        "enunciado": "¿Cuál es la puntuación máxima en la Escala de Lawton y Brody?",
+        "opciones": [
+            "10 puntos.",
+            "8 puntos.",
+            "15 puntos.",
+            "20 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La puntuación máxima en la Escala de Lawton y Brody es de 8 puntos, lo que indica independencia total en actividades instrumentales."
+    },
+    {
+        "enunciado": "¿Qué ámbito evalúa el Test de Yesavage?",
+        "opciones": [
+            "El nivel de depresión.",
+            "La funcionalidad física.",
+            "El apoyo sociofamiliar.",
+            "La capacidad cognitiva."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "El Test de Yesavage evalúa el nivel de depresión, siendo especialmente útil en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué resultado en la Escala FRAIL indica una persona frágil?",
+        "opciones": [
+            "0 puntos.",
+            "1-2 puntos.",
+            "3 o más puntos.",
+            "Más de 5 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "Una puntuación de 3 o más puntos en la Escala FRAIL identifica a una persona como frágil, indicando un mayor riesgo de deterioro funcional."
+    },
+    {
+        "enunciado": "¿Qué mide principalmente el Índice PROFUND?",
+        "opciones": [
+            "El riesgo de caídas.",
+            "El pronóstico vital a un año y cuatro años en pacientes crónicos complejos.",
+            "La autonomía en actividades básicas.",
+            "La capacidad funcional cognitiva."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_prognostica"
+        ],
+        "feedback": "El Índice PROFUND mide el pronóstico vital de pacientes con enfermedades crónicas complejas, ayudando a priorizar cuidados."
+    },
+    {
+        "enunciado": "¿En qué población se aplica principalmente la Escala de Edmonton?",
+        "opciones": [
+            "Personas con deterioro cognitivo.",
+            "Adultos mayores frágiles.",
+            "Niños con discapacidad.",
+            "Cuidadores informales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "La Escala de Edmonton se aplica principalmente a adultos mayores para valorar la fragilidad de manera integral."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito del Algoritmo Mini-Barthel?",
+        "opciones": [
+            "Identificar pacientes con riesgo de caídas.",
+            "Diagnosticar dependencia severa.",
+            "Cribar pacientes autónomos y dependientes funcionales.",
+            "Medir el estado emocional."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Algoritmo Mini-Barthel es una herramienta de cribado para diferenciar entre pacientes autónomos y dependientes funcionales."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Índice de Barthel sugiere dependencia moderada?",
+        "opciones": [
+            "60-90 puntos.",
+            "25-60 puntos.",
+            "10-20 puntos.",
+            "0-10 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "Una puntuación de 25-60 en el Índice de Barthel indica dependencia moderada, lo que significa que la persona necesita ayuda regular para actividades básicas."
+    },
+    {
+        "enunciado": "¿Qué evalúa principalmente el Test 'Levántate y anda'?",
+        "opciones": [
+            "El riesgo de caídas y la movilidad funcional.",
+            "La capacidad de equilibrio.",
+            "El estado emocional.",
+            "El nivel de dolor crónico."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "El Test 'Levántate y anda' evalúa el riesgo de caídas y la movilidad funcional, siendo una prueba sencilla para detectar fragilidad."
+    },
+    {
+        "enunciado": "¿Qué ámbito evalúa la Escala PALIAR?",
+        "opciones": [
+            "La depresión.",
+            "La calidad de vida en cuidados paliativos.",
+            "La funcionalidad física.",
+            "El riesgo de caídas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_prognostica"
+        ],
+        "feedback": "La Escala PALIAR evalúa la calidad de vida y el pronóstico en pacientes que requieren cuidados paliativos."
+    },
+    {
+        "enunciado": "¿Qué característica tiene el Cuestionario FRAIL respecto a la detección de fragilidad?",
+        "opciones": [
+            "Es específico para evaluar deterioro cognitivo.",
+            "Requiere pruebas físicas complejas.",
+            "Es un instrumento de autoinforme sencillo y rápido.",
+            "Mide exclusivamente la fuerza muscular."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Cuestionario FRAIL es un instrumento de autoinforme sencillo y rápido para detectar fragilidad en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué evalúa principalmente el Índice de Esfuerzo del Cuidador?",
+        "opciones": [
+            "El nivel de sobrecarga física y emocional del cuidador.",
+            "La capacidad del cuidador para administrar medicación.",
+            "La relación entre cuidador y paciente.",
+            "La formación técnica del cuidador."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_cuidador"
+        ],
+        "feedback": "El Índice de Esfuerzo del Cuidador evalúa la sobrecarga física y emocional del cuidador, proporcionando información clave para intervenir en su bienestar."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad tiene la mayor puntuación posible?",
+        "opciones": [
+            "Deambulación.",
+            "Subir y bajar escaleras.",
+            "Trasladarse de la cama al sillón.",
+            "Control de micción y deposiciones."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En el Índice de Barthel, trasladarse de la cama al sillón tiene la mayor puntuación individual posible, con 15 puntos."
+    },
+    {
+        "enunciado": "¿Qué puntuación mínima en el Mini-Examen Cognoscitivo de Lobo (MEC) se considera indicativa de deterioro cognitivo significativo?",
+        "opciones": [
+            "30 puntos.",
+            "24 puntos.",
+            "20 puntos.",
+            "15 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "En el MEC, una puntuación igual o inferior a 20 puntos puede ser indicativa de deterioro cognitivo significativo."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo del Test de Velocidad de Marcha?",
+        "opciones": [
+            "Determinar la capacidad cardiovascular del paciente.",
+            "Evaluar la movilidad y el riesgo de caídas.",
+            "Medir la resistencia física durante ejercicios prolongados.",
+            "Diagnosticar problemas articulares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Test de Velocidad de Marcha evalúa la movilidad funcional y es útil para predecir el riesgo de caídas en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué valor del Cuestionario FRAIL indica prefragilidad?",
+        "opciones": [
+            "0 puntos.",
+            "1-2 puntos.",
+            "3 puntos.",
+            "4-5 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "Una puntuación de 1-2 puntos en el Cuestionario FRAIL indica prefragilidad, lo que sugiere un riesgo moderado de fragilidad."
+    },
+    {
+        "enunciado": "¿Cuál es el propósito del Índice de Rockwood?",
+        "opciones": [
+            "Medir la carga de comorbilidades en pacientes crónicos.",
+            "Evaluar el grado de fragilidad a partir de déficits acumulados.",
+            "Determinar el nivel de dependencia física.",
+            "Valorar la funcionalidad cognitiva."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Índice de Rockwood evalúa la fragilidad basada en déficits acumulados, como problemas físicos, psicológicos y sociales."
+    },
+    {
+        "enunciado": "¿Qué mide el Test SPPB (Short Physical Performance Battery)?",
+        "opciones": [
+            "La fuerza muscular exclusivamente.",
+            "La movilidad, el equilibrio y la fuerza muscular.",
+            "El nivel de independencia social.",
+            "El riesgo de enfermedades cardiovasculares."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Test SPPB evalúa la movilidad, el equilibrio y la fuerza muscular, proporcionando una medida global del estado físico."
+    },
+    {
+        "enunciado": "¿Qué actividad evaluada en el Índice de Lawton y Brody suele estar más influida por factores culturales?",
+        "opciones": [
+            "Preparación de comidas.",
+            "Uso de medios de transporte.",
+            "Responsabilidad sobre la medicación.",
+            "Limpieza del hogar."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La limpieza del hogar evaluada en el Índice de Lawton y Brody puede variar según las expectativas culturales y de género."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Índice PROFUND sugiere un alto riesgo de mortalidad al año?",
+        "opciones": [
+            "Menos de 5 puntos.",
+            "Entre 6 y 10 puntos.",
+            "Más de 11 puntos.",
+            "Exactamente 15 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_prognostica"
+        ],
+        "feedback": "Un resultado superior a 11 puntos en el Índice PROFUND indica un alto riesgo de mortalidad al año en pacientes crónicos complejos."
+    },
+    {
+        "enunciado": "¿Qué mide el cuestionario GES (Valoración Espiritual)?",
+        "opciones": [
+            "El estado de ánimo.",
+            "El nivel de apoyo social.",
+            "Los valores y preferencias espirituales del paciente.",
+            "La calidad de vida en general."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_valores"
+        ],
+        "feedback": "El cuestionario GES evalúa los valores y preferencias espirituales del paciente, siendo relevante en cuidados paliativos."
+    },
+    {
+        "enunciado": "En el Test de Pfeiffer, ¿cuántos errores se consideran indicativos de deterioro cognitivo moderado?",
+        "opciones": [
+            "1-2 errores.",
+            "3-4 errores.",
+            "5-7 errores.",
+            "Más de 7 errores."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "En el Test de Pfeiffer, de 5 a 7 errores indican deterioro cognitivo moderado, requiriendo una evaluación más detallada."
+    },
+    {
+        "enunciado": "¿Qué evalúa el Cuestionario de Valoración FRAIL?",
+        "opciones": [
+            "La calidad del entorno familiar.",
+            "Los niveles de fragilidad física y funcional.",
+            "La capacidad de independencia económica.",
+            "El riesgo de caídas en pacientes jóvenes."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Cuestionario FRAIL evalúa la fragilidad en cinco dominios: fatiga, resistencia, actividad física, enfermedades y pérdida de peso."
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes aspectos evalúa el Test de Marcha en Tandem?",
+        "opciones": [
+            "La fuerza muscular.",
+            "El equilibrio dinámico.",
+            "La capacidad respiratoria.",
+            "La velocidad de marcha general."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "El Test de Marcha en Tandem evalúa el equilibrio dinámico al caminar en línea recta, útil para detectar riesgos de caídas."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza comúnmente para valorar el riesgo de polifarmacia en pacientes mayores?",
+        "opciones": [
+            "Índice PALIAR.",
+            "Criterios STOPP-START.",
+            "Escala de Barthel.",
+            "Escala de Lawton y Brody."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_farmacologica"
+        ],
+        "feedback": "Los criterios STOPP-START evalúan la adecuación de los medicamentos en pacientes mayores, identificando polifarmacia y riesgos asociados."
+    },
+    {
+        "enunciado": "¿Qué herramienta mide la capacidad de una persona mayor para vivir de manera independiente en su comunidad?",
+        "opciones": [
+            "Índice de Barthel.",
+            "Escala de Lawton y Brody.",
+            "Mini-Examen Cognoscitivo de Lobo.",
+            "Cuestionario FRAIL."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La Escala de Lawton y Brody mide la capacidad para realizar actividades instrumentales de la vida diaria, esenciales para la independencia."
+    },
+    {
+        "enunciado": "¿Qué evalúa el Índice PALIAR en pacientes con enfermedades avanzadas?",
+        "opciones": [
+            "El estado funcional físico.",
+            "La necesidad de soporte emocional.",
+            "La probabilidad de supervivencia a corto plazo.",
+            "La autonomía para actividades básicas."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_prognostica"
+        ],
+        "feedback": "El Índice PALIAR se utiliza para valorar la probabilidad de supervivencia en pacientes con enfermedades avanzadas o terminales."
+    },
+    {
+        "enunciado": "¿Qué aspecto valora la Escala de Katz en relación a la dependencia?",
+        "opciones": [
+            "Las actividades instrumentales.",
+            "Las actividades básicas de la vida diaria.",
+            "El riesgo de caídas.",
+            "El estado cognitivo general."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La Escala de Katz evalúa las actividades básicas de la vida diaria, como bañarse, vestirse y alimentarse, esenciales para la independencia."
+    },
+    {
+        "enunciado": "¿Qué ámbito evalúa el Mini Nutritional Assessment (MNA)?",
+        "opciones": [
+            "El estado emocional.",
+            "La fragilidad física.",
+            "El estado nutricional.",
+            "El nivel de dependencia."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_nutricional"
+        ],
+        "feedback": "El Mini Nutritional Assessment (MNA) evalúa el estado nutricional en personas mayores, siendo esencial para prevenir la malnutrición."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Índice de Barthel se considera independencia completa?",
+        "opciones": [
+            "70-80 puntos.",
+            "85-90 puntos.",
+            "95-100 puntos.",
+            "65-75 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En el Índice de Barthel, una puntuación de 95-100 puntos indica independencia completa, con capacidad para realizar actividades básicas sin ayuda."
+    },
+    {
+        "enunciado": "¿Qué evalúa la Escala de Fragilidad de Edmonton?",
+        "opciones": [
+            "El estado sociofamiliar del paciente.",
+            "La fuerza muscular exclusivamente.",
+            "La fragilidad multidimensional.",
+            "La calidad de vida general."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "La Escala de Fragilidad de Edmonton evalúa la fragilidad multidimensional considerando aspectos físicos, psicológicos y sociales."
+    },
+    {
+        "enunciado": "¿Qué actividad evaluada en la Escala de Lawton y Brody se pierde primero en casos de dependencia?",
+        "opciones": [
+            "Preparación de comidas.",
+            "Hacer compras.",
+            "Manejo de medicamentos.",
+            "Cuidado de la casa."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En la Escala de Lawton y Brody, la capacidad para hacer compras suele ser una de las primeras actividades en perderse con el aumento de la dependencia."
+    },
+    {
+        "enunciado": "¿Qué mide principalmente el Índice de Barthel?",
+        "opciones": [
+            "La capacidad para realizar actividades instrumentales de la vida diaria.",
+            "El nivel de dependencia en actividades básicas de la vida diaria.",
+            "El estado cognitivo del paciente.",
+            "La sobrecarga del cuidador principal."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Índice de Barthel mide el nivel de independencia o dependencia en actividades básicas de la vida diaria, como alimentarse, vestirse o desplazarse."
+    },
+    {
+        "enunciado": "En el Índice de Lawton y Brody, ¿qué actividad evalúa el manejo de la medicación?",
+        "opciones": [
+            "Si puede preparar adecuadamente las medicinas.",
+            "Si puede tomar la medicación en el horario y dosis indicados.",
+            "Si administra medicamentos a otras personas.",
+            "Si compra medicinas sin receta."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La Escala de Lawton y Brody evalúa si la persona puede tomar su medicación en el horario y dosis correctos sin ayuda."
+    },
+    {
+        "enunciado": "¿Qué puntuación en el Test de Yesavage indica depresión severa?",
+        "opciones": [
+            "Menos de 5 puntos.",
+            "Entre 5 y 10 puntos.",
+            "Más de 10 puntos.",
+            "Exactamente 15 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "Una puntuación mayor a 10 en el Test de Yesavage sugiere depresión severa y la necesidad de intervención especializada."
+    },
+    {
+        "enunciado": "¿Cuál es la principal diferencia entre el Índice de Barthel y la Escala de Lawton y Brody?",
+        "opciones": [
+            "El Índice de Barthel mide actividades instrumentales, y Lawton y Brody mide actividades básicas.",
+            "La Escala de Lawton y Brody mide actividades instrumentales, y el Índice de Barthel mide actividades básicas.",
+            "Ambos miden las mismas actividades pero con diferente puntuación.",
+            "El Índice de Barthel se aplica solo a personas con discapacidad física."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Índice de Barthel evalúa actividades básicas de la vida diaria, mientras que la Escala de Lawton y Brody mide actividades instrumentales necesarias para la vida independiente."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Mini-Examen Cognoscitivo de Lobo (MEC) sugiere deterioro cognitivo leve?",
+        "opciones": [
+            "27-30 puntos.",
+            "23-26 puntos.",
+            "19-22 puntos.",
+            "Menos de 15 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "En el MEC, una puntuación de 23 a 26 puntos sugiere deterioro cognitivo leve, lo que podría requerir un seguimiento clínico más detallado."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Índice de Barthel indica una dependencia moderada?",
+        "opciones": [
+            "70-90 puntos.",
+            "60-70 puntos.",
+            "40-60 puntos.",
+            "20-40 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En el Índice de Barthel, una puntuación entre 60 y 70 puntos indica una dependencia moderada, con necesidad de ayuda en varias actividades básicas."
+    },
+    {
+        "enunciado": "¿Qué actividad tiene mayor peso en la puntuación del Índice de Barthel?",
+        "opciones": [
+            "Deambulación.",
+            "Subir y bajar escaleras.",
+            "Control de deposiciones.",
+            "Trasladarse de la cama al sillón."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En el Índice de Barthel, la deambulación tiene una de las puntuaciones más altas, reflejando la importancia de la movilidad en la evaluación funcional."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿cuántas preguntas se utilizan en la versión corta?",
+        "opciones": [
+            "15 preguntas.",
+            "10 preguntas.",
+            "12 preguntas.",
+            "7 preguntas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La versión corta del Test de Yesavage utiliza 10 preguntas para una evaluación rápida del estado emocional y riesgo de depresión."
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo principal del Test 'Levántate y anda'?",
+        "opciones": [
+            "Evaluar el equilibrio estático.",
+            "Determinar el riesgo de caídas y la movilidad funcional.",
+            "Medir la fuerza en extremidades superiores.",
+            "Evaluar la autonomía en actividades instrumentales."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "El Test 'Levántate y anda' evalúa el tiempo que tarda una persona en levantarse, caminar y regresar, identificando riesgo de caídas y problemas de movilidad."
+    },
+    {
+        "enunciado": "¿Qué herramienta se utiliza comúnmente para evaluar actividades instrumentales de la vida diaria en personas mayores?",
+        "opciones": [
+            "Índice de Barthel.",
+            "Escala de Lawton y Brody.",
+            "Test de Yesavage.",
+            "Mini-Examen Cognoscitivo de Lobo."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La Escala de Lawton y Brody mide la capacidad para realizar actividades instrumentales como preparar alimentos o manejar finanzas, fundamentales para la vida independiente."
+    },
+    {
+        "enunciado": "¿Cuál es el rango de puntuación del Índice de Barthel para clasificar una dependencia severa?",
+        "opciones": [
+            "0-20 puntos.",
+            "21-40 puntos.",
+            "41-60 puntos.",
+            "61-80 puntos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "Una puntuación de 0-20 en el Índice de Barthel indica dependencia severa, con limitaciones significativas en actividades básicas."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué puntuación máxima puede obtener una persona completamente independiente?",
+        "opciones": [
+            "10 puntos.",
+            "8 puntos.",
+            "12 puntos.",
+            "6 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La puntuación máxima en la Escala de Lawton y Brody es de 8 puntos, indicando completa independencia en actividades instrumentales."
+    },
+    {
+        "enunciado": "¿Qué evalúa el Mini-Examen Cognoscitivo de Lobo (MEC) además de la memoria?",
+        "opciones": [
+            "La capacidad de resolver problemas matemáticos.",
+            "La orientación, atención y lenguaje.",
+            "La autonomía en actividades básicas.",
+            "El riesgo de caídas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "El MEC evalúa orientación, memoria, atención y lenguaje, siendo una herramienta completa para detectar deterioro cognitivo."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa específicamente la Escala de Yesavage?",
+        "opciones": [
+            "El estado nutricional.",
+            "El nivel de depresión.",
+            "El nivel de dependencia física.",
+            "La calidad de vida en cuidados paliativos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La Escala de Yesavage evalúa el nivel de depresión, especialmente en personas mayores, mediante un cuestionario de fácil aplicación."
+    },
+    {
+        "enunciado": "En el Test 'Levántate y anda', ¿qué tiempo sugiere una movilidad funcional normal?",
+        "opciones": [
+            "Menos de 10 segundos.",
+            "Entre 10 y 20 segundos.",
+            "Más de 20 segundos.",
+            "Exactamente 15 segundos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "Un tiempo inferior a 10 segundos en el Test 'Levántate y anda' sugiere una movilidad funcional normal y un bajo riesgo de caídas."
+    },
+    {
+        "enunciado": "¿Qué instrumento es más adecuado para evaluar actividades básicas de la vida diaria?",
+        "opciones": [
+            "Escala de Lawton y Brody.",
+            "Índice de Barthel.",
+            "Mini-Examen Cognoscitivo de Lobo.",
+            "Test de Yesavage."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Índice de Barthel evalúa actividades básicas como alimentación, aseo personal y movilidad, siendo clave en la valoración funcional."
+    },
+    {
+        "enunciado": "¿Qué escala mide la sobrecarga percibida por el cuidador de una persona dependiente?",
+        "opciones": [
+            "Índice de Barthel.",
+            "Escala de Zarit.",
+            "Escala de Lawton y Brody.",
+            "Test de Yesavage."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_cuidador"
+        ],
+        "feedback": "La Escala de Zarit mide la sobrecarga percibida por el cuidador, ayudando a identificar necesidades de apoyo o intervención."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad tiene una puntuación máxima de 15 puntos?",
+        "opciones": [
+            "Subir y bajar escaleras.",
+            "Control de micción.",
+            "Deambulación.",
+            "Trasladarse de la cama al sillón."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La actividad de deambulación tiene una puntuación máxima de 15 puntos en el Índice de Barthel, reflejando su importancia funcional."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para detectar fragilidad mediante dominios como fuerza, resistencia y actividad física?",
+        "opciones": [
+            "Cuestionario FRAIL.",
+            "Escala de Lawton y Brody.",
+            "Índice de Barthel.",
+            "Mini-Examen Cognoscitivo de Lobo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Cuestionario FRAIL evalúa la fragilidad a través de dominios como fuerza, resistencia, enfermedades crónicas y actividad física."
+    },
+    {
+        "enunciado": "¿Qué resultado en el MEC es compatible con un deterioro cognitivo grave?",
+        "opciones": [
+            "Entre 27 y 30 puntos.",
+            "Entre 15 y 19 puntos.",
+            "Menos de 15 puntos.",
+            "Entre 20 y 24 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "Un resultado inferior a 15 puntos en el MEC indica un deterioro cognitivo grave, requiriendo intervención especializada."
+    },
+    {
+        "enunciado": "¿Cuál es el rango de puntuación del Índice de Barthel para clasificar una dependencia severa?",
+        "opciones": [
+            "0-20 puntos.",
+            "21-40 puntos.",
+            "41-60 puntos.",
+            "61-80 puntos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "Una puntuación de 0-20 puntos en el Índice de Barthel indica dependencia severa, lo que significa que la persona requiere ayuda constante para realizar actividades básicas como alimentarse, desplazarse y controlar esfínteres. Este rango sugiere que el individuo no puede mantenerse funcional sin asistencia significativa y podría necesitar cuidados profesionales o institucionales."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué puntuación máxima puede obtener una persona completamente independiente?",
+        "opciones": [
+            "10 puntos.",
+            "8 puntos.",
+            "12 puntos.",
+            "6 puntos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La puntuación máxima en la Escala de Lawton y Brody es de 8 puntos, lo que indica completa independencia en actividades instrumentales como preparar alimentos, manejar dinero, hacer compras y tomar medicación correctamente. Este rango refleja que la persona tiene la capacidad de vivir de manera autónoma en su entorno comunitario sin necesidad de asistencia."
+    },
+    {
+        "enunciado": "¿Qué evalúa el Mini-Examen Cognoscitivo de Lobo (MEC) además de la memoria?",
+        "opciones": [
+            "La capacidad de resolver problemas matemáticos.",
+            "La orientación, atención y lenguaje.",
+            "La autonomía en actividades básicas.",
+            "El riesgo de caídas."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "El MEC evalúa orientación (temporal y espacial), memoria, atención, cálculo, lenguaje y capacidad para copiar figuras geométricas. Una puntuación de 27-30 puntos se considera normal, mientras que valores inferiores sugieren deterioro cognitivo de diferente gravedad: 23-26 indica deterioro leve, 19-22 moderado, y menos de 19 grave, lo que podría requerir evaluación neurológica más exhaustiva."
+    },
+    {
+        "enunciado": "¿Qué aspecto evalúa específicamente la Escala de Yesavage?",
+        "opciones": [
+            "El estado nutricional.",
+            "El nivel de depresión.",
+            "El nivel de dependencia física.",
+            "La calidad de vida en cuidados paliativos."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "La Escala de Yesavage evalúa la presencia y severidad de síntomas depresivos en personas mayores. Una puntuación de 0-5 puntos sugiere ausencia de depresión, 6-10 indica depresión leve, y más de 10 señala depresión moderada a severa, que puede afectar significativamente la calidad de vida del paciente y su capacidad funcional."
+    },
+    {
+        "enunciado": "En el Test 'Levántate y anda', ¿qué tiempo sugiere una movilidad funcional normal?",
+        "opciones": [
+            "Menos de 10 segundos.",
+            "Entre 10 y 20 segundos.",
+            "Más de 20 segundos.",
+            "Exactamente 15 segundos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "Un tiempo inferior a 10 segundos en el Test 'Levántate y anda' indica movilidad funcional normal y un bajo riesgo de caídas. Entre 10-20 segundos refleja movilidad funcional adecuada pero con cierto riesgo, y más de 20 segundos indica movilidad comprometida y alto riesgo de caídas, especialmente en personas mayores."
+    },
+    {
+        "enunciado": "¿Qué instrumento es más adecuado para evaluar actividades básicas de la vida diaria?",
+        "opciones": [
+            "Escala de Lawton y Brody.",
+            "Índice de Barthel.",
+            "Mini-Examen Cognoscitivo de Lobo.",
+            "Test de Yesavage."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El Índice de Barthel evalúa actividades básicas como alimentación, aseo personal, control de esfínteres, movilidad y capacidad para vestirse. Una puntuación de 0-20 indica dependencia severa, 21-60 dependencia moderada, 61-90 dependencia leve, y 91-100 independencia completa."
+    },
+    {
+        "enunciado": "¿Qué escala mide la sobrecarga percibida por el cuidador de una persona dependiente?",
+        "opciones": [
+            "Índice de Barthel.",
+            "Escala de Zarit.",
+            "Escala de Lawton y Brody.",
+            "Test de Yesavage."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_cuidador"
+        ],
+        "feedback": "La Escala de Zarit mide el nivel de sobrecarga del cuidador, evaluando aspectos emocionales, físicos y sociales. Una puntuación baja (0-20) indica ausencia de sobrecarga, 21-40 señala sobrecarga moderada, y más de 41 refleja una sobrecarga intensa que puede impactar negativamente en la salud del cuidador."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad tiene una puntuación máxima de 15 puntos?",
+        "opciones": [
+            "Subir y bajar escaleras.",
+            "Control de micción.",
+            "Deambulación.",
+            "Trasladarse de la cama al sillón."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "En el Índice de Barthel, la actividad de deambulación tiene una puntuación máxima de 15 puntos. Esto incluye caminar 50 metros sin ayuda o supervisión, lo que es un indicador clave de independencia en la movilidad."
+    },
+    {
+        "enunciado": "¿Qué escala se utiliza para detectar fragilidad mediante dominios como fuerza, resistencia y actividad física?",
+        "opciones": [
+            "Cuestionario FRAIL.",
+            "Escala de Lawton y Brody.",
+            "Índice de Barthel.",
+            "Mini-Examen Cognoscitivo de Lobo."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Cuestionario FRAIL evalúa cinco dominios clave: Fatiga, Resistencia, Actividad física, Enfermedades y Pérdida de peso. Una puntuación de 0 indica ausencia de fragilidad, 1-2 puntos prefragilidad y 3-5 puntos fragilidad, siendo este último un indicador de mayor riesgo de deterioro funcional."
+    },
+    {
+        "enunciado": "¿Qué resultado en el MEC es compatible con un deterioro cognitivo grave?",
+        "opciones": [
+            "Entre 27 y 30 puntos.",
+            "Entre 15 y 19 puntos.",
+            "Menos de 15 puntos.",
+            "Entre 20 y 24 puntos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "Un resultado inferior a 15 puntos en el MEC indica deterioro cognitivo grave, que puede estar asociado a enfermedades como demencia avanzada. Este rango suele implicar una pérdida significativa de memoria, lenguaje, orientación y habilidades funcionales."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad tiene una puntuación máxima de 10 puntos?",
+        "opciones": [
+            "Control de deposiciones.",
+            "Alimentación.",
+            "Uso del retrete.",
+            "Bañarse."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La actividad de alimentación tiene una puntuación máxima de 10 puntos en el Índice de Barthel. Esto indica que la persona es completamente capaz de alimentarse sola, incluyendo cortar alimentos y utilizar cubiertos. Si necesita ayuda parcial, la puntuación es de 5 puntos, y 0 si requiere alimentación completa asistida."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad suele considerarse la más compleja de las instrumentales?",
+        "opciones": [
+            "Cuidado del hogar.",
+            "Manejo de medicamentos.",
+            "Uso del teléfono.",
+            "Manejo de finanzas."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El manejo de finanzas suele considerarse la actividad más compleja en la Escala de Lawton y Brody, ya que implica habilidades como planificar, realizar cálculos y tomar decisiones. Una persona completamente independiente puede gestionar todos sus asuntos económicos, mientras que una dependencia completa implica incapacidad para manejar dinero."
+    },
+    {
+        "enunciado": "¿Qué resultado en el Índice de Barthel indica dependencia leve?",
+        "opciones": [
+            "80-90 puntos.",
+            "60-79 puntos.",
+            "40-59 puntos.",
+            "20-39 puntos."
+        ],
+        "correcta": 0,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "Una puntuación de 80-90 puntos en el Índice de Barthel indica dependencia leve. Esto significa que la persona puede realizar la mayoría de las actividades básicas de la vida diaria con una mínima asistencia o supervisión."
+    },
+    {
+        "enunciado": "¿Qué actividad del Índice de Barthel evalúa la capacidad de realizar transferencias?",
+        "opciones": [
+            "Control de micción.",
+            "Trasladarse de la cama al sillón.",
+            "Subir y bajar escaleras.",
+            "Deambulación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "La actividad de trasladarse de la cama al sillón evalúa la capacidad de realizar transferencias en el Índice de Barthel. Una puntuación de 15 puntos indica independencia total, mientras que puntuaciones menores reflejan distintos grados de necesidad de ayuda."
+    },
+    {
+        "enunciado": "En el Mini-Examen Cognoscitivo de Lobo (MEC), ¿qué parte evalúa la orientación temporal y espacial?",
+        "opciones": [
+            "El recuerdo de palabras.",
+            "El cálculo.",
+            "La copia de figuras geométricas.",
+            "Las preguntas sobre el día, mes y lugar."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_cognitiva"
+        ],
+        "feedback": "En el MEC, la orientación temporal y espacial se evalúa preguntando sobre el día, mes, año y lugar donde se encuentra la persona. Un fallo en estas preguntas puede indicar deterioro cognitivo relacionado con desorientación."
+    },
+    {
+        "enunciado": "En el Test de Yesavage, ¿qué aspecto emocional se evalúa específicamente?",
+        "opciones": [
+            "El nivel de ansiedad.",
+            "La tendencia a la depresión.",
+            "El nivel de autoestima.",
+            "La capacidad de adaptación al entorno."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "valoracion_afectiva"
+        ],
+        "feedback": "El Test de Yesavage se centra en evaluar la depresión en personas mayores. Una puntuación baja sugiere buen estado emocional, mientras que puntuaciones altas reflejan niveles preocupantes de depresión que requieren intervención."
+    },
+    {
+        "enunciado": "¿Qué mide el Cuestionario FRAIL como marcador de fragilidad?",
+        "opciones": [
+            "Capacidades cognitivas.",
+            "Fuerza, resistencia y pérdida de peso.",
+            "Nivel de integración social.",
+            "Capacidad de deambulación."
+        ],
+        "correcta": 1,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "deteccion_fragilidad"
+        ],
+        "feedback": "El Cuestionario FRAIL evalúa la fragilidad a través de cinco dominios: fatiga, resistencia, actividad física, comorbilidades y pérdida de peso. Es una herramienta sencilla para identificar personas en riesgo de deterioro funcional."
+    },
+    {
+        "enunciado": "En el Índice de Barthel, ¿qué resultado indica independencia completa?",
+        "opciones": [
+            "Menos de 50 puntos.",
+            "Entre 50 y 75 puntos.",
+            "Entre 80 y 90 puntos.",
+            "95-100 puntos."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "Una puntuación de 95-100 puntos en el Índice de Barthel indica independencia completa, lo que significa que la persona puede realizar todas las actividades básicas de la vida diaria sin ayuda."
+    },
+    {
+        "enunciado": "En la Escala de Lawton y Brody, ¿qué actividad evalúa el uso del transporte público o privado?",
+        "opciones": [
+            "Preparación de comidas.",
+            "Uso del teléfono.",
+            "Hacer compras.",
+            "Uso de medios de transporte."
+        ],
+        "correcta": 3,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "evaluacion_funcional"
+        ],
+        "feedback": "El uso de medios de transporte evalúa si una persona puede viajar sola en transporte público o manejar su propio coche. Esto refleja autonomía en la movilidad comunitaria, un componente clave en las actividades instrumentales de la vida diaria."
+    },
+    {
+        "enunciado": "En el Test de Velocidad de Marcha, ¿qué tiempo sugiere riesgo elevado de caídas?",
+        "opciones": [
+            "Menos de 10 segundos.",
+            "Entre 10 y 12 segundos.",
+            "Más de 12 segundos.",
+            "Exactamente 20 segundos."
+        ],
+        "correcta": 2,
+        "categorías": [
+            "tema58",
+            "autonomia_fragilidad",
+            "escalas_fragilidad",
+            "riesgo_de_caidas"
+        ],
+        "feedback": "En el Test de Velocidad de Marcha, un tiempo superior a 12 segundos indica un riesgo elevado de caídas y movilidad limitada, sugiriendo la necesidad de intervenciones para mejorar la seguridad y la fuerza."
+    }
+]
