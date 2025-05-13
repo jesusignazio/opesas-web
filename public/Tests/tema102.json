@@ -1,0 +1,710 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes es una variable cualitativa ordinal?",
+        "opciones": [
+          "Grupo sanguíneo",
+          "Nivel de estudios alcanzado",
+          "Frecuencia respiratoria",
+          "Lugar de nacimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "variables"],
+        "feedback": "Las variables cualitativas ordinales tienen categorías con un orden lógico, como el nivel de estudios (primaria, secundaria, universidad...)."
+      },
+      {
+        "enunciado": "¿Qué escala de medición permite afirmar que 40°C no es el doble de calor que 20°C?",
+        "opciones": [
+          "Nominal",
+          "Ordinal",
+          "Intervalo",
+          "Razón"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "En la escala de intervalo, como la temperatura en °C, no existe un cero absoluto, por lo que las proporciones no tienen significado."
+      },
+      {
+        "enunciado": "¿Qué tipo de variable es el número de hijos que ha tenido una persona?",
+        "opciones": [
+          "Cualitativa ordinal",
+          "Cuantitativa continua",
+          "Cuantitativa discreta",
+          "Cualitativa nominal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "Es una variable cuantitativa discreta, ya que representa un conteo entero de eventos, sin fracciones."
+      },
+      {
+        "enunciado": "¿Cuál de estas variables puede considerarse de escala de razón?",
+        "opciones": [
+          "Temperatura en grados Celsius",
+          "Edad en años",
+          "Índice de masa corporal clasificado en categorías",
+          "Frecuencia del pulso expresada como baja/media/alta"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La edad tiene un cero absoluto y permite comparaciones de proporción, lo que define una escala de razón."
+      },
+      {
+        "enunciado": "¿Cuál es la principal diferencia entre las escalas de intervalo y razón?",
+        "opciones": [
+          "La escala de razón tiene categorías ordenadas",
+          "Solo la escala de intervalo permite operaciones matemáticas",
+          "La escala de razón tiene un cero absoluto, la de intervalo no",
+          "La escala de intervalo mide variables cualitativas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La escala de razón tiene un cero real (por ejemplo, 0 kg), lo que permite interpretar relaciones proporcionales como 'el doble'."
+      },
+      {
+        "enunciado": "La prevalencia mide:",
+        "opciones": [
+          "La rapidez con la que ocurren casos nuevos",
+          "El número total de casos nuevos en una cohorte",
+          "La frecuencia de todos los casos (nuevos y antiguos) en un momento dado",
+          "Solo los casos incidentes durante un año"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La prevalencia indica cuántas personas tienen una enfermedad en un momento o periodo, sin distinguir cuándo empezó."
+      },
+      {
+        "enunciado": "¿Qué medida indica el riesgo de desarrollar una enfermedad en un grupo de personas sanas al inicio?",
+        "opciones": [
+          "Prevalencia puntual",
+          "Riesgo relativo",
+          "Incidencia acumulada",
+          "Odds ratio"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La incidencia acumulada calcula cuántas personas desarrollan la enfermedad a lo largo del tiempo entre las que estaban inicialmente sanas."
+      },
+      {
+        "enunciado": "El riesgo relativo se interpreta como:",
+        "opciones": [
+          "La diferencia entre la incidencia en expuestos y no expuestos",
+          "La proporción de casos atribuibles a la exposición",
+          "La razón de incidencia en expuestos comparado con no expuestos",
+          "El número necesario para tratar"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "El riesgo relativo compara la probabilidad de enfermedad entre personas expuestas y no expuestas, como una razón."
+      },
+      {
+        "enunciado": "¿Qué medida se calcula más frecuentemente en estudios de casos y controles?",
+        "opciones": [
+          "Riesgo relativo",
+          "Odds ratio",
+          "Incidencia acumulada",
+          "Prevalencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "El odds ratio (razón de momios) es la medida de asociación más utilizada en estudios de casos y controles, donde no se puede calcular incidencia."
+      },
+      {
+        "enunciado": "Si el riesgo relativo es 1, significa que:",
+        "opciones": [
+          "La exposición reduce el riesgo",
+          "No hay asociación entre exposición y enfermedad",
+          "La exposición multiplica por dos el riesgo",
+          "La exposición causa el 50% de los casos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Un riesgo relativo de 1 indica que el riesgo de enfermedad es igual en expuestos y no expuestos; no hay asociación."
+      },
+      {
+        "enunciado": "El riesgo atribuible absoluto (RAA) mide:",
+        "opciones": [
+          "La proporción de casos en expuestos que se deben a la exposición",
+          "La diferencia de riesgo entre expuestos y no expuestos",
+          "La razón de incidencias entre dos grupos",
+          "La tasa de nuevos casos en la población general"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El RAA muestra cuántos casos adicionales ocurren en los expuestos comparado con los no expuestos, debido a la exposición."
+      },
+      {
+        "enunciado": "¿Qué indica la fracción atribuible en expuestos (FAE)?",
+        "opciones": [
+          "El porcentaje de la población total afectada por la exposición",
+          "El número absoluto de casos causados por la exposición",
+          "El porcentaje de casos en expuestos atribuibles a la exposición",
+          "La incidencia general en los expuestos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "La FAE indica qué proporción de los casos observados en personas expuestas puede atribuirse a esa exposición específica."
+      },
+      {
+        "enunciado": "¿Qué tipo de variable es el nivel de dolor clasificado como leve, moderado o intenso?",
+        "opciones": [
+          "Cuantitativa discreta",
+          "Cualitativa nominal",
+          "Cuantitativa continua",
+          "Cualitativa ordinal"
+        ],
+        "correcta": 3,
+        "categorías": ["tema102", "variables"],
+        "feedback": "Es una variable cualitativa ordinal porque tiene categorías con un orden lógico, aunque no se pueda cuantificar exactamente la diferencia entre ellas."
+      },
+      {
+        "enunciado": "El odds ratio tiende a sobrestimar el riesgo relativo cuando:",
+        "opciones": [
+          "La enfermedad es muy frecuente",
+          "La muestra es pequeña",
+          "Se usa en estudios de cohortes",
+          "Se calcula en poblaciones abiertas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Cuando la enfermedad es común, el odds ratio puede alejarse mucho del riesgo relativo real, especialmente si es mayor que 1."
+      },
+      {
+        "enunciado": "¿Qué tipo de variable es la glucemia medida en mg/dL?",
+        "opciones": [
+          "Cualitativa ordinal",
+          "Cuantitativa continua",
+          "Cuantitativa discreta",
+          "Cualitativa nominal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "variables"],
+        "feedback": "La glucemia puede tomar cualquier valor dentro de un rango, incluyendo decimales, por lo que es una variable cuantitativa continua."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas permite comparar diferencias pero no proporciones?",
+        "opciones": [
+          "Escala de razón",
+          "Escala ordinal",
+          "Escala nominal",
+          "Escala de intervalo"
+        ],
+        "correcta": 3,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La escala de intervalo, como los grados Celsius, permite sumar y restar pero no establecer proporciones porque carece de cero absoluto."
+      },
+      {
+        "enunciado": "¿Qué variable corresponde a una escala nominal?",
+        "opciones": [
+          "Presión arterial",
+          "Sexo biológico",
+          "Nivel de educación",
+          "Edad en años"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "variables"],
+        "feedback": "La variable 'sexo biológico' clasifica a las personas en categorías sin orden inherente, lo que define una escala nominal."
+      },
+      {
+        "enunciado": "La incidencia acumulada se interpreta como:",
+        "opciones": [
+          "Proporción de personas sanas que desarrollan la enfermedad en un período",
+          "Número total de casos existentes en una población",
+          "Razón entre casos nuevos y casos existentes",
+          "Porcentaje de personas con la enfermedad en un momento puntual"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La incidencia acumulada indica qué parte de una población inicialmente sana desarrolla una enfermedad a lo largo del tiempo."
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia principal entre la tasa de incidencia y la incidencia acumulada?",
+        "opciones": [
+          "La tasa incluye el tiempo en el denominador",
+          "La incidencia acumulada se usa solo en estudios experimentales",
+          "La tasa no puede usarse en cohortes",
+          "La incidencia acumulada no considera el seguimiento"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La tasa de incidencia incluye el tiempo que cada persona estuvo en riesgo, lo que permite calcularla en cohortes abiertas o con pérdida de seguimiento."
+      },
+      {
+        "enunciado": "Si el odds ratio es 1,5, se interpreta como:",
+        "opciones": [
+          "La exposición reduce el riesgo de enfermedad",
+          "No hay diferencia entre expuestos y no expuestos",
+          "Los expuestos tienen 1,5 veces más probabilidades de enfermedad",
+          "El 50% de los expuestos desarrollará la enfermedad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Un OR de 1,5 indica que la probabilidad de tener la enfermedad es 50% mayor en los expuestos que en los no expuestos."
+      },
+      {
+        "enunciado": "¿Qué mide la fracción atribuible poblacional (FAP)?",
+        "opciones": [
+          "La diferencia de incidencia entre expuestos y no expuestos",
+          "La proporción de casos en la población general atribuibles a una exposición",
+          "El riesgo individual de los expuestos",
+          "La tasa de incidencia ajustada por edad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "La FAP indica qué parte de todos los casos en la población se podrían evitar si se eliminara la exposición."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas es más adecuada para estimar el efecto de una intervención preventiva?",
+        "opciones": [
+          "Prevalencia puntual",
+          "Tasa de incidencia",
+          "Riesgo atribuible",
+          "Odds ratio"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El riesgo atribuible permite estimar cuántos casos se evitarían si se elimina la exposición, lo que es útil en prevención."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo de variable cuantitativa discreta?",
+        "opciones": [
+          "Edad exacta en años y meses",
+          "Frecuencia cardíaca continua",
+          "Número de ingresos hospitalarios",
+          "Nivel de dolor en escala de Likert"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "El número de ingresos es un conteo entero, sin valores intermedios, lo que lo hace una variable cuantitativa discreta."
+      },
+      {
+        "enunciado": "Una variable medida en escala ordinal:",
+        "opciones": [
+          "Tiene categorías sin orden",
+          "Permite calcular promedios",
+          "Tiene categorías ordenadas pero sin distancias iguales",
+          "Debe ser siempre numérica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La escala ordinal tiene categorías con un orden lógico, pero las diferencias entre ellas no son necesariamente iguales ni medibles con precisión."
+      },
+      {
+        "enunciado": "¿Cuál es una limitación del odds ratio respecto al riesgo relativo?",
+        "opciones": [
+          "No puede usarse en estudios de casos y controles",
+          "Solo se aplica en estudios transversales",
+          "Sobreestima el riesgo cuando la enfermedad es frecuente",
+          "No puede calcularse en cohortes cerradas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Cuando la enfermedad es común, el odds ratio tiende a alejarse del riesgo relativo y puede parecer exagerado."
+      },
+      {
+        "enunciado": "¿Qué medida refleja mejor la carga total de una enfermedad en un momento dado?",
+        "opciones": [
+          "Prevalencia",
+          "Incidencia acumulada",
+          "Riesgo relativo",
+          "Fracción atribuible"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La prevalencia muestra cuántas personas tienen una enfermedad en un momento dado, independientemente de cuándo se inició."
+      },
+      {
+        "enunciado": "¿Qué mide el riesgo atribuible en la población (RAP)?",
+        "opciones": [
+          "El número de casos nuevos en los expuestos",
+          "El exceso de riesgo debido a la exposición en toda la población",
+          "La incidencia de fondo en los no expuestos",
+          "La proporción de individuos expuestos en una muestra"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El RAP estima cuánto del riesgo total en la población se debe a la exposición, teniendo en cuenta cuántas personas están expuestas."
+      },
+      {
+        "enunciado": "¿Qué medida es más útil para cuantificar cuánto aumenta o reduce la probabilidad de enfermedad al estar expuesto?",
+        "opciones": [
+          "Prevalencia",
+          "Riesgo relativo",
+          "Tasa cruda",
+          "Razón de prevalencias"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "El riesgo relativo compara la probabilidad de enfermar entre expuestos y no expuestos, por eso es clave para evaluar asociaciones causales."
+      },
+      {
+        "enunciado": "Si una variable tiene valores numéricos pero solo indica categorías, se trata de:",
+        "opciones": [
+          "Variable continua",
+          "Variable ordinal",
+          "Variable nominal codificada numéricamente",
+          "Variable discreta"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "A veces se codifican variables nominales (como sexo o región) con números, pero eso no las convierte en variables numéricas reales."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes variables es cuantitativa continua?",
+        "opciones": [
+          "Número de hijos",
+          "Talla en centímetros",
+          "Clasificación del dolor en leve/moderado/severo",
+          "Tipo de sangre"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "variables"],
+        "feedback": "La talla puede tomar cualquier valor dentro de un rango, incluso decimales, lo que la convierte en una variable cuantitativa continua."
+      },
+      {
+        "enunciado": "Una variable cualitativa nominal se caracteriza por:",
+        "opciones": [
+          "Categorías con orden lógico",
+          "Valores numéricos con significado matemático",
+          "Categorías sin orden intrínseco",
+          "Capacidad de medir proporciones"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "Las variables cualitativas nominales clasifican sin establecer jerarquía, como el color de ojos o el país de nacimiento."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas de medición permite calcular promedios y proporciones?",
+        "opciones": [
+          "Nominal",
+          "Ordinal",
+          "Intervalo",
+          "Razón"
+        ],
+        "correcta": 3,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La escala de razón tiene un cero absoluto y permite operaciones matemáticas completas, como calcular promedios y razones."
+      },
+      {
+        "enunciado": "¿Qué tipo de escala es la puntuación de la escala de Glasgow?",
+        "opciones": [
+          "Nominal",
+          "Ordinal",
+          "Intervalo",
+          "Razón"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "Aunque se utiliza una puntuación numérica, la escala de Glasgow representa una jerarquía sin distancias matemáticamente iguales entre valores, por eso es ordinal."
+      },
+      {
+        "enunciado": "La tasa de incidencia considera:",
+        "opciones": [
+          "Solo casos antiguos",
+          "Casos nuevos en relación con el total de personas observadas",
+          "Casos nuevos por unidad de tiempo-persona",
+          "La proporción de enfermos existentes en una población"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La tasa de incidencia refleja la velocidad a la que aparecen nuevos casos, y se calcula en función del tiempo que cada persona estuvo en riesgo."
+      },
+      {
+        "enunciado": "¿Qué medida es útil para evaluar el estado de salud de una población en un momento dado?",
+        "opciones": [
+          "Prevalencia",
+          "Incidencia acumulada",
+          "Odds ratio",
+          "Riesgo atribuible"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La prevalencia muestra cuántas personas tienen la enfermedad actualmente, lo que ayuda a estimar la carga total del problema."
+      },
+      {
+        "enunciado": "Si el riesgo relativo es menor a 1, ¿cómo se interpreta?",
+        "opciones": [
+          "La exposición es un factor de riesgo",
+          "No hay relación entre exposición y desenlace",
+          "La exposición puede ser un factor protector",
+          "El desenlace no puede evitarse con la exposición"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Un riesgo relativo menor que 1 sugiere que los expuestos tienen menos probabilidad de enfermar, lo que indica un posible efecto protector."
+      },
+      {
+        "enunciado": "¿Qué medida representa mejor la fuerza de asociación entre una exposición y una enfermedad en un estudio transversal?",
+        "opciones": [
+          "Riesgo relativo",
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Razón de prevalencias"
+        ],
+        "correcta": 3,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "En estudios transversales no se puede calcular incidencia, por lo que se utiliza la razón de prevalencias para comparar grupos."
+      },
+      {
+        "enunciado": "¿Cuál de estas afirmaciones sobre el riesgo atribuible es correcta?",
+        "opciones": [
+          "Se calcula como una razón",
+          "Es útil solo en estudios ecológicos",
+          "Es una diferencia de riesgos entre grupos",
+          "Se basa en prevalencias ajustadas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El riesgo atribuible se obtiene restando el riesgo en no expuestos al de los expuestos, indicando el exceso de casos atribuible a la exposición."
+      },
+      {
+        "enunciado": "¿Qué representa la fracción atribuible poblacional (FAP)?",
+        "opciones": [
+          "La proporción de casos en expuestos atribuible a la exposición",
+          "La reducción absoluta del riesgo",
+          "El porcentaje de casos en toda la población causados por la exposición",
+          "El total de casos nuevos por año"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "La FAP muestra qué parte del problema de salud en toda la población puede atribuirse a la exposición, y qué se podría evitar si se eliminara."
+      },
+      {
+        "enunciado": "¿Qué variable corresponde a una escala ordinal?",
+        "opciones": [
+          "Grupo sanguíneo",
+          "Nivel socioeconómico (bajo, medio, alto)",
+          "Presión arterial en mmHg",
+          "Frecuencia de hospitalización"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "El nivel socioeconómico tiene categorías con un orden lógico, aunque no medibles con precisión matemática entre sí."
+      },
+      {
+        "enunciado": "¿Qué medida se utiliza para cuantificar cuántos casos adicionales se deben a la exposición en expuestos?",
+        "opciones": [
+          "Riesgo relativo",
+          "Odds ratio",
+          "Riesgo atribuible absoluto",
+          "Fracción atribuible poblacional"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El riesgo atribuible absoluto mide el exceso de casos en el grupo expuesto comparado con los no expuestos."
+      },
+      {
+        "enunciado": "¿Cuál de estas opciones refleja una variable medida en escala nominal?",
+        "opciones": [
+          "Clasificación de tumores (I, II, III, IV)",
+          "Edad agrupada (0-20, 21-40...)",
+          "Tipo de sangre (A, B, AB, O)",
+          "Puntaje de dolor en una escala de 0 a 10"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "El tipo de sangre clasifica en categorías sin orden específico, por eso es una variable de escala nominal."
+      },
+      {
+        "enunciado": "En una cohorte cerrada, ¿qué medida puede calcularse fácilmente al final del seguimiento?",
+        "opciones": [
+          "Tasa cruda de prevalencia",
+          "Razón de momios",
+          "Incidencia acumulada",
+          "Prevalencia ajustada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "Con una cohorte cerrada y seguimiento completo, se puede calcular la incidencia acumulada, es decir, el riesgo absoluto de enfermedad."
+      },
+      {
+        "enunciado": "¿Qué variable es cuantitativa, continua y medida en escala de razón?",
+        "opciones": [
+          "Temperatura en grados Celsius",
+          "Edad en años",
+          "Nivel de educación",
+          "Puntaje en escala de ansiedad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La edad es una variable continua con cero real y permite comparaciones proporcionales (por ejemplo, una persona puede tener el doble de edad que otra)."
+      },
+      {
+        "enunciado": "¿Qué tipo de variable es el número de consultas médicas en el último año?",
+        "opciones": [
+          "Cualitativa ordinal",
+          "Cuantitativa discreta",
+          "Cuantitativa continua",
+          "Cualitativa nominal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "variables"],
+        "feedback": "El número de consultas es una variable cuantitativa discreta porque representa un conteo entero de eventos."
+      },
+      {
+        "enunciado": "Una variable medida en escala de intervalo se caracteriza por:",
+        "opciones": [
+          "Tener categorías sin orden",
+          "Tener orden y distancias iguales pero sin cero absoluto",
+          "Permitir cálculos proporcionales como el doble o la mitad",
+          "No permitir operaciones matemáticas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La escala de intervalo permite medir diferencias iguales, pero no proporciones, porque el cero no significa ausencia real."
+      },
+      {
+        "enunciado": "¿Qué variable corresponde a una escala de razón?",
+        "opciones": [
+          "Temperatura en grados Fahrenheit",
+          "Edad en años",
+          "Frecuencia cardíaca en categorías baja/media/alta",
+          "Nivel educativo (primaria, secundaria, universidad)"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La edad en años tiene un cero real y permite comparaciones proporcionales, lo que la define como escala de razón."
+      },
+      {
+        "enunciado": "¿Qué mide mejor el riesgo de enfermar a lo largo del tiempo en una cohorte cerrada?",
+        "opciones": [
+          "Prevalencia",
+          "Riesgo relativo",
+          "Incidencia acumulada",
+          "Tasa cruda"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La incidencia acumulada es la proporción de personas que enferman durante el seguimiento en una población inicialmente sana."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones refleja el uso correcto del odds ratio?",
+        "opciones": [
+          "Cohorte prospectiva con desenlace común",
+          "Estudio transversal con desenlace raro",
+          "Estudio de casos y controles",
+          "Estudio ecológico de prevalencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "El odds ratio es la medida adecuada en estudios de casos y controles, donde no se puede calcular riesgo directamente."
+      },
+      {
+        "enunciado": "Cuando el odds ratio y el riesgo relativo son similares, suele ser porque:",
+        "opciones": [
+          "El desenlace es poco frecuente",
+          "La muestra es muy grande",
+          "La exposición no tiene efecto",
+          "Se usa una cohorte abierta"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "medidas de asociación"],
+        "feedback": "Cuando la enfermedad es rara, el odds ratio se aproxima bastante al riesgo relativo, lo que permite interpretaciones similares."
+      },
+      {
+        "enunciado": "¿Qué representa el riesgo atribuible en expuestos (RAE)?",
+        "opciones": [
+          "La proporción de toda la población que enfermará",
+          "El exceso de riesgo en los expuestos comparado con no expuestos",
+          "La razón de incidencia entre dos grupos",
+          "La tasa de casos nuevos por 1000 habitantes"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "El RAE cuantifica cuánto mayor es el riesgo entre los expuestos debido a la exposición, en comparación con los no expuestos."
+      },
+      {
+        "enunciado": "La fracción atribuible en los expuestos (FAE) expresa:",
+        "opciones": [
+          "Cuántos casos absolutos ocurren en los no expuestos",
+          "La diferencia absoluta entre prevalencias",
+          "El porcentaje de casos en expuestos que puede atribuirse a la exposición",
+          "El exceso de incidencia poblacional"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "La FAE expresa qué proporción de los casos observados en los expuestos es atribuible a la exposición, y por tanto, potencialmente evitable."
+      },
+      {
+        "enunciado": "¿Qué medida se calcula mejor en estudios transversales?",
+        "opciones": [
+          "Incidencia acumulada",
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Riesgo atribuible"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "En estudios transversales se mide la proporción de personas con enfermedad en un momento puntual: eso es la prevalencia."
+      },
+      {
+        "enunciado": "¿Cuál de estas variables no es adecuada para calcular promedios?",
+        "opciones": [
+          "Edad",
+          "Frecuencia cardíaca",
+          "Nivel de dolor (leve, moderado, severo)",
+          "Peso en kilogramos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "variables"],
+        "feedback": "Las variables ordinales como el nivel de dolor no tienen distancias numéricamente iguales entre categorías, por lo que no se recomienda calcular promedios."
+      },
+      {
+        "enunciado": "¿Qué variable se clasifica como cualitativa nominal?",
+        "opciones": [
+          "Estado civil",
+          "Edad en años",
+          "Nivel de glucosa en sangre",
+          "Número de visitas médicas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema102", "variables"],
+        "feedback": "El estado civil es una categoría sin orden, como soltero, casado o viudo, por lo tanto, es una variable cualitativa nominal."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas NO depende del tiempo de seguimiento?",
+        "opciones": [
+          "Incidencia acumulada",
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Tiempo-persona"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La prevalencia es una medida transversal: cuenta los casos existentes en un momento determinado, sin considerar cuánto tiempo llevan enfermos."
+      },
+      {
+        "enunciado": "¿Cuál es la unidad habitual para expresar una tasa de incidencia?",
+        "opciones": [
+          "Casos por 100 personas",
+          "Casos por 1000 personas-año",
+          "Proporción acumulada",
+          "Porcentaje de expuestos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de frecuencia"],
+        "feedback": "La tasa de incidencia incorpora el tiempo en el denominador y suele expresarse como casos por 1000 personas-año u otra unidad de tiempo."
+      },
+      {
+        "enunciado": "Si un estudio encuentra una fracción atribuible poblacional (FAP) del 30%, significa que:",
+        "opciones": [
+          "El 30% de los casos en expuestos se debe a la exposición",
+          "El 30% de los casos en toda la población se atribuyen a la exposición",
+          "La exposición aumenta un 30% el riesgo individual",
+          "La prevalencia de la exposición es del 30%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema102", "medidas de impacto"],
+        "feedback": "Una FAP del 30% indica que, si se eliminara la exposición, se podrían evitar el 30% de los casos en toda la población."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pares variable/escala es incorrecto?",
+        "opciones": [
+          "Sexo - nominal",
+          "Edad - razón",
+          "Temperatura en °C - razón",
+          "Nivel de dolor - ordinal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema102", "escalas de medida"],
+        "feedback": "La temperatura en °C es escala de intervalo, no de razón, ya que su cero no representa la ausencia real de temperatura."
+      }      
+]

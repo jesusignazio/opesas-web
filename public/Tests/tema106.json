@@ -1,0 +1,543 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes es un ejemplo de prevención primaria?",
+        "opciones": [
+          "Rehabilitación después de un infarto",
+          "Tratamiento precoz de la hipertensión",
+          "Vacunación contra el sarampión",
+          "Tamizaje para cáncer de mama"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "La prevención primaria busca evitar la aparición de enfermedades. Las vacunas son un ejemplo clásico de esta estrategia."
+      },
+      {
+        "enunciado": "La prevención secundaria tiene como objetivo principal:",
+        "opciones": [
+          "Evitar que aparezca la enfermedad",
+          "Prevenir recaídas después del tratamiento",
+          "Detectar enfermedades en etapas tempranas",
+          "Reducir el uso innecesario de medicamentos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "La prevención secundaria se centra en detectar enfermedades en fases tempranas para iniciar tratamiento cuanto antes."
+      },
+      {
+        "enunciado": "¿Cuál de estas intervenciones corresponde a prevención terciaria?",
+        "opciones": [
+          "Promoción de dieta saludable",
+          "Reeducación motora tras un ictus",
+          "Detección precoz de cáncer de colon",
+          "Aplicación de vacunas infantiles"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La prevención terciaria busca reducir las secuelas o discapacidades tras una enfermedad. La rehabilitación neurológica es un buen ejemplo."
+      },
+      {
+        "enunciado": "La prevención cuaternaria tiene como fin:",
+        "opciones": [
+          "Eliminar factores de riesgo poblacionales",
+          "Detectar precozmente enfermedades",
+          "Prevenir daño derivado de intervenciones médicas innecesarias",
+          "Controlar brotes epidémicos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "La prevención cuaternaria protege al paciente de intervenciones innecesarias o excesivas, evitando el sobrediagnóstico y sobretratamiento."
+      },
+      {
+        "enunciado": "El cribado (screening) de enfermedades como el cáncer de mama es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "El cribado permite detectar enfermedades en etapas tempranas, antes de que causen síntomas. Esto es prevención secundaria."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes intervenciones corresponde a prevención primaria?",
+        "opciones": [
+          "Tratamiento de la hipertensión",
+          "Educación sobre tabaquismo en escuelas",
+          "Fisioterapia después de cirugía ortopédica",
+          "Detección precoz del VIH"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Educar para evitar hábitos dañinos (como fumar) forma parte de la prevención primaria, porque actúa antes de que aparezca la enfermedad."
+      },
+      {
+        "enunciado": "El consejo sobre planificación familiar es un ejemplo de:",
+        "opciones": [
+          "Prevención cuaternaria",
+          "Prevención terciaria",
+          "Prevención secundaria",
+          "Prevención primaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "La planificación familiar ayuda a evitar embarazos no deseados y enfermedades asociadas. Es prevención primaria."
+      },
+      {
+        "enunciado": "La indicación de una prueba innecesaria en un paciente sin síntomas puede generar daño. Esto se relaciona con:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención cuaternaria",
+          "Ninguna prevención"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "La prevención cuaternaria busca evitar prácticas médicas que no benefician al paciente y pueden causar daño o ansiedad."
+      },
+      {
+        "enunciado": "¿Qué nivel de prevención está presente en los programas de rehabilitación cardíaca?",
+        "opciones": [
+          "Primario",
+          "Secundario",
+          "Terciario",
+          "Cuaternario"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "Tras un evento cardiovascular, la rehabilitación forma parte de la prevención terciaria, que reduce secuelas y mejora calidad de vida."
+      },
+      {
+        "enunciado": "La detección de hipertensión arterial en personas asintomáticas es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "El diagnóstico precoz de enfermedades antes de que aparezcan síntomas corresponde a la prevención secundaria."
+      },
+      {
+        "enunciado": "¿Qué nivel de prevención busca reducir la discapacidad producida por una enfermedad ya diagnosticada?",
+        "opciones": [
+          "Primario",
+          "Secundario",
+          "Terciario",
+          "Cuaternario"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La prevención terciaria busca evitar complicaciones, limitar discapacidades y mejorar la función tras una enfermedad."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes estrategias corresponde a prevención cuaternaria?",
+        "opciones": [
+          "Campaña de vacunación",
+          "Mamografía en mujeres sanas",
+          "No prescribir antibióticos sin necesidad",
+          "Rehabilitación en pacientes con ictus"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Evitar tratamientos innecesarios como antibióticos sin indicación es una acción de prevención cuaternaria."
+      },
+      {
+        "enunciado": "¿Qué nivel de prevención se aplica al aislamiento de pacientes con enfermedades infecciosas?",
+        "opciones": [
+          "Primario",
+          "Secundario",
+          "Terciario",
+          "Puede ser primario o secundario"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria y secundaria"],
+        "feedback": "El aislamiento puede ser primario si previene contagios, o secundario si detecta casos tempranos y evita su diseminación."
+      },
+      {
+        "enunciado": "¿Qué nivel de prevención incluye la educación sanitaria para el uso racional de medicamentos?",
+        "opciones": [
+          "Primaria",
+          "Secundaria",
+          "Terciaria",
+          "Cuaternaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Educar para evitar el uso innecesario de fármacos es una medida de prevención cuaternaria."
+      },
+      {
+        "enunciado": "El uso de preservativo como forma de prevención del VIH es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención primaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Evitar la infección antes de que ocurra es prevención primaria. El preservativo es una medida eficaz en este sentido."
+      },
+      {
+        "enunciado": "La vacunación contra la hepatitis B es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención primaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "La vacunación previene la aparición de la enfermedad, por lo tanto, es prevención primaria."
+      },
+      {
+        "enunciado": "El cribado (screening) de enfermedades como el cáncer de mama es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "El cribado permite detectar enfermedades en fases tempranas, antes de que den síntomas, lo que corresponde a prevención secundaria."
+      },
+      {
+        "enunciado": "La rehabilitación física después de una fractura es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La rehabilitación busca reducir las secuelas de una enfermedad ya presente, por lo que es prevención terciaria."
+      },
+      {
+        "enunciado": "Evitar el uso innecesario de antibióticos en infecciones virales es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Prevenir daño por intervenciones médicas innecesarias es prevención cuaternaria."
+      },
+      {
+        "enunciado": "La educación sobre alimentación saludable en escuelas es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención primaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Educar para evitar factores de riesgo antes de que aparezca la enfermedad es prevención primaria."
+      },
+      {
+        "enunciado": "El diagnóstico precoz de diabetes mellitus tipo 2 mediante controles de glucosa es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "Detectar una enfermedad en fases iniciales, antes de síntomas o complicaciones, es prevención secundaria."
+      },
+      {
+        "enunciado": "La rehabilitación cognitiva en pacientes con enfermedad de Alzheimer es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La prevención terciaria busca mejorar la calidad de vida reduciendo el impacto de una enfermedad crónica ya establecida."
+      },
+      {
+        "enunciado": "La evitación del sobrediagnóstico mediante protocolos clínicos actualizados es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Evitar pruebas y tratamientos innecesarios forma parte de la prevención cuaternaria."
+      },
+      {
+        "enunciado": "El control de presión arterial para evitar complicaciones cardiovasculares en pacientes hipertensos es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención primaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "Controlar la enfermedad para evitar complicaciones y discapacidades es prevención terciaria."
+      },
+      {
+        "enunciado": "El uso del preservativo como medida para prevenir infecciones de transmisión sexual es un ejemplo de:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención secundaria",
+          "Prevención cuaternaria",
+          "Prevención primaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Prevenir el contagio antes de que ocurra corresponde a prevención primaria."
+      },
+      {
+        "enunciado": "El consejo genético para evitar transmisión de enfermedades hereditarias es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "El consejo genético actúa antes de que ocurra la enfermedad, por lo que se considera prevención primaria."
+      },
+      {
+        "enunciado": "El control periódico de pacientes con antecedente de cáncer para detectar recaídas es un ejemplo de:",
+        "opciones": [
+          "Prevención cuaternaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención primaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La prevención terciaria incluye seguimiento y control para evitar recaídas o nuevas complicaciones."
+      },
+      {
+        "enunciado": "El test de sangre oculta en heces para detectar cáncer colorrectal en personas sin síntomas es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "El test busca detectar precozmente una enfermedad asintomática, característica de la prevención secundaria."
+      },
+      {
+        "enunciado": "Indicar pruebas diagnósticas innecesarias en pacientes sin factores de riesgo es un error evitado por:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención secundaria",
+          "Prevención primaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Evitar daños por exceso de intervenciones médicas es el objetivo de la prevención cuaternaria."
+      },
+      {
+        "enunciado": "Educar a una población sobre la importancia de la actividad física regular para prevenir enfermedades cardiovasculares es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención primaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Promover hábitos saludables antes de que aparezca la enfermedad es prevención primaria."
+      },
+      {
+        "enunciado": "La administración de ácido fólico en mujeres embarazadas para prevenir defectos del tubo neural es un ejemplo de:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención secundaria",
+          "Prevención cuaternaria",
+          "Prevención primaria"
+        ],
+        "correcta": 3,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "El ácido fólico previene enfermedades antes de que aparezcan, por lo tanto, es prevención primaria."
+      },
+      {
+        "enunciado": "La realización de citología cervical en mujeres sin síntomas para detectar lesiones premalignas es un ejemplo de:",
+        "opciones": [
+          "Prevención cuaternaria",
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención primaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "La detección precoz de enfermedades antes de síntomas es prevención secundaria."
+      },
+      {
+        "enunciado": "El tratamiento de un paciente diabético para evitar complicaciones como retinopatía es un ejemplo de:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "Tratar para evitar complicaciones o secuelas corresponde a prevención terciaria."
+      },
+      {
+        "enunciado": "La suspensión de un medicamento innecesario para evitar efectos adversos es un ejemplo de:",
+        "opciones": [
+          "Prevención cuaternaria",
+          "Prevención primaria",
+          "Prevención terciaria",
+          "Prevención secundaria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Evitar intervenciones médicas innecesarias que puedan causar daño es prevención cuaternaria."
+      },
+      {
+        "enunciado": "El aislamiento de pacientes con tuberculosis para evitar contagios es un ejemplo de:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención primaria",
+          "Prevención secundaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "El aislamiento evita la transmisión de la enfermedad, lo que es parte de la prevención primaria."
+      },
+      {
+        "enunciado": "El control post-infarto para evitar nuevos eventos cardiovasculares es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención primaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "Prevenir la progresión o complicaciones de una enfermedad ya presente es prevención terciaria."
+      },
+      {
+        "enunciado": "La educación en higiene bucal en niños pequeños es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención terciaria",
+          "Prevención primaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Promover hábitos que previenen enfermedades desde edades tempranas es prevención primaria."
+      },
+      {
+        "enunciado": "El uso de pruebas diagnósticas innecesarias en pacientes asintomáticos puede ser prevenido mediante:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención cuaternaria",
+          "Prevención secundaria",
+          "Prevención terciaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Evitar el sobrediagnóstico o intervenciones innecesarias es el objetivo principal de la prevención cuaternaria."
+      },
+      {
+        "enunciado": "El cribado neonatal para detectar hipotiroidismo congénito es un ejemplo de:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención secundaria",
+          "Prevención primaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "El cribado neonatal detecta precozmente enfermedades para tratarlas antes de que causen daño: prevención secundaria."
+      },
+      {
+        "enunciado": "Realizar una prueba genética sin indicación clínica en una persona sana es un riesgo de no aplicar correctamente la:",
+        "opciones": [
+          "Prevención terciaria",
+          "Prevención cuaternaria",
+          "Prevención secundaria",
+          "Prevención primaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "La prevención cuaternaria busca evitar el uso de pruebas diagnósticas que puedan generar ansiedad o daño sin beneficio."
+      },
+      {
+        "enunciado": "Detectar precozmente un melanoma mediante revisión dermatológica en personas de riesgo es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "Prevención terciaria",
+          "Prevención secundaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención secundaria"],
+        "feedback": "Detectar una enfermedad en fases iniciales antes de síntomas clínicos corresponde a prevención secundaria."
+      },
+      {
+        "enunciado": "La formación de profesionales sanitarios en prescripción racional de fármacos corresponde a:",
+        "opciones": [
+          "Prevención cuaternaria",
+          "Prevención primaria",
+          "Prevención secundaria",
+          "Prevención terciaria"
+        ],
+        "correcta": 0,
+        "categorías": ["tema106", "prevención cuaternaria"],
+        "feedback": "Formar para evitar prácticas médicas innecesarias o perjudiciales es prevención cuaternaria."
+      },
+      {
+        "enunciado": "El tratamiento de una neumonía diagnosticada clínicamente es un ejemplo de:",
+        "opciones": [
+          "Prevención primaria",
+          "No se considera prevención",
+          "Prevención secundaria",
+          "Prevención cuaternaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema106", "no prevención"],
+        "feedback": "El tratamiento curativo de una enfermedad ya diagnosticada no se considera un acto preventivo."
+      },
+      {
+        "enunciado": "El fomento del uso de protector solar para prevenir cáncer de piel es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención cuaternaria",
+          "Prevención primaria",
+          "Prevención terciaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención primaria"],
+        "feedback": "Evitar la aparición de una enfermedad actuando sobre factores de riesgo es prevención primaria."
+      },
+      {
+        "enunciado": "La terapia ocupacional en pacientes con enfermedad de Parkinson es un ejemplo de:",
+        "opciones": [
+          "Prevención secundaria",
+          "Prevención cuaternaria",
+          "Prevención terciaria",
+          "Prevención primaria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema106", "prevención terciaria"],
+        "feedback": "La terapia ocupacional mejora la calidad de vida y funcionalidad en enfermedades crónicas: prevención terciaria."
+      }
+    
+]

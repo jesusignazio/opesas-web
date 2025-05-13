@@ -1,0 +1,723 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes opciones representa una medida de dispersión?",
+        "opciones": [
+          "Media",
+          "Mediana",
+          "Desviación estándar",
+          "Moda"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar mide cuánto se alejan, en promedio, los datos de su media, mientras que media, mediana y moda son medidas de tendencia central."
+      },
+      {
+        "enunciado": "Si en una muestra los valores están muy alejados de la media, ¿cuál de estas medidas será más alta?",
+        "opciones": [
+          "Mediana",
+          "Varianza",
+          "Moda",
+          "Percentil 50"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza mide el promedio de los cuadrados de las desviaciones respecto a la media, y crece cuando los datos están más dispersos."
+      },
+      {
+        "enunciado": "¿Qué representa la desviación estándar en un conjunto de datos?",
+        "opciones": [
+          "El valor más frecuente",
+          "La media de los valores extremos",
+          "La raíz cuadrada de la varianza",
+          "El número de datos por unidad de tiempo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar es la raíz cuadrada de la varianza, expresada en las mismas unidades de los datos y refleja la dispersión promedio."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es cierta respecto al rango?",
+        "opciones": [
+          "Es menos sensible a valores extremos que la desviación típica",
+          "Se calcula como la suma del valor mínimo y el máximo",
+          "Mide la diferencia entre el valor máximo y el mínimo",
+          "Representa el promedio de las diferencias absolutas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango se obtiene restando el valor mínimo al máximo, y es muy sensible a valores extremos porque depende solo de esos dos."
+      },
+      {
+        "enunciado": "¿Cómo cambia la varianza si a todos los datos de un conjunto se les suma una constante?",
+        "opciones": [
+          "Aumenta en la misma cantidad",
+          "Disminuye en la misma cantidad",
+          "Permanece igual",
+          "Se vuelve cero"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Sumar una constante a todos los datos desplaza la media, pero no cambia la dispersión, por lo que la varianza permanece igual."
+      },
+      {
+        "enunciado": "¿Qué ocurre con la desviación estándar si multiplicas todos los datos por un factor k?",
+        "opciones": [
+          "Se multiplica por k²",
+          "Se multiplica por k",
+          "Permanece igual",
+          "Se divide por k"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Al multiplicar los datos por k, las desviaciones de la media también se multiplican por k, así que la desviación estándar escala linealmente."
+      },
+      {
+        "enunciado": "¿Cuál es la relación entre varianza muestral y varianza poblacional?",
+        "opciones": [
+          "La muestral usa n en el denominador",
+          "La poblacional usa n−1 en el denominador",
+          "La muestral usa n−1 en el denominador",
+          "No hay diferencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza muestral divide la suma de cuadrados por n−1 para corregir el sesgo de estimación de la varianza poblacional."
+      },
+      {
+        "enunciado": "Si todos los datos de un conjunto son iguales, ¿qué valor tendrían la varianza y la desviación estándar?",
+        "opciones": [
+          "Varianza > 0 y desviación estándar > 0",
+          "Varianza = 0 y desviación estándar = 0",
+          "Varianza = 0, desviación estándar > 0",
+          "Varianza > 0, desviación estándar = 0"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Cuando no hay dispersión (todos los valores idénticos), las desviaciones respecto a la media son cero, luego varianza y desviación estándar son cero."
+      },
+      {
+        "enunciado": "¿Cuál de estas medidas de dispersión está expresada en las mismas unidades que los datos originales?",
+        "opciones": [
+          "Varianza",
+          "Rango cuadrático medio",
+          "Desviación estándar",
+          "Suma de cuadrados"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar está en las mismas unidades de los datos, a diferencia de la varianza que eleva las unidades al cuadrado."
+      },
+      {
+        "enunciado": "¿Qué medida de dispersión no utiliza todos los valores del conjunto?",
+        "opciones": [
+          "Varianza",
+          "Desviación estándar",
+          "Rango",
+          "Desviaciones absolutas promedio"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango solo depende del valor máximo y mínimo, sin considerar cómo están distribuidos los datos intermedios."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones define correctamente la varianza?",
+        "opciones": [
+          "La media de las diferencias absolutas con la mediana",
+          "El promedio de los cuadrados de las diferencias con la media",
+          "La raíz cuadrada del promedio de los datos",
+          "La diferencia entre el valor máximo y mínimo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza es el promedio de (xᵢ − media)², lo que penaliza más las diferencias grandes respecto a la media."
+      },
+      {
+        "enunciado": "En un conjunto de datos, ¿qué nos indica un rango muy amplio?",
+        "opciones": [
+          "Que todos los valores son parecidos",
+          "Que hay gran dispersión entre el valor mínimo y máximo",
+          "Que la distribución es simétrica",
+          "Que la mediana es alta"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Un rango amplio muestra que el valor máximo y el mínimo están muy alejados, indicando gran dispersión total en los datos."
+      },
+      {
+        "enunciado": "Si al calcular varianza usamos n en lugar de n−1 en una muestra, ¿qué sucede?",
+        "opciones": [
+          "Obtenemos un estimador insesgado",
+          "Obtenemos un estimador sesgado a la baja",
+          "Obtenemos un estimador sesgado al alza",
+          "No afecta al resultado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Usar n en el denominador da una varianza muestral sesgada hacia abajo; dividir por n−1 corrige ese sesgo."
+      },
+      {
+        "enunciado": "En una distribución normal, aproximadamente ¿qué porcentaje de datos cae dentro de ±1 desviación estándar de la media?",
+        "opciones": [
+          "50%",
+          "68%",
+          "95%",
+          "99.7%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "En la regla empírica de la normalidad, cerca del 68% de los datos están entre una desviación estándar por encima y por debajo de la media."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera?",
+        "opciones": [
+          "La varianza siempre es menor que la desviación estándar",
+          "La desviación estándar es la raíz cuadrada de la varianza",
+          "El rango es la desviación promedio",
+          "La varianza mide la mediana de las desviaciones"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar se define como la raíz cuadrada de la varianza, para devolver las unidades originales del dato."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una medida de dispersión?",
+        "opciones": [
+          "Media",
+          "Moda",
+          "Rango",
+          "Mediana"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango mide la diferencia entre el valor más alto y el más bajo, mostrando la dispersión de los datos."
+      },
+      {
+        "enunciado": "¿Qué indica una desviación estándar muy baja?",
+        "opciones": [
+          "Que los datos están muy separados",
+          "Que la media es muy alta",
+          "Que los datos están cerca de la media",
+          "Que hay muchos datos extremos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar baja significa que la mayoría de los datos están cerca de la media."
+      },
+      {
+        "enunciado": "¿Qué medida indica cuánto varían los datos respecto a la media?",
+        "opciones": [
+          "Moda",
+          "Mediana",
+          "Varianza",
+          "Percentil"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza muestra cuánto se alejan, en promedio, los datos respecto a la media."
+      },
+      {
+        "enunciado": "¿Cuál es la unidad de la desviación estándar?",
+        "opciones": [
+          "Las mismas que los datos",
+          "Unidades al cuadrado",
+          "No tiene unidades",
+          "Siempre en porcentaje"
+        ],
+        "correcta": 0,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar tiene las mismas unidades que los datos originales (por ejemplo, kg, cm, años...)."
+      },
+      {
+        "enunciado": "¿Qué medida se obtiene restando el valor más bajo al más alto?",
+        "opciones": [
+          "Media",
+          "Rango",
+          "Moda",
+          "Varianza"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango es simplemente la diferencia entre el valor más alto y el más bajo del conjunto de datos."
+      },
+      {
+        "enunciado": "¿Cuál de estas opciones refleja más variabilidad entre los datos?",
+        "opciones": [
+          "Desviación estándar de 2",
+          "Desviación estándar de 0",
+          "Desviación estándar de 0.5",
+          "Desviación estándar de 1"
+        ],
+        "correcta": 0,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar más alta indica mayor dispersión o variabilidad entre los datos."
+      },
+      {
+        "enunciado": "¿Qué valor tendría la desviación estándar si todos los datos son iguales?",
+        "opciones": [
+          "Uno",
+          "Cero",
+          "Muy alta",
+          "Depende de la media"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Si todos los datos son iguales, no hay variación, por lo tanto, la desviación estándar es cero."
+      },
+      {
+        "enunciado": "¿Qué mide la desviación estándar?",
+        "opciones": [
+          "La diferencia entre los valores extremos",
+          "El promedio de los datos",
+          "Cuánto se alejan los datos de la media",
+          "El valor más frecuente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar muestra cuánto se dispersan los datos respecto a la media del conjunto."
+      },
+      {
+        "enunciado": "¿Cuál de estas medidas es más afectada por valores extremos?",
+        "opciones": [
+          "Moda",
+          "Mediana",
+          "Rango",
+          "Percentil 50"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango solo depende del valor mínimo y máximo, por lo que es muy sensible a valores extremos."
+      },
+      {
+        "enunciado": "¿Qué pasa con la varianza si todos los datos están muy cerca de la media?",
+        "opciones": [
+          "Aumenta",
+          "Disminuye",
+          "Se vuelve negativa",
+          "Es igual a la media"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Cuando los datos están muy cerca de la media, hay poca variabilidad, por lo que la varianza disminuye."
+      },
+      {
+        "enunciado": "¿Qué valores se necesitan para calcular el rango?",
+        "opciones": [
+          "Media y mediana",
+          "Máximo y mínimo",
+          "Moda y media",
+          "Percentil 25 y 75"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango se calcula restando el valor mínimo al valor máximo de un conjunto de datos."
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia principal entre varianza y desviación estándar?",
+        "opciones": [
+          "La desviación estándar se calcula con percentiles",
+          "La varianza está en las mismas unidades que los datos",
+          "La desviación estándar es la raíz cuadrada de la varianza",
+          "La varianza siempre es menor"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar es la raíz cuadrada de la varianza, lo que permite expresarla en las mismas unidades que los datos."
+      },
+      {
+        "enunciado": "¿Qué significa una varianza igual a cero?",
+        "opciones": [
+          "Los datos están muy dispersos",
+          "Todos los datos son distintos",
+          "No hay datos en la muestra",
+          "Todos los datos son iguales"
+        ],
+        "correcta": 3,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una varianza de cero significa que no hay variación: todos los datos tienen exactamente el mismo valor."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera?",
+        "opciones": [
+          "El rango se usa solo en distribuciones normales",
+          "La varianza es igual a la media",
+          "La desviación estándar ayuda a saber cómo se reparten los datos",
+          "El rango se usa para calcular la mediana"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar da una idea clara de cuán dispersos están los datos respecto a su media."
+      },
+      {
+        "enunciado": "¿Qué valor de desviación estándar indica mayor dispersión?",
+        "opciones": [
+          "0.5",
+          "1",
+          "2",
+          "0"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Cuanto más alta es la desviación estándar, mayor es la dispersión de los datos respecto a la media."
+      },
+      {
+        "enunciado": "¿Qué mide el rango?",
+        "opciones": [
+          "La media",
+          "La diferencia entre el valor mayor y el menor",
+          "La cantidad de datos",
+          "El valor más repetido"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango es la diferencia entre el valor más alto y el más bajo de un grupo de datos."
+      },
+      {
+        "enunciado": "¿Qué indica la desviación estándar?",
+        "opciones": [
+          "Cuánto se repite un valor",
+          "Cuánto varían los datos respecto a la media",
+          "Cuántos datos hay",
+          "El número de valores extremos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar muestra si los datos están cerca o lejos de la media."
+      },
+      {
+        "enunciado": "Si todos los datos son iguales, ¿cuánto vale la desviación estándar?",
+        "opciones": [
+          "1",
+          "Depende de la media",
+          "0",
+          "No se puede calcular"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Cuando todos los datos son iguales, no hay variación, así que la desviación estándar es 0."
+      },
+      {
+        "enunciado": "¿Qué medida de dispersión tiene las mismas unidades que los datos?",
+        "opciones": [
+          "Varianza",
+          "Desviación estándar",
+          "Moda",
+          "Media"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar tiene las mismas unidades que los datos (por ejemplo, cm, kg, años…)."
+      },
+      {
+        "enunciado": "¿Qué pasa si el rango es muy grande?",
+        "opciones": [
+          "Los datos son muy parecidos",
+          "Hay pocos datos",
+          "Los datos están muy separados",
+          "Todos los datos son iguales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Un rango grande indica que hay mucha distancia entre el valor más bajo y el más alto."
+      },
+      {
+        "enunciado": "¿Cuál de estas es una medida de dispersión?",
+        "opciones": [
+          "Media",
+          "Moda",
+          "Desviación estándar",
+          "Frecuencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar mide cuánto se alejan los datos de su media. Es una medida de dispersión."
+      },
+      {
+        "enunciado": "¿Qué valores necesitas para calcular el rango?",
+        "opciones": [
+          "Media y moda",
+          "Máximo y mínimo",
+          "Mediana y media",
+          "Solo el número total de datos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango se calcula restando el valor más bajo al más alto."
+      },
+      {
+        "enunciado": "¿Qué pasa si la desviación estándar es muy alta?",
+        "opciones": [
+          "Los datos son iguales",
+          "Los datos están más separados",
+          "Todos los datos son pequeños",
+          "Los datos están en orden"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar alta significa que los datos varían mucho respecto a la media."
+      },
+      {
+        "enunciado": "¿Cuál de estas es una forma de saber si los datos varían mucho?",
+        "opciones": [
+          "Moda",
+          "Desviación estándar",
+          "Frecuencia",
+          "Percentil"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar sirve para saber si los datos están más o menos alejados de la media."
+      },
+      {
+        "enunciado": "¿Qué valor indica más variación?",
+        "opciones": [
+          "Desviación estándar de 0",
+          "Desviación estándar de 3",
+          "Desviación estándar de 1",
+          "Desviación estándar de 0.5"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar de 3 indica más variación que 0, 0.5 o 1."
+      },
+      {
+        "enunciado": "¿Qué significa varianza cero?",
+        "opciones": [
+          "Hay mucha dispersión",
+          "Los datos son distintos",
+          "Todos los datos son iguales",
+          "La media es cero"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Varianza cero significa que todos los datos tienen el mismo valor, sin ninguna variación."
+      },
+      {
+        "enunciado": "¿Cuál de estas medidas es más fácil de afectar por un dato extremo?",
+        "opciones": [
+          "Moda",
+          "Mediana",
+          "Rango",
+          "Media"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango cambia mucho si hay un valor muy alto o muy bajo, porque solo usa esos dos datos."
+      },
+      {
+        "enunciado": "¿La desviación estándar puede ser negativa?",
+        "opciones": [
+          "Sí, si los datos son bajos",
+          "Sí, si la media es negativa",
+          "No, siempre es positiva o cero",
+          "Depende del número de datos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar nunca es negativa porque se calcula con raíces cuadradas de valores positivos."
+      },
+      {
+        "enunciado": "¿Qué valor se obtiene al elevar la desviación estándar al cuadrado?",
+        "opciones": [
+          "La media",
+          "La varianza",
+          "El rango",
+          "La mediana"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza es la desviación estándar al cuadrado."
+      },
+      {
+        "enunciado": "¿Qué indica un rango de 0?",
+        "opciones": [
+          "Los datos son todos iguales",
+          "Los datos están muy separados",
+          "Falta el valor máximo",
+          "Hay pocos datos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Un rango de 0 significa que no hay diferencia entre el valor más bajo y el más alto: todos los datos son iguales."
+      },
+      {
+        "enunciado": "¿Qué medida muestra cuánta diferencia hay entre el valor más alto y el más bajo?",
+        "opciones": [
+          "Moda",
+          "Mediana",
+          "Rango",
+          "Frecuencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango se calcula restando el valor más pequeño al más grande."
+      },
+      {
+        "enunciado": "¿Cuál es una medida de dispersión?",
+        "opciones": [
+          "Media",
+          "Moda",
+          "Varianza",
+          "Mediana"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza nos dice cuánto varían los datos respecto a la media."
+      },
+      {
+        "enunciado": "¿Cuál es la desviación estándar de un grupo donde todos los datos son iguales?",
+        "opciones": [
+          "1",
+          "Depende de la media",
+          "0",
+          "No se puede saber"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Si todos los valores son iguales, no hay dispersión, por eso la desviación estándar es 0."
+      },
+      {
+        "enunciado": "¿Qué valor tiene siempre la desviación estándar?",
+        "opciones": [
+          "Positivo o cero",
+          "Negativo",
+          "Mayor que la media",
+          "Igual al rango"
+        ],
+        "correcta": 0,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar no puede ser negativa. Siempre es mayor o igual que cero."
+      },
+      {
+        "enunciado": "¿Qué pasa si los datos están muy cerca entre sí?",
+        "opciones": [
+          "El rango es muy grande",
+          "La varianza es alta",
+          "La desviación estándar es baja",
+          "La media cambia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Cuando los datos están cerca unos de otros, la desviación estándar es pequeña."
+      },
+      {
+        "enunciado": "¿Qué representa la varianza?",
+        "opciones": [
+          "El número total de datos",
+          "El promedio de los cuadrados de las diferencias con la media",
+          "La suma de los datos",
+          "La frecuencia más alta"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza se calcula sumando las diferencias al cuadrado entre cada valor y la media, y luego dividiendo por el número de datos."
+      },
+      {
+        "enunciado": "¿Qué significa si el rango es pequeño?",
+        "opciones": [
+          "Los datos son muy diferentes",
+          "Los datos están agrupados",
+          "Hay muchos datos",
+          "La media es baja"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Un rango pequeño indica que el valor más alto y el más bajo están cerca, por lo tanto, los datos están agrupados."
+      },
+      {
+        "enunciado": "¿Qué medida de dispersión está en las mismas unidades que los datos?",
+        "opciones": [
+          "Varianza",
+          "Rango",
+          "Desviación estándar",
+          "Moda"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar usa las mismas unidades que los datos (por ejemplo, si los datos están en kg, la desviación también)."
+      },
+      {
+        "enunciado": "¿Cuál de estas opciones indica más variabilidad?",
+        "opciones": [
+          "Desviación estándar de 0",
+          "Desviación estándar de 5",
+          "Desviación estándar de 1",
+          "Desviación estándar de 0.5"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar más alta significa que los datos están más separados entre sí."
+      },
+      {
+        "enunciado": "¿Qué medida se obtiene restando el menor valor al mayor?",
+        "opciones": [
+          "Desviación estándar",
+          "Moda",
+          "Rango",
+          "Media"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango se calcula como máximo – mínimo."
+      },
+      {
+        "enunciado": "¿Qué medida usamos para saber si los datos están muy separados de la media?",
+        "opciones": [
+          "Moda",
+          "Media",
+          "Desviación estándar",
+          "Frecuencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La desviación estándar muestra cuánto se alejan los datos, en promedio, de la media."
+      },
+      {
+        "enunciado": "¿Qué indica una desviación estándar de 0?",
+        "opciones": [
+          "Los datos tienen mucha variedad",
+          "Todos los datos son iguales",
+          "El rango es alto",
+          "Hay pocos datos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Una desviación estándar de 0 indica que no hay variación: todos los valores son iguales."
+      },
+      {
+        "enunciado": "¿Qué indica un rango muy alto?",
+        "opciones": [
+          "Datos muy parecidos",
+          "Datos muy diferentes",
+          "Datos negativos",
+          "Datos agrupados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "Un rango alto muestra mucha diferencia entre el valor mínimo y el máximo, es decir, gran dispersión."
+      },
+      {
+        "enunciado": "¿Qué se obtiene al elevar al cuadrado la desviación estándar?",
+        "opciones": [
+          "Rango",
+          "Moda",
+          "Varianza",
+          "Frecuencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "La varianza es la desviación estándar al cuadrado."
+      },
+      {
+        "enunciado": "¿Cuál de estas medidas es más sensible a un valor muy alto o muy bajo?",
+        "opciones": [
+          "Moda",
+          "Mediana",
+          "Rango",
+          "Frecuencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema104", "medidas de dispersión"],
+        "feedback": "El rango depende solo del valor más alto y el más bajo, así que se ve muy afectado por valores extremos."
+      }
+        
+]

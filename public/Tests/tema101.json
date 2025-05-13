@@ -1,0 +1,1181 @@
+[
+
+      {
+        "enunciado": "Un estudio que selecciona individuos sanos y los sigue en el tiempo para observar la aparición de enfermedad es:",
+        "opciones": [
+          "Estudio de casos y controles",
+          "Estudio transversal",
+          "Estudio de cohortes",
+          "Estudio ecológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de cohortes son longitudinales y observacionales, y permiten calcular la incidencia de una enfermedad a partir de una exposición determinada."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes estudios permite calcular la razón de momios (odds ratio)?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de cohortes",
+          "Ensayo clínico aleatorizado",
+          "Estudio de casos y controles"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El odds ratio se calcula habitualmente en estudios de casos y controles, al comparar la exposición entre casos (enfermos) y controles (sanos)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diseños NO es observacional?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio transversal",
+          "Ensayo clínico aleatorizado",
+          "Estudio de casos y controles"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El ensayo clínico aleatorizado es un estudio experimental, ya que implica intervención y asignación aleatoria de la exposición o tratamiento."
+      },
+      {
+        "enunciado": "¿Qué característica define a un estudio transversal?",
+        "opciones": [
+          "Evalúa exposición y efecto en diferentes momentos",
+          "Se aplica una intervención aleatoria",
+          "Mide exposición y efecto en un mismo momento",
+          "Compara incidencia acumulada en dos grupos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio transversal mide simultáneamente la exposición y el estado de salud o enfermedad en un único punto en el tiempo."
+      },
+      {
+        "enunciado": "En un estudio de cohortes, ¿cuál de los siguientes cálculos es válido?",
+        "opciones": [
+          "Odds ratio solamente",
+          "Prevalencia puntual",
+          "Incidencia acumulada",
+          "Razón de prevalencias"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de cohortes permiten calcular la incidencia acumulada, ya que se sigue a los individuos en el tiempo desde la exposición hasta la aparición de la enfermedad."
+      },
+      {
+        "enunciado": "¿Qué diseño es más adecuado para enfermedades raras?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio de casos y controles",
+          "Estudio transversal",
+          "Ensayo clínico aleatorizado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles son más eficientes para enfermedades raras, ya que parten de la enfermedad y buscan retrospectivamente la exposición."
+      },
+      {
+        "enunciado": "Un estudio ecológico se caracteriza por:",
+        "opciones": [
+          "Asociar datos individuales de exposición y enfermedad",
+          "Analizar relaciones a nivel poblacional, no individual",
+          "Imponer una intervención experimental",
+          "Medir incidencia en una cohorte cerrada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio ecológico analiza asociaciones entre exposición y enfermedad a nivel de grupos o poblaciones, no de individuos, lo que puede llevar a la falacia ecológica."
+      },
+      {
+        "enunciado": "¿Qué tipo de error es más frecuente en estudios transversales?",
+        "opciones": [
+          "Error de información diferencial",
+          "Error de selección de casos",
+          "Error temporal (causalidad inversa)",
+          "Error por pérdida de seguimiento"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En estudios transversales, la causalidad inversa es un riesgo, ya que exposición y enfermedad se miden al mismo tiempo, dificultando establecer qué ocurrió primero."
+      },
+      {
+        "enunciado": "¿Qué diferencia fundamental hay entre un estudio de cohortes y uno de casos y controles?",
+        "opciones": [
+          "La dirección temporal del estudio",
+          "El número de individuos incluidos",
+          "La posibilidad de medir prevalencia",
+          "La intervención terapéutica"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La diferencia clave es la dirección temporal: los estudios de cohortes son prospectivos (de la exposición a la enfermedad), mientras que los de casos y controles son retrospectivos (de la enfermedad a la exposición)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones caracteriza correctamente a un estudio de casos y controles?",
+        "opciones": [
+          "Permite calcular directamente la incidencia de la enfermedad",
+          "Es útil para enfermedades frecuentes",
+          "Selecciona participantes según la exposición",
+          "Comienza seleccionando individuos con y sin enfermedad"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En los estudios de casos y controles se parte de la enfermedad y se investiga retrospectivamente la exposición; por tanto, se seleccionan casos (con enfermedad) y controles (sin enfermedad)."
+      },
+      {
+        "enunciado": "En un ensayo clínico controlado, el 'grupo placebo' cumple principalmente la función de:",
+        "opciones": [
+          "Garantizar la aleatorización de los tratamientos",
+          "Evaluar la eficacia comparada frente a la intervención activa",
+          "Eliminar la necesidad de cegamiento",
+          "Identificar factores de confusión en análisis multivariable"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El grupo placebo sirve como comparador para evaluar la eficacia del tratamiento activo y controlar el efecto placebo en los resultados."
+      },
+      {
+        "enunciado": "Un estudio ecológico puede conducir a una falacia ecológica, que ocurre cuando:",
+        "opciones": [
+          "Se asumen asociaciones individuales basadas en datos grupales",
+          "Se pierde seguimiento de los sujetos en el tiempo",
+          "No se puede controlar adecuadamente el sesgo de selección",
+          "La exposición no puede medirse directamente"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La falacia ecológica ocurre cuando se infiere una asociación a nivel individual a partir de observaciones hechas a nivel poblacional."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes limitaciones es más característica de los estudios de cohortes retrospectivos?",
+        "opciones": [
+          "No permiten calcular tasas de incidencia",
+          "Tienen alto coste y requieren mucho tiempo",
+          "Pueden tener registros incompletos de exposición",
+          "No pueden establecer relaciones temporales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de cohortes retrospectivos se basan en registros previos, lo que puede conducir a problemas de calidad o disponibilidad de la información sobre la exposición."
+      },
+      {
+        "enunciado": "En los ensayos clínicos aleatorizados, el cegamiento se utiliza principalmente para:",
+        "opciones": [
+          "Asegurar el cálculo del tamaño muestral",
+          "Reducir el error aleatorio",
+          "Evitar el sesgo de información y expectativas",
+          "Controlar la validez externa del estudio"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El cegamiento reduce el sesgo de información y el sesgo por expectativas de pacientes e investigadores, asegurando mayor validez interna."
+      },
+      {
+        "enunciado": "¿Cuál es una ventaja principal del estudio transversal frente al de cohortes?",
+        "opciones": [
+          "Permite establecer causalidad con mayor certeza",
+          "Tiene mejor control de variables confusoras",
+          "Requiere menor tiempo y recursos",
+          "Mide incidencia acumulada directamente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio transversal es más rápido y económico que un estudio de cohortes, aunque no permite establecer relaciones causales sólidas."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes estudios permite estimar tanto incidencia como riesgo relativo?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de casos y controles",
+          "Estudio de cohortes",
+          "Estudio ecológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio de cohortes permite calcular incidencia en los expuestos y no expuestos, y así estimar el riesgo relativo de enfermedad."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio sería más adecuado para investigar una exposición poco frecuente?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio transversal",
+          "Estudio de casos y controles",
+          "Estudio ecológico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de cohortes son útiles para exposiciones poco frecuentes, ya que permiten seleccionar una cohorte expuesta desde el inicio y seguirla en el tiempo."
+      },
+      {
+        "enunciado": "El sesgo de supervivencia es una amenaza típica para la validez interna en:",
+        "opciones": [
+          "Estudios de casos y controles",
+          "Estudios transversales",
+          "Estudios de cohortes prospectivos",
+          "Ensayos clínicos aleatorizados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El sesgo de supervivencia puede afectar los estudios transversales, ya que solo se incluyen los sobrevivientes, excluyendo los casos fatales que ocurrieron antes del estudio."
+      },
+      {
+        "enunciado": "En un ensayo clínico con asignación aleatoria, ¿cuál es el principal objetivo de la aleatorización?",
+        "opciones": [
+          "Facilitar el seguimiento longitudinal",
+          "Mejorar la representatividad de la muestra",
+          "Reducir el error tipo II",
+          "Distribuir equitativamente variables confusoras"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La aleatorización en un ensayo clínico busca distribuir de forma balanceada las variables conocidas y desconocidas entre los grupos, reduciendo la confusión."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tipos de estudio presenta mayor control sobre factores de confusión?",
+        "opciones": [
+          "Estudio ecológico",
+          "Estudio transversal",
+          "Ensayo clínico aleatorizado",
+          "Estudio de casos y controles"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El ensayo clínico aleatorizado, al asignar la intervención de forma aleatoria y permitir el cegamiento, ofrece el mayor control sobre la confusión."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diseños puede considerarse prospectivo y observacional?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio de casos y controles",
+          "Ensayo clínico",
+          "Estudio ecológico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio de cohortes puede ser prospectivo (cuando se sigue a los sujetos desde la exposición hasta la aparición del desenlace) y es de tipo observacional, ya que no hay intervención."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio es más vulnerable al sesgo de memoria?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio de casos y controles",
+          "Estudio transversal",
+          "Ensayo clínico aleatorizado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En los estudios de casos y controles, los participantes deben recordar exposiciones pasadas, lo que puede inducir sesgo de memoria, especialmente si los casos tienen mayor conciencia de sus antecedentes."
+      },
+      {
+        "enunciado": "Un estudio con asignación no aleatoria de una intervención a diferentes comunidades es un ejemplo de:",
+        "opciones": [
+          "Estudio transversal analítico",
+          "Ensayo comunitario cuasiexperimental",
+          "Estudio ecológico descriptivo",
+          "Estudio de cohorte abierto"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Cuando la intervención se asigna a comunidades de forma no aleatoria, se trata de un diseño cuasiexperimental, común en evaluaciones de salud pública."
+      },
+      {
+        "enunciado": "¿Qué tipo de diseño permite evaluar el efecto de una intervención en condiciones reales de práctica clínica?",
+        "opciones": [
+          "Ensayo clínico pragmático",
+          "Ensayo clínico explicativo",
+          "Estudio de cohortes retrospectivo",
+          "Estudio transversal analítico"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos clínicos pragmáticos están diseñados para evaluar la efectividad de intervenciones en condiciones reales, a diferencia de los ensayos explicativos, que prueban eficacia en condiciones ideales."
+      },
+      {
+        "enunciado": "En un estudio de cohortes, la elección de una cohorte cerrada frente a una cohorte abierta afecta principalmente a:",
+        "opciones": [
+          "La posibilidad de calcular prevalencias",
+          "El control de variables confusoras",
+          "La duración del seguimiento",
+          "La estimación de la incidencia acumulada"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Una cohorte cerrada permite calcular incidencia acumulada porque los individuos son fijos y seguidos durante un período definido."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio sería más útil para evaluar la asociación entre consumo de sal y presión arterial en una población general en un único momento temporal?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio de casos y controles",
+          "Estudio transversal",
+          "Ensayo clínico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio transversal permite medir simultáneamente la exposición (consumo de sal) y el efecto (presión arterial) en un único momento."
+      },
+      {
+        "enunciado": "Un ensayo clínico con dos ramas de tratamiento en el que los mismos pacientes reciben ambos tratamientos en distintos momentos se denomina:",
+        "opciones": [
+          "Ensayo cruzado (crossover)",
+          "Ensayo secuencial",
+          "Ensayo pragmático",
+          "Ensayo de superioridad"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El diseño cruzado (crossover) permite que los mismos pacientes actúen como su propio control al recibir ambos tratamientos en secuencia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tipos de estudio es más apropiado para generar hipótesis más que para probarlas?",
+        "opciones": [
+          "Estudio de cohortes",
+          "Estudio ecológico",
+          "Ensayo clínico aleatorizado",
+          "Estudio de casos y controles"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio ecológico se usa frecuentemente para generar hipótesis a partir de observaciones grupales, aunque su capacidad para establecer causalidad es limitada."
+      },
+      {
+        "enunciado": "Una de las principales limitaciones de los ensayos clínicos en investigación epidemiológica es:",
+        "opciones": [
+          "No permiten control de variables confusoras",
+          "No permiten establecer relaciones temporales",
+          "Tienen menor validez interna que los observacionales",
+          "Pueden presentar problemas éticos y de generalización"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos clínicos pueden tener restricciones éticas y su validez externa puede verse limitada por criterios de inclusión muy selectivos."
+      },
+      {
+        "enunciado": "El análisis por intención de tratar en ensayos clínicos se utiliza para:",
+        "opciones": [
+          "Excluir a los sujetos que no siguieron el protocolo",
+          "Mejorar la validez externa del estudio",
+          "Evitar el sesgo de selección post-aleatorización",
+          "Aumentar la potencia estadística"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El análisis por intención de tratar mantiene a todos los pacientes en su grupo original, independientemente de su adherencia, y evita sesgos después de la aleatorización."
+      },
+      {
+        "enunciado": "En un estudio de cohortes prospectivo, ¿qué tipo de sesgo puede ocurrir si la exposición se mide de manera diferente entre los grupos?",
+        "opciones": [
+          "Sesgo de selección",
+          "Sesgo de confusión",
+          "Sesgo de información",
+          "Falacia ecológica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El sesgo de información aparece cuando la medición de la exposición o del desenlace difiere sistemáticamente entre grupos comparados."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio permitiría evaluar múltiples desenlaces para una única exposición?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de casos y controles",
+          "Estudio de cohortes",
+          "Ensayo clínico cruzado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de cohortes, al partir de la exposición, permiten observar múltiples desenlaces a lo largo del tiempo en la misma población."
+      },
+      {
+        "enunciado": "Un estudio que compara la incidencia de cáncer entre dos países y asocia esta diferencia con el consumo promedio de alcohol es:",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de cohorte multinacional",
+          "Estudio ecológico",
+          "Estudio de casos y controles anidado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Un estudio ecológico analiza datos a nivel poblacional, como el consumo promedio de alcohol en países, en relación con desenlaces como el cáncer."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio es más eficiente para evaluar factores de riesgo de enfermedades con periodo de latencia largo?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de casos y controles",
+          "Estudio de intervención comunitaria",
+          "Ensayo clínico cruzado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles permiten analizar enfermedades con largo período de latencia de forma eficiente, partiendo del desenlace y buscando exposiciones pasadas."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diseños se considera el 'patrón oro' para probar la eficacia de una intervención médica?",
+        "opciones": [
+          "Estudio de cohorte prospectivo",
+          "Estudio transversal analítico",
+          "Ensayo clínico aleatorizado",
+          "Estudio de casos y controles anidado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El ensayo clínico aleatorizado es considerado el estándar de oro por su capacidad para controlar sesgos y establecer causalidad mediante aleatorización."
+      },
+      {
+        "enunciado": "¿Cuál es una desventaja específica de los estudios de casos y controles anidados en cohortes?",
+        "opciones": [
+          "No permiten el cálculo de razón de momios",
+          "Requieren recolección prospectiva de exposición",
+          "Pueden estar limitados por el tamaño muestral disponible",
+          "Tienen menor validez interna que los estudios tradicionales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles anidados pueden estar limitados por el número de casos disponibles en la cohorte de origen, afectando la potencia estadística."
+      },
+      {
+        "enunciado": "En un estudio de intervención comunitaria, ¿cuál es una amenaza importante para la validez del estudio?",
+        "opciones": [
+          "Sesgo de memoria",
+          "Contaminación entre grupos",
+          "Aleatorización inadecuada",
+          "Falacia ecológica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En estudios comunitarios, la contaminación ocurre cuando individuos del grupo control se ven expuestos a la intervención, diluyendo el efecto observado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes estudios puede proporcionar la mayor evidencia de causalidad, si se realiza correctamente?",
+        "opciones": [
+          "Estudio de cohortes prospectivo",
+          "Estudio transversal",
+          "Estudio ecológico",
+          "Ensayo clínico aleatorizado"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos clínicos aleatorizados bien diseñados permiten establecer relaciones causales gracias a la aleatorización, control y cegamiento."
+      },
+      {
+        "enunciado": "¿Cuál es la principal diferencia entre un ensayo clínico explicativo y uno pragmático?",
+        "opciones": [
+          "El explicativo busca eficacia; el pragmático, efectividad",
+          "El pragmático incluye un grupo placebo; el explicativo, no",
+          "El explicativo es observacional; el pragmático es ecológico",
+          "Ambos tienen objetivos similares, pero el explicativo es comunitario"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos explicativos prueban la eficacia en condiciones ideales; los pragmáticos evalúan la efectividad en condiciones reales de práctica clínica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tipos de estudios se considera más susceptible al sesgo de selección?",
+        "opciones": [
+          "Ensayo clínico aleatorizado",
+          "Estudio de cohortes prospectivo",
+          "Estudio de casos y controles",
+          "Estudio ecológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles son altamente susceptibles al sesgo de selección, especialmente si los controles no representan adecuadamente a la población fuente."
+      },
+      {
+        "enunciado": "¿Qué tipo de diseño es más adecuado para evaluar la prevalencia de una enfermedad en una población?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de cohortes retrospectivo",
+          "Estudio de casos y controles",
+          "Ensayo clínico abierto"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios transversales son los más apropiados para estimar prevalencias, ya que recogen datos de exposición y enfermedad en un solo punto temporal."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio permite establecer la secuencia temporal entre exposición y efecto de forma más clara?",
+        "opciones": [
+          "Estudio de casos y controles",
+          "Estudio transversal",
+          "Estudio de cohortes prospectivo",
+          "Estudio ecológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El diseño prospectivo de los estudios de cohortes permite observar cómo la exposición precede en el tiempo al desenlace, fortaleciendo la inferencia causal."
+      },
+      {
+        "enunciado": "Un estudio que selecciona casos incidentes y controles desde una cohorte en seguimiento se denomina:",
+        "opciones": [
+          "Estudio de casos y controles clásico",
+          "Estudio de cohortes retrospectivo",
+          "Estudio transversal anidado",
+          "Estudio de casos y controles anidado"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles anidados seleccionan casos y controles de una cohorte ya establecida, lo que mejora la calidad del control y reduce sesgos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diseños permite simultáneamente evaluar exposición y desenlace en una población definida?",
+        "opciones": [
+          "Estudio de cohorte prospectivo",
+          "Estudio transversal",
+          "Ensayo clínico pragmático",
+          "Estudio de casos y controles"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El estudio transversal se basa en la observación simultánea de la exposición y el desenlace, útil para estudios descriptivos o analíticos preliminares."
+      },
+      {
+        "enunciado": "¿Qué diseño tiene mayor riesgo de presentar confusión por indicación?",
+        "opciones": [
+          "Ensayo clínico aleatorizado",
+          "Estudio de cohortes prospectivo",
+          "Estudio transversal",
+          "Estudio observacional sobre tratamientos"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La confusión por indicación es común en estudios observacionales sobre tratamientos, donde la indicación médica se asocia tanto al tratamiento como al pronóstico del paciente."
+      },
+      {
+        "enunciado": "¿Cuál es la principal ventaja de un estudio de casos y controles anidado frente a uno clásico?",
+        "opciones": [
+          "Permite medir incidencia directamente",
+          "Tiene menor validez interna",
+          "Reduce sesgos de selección y de información",
+          "No requiere base de datos longitudinal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Al anidar el estudio dentro de una cohorte, se minimizan sesgos de selección y de información, ya que los datos de exposición se recogen antes de conocer el desenlace."
+      },
+      {
+        "enunciado": "¿Qué diseño es más adecuado para estudiar factores de riesgo múltiples asociados a una enfermedad rara?",
+        "opciones": [
+          "Estudio transversal",
+          "Estudio de casos y controles",
+          "Ensayo clínico cruzado",
+          "Estudio ecológico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios de casos y controles son especialmente útiles en enfermedades raras y permiten explorar múltiples exposiciones relacionadas con un único desenlace."
+      },
+      {
+        "enunciado": "En un ensayo clínico, la aleatorización contribuye principalmente a:",
+        "opciones": [
+          "Aumentar la generalización de los resultados",
+          "Eliminar la necesidad de cegamiento",
+          "Distribuir homogéneamente los factores de confusión",
+          "Reducir la necesidad de análisis estadístico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La aleatorización busca balancear los factores de confusión conocidos y desconocidos entre los grupos, mejorando la validez interna del ensayo."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio se basa en asignar la intervención a nivel poblacional o comunitario?",
+        "opciones": [
+          "Ensayo clínico aleatorizado individual",
+          "Estudio de cohortes",
+          "Estudio ecológico",
+          "Ensayo comunitario"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El ensayo comunitario implementa la intervención a nivel de grupos (barrios, escuelas, ciudades) en lugar de individuos, y es común en salud pública."
+      },
+      {
+        "enunciado": "¿Cuál es un criterio esencial para diferenciar un estudio experimental de uno observacional?",
+        "opciones": [
+          "Medición de la exposición",
+          "Seguimiento en el tiempo",
+          "Asignación intencionada de la intervención",
+          "Evaluación de múltiples desenlaces"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La característica distintiva de un estudio experimental es que el investigador asigna activamente la intervención o exposición, lo cual no ocurre en estudios observacionales."
+      },
+      {
+        "enunciado": "¿Qué característica es común a todos los estudios de cohortes, sean prospectivos o retrospectivos?",
+        "opciones": [
+          "La exposición es asignada por el investigador",
+          "Los participantes se seleccionan en función del desenlace",
+          "Se puede calcular el riesgo relativo",
+          "No permiten control de confusión"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Tanto en cohortes prospectivas como retrospectivas, al conocer el número de eventos en expuestos y no expuestos, puede calcularse el riesgo relativo."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio utiliza con frecuencia datos secundarios y bases administrativas para analizar asociaciones?",
+        "opciones": [
+          "Ensayo clínico",
+          "Estudio transversal",
+          "Estudio ecológico",
+          "Estudio de casos y controles anidado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los estudios ecológicos suelen usar datos agregados de fuentes secundarias (por ejemplo, censos, registros de mortalidad) para explorar asociaciones a nivel poblacional."
+      },
+      {
+        "enunciado": "En los estudios de cohortes abiertos, el denominador de incidencia se calcula en función de:",
+        "opciones": [
+          "El número inicial de personas incluidas",
+          "El total de individuos que desarrollan el desenlace",
+          "El tiempo-persona acumulado por los participantes",
+          "La población expuesta al final del estudio"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En cohortes abiertas, donde los individuos pueden entrar y salir del estudio, se utiliza el tiempo-persona como denominador para calcular tasas de incidencia."
+      },
+      {
+        "enunciado": "¿Qué diferencia clave existe entre un estudio de cohortes retrospectivo y uno prospectivo?",
+        "opciones": [
+          "El desenlace aún no ha ocurrido en el retrospectivo",
+          "En el prospectivo no se conoce la exposición al inicio",
+          "En el retrospectivo ambos eventos ya ocurrieron y se analizan desde registros",
+          "El prospectivo nunca permite analizar múltiples desenlaces"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En los estudios de cohortes retrospectivos, tanto la exposición como el desenlace ya han ocurrido y se reconstruyen usando datos existentes, como historias clínicas."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente un cuasiexperimento en epidemiología?",
+        "opciones": [
+          "Implica asignación aleatoria individual a los grupos de estudio",
+          "Permite controlar todos los factores de confusión mediante cegamiento",
+          "La asignación a la intervención no es aleatoria",
+          "No incluye grupo de comparación"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En los cuasiexperimentos la intervención es controlada por el investigador, pero la asignación no es aleatoria, lo que puede introducir confusión."
+      },
+      {
+        "enunciado": "Un ensayo clínico aleatorizado se diferencia de un cuasiexperimento en que:",
+        "opciones": [
+          "El primero solo se puede aplicar en contextos comunitarios",
+          "El segundo siempre utiliza enmascaramiento doble",
+          "El primero emplea asignación aleatoria de la intervención",
+          "El segundo nunca tiene grupo control"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La característica distintiva de un ensayo clínico aleatorizado es la asignación aleatoria de la intervención, lo que mejora la validez interna."
+      },
+      {
+        "enunciado": "En un ensayo comunitario, la unidad de aleatorización y análisis suele ser:",
+        "opciones": [
+          "El individuo",
+          "El profesional sanitario",
+          "La comunidad o grupo social",
+          "El evento de interés"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En los ensayos comunitarios se asignan intervenciones a grupos completos como escuelas, barrios o municipios, en lugar de individuos."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio experimental sería más adecuado para evaluar una intervención escolar de promoción de actividad física?",
+        "opciones": [
+          "Ensayo clínico aleatorizado individual",
+          "Cuasiexperimento hospitalario",
+          "Ensayo comunitario",
+          "Estudio de cohortes abierto"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Cuando la intervención afecta a un grupo entero (como una escuela), un ensayo comunitario es el diseño más adecuado."
+      },
+      {
+        "enunciado": "En los cuasiexperimentos, la principal limitación metodológica es:",
+        "opciones": [
+          "La imposibilidad de aplicar medidas de resultado objetivas",
+          "La alta pérdida de seguimiento",
+          "El sesgo de confusión por falta de aleatorización",
+          "La falta de un desenlace clínico definido"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Sin aleatorización, los cuasiexperimentos son vulnerables al sesgo de confusión, lo que limita la inferencia causal."
+      },
+      {
+        "enunciado": "Un ensayo clínico pragmático se diferencia de uno explicativo en que:",
+        "opciones": [
+          "Evalúa eficacia en condiciones ideales",
+          "Solo incluye pacientes hospitalizados",
+          "Busca estimar efectividad en condiciones reales",
+          "Siempre se realiza sin grupo control"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos clínicos pragmáticos evalúan la efectividad de una intervención en contextos reales de práctica clínica."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una característica de una cohorte prospectiva?",
+        "opciones": [
+          "La exposición y el desenlace ya ocurrieron al inicio del estudio",
+          "La exposición se determina al inicio y los desenlaces se observan en el futuro",
+          "Los participantes se seleccionan con base en su enfermedad",
+          "No permite estimar el riesgo relativo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En una cohorte prospectiva se seleccionan los individuos con base en la exposición y se les sigue en el tiempo para observar la aparición del desenlace."
+      },
+      {
+        "enunciado": "Una cohorte retrospectiva se caracteriza por:",
+        "opciones": [
+          "Observar eventos futuros a partir de una exposición reciente",
+          "Requiere seguimiento activo durante años",
+          "Analizar datos existentes donde ya han ocurrido exposición y desenlace",
+          "No permite comparar tasas de incidencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En cohortes retrospectivas, tanto exposición como desenlace ya han ocurrido y se reconstruyen usando registros o bases de datos históricas."
+      },
+      {
+        "enunciado": "¿Qué distingue a una cohorte abierta de una cerrada?",
+        "opciones": [
+          "La cohorte abierta solo incluye mujeres",
+          "En la cohorte cerrada se permite el ingreso y salida de participantes en cualquier momento",
+          "En la cohorte abierta el denominador se mide en tiempo-persona",
+          "Solo las cohortes cerradas pueden ser prospectivas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La cohorte abierta permite entrada y salida de participantes durante el seguimiento, por lo que la incidencia se calcula en función del tiempo-persona acumulado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes enunciados es verdadero sobre cohortes cerradas?",
+        "opciones": [
+          "Permiten estudiar poblaciones cambiantes en el tiempo",
+          "Requieren bases de datos poblacionales abiertas",
+          "Incluyen una población fija desde el inicio, sin nuevos ingresos",
+          "No permiten medir incidencia acumulada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Las cohortes cerradas tienen una población fija desde el inicio del estudio, lo que facilita el cálculo de incidencia acumulada."
+      },
+      {
+        "enunciado": "¿Qué tipo de cohorte se utiliza típicamente en estudios ocupacionales donde se sigue a trabajadores durante su permanencia en una empresa?",
+        "opciones": [
+          "Cohorte abierta retrospectiva",
+          "Cohorte cerrada prospectiva",
+          "Cohorte ecológica transversal",
+          "Ensayo cuasiexperimental"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En estudios ocupacionales, los trabajadores son seguidos a partir de su exposición laboral en una cohorte cerrada con seguimiento prospectivo."
+      },
+      {
+        "enunciado": "¿Qué ventaja ofrece una cohorte prospectiva sobre una retrospectiva?",
+        "opciones": [
+          "Menor coste y menor duración del estudio",
+          "Mayor control sobre la calidad de los datos y la medición",
+          "No necesita definir claramente el inicio del seguimiento",
+          "Puede analizar sólo un único desenlace"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Las cohortes prospectivas permiten definir y controlar mejor la medición de exposición y desenlaces desde el inicio, mejorando la validez interna."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo clásico de cohorte abierta en vigilancia epidemiológica?",
+        "opciones": [
+          "Seguimiento de una clase escolar durante un año",
+          "Registro de VIH en un sistema nacional donde los pacientes entran y salen",
+          "Evaluación de pacientes postinfarto durante 5 años",
+          "Ensayo clínico con seguimiento a 6 meses"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Un sistema de vigilancia continuo como un registro nacional permite la entrada y salida de casos a lo largo del tiempo, lo que define una cohorte abierta."
+      },
+      {
+        "enunciado": "¿Qué afirmación describe mejor a un ensayo comunitario aleatorizado?",
+        "opciones": [
+          "Asigna individuos a grupos experimentales y de control sin aleatorización",
+          "Se aplica exclusivamente en contextos hospitalarios",
+          "Aleatoriza grupos completos, como escuelas o pueblos",
+          "Permite estudiar prevalencia de enfermedades en una población fija"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En un ensayo comunitario aleatorizado se asignan grupos enteros a una intervención o control, lo que es útil para intervenciones de salud pública."
+      },
+      {
+        "enunciado": "¿Qué característica define a un ensayo clínico aleatorizado?",
+        "opciones": [
+          "La intervención es asignada según decisión clínica",
+          "Se observa a los pacientes sin intervenir",
+          "La intervención se asigna al azar a los participantes",
+          "Solo se realiza con poblaciones hospitalarias"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Un ensayo clínico aleatorizado asigna al azar a los participantes a distintos tratamientos, lo que ayuda a evitar que los grupos sean diferentes desde el inicio."
+      },
+      {
+        "enunciado": "¿Cuál es la principal diferencia entre un ensayo clínico y un cuasiexperimento?",
+        "opciones": [
+          "El cuasiexperimento siempre usa placebo",
+          "El ensayo clínico no puede tener grupo control",
+          "Solo el ensayo clínico usa enmascaramiento",
+          "El ensayo clínico asigna la intervención al azar, el cuasiexperimento no"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En un cuasiexperimento, el investigador no asigna la intervención al azar, lo que puede hacer que los grupos sean diferentes desde el inicio y afectar los resultados."
+      },
+      {
+        "enunciado": "¿En qué situación usarías un ensayo comunitario en lugar de uno individual?",
+        "opciones": [
+          "Cuando la intervención se dirige a una comunidad entera",
+          "Cuando los desenlaces se miden en un hospital",
+          "Cuando no se puede hacer seguimiento a largo plazo",
+          "Cuando se busca estudiar efectos secundarios raros"
+        ],
+        "correcta": 0,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos comunitarios se usan cuando la intervención afecta a grupos enteros, como barrios o escuelas, por ejemplo en campañas de vacunación o educación."
+      },
+      {
+        "enunciado": "En un ensayo clínico, ¿para qué se usa la aleatorización?",
+        "opciones": [
+          "Para que todos reciban el tratamiento más nuevo",
+          "Para eliminar la necesidad de consentimiento informado",
+          "Para que los grupos comparados sean lo más parecidos posible al inicio",
+          "Para reducir el tamaño de la muestra"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Al asignar los tratamientos al azar, se evita que factores como la edad o el estado de salud influyan en los grupos, lo que permite comparar resultados de forma más justa."
+      },
+      {
+        "enunciado": "¿Cuál es una ventaja de los cuasiexperimentos frente a los ensayos clínicos?",
+        "opciones": [
+          "Tienen menos riesgo de sesgos",
+          "Son útiles cuando no es ético asignar al azar la intervención",
+          "No necesitan grupo control",
+          "Solo miden desenlaces a corto plazo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Cuando no se puede asignar una intervención al azar por motivos éticos o logísticos, un cuasiexperimento permite evaluarla igualmente, aunque con más riesgo de sesgos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un ejemplo de cohorte prospectiva?",
+        "opciones": [
+          "Estudiar registros antiguos para ver quién desarrolló cáncer",
+          "Seguir a una población sana durante 10 años para ver si aparece enfermedad cardiovascular",
+          "Comparar pacientes con y sin diabetes en un momento actual",
+          "Analizar mortalidad usando datos agregados de países"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Una cohorte prospectiva empieza desde la exposición y observa a los participantes a lo largo del tiempo para ver si desarrollan el desenlace."
+      },
+      {
+        "enunciado": "¿Qué define a una cohorte retrospectiva?",
+        "opciones": [
+          "Solo se puede usar con enfermedades agudas",
+          "Estudia a personas en tiempo real, desde la exposición hasta el desenlace",
+          "Analiza datos antiguos donde ya se conocen exposición y desenlace",
+          "Se basa en comparar países o regiones"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Una cohorte retrospectiva analiza registros del pasado para estudiar qué ocurrió con personas expuestas o no, sin seguimiento actual."
+      },
+      {
+        "enunciado": "¿Qué diferencia a una cohorte cerrada de una abierta?",
+        "opciones": [
+          "En la cerrada no se puede perder a ningún participante",
+          "En la abierta solo se estudian personas enfermas",
+          "En la abierta los participantes pueden entrar y salir del estudio con el tiempo",
+          "En la cerrada no se pueden calcular tasas de incidencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Una cohorte abierta permite que nuevos individuos se unan o abandonen el estudio, lo que requiere medir el tiempo que cada uno participa (tiempo-persona)."
+      },
+      {
+        "enunciado": "¿En qué tipo de cohorte se puede calcular fácilmente la incidencia acumulada?",
+        "opciones": [
+          "Cohorte ecológica",
+          "Cohorte cerrada",
+          "Cohorte transversal",
+          "Cohorte abierta"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En una cohorte cerrada todos los participantes están desde el inicio hasta el final del seguimiento, lo que permite calcular la proporción de personas que desarrollan la enfermedad."
+      },
+      {
+        "enunciado": "¿Qué tipo de cohorte es más adecuada cuando se espera alta rotación de participantes?",
+        "opciones": [
+          "Cohorte cerrada",
+          "Cohorte experimental",
+          "Cohorte abierta",
+          "Cohorte retrospectiva"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En una cohorte abierta, los participantes pueden entrar y salir en distintos momentos, lo que es útil cuando se estudian poblaciones móviles, como trabajadores."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio usarías para evaluar el efecto de una política pública aplicada en una ciudad entera?",
+        "opciones": [
+          "Ensayo clínico aleatorizado individual",
+          "Estudio de cohortes retrospectivo",
+          "Ensayo comunitario",
+          "Estudio transversal descriptivo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Un ensayo comunitario es ideal para intervenciones aplicadas a grupos enteros, como ciudades o escuelas, cuando no se puede intervenir a nivel individual."
+      },
+      {
+        "enunciado": "¿Cuál de estas situaciones sería más adecuada para un cuasiexperimento?",
+        "opciones": [
+          "Se puede asignar tratamiento al azar a todos los pacientes",
+          "La intervención ya fue implementada por razones externas",
+          "La muestra es muy pequeña",
+          "Solo se quiere medir prevalencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Un cuasiexperimento se utiliza cuando la intervención ya ha ocurrido sin aleatorización, pero se quiere estudiar su efecto comparando grupos."
+      },
+      {
+        "enunciado": "¿Qué diseño experimental suele usarse para evaluar intervenciones de salud pública a gran escala?",
+        "opciones": [
+          "Estudio de casos y controles",
+          "Ensayo clínico cruzado",
+          "Ensayo comunitario",
+          "Cohorte retrospectiva"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos comunitarios permiten estudiar intervenciones amplias como campañas de prevención o mejoras en servicios sanitarios en poblaciones enteras."
+      },
+      {
+        "enunciado": "¿Por qué una cohorte prospectiva puede ser costosa y lenta?",
+        "opciones": [
+          "Porque necesita datos históricos",
+          "Porque requiere seguir a los participantes durante mucho tiempo",
+          "Porque no mide exposición",
+          "Porque solo estudia personas enfermas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En las cohortes prospectivas, el investigador debe esperar a que ocurra el desenlace, lo que implica largos seguimientos y más recursos."
+      },
+      {
+        "enunciado": "¿Qué permite calcular una cohorte abierta que una cerrada no puede estimar con facilidad?",
+        "opciones": [
+          "Prevalencia",
+          "Odds ratio",
+          "Tasa de incidencia por tiempo-persona",
+          "Proporción de casos acumulados"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En cohortes abiertas, como hay personas que entran y salen en diferentes momentos, se usa el tiempo-persona para calcular tasas de incidencia."
+      },
+      {
+        "enunciado": "¿Qué ventaja ofrece un ensayo clínico aleatorizado frente a un cuasiexperimento?",
+        "opciones": [
+          "Permite medir prevalencia",
+          "Evita completamente cualquier tipo de sesgo",
+          "Distribuye al azar los factores conocidos y desconocidos entre grupos",
+          "Puede realizarse sin consentimiento informado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La aleatorización hace que los grupos sean comparables desde el inicio, lo que reduce el riesgo de sesgos y confusión."
+      },
+      {
+        "enunciado": "En un ensayo clínico, ¿cuál es el propósito del grupo control?",
+        "opciones": [
+          "Recibir la intervención más fuerte",
+          "Evitar pérdidas durante el seguimiento",
+          "Comparar los efectos con quienes no recibieron la intervención",
+          "Reducir el número de participantes necesarios"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "El grupo control permite comparar los resultados con quienes no recibieron la intervención, para evaluar su eficacia real."
+      },
+      {
+        "enunciado": "¿Por qué los ensayos comunitarios pueden tener menor validez interna que los ensayos clínicos individuales?",
+        "opciones": [
+          "Porque nunca usan aleatorización",
+          "Porque los desenlaces no se pueden medir",
+          "Porque es difícil controlar variables en poblaciones grandes",
+          "Porque no se puede calcular riesgo relativo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En grupos grandes como comunidades, es difícil controlar todos los factores externos, lo que puede afectar la precisión de los resultados."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes estudios sería más vulnerable a la contaminación entre grupos?",
+        "opciones": [
+          "Ensayo clínico doble ciego",
+          "Estudio de cohortes prospectivo",
+          "Ensayo comunitario sin aislamiento entre comunidades",
+          "Cuasiexperimento retrospectivo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En ensayos comunitarios, si los grupos no están bien separados, las personas pueden verse afectadas por la intervención aunque no estén asignadas a ella."
+      },
+      {
+        "enunciado": "¿Qué define a un diseño de cohorte cerrada?",
+        "opciones": [
+          "Permite incorporar nuevos participantes durante el estudio",
+          "Incluye solo personas que ya tienen el desenlace",
+          "Tiene un grupo fijo de personas desde el inicio",
+          "No permite calcular tasas de incidencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Una cohorte cerrada incluye siempre a los mismos participantes desde el inicio, lo que permite seguirlos para ver quién desarrolla la enfermedad."
+      },
+      {
+        "enunciado": "¿Qué cálculo epidemiológico es más adecuado en una cohorte abierta?",
+        "opciones": [
+          "Prevalencia puntual",
+          "Razón de momios",
+          "Tasa de incidencia por tiempo-persona",
+          "Riesgo atribuible absoluto"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Como los participantes entran y salen en distintos momentos, se calcula la incidencia en función del tiempo total que cada uno estuvo en riesgo."
+      },
+      {
+        "enunciado": "¿Qué característica tienen en común las cohortes prospectivas y retrospectivas?",
+        "opciones": [
+          "La intervención se asigna al azar",
+          "Los participantes se eligen según su desenlace",
+          "Permiten comparar personas expuestas y no expuestas",
+          "Solo permiten un único desenlace"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Ambos tipos de cohortes comparan grupos según la exposición y luego analizan la aparición del desenlace, aunque lo hagan en tiempos distintos."
+      },
+      {
+        "enunciado": "¿Qué estudio es más eficiente para estudiar enfermedades raras con largo período de latencia?",
+        "opciones": [
+          "Ensayo clínico cruzado",
+          "Estudio transversal",
+          "Cohorte abierta prospectiva",
+          "Cohorte retrospectiva"
+        ],
+        "correcta": 3,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Las cohortes retrospectivas permiten estudiar enfermedades raras ya ocurridas, sin tener que esperar años para que se desarrollen."
+      },
+      {
+        "enunciado": "¿Qué tipo de sesgo es más probable en un cuasiexperimento?",
+        "opciones": [
+          "Sesgo de enmascaramiento",
+          "Sesgo de selección por falta de aleatorización",
+          "Sesgo de medición por doble ciego",
+          "Sesgo ecológico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Sin aleatorización, puede haber diferencias importantes entre los grupos antes de la intervención, lo que puede confundir los resultados."
+      },
+      {
+        "enunciado": "¿Qué ventaja tiene un estudio de cohorte prospectiva frente a uno retrospectivo?",
+        "opciones": [
+          "Puede incluir personas fallecidas",
+          "Permite mejor control de cómo se mide la exposición",
+          "Es más rápido y económico",
+          "Permite estudiar enfermedades que ya ocurrieron"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Al iniciarse antes de que ocurra el desenlace, el investigador puede asegurarse de medir la exposición de manera precisa y estandarizada."
+      },
+      {
+        "enunciado": "En un ensayo clínico, el análisis por intención de tratar implica:",
+        "opciones": [
+          "Excluir a los participantes que abandonan el estudio",
+          "Analizar a todos según el tratamiento que recibieron efectivamente",
+          "Analizar a los participantes según el grupo al que fueron asignados originalmente",
+          "Solo considerar los resultados de quienes completan el protocolo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Este tipo de análisis mantiene a los participantes en su grupo original, aunque no hayan seguido el tratamiento, para evitar sesgos."
+      },
+      {
+        "enunciado": "¿Cuál es una razón para elegir un cuasiexperimento en lugar de un ensayo clínico aleatorizado?",
+        "opciones": [
+          "Cuando no se puede tener grupo control",
+          "Cuando la aleatorización es poco práctica o no ética",
+          "Cuando se busca medir prevalencia",
+          "Cuando solo se estudia una intervención farmacológica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los cuasiexperimentos se usan cuando no es viable o ético asignar al azar, como con políticas públicas o intervenciones ya iniciadas."
+      },
+      {
+        "enunciado": "¿Qué cálculo es más válido en una cohorte cerrada?",
+        "opciones": [
+          "Tasa de incidencia por persona-tiempo",
+          "Prevalencia acumulada",
+          "Incidencia acumulada",
+          "Razón de prevalencias"
+        ],
+        "correcta": 2,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "La incidencia acumulada mide qué proporción de personas desarrollan el evento en un periodo determinado, ideal en cohortes cerradas."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio experimental se adapta mejor para comparar dos tratamientos aplicados a los mismos participantes en momentos distintos?",
+        "opciones": [
+          "Ensayo clínico pragmático",
+          "Ensayo clínico cruzado (crossover)",
+          "Ensayo comunitario",
+          "Ensayo clínico abierto"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "En un diseño cruzado, los participantes actúan como su propio control, recibiendo ambos tratamientos en distintos periodos, lo que mejora la comparación."
+      },
+      {
+        "enunciado": "¿Qué tipo de diseño puede ayudar a medir la efectividad de una intervención en condiciones reales de uso clínico?",
+        "opciones": [
+          "Ensayo clínico explicativo",
+          "Ensayo clínico pragmático",
+          "Cohorte cerrada retrospectiva",
+          "Cuasiexperimento hospitalario"
+        ],
+        "correcta": 1,
+        "categorías": ["tema101", "tipos de estudio"],
+        "feedback": "Los ensayos clínicos pragmáticos se hacen en contextos reales, lo que permite conocer cómo funciona una intervención fuera del ambiente controlado del laboratorio."
+      }
+          
+      
+]

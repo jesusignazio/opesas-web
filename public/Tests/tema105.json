@@ -1,0 +1,722 @@
+[
+    {
+        "enunciado": "¿Qué es un sesgo en un estudio?",
+        "opciones": [
+          "Un error que ocurre solo por azar",
+          "Un error sistemático que afecta los resultados",
+          "Un cambio en la hipótesis",
+          "Una diferencia entre grupos causada por la intervención"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Un sesgo es un error sistemático que puede alterar los resultados del estudio y llevar a conclusiones incorrectas."
+      },
+      {
+        "enunciado": "¿Qué es el sesgo de selección?",
+        "opciones": [
+          "Cuando los datos se introducen mal",
+          "Cuando los participantes elegidos no representan bien a la población",
+          "Cuando no se siguen todos los pacientes",
+          "Cuando se pierde el consentimiento informado"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El sesgo de selección ocurre cuando los grupos comparados no son equivalentes desde el inicio por cómo fueron seleccionados."
+      },
+      {
+        "enunciado": "¿Qué es un sesgo de información?",
+        "opciones": [
+          "Una forma de aleatorizar mal",
+          "Cuando se mide incorrectamente una variable",
+          "Una diferencia en el tamaño muestral",
+          "Un cambio en la prevalencia de la enfermedad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Este sesgo se produce cuando la información recogida no es exacta o se mide de forma diferente en los grupos."
+      },
+      {
+        "enunciado": "¿Qué es un sesgo de confusión?",
+        "opciones": [
+          "Un error de medición",
+          "Un error aleatorio",
+          "La influencia de una tercera variable relacionada con la exposición y el desenlace",
+          "Un problema con la muestra pequeña"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "La confusión ocurre cuando una tercera variable distorsiona la relación entre la exposición y el desenlace."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo de sesgo de memoria (recuerdo)?",
+        "opciones": [
+          "No seguir a los pacientes hasta el final",
+          "Que los casos recuerden mejor la exposición que los controles",
+          "Exclusión de pacientes graves",
+          "Asignación no aleatoria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "En estudios de casos y controles, los pacientes enfermos pueden recordar mejor las exposiciones pasadas, generando sesgo."
+      },
+      {
+        "enunciado": "¿Qué es un error aleatorio?",
+        "opciones": [
+          "Un error causado por una mala medición sistemática",
+          "Un error debido al azar y que se reduce aumentando la muestra",
+          "Un error provocado por la intervención",
+          "Un error debido al mal diseño del estudio"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Los errores aleatorios se producen por el azar, pero pueden reducirse aumentando el tamaño de la muestra."
+      },
+      {
+        "enunciado": "¿Qué significa un error tipo I?",
+        "opciones": [
+          "No encontrar una diferencia que sí existe",
+          "Detectar una diferencia que en realidad no existe",
+          "Hacer mal el muestreo",
+          "No medir el desenlace"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El error tipo I es rechazar una hipótesis nula que en realidad es verdadera. Es decir, creer que hay efecto cuando no lo hay."
+      },
+      {
+        "enunciado": "¿Qué significa un error tipo II?",
+        "opciones": [
+          "Encontrar una relación falsa",
+          "Aceptar la hipótesis nula cuando es falsa",
+          "Medir mal la exposición",
+          "Elegir mal los controles"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El error tipo II ocurre cuando no se detecta un efecto que sí existe. Es decir, no ver una diferencia real."
+      },
+      {
+        "enunciado": "¿Cuál es una forma de reducir el sesgo de selección?",
+        "opciones": [
+          "Cegar al evaluador",
+          "Aumentar el tamaño de la muestra",
+          "Aleatorizar la asignación a los grupos",
+          "Cambiar la hipótesis"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "La aleatorización ayuda a que los grupos comparados sean similares y evita que el investigador elija quién entra en cada grupo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ayuda a reducir el sesgo de información?",
+        "opciones": [
+          "No cegar al investigador",
+          "Tomar medidas subjetivas",
+          "Usar instrumentos de medición validados",
+          "Disminuir el tamaño de muestra"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El uso de herramientas validadas mejora la precisión y confiabilidad de las mediciones, reduciendo el sesgo de información."
+      },
+      {
+        "enunciado": "¿Qué tipo de sesgo puede evitarse usando enmascaramiento (cegamiento)?",
+        "opciones": [
+          "Sesgo de selección",
+          "Sesgo de confusión",
+          "Sesgo de información",
+          "Sesgo ecológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Cegar al paciente o al evaluador evita que sus creencias influyan en la recolección o interpretación de los datos."
+      },
+      {
+        "enunciado": "¿Cuál de estos es un ejemplo de sesgo de selección?",
+        "opciones": [
+          "Los pacientes más graves abandonan el estudio",
+          "El entrevistador interpreta mal las respuestas",
+          "Se usan distintos aparatos para medir la presión",
+          "Los pacientes olvidan su historial"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Cuando los pacientes más graves abandonan el estudio, se altera la composición del grupo, introduciendo sesgo de selección."
+      },
+      {
+        "enunciado": "¿Qué tipo de error se reduce aumentando el tamaño de la muestra?",
+        "opciones": [
+          "Sesgo de información",
+          "Error aleatorio",
+          "Sesgo de selección",
+          "Sesgo de confusión"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El error aleatorio disminuye con muestras más grandes, ya que hay menor probabilidad de que el azar distorsione los resultados."
+      },
+      {
+        "enunciado": "¿Qué es el sesgo del superviviente?",
+        "opciones": [
+          "Cuando solo se analizan los que completan el estudio",
+          "Cuando se mide mal una variable",
+          "Cuando se eligen mal los controles",
+          "Cuando los datos se recogen con error"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "El sesgo del superviviente ocurre cuando se analizan solo los que terminaron el estudio, ignorando los que abandonaron."
+      },
+      {
+        "enunciado": "¿Qué sesgo puede ocurrir si los controles en un estudio no están bien seleccionados?",
+        "opciones": [
+          "Sesgo de información",
+          "Sesgo de confusión",
+          "Sesgo de selección",
+          "Error tipo II"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "sesgos y errores"],
+        "feedback": "Si los controles no representan bien a la población de origen, se introduce sesgo de selección y se altera la comparación."
+      },
+      {
+        "enunciado": "¿Cuál es la interpretación correcta de un error tipo I en un estudio estadístico?",
+        "opciones": [
+          "Aceptar la hipótesis alternativa cuando la hipótesis nula es verdadera",
+          "Aceptar la hipótesis nula cuando es verdadera",
+          "Rechazar la hipótesis alternativa cuando es falsa",
+          "No detectar una asociación que realmente existe"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I (α) ocurre cuando se rechaza la hipótesis nula siendo esta verdadera. Es decir, se detecta un efecto que no existe."
+      },
+      {
+        "enunciado": "El error tipo II se refiere a:",
+        "opciones": [
+          "Rechazar la hipótesis alternativa cuando es verdadera",
+          "Aceptar la hipótesis nula cuando es falsa",
+          "Rechazar la hipótesis nula cuando es verdadera",
+          "Calcular mal el valor p"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo II (β) es no detectar un efecto real, es decir, aceptar la hipótesis nula cuando debería ser rechazada."
+      },
+      {
+        "enunciado": "¿Qué representa el valor de α (alfa) en una prueba estadística?",
+        "opciones": [
+          "La probabilidad de cometer un error tipo II",
+          "El nivel de potencia del estudio",
+          "El riesgo de rechazar una hipótesis nula verdadera",
+          "El porcentaje de variabilidad explicado por el modelo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El valor α es el nivel de significación, y representa la probabilidad de cometer un error tipo I: falso positivo."
+      },
+      {
+        "enunciado": "¿Qué valor de β (beta) indica una alta probabilidad de error tipo II?",
+        "opciones": [
+          "0.80",
+          "0.50",
+          "0.20",
+          "0.95"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un valor de β = 0.50 indica un 50% de probabilidad de no detectar un efecto real, lo cual es inaceptablemente alto."
+      },
+      {
+        "enunciado": "La potencia estadística de un estudio se calcula como:",
+        "opciones": [
+          "1 − alfa",
+          "1 + beta",
+          "1 − beta",
+          "alfa + beta"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia es la probabilidad de detectar un efecto real cuando existe, y se define como 1 − β."
+      },
+      {
+        "enunciado": "¿Cuál es una estrategia directa para reducir el error tipo II en un estudio?",
+        "opciones": [
+          "Usar un alfa más bajo",
+          "Reducir el tamaño de muestra",
+          "Aumentar la muestra y la potencia",
+          "Usar variables dicotómicas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Aumentar el tamaño muestral incrementa la potencia del estudio y reduce la probabilidad de cometer un error tipo II."
+      },
+      {
+        "enunciado": "¿Qué ocurre si se reduce demasiado el valor de α?",
+        "opciones": [
+          "Aumenta la probabilidad de error tipo II",
+          "Disminuye la varianza de los estimadores",
+          "Aumenta la sensibilidad de la prueba",
+          "Se elimina el riesgo de error tipo I"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Reducir α (por ejemplo, de 0.05 a 0.01) disminuye el riesgo de error tipo I, pero también reduce la potencia, aumentando el riesgo de error tipo II."
+      },
+      {
+        "enunciado": "Un investigador fija un nivel de significación de 0.01. Esto implica que:",
+        "opciones": [
+          "Acepta una probabilidad del 99% de detectar efectos reales",
+          "Tiene una potencia del 99%",
+          "Solo considera significativos resultados con p < 0.01",
+          "No hay riesgo de error tipo II"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un alfa de 0.01 indica que solo se aceptarán resultados con una probabilidad menor al 1% de ser debidos al azar como significativos."
+      },
+      {
+        "enunciado": "En un estudio con potencia estadística del 80%, ¿cuál es el valor de β?",
+        "opciones": [
+          "0.80",
+          "0.20",
+          "0.05",
+          "0.95"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia de 80% implica una probabilidad de error tipo II (β) del 20%."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores NO afecta directamente la potencia de un estudio?",
+        "opciones": [
+          "Tamaño del efecto esperado",
+          "Tamaño de la muestra",
+          "Nivel de significación (α)",
+          "Frecuencia de los errores de tipeo en el manuscrito"
+        ],
+        "correcta": 3,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia depende del tamaño muestral, el efecto esperado y el nivel de α. Los errores de tipeo no tienen impacto estadístico."
+      },
+      {
+        "enunciado": "Si se comete un error tipo I, ¿cuál es la consecuencia práctica?",
+        "opciones": [
+          "No se implementa una intervención eficaz",
+          "Se cree que una intervención es eficaz cuando no lo es",
+          "El intervalo de confianza se vuelve más amplio",
+          "La hipótesis alternativa es aceptada con certeza"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I lleva a concluir que una diferencia existe cuando no es así, lo que puede llevar a aplicar tratamientos ineficaces."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones indica un estudio con alta probabilidad de detectar un efecto real?",
+        "opciones": [
+          "Alfa bajo, beta alto, muestra pequeña",
+          "Alfa alto, beta bajo, muestra grande",
+          "Alfa bajo, beta alto, muestra grande",
+          "Alfa alto, beta alto, muestra pequeña"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un estudio con alta potencia requiere bajo β (error tipo II), lo cual se logra con muestras grandes y niveles de α adecuados."
+      },
+      {
+        "enunciado": "¿Qué significa un valor p de 0.07 si el umbral de significación es 0.05?",
+        "opciones": [
+          "El resultado es estadísticamente significativo",
+          "No hay suficiente evidencia para rechazar la hipótesis nula",
+          "Hay un 7% de probabilidad de que la hipótesis alternativa sea cierta",
+          "La hipótesis nula es falsa con un 93% de certeza"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Con p = 0.07 y α = 0.05, no se alcanza significación. No se rechaza la hipótesis nula aunque podría haber un efecto real (riesgo de error tipo II)."
+      },
+      {
+        "enunciado": "¿Qué diferencia clave existe entre los errores tipo I y tipo II?",
+        "opciones": [
+          "Solo el tipo I afecta la validez interna",
+          "El tipo I se relaciona con el azar, el tipo II con el diseño",
+          "El tipo I es un falso positivo, el tipo II es un falso negativo",
+          "Ambos solo ocurren en estudios experimentales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I es un falso positivo (detecta algo que no existe) y el tipo II es un falso negativo (no detecta algo que sí existe)."
+      },
+      {
+        "enunciado": "¿Qué ocurre si se aumenta mucho el tamaño de la muestra en un estudio?",
+        "opciones": [
+          "Aumenta el error tipo I",
+          "Disminuye la potencia estadística",
+          "Aumenta la probabilidad de detectar diferencias pequeñas",
+          "El valor p ya no tiene sentido"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Con muestras muy grandes, incluso diferencias pequeñas pueden resultar estadísticamente significativas, aunque no sean clínicamente importantes."
+      },
+      {
+        "enunciado": "Un error tipo I consiste en:",
+        "opciones": [
+          "Aceptar una hipótesis nula falsa",
+          "Rechazar una hipótesis nula verdadera",
+          "Aceptar la hipótesis alternativa cuando es falsa",
+          "No detectar una diferencia real"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I ocurre cuando rechazamos la hipótesis nula aunque en realidad es cierta. Es un falso positivo."
+      },
+      {
+        "enunciado": "Un error tipo II consiste en:",
+        "opciones": [
+          "Rechazar una hipótesis nula verdadera",
+          "Aceptar la hipótesis nula cuando es falsa",
+          "Detectar un efecto que no existe",
+          "Equivocarse al elegir la muestra"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo II es no detectar un efecto que sí existe. Se acepta la hipótesis nula cuando debería rechazarse."
+      },
+      {
+        "enunciado": "¿Cuál de estos es un sinónimo de error tipo I?",
+        "opciones": [
+          "Falso negativo",
+          "Fallo de medición",
+          "Falso positivo",
+          "Error de precisión"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I también se llama falso positivo: el estudio encuentra una diferencia que en realidad no existe."
+      },
+      {
+        "enunciado": "¿Qué otro nombre recibe el error tipo II?",
+        "opciones": [
+          "Falso positivo",
+          "Fallo sistemático",
+          "Falso negativo",
+          "Significación espuria"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo II es un falso negativo: el estudio no detecta una diferencia que realmente existe."
+      },
+      {
+        "enunciado": "¿Qué significa una potencia del 80% en un estudio?",
+        "opciones": [
+          "El 80% de los resultados serán significativos",
+          "Hay un 80% de probabilidad de evitar un error tipo I",
+          "El estudio detectará un efecto real el 80% de las veces",
+          "El valor p será menor que 0,05 en el 80% de los casos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Una potencia del 80% significa que el estudio tiene un 80% de probabilidad de detectar un efecto si realmente existe."
+      },
+      {
+        "enunciado": "¿Qué representa el valor alfa (α) en una prueba estadística?",
+        "opciones": [
+          "La probabilidad de un error tipo I",
+          "La fuerza de la asociación",
+          "La potencia del estudio",
+          "El número de repeticiones"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El valor alfa es el nivel de significación y representa el riesgo aceptado de cometer un error tipo I (por ejemplo, 5%)."
+      },
+      {
+        "enunciado": "¿Qué representa el valor beta (β)?",
+        "opciones": [
+          "La probabilidad de error tipo I",
+          "El tamaño del efecto",
+          "La probabilidad de error tipo II",
+          "La diferencia entre medias"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Beta representa la probabilidad de cometer un error tipo II, es decir, no detectar un efecto que sí existe."
+      },
+      {
+        "enunciado": "Si un estudio tiene una potencia del 90%, ¿cuál es su beta (β)?",
+        "opciones": [
+          "0,10",
+          "0,90",
+          "0,05",
+          "No tiene beta"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia se calcula como 1 − β, así que si la potencia es 90%, beta es 0,10 (10%)."
+      },
+      {
+        "enunciado": "¿Qué pasa si usamos un nivel de significación más estricto (por ejemplo, α = 0,01 en lugar de 0,05)?",
+        "opciones": [
+          "Aumenta la probabilidad de error tipo I",
+          "Disminuye la probabilidad de error tipo I",
+          "Aumenta la potencia del estudio",
+          "Se evita el error tipo II"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un nivel de significación más bajo reduce la probabilidad de cometer un error tipo I, pero puede aumentar el tipo II si no se ajusta la muestra."
+      },
+      {
+        "enunciado": "¿Cómo puede reducirse el riesgo de error tipo II?",
+        "opciones": [
+          "Reduciendo la muestra",
+          "Aumentando el tamaño muestral",
+          "Aumentando el valor p",
+          "Reduciendo el alfa a 0,001"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Aumentar el tamaño de muestra mejora la capacidad del estudio para detectar efectos reales, reduciendo el error tipo II."
+      },
+      {
+        "enunciado": "¿Qué ocurre si se comete un error tipo II en un estudio clínico?",
+        "opciones": [
+          "Se implementa una intervención inútil",
+          "Se descarta una intervención efectiva",
+          "Se acepta una hipótesis alternativa falsa",
+          "Se demuestra un efecto inexistente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo II lleva a no detectar un tratamiento efectivo, lo que puede impedir su uso adecuado."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones describe un falso positivo?",
+        "opciones": [
+          "No detectar un efecto que sí existe",
+          "Detectar una diferencia que no es real",
+          "Rechazar una intervención útil",
+          "Medir una variable incorrectamente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Detectar una diferencia que no es real equivale a un falso positivo, o error tipo I."
+      },
+      {
+        "enunciado": "¿Qué combinación indica mayor riesgo de error tipo I?",
+        "opciones": [
+          "Usar alfa = 0,05",
+          "Usar alfa = 0,10",
+          "Usar alfa = 0,01",
+          "Usar muestra grande"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Alfa más alto (como 0,10) implica aceptar un mayor riesgo de cometer error tipo I."
+      },
+      {
+        "enunciado": "¿Qué combinación indica mayor potencia estadística?",
+        "opciones": [
+          "Tamaño muestral bajo, alfa alto",
+          "Tamaño muestral alto, beta bajo",
+          "Alfa muy bajo, beta alto",
+          "Poco control de sesgos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia mejora con muestras grandes y bajo β, lo que reduce la probabilidad de error tipo II."
+      },
+      {
+        "enunciado": "¿Qué significa encontrar un valor p = 0,03 en un estudio con α = 0,05?",
+        "opciones": [
+          "Se comete error tipo I",
+          "Se rechaza la hipótesis nula con un 3% de probabilidad de equivocarse",
+          "No hay efecto real",
+          "No se puede sacar ninguna conclusión"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un p = 0,03 indica que hay una diferencia estadísticamente significativa al nivel de α = 0,05, con un 3% de riesgo de error tipo I."
+      },
+      {
+        "enunciado": "¿Qué significa cometer un error tipo I en un estudio?",
+        "opciones": [
+          "No detectar una diferencia real",
+          "Detectar una diferencia que no existe",
+          "Aceptar una hipótesis verdadera",
+          "Medir mal la variable dependiente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I es un falso positivo: se rechaza la hipótesis nula aunque sea verdadera."
+      },
+      {
+        "enunciado": "¿Qué implica cometer un error tipo II?",
+        "opciones": [
+          "Rechazar la hipótesis nula siendo cierta",
+          "Aceptar una hipótesis nula falsa",
+          "Detectar un efecto falso",
+          "No controlar las variables confusoras"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo II ocurre cuando no se detecta una diferencia real; es decir, se acepta una hipótesis nula que es falsa."
+      },
+      {
+        "enunciado": "¿Qué representa la potencia estadística de un estudio?",
+        "opciones": [
+          "La probabilidad de cometer un error tipo I",
+          "La probabilidad de detectar un efecto real",
+          "El tamaño de la muestra necesario",
+          "La precisión de las mediciones"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "La potencia es la capacidad del estudio para detectar un efecto cuando realmente existe (1 − β)."
+      },
+      {
+        "enunciado": "¿Qué ocurre si se usa un alfa demasiado bajo (por ejemplo, 0,001)?",
+        "opciones": [
+          "Aumenta el riesgo de error tipo I",
+          "Se reduce el poder del estudio",
+          "La muestra necesaria disminuye",
+          "Se elimina el riesgo de error tipo II"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Reducir demasiado el alfa baja el riesgo de error tipo I, pero también puede reducir la potencia y aumentar el error tipo II."
+      },
+      {
+        "enunciado": "¿Cuál es la mejor estrategia para reducir el error tipo II?",
+        "opciones": [
+          "Reducir alfa",
+          "Usar pruebas más complejas",
+          "Aumentar la muestra y la potencia",
+          "Disminuir el número de grupos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Una mayor muestra y una buena planificación del estudio ayudan a reducir el error tipo II."
+      },
+      {
+        "enunciado": "¿Qué riesgo implica fijar un alfa alto, como 0,10?",
+        "opciones": [
+          "Mayor probabilidad de error tipo I",
+          "Mayor probabilidad de error tipo II",
+          "Mayor potencia estadística",
+          "Menor necesidad de aleatorización"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un alfa más alto significa que estamos dispuestos a aceptar más fácilmente un falso positivo (error tipo I)."
+      },
+      {
+        "enunciado": "¿Qué ocurre cuando el valor p es menor que el alfa?",
+        "opciones": [
+          "Se acepta la hipótesis nula",
+          "Se rechaza la hipótesis nula",
+          "No se puede sacar ninguna conclusión",
+          "Se acepta la hipótesis alternativa con certeza"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Si p < α, se considera que el resultado es estadísticamente significativo y se rechaza la hipótesis nula."
+      },
+      {
+        "enunciado": "¿Qué riesgo representa β en un estudio?",
+        "opciones": [
+          "Detectar un efecto falso",
+          "No detectar un efecto real",
+          "Cometer un error sistemático",
+          "Seleccionar mal a los participantes"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "β representa el riesgo de error tipo II, es decir, no detectar un efecto que sí existe."
+      },
+      {
+        "enunciado": "¿Qué combinación de valores da mayor probabilidad de obtener un resultado significativo?",
+        "opciones": [
+          "Alfa bajo, beta alto, muestra pequeña",
+          "Alfa alto, beta bajo, muestra grande",
+          "Alfa bajo, beta bajo, muestra pequeña",
+          "Alfa alto, beta alto, muestra pequeña"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Una muestra grande y un bajo β (alta potencia) permiten detectar mejor las diferencias reales, y un alfa más alto facilita encontrar significación."
+      },
+      {
+        "enunciado": "¿Qué significa que un estudio tenga p = 0,20 y alfa = 0,05?",
+        "opciones": [
+          "La diferencia es significativa",
+          "Hay un error tipo I",
+          "No se rechaza la hipótesis nula",
+          "Se acepta la hipótesis alternativa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Si p > α, no se rechaza la hipótesis nula, aunque podría haber riesgo de error tipo II si realmente hay un efecto."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores NO afecta la potencia del estudio?",
+        "opciones": [
+          "Tamaño del efecto esperado",
+          "Tamaño muestral",
+          "Nivel de alfa",
+          "Orden de los datos en la base"
+        ],
+        "correcta": 3,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El orden de los datos no influye en la potencia; los demás factores sí lo hacen directamente."
+      },
+      {
+        "enunciado": "¿Qué puede provocar un error tipo I en la práctica clínica?",
+        "opciones": [
+          "Ignorar un tratamiento útil",
+          "Adoptar una intervención que en realidad no funciona",
+          "Perder participantes en el seguimiento",
+          "Reducir el tamaño muestral"
+        ],
+        "correcta": 1,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "El error tipo I puede hacer que se adopte una intervención que parece útil, pero no lo es realmente."
+      },
+      {
+        "enunciado": "¿Qué efecto tiene aumentar el tamaño de la muestra sobre el error tipo II?",
+        "opciones": [
+          "Lo aumenta",
+          "No lo afecta",
+          "Lo reduce",
+          "Hace que aparezca un error tipo I"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Una muestra más grande mejora la capacidad para detectar diferencias reales y reduce el error tipo II."
+      },
+      {
+        "enunciado": "¿Qué significa un resultado estadísticamente no significativo (p > 0,05)?",
+        "opciones": [
+          "Se acepta la hipótesis alternativa",
+          "Se rechaza la hipótesis nula",
+          "No hay pruebas suficientes para rechazar la hipótesis nula",
+          "Hay un error tipo I"
+        ],
+        "correcta": 2,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Un valor p > 0,05 indica que no hay suficiente evidencia para rechazar la hipótesis nula. No implica que sea verdadera."
+      },
+      {
+        "enunciado": "¿Cuál es la relación entre alfa y el valor p en una prueba estadística?",
+        "opciones": [
+          "Si p < alfa, se rechaza la hipótesis nula",
+          "Si p > alfa, se rechaza la hipótesis nula",
+          "Si p = alfa, el resultado es inválido",
+          "El valor p no depende de alfa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema105", "errores estadísticos"],
+        "feedback": "Cuando el valor p es menor que el alfa establecido, se considera que hay significación estadística y se rechaza la hipótesis nula."
+      }     
+]

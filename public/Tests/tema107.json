@@ -1,0 +1,723 @@
+[
+    {
+        "enunciado": "¿Qué mide la tasa de mortalidad infantil?",
+        "opciones": [
+          "El número de muertes por cada 1.000 nacidos vivos en menores de un año",
+          "El número de muertes neonatales por cada 100 nacimientos",
+          "El número de partos complicados por cada 1.000 mujeres",
+          "La tasa de fecundidad en menores de 15 años"
+        ],
+        "correcta": 0,
+        "categorías": ["tema107", "mortalidad"],
+        "feedback": "La mortalidad infantil mide cuántos niños menores de un año mueren por cada 1.000 nacidos vivos en un periodo determinado."
+      },
+      {
+        "enunciado": "¿Qué indica la esperanza de vida al nacer?",
+        "opciones": [
+          "El número de hijos por mujer",
+          "La edad promedio al morir en una población actual",
+          "La duración media esperada de vida desde el nacimiento si se mantienen las tasas actuales",
+          "La edad media al matrimonio en una población"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "esperanza de vida"],
+        "feedback": "La esperanza de vida al nacer estima cuántos años vivirá, en promedio, una persona si las condiciones actuales de mortalidad se mantienen."
+      },
+      {
+        "enunciado": "¿Qué indicador expresa la gravedad de una enfermedad?",
+        "opciones": [
+          "Tasa de incidencia",
+          "Tasa de mortalidad general",
+          "Tasa de letalidad",
+          "Esperanza de vida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "letalidad"],
+        "feedback": "La letalidad es el porcentaje de personas que mueren entre los que padecen una determinada enfermedad: mide su gravedad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores se utiliza para medir la frecuencia de una enfermedad en un periodo determinado?",
+        "opciones": [
+          "Prevalencia",
+          "Letalidad",
+          "Esperanza de vida",
+          "Tasa de incidencia"
+        ],
+        "correcta": 3,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La incidencia mide los casos nuevos de una enfermedad en una población durante un periodo de tiempo determinado."
+      },
+      {
+        "enunciado": "¿Qué representa la prevalencia de una enfermedad?",
+        "opciones": [
+          "El número total de casos nuevos durante un año",
+          "El número total de casos (nuevos y antiguos) en un momento determinado",
+          "Solo los casos graves de una enfermedad",
+          "La tasa de muertes por la enfermedad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La prevalencia incluye todos los casos existentes (nuevos y antiguos) en un punto o periodo específico."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un indicador negativo de salud?",
+        "opciones": [
+          "Esperanza de vida",
+          "Tasa de mortalidad infantil",
+          "Nivel educativo",
+          "Cobertura vacunal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "mortalidad"],
+        "feedback": "La tasa de mortalidad infantil es un indicador negativo, ya que su aumento refleja problemas sanitarios o sociales."
+      },
+      {
+        "enunciado": "¿Qué diferencia principal hay entre tasa de incidencia y prevalencia?",
+        "opciones": [
+          "La incidencia mide casos existentes; la prevalencia, casos nuevos",
+          "La prevalencia incluye solo casos agudos",
+          "La incidencia se refiere a nuevos casos; la prevalencia, a todos los casos",
+          "No hay diferencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La incidencia mide cuántos casos nuevos ocurren en un tiempo determinado; la prevalencia incluye todos los casos existentes."
+      },
+      {
+        "enunciado": "¿Qué mide la tasa de mortalidad materna?",
+        "opciones": [
+          "Muertes de mujeres embarazadas por cada 100.000 nacidos vivos",
+          "Abortos espontáneos por cada 1.000 mujeres",
+          "Tasa de cesáreas en mujeres menores de 18 años",
+          "Número de embarazos por cada 1.000 mujeres fértiles"
+        ],
+        "correcta": 0,
+        "categorías": ["tema107", "mortalidad materna"],
+        "feedback": "La tasa de mortalidad materna mide las muertes durante el embarazo, parto o puerperio por cada 100.000 nacidos vivos."
+      },
+      {
+        "enunciado": "¿Qué indicador se usa para evaluar el impacto global de la enfermedad y la discapacidad en años perdidos de vida saludable?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Esperanza de vida al nacer",
+          "Años de vida ajustados por discapacidad (AVAD o DALYs)",
+          "Tasa bruta de mortalidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "Los AVAD (DALYs en inglés) combinan años perdidos por muerte prematura y años vividos con discapacidad, evaluando el impacto total de las enfermedades."
+      },
+      {
+        "enunciado": "Una tasa bruta de mortalidad puede ser engañosa al comparar países porque:",
+        "opciones": [
+          "Depende del número de médicos por habitante",
+          "Se ve afectada por la edad media de la población",
+          "No tiene en cuenta la cobertura de salud",
+          "No incluye las causas externas de muerte"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "tasas brutas y ajustadas"],
+        "feedback": "Las tasas brutas no ajustan por estructura etaria, por lo que una población envejecida puede tener alta mortalidad sin peor salud general."
+      },
+      {
+        "enunciado": "¿Qué indicador permite comparar la mortalidad entre poblaciones con diferente estructura por edad?",
+        "opciones": [
+          "Tasa de letalidad ajustada",
+          "Prevalencia estandarizada",
+          "Tasa ajustada de mortalidad",
+          "Esperanza de vida ajustada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "tasas ajustadas"],
+        "feedback": "Las tasas ajustadas (por edad, por ejemplo) permiten comparar poblaciones eliminando el efecto de estructuras etarias distintas."
+      },
+      {
+        "enunciado": "¿Qué refleja una alta tasa de incidencia con baja prevalencia?",
+        "opciones": [
+          "La enfermedad es crónica",
+          "La enfermedad tiene alta letalidad o se cura rápido",
+          "La enfermedad es poco contagiosa",
+          "La muestra es demasiado pequeña"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "relación incidencia-prevalencia"],
+        "feedback": "Una incidencia alta y prevalencia baja puede indicar que los casos desaparecen rápido: por curación o por muerte."
+      },
+      {
+        "enunciado": "¿Qué indicador combina mortalidad y calidad de vida en un solo valor?",
+        "opciones": [
+          "Esperanza de vida al nacer",
+          "DALYs (AVAD)",
+          "Tasa de incidencia",
+          "Tasa ajustada de mortalidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "indicadores compuestos"],
+        "feedback": "Los DALYs combinan años perdidos por muerte prematura y años vividos con discapacidad, integrando mortalidad y morbilidad."
+      },
+      {
+        "enunciado": "¿Qué indicador sería más útil para planificar servicios de atención a enfermedades crónicas?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Esperanza de vida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "planificación en salud"],
+        "feedback": "La prevalencia refleja cuántas personas están viviendo con una enfermedad en un momento determinado, útil para planificar recursos sanitarios."
+      },
+      {
+        "enunciado": "¿Cuál es un indicador sintético de salud poblacional que mejora con el desarrollo social y sanitario?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Mortalidad perinatal",
+          "Esperanza de vida",
+          "Tasa de incidencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "indicadores de desarrollo"],
+        "feedback": "La esperanza de vida es un resumen del estado de salud poblacional y mejora con mejores condiciones sanitarias y sociales."
+      },
+      {
+        "enunciado": "¿Qué mide la tasa de letalidad?",
+        "opciones": [
+          "Número de muertes por cada 100.000 habitantes",
+          "Porcentaje de personas que mueren entre los enfermos por una causa",
+          "Número de muertes maternas por cada 1.000 nacimientos",
+          "Número de casos nuevos de una enfermedad en un año"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "letalidad"],
+        "feedback": "La tasa de letalidad indica cuán grave es una enfermedad, midiendo el porcentaje de personas que mueren entre quienes la padecen."
+      },
+      {
+        "enunciado": "¿Qué indicador refleja mejor el nivel general de salud de una población?",
+        "opciones": [
+          "Prevalencia de diabetes",
+          "Esperanza de vida al nacer",
+          "Tasa de incidencia de gripe",
+          "Tasa de letalidad por cáncer"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "esperanza de vida"],
+        "feedback": "La esperanza de vida al nacer es un indicador amplio que resume el nivel de salud y desarrollo de una población."
+      },
+      {
+        "enunciado": "¿Cuál es la fórmula general de la tasa de incidencia?",
+        "opciones": [
+          "Casos nuevos / población total",
+          "Casos totales / población en riesgo",
+          "Casos nuevos / población en riesgo durante un periodo",
+          "Muertes / población total"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La incidencia mide casos nuevos durante un periodo, dividiendo por la población en riesgo."
+      },
+      {
+        "enunciado": "¿Qué indica una prevalencia alta con una incidencia baja?",
+        "opciones": [
+          "Que la enfermedad es de rápida curación",
+          "Que la enfermedad es mortal en fase aguda",
+          "Que la enfermedad es de larga duración",
+          "Que se subestiman los casos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "relación prevalencia-incidencia"],
+        "feedback": "Alta prevalencia con baja incidencia sugiere enfermedades crónicas, de evolución larga y baja letalidad."
+      },
+      {
+        "enunciado": "¿Qué tipo de mortalidad se refiere a las muertes ocurridas en los primeros 28 días de vida?",
+        "opciones": [
+          "Mortalidad infantil",
+          "Mortalidad perinatal",
+          "Mortalidad neonatal",
+          "Mortalidad posneonatal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "mortalidad neonatal"],
+        "feedback": "La mortalidad neonatal incluye las muertes que ocurren desde el nacimiento hasta los 28 días de vida."
+      },
+      {
+        "enunciado": "¿Qué indicador puede estar influido por la calidad del diagnóstico y el acceso al sistema sanitario?",
+        "opciones": [
+          "Esperanza de vida",
+          "Tasa de letalidad",
+          "Tasa bruta de natalidad",
+          "Índice de envejecimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "letalidad"],
+        "feedback": "La tasa de letalidad puede variar en función del acceso al tratamiento, diagnóstico precoz y calidad asistencial."
+      },
+      {
+        "enunciado": "¿Qué diferencia principal hay entre tasa bruta y tasa ajustada de mortalidad?",
+        "opciones": [
+          "La tasa bruta se calcula por causas específicas",
+          "La tasa ajustada elimina el efecto de variables como la edad",
+          "Ambas se calculan igual pero en diferentes regiones",
+          "La tasa bruta siempre es más baja"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "tasas ajustadas"],
+        "feedback": "Las tasas ajustadas permiten comparar poblaciones diferentes eliminando efectos como la estructura de edad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un indicador de morbilidad?",
+        "opciones": [
+          "Prevalencia",
+          "Incidencia",
+          "Tasa de letalidad",
+          "DALYs"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La letalidad mide muertes entre los enfermos, por lo que refleja gravedad, no frecuencia de enfermedad (morbilidad)."
+      },
+      {
+        "enunciado": "¿Qué indicador se calcula dividiendo el número de muertes por el número de nacidos vivos?",
+        "opciones": [
+          "Mortalidad materna",
+          "Mortalidad neonatal",
+          "Mortalidad infantil",
+          "Tasa de natalidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "mortalidad infantil"],
+        "feedback": "La tasa de mortalidad infantil se basa en el número de nacidos vivos, y mide las muertes en menores de 1 año."
+      },
+      {
+        "enunciado": "¿Cuál de estos indicadores tiene mayor utilidad para evaluar programas de control de enfermedades transmisibles agudas?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Tasa de prevalencia",
+          "Tasa de incidencia",
+          "Esperanza de vida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "evaluación de programas"],
+        "feedback": "La tasa de incidencia permite evaluar la aparición de casos nuevos, ideal para monitorizar el control de infecciones."
+      },
+      {
+        "enunciado": "¿Qué indicador resume mejor el impacto global de una enfermedad en cantidad y calidad de vida perdidas?",
+        "opciones": [
+          "Tasa de incidencia acumulada",
+          "Años de vida ajustados por discapacidad (DALYs)",
+          "Tasa de prevalencia",
+          "Tasa de letalidad específica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "indicadores compuestos"],
+        "feedback": "Los DALYs (AVAD en español) integran mortalidad y morbilidad, permitiendo comparar el impacto global de distintas enfermedades."
+      },
+      {
+        "enunciado": "¿Qué se requiere para calcular la incidencia acumulada?",
+        "opciones": [
+          "Población total y años de seguimiento",
+          "Número total de casos y defunciones",
+          "Número de casos nuevos y población en riesgo al inicio",
+          "Total de años perdidos ajustados por calidad de vida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "incidencia acumulada"],
+        "feedback": "La incidencia acumulada se calcula con el número de casos nuevos durante un periodo y la población en riesgo al inicio."
+      },
+      {
+        "enunciado": "¿Qué indicador se usa para estimar la necesidad de recursos para enfermedades crónicas como diabetes o EPOC?",
+        "opciones": [
+          "Incidencia",
+          "Letalidad",
+          "Prevalencia",
+          "Esperanza de vida al nacer"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "planificación sanitaria"],
+        "feedback": "La prevalencia permite estimar cuántas personas viven con una enfermedad crónica, clave para planificar recursos."
+      },
+      {
+        "enunciado": "¿Qué indicador se ve más afectado por factores culturales y acceso a servicios de salud?",
+        "opciones": [
+          "Esperanza de vida",
+          "Tasa bruta de mortalidad",
+          "Mortalidad materna",
+          "Prevalencia de enfermedades raras"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "determinantes sociales de salud"],
+        "feedback": "La mortalidad materna es sensible a factores sociales, culturales y al acceso y calidad de los servicios de salud."
+      },
+      {
+        "enunciado": "¿Qué indicador refleja el número total de muertes en una población sin ajustes por edad ni causa?",
+        "opciones": [
+          "Tasa ajustada de mortalidad",
+          "Tasa bruta de mortalidad",
+          "Letalidad global",
+          "Mortalidad infantil"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "mortalidad general"],
+        "feedback": "La tasa bruta de mortalidad incluye todas las muertes en una población, sin tener en cuenta edad ni causas específicas."
+      },
+      {
+        "enunciado": "¿Qué indicador se utiliza para medir el riesgo de desarrollar una enfermedad en un periodo específico?",
+        "opciones": [
+          "Prevalencia",
+          "Incidencia acumulada",
+          "Letalidad",
+          "Esperanza de vida al nacer"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "incidencia"],
+        "feedback": "La incidencia acumulada mide el riesgo de enfermar en un periodo determinado entre la población en riesgo al inicio."
+      },
+      {
+        "enunciado": "¿Qué mide la tasa de natalidad?",
+        "opciones": [
+          "Nacimientos por cada 1.000 mujeres en edad fértil",
+          "Nacimientos vivos por cada 1.000 habitantes",
+          "Nacimientos por cada 1.000 niños menores de 5 años",
+          "Total de nacimientos dividido por tasa de fecundidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "demografía"],
+        "feedback": "La tasa de natalidad indica el número de nacimientos vivos por cada 1.000 habitantes en un año."
+      },
+      {
+        "enunciado": "¿Qué indicador se usa para estimar la cantidad promedio de años que vive una población?",
+        "opciones": [
+          "Incidencia",
+          "Esperanza de vida al nacer",
+          "Letalidad",
+          "Tasa ajustada de mortalidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "esperanza de vida"],
+        "feedback": "La esperanza de vida al nacer estima el promedio de años que vivirá una persona si las tasas actuales de mortalidad se mantienen."
+      },
+      {
+        "enunciado": "¿Qué refleja una alta tasa de letalidad en una enfermedad infecciosa?",
+        "opciones": [
+          "Alta transmisibilidad",
+          "Alta gravedad",
+          "Alta prevalencia",
+          "Alta duración"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "letalidad"],
+        "feedback": "Una alta letalidad indica que la enfermedad provoca muchas muertes entre quienes la padecen, lo que refleja alta gravedad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores refleja el número de casos existentes de una enfermedad en un momento dado?",
+        "opciones": [
+          "Incidencia acumulada",
+          "Tasa bruta de mortalidad",
+          "Prevalencia",
+          "Letalidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La prevalencia mide cuántas personas padecen una enfermedad en un momento o periodo específico."
+      },
+      {
+        "enunciado": "¿Qué indicador es más útil para evaluar la carga total de una enfermedad en salud pública?",
+        "opciones": [
+          "Letalidad",
+          "DALYs",
+          "Incidencia",
+          "Esperanza de vida"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "DALYs"],
+        "feedback": "Los DALYs (años de vida ajustados por discapacidad) combinan mortalidad prematura y discapacidad para estimar la carga global de enfermedad."
+      },
+      {
+        "enunciado": "¿Qué característica tiene una enfermedad con baja incidencia pero alta prevalencia?",
+        "opciones": [
+          "Es muy contagiosa",
+          "Se resuelve rápidamente",
+          "Tiene duración prolongada",
+          "Afecta solo a niños"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "prevalencia-incidencia"],
+        "feedback": "Una alta prevalencia con baja incidencia indica que la enfermedad es de larga duración, como ocurre en enfermedades crónicas."
+      },
+      {
+        "enunciado": "¿Qué mide la mortalidad perinatal?",
+        "opciones": [
+          "Muertes en el primer mes de vida",
+          "Muertes fetales a partir de la semana 28 y neonatales precoces",
+          "Muertes maternas durante el parto",
+          "Muertes infantiles hasta los 5 años"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "mortalidad perinatal"],
+        "feedback": "La mortalidad perinatal incluye muertes fetales tardías (≥28 semanas) y neonatales precoces (primeros 7 días)."
+      },
+      {
+        "enunciado": "¿Cuál es el principal limitante de usar tasas brutas de mortalidad para comparar países?",
+        "opciones": [
+          "Dependen del número de nacimientos",
+          "No ajustan por edad de la población",
+          "Requieren análisis multivariado",
+          "No incluyen muertes por causas externas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "tasas brutas"],
+        "feedback": "Las tasas brutas no ajustan por estructura etaria, lo que puede distorsionar las comparaciones entre poblaciones con diferentes edades medias."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores combina morbilidad y mortalidad en una misma medida?",
+        "opciones": [
+          "Tasa de incidencia",
+          "Prevalencia puntual",
+          "Tasa de letalidad",
+          "DALYs"
+        ],
+        "correcta": 3,
+        "categorías": ["tema107", "indicadores compuestos"],
+        "feedback": "Los DALYs miden años de vida perdidos tanto por muerte prematura como por años vividos con discapacidad."
+      },
+      {
+        "enunciado": "¿Qué representa una incidencia acumulada del 10% en un año?",
+        "opciones": [
+          "Que el 10% de los casos existentes murieron",
+          "Que hubo un 10% más de pacientes crónicos",
+          "Que el 10% de la población desarrolló la enfermedad ese año",
+          "Que el 10% fue tratado correctamente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "incidencia acumulada"],
+        "feedback": "Una incidencia acumulada del 10% significa que el 10% de la población en riesgo desarrolló la enfermedad durante ese año."
+      },
+      {
+        "enunciado": "¿Cuál es un ejemplo de indicador de resultado en salud?",
+        "opciones": [
+          "Cobertura vacunal",
+          "Accesibilidad al sistema de salud",
+          "Esperanza de vida",
+          "Número de centros de salud"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "indicadores de resultado"],
+        "feedback": "La esperanza de vida es un indicador de resultado, ya que refleja el efecto final del sistema sanitario y las condiciones sociales."
+      },
+      {
+        "enunciado": "¿Qué indicador expresa el número de años que una persona pierde debido a enfermedad o muerte prematura?",
+        "opciones": [
+          "Años de vida perdidos (YLL)",
+          "Esperanza de vida saludable",
+          "Letalidad",
+          "Tasa de incidencia acumulada"
+        ],
+        "correcta": 0,
+        "categorías": ["tema107", "YLL"],
+        "feedback": "Los YLL (Years of Life Lost) miden cuántos años de vida se pierden por muertes prematuras respecto a una edad estándar esperada."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador es la tasa de incidencia de tuberculosis?",
+        "opciones": [
+          "Indicador de proceso",
+          "Indicador de estructura",
+          "Indicador de resultado",
+          "Indicador de estado de salud"
+        ],
+        "correcta": 3,
+        "categorías": ["tema107", "estado de salud"],
+        "feedback": "La incidencia refleja cuántas personas enferman, por lo que se considera un indicador de estado de salud de la población."
+      },
+      {
+        "enunciado": "¿Qué medida es más útil para estimar la necesidad de recursos sanitarios en enfermedades de larga duración?",
+        "opciones": [
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Tasa de letalidad",
+          "Tasa bruta de mortalidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "planificación sanitaria"],
+        "feedback": "La prevalencia refleja cuántas personas viven con una enfermedad y es esencial para planificar recursos en atención crónica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores refleja mejor el impacto de una enfermedad crónica en una comunidad?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Tasa de incidencia",
+          "Prevalencia",
+          "Esperanza de vida al nacer"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "La prevalencia muestra cuántas personas conviven con una enfermedad, clave en el estudio de enfermedades crónicas."
+      },
+      {
+        "enunciado": "¿Cuál de estos indicadores se ve más directamente afectado por una campaña de vacunación exitosa?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Prevalencia",
+          "Tasa de incidencia",
+          "Esperanza de vida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "prevención y salud pública"],
+        "feedback": "La incidencia disminuirá si la vacunación reduce el número de casos nuevos de la enfermedad prevenible."
+      },
+      {
+        "enunciado": "¿Qué mide la tasa de mortalidad específica por causa?",
+        "opciones": [
+          "Muertes por una enfermedad concreta en relación con toda la población",
+          "Porcentaje de enfermos que fallecen por esa causa",
+          "Muertes por todas las causas ajustadas por edad",
+          "Muertes en hospitales por cualquier causa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema107", "mortalidad específica"],
+        "feedback": "Este indicador se refiere a la mortalidad por una causa específica en una población general durante un periodo determinado."
+      },
+      {
+        "enunciado": "¿Qué mide la tasa de fecundidad general?",
+        "opciones": [
+          "Nacimientos por cada 1.000 mujeres en edad fértil",
+          "Nacimientos por cada 1.000 habitantes",
+          "Muertes fetales por cada 1.000 partos",
+          "Número de embarazos por cada 100 mujeres"
+        ],
+        "correcta": 0,
+        "categorías": ["tema107", "indicadores demográficos"],
+        "feedback": "La tasa de fecundidad general estima cuántos nacimientos ocurren entre mujeres en edad fértil, normalmente entre 15 y 49 años."
+      },
+      {
+        "enunciado": "¿Qué significa una tasa de letalidad del 60% para una enfermedad?",
+        "opciones": [
+          "Que el 60% de la población la padece",
+          "Que el 60% de los enfermos mueren por esa causa",
+          "Que el 60% de los casos nuevos ocurren en un mes",
+          "Que el 60% de las muertes se deben a esa enfermedad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "letalidad"],
+        "feedback": "Una tasa de letalidad del 60% indica que de cada 100 personas con la enfermedad, 60 fallecen por ella."
+      },
+      {
+        "enunciado": "¿Qué diferencia clave existe entre mortalidad neonatal y mortalidad infantil?",
+        "opciones": [
+          "La neonatal incluye hasta el año, la infantil solo el primer mes",
+          "La infantil incluye todas las muertes menores de 1 año, la neonatal solo las primeras 4 semanas",
+          "Ambas incluyen hasta los 5 años",
+          "La neonatal es una subcategoría de mortalidad materna"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "mortalidad infantil"],
+        "feedback": "La mortalidad neonatal se refiere a muertes en los primeros 28 días de vida; la infantil incluye desde el nacimiento hasta 1 año."
+      },
+      {
+        "enunciado": "¿Qué indicador se utiliza para estimar la salud de una población en términos de años sin discapacidad?",
+        "opciones": [
+          "DALYs",
+          "Esperanza de vida saludable",
+          "Letalidad",
+          "Prevalencia ajustada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "calidad de vida"],
+        "feedback": "La esperanza de vida saludable mide los años que una persona puede esperar vivir sin enfermedad ni discapacidad importante."
+      },
+      {
+        "enunciado": "¿Qué indica un aumento sostenido de la esperanza de vida en un país?",
+        "opciones": [
+          "Mayor número de nacimientos",
+          "Reducción de la fecundidad",
+          "Mejora general de condiciones sanitarias y sociales",
+          "Aumento de la tasa de incidencia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "esperanza de vida"],
+        "feedback": "Un aumento en la esperanza de vida suele reflejar mejoras en salud pública, nutrición, educación y atención médica."
+      },
+      {
+        "enunciado": "¿Qué implica una prevalencia elevada pero una incidencia baja de una enfermedad crónica?",
+        "opciones": [
+          "La enfermedad es poco grave",
+          "La enfermedad tiene baja duración",
+          "La enfermedad tiene alta letalidad",
+          "La enfermedad es de larga duración"
+        ],
+        "correcta": 3,
+        "categorías": ["tema107", "morbilidad"],
+        "feedback": "Enfermedades con larga evolución tienden a acumularse en la población, aumentando la prevalencia aunque los casos nuevos (incidencia) sean pocos."
+      },
+      {
+        "enunciado": "¿Qué indicador refleja el número de defunciones en una población sin ajuste por edad o causa?",
+        "opciones": [
+          "Tasa específica de mortalidad",
+          "Tasa ajustada de mortalidad",
+          "Tasa bruta de mortalidad",
+          "Tasa de letalidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema107", "mortalidad general"],
+        "feedback": "La tasa bruta de mortalidad se calcula con todas las muertes por cualquier causa, sin ajustes por edad u otros factores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un indicador sintético que resume el impacto de enfermedades en calidad y cantidad de vida?",
+        "opciones": [
+          "Tasa de incidencia acumulada",
+          "DALYs",
+          "Letalidad específica",
+          "Tasa ajustada de natalidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "DALYs"],
+        "feedback": "Los DALYs combinan años perdidos por muerte prematura y años vividos con discapacidad para estimar carga global de enfermedad."
+      },
+      {
+        "enunciado": "¿Qué indicador es más sensible a los cambios en políticas de prevención primaria?",
+        "opciones": [
+          "Tasa de letalidad",
+          "Incidencia",
+          "Prevalencia",
+          "DALYs"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "prevención"],
+        "feedback": "La incidencia responde rápidamente a cambios en prevención, ya que mide casos nuevos que podrían evitarse."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores es útil para medir desigualdades entre grupos poblacionales?",
+        "opciones": [
+          "Tasa bruta de natalidad",
+          "Tasa específica de mortalidad ajustada",
+          "Letalidad por enfermedades transmisibles",
+          "Esperanza de vida por nivel socioeconómico"
+        ],
+        "correcta": 3,
+        "categorías": ["tema107", "determinantes sociales"],
+        "feedback": "La esperanza de vida estratificada por nivel socioeconómico permite visualizar desigualdades en salud."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes se considera un indicador directo del estado de salud de una población?",
+        "opciones": [
+          "Acceso a centros de salud",
+          "Esperanza de vida al nacer",
+          "Número de médicos por habitante",
+          "Porcentaje del PIB destinado a sanidad"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "estado de salud"],
+        "feedback": "La esperanza de vida refleja directamente el resultado acumulado del sistema de salud y condiciones de vida."
+      },
+      {
+        "enunciado": "¿Qué indicador se ve más influido por la edad media de la población al compararse entre países?",
+        "opciones": [
+          "Tasa ajustada de incidencia",
+          "Tasa bruta de mortalidad",
+          "DALYs",
+          "Letalidad específica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema107", "comparaciones internacionales"],
+        "feedback": "La tasa bruta de mortalidad puede parecer mayor en países con población más envejecida, aunque su salud general sea buena."
+      }
+      
+]

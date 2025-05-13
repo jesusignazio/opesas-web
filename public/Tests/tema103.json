@@ -1,0 +1,723 @@
+[
+    {
+        "enunciado": "¿Cuál es el principal objetivo del análisis de varianza (ANOVA)?",
+        "opciones": [
+          "Comparar proporciones entre dos grupos independientes",
+          "Evaluar la relación entre dos variables cualitativas",
+          "Comparar medias entre más de dos grupos independientes",
+          "Analizar la dispersión de datos en una sola variable"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "El ANOVA se usa para comparar si hay diferencias significativas entre las medias de tres o más grupos independientes."
+      },
+      {
+        "enunciado": "La prueba t de Student para muestras independientes se usa cuando:",
+        "opciones": [
+          "Se quiere comparar medias entre grupos relacionados",
+          "Se comparan proporciones de una variable cualitativa",
+          "Se comparan dos medias de grupos diferentes con varianza similar",
+          "Se comparan tres o más medias simultáneamente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La t de Student para muestras independientes compara medias entre dos grupos distintos, siempre que las varianzas sean similares."
+      },
+      {
+        "enunciado": "¿Cuál es un supuesto clave para aplicar ANOVA?",
+        "opciones": [
+          "Que las variables sean cualitativas",
+          "Homogeneidad de varianzas entre los grupos",
+          "Que los datos no sigan una distribución normal",
+          "Que haya solo dos grupos comparados"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA asume que las varianzas entre los grupos son iguales, además de normalidad de los datos y muestras independientes."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas se utiliza para comparar una variable cuantitativa antes y después de una intervención en los mismos individuos?",
+        "opciones": [
+          "Chi-cuadrado",
+          "t de Student para muestras relacionadas",
+          "ANOVA de un factor",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba t para muestras relacionadas (o apareadas) compara dos medias obtenidas en el mismo grupo antes y después de una intervención."
+      },
+      {
+        "enunciado": "La prueba de chi-cuadrado se utiliza para:",
+        "opciones": [
+          "Comparar medias de tres grupos",
+          "Evaluar la relación entre dos variables cuantitativas",
+          "Analizar si hay asociación entre variables cualitativas",
+          "Estimar una media poblacional"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Chi-cuadrado es una prueba no paramétrica que evalúa si existe asociación entre variables categóricas (nominales u ordinales)."
+      },
+      {
+        "enunciado": "En una tabla de contingencia 2x2, la prueba chi-cuadrado es adecuada cuando:",
+        "opciones": [
+          "Las frecuencias esperadas son mayores de 5 en todas las celdas",
+          "La variable dependiente es cuantitativa",
+          "Solo hay dos categorías por variable y datos pareados",
+          "Los valores son proporciones en lugar de frecuencias absolutas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La chi-cuadrado requiere que las frecuencias esperadas en cada celda sean suficientemente grandes, idealmente mayores a 5."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas estadísticas sería más apropiada para comparar la presión arterial promedio entre tres grupos de tratamiento?",
+        "opciones": [
+          "t de Student para muestras independientes",
+          "ANOVA de un factor",
+          "Chi-cuadrado",
+          "Correlación de Pearson"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando se comparan más de dos medias (por ejemplo, tres tratamientos), ANOVA es la prueba más adecuada."
+      },
+      {
+        "enunciado": "La prueba t de Student para muestras independientes requiere que:",
+        "opciones": [
+          "Los datos sean cualitativos",
+          "Las muestras sean relacionadas",
+          "Los datos sigan una distribución normal y tengan varianzas homogéneas",
+          "Los grupos tengan el mismo tamaño"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La t de Student requiere normalidad, independencia de muestras y homogeneidad de varianzas entre grupos."
+      },
+      {
+        "enunciado": "Cuando se obtiene un resultado significativo en ANOVA, ¿qué debe hacerse para saber entre qué grupos existen diferencias?",
+        "opciones": [
+          "Repetir la prueba con muestras más grandes",
+          "Aplicar una prueba post hoc como Tukey o Bonferroni",
+          "Calcular un odds ratio para cada grupo",
+          "Aplicar regresión lineal múltiple"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA solo indica si hay diferencias entre grupos; para saber entre cuáles, se aplican comparaciones múltiples post hoc como Tukey."
+      },
+      {
+        "enunciado": "¿Qué prueba es más adecuada para analizar la relación entre tipo de dieta (omnivora, vegetariana, vegana) y presencia de hipertensión (sí/no)?",
+        "opciones": [
+          "t de Student",
+          "ANOVA",
+          "Chi-cuadrado",
+          "Regresión logística"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Al comparar dos variables cualitativas (tipo de dieta y presencia de hipertensión), la prueba chi-cuadrado es la más indicada."
+      },
+      {
+        "enunciado": "La prueba t para muestras relacionadas se utiliza cuando:",
+        "opciones": [
+          "Se comparan medias entre tres grupos independientes",
+          "Se estudia la evolución de una variable en un mismo grupo",
+          "Se analizan proporciones en datos categóricos",
+          "Se quiere correlacionar dos variables numéricas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Esta prueba compara dos mediciones hechas sobre el mismo grupo de individuos, como antes y después de un tratamiento."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones es un supuesto común tanto para t de Student como para ANOVA?",
+        "opciones": [
+          "Que las variables sean ordinales",
+          "Homogeneidad de varianzas y distribución normal de los datos",
+          "Datos en escalas nominales",
+          "Igual tamaño de muestra en los grupos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Ambas pruebas requieren datos normalmente distribuidos y varianzas similares entre los grupos para ser válidas."
+      },
+      {
+        "enunciado": "Cuando los datos no cumplen normalidad, ¿qué prueba es alternativa a la t de Student para comparar dos grupos?",
+        "opciones": [
+          "Chi-cuadrado",
+          "ANOVA",
+          "U de Mann-Whitney",
+          "Regresión lineal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La U de Mann-Whitney es una prueba no paramétrica que compara distribuciones entre dos grupos cuando no se puede asumir normalidad."
+      },
+      {
+        "enunciado": "¿Qué estadístico se obtiene como resultado principal en la prueba ANOVA?",
+        "opciones": [
+          "t",
+          "X² (chi-cuadrado)",
+          "F",
+          "p-value"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "El valor F refleja la razón entre la variabilidad entre grupos y la variabilidad dentro de los grupos; es el estadístico principal en ANOVA."
+      },
+      {
+        "enunciado": "¿Cuál de estas situaciones corresponde a un uso adecuado de la prueba chi-cuadrado?",
+        "opciones": [
+          "Comparar media de glucemia en dos grupos",
+          "Evaluar si hay asociación entre tabaquismo (sí/no) y EPOC (sí/no)",
+          "Estudiar la evolución del colesterol en un grupo después de dieta",
+          "Analizar la diferencia de peso entre tres grupos con dietas distintas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado es adecuada para determinar si hay asociación entre dos variables categóricas como tabaquismo y EPOC."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas se utiliza para comparar medias entre dos grupos independientes?",
+        "opciones": [
+          "ANOVA",
+          "Chi-cuadrado",
+          "T de Student",
+          "Regresión lineal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La t de Student para muestras independientes compara medias entre dos grupos distintos, como diabéticos y no diabéticos."
+      },
+      {
+        "enunciado": "Si comparamos la media de glucemia entre pacientes diabéticos y no diabéticos, ¿qué prueba sería adecuada?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras independientes",
+          "ANOVA",
+          "Prueba de McNemar"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La variable es cuantitativa y los grupos son independientes: la prueba t de Student es la opción adecuada."
+      },
+      {
+        "enunciado": "¿Cuál es la prueba más adecuada para estudiar la asociación entre dos variables cualitativas (por ejemplo, tabaquismo y EPOC)?",
+        "opciones": [
+          "ANOVA",
+          "Regresión logística",
+          "Chi cuadrado",
+          "T de Student"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Chi-cuadrado es ideal para analizar la relación entre dos variables categóricas, como tabaquismo (sí/no) y EPOC (sí/no)."
+      },
+      {
+        "enunciado": "¿Qué prueba se utiliza para comparar proporciones entre dos grupos?",
+        "opciones": [
+          "T de Student",
+          "ANOVA",
+          "Chi cuadrado",
+          "Regresión lineal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado compara proporciones o frecuencias entre categorías, como el porcentaje de hipertensos en hombres y mujeres."
+      },
+      {
+        "enunciado": "Para comparar medias de presión arterial en tres grupos de tratamiento, ¿cuál es la prueba más adecuada?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "U de Mann-Whitney"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA permite comparar medias entre tres o más grupos independientes. Si hay diferencias, se puede hacer análisis post hoc."
+      },
+      {
+        "enunciado": "¿Qué prueba se utiliza para comparar una media antes y después de una intervención en el mismo grupo?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras relacionadas",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba t para muestras relacionadas compara dos mediciones en los mismos individuos, como antes y después de un tratamiento."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas sería más adecuada para evaluar la relación entre nivel educativo (bajo/medio/alto) y obesidad (sí/no)?",
+        "opciones": [
+          "ANOVA",
+          "Chi cuadrado",
+          "T de Student",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Ambas variables son cualitativas, por lo que la prueba chi-cuadrado es la más indicada para analizar su asociación."
+      },
+      {
+        "enunciado": "Si queremos comparar la frecuencia de dolor articular en hombres y mujeres, ¿qué prueba debemos usar?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student",
+          "ANOVA",
+          "Prueba t para muestras relacionadas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Dolor articular (sí/no) y sexo son variables categóricas. Para comparar proporciones entre los grupos, se usa chi-cuadrado."
+      },
+      {
+        "enunciado": "¿Qué prueba estadística permite comparar dos medias cuando los datos no siguen una distribución normal?",
+        "opciones": [
+          "Chi cuadrado",
+          "U de Mann-Whitney",
+          "ANOVA",
+          "T de Student"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La U de Mann-Whitney es una prueba no paramétrica que compara dos grupos cuando no se puede asumir normalidad."
+      },
+      {
+        "enunciado": "¿Qué prueba es más adecuada para comparar el IMC antes y después de un programa de ejercicio en los mismos participantes?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras independientes",
+          "T de Student para muestras relacionadas",
+          "ANOVA"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Se trata de la misma persona medida dos veces: antes y después. Por tanto, corresponde la prueba t para muestras relacionadas."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas permite saber si hay diferencias significativas entre tres o más medias?",
+        "opciones": [
+          "Chi cuadrado",
+          "ANOVA",
+          "T de Student",
+          "Wilcoxon"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA compara simultáneamente varias medias (3 o más) para detectar si al menos una difiere de las otras."
+      },
+      {
+        "enunciado": "¿Qué prueba estadística se emplea cuando queremos saber si hay asociación entre dos variables nominales en una tabla de contingencia?",
+        "opciones": [
+          "T de Student",
+          "ANOVA",
+          "Chi cuadrado",
+          "Regresión lineal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Chi-cuadrado permite identificar si existe una relación significativa entre dos variables categóricas representadas en una tabla."
+      },
+      {
+        "enunciado": "¿Qué prueba se usa para comparar medias entre dos grupos no relacionados con varianzas similares y datos normales?",
+        "opciones": [
+          "T de Student para muestras independientes",
+          "T de Student para muestras relacionadas",
+          "ANOVA",
+          "Chi cuadrado"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando los grupos son independientes y los datos son normales, se usa la t de Student para muestras independientes."
+      },
+      {
+        "enunciado": "¿Qué prueba usarías para evaluar la evolución del nivel de colesterol tras tres controles sucesivos en el mismo grupo de pacientes?",
+        "opciones": [
+          "ANOVA de medidas repetidas",
+          "T de Student para muestras relacionadas",
+          "Chi cuadrado",
+          "U de Mann-Whitney"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando hay más de dos mediciones en los mismos individuos a lo largo del tiempo, se aplica ANOVA de medidas repetidas."
+      },
+      {
+        "enunciado": "¿Qué prueba permite analizar si la diferencia entre dos proporciones es estadísticamente significativa?",
+        "opciones": [
+          "T de Student",
+          "ANOVA",
+          "Chi cuadrado",
+          "Regresión logística"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado permite saber si dos proporciones (por ejemplo, % de hipertensión en hombres vs mujeres) difieren significativamente."
+      },
+      {
+        "enunciado": "¿Cuál es la prueba estadística más adecuada para comparar medias entre dos grupos relacionados?",
+        "opciones": [
+          "ANOVA",
+          "Chi cuadrado",
+          "T de Student para muestras relacionadas",
+          "T de Student para muestras independientes"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando los mismos sujetos son medidos en dos momentos (por ejemplo, antes y después), se usa la t para muestras relacionadas."
+      },
+      {
+        "enunciado": "¿Qué prueba se usa para determinar si hay asociación entre nivel de estudios (bajo/medio/alto) y estado de salud (bueno/regular/malo)?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Ambas variables son categóricas, así que lo adecuado es usar la prueba chi-cuadrado para analizar su asociación."
+      },
+      {
+        "enunciado": "¿Cuál es la prueba más adecuada para comparar la media de glucosa en sangre entre tres tipos de dieta?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA permite comparar medias entre más de dos grupos, como en este caso con tres dietas diferentes."
+      },
+      {
+        "enunciado": "¿Qué prueba permite evaluar si hay cambio significativo en la presión arterial tras tratamiento en un mismo grupo de personas?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras relacionadas",
+          "ANOVA",
+          "T de Student para muestras independientes"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Como se trata de mediciones antes y después en los mismos sujetos, corresponde usar la t para muestras relacionadas."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas es más adecuada para estudiar la relación entre dos variables cualitativas dicotómicas?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "Regresión lineal",
+          "ANOVA"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado se utiliza para estudiar si hay asociación entre dos variables categóricas, como sexo y enfermedad (sí/no)."
+      },
+      {
+        "enunciado": "¿Qué prueba se debe utilizar para comparar el colesterol promedio entre cuatro grupos según nivel de actividad física?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student",
+          "ANOVA",
+          "U de Mann-Whitney"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Con más de dos grupos y una variable cuantitativa, la prueba indicada es ANOVA."
+      },
+      {
+        "enunciado": "¿Qué prueba permite comparar la proporción de hipertensión entre personas con y sin obesidad?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Ambas variables son categóricas (hipertensión: sí/no; obesidad: sí/no), así que la prueba apropiada es chi-cuadrado."
+      },
+      {
+        "enunciado": "¿Qué prueba es más adecuada para comparar la media de frecuencia cardíaca entre hombres y mujeres?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras independientes",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Se trata de dos grupos independientes (hombres vs mujeres) y una variable cuantitativa: corresponde la t para muestras independientes."
+      },
+      {
+        "enunciado": "¿Qué prueba se usa si tenemos tres medidas de peso tomadas en el mismo grupo a lo largo del tiempo?",
+        "opciones": [
+          "T de Student para muestras relacionadas",
+          "ANOVA de medidas repetidas",
+          "Chi cuadrado",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando hay tres o más medidas en el mismo grupo a lo largo del tiempo, la prueba indicada es ANOVA de medidas repetidas."
+      },
+      {
+        "enunciado": "¿Cuál de estas pruebas se aplica cuando queremos comparar medianas entre dos grupos con datos no normales?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "U de Mann-Whitney",
+          "ANOVA"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La U de Mann-Whitney es la alternativa no paramétrica a la t de Student cuando los datos no siguen distribución normal."
+      },
+      {
+        "enunciado": "Si la p obtenida en una prueba t es menor de 0,05, ¿qué concluimos?",
+        "opciones": [
+          "La diferencia es estadísticamente significativa",
+          "Hay error en la muestra",
+          "Los grupos son equivalentes",
+          "El tamaño muestral es inadecuado"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Un valor p < 0,05 indica que la diferencia observada es poco probable que ocurra por azar, y se considera estadísticamente significativa."
+      },
+      {
+        "enunciado": "¿Qué prueba permite analizar la relación entre una variable categórica (sí/no) y una cuantitativa (edad)?",
+        "opciones": [
+          "T de Student para muestras independientes",
+          "Chi cuadrado",
+          "Regresión logística",
+          "ANOVA"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando se compara una media (edad) entre dos grupos definidos por una variable binaria (sí/no), se usa la t de Student para muestras independientes."
+      },
+      {
+        "enunciado": "¿Qué prueba sería adecuada para analizar si hay diferencia en la proporción de fumadores entre tres regiones distintas?",
+        "opciones": [
+          "Chi cuadrado",
+          "ANOVA",
+          "T de Student",
+          "Regresión lineal"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado se usa para comparar proporciones entre más de dos grupos categóricos."
+      },
+      {
+        "enunciado": "¿Qué prueba se usa cuando se quiere analizar si la dieta influye en la media de triglicéridos, considerando tres tipos de dieta?",
+        "opciones": [
+          "ANOVA",
+          "Chi cuadrado",
+          "T de Student",
+          "Regresión logística"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Como hay tres grupos (tipos de dieta) y una variable cuantitativa (triglicéridos), se utiliza ANOVA."
+      },
+      {
+        "enunciado": "¿Cuál es la prueba adecuada para comparar el nivel medio de ansiedad antes y después de una intervención en el mismo grupo?",
+        "opciones": [
+          "T de Student para muestras relacionadas",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión lineal"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando se evalúa un mismo grupo en dos momentos diferentes, la prueba correcta es la t de Student para muestras relacionadas."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas permite comparar medias entre dos grupos distintos?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student para muestras independientes",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando se comparan medias de una variable cuantitativa entre dos grupos diferentes, se usa la t de Student para muestras independientes."
+      },
+      {
+        "enunciado": "¿Qué prueba se debe usar para comparar proporciones entre grupos independientes?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "T de Student para muestras relacionadas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba chi-cuadrado permite comparar proporciones o frecuencias entre grupos categóricos."
+      },
+      {
+        "enunciado": "Si queremos saber si hay diferencias en el nivel medio de colesterol entre tres grupos de edad, ¿qué prueba usamos?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA se usa para comparar medias entre tres o más grupos independientes."
+      },
+      {
+        "enunciado": "¿Qué prueba estadística se utiliza para comparar una medida antes y después de una intervención en el mismo grupo?",
+        "opciones": [
+          "Chi cuadrado",
+          "ANOVA",
+          "T de Student para muestras relacionadas",
+          "T de Student para muestras independientes"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La t para muestras relacionadas compara dos mediciones en los mismos sujetos, como antes y después de un tratamiento."
+      },
+      {
+        "enunciado": "¿Qué prueba se emplea para estudiar la relación entre dos variables cualitativas?",
+        "opciones": [
+          "T de Student",
+          "ANOVA",
+          "Chi cuadrado",
+          "Regresión lineal"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La chi-cuadrado permite analizar si existe asociación entre dos variables categóricas."
+      },
+      {
+        "enunciado": "¿Qué prueba se usa para comparar la media de una variable en función de dos categorías independientes?",
+        "opciones": [
+          "ANOVA",
+          "T de Student para muestras independientes",
+          "Chi cuadrado",
+          "T de Student para muestras relacionadas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Si hay dos grupos independientes y una variable cuantitativa, se usa la t para muestras independientes."
+      },
+      {
+        "enunciado": "¿Qué medida se analiza con ANOVA?",
+        "opciones": [
+          "Proporciones",
+          "Medias",
+          "Frecuencias",
+          "Razones de prevalencia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA compara medias entre tres o más grupos independientes."
+      },
+      {
+        "enunciado": "¿Cuál de estas pruebas requiere que las variables sigan una distribución normal y tengan varianzas similares?",
+        "opciones": [
+          "Chi cuadrado",
+          "T de Student",
+          "Regresión logística",
+          "Prueba exacta de Fisher"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La t de Student es una prueba paramétrica y requiere normalidad y homogeneidad de varianzas."
+      },
+      {
+        "enunciado": "¿Qué prueba alternativa a la t de Student se utiliza si los datos no son normales?",
+        "opciones": [
+          "Chi cuadrado",
+          "U de Mann-Whitney",
+          "ANOVA",
+          "Regresión logística"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La U de Mann-Whitney es una prueba no paramétrica para comparar dos grupos cuando no se puede asumir normalidad."
+      },
+      {
+        "enunciado": "¿Qué prueba usarías para saber si el nivel de estrés cambia en un grupo después de una intervención?",
+        "opciones": [
+          "T de Student para muestras relacionadas",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión lineal"
+        ],
+        "correcta": 0,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Para comparaciones antes y después en los mismos individuos, se utiliza la t para muestras relacionadas."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas se puede aplicar para una tabla de 2x2 con frecuencias pequeñas?",
+        "opciones": [
+          "Chi cuadrado",
+          "Regresión logística",
+          "T de Student",
+          "Prueba exacta de Fisher"
+        ],
+        "correcta": 3,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Cuando las frecuencias esperadas son pequeñas (menores de 5), la prueba exacta de Fisher es más adecuada que chi-cuadrado."
+      },
+      {
+        "enunciado": "¿Qué prueba permite evaluar si hay diferencias significativas entre tres o más medias en un mismo grupo a lo largo del tiempo?",
+        "opciones": [
+          "Chi cuadrado",
+          "ANOVA de medidas repetidas",
+          "T de Student para muestras independientes",
+          "Regresión logística"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "ANOVA de medidas repetidas se aplica cuando se hacen varias mediciones sobre los mismos sujetos en distintos momentos."
+      },
+      {
+        "enunciado": "¿Qué prueba se utiliza para analizar si la proporción de fumadores varía según el nivel de ingresos (bajo/medio/alto)?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "ANOVA",
+          "Regresión lineal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "Chi-cuadrado analiza si hay diferencias en la distribución de frecuencias entre categorías, como nivel de ingresos y tabaquismo."
+      },
+      {
+        "enunciado": "¿Qué estadístico se obtiene como resultado principal en ANOVA?",
+        "opciones": [
+          "t",
+          "p",
+          "F",
+          "z"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "El estadístico F compara la variabilidad entre grupos con la variabilidad dentro de los grupos."
+      },
+      {
+        "enunciado": "¿Cuál es la prueba más adecuada para comparar proporciones en dos grupos dependientes?",
+        "opciones": [
+          "T de Student",
+          "Chi cuadrado",
+          "Prueba de McNemar",
+          "ANOVA"
+        ],
+        "correcta": 2,
+        "categorías": ["tema103", "pruebas estadísticas"],
+        "feedback": "La prueba de McNemar se usa para comparar proporciones en dos mediciones categóricas de un mismo grupo, como antes y después."
+      }
+      
+]
