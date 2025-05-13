@@ -1,0 +1,453 @@
+[
+    {
+        "enunciado": "Un paciente tiene un ITB de 1,0, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía leve", "Normalidad vascular", "Arterias no compresibles"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB entre 0,9 y 1,3 indica una circulación arterial normal."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,85, tiene un riesgo de:",
+        "opciones": ["Arterias calcificadas", "Arteriopatía leve", "Isquemia crítica", "Normalidad"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB entre 0,7 y 0,9 se asocia a arteriopatía periférica leve."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,6, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía moderada", "Normalidad", "Arterias no compresibles"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB entre 0,5 y 0,7 indica arteriopatía periférica moderada."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,4, tiene un riesgo de:",
+        "opciones": ["Normalidad vascular", "Isquemia crítica", "Arterias calcificadas", "Arteriopatía leve"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB inferior a 0,5 se asocia a isquemia crítica de extremidades."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,4, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía leve", "Arterias calcificadas o no compresibles", "Normalidad vascular"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB mayor de 1,3 sugiere calcificación arterial y falsos negativos."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,95, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Arteriopatía moderada", "Normalidad", "Isquemia crítica"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Valores entre 0,9 y 1,3 se consideran normales."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,7, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía leve", "Arteriopatía moderada", "Normalidad"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB de 0,7 indica arteriopatía de grado moderado."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,3, tiene un riesgo de:",
+        "opciones": ["Arteriopatía moderada", "Arteriopatía leve", "Isquemia crítica", "Normalidad vascular"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB inferior a 0,5 indica isquemia crítica, con alto riesgo de amputación."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,35, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Normalidad", "Falsos negativos por calcificación arterial", "Arteriopatía leve"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "ITB >1,3 puede deberse a calcificación arterial que impide la compresión correcta."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,78, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía moderada", "Normalidad", "Arteriopatía leve"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "ITB entre 0,7 y 0,9 indica arteriopatía leve."
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,0, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía leve", "Normalidad", "Calcificación arterial"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,82, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Arteriopatía leve", "Arteriopatía moderada", "Calcificación arterial"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,66, tiene un riesgo de:",
+        "opciones": ["Arteriopatía moderada", "Normalidad", "Arteriopatía leve", "Calcificación arterial"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,42, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Normalidad", "Isquemia crítica", "Arteriopatía moderada"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,35, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Isquemia crítica", "Calcificación arterial", "Arteriopatía leve"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,73, tiene un riesgo de:",
+        "opciones": ["Arteriopatía moderada", "Arteriopatía leve", "Calcificación arterial", "Normalidad"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,58, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Arteriopatía leve", "Arteriopatía moderada", "Calcificación arterial"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,48, tiene un riesgo de:",
+        "opciones": ["Arteriopatía moderada", "Isquemia crítica", "Normalidad", "Arteriopatía leve"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,2, tiene un riesgo de:",
+        "opciones": ["Calcificación arterial", "Isquemia crítica", "Arteriopatía leve", "Normalidad"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,45, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Isquemia crítica", "Arteriopatía moderada", "Calcificación arterial"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5-0,7 moderada; 0,7-0,9 leve; 0,9-1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,69, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía leve", "Arteriopatía moderada", "Normalidad"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,89, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Arteriopatía leve", "Arteriopatía moderada", "Isquemia crítica"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,1, tiene un riesgo de:",
+        "opciones": ["Normalidad", "Arteriopatía leve", "Calcificación arterial", "Isquemia crítica"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,35, tiene un riesgo de:",
+        "opciones": ["Arteriopatía moderada", "Isquemia crítica", "Arteriopatía leve", "Normalidad"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,77, tiene un riesgo de:",
+        "opciones": ["Isquemia crítica", "Arteriopatía moderada", "Arteriopatía leve", "Calcificación arterial"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,51, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Arteriopatía moderada", "Isquemia crítica", "Normalidad"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,4, tiene un riesgo de:",
+        "opciones": ["Calcificación arterial", "Normalidad", "Arteriopatía leve", "Isquemia crítica"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,95, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Calcificación arterial", "Normalidad", "Arteriopatía moderada"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 0,28, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Arteriopatía moderada", "Isquemia crítica", "Normalidad"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "Un paciente tiene un ITB de 1,25, tiene un riesgo de:",
+        "opciones": ["Arteriopatía leve", "Normalidad", "Isquemia crítica", "Calcificación arterial"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Rangos esperables: <0,5 isquemia crítica; 0,5–0,7 moderada; 0,7–0,9 leve; 0,9–1,3 normal; >1,3 calcificación"
+      },
+      {
+        "enunciado": "El rango de isquemia crítica es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El rango de arteriopatía moderada es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El rango de arteriopatía leve es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El rango considerado normal es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normalidad vascular: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial leve cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial moderada cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El ITB sugiere isquemia crítica cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El ITB es normal cuando su valor está en el rango de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normal: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "El rango de isquemia crítica es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El rango de arteriopatía moderada es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El rango de arteriopatía leve es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El rango considerado normal es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normalidad vascular: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial leve cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial moderada cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El ITB sugiere isquemia crítica cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El ITB es normal cuando su valor está en el rango de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normal: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "El rango de isquemia crítica es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El rango de arteriopatía moderada es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El rango de arteriopatía leve es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Arteriopatía leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El rango considerado normal es cuando el ITB tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normalidad vascular: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial leve cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad leve: ITB 0,7–0,9"
+      },
+      {
+        "enunciado": "El ITB sugiere enfermedad arterial moderada cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Enfermedad moderada: ITB 0,5–0,7"
+      },
+      {
+        "enunciado": "El ITB sugiere isquemia crítica cuando tiene un valor de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 0,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Isquemia crítica: ITB < 0,5"
+      },
+      {
+        "enunciado": "El ITB es normal cuando su valor está en el rango de:",
+        "opciones": ["< 0,5", "0,5–0,7", "0,7–0,9", "0,9–1,3"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Normal: ITB 0,9–1,3"
+      },
+      {
+        "enunciado": "Para calcular el ITB, se debe dividir:",
+        "opciones": ["La presión sistólica del brazo entre la del tobillo", "La media de ambas presiones braquiales", "La presión sistólica del tobillo entre la del brazo más alta", "La presión diastólica del tobillo entre la del brazo"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "El ITB se calcula dividiendo la presión sistólica del tobillo entre la presión sistólica braquial más alta."
+      },
+      {
+        "enunciado": "¿Qué presión se utiliza del brazo para el cálculo del ITB?",
+        "opciones": ["La más baja entre ambos brazos", "La del brazo derecho", "La media de ambos brazos", "La más alta entre ambos brazos"],
+        "correcta": 3,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Debe utilizarse la presión sistólica más alta entre ambos brazos como referencia."
+      },
+      {
+        "enunciado": "¿Qué presión se usa en el tobillo para calcular el ITB?",
+        "opciones": ["La media entre arteria tibial y pedia", "La presión de la arteria tibial posterior o pedia, la más alta", "Solo la arteria tibial posterior", "La presión diastólica del tobillo"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Se utiliza la mayor de las presiones sistólicas medidas en arteria tibial posterior o pedia."
+      },
+      {
+        "enunciado": "¿Qué equipo se recomienda para medir el ITB de forma adecuada?",
+        "opciones": ["Fonendoscopio y esfigmomanómetro manual", "Tensiómetro digital de brazo", "Doppler manual y manguito de presión", "Electrocardiógrafo portátil"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "La medición precisa requiere Doppler y manguito para detectar la presión sistólica."
+      },
+      {
+        "enunciado": "¿Qué arterias se deben valorar en el tobillo para el ITB?",
+        "opciones": ["Femoral y poplítea", "Tibial anterior y poplítea", "Pedia y tibial posterior", "Tibial anterior y peronea"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Se valora la arteria pedia y la tibial posterior, usando la de mayor presión."
+      },
+      {
+        "enunciado": "Antes de realizar la medición del ITB, el paciente debe estar en reposo al menos:",
+        "opciones": ["5 minutos", "10 minutos", "15 minutos", "20 minutos"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Se recomienda un reposo de al menos 10 minutos en decúbito supino antes de la medición."
+      },
+      {
+        "enunciado": "¿Cuál es la posición adecuada del paciente durante la medición del ITB?",
+        "opciones": ["Sentado con piernas colgando", "De pie sin calzado", "Decúbito supino", "Sentado con las piernas cruzadas"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "La medición debe realizarse en decúbito supino para evitar variaciones por la gravedad."
+      },
+      {
+        "enunciado": "El ITB debe medirse en ambos lados porque:",
+        "opciones": ["El izquierdo siempre es más fiable", "Permite detectar enfermedad unilateral", "La arteria radial puede alterarlo", "Es obligatorio por protocolo legal"],
+        "correcta": 1,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Medir ambos lados permite identificar arteriopatía periférica unilateral."
+      },
+      {
+        "enunciado": "Un valor de ITB > 1,3 puede deberse a:",
+        "opciones": ["Error del manguito", "Hipotensión", "Arterias calcificadas no compresibles", "Arteriopatía leve"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "Un ITB elevado (>1,3) indica frecuentemente calcificación arterial, que impide la compresión adecuada."
+      },
+      {
+        "enunciado": "En pacientes diabéticos, una limitación frecuente del ITB es:",
+        "opciones": ["Lectura sobreestimada por hipertensión", "Arterias compresibles de forma excesiva", "Presiones falsas por calcificación arterial", "Incapacidad para detectar presión braquial"],
+        "correcta": 2,
+        "categorías": ["tema112", "itb"],
+        "feedback": "La calcificación arterial es frecuente en diabéticos y puede falsear el ITB (falsamente elevado)."
+      }
+      
+
+                        
+]

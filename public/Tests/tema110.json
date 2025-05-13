@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "Según la guía FASE, el apósito transparente en un CVC debe cambiarse:",
+        "opciones": ["Cada 24 horas", "Cada 2-3 días", "Una vez por semana o antes si está sucio", "Solo cuando se observe infección"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "El apósito transparente debe cambiarse semanalmente o antes si está húmedo, sucio o despegado."
+      },
+      {
+        "enunciado": "Según la guía FASE, la antisepsia de la piel para canalizar un CVC debe realizarse preferentemente con:",
+        "opciones": ["Povidona yodada", "Clorhexidina alcohólica >0,5%", "Alcohol al 70%", "Suero fisiológico estéril"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Se recomienda clorhexidina alcohólica superior al 0,5% como primera opción."
+      },
+      {
+        "enunciado": "Según la guía FASE, en la higiene de manos previa a la inserción de un CVC debe usarse:",
+        "opciones": ["Guantes estériles directamente", "Jabón neutro", "Solución hidroalcohólica, salvo materia orgánica", "Alcohol al 96%"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Se indica higiene con solución hidroalcohólica, y agua + clorhexidina si hay suciedad visible."
+      },
+      {
+        "enunciado": "Según la guía FASE, en la canalización de una vía periférica se utilizarán:",
+        "opciones": ["Guantes estériles y campos quirúrgicos", "Guantes limpios tras higiene de manos", "Manos descubiertas si hay antiséptico", "Solo desinfección del área sin guantes"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Para vías periféricas, se usan guantes limpios tras higiene de manos adecuada."
+      },
+      {
+        "enunciado": "Según la guía FASE, la zona preferente para insertar un catéter venoso periférico es:",
+        "opciones": ["Fosa antecubital", "Cualquier zona sin vello", "Zona distal de extremidades superiores", "Zona proximal en miembros inferiores"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "La zona distal de extremidades superiores es la preferente para catéteres periféricos."
+      },
+      {
+        "enunciado": "Según la guía FASE, el uso de un dispositivo de fijación sin sutura permite:",
+        "opciones": ["Reducir el riesgo de extravasación", "Reducir el riesgo de infección", "Aumentar la estabilidad en extremidades inferiores", "Evitar el cambio de apósito"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los sistemas de fijación sin sutura están recomendados para disminuir el riesgo de infección."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cuándo debe cambiarse el sistema de infusión utilizado para emulsiones lipídicas?",
+        "opciones": ["Cada 48 horas", "A las 12 horas", "Cada 24 horas", "Después de terminar la perfusión"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Las emulsiones lipídicas requieren cambio de sistema cada 24 horas desde el inicio de la infusión."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cuándo se deben cambiar los sistemas usados para infundir propofol?",
+        "opciones": ["Cada 24 horas", "Cada 6 o 12 horas según fabricante", "Cuando finaliza el vial", "Cada 8 horas exactas"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los sistemas de propofol se cambian cada 6 o 12 horas o al cambiar el vial, según fabricante."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cuál es la indicación para usar CVC impregnados con clorhexidina o antibióticos?",
+        "opciones": ["En todos los pacientes con inmunosupresión", "Cuando se prevé uso mayor de 2 días", "Cuando no se reduce la bacteriemia pese a aplicar medidas estándar", "Siempre en UCI"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Solo se recomienda su uso cuando, tras aplicar medidas estándar, no se reducen las infecciones."
+      },
+      {
+        "enunciado": "Según la guía FASE, el catéter debe retirarse si:",
+        "opciones": ["Hay fiebre sin foco aparente", "Se ha utilizado durante más de 3 días", "Fue insertado de forma urgente sin técnica estéril", "No se ha usado en las últimas 6 horas"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los catéteres insertados sin técnica estéril deben retirarse antes de 24–48 horas."
+      },
+      {
+        "enunciado": "Según la guía FASE, la desinfección del puerto de inyección del catéter antes de su uso debe realizarse:",
+        "opciones": ["Solo si ha sido manipulado previamente", "Con agua estéril durante 10 segundos", "Con alcohol al 70% o clorhexidina alcohólica durante 15 segundos", "Al finalizar la administración del fármaco"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Debe usarse alcohol al 70% o clorhexidina alcohólica durante al menos 15 segundos."
+      },
+      {
+        "enunciado": "Según la guía FASE, el cambio de conectores de presión positiva debe hacerse:",
+        "opciones": ["Cada 24 horas", "Cada 2 días", "Cada 4-7 días o si hay suciedad o desconexión accidental", "Una vez por semana exactamente"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los conectores deben cambiarse cada 4–7 días o antes si hay suciedad o desconexión accidental."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿qué tipo de guantes deben usarse para cambiar apósitos de un CVC?",
+        "opciones": ["Guantes de nitrilo sin necesidad de higiene de manos", "Guantes limpios", "Guantes estériles", "Guantes domésticos reforzados"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Para cambios de apósito en CVC se deben utilizar guantes estériles."
+      },
+      {
+        "enunciado": "Según la guía FASE, en caso de observar hemorragia o exudado en el punto de inserción se recomienda:",
+        "opciones": ["Cambiar el apósito transparente por uno de gasa", "Aumentar la presión del vendaje", "Dejar el apósito hasta que se seque", "Aplicar pomada antibiótica y cubrir"],
+        "correcta": 0,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Se recomienda usar apósito de gasa si hay hemorragia, exudado o sudoración excesiva."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿qué medida debe tomarse al manipular equipos, conexiones o válvulas de un catéter?",
+        "opciones": ["Sólo llevar guantes", "Usar solución salina al terminar", "Realizar siempre higiene de manos", "Solo manipular si hay indicación médica"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Debe realizarse higiene de manos antes y después de cualquier manipulación del sistema."
+      },
+      {
+        "enunciado": "Según la guía FASE, el sellado de una vía venosa tras el lavado puede hacerse con:",
+        "opciones": ["Agua destilada", "Suero glucosado al 5%", "Solución salina 0,9% o heparina sódica 10 U/ml", "Alcohol al 70%"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Se aconseja sellado con suero fisiológico o heparina diluida para prevenir oclusiones."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cuándo debe enviarse la punta del catéter a cultivo?",
+        "opciones": ["Siempre tras su retirada", "Solo si el paciente ha tenido fiebre", "Cuando hay sospecha fundada de infección relacionada con el catéter", "En todos los catéteres de más de 3 días"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Solo debe enviarse a cultivo si se retira por sospecha de infección relacionada con el catéter."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿qué debe hacerse si un CVC no funciona pero no hay signos de infección?",
+        "opciones": ["Retirar el catéter inmediatamente", "Mantenerlo y monitorizar", "Reemplazarlo mediante técnica sobre guía", "Iniciar antibiótico profiláctico"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Se puede realizar recambio sobre guía si no hay evidencia de infección."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cuándo debe registrarse la fecha de cambio de sistemas de infusión?",
+        "opciones": ["No es necesario si se anota en la hoja de tratamiento", "Solo si hay sospecha de infección", "Siempre en lugar visible del sistema de infusión", "Solo cuando se administra nutrición parenteral"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "La fecha debe anotarse de forma visible en el sistema de infusión tras cada cambio."
+      },
+      {
+        "enunciado": "Según la guía FASE, los catéteres de media longitud deben sustituirse:",
+        "opciones": ["Cada 7 días", "Cada 14 días", "Cada 28-30 días, salvo signos clínicos o guía del fabricante", "Solo cuando haya flebitis"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Deben sustituirse cada 28–30 días, salvo signos clínicos o indicación del fabricante."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar un apósito de gasa en un catéter venoso central?",
+        "opciones": ["Cada 24 horas", "Cada 2-3 días", "Cada 5 días", "Una vez por semana"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los apósitos de gasa deben cambiarse cada 2–3 días o antes si están húmedos, sucios o despegados."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar un apósito transparente en un CVC si está en buen estado?",
+        "opciones": ["Cada 48 horas", "Cada 72 horas", "Cada 5 días", "Cada 7 días"],
+        "correcta": 3,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "El apósito transparente se cambia cada 7 días, salvo que esté despegado, sucio o húmedo."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar los sistemas de infusión de propofol?",
+        "opciones": ["Cada 6 o 12 horas, según el fabricante", "Cada 24 horas", "Cada 48 horas", "Cada 72 horas"],
+        "correcta": 0,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los sistemas de propofol se cambian cada 6 o 12 horas según indicación del fabricante."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar los sistemas de infusión de emulsiones lipídicas?",
+        "opciones": ["Cada 6 horas", "Cada 12 horas", "Cada 24 horas", "Cada 48 horas"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Las emulsiones lipídicas requieren cambio de sistema cada 24 horas desde el inicio de la infusión."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar los conectores de válvula si no hay complicaciones?",
+        "opciones": ["Cada 2 días", "Cada 4-7 días", "Cada 10 días", "Cada vez que se manipulan"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los conectores deben cambiarse cada 4–7 días o antes si hay suciedad o desconexión accidental."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar el catéter de media longitud, salvo signos clínicos o indicación del fabricante?",
+        "opciones": ["Cada 7 días", "Cada 15 días", "Cada 28-30 días", "Solo si hay complicaciones"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los catéteres de media longitud deben cambiarse cada 28–30 días, salvo signos clínicos o según fabricante."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que realizar el cambio de sistemas de administración continua de soluciones intravenosas estándar?",
+        "opciones": ["Cada 24 horas", "Cada 48-72 horas", "Cada 7 días", "No es necesario cambiar si no hay infección"],
+        "correcta": 1,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los sistemas de administración continua deben cambiarse cada 48–72 horas según el tipo de solución."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que cambiar un sistema en perfusión intermitente?",
+        "opciones": ["Cada 24 horas", "Cada 48 horas", "Cada 72 horas", "Después de cada uso"],
+        "correcta": 3,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "Los sistemas de perfusión intermitente deben cambiarse después de cada uso."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo hay que registrar la fecha en el sistema de infusión?",
+        "opciones": ["Solo si se cambia el frasco", "Cada 24 horas", "Cada vez que se realiza un cambio", "Semanalmente"],
+        "correcta": 2,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "La fecha debe registrarse visiblemente cada vez que se realiza un cambio de sistema."
+      },
+      {
+        "enunciado": "Según la guía FASE, ¿cada cuánto tiempo se recomienda revisar visualmente el punto de inserción del catéter?",
+        "opciones": ["Al menos cada turno", "Una vez al día", "Cada 48 horas", "Cuando el apósito esté sucio"],
+        "correcta": 0,
+        "categorías": ["tema110", "fase_cat"],
+        "feedback": "El punto de inserción debe ser evaluado al menos cada turno para detectar signos de complicación."
+      }
+                  
+]

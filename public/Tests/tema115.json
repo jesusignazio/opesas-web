@@ -1,0 +1,353 @@
+[
+    {
+        "enunciado": "El antiséptico que actúa de forma inmediata pero no tiene efecto residual es:",
+        "opciones": ["Clorhexidina 2% + alcohol 70%", "Povidona yodada 10%", "Peróxido de hidrógeno 3%", "Alcohol 70º"],
+        "correcta": 3,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Alcohol 70º: acción inmediata, sin efecto residual, inactivo frente a materia orgánica."
+      },
+      {
+        "enunciado": "El antiséptico contraindicado en heridas abiertas por su efecto irritante es:",
+        "opciones": ["Alcohol 70º", "Povidona yodada 10%", "Clorhexidina 0,5%", "Peróxido de hidrógeno 3%"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "El alcohol 70º es inflamable e irritante; no debe usarse sobre heridas abiertas."
+      },
+      {
+        "enunciado": "El antiséptico con efecto residual de hasta 6 horas y riesgo de neurotoxicidad es:",
+        "opciones": ["Povidona yodada 10%", "Clorhexidina 2% + alcohol 70%", "Peróxido de hidrógeno", "Alcohol 70º"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina 2% + alcohol: residual 6h, neurotóxico; evitar contacto con meninges, córnea y oído interno."
+      },
+      {
+        "enunciado": "El antiséptico contraindicado en neonatos, embarazo y patología tiroidea es:",
+        "opciones": ["Clorhexidina", "Alcohol 70º", "Peróxido de hidrógeno", "Povidona yodada 10%"],
+        "correcta": 3,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada: contraindicado en embarazo, recién nacidos, lactancia y patología tiroidea."
+      },
+      {
+        "enunciado": "El antiséptico inactivo en presencia de aire y luz y con riesgo de embolia gaseosa en cavidades cerradas es:",
+        "opciones": ["Peróxido de hidrógeno", "Alcohol 70º", "Povidona yodada", "Clorhexidina"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Peróxido de hidrógeno: inestable con luz y aire; riesgo de embolia si se usa en cavidades cerradas."
+      },
+      {
+        "enunciado": "El antiséptico con efecto frente a esporas, bacterias, virus y hongos es:",
+        "opciones": ["Alcohol 70º", "Clorhexidina 0,5%", "Povidona yodada", "Peróxido de hidrógeno"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina (0,5–1%): amplio espectro, incluido esporas y hongos, con efecto residual de 6h."
+      },
+      {
+        "enunciado": "Para lograr la máxima eficacia de la clorhexidina alcohólica, debe dejarse secar al menos:",
+        "opciones": ["30 segundos", "1 minuto", "2 minutos", "5 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina con alcohol debe secar mínimo 2 minutos por riesgo de inflamabilidad y para máxima eficacia."
+      },
+      {
+        "enunciado": "El antiséptico cuya absorción sistémica puede interferir con la función tiroidea es:",
+        "opciones": ["Povidona yodada", "Clorhexidina", "Peróxido de hidrógeno", "Alcohol 70º"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada: puede producir absorción sistémica de yodo, especialmente en neonatos o pacientes con tiroidopatía."
+      },
+      {
+        "enunciado": "El antiséptico que no debe usarse en contacto con córnea, oído medio o meninges por riesgo de neurotoxicidad es:",
+        "opciones": ["Peróxido de hidrógeno", "Clorhexidina", "Povidona yodada", "Alcohol 70º"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina no debe entrar en contacto con estructuras neurosensoriales: riesgo de neurotoxicidad."
+      },
+      {
+        "enunciado": "En el uso clínico de antisépticos, una recomendación general es:",
+        "opciones": ["Mezclar productos para potenciar el efecto", "Diluir el producto para evitar toxicidad", "Aplicar sobre piel sucia si hay prisa", "Respetar el tiempo de actuación indicado para cada sustancia"],
+        "correcta": 3,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Debe respetarse el tiempo de contacto para que el antiséptico actúe de forma eficaz y segura."
+      },
+      {
+        "enunciado": "El alcohol 70º tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "2 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Alcohol 70º: inicio de acción inmediato."
+      },
+      {
+        "enunciado": "La clorhexidina al 0,5–1% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "10 segundos", "15–30 segundos", "2 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina (0,5–1%): inicio entre 15 y 30 segundos."
+      },
+      {
+        "enunciado": "La clorhexidina 2% en alcohol isopropílico 70% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "3 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina 2% + alcohol: inicio a los 30 segundos."
+      },
+      {
+        "enunciado": "La povidona yodada al 10% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "1 minuto", "2–3 minutos", "5 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada: inicio de acción entre 2 y 3 minutos."
+      },
+      {
+        "enunciado": "El peróxido de hidrógeno al 1,5–3% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "2 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Agua oxigenada: inicio inmediato de acción."
+      },
+      {
+        "enunciado": "El antiséptico con inicio de acción más rápido es:",
+        "opciones": ["Povidona yodada", "Clorhexidina", "Peróxido de hidrógeno", "Alcohol 70º"],
+        "correcta": 3,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Alcohol 70º: tiene inicio inmediato, más rápido que otros antisépticos."
+      },
+      {
+        "enunciado": "El antiséptico cuyo inicio de acción depende de la combinación con alcohol es:",
+        "opciones": ["Povidona yodada", "Clorhexidina 2% en alcohol", "Peróxido de hidrógeno", "Clorhexidina acuosa"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina 2% con alcohol potencia su penetración y rapidez de acción."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes antisépticos requiere al menos 2 minutos para alcanzar su efecto máximo?",
+        "opciones": ["Alcohol 70º", "Clorhexidina alcohólica", "Povidona yodada", "Peróxido de hidrógeno"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada necesita 2–3 minutos para iniciar su efecto."
+      },
+      {
+        "enunciado": "El inicio de acción del peróxido de hidrógeno es:",
+        "opciones": ["Inmediato", "1 minuto", "3 minutos", "5 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "El agua oxigenada actúa de forma inmediata."
+      },
+      {
+        "enunciado": "El inicio de acción de la clorhexidina alcohólica al 2% es de:",
+        "opciones": ["15 segundos", "30 segundos", "1 minuto", "2 minutos"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina 2% + alcohol: inicio de acción a los 30 segundos."
+      },
+      {
+        "enunciado": "El alcohol 70º tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "2 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Alcohol 70º: inicio de acción inmediato."
+      },
+      {
+        "enunciado": "La clorhexidina al 0,5–1% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "10 segundos", "15–30 segundos", "2 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina (0,5–1%): inicio entre 15 y 30 segundos."
+      },
+      {
+        "enunciado": "La clorhexidina 2% en alcohol isopropílico 70% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "3 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina 2% + alcohol: inicio a los 30 segundos."
+      },
+      {
+        "enunciado": "La povidona yodada al 10% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "1 minuto", "2–3 minutos", "5 minutos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada: inicio de acción entre 2 y 3 minutos."
+      },
+      {
+        "enunciado": "El peróxido de hidrógeno al 1,5–3% tiene un inicio de acción de:",
+        "opciones": ["Inmediato", "15 segundos", "30 segundos", "2 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Agua oxigenada: inicio inmediato de acción."
+      },
+      {
+        "enunciado": "El antiséptico con inicio de acción más rápido es:",
+        "opciones": ["Povidona yodada", "Clorhexidina", "Peróxido de hidrógeno", "Alcohol 70º"],
+        "correcta": 3,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Alcohol 70º: tiene inicio inmediato, más rápido que otros antisépticos."
+      },
+      {
+        "enunciado": "El antiséptico cuyo inicio de acción depende de la combinación con alcohol es:",
+        "opciones": ["Povidona yodada", "Clorhexidina 2% en alcohol", "Peróxido de hidrógeno", "Clorhexidina acuosa"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina 2% con alcohol potencia su penetración y rapidez de acción."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes antisépticos requiere al menos 2 minutos para alcanzar su efecto máximo?",
+        "opciones": ["Alcohol 70º", "Clorhexidina alcohólica", "Povidona yodada", "Peróxido de hidrógeno"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Povidona yodada necesita 2–3 minutos para iniciar su efecto."
+      },
+      {
+        "enunciado": "El inicio de acción del peróxido de hidrógeno es:",
+        "opciones": ["Inmediato", "1 minuto", "3 minutos", "5 minutos"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "El agua oxigenada actúa de forma inmediata."
+      },
+      {
+        "enunciado": "El inicio de acción de la clorhexidina alcohólica al 2% es de:",
+        "opciones": ["15 segundos", "30 segundos", "1 minuto", "2 minutos"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina 2% + alcohol: inicio de acción a los 30 segundos."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina es:",
+        "opciones": ["Uso en piel intacta", "Aplicación en mucosa oral", "Contacto con oído medio", "Uso previo a extracción sanguínea"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina está contraindicada en oído medio, oído interno, córnea y meninges por riesgo de neurotoxicidad."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina alcohólica es:",
+        "opciones": ["Uso en catéteres venosos", "Uso en heridas abiertas", "Aplicación en piel seca", "Preparación quirúrgica de la piel"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina alcohólica no debe aplicarse sobre heridas abiertas por riesgo de irritación y quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación clara de la clorhexidina es:",
+        "opciones": ["Uso en niños mayores de 6 años", "Contacto con mucosa nasal", "Contacto con oído interno", "Uso en adultos inmunocomprometidos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina: contraindicado el contacto con oído interno por neurotoxicidad."
+      },
+      {
+        "enunciado": "La clorhexidina no debe usarse en:",
+        "opciones": ["Córnea", "Piel del antebrazo", "Zona lumbar", "Zona torácica sin lesión"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Contraindicado el uso de clorhexidina en córnea por riesgo de queratitis química."
+      },
+      {
+        "enunciado": "La clorhexidina debe evitarse en:",
+        "opciones": ["Lavado quirúrgico de manos", "Uso en neonatos sin indicación médica", "Desinfección de superficies", "Preparación cutánea en adultos"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "En neonatos (<30 meses), solo debe usarse bajo indicación médica debido a riesgo de quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina en solución alcohólica es:",
+        "opciones": ["Aplicación en piel intacta", "Uso previo a punción venosa", "Aplicación sobre mucosa oral", "Preparación del campo quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "No se debe aplicar clorhexidina alcohólica en mucosas por su potencial irritante."
+      },
+      {
+        "enunciado": "Una situación en la que no se debe aplicar clorhexidina es:",
+        "opciones": ["Extracción de hemocultivo", "Zona con tatuajes", "Superficie ocular", "Preparación prequirúrgica del abdomen"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina está contraindicada en el ojo por riesgo de queratitis química."
+      },
+      {
+        "enunciado": "Una contraindicación del uso de clorhexidina es:",
+        "opciones": ["Uso sobre piel seca", "Irrigación de cavidades cerradas", "Antisepsia del punto de inserción de vía periférica", "Uso previo a cirugía menor"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "No debe usarse en cavidades cerradas por riesgo de neurotoxicidad y daño químico."
+      },
+      {
+        "enunciado": "Una situación en la que debe evitarse clorhexidina alcohólica es:",
+        "opciones": ["Piel intacta con vello", "Piel húmeda sin secar", "Heridas abiertas", "Desinfección de campo operatorio en extremidades"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Contraindicado su uso en heridas abiertas por riesgo de quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación específica de la clorhexidina es:",
+        "opciones": ["Uso en adultos inmunodeprimidos", "Aplicación previa a vía central", "Contacto con meninges", "Uso en zonas axilares"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina no debe entrar en contacto con meninges por riesgo de neurotoxicidad grave."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina es:",
+        "opciones": ["Uso en piel intacta", "Aplicación en mucosa oral", "Contacto con oído medio", "Uso previo a extracción sanguínea"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina está contraindicada en oído medio, oído interno, córnea y meninges por riesgo de neurotoxicidad."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina alcohólica es:",
+        "opciones": ["Uso en catéteres venosos", "Uso en heridas abiertas", "Aplicación en piel seca", "Preparación quirúrgica de la piel"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina alcohólica no debe aplicarse sobre heridas abiertas por riesgo de irritación y quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación clara de la clorhexidina es:",
+        "opciones": ["Uso en niños mayores de 6 años", "Contacto con mucosa nasal", "Contacto con oído interno", "Uso en adultos inmunocomprometidos"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Clorhexidina: contraindicado el contacto con oído interno por neurotoxicidad."
+      },
+      {
+        "enunciado": "La clorhexidina no debe usarse en:",
+        "opciones": ["Córnea", "Piel del antebrazo", "Zona lumbar", "Zona torácica sin lesión"],
+        "correcta": 0,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Contraindicado el uso de clorhexidina en córnea por riesgo de queratitis química."
+      },
+      {
+        "enunciado": "La clorhexidina debe evitarse en:",
+        "opciones": ["Lavado quirúrgico de manos", "Uso en neonatos sin indicación médica", "Desinfección de superficies", "Preparación cutánea en adultos"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "En neonatos (<30 meses), solo debe usarse bajo indicación médica debido a riesgo de quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación de la clorhexidina en solución alcohólica es:",
+        "opciones": ["Aplicación en piel intacta", "Uso previo a punción venosa", "Aplicación sobre mucosa oral", "Preparación del campo quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "No se debe aplicar clorhexidina alcohólica en mucosas por su potencial irritante."
+      },
+      {
+        "enunciado": "Una situación en la que no se debe aplicar clorhexidina es:",
+        "opciones": ["Extracción de hemocultivo", "Zona con tatuajes", "Superficie ocular", "Preparación prequirúrgica del abdomen"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina está contraindicada en el ojo por riesgo de queratitis química."
+      },
+      {
+        "enunciado": "Una contraindicación del uso de clorhexidina es:",
+        "opciones": ["Uso sobre piel seca", "Irrigación de cavidades cerradas", "Antisepsia del punto de inserción de vía periférica", "Uso previo a cirugía menor"],
+        "correcta": 1,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "No debe usarse en cavidades cerradas por riesgo de neurotoxicidad y daño químico."
+      },
+      {
+        "enunciado": "Una situación en la que debe evitarse clorhexidina alcohólica es:",
+        "opciones": ["Piel intacta con vello", "Piel húmeda sin secar", "Heridas abiertas", "Desinfección de campo operatorio en extremidades"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "Contraindicado su uso en heridas abiertas por riesgo de quemadura química."
+      },
+      {
+        "enunciado": "Una contraindicación específica de la clorhexidina es:",
+        "opciones": ["Uso en adultos inmunodeprimidos", "Aplicación previa a vía central", "Contacto con meninges", "Uso en zonas axilares"],
+        "correcta": 2,
+        "categorías": ["tema115", "antiseptico"],
+        "feedback": "La clorhexidina no debe entrar en contacto con meninges por riesgo de neurotoxicidad grave."
+      }
+                              
+]

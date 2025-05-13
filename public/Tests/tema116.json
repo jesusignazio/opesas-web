@@ -1,0 +1,424 @@
+[
+    {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una mujer embarazada sin comorbilidades pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Las mujeres gestantes están incluidas directamente en el Grupo I."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un menor de 1 año pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Los menores de 4 años, especialmente lactantes, están incluidos en el Grupo I."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años que vive sola y tiene EPOC, insuficiencia renal y obesidad severa, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye personas con varias patologías, que viven solas, en viviendas no refrigeradas y sin visitas."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años, con EPOC y diabetes, que vive con su cónyuge también mayor, en una vivienda difícil de refrigerar, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo II: mayores de 65 con múltiples patologías, en vivienda difícil de refrigerar, viviendo solos o con pareja también mayor."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, las personas sin hogar están incluidas en:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Todos los grupos"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El Grupo I incluye específicamente a personas sin hogar o en exclusión social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años con insuficiencia cardíaca, que vive sola, con vivienda mal refrigerada y toma diuréticos y antidepresivos, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye múltiples factores acumulados y aislamiento social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con trastorno mental grave en seguimiento por el Proceso Asistencial Integrado pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El Grupo I incluye a personas incluidas en el PAI del trastorno mental grave."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con discapacidad que además vive en una vivienda difícil de refrigerar y sin visitas, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: contempla discapacidad, vivienda difícil de refrigerar y aislamiento social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años con hipertensión controlada y sin otros factores pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo I: mayores de 65 años con alguna patología como hipertensión, incluso si es una sola."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con EPOC y demencia que vive con su cónyuge mayor de 65 años, en una vivienda difícil de refrigerar, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Ninguno"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo II: mayores con varias patologías, que viven solos o con su pareja también mayor, en viviendas mal refrigeradas."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una mujer embarazada sin comorbilidades pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Las mujeres gestantes están incluidas directamente en el Grupo I."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un menor de 1 año pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Los menores de 4 años, especialmente lactantes, están incluidos en el Grupo I."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años que vive sola y tiene EPOC, insuficiencia renal y obesidad severa, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: personas con múltiples patologías, aislamiento social y vivienda no refrigerada."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años, con EPOC y diabetes, que vive con su cónyuge también mayor, en una vivienda difícil de refrigerar, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo II: mayores de 65 con varias patologías y factores sociales o ambientales como vivienda difícil de refrigerar."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, las personas sin hogar están incluidas en:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo I incluye explícitamente a personas sin hogar o en exclusión social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años con insuficiencia cardíaca, que vive sola, con vivienda mal refrigerada y toma diuréticos y antidepresivos, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: varios factores de riesgo acumulados y aislamiento social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con trastorno mental grave en seguimiento por el Proceso Asistencial Integrado pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El Grupo I incluye a personas integradas en el PAI de trastorno mental grave."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con discapacidad que además vive en una vivienda difícil de refrigerar y sin visitas, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III contempla discapacidad, aislamiento y entorno desfavorable."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona mayor de 65 años con hipertensión controlada y sin otros factores pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo I: mayores de 65 años con una o más patologías comunes como hipertensión."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, una persona con EPOC y demencia que vive con su cónyuge mayor de 65 años, en una vivienda difícil de refrigerar, pertenece al grupo:",
+        "opciones": ["Grupo I", "Grupo II", "Grupo III", "Grupo IV"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo II: personas mayores con múltiples patologías y entorno social y ambiental de riesgo."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Mujeres gestantes sin factores de riesgo", "Menores de 4 años", "Personas sin hogar con múltiples patologías y sin visitas", "Personas mayores de 65 años con hipertensión controlada"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye personas sin hogar o que viven solas, con múltiples patologías y sin visitas."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas mayores de 65 años con EPOC y diabetes que viven solas sin visitas", "Mujeres embarazadas sin patología", "Niños menores de 1 año", "Personas con demencia que viven con su familia"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye mayores de 65 años con varias patologías, vivienda no refrigerada y aislamiento social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas con discapacidad que viven en vivienda climatizada y acompañadas", "Personas con trastorno mental grave sin otros factores", "Personas solas con insuficiencia renal, obesidad y sin visitas", "Recién nacidos sin factores sociales"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye personas solas con múltiples patologías y vivienda difícil de refrigerar, sin red de apoyo."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas mayores con diabetes y demencia que viven con su cónyuge", "Personas mayores con obesidad severa que viven solas, sin visitas, y con vivienda difícil de refrigerar", "Personas mayores con hipertensión controlada que viven con su familia", "Mujeres embarazadas sin factores de riesgo añadidos"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: requiere acumulación de factores de riesgo, aislamiento y condiciones ambientales desfavorables."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Niños menores de 4 años", "Personas mayores de 65 años con una sola patología", "Personas con trastorno mental grave que viven solas, sin visitas y en viviendas no refrigeradas", "Embarazadas en seguimiento sin patología asociada"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: suma vulnerabilidad clínica, social y ambiental, incluyendo salud mental y aislamiento."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas mayores con demencia leve y cuidador habitual", "Personas sin hogar, con insuficiencia cardíaca, y que no reciben visitas", "Personas con discapacidad física leve y red familiar activa", "Personas mayores con una sola medicación y vivienda adaptada"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye personas sin hogar, con patologías graves, sin visitas y en entorno no refrigerado."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas con obesidad y demencia que viven con su hijo", "Mayores con EPOC y diabetes, que viven con su cónyuge mayor en vivienda refrigerada", "Personas con insuficiencia renal y sin visitas, en vivienda calurosa", "Niños con buen estado general y entorno adecuado"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: riesgo alto por patología, aislamiento y condiciones térmicas deficientes."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas mayores con hipertensión y apoyo social", "Personas con trastorno mental grave, aislamiento social y entorno no refrigerado", "Niños menores de 2 años", "Mujeres embarazadas sin tratamiento farmacológico"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: incluye aislamiento social, patología mental grave y entorno térmico inadecuado."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas mayores que viven solas y toman anticolinérgicos y psicotropos, en vivienda sin refrigeración y sin visitas", "Personas mayores con diabetes que viven con su cónyuge en vivienda climatizada", "Niños mayores de 6 años con buena salud", "Mujeres gestantes con seguimiento adecuado y sin comorbilidades"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: se basa en medicación de riesgo, vivienda no refrigerada y falta de apoyo social."
+      },
+      {
+        "enunciado": "Según el Plan de Temperaturas Excesivas 2024, un colectivo del Grupo III es:",
+        "opciones": ["Personas con insuficiencia cardíaca que viven con cuidadores", "Personas sin hogar, con hipertensión, diabetes y sin visitas", "Personas mayores con obesidad leve y buena red familiar", "Niños con alguna discapacidad leve pero bien controlada"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Grupo III: se considera el mayor nivel de riesgo acumulado por factores clínicos, sociales y ambientales."
+      },
+      {
+        "enunciado": "En el Plan Andaluz para la prevención de los efectos de las temperaturas excesivas sobre la salud se definen 4 niveles de alerta, señale la opción correcta:",
+        "opciones": ["El nivel 0 se corresponde con alto riesgo y color rojo", "El nivel 1 se corresponde con riesgo medio y color naranja", "El nivel 0 indica ausencia de riesgo y se representa con color verde", "El nivel 3 se representa con color amarillo y bajo riesgo"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 0: ausencia de riesgo, color verde."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz ante temperaturas excesivas, el nivel 3 corresponde a:",
+        "opciones": ["Color verde y ausencia de riesgo", "Color amarillo y bajo riesgo", "Color naranja y riesgo medio", "Color rojo y alto riesgo"],
+        "correcta": 3,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 3: alto riesgo, color rojo."
+      },
+      {
+        "enunciado": "En relación con los niveles de alerta por calor, el color naranja representa:",
+        "opciones": ["Riesgo bajo", "Riesgo medio", "Riesgo alto", "Ausencia de riesgo"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color naranja: nivel 2, riesgo medio."
+      },
+      {
+        "enunciado": "En el sistema de niveles de alerta térmica, el color amarillo se asocia con:",
+        "opciones": ["Ausencia de riesgo", "Riesgo bajo", "Riesgo medio", "Riesgo alto"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color amarillo: nivel 1, bajo riesgo."
+      },
+      {
+        "enunciado": "El nivel de alerta 2 en el Plan Andaluz se asocia con:",
+        "opciones": ["Riesgo medio y color naranja", "Riesgo alto y color rojo", "Riesgo bajo y color verde", "Ausencia de riesgo y color amarillo"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 2: riesgo medio, color naranja."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de temperaturas extremas, ¿cuál es el color asociado a riesgo alto?",
+        "opciones": ["Amarillo", "Naranja", "Rojo", "Verde"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Riesgo alto: nivel 3, color rojo."
+      },
+      {
+        "enunciado": "El color verde dentro del Plan Andaluz de alertas por calor significa:",
+        "opciones": ["Alerta máxima", "Riesgo bajo", "Riesgo medio", "Ausencia de riesgo"],
+        "correcta": 3,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color verde: nivel 0, ausencia de riesgo."
+      },
+      {
+        "enunciado": "¿Cuál es el nivel correspondiente al color amarillo según el Plan Andaluz de calor?",
+        "opciones": ["0", "1", "2", "3"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color amarillo: nivel 1, riesgo bajo."
+      },
+      {
+        "enunciado": "¿Qué nivel se asocia con riesgo medio en el sistema de alertas por temperatura?",
+        "opciones": ["0", "1", "2", "3"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Riesgo medio: nivel 2, color naranja."
+      },
+      {
+        "enunciado": "¿Qué color y número representan la ausencia de riesgo en el Plan Andaluz ante temperaturas extremas?",
+        "opciones": ["Rojo y 3", "Amarillo y 1", "Verde y 0", "Naranja y 2"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Ausencia de riesgo: nivel 0, color verde."
+      },
+      {
+        "enunciado": "En el Plan Andaluz para la prevención de los efectos de las temperaturas excesivas sobre la salud se definen 4 niveles de alerta, señale la opción correcta:",
+        "opciones": ["El nivel 0 se corresponde con alto riesgo y color rojo", "El nivel 1 se corresponde con riesgo medio y color naranja", "El nivel 0 indica ausencia de riesgo y se representa con color verde", "El nivel 3 se representa con color amarillo y bajo riesgo"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 0: ausencia de riesgo, color verde."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz ante temperaturas excesivas, el nivel 3 corresponde a:",
+        "opciones": ["Color verde y ausencia de riesgo", "Color amarillo y bajo riesgo", "Color naranja y riesgo medio", "Color rojo y alto riesgo"],
+        "correcta": 3,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 3: alto riesgo, color rojo."
+      },
+      {
+        "enunciado": "En relación con los niveles de alerta por calor, el color naranja representa:",
+        "opciones": ["Riesgo bajo", "Riesgo medio", "Riesgo alto", "Ausencia de riesgo"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color naranja: nivel 2, riesgo medio."
+      },
+      {
+        "enunciado": "En el sistema de niveles de alerta térmica, el color amarillo se asocia con:",
+        "opciones": ["Ausencia de riesgo", "Riesgo bajo", "Riesgo medio", "Riesgo alto"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color amarillo: nivel 1, bajo riesgo."
+      },
+      {
+        "enunciado": "El nivel de alerta 2 en el Plan Andaluz se asocia con:",
+        "opciones": ["Riesgo medio y color naranja", "Riesgo alto y color rojo", "Riesgo bajo y color verde", "Ausencia de riesgo y color amarillo"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 2: riesgo medio, color naranja."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de temperaturas extremas, ¿cuál es el color asociado a riesgo alto?",
+        "opciones": ["Amarillo", "Naranja", "Rojo", "Verde"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Riesgo alto: nivel 3, color rojo."
+      },
+      {
+        "enunciado": "El color verde dentro del Plan Andaluz de alertas por calor significa:",
+        "opciones": ["Alerta máxima", "Riesgo bajo", "Riesgo medio", "Ausencia de riesgo"],
+        "correcta": 3,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color verde: nivel 0, ausencia de riesgo."
+      },
+      {
+        "enunciado": "¿Cuál es el nivel correspondiente al color amarillo según el Plan Andaluz de calor?",
+        "opciones": ["0", "1", "2", "3"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color amarillo: nivel 1, riesgo bajo."
+      },
+      {
+        "enunciado": "¿Qué nivel se asocia con riesgo medio en el sistema de alertas por temperatura?",
+        "opciones": ["0", "1", "2", "3"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Riesgo medio: nivel 2, color naranja."
+      },
+      {
+        "enunciado": "¿Qué color y número representan la ausencia de riesgo en el Plan Andaluz ante temperaturas extremas?",
+        "opciones": ["Rojo y 3", "Amarillo y 1", "Verde y 0", "Naranja y 2"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Ausencia de riesgo: nivel 0, color verde."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de Temperaturas Excesivas 2024, el nivel 0 se representa con el color:",
+        "opciones": ["Verde", "Amarillo", "Violeta", "Rojo"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 0: ausencia de riesgo, color verde."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de Temperaturas Excesivas 2024, el color que representa el nivel de riesgo alto es:",
+        "opciones": ["Rojo", "Negro", "Amarillo", "Violeta"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 3: riesgo alto, color rojo."
+      },
+      {
+        "enunciado": "El color naranja en el Plan Andaluz por altas temperaturas corresponde al nivel:",
+        "opciones": ["1", "2", "3", "4"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 2: riesgo medio, color naranja."
+      },
+      {
+        "enunciado": "El color amarillo en el Plan Andaluz de Temperaturas Excesivas 2024 indica:",
+        "opciones": ["Nivel 0 – sin riesgo", "Nivel 3 – riesgo alto", "Nivel 1 – riesgo bajo", "Nivel 4 – emergencia"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 1: riesgo bajo, color amarillo."
+      },
+      {
+        "enunciado": "El color violeta en el contexto del Plan Andaluz de temperaturas indica:",
+        "opciones": ["Riesgo extremo", "No existe en el plan", "Nivel 4 – catástrofe", "Riesgo medio"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El color violeta no forma parte de los niveles establecidos en el plan."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes colores no se utiliza en los niveles de alerta por calor del Plan Andaluz?",
+        "opciones": ["Rojo", "Naranja", "Negro", "Amarillo"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Color negro no forma parte del sistema oficial de alertas térmicas."
+      },
+      {
+        "enunciado": "El nivel 2 en el Plan Andaluz de calor se asocia con el color:",
+        "opciones": ["Rojo", "Naranja", "Verde", "Violeta"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 2: riesgo medio, color naranja."
+      },
+      {
+        "enunciado": "El nivel 1 del Plan Andaluz para temperaturas excesivas se representa con el color:",
+        "opciones": ["Amarillo", "Rojo", "Negro", "Azul"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 1: riesgo bajo, color amarillo."
+      },
+      {
+        "enunciado": "¿Cuál es el color asignado al nivel 3 en el Plan Andaluz de Temperaturas Excesivas?",
+        "opciones": ["Rojo", "Naranja", "Violeta", "Gris"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 3: riesgo alto, color rojo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones es incorrecta según el Plan Andaluz?",
+        "opciones": ["Nivel 0 – verde", "Nivel 1 – amarillo", "Nivel 2 – rojo", "Nivel 3 – rojo"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Nivel 2 se asocia con el color naranja, no rojo."
+      }
+                  
+
+]

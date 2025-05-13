@@ -1,0 +1,212 @@
+[
+    {
+        "enunciado": "El procedimiento destinado a eliminar completamente todos los microorganismos, incluidas las esporas, se denomina:",
+        "opciones": ["Asepsia", "Antisepsia", "Desinfección", "Esterilización"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: destrucción total de todos los microorganismos, incluidas esporas."
+      },
+      {
+        "enunciado": "La técnica encaminada a mantener un entorno libre de microorganismos patógenos se denomina:",
+        "opciones": ["Desinfección", "Antisepsia", "Asepsia", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: conjunto de medidas para evitar la contaminación por microorganismos."
+      },
+      {
+        "enunciado": "El uso de soluciones químicas sobre tejidos vivos para reducir la carga microbiana se denomina:",
+        "opciones": ["Antisepsia", "Asepsia", "Desinfección", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: aplicación de agentes antimicrobianos en tejidos vivos (piel, mucosas)."
+      },
+      {
+        "enunciado": "El proceso que elimina microorganismos patógenos en superficies inertes pero no necesariamente esporas es:",
+        "opciones": ["Asepsia", "Antisepsia", "Desinfección", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: inactivación de patógenos en objetos, sin garantizar eliminación de esporas."
+      },
+      {
+        "enunciado": "El lavado de manos quirúrgico forma parte de:",
+        "opciones": ["Esterilización", "Antisepsia", "Desinfección", "Asepsia"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: incluye lavado quirúrgico para evitar introducción de gérmenes."
+      },
+      {
+        "enunciado": "El empleo de clorhexidina al 2% sobre piel antes de una intervención es un ejemplo de:",
+        "opciones": ["Asepsia", "Antisepsia", "Desinfección", "Esterilización"],
+        "correcta": 1,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: uso de productos antimicrobianos sobre piel u otros tejidos."
+      },
+      {
+        "enunciado": "La inmersión de instrumental en glutaraldehído es un ejemplo de:",
+        "opciones": ["Esterilización", "Desinfección", "Antisepsia", "Asepsia"],
+        "correcta": 1,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: glutaraldehído es un desinfectante de alto nivel para material no crítico."
+      },
+      {
+        "enunciado": "La esterilización por vapor a presión (autoclave) actúa mediante:",
+        "opciones": ["Radiación ultravioleta", "Alcohol isopropílico", "Calor húmedo", "Filtración"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "El autoclave utiliza vapor a alta temperatura y presión (calor húmedo) para esterilizar."
+      },
+      {
+        "enunciado": "La técnica que evita la introducción de microorganismos en el campo operatorio es:",
+        "opciones": ["Antisepsia", "Esterilización", "Desinfección", "Asepsia"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: medidas preventivas para mantener esterilidad del entorno y evitar la contaminación."
+      },
+      {
+        "enunciado": "La diferencia principal entre desinfección y esterilización es que la esterilización:",
+        "opciones": ["No elimina bacterias anaerobias", "Es menos eficaz contra virus", "Incluye destrucción de esporas", "Solo se aplica sobre piel"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: a diferencia de la desinfección, elimina incluso las esporas bacterianas."
+      },
+      {
+        "enunciado": "El término que hace referencia a la ausencia total de microorganismos es:",
+        "opciones": ["Antisepsia", "Esterilización", "Desinfección", "Asepsia"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: conjunto de acciones para evitar la presencia de microorganismos."
+      },
+      {
+        "enunciado": "El proceso que destruye todos los microorganismos, incluidas esporas, se denomina:",
+        "opciones": ["Asepsia", "Desinfección", "Antisepsia", "Esterilización"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: destrucción completa de todos los microorganismos y esporas."
+      },
+      {
+        "enunciado": "La eliminación o inhibición de microorganismos en tejidos vivos se denomina:",
+        "opciones": ["Desinfección", "Asepsia", "Antisepsia", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: reducción de microorganismos en piel o mucosas."
+      },
+      {
+        "enunciado": "La reducción de microorganismos patógenos en objetos inertes se denomina:",
+        "opciones": ["Esterilización", "Antisepsia", "Asepsia", "Desinfección"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: eliminación parcial de microorganismos en superficies u objetos."
+      },
+      {
+        "enunciado": "El proceso que no garantiza la eliminación de esporas es:",
+        "opciones": ["Antisepsia", "Desinfección", "Asepsia", "Todas las anteriores"],
+        "correcta": 1,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: no asegura destrucción de esporas bacterianas."
+      },
+      {
+        "enunciado": "La estrategia preventiva que forma parte del control del entorno quirúrgico es:",
+        "opciones": ["Asepsia", "Desinfección", "Esterilización", "Antisepsia"],
+        "correcta": 0,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: medidas generales para evitar la contaminación microbiana."
+      },
+      {
+        "enunciado": "El término que engloba todas las acciones para evitar la infección durante procedimientos invasivos es:",
+        "opciones": ["Desinfección", "Antisepsia", "Asepsia", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: incluye medidas físicas, químicas y de conducta para prevenir infecciones."
+      },
+      {
+        "enunciado": "El término que se aplica exclusivamente sobre objetos y no sobre tejidos vivos es:",
+        "opciones": ["Asepsia", "Antisepsia", "Desinfección", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: solo aplicable a superficies y objetos inertes."
+      },
+      {
+        "enunciado": "La eliminación de todo microorganismo sin distinción del medio es característica de:",
+        "opciones": ["Asepsia", "Antisepsia", "Esterilización", "Desinfección"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: elimina todos los microorganismos, incluidos virus y esporas."
+      },
+      {
+        "enunciado": "El término que se relaciona con el uso de sustancias antimicrobianas en mucosas es:",
+        "opciones": ["Antisepsia", "Desinfección", "Asepsia", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: se realiza sobre tejidos vivos como piel o mucosas."
+      },
+      {
+        "enunciado": "La principal diferencia entre antisepsia y desinfección es que la antisepsia:",
+        "opciones": ["Utiliza calor seco", "Se aplica sobre objetos", "Se aplica sobre tejidos vivos", "Incluye la eliminación de esporas"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: se realiza sobre tejidos vivos, a diferencia de la desinfección, que es sobre objetos."
+      },
+      {
+        "enunciado": "La esterilización se diferencia de la desinfección en que:",
+        "opciones": ["Elimina todos los microorganismos y esporas", "Se usa solo en superficies", "No requiere control de temperatura", "No actúa sobre virus"],
+        "correcta": 0,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "La esterilización destruye todos los microorganismos, incluidas las esporas bacterianas."
+      },
+      {
+        "enunciado": "Una sala quirúrgica limpia y libre de microorganismos se logra mediante:",
+        "opciones": ["Esterilización", "Desinfección", "Asepsia", "Antisepsia"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: conjunto de medidas que mantiene un entorno libre de microorganismos patógenos."
+      },
+      {
+        "enunciado": "Una solución de yodo aplicada sobre una herida abierta actúa como:",
+        "opciones": ["Desinfectante", "Agente esterilizante", "Antiséptico", "Bacteriostático ambiental"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Yodo sobre tejidos vivos: antisepsia."
+      },
+      {
+        "enunciado": "El calor húmedo a 121 °C durante 15-20 minutos en autoclave es un método de:",
+        "opciones": ["Desinfección", "Esterilización", "Antisepsia", "Asepsia"],
+        "correcta": 1,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: mediante autoclave con vapor a presión."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos no garantiza la eliminación de esporas?",
+        "opciones": ["Esterilización", "Desinfección", "Filtración estéril", "Autoclave"],
+        "correcta": 1,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección no asegura la destrucción de esporas bacterianas."
+      },
+      {
+        "enunciado": "El uso de guantes estériles y campos quirúrgicos forma parte de:",
+        "opciones": ["Antisepsia", "Desinfección", "Asepsia", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Asepsia: medidas para prevenir la contaminación durante procedimientos."
+      },
+      {
+        "enunciado": "La inmersión de material quirúrgico en una solución química bactericida sin autoclave es:",
+        "opciones": ["Antisepsia", "Esterilización", "Desinfección", "Asepsia"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Desinfección: por inmersión química de alto nivel, no asegura esterilidad."
+      },
+      {
+        "enunciado": "Una solución hidroalcohólica para higiene de manos actúa como:",
+        "opciones": ["Desinfectante", "Esterilizante", "Antiséptico", "Agente químico neutral"],
+        "correcta": 2,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Antisepsia: uso sobre piel sana, no sobre objetos."
+      },
+      {
+        "enunciado": "¿Qué método elimina todo tipo de microorganismos, incluyendo esporas, virus y hongos?",
+        "opciones": ["Asepsia", "Antisepsia", "Desinfección", "Esterilización"],
+        "correcta": 3,
+        "categorías": ["tema114", "desinfección"],
+        "feedback": "Esterilización: es el único método que elimina todo tipo de microorganismos sin excepción."
+      }                  
+]

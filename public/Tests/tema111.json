@@ -1,0 +1,282 @@
+[
+    {
+        "enunciado": "Una paciente pierde orina al reír o estornudar, sin sensación previa de necesidad de orinar. Este cuadro corresponde a:",
+        "opciones": ["Incontinencia de urgencia", "Incontinencia funcional", "Incontinencia de esfuerzo", "Incontinencia por rebosamiento"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de esfuerzo: pérdida involuntaria de orina por aumento de presión intraabdominal sin urgencia previa."
+      },
+      {
+        "enunciado": "Un paciente refiere escapes de orina precedidos por una necesidad imperiosa e inmediata de orinar. Se trata de:",
+        "opciones": ["IU de esfuerzo", "IU de urgencia", "IU funcional", "Enuresis nocturna"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de urgencia: pérdida de orina asociada a una intensa urgencia miccional. CIE 788.63."
+      },
+      {
+        "enunciado": "Una mujer presenta escapes de orina tanto al correr como tras notar una urgencia incontrolable. Este caso es:",
+        "opciones": ["IU funcional", "IU mixta", "IU de esfuerzo", "IU por rebosamiento"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU mixta: combina síntomas de esfuerzo y urgencia. CIE 788.33."
+      },
+      {
+        "enunciado": "Un hombre con hiperplasia benigna de próstata presenta goteo constante por una vejiga llena. Se trata de:",
+        "opciones": ["IU de esfuerzo", "IU por rebosamiento", "Enuresis nocturna", "IU funcional"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU por rebosamiento: causada por obstrucción o sobredistensión vesical. CIE 788.38."
+      },
+      {
+        "enunciado": "Un paciente con demencia avanzada presenta escapes porque no llega al baño a tiempo. Es un caso de:",
+        "opciones": ["IU funcional", "IU de urgencia", "IU de esfuerzo", "IU por rebosamiento"],
+        "correcta": 0,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU funcional: se debe a barreras físicas o cognitivas para usar el baño. CIE 788.91."
+      },
+      {
+        "enunciado": "Un niño de 6 años moja la cama durante la noche sin estar despierto. El diagnóstico más probable es:",
+        "opciones": ["IU mixta", "IU de urgencia", "Enuresis nocturna", "IU funcional"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Enuresis nocturna: pérdida involuntaria de orina durante el sueño. CIE 788.36."
+      },
+      {
+        "enunciado": "Una paciente con movilidad reducida por fractura de cadera pierde orina al no poder usar el orinal. Se trata de:",
+        "opciones": ["IU de urgencia", "IU funcional", "IU de esfuerzo", "IU por rebosamiento"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU funcional: imposibilidad de acceder a un dispositivo para orinar. CIE 788.91."
+      },
+      {
+        "enunciado": "Un varón tiene escapes de orina sin sensación de llenado vesical, y se detecta vejiga distendida. Indica:",
+        "opciones": ["IU funcional", "IU de esfuerzo", "IU por rebosamiento", "Enuresis nocturna"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU por rebosamiento: típica de vejiga sobredistendida por obstrucción o daño neurológico."
+      },
+      {
+        "enunciado": "Una mujer con pérdida de orina exclusivamente al levantar peso, sin deseo de orinar, presenta:",
+        "opciones": ["IU funcional", "IU por rebosamiento", "IU de esfuerzo", "IU de urgencia"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de esfuerzo: relacionada con aumento de presión abdominal. CIE Femenina 625.6."
+      },
+      {
+        "enunciado": "Una persona pierde orina tanto tras sensación urgente como al subir escaleras. Indica:",
+        "opciones": ["IU funcional", "IU de urgencia", "IU por rebosamiento", "IU mixta"],
+        "correcta": 3,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU mixta: combinación de síntomas de urgencia y esfuerzo. CIE 788.33."
+      },
+      {
+        "enunciado": "Una paciente presenta escapes de orina únicamente al agacharse o cargar peso. Esta situación corresponde a:",
+        "opciones": ["Incontinencia funcional", "Incontinencia por rebosamiento", "Incontinencia de esfuerzo", "Incontinencia de urgencia"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de esfuerzo: se produce al aumentar la presión abdominal sin urgencia miccional."
+      },
+      {
+        "enunciado": "Un paciente refiere urgencia repentina para orinar seguida de escape involuntario antes de llegar al baño. Se trata de:",
+        "opciones": ["Incontinencia de esfuerzo", "Incontinencia mixta", "Incontinencia funcional", "Incontinencia de urgencia"],
+        "correcta": 3,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de urgencia: asociada a una fuerte necesidad de orinar seguida de pérdida involuntaria."
+      },
+      {
+        "enunciado": "Una persona con deterioro cognitivo que no reconoce la necesidad de ir al baño y presenta escapes es un caso de:",
+        "opciones": ["Incontinencia por rebosamiento", "Incontinencia de urgencia", "Incontinencia funcional", "Enuresis nocturna"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU funcional: causada por incapacidad física o cognitiva para usar el WC a tiempo."
+      },
+      {
+        "enunciado": "Un paciente tiene pérdidas de orina asociadas a distensión vesical sin percepción de llenado. Indica:",
+        "opciones": ["Incontinencia de esfuerzo", "Incontinencia de urgencia", "Incontinencia mixta", "Incontinencia por rebosamiento"],
+        "correcta": 3,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU por rebosamiento: ocurre cuando la vejiga está sobredistendida y no se vacía adecuadamente."
+      },
+      {
+        "enunciado": "Una mujer pierde orina al reír y también en momentos de urgencia. Se trata de:",
+        "opciones": ["Incontinencia mixta", "Incontinencia funcional", "Incontinencia de esfuerzo", "Enuresis nocturna"],
+        "correcta": 0,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU mixta: combina síntomas de esfuerzo y urgencia en el mismo paciente."
+      },
+      {
+        "enunciado": "Un paciente encamado, sin alteración neurológica, pierde orina por no poder acceder al baño. Se trata de:",
+        "opciones": ["Incontinencia funcional", "Incontinencia de urgencia", "Incontinencia por rebosamiento", "Incontinencia de esfuerzo"],
+        "correcta": 0,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU funcional: provocada por barreras físicas, como inmovilidad, que impiden llegar al baño."
+      },
+      {
+        "enunciado": "Un niño moja la cama varias noches por semana sin despertarse. Esta situación corresponde a:",
+        "opciones": ["Incontinencia funcional", "Incontinencia de esfuerzo", "Enuresis nocturna", "Incontinencia por rebosamiento"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Enuresis nocturna: pérdida de orina durante el sueño en personas con control vesical diurno."
+      },
+      {
+        "enunciado": "Un hombre con antecedentes de lesión medular sufre escapes continuos sin notar ganas de orinar. Indica:",
+        "opciones": ["Incontinencia funcional", "Incontinencia por rebosamiento", "Incontinencia de urgencia", "Incontinencia mixta"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU por rebosamiento: puede deberse a daño neurológico que afecta al vaciado vesical."
+      },
+      {
+        "enunciado": "Una mujer con cistitis aguda describe pérdidas de orina tras una urgencia muy intensa. Se trata de:",
+        "opciones": ["Incontinencia por rebosamiento", "Incontinencia funcional", "Incontinencia de urgencia", "Incontinencia de esfuerzo"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de urgencia: frecuente en infecciones urinarias por irritación del detrusor."
+      },
+      {
+        "enunciado": "Un paciente anciano, con buena movilidad, pierde orina solo al toser con fuerza. Es un caso de:",
+        "opciones": ["Incontinencia mixta", "Incontinencia de esfuerzo", "Incontinencia funcional", "Enuresis nocturna"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "IU de esfuerzo: desencadenada por maniobras que aumentan la presión abdominal."
+      },
+      {
+        "enunciado": "Un absorbente supernoche tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "Exactamente 1.000 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "La gama supernoche ofrece una absorción superior a 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente noche tiene una capacidad de:",
+        "opciones": ["Menos de 600 mL", "600-900 mL", "900-1.200 mL", "Más de 1.200 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Los absorbentes noche tienen capacidad de entre 900 y 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente día tiene una capacidad de:",
+        "opciones": ["Menos de 300 mL", "600-900 mL", "900-1.200 mL", "Más de 1.200 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "La gama día cubre entre 600 y 900 mL de absorción."
+      },
+      {
+        "enunciado": "Un absorbente anatómico con cinturón supernoche debe tener una capacidad:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "Menos de 600 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Cualquier absorbente supernoche, incluido el de tipo cinturón, supera los 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente tipo pants de uso nocturno tiene una capacidad de:",
+        "opciones": ["600-900 mL", "Más de 1.200 mL", "900-1.200 mL", "Exactamente 1.000 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El pants de gama noche absorbe entre 900 y 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente rectangular supernoche tiene una capacidad de:",
+        "opciones": ["Exactamente 1.200 mL", "Más de 1.200 mL", "Menos de 600 mL", "900-1.200 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Todos los productos clasificados como supernoche, incluidos los rectangulares, superan los 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente anatómico elástico de la gama día tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "300-600 mL"],
+        "correcta": 0,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El anatómico elástico de día está diseñado para absorber entre 600 y 900 mL."
+      },
+      {
+        "enunciado": "Un absorbente supernoche tipo pants tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "No definido"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El pants supernoche ofrece más de 1.200 mL de absorción."
+      },
+      {
+        "enunciado": "Un absorbente anatómico talla única de la gama noche tiene una capacidad de:",
+        "opciones": ["600-900 mL", "Más de 1.200 mL", "900-1.200 mL", "Menos de 600 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El anatómico de talla única en gama noche cubre hasta 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente rectangular de la gama día tiene una capacidad de:",
+        "opciones": ["900-1.200 mL", "600-900 mL", "Más de 1.200 mL", "300-600 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El absorbente rectangular de día ofrece entre 600 y 900 mL de absorción."
+      },
+      {
+        "enunciado": "Un absorbente supernoche tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "Exactamente 1.000 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "La gama supernoche ofrece una absorción superior a 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente noche tiene una capacidad de:",
+        "opciones": ["Menos de 600 mL", "600-900 mL", "900-1.200 mL", "Más de 1.200 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Los absorbentes noche tienen capacidad de entre 900 y 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente día tiene una capacidad de:",
+        "opciones": ["Menos de 300 mL", "600-900 mL", "900-1.200 mL", "Más de 1.200 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "La gama día cubre entre 600 y 900 mL de absorción."
+      },
+      {
+        "enunciado": "Un absorbente anatómico con cinturón supernoche debe tener una capacidad:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "Menos de 600 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Cualquier absorbente supernoche, incluido el de tipo cinturón, supera los 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente tipo pants de uso nocturno tiene una capacidad de:",
+        "opciones": ["600-900 mL", "Más de 1.200 mL", "900-1.200 mL", "Exactamente 1.000 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El pants de gama noche absorbe entre 900 y 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente rectangular supernoche tiene una capacidad de:",
+        "opciones": ["Exactamente 1.200 mL", "Más de 1.200 mL", "Menos de 600 mL", "900-1.200 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "Todos los productos clasificados como supernoche, incluidos los rectangulares, superan los 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente anatómico elástico de la gama día tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "300-600 mL"],
+        "correcta": 0,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El anatómico elástico de día está diseñado para absorber entre 600 y 900 mL."
+      },
+      {
+        "enunciado": "Un absorbente supernoche tipo pants tiene una capacidad de:",
+        "opciones": ["600-900 mL", "900-1.200 mL", "Más de 1.200 mL", "No definido"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El pants supernoche ofrece más de 1.200 mL de absorción."
+      },
+      {
+        "enunciado": "Un absorbente anatómico talla única de la gama noche tiene una capacidad de:",
+        "opciones": ["600-900 mL", "Más de 1.200 mL", "900-1.200 mL", "Menos de 600 mL"],
+        "correcta": 2,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El anatómico de talla única en gama noche cubre hasta 1.200 mL."
+      },
+      {
+        "enunciado": "Un absorbente rectangular de la gama día tiene una capacidad de:",
+        "opciones": ["900-1.200 mL", "600-900 mL", "Más de 1.200 mL", "300-600 mL"],
+        "correcta": 1,
+        "categorías": ["tema110", "incontinencia"],
+        "feedback": "El absorbente rectangular de día ofrece entre 600 y 900 mL de absorción."
+      }                        
+]

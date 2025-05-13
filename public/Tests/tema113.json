@@ -1,0 +1,492 @@
+[
+    {
+        "enunciado": "Una úlcera con bordes bien definidos, fondo necrótico, dolor intenso y piel fría, sugiere:",
+        "opciones": ["Úlcera venosa", "Úlcera arterial", "Úlcera neuropática", "Úlcera por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: dolorosa, bordes definidos, fondo seco o necrótico, piel fría y pálida."
+      },
+      {
+        "enunciado": "Una úlcera con exudado abundante, bordes irregulares y localizada en región maleolar interna sugiere:",
+        "opciones": ["Úlcera arterial", "Úlcera neuropática", "Úlcera venosa", "Úlcera por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: bordes irregulares, exudado abundante, localizada en zona maleolar interna."
+      },
+      {
+        "enunciado": "Una úlcera plantar indolora, con hiperqueratosis perilesional, en paciente diabético, indica:",
+        "opciones": ["Úlcera arterial", "Úlcera por presión", "Úlcera venosa", "Úlcera neuropática"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: típica del pie diabético, indolora, en zonas de presión con callo periférico."
+      },
+      {
+        "enunciado": "Una úlcera en sacro en paciente encamado, con necrosis central y piel eritematosa alrededor, es probablemente:",
+        "opciones": ["Úlcera venosa", "Úlcera arterial", "Úlcera por presión", "Úlcera neuropática"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: frecuente en zonas de apoyo, con necrosis, eritema y evolución por estadios."
+      },
+      {
+        "enunciado": "Una úlcera indolora en talón, con bordes bien delimitados y piel brillante, corresponde a:",
+        "opciones": ["Úlcera neuropática", "Úlcera arterial", "Úlcera venosa", "Úlcera por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: en zonas distales, bordes netos, piel brillante, suele ser muy dolorosa salvo isquemia severa."
+      },
+      {
+        "enunciado": "La localización más frecuente de la úlcera venosa es:",
+        "opciones": ["Cara anterior de pierna", "Maleolo interno", "Maleolo externo", "Planta del pie"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: típicamente en maleolo interno, zona supramaleolar medial."
+      },
+      {
+        "enunciado": "La úlcera arterial suele presentar dolor de tipo:",
+        "opciones": ["Ausente", "Intenso y constante, mejora al caminar", "Intenso, mejora en reposo con piernas colgando", "Leve y difuso"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: dolor intenso que mejora en declive, empeora con el reposo en cama."
+      },
+      {
+        "enunciado": "Una úlcera en dorso del pie, seca, sin exudado y muy dolorosa, sugiere:",
+        "opciones": ["Úlcera venosa", "Úlcera arterial", "Úlcera neuropática", "Úlcera por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: zonas acras, fondo seco, sin exudado, dolor desproporcionado."
+      },
+      {
+        "enunciado": "Una úlcera en la planta del primer metatarsiano, con pérdida de sensibilidad y sin dolor, sugiere:",
+        "opciones": ["Úlcera venosa", "Úlcera por presión", "Úlcera arterial", "Úlcera neuropática"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: en zonas de presión plantar, en pacientes con pérdida de sensibilidad."
+      },
+      {
+        "enunciado": "Una úlcera con base granulosa, exudado moderado, bordes irregulares y piel perilesional hiperpigmentada indica:",
+        "opciones": ["Úlcera arterial", "Úlcera venosa", "Úlcera neuropática", "Úlcera por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: fondo rojizo o granuloso, piel con cambios crónicos como hiperpigmentación o lipodermatoesclerosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes netos, dolor intenso y piel fría es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: dolorosa, bordes definidos, piel fría y pálida."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado abundante, bordes irregulares y localización en maleolo interno es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: localizada típicamente en maleolo interno, con exudado y bordes mal definidos."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser indolora, con piel engrosada y presencia de callo perilesional es una úlcera de tipo:",
+        "opciones": ["venosa", "neuropática", "arterial", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: frecuente en el pie diabético, indolora y con hiperqueratosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localizarse en zonas de apoyo y presentar necrosis central es una úlcera de tipo:",
+        "opciones": ["neuropática", "venosa", "por presión", "arterial"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: aparece en prominencias óseas, con evolución en estadios y necrosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser seca, dolorosa, con fondo negruzco y piel brillante alrededor es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "neuropática", "arterial"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: seca, necrótica, dolorosa y con piel atrófica o brillante."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes elevados, base rojiza, dolor leve y edema perilesional es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "por presión", "neuropática"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: base rojiza, bordes irregulares, exudado y cambios crónicos en la piel vecina."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localización en talón, dolor variable y afectación tisular profunda es una úlcera de tipo:",
+        "opciones": ["neuropática", "por presión", "venosa", "arterial"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: común en talón, con daño por presión mantenida y escasa movilidad."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ausencia de dolor, pérdida de sensibilidad y localización plantar es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "arterial", "neuropática"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: típica del pie diabético, en zonas de carga, sin dolor por afectación nerviosa."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor nocturno que mejora al colgar la pierna es una úlcera de tipo:",
+        "opciones": ["neuropática", "arterial", "por presión", "venosa"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: el dolor por isquemia mejora al colocar el miembro en declive."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel perilesional hiperpigmentada, edema y dermatitis ocre es una úlcera de tipo:",
+        "opciones": ["venosa", "arterial", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: asociada a cambios crónicos como hiperpigmentación y dermatitis por estasis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes netos, dolor intenso y piel fría es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: dolorosa, bordes definidos, piel fría y pálida."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado abundante, bordes irregulares y localización en maleolo interno es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: localizada típicamente en maleolo interno, con exudado y bordes mal definidos."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser indolora, con piel engrosada y presencia de callo perilesional es una úlcera de tipo:",
+        "opciones": ["venosa", "neuropática", "arterial", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: frecuente en el pie diabético, indolora y con hiperqueratosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localizarse en zonas de apoyo y presentar necrosis central es una úlcera de tipo:",
+        "opciones": ["neuropática", "venosa", "por presión", "arterial"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: aparece en prominencias óseas, con evolución en estadios y necrosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser seca, dolorosa, con fondo negruzco y piel brillante alrededor es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "neuropática", "arterial"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: seca, necrótica, dolorosa y con piel atrófica o brillante."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes elevados, base rojiza, dolor leve y edema perilesional es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "por presión", "neuropática"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: base rojiza, bordes irregulares, exudado y cambios crónicos en la piel vecina."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localización en talón, dolor variable y afectación tisular profunda es una úlcera de tipo:",
+        "opciones": ["neuropática", "por presión", "venosa", "arterial"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: común en talón, con daño por presión mantenida y escasa movilidad."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ausencia de dolor, pérdida de sensibilidad y localización plantar es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "arterial", "neuropática"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: típica del pie diabético, en zonas de carga, sin dolor por afectación nerviosa."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor nocturno que mejora al colgar la pierna es una úlcera de tipo:",
+        "opciones": ["neuropática", "arterial", "por presión", "venosa"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: el dolor por isquemia mejora al colocar el miembro en declive."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel perilesional hiperpigmentada, edema y dermatitis ocre es una úlcera de tipo:",
+        "opciones": ["venosa", "arterial", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: asociada a cambios crónicos como hiperpigmentación y dermatitis por estasis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes netos, dolor intenso y piel fría es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: dolorosa, bordes definidos, piel fría y pálida."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado abundante, bordes irregulares y localización en maleolo interno es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: localizada típicamente en maleolo interno, con exudado y bordes mal definidos."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser indolora, con piel engrosada y presencia de callo perilesional es una úlcera de tipo:",
+        "opciones": ["venosa", "neuropática", "arterial", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: frecuente en el pie diabético, indolora y con hiperqueratosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localizarse en zonas de apoyo y presentar necrosis central es una úlcera de tipo:",
+        "opciones": ["neuropática", "venosa", "por presión", "arterial"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: aparece en prominencias óseas, con evolución en estadios y necrosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser seca, dolorosa, con fondo negruzco y piel brillante alrededor es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "neuropática", "arterial"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: seca, necrótica, dolorosa y con piel atrófica o brillante."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes elevados, base rojiza, dolor leve y edema perilesional es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "por presión", "neuropática"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: base rojiza, bordes irregulares, exudado y cambios crónicos en la piel vecina."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localización en talón, dolor variable y afectación tisular profunda es una úlcera de tipo:",
+        "opciones": ["neuropática", "por presión", "venosa", "arterial"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: común en talón, con daño por presión mantenida y escasa movilidad."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ausencia de dolor, pérdida de sensibilidad y localización plantar es una úlcera de tipo:",
+        "opciones": ["venosa", "por presión", "arterial", "neuropática"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: típica del pie diabético, en zonas de carga, sin dolor por afectación nerviosa."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor nocturno que mejora al colgar la pierna es una úlcera de tipo:",
+        "opciones": ["neuropática", "arterial", "por presión", "venosa"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: el dolor por isquemia mejora al colocar el miembro en declive."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel perilesional hiperpigmentada, edema y dermatitis ocre es una úlcera de tipo:",
+        "opciones": ["venosa", "arterial", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: asociada a cambios crónicos como hiperpigmentación y dermatitis por estasis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor muy intenso, especialmente nocturno, y ausencia de pulso periférico es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: muy dolorosa, con pulso ausente o muy débil."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado moderado, bordes irregulares y piel con eczematización es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: frecuente exudado, piel con cambios inflamatorios crónicos."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por pérdida de sensibilidad y presencia de fisuras plantares es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: se asocia a neuropatía sensitiva y lesiones en zonas de carga plantar."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por aparición sobre prominencia ósea, con fondo negruzco y tejido desvitalizado, es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: aparece en zonas de apoyo mantenido y puede presentar necrosis."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes regulares, ausencia de exudado y localización en dedos del pie es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: se localiza en zonas distales y suele ser seca, con bordes definidos."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por localización medial en la pierna, con edema y dermatitis ocre, es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: localizada en el tercio distal de la pierna, sobre todo cara interna."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por presencia de callo perilesional, piel seca y deformidades óseas es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: asociada a deformidades y presión repetida sin protección sensitiva."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por aparición en talones o sacro tras inmovilización prolongada es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: típica en pacientes encamados o inmóviles."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes pálidos, piel atrófica y temperatura local disminuida es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: suele cursar con piel atrófica, fría y sin vello."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por fondo húmedo, poco dolor y edema importante es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: asociada a hipertensión venosa crónica, edema y exudado."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor muy intenso es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: típicamente muy dolorosa, especialmente en reposo."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes irregulares es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: presenta bordes poco definidos e irregulares."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser indolora es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: suele ser indolora por pérdida de sensibilidad."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado abundante es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: generalmente húmeda y con exudado."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por aparecer en talón es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: frecuente en zonas de apoyo como talones o sacro."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel fría es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: se acompaña de piel fría por isquemia local."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel perilesional hiperpigmentada es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: la piel cercana puede mostrar hiperpigmentación por hemosiderina."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por pérdida de sensibilidad es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: asociada a neuropatía periférica sensitiva."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes bien definidos es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: bordes netos y regulares por necrosis delimitada."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por presencia de callo perilesional es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: suele ir acompañada de hiperqueratosis o callo."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por dolor muy intenso es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: típicamente muy dolorosa, especialmente en reposo."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes irregulares es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: presenta bordes poco definidos e irregulares."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por ser indolora es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: suele ser indolora por pérdida de sensibilidad."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por exudado abundante es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: generalmente húmeda y con exudado."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por aparecer en talón es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 3,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera por presión: frecuente en zonas de apoyo como talones o sacro."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel fría es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: se acompaña de piel fría por isquemia local."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por piel perilesional hiperpigmentada es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 1,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera venosa: la piel cercana puede mostrar hiperpigmentación por hemosiderina."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por pérdida de sensibilidad es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: asociada a neuropatía periférica sensitiva."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por bordes bien definidos es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 0,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera arterial: bordes netos y regulares por necrosis delimitada."
+      },
+      {
+        "enunciado": "Una úlcera que se caracteriza por presencia de callo perilesional es una úlcera de tipo:",
+        "opciones": ["arterial", "venosa", "neuropática", "por presión"],
+        "correcta": 2,
+        "categorías": ["tema113", "úlceras"],
+        "feedback": "Úlcera neuropática: suele ir acompañada de hiperqueratosis o callo."
+      }                                          
+]

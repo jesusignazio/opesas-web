@@ -1,0 +1,423 @@
+[
+    {
+        "enunciado": "Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte se denomina:",
+        "opciones": ["Gestión de residuos", "Recogida", "Almacenamiento", "Reutilización"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La recogida incluye todas las acciones previas al transporte del residuo, sin confundirse con su gestión integral."
+      },
+      {
+        "enunciado": "El depósito temporal de residuos con carácter previo a su valorización o eliminación, sin exceder ciertos plazos, se define como:",
+        "opciones": ["Eliminación", "Recogida selectiva", "Almacenamiento", "Vertido"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El almacenamiento es un depósito temporal, pero no debe confundirse con un vertedero ni con la eliminación."
+      },
+      {
+        "enunciado": "El procedimiento destinado a destruir total o parcialmente residuos sin dañar la salud humana ni el medio ambiente se conoce como:",
+        "opciones": ["Valorización", "Reciclado", "Eliminación", "Reutilización"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La eliminación implica destrucción o vertido de residuos, a diferencia de la valorización que busca su aprovechamiento."
+      },
+      {
+        "enunciado": "El proceso que permite el aprovechamiento de los recursos contenidos en los residuos sin riesgos para la salud o el medio ambiente se denomina:",
+        "opciones": ["Reutilización", "Valorización", "Eliminación", "Almacenamiento"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La valorización se orienta al aprovechamiento, sin llegar a destruir el residuo como en la eliminación."
+      },
+      {
+        "enunciado": "La transformación de los residuos en un proceso de producción, para su uso original o diferente, se denomina:",
+        "opciones": ["Valorización", "Reutilización", "Reciclado", "Almacenamiento"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El reciclado implica transformación, a diferencia de la reutilización que no altera el objeto."
+      },
+      {
+        "enunciado": "Persona o entidad, pública o privada, que realiza operaciones como recogida, transporte o tratamiento de residuos:",
+        "opciones": ["Productor", "Poseedor", "Gestor de residuos", "Minimizador"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El gestor de residuos puede no ser el productor, pero asume la responsabilidad de su tratamiento."
+      },
+      {
+        "enunciado": "El conjunto de medidas destinadas a evitar o reducir la generación de residuos o su peligrosidad se denomina:",
+        "opciones": ["Prevención", "Minimización", "Valorización", "Reutilización"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La prevención se sitúa en la cúspide de la jerarquía de gestión, por delante de la minimización o valorización."
+      },
+      {
+        "enunciado": "La persona física o jurídica que produce residuos como resultado de su actividad, excluido el ámbito doméstico, se denomina:",
+        "opciones": ["Productor", "Gestor", "Poseedor", "Almacenador"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El productor genera residuos por su actividad profesional o industrial, no por consumo doméstico."
+      },
+      {
+        "enunciado": "Residuos generados en centros sanitarios, incluidos los envases que los hayan contenido, se denominan:",
+        "opciones": ["Residuos químicos", "Residuos peligrosos", "Residuo sanitario", "Residuos infecciosos"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El residuo sanitario incluye envases y desechos derivados directamente de la actividad sanitaria."
+      },
+      {
+        "enunciado": "La acción que consiste en usar un producto para el mismo fin para el que fue diseñado, sin transformarlo, se denomina:",
+        "opciones": ["Reciclado", "Reutilización", "Valorización", "Eliminación"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Reutilizar no implica modificar el producto, a diferencia del reciclado que sí transforma la materia."
+      },
+      {
+        "enunciado": "El conjunto de actividades que incluyen recogida, almacenamiento, transporte, valorización, eliminación y su vigilancia se denomina:",
+        "opciones": ["Gestión de residuos", "Sistema de reciclaje", "Control ambiental", "Procesado de residuos"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La gestión de residuos abarca todas las fases del tratamiento, incluida la vigilancia posterior al cierre de instalaciones."
+      },
+      {
+        "enunciado": "El sujeto que tiene físicamente los residuos pero no realiza operaciones de gestión se denomina:",
+        "opciones": ["Productor", "Poseedor", "Gestor", "Almacenador"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El poseedor puede tener los residuos bajo su responsabilidad sin implicar necesariamente una función activa de gestión."
+      },
+      {
+        "enunciado": "Acción que busca reducir la generación de residuos en origen o su peligrosidad mediante medidas técnicas o de proceso:",
+        "opciones": ["Reciclado", "Minimización", "Valorización", "Prevención"],
+        "correcta": 3,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La prevención actúa antes de la generación del residuo, mientras que la minimización puede aplicarse también tras su aparición."
+      },
+      {
+        "enunciado": "El uso de residuos para obtener compost o biogás se considera:",
+        "opciones": ["Reutilización", "Eliminación", "Reciclado", "Vertido controlado"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Tanto el compostaje como la biometanización están incluidas dentro del concepto de reciclado."
+      },
+      {
+        "enunciado": "El sistema que permite separar materiales orgánicos y reciclables del resto de residuos en el momento de su recogida se denomina:",
+        "opciones": ["Recogida selectiva", "Gestión integrada", "Almacenamiento segregado", "Distribución de contenedores"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La recogida selectiva permite una clasificación eficaz desde el origen, facilitando el reciclaje y la valorización."
+      },
+      {
+        "enunciado": "El depósito subterráneo de residuos sin tratamiento adicional en una instalación específica se llama:",
+        "opciones": ["Almacenamiento temporal", "Eliminación encapsulada", "Vertedero", "Inertización"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Un vertedero es una instalación destinada exclusivamente al depósito definitivo de residuos."
+      },
+      {
+        "enunciado": "Los elementos químicos o compuestos que se descartan tras procesos diagnósticos por no ser reutilizables se denominan:",
+        "opciones": ["Residuos infecciosos", "Residuos químicos", "Residuos orgánicos", "Residuos citotóxicos"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los residuos químicos incluyen sustancias orgánicas e inorgánicas descartadas por no ser aprovechables."
+      },
+      {
+        "enunciado": "Recipientes vacíos que han contenido sustancias incluidas en normativa específica de peligrosidad se consideran:",
+        "opciones": ["Residuos inertes", "Residuos sanitarios", "Residuos peligrosos", "Residuos valorizables"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La normativa considera peligrosos también los envases que han contenido residuos peligrosos, aunque estén vacíos."
+      },
+      {
+        "enunciado": "Los residuos que el poseedor desea o debe eliminar por estar incluidos en una lista europea específica se definen como:",
+        "opciones": ["Residuos reutilizables", "Residuos valorizables", "Residuos orgánicos", "Residuos"],
+        "correcta": 3,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Se considera residuo todo lo que el poseedor desecha o tiene la obligación de desechar, según la LER u otra norma."
+      },
+      {
+        "enunciado": "El proceso de volver a utilizar un objeto para el mismo propósito original sin modificarlo se denomina:",
+        "opciones": ["Reutilización", "Reciclado", "Transformación secundaria", "Valorización funcional"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La reutilización mantiene el objeto en su forma original para el mismo uso, sin pasar por procesos industriales."
+      },
+      {
+        "enunciado": "La persona física o jurídica cuya actividad genera residuos, incluyendo operaciones de tratamiento previo o mezcla, se denomina:",
+        "opciones": ["Productor", "Gestor de residuos", "Poseedor", "Recuperador"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El productor es quien genera residuos por su actividad profesional, y también puede serlo quien los mezcla o modifica."
+      },
+      {
+        "enunciado": "Cualquier procedimiento que destruya o deposite residuos sin poner en riesgo la salud ni el medio ambiente se considera:",
+        "opciones": ["Valorización", "Eliminación", "Reutilización", "Aprovechamiento"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La eliminación implica destrucción o vertido seguro, diferenciándose de la valorización que busca aprovechar el residuo."
+      },
+      {
+        "enunciado": "La persona o entidad que realiza cualquier operación de gestión de residuos, sin necesidad de haberlos generado, se define como:",
+        "opciones": ["Productor", "Intermediario", "Gestor de residuos", "Distribuidor"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El gestor puede encargarse de cualquier fase del tratamiento, independientemente de ser o no el generador original."
+      },
+      {
+        "enunciado": "Acciones encaminadas a reducir la producción de residuos o permitir su reutilización en el mismo foco de origen:",
+        "opciones": ["Prevención", "Minimización", "Reciclado", "Neutralización"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La minimización busca disminuir la cantidad o peligrosidad de residuos en el propio punto de generación."
+      },
+      {
+        "enunciado": "Todo material descartado que aparece en la Lista Europea de Residuos y del que su poseedor desea desprenderse se clasifica como:",
+        "opciones": ["Desecho sanitario", "Residuos peligrosos", "Residuo", "Subproducto"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La definición de residuo incluye toda sustancia descartada voluntaria o legalmente, especialmente si figura en la LER."
+      },
+      {
+        "enunciado": "Instalación destinada al depósito final de residuos en superficie o bajo tierra:",
+        "opciones": ["Planta de tratamiento", "Vertedero", "Centro de transferencia", "Almacén intermedio"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El vertedero es una instalación de eliminación definitiva, sujeta a regulaciones estrictas."
+      },
+      {
+        "enunciado": "Proceso mediante el cual los residuos se reincorporan como materia en un proceso de producción, sin modificar su función inicial:",
+        "opciones": ["Reutilización", "Valorización", "Reciclado", "Recuperación energética"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "La reutilización implica volver a usar un producto tal cual, para su uso original, sin transformarlo."
+      },
+      {
+        "enunciado": "La actividad de un centro sanitario que genera residuos, sea cual sea su finalidad asistencial o no, se considera:",
+        "opciones": ["Tratamiento hospitalario", "Actividad sanitaria", "Actividad de gestión clínica", "Servicio asistencial"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Cualquier actividad dentro de centros del SAS, aunque no sea clínica directa, se engloba como actividad sanitaria."
+      },
+      {
+        "enunciado": "Residuos que presentan riesgos por su composición o características, y que figuran en normativa específica se denominan:",
+        "opciones": ["Residuos orgánicos", "Residuos contaminados", "Residuos especiales", "Residuos peligrosos"],
+        "correcta": 3,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los residuos peligrosos están definidos por normativa comunitaria y española, y su gestión está altamente regulada."
+      },
+      {
+        "enunciado": "Transformar residuos en nuevos productos dentro de un proceso industrial, sin incluir incineración energética, se denomina:",
+        "opciones": ["Reutilización", "Reciclado", "Valorización térmica", "Eliminación técnica"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El reciclado incluye compostaje o biometanización, pero excluye incineración, aunque se recupere energía."
+      },
+      {
+        "enunciado": "Un pañal desechado tras su uso en una planta de hospitalización es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo V"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los pañales usados durante la actividad asistencial sin riesgo infeccioso se consideran residuos del grupo II."
+      },
+      {
+        "enunciado": "Una jeringa usada que ha estado en contacto con sangre es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Todo material punzante o cortante contaminado con fluidos corporales se clasifica como residuo del grupo III."
+      },
+      {
+        "enunciado": "Restos de alimentos generados en la cafetería de un hospital son:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo V", "Residuo del grupo I", "Residuo del grupo III"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Son residuos no peligrosos y no asistenciales, asimilables a residuos domésticos del grupo I."
+      },
+      {
+        "enunciado": "Una bolsa de sangre parcialmente llena con más de 100 ml es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo I", "Residuo del grupo III", "Residuo del grupo IV"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Las bolsas de sangre con más de 100 ml deben gestionarse como residuos peligrosos del grupo III."
+      },
+      {
+        "enunciado": "Un envase que ha contenido medicamentos citostáticos es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los materiales que han estado en contacto con medicamentos citotóxicos se consideran residuos del grupo III."
+      },
+      {
+        "enunciado": "Una batería procedente del mantenimiento de equipos sanitarios es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo V", "Residuo del grupo II", "Residuo del grupo IV"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Las baterías y otros residuos peligrosos no asistenciales pertenecen al grupo V."
+      },
+      {
+        "enunciado": "Un guante usado durante una cura sin indicios de contaminación biológica es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los desechables sin riesgo biológico real ni potencial son residuos asimilables a domésticos del grupo II."
+      },
+      {
+        "enunciado": "Un órgano extirpado completo con hueso procedente de cirugía es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo V", "Residuo del grupo II"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Órganos enteros y restos óseos se clasifican como residuos del grupo IV por normativa sanitaria específica."
+      },
+      {
+        "enunciado": "Un cultivo microbiológico activo almacenado en un laboratorio clínico es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo V"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Los cultivos y reservas de agentes infecciosos pertenecen al grupo III por su riesgo biológico."
+      },
+      {
+        "enunciado": "Una sonda retirada tras su uso, sin contenido biológico relevante ni riesgo, es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo II"],
+        "correcta": 3,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "El material sanitario desechable sin peligrosidad identificada pertenece al grupo II."
+      },
+      {
+        "enunciado": "Un yeso retirado tras una fractura sin signos de infección es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo II: sanitario no peligroso, asimilable a urbano."
+      },
+      {
+        "enunciado": "Una jeringa usada con restos de sangre es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo III", "Residuo del grupo I"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: peligroso, punzante con fluidos corporales."
+      },
+      {
+        "enunciado": "Restos de comida generados en la sala de descanso del personal de enfermería son:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo V"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo I: doméstico, sin riesgo, asimilable a urbano."
+      },
+      {
+        "enunciado": "Una vacuna caducada con virus atenuado es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: peligroso, con agente biológico activo."
+      },
+      {
+        "enunciado": "Un filtro de diálisis usado sin contaminación infecciosa es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo II: sanitario no peligroso, sin requisitos especiales."
+      },
+      {
+        "enunciado": "Un disolvente utilizado en el mantenimiento de equipos es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo V", "Residuo del grupo I"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo V: peligroso no sanitario, procedente de actividad auxiliar."
+      },
+      {
+        "enunciado": "Una bolsa de sangre vacía sin restos visibles es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo II: sanitario no peligroso, sin riesgo biológico."
+      },
+      {
+        "enunciado": "Un órgano extirpado con hueso incluido procedente de cirugía es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo II", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo IV: regulado por normativa específica (anatomía relevante)."
+      },
+      {
+        "enunciado": "Un cadáver de animal inoculado con agente infeccioso en un centro de investigación es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo III", "Residuo del grupo I"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: peligroso, con riesgo biológico."
+      },
+      {
+        "enunciado": "Una batería extraída de un desfibrilador fuera de uso es:",
+        "opciones": ["Residuo del grupo V", "Residuo del grupo III", "Residuo del grupo I", "Residuo del grupo II"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo V: peligroso no sanitario, de mantenimiento técnico."
+      },
+      {
+        "enunciado": "Un empapador usado tras una cura ambulatoria sin signos de infección es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo I", "Residuo del grupo II", "Residuo del grupo V"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo II: sanitario no peligroso. Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Una bolsa con sangre líquida de más de 100 ml no utilizada en transfusión es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: sanitario peligroso. Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Un cartón contaminado con residuos citostáticos es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: sanitario peligroso (contacto con citotóxicos). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Un paquete de vendajes estériles sin usar y caducado encontrado en almacén general es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo V"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo I: doméstico (fuera del área asistencial). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Un órgano extirpado sin hueso ni estructura ósea identificable es:",
+        "opciones": ["Residuo del grupo IV", "Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: sanitario peligroso (anatómico humano no regulado por normativa mortuoria). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Una muestra de cultivo bacteriano viable procedente de laboratorio clínico es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 0,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: sanitario peligroso (cultivos infecciosos). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Una jeringa con restos visibles de vacuna viva atenuada es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo III", "Residuo del grupo IV", "Residuo del grupo V"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo III: sanitario peligroso (vacunas vivas o atenuadas). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Un transformador averiado extraído durante tareas de mantenimiento eléctrico del centro es:",
+        "opciones": ["Residuo del grupo I", "Residuo del grupo IV", "Residuo del grupo V", "Residuo del grupo III"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo V: peligroso no sanitario (actividad auxiliar). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Una caja de guantes sin abrir, localizada en el despacho administrativo de un centro sanitario, es:",
+        "opciones": ["Residuo del grupo II", "Residuo del grupo I", "Residuo del grupo III", "Residuo del grupo IV"],
+        "correcta": 1,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo I: doméstico (fuera del área asistencial, sin riesgo). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      },
+      {
+        "enunciado": "Un hueso completo retirado en una intervención ortopédica mayor es:",
+        "opciones": ["Residuo del grupo III", "Residuo del grupo II", "Residuo del grupo IV", "Residuo del grupo I"],
+        "correcta": 2,
+        "categorías": ["tema109", "residuos"],
+        "feedback": "Residuo tipo IV: regulado por normativa específica (restos anatómicos con hueso). Clasificación: Grupo I (doméstico), Grupo II (sanitario no peligroso), Grupo III (sanitario peligroso), Grupo IV (radiactivo o regulado), Grupo V (peligroso no sanitario)."
+      }
+                                    
+]

@@ -1,0 +1,558 @@
+[
+    {
+        "enunciado": "Según el modelo de Prochaska, un paciente que dice 'yo no tengo ningún problema con el alcohol' está en la fase de:",
+        "opciones": ["Contemplación", "Precontemplación", "Preparación", "Recaída"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La precontemplación se caracteriza por la negación del problema o la falta de intención de cambiar."
+      },
+      {
+        "enunciado": "Según el modelo de Prochaska, un paciente que afirma 'quiero dejar de fumar y he buscado ayuda para empezar la próxima semana' está en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Preparación", "Mantenimiento"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "En la preparación, la persona ha tomado la decisión de cambiar y se dispone a actuar de forma inmediata."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska, un paciente que ha empezado a cambiar su dieta hace un mes está en la fase de:",
+        "opciones": ["Preparación", "Acción", "Mantenimiento", "Contemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La fase de acción incluye los primeros seis meses de implementación activa del cambio."
+      },
+      {
+        "enunciado": "Un paciente que ha conseguido dejar de fumar hace 7 meses y se enfrenta a tentaciones ocasionales está en la fase de:",
+        "opciones": ["Acción", "Contemplación", "Mantenimiento", "Preparación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El mantenimiento comienza después de seis meses de haber realizado el cambio de conducta."
+      },
+      {
+        "enunciado": "Según el modelo transteórico, el proceso de 'contracondicionamiento' es especialmente útil en la fase de:",
+        "opciones": ["Acción", "Contemplación", "Recaída", "Precontemplación"],
+        "correcta": 0,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El contracondicionamiento permite reemplazar una conducta no deseada por una alternativa saludable, clave durante la acción."
+      },
+      {
+        "enunciado": "Un paciente que dice 'sé que debería hacer ejercicio, pero ahora no tengo tiempo' se encuentra en la fase de:",
+        "opciones": ["Precontemplación", "Contemplación", "Preparación", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La contemplación implica ambivalencia: la persona reconoce el problema pero aún no se compromete a actuar."
+      },
+      {
+        "enunciado": "Un paciente que ha vuelto a fumar tras tres meses de abstinencia ha entrado en la fase de:",
+        "opciones": ["Acción", "Contemplación", "Mantenimiento", "Recaída"],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída forma parte del proceso de cambio y ofrece una oportunidad de aprendizaje para intentarlo de nuevo."
+      },
+      {
+        "enunciado": "El paso de contemplación a preparación suele requerir un aumento en:",
+        "opciones": ["La presión social", "El apoyo terapéutico", "La percepción de autoeficacia", "La exposición al riesgo"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La autoeficacia —creer que uno es capaz de cambiar— es crucial para avanzar hacia la preparación."
+      },
+      {
+        "enunciado": "Un paciente que declara 'he dejado de beber hace 2 meses y lo llevo bastante bien' se encuentra en la fase de:",
+        "opciones": ["Mantenimiento", "Acción", "Preparación", "Contemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La acción incluye el periodo en que la persona ha realizado cambios recientes, pero aún debe consolidarlos."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska, un paciente que lleva más de un año con un nuevo estilo de vida saludable está en la fase de:",
+        "opciones": ["Acción", "Mantenimiento", "Preparación", "Recaída"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El mantenimiento implica la consolidación del cambio a largo plazo, usualmente más allá de los seis meses."
+      },
+      {
+        "enunciado": "La 'reevaluación personal' es un proceso de cambio clave en la fase de:",
+        "opciones": ["Precontemplación", "Contemplación", "Acción", "Recaída"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Durante la contemplación, la persona evalúa cómo su comportamiento actual afecta a su autoconcepto."
+      },
+      {
+        "enunciado": "Según el modelo de Prochaska, una intervención centrada en reforzar logros y prevenir recaídas es más adecuada en la fase de:",
+        "opciones": ["Acción", "Preparación", "Mantenimiento", "Contemplación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Durante el mantenimiento es clave reforzar los logros conseguidos y trabajar estrategias para evitar la recaída."
+      },
+      {
+        "enunciado": "El balance decisional del modelo de Prochaska se refiere a:",
+        "opciones": ["La evaluación de riesgo clínico", "La comparación entre pros y contras del cambio", "La decisión terapéutica del profesional", "El cumplimiento del tratamiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El balance decisional describe cómo la persona sopesa las ventajas y desventajas del cambio conductual."
+      },
+      {
+        "enunciado": "En qué fase del modelo de Prochaska se encuentra un paciente que ha hecho varios intentos fallidos pero sigue motivado a cambiar:",
+        "opciones": ["Acción", "Recaída", "Preparación", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída implica volver a la conducta problema, pero el modelo considera que se puede reentrar al ciclo de cambio desde cualquier fase."
+      },
+      {
+        "enunciado": "Un paciente que dice 'sé que debería dejarlo, pero no estoy preparado aún' está en la fase de:",
+        "opciones": ["Precontemplación", "Acción", "Contemplación", "Preparación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La contemplación se caracteriza por una toma de conciencia del problema pero con falta de compromiso inmediato para el cambio."
+      },
+      {
+        "enunciado": "Un paciente que afirma 'no veo por qué debería cambiar, esto no me afecta' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Precontemplación", "Preparación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La precontemplación se caracteriza por la negación o falta de reconocimiento del problema."
+      },
+      {
+        "enunciado": "Un paciente que dice 'he comenzado a dejar el azúcar hace dos semanas' se encuentra en la fase de:",
+        "opciones": ["Mantenimiento", "Acción", "Contemplación", "Preparación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "En la fase de acción, la persona ha iniciado un cambio conductual reciente."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'quiero cambiar y estoy viendo cómo hacerlo' se encuentra en la fase de:",
+        "opciones": ["Precontemplación", "Contemplación", "Preparación", "Acción"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La preparación implica compromiso con el cambio y planificación para actuar pronto."
+      },
+      {
+        "enunciado": "Un paciente que manifiesta 'ya lo dejé hace más de seis meses y me siento estable' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Mantenimiento", "Preparación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "En el mantenimiento, la conducta ya está consolidada desde hace más de seis meses."
+      },
+      {
+        "enunciado": "Un paciente que expresa 'lo intenté, pero recaí hace poco' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Recaída", "Acción", "Contemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída es parte del proceso y ocurre tras haber hecho un intento real de cambio."
+      },
+      {
+        "enunciado": "Un paciente que dice 'me lo estoy planteando, pero aún no lo tengo claro' se encuentra en la fase de:",
+        "opciones": ["Precontemplación", "Contemplación", "Preparación", "Acción"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "En la contemplación, hay reconocimiento del problema pero aún no se ha decidido actuar."
+      },
+      {
+        "enunciado": "Un paciente que dice 'he dejado de beber hace cinco días y estoy evitando bares' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Acción", "Contemplación", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La fase de acción comienza con la ejecución activa de cambios, como evitar desencadenantes."
+      },
+      {
+        "enunciado": "Un paciente que afirma 'ahora mismo no tengo intención de cambiar' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Preparación", "Precontemplación"],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Este tipo de declaración es característica de la precontemplación, donde no hay motivación de cambio."
+      },
+      {
+        "enunciado": "Un paciente que indica 'me estoy organizando para dejar de fumar el lunes' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Preparación", "Mantenimiento"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El compromiso con una fecha específica para actuar es típico de la preparación."
+      },
+      {
+        "enunciado": "Un paciente que dice 'he vuelto a fumar después de tres meses sin hacerlo' se encuentra en la fase de:",
+        "opciones": ["Recaída", "Acción", "Mantenimiento", "Contemplación"],
+        "correcta": 0,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída implica retorno a la conducta anterior tras haber estado en acción o mantenimiento."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'hace más de un año que cambié mis hábitos y me siento fuerte' se encuentra en la fase de:",
+        "opciones": ["Acción", "Mantenimiento", "Preparación", "Contemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Más de seis meses en cambio sostenido indica que la persona se encuentra en mantenimiento."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'no me interesa dejar de consumir, no tengo ningún problema' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Contemplación", "Precontemplación", "Acción"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La negación del problema y la ausencia de intención de cambio son claves de la precontemplación."
+      },
+      {
+        "enunciado": "Un paciente que declara 'sé que debo hacer algo, pero no estoy listo aún' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Contemplación", "Acción", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La contemplación muestra conciencia del problema pero sin decisión inmediata para actuar."
+      },
+      {
+        "enunciado": "Un paciente que expresa 'he empezado con terapia y llevo ya varios días sin consumir' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Preparación", "Acción", "Mantenimiento"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La acción implica implementación activa del cambio y comienzo de nuevas conductas."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'lo dejé por unos meses, pero volví a caer' se encuentra en la fase de:",
+        "opciones": ["Acción", "Mantenimiento", "Recaída", "Contemplación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída no es un fracaso, sino una fase que permite revaluar y reingresar en el ciclo de cambio."
+      },
+      {
+        "enunciado": "Un paciente que afirma 'sé que debería cambiar, pero no me siento capaz aún' se encuentra en la fase de:",
+        "opciones": ["Acción", "Contemplación", "Preparación", "Precontemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La contemplación implica reconocimiento del problema pero sin compromiso inmediato para actuar."
+      },
+      {
+        "enunciado": "Un paciente que dice 'dejé de beber hace cuatro días y he evitado ir a reuniones donde se consume' se encuentra en la fase de:",
+        "opciones": ["Acción", "Preparación", "Contemplación", "Mantenimiento"],
+        "correcta": 0,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La fase de acción comienza cuando el individuo ha iniciado activamente el cambio de conducta."
+      },
+      {
+        "enunciado": "Un paciente que manifiesta 'he vuelto a comer compulsivamente después de varios meses de control' se encuentra en la fase de:",
+        "opciones": ["Mantenimiento", "Preparación", "Recaída", "Acción"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La recaída es una fase normal del proceso de cambio, tras un periodo de éxito conductual."
+      },
+      {
+        "enunciado": "Un paciente que declara 'me estoy organizando para apuntarme al gimnasio la semana que viene' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Mantenimiento", "Preparación"],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La preparación implica planificación concreta y compromiso con el cambio inmediato."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'hace más de un año que no fumo y me siento confiado' se encuentra en la fase de:",
+        "opciones": ["Acción", "Preparación", "Mantenimiento", "Contemplación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La fase de mantenimiento implica haber sostenido el cambio de conducta durante más de seis meses."
+      },
+      {
+        "enunciado": "Un paciente que expresa 'no me interesa dejar de consumir, no creo que sea un problema' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Preparación", "Precontemplación"],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La precontemplación se caracteriza por falta de conciencia o negación del problema."
+      },
+      {
+        "enunciado": "Un paciente que afirma 'he dejado de comer comida rápida desde hace una semana' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Acción", "Contemplación", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Cambios recientes en el comportamiento indican que el paciente se encuentra en acción."
+      },
+      {
+        "enunciado": "Un paciente que declara 'me lo estoy planteando, pero no estoy seguro de si podré lograrlo' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Preparación", "Recaída", "Mantenimiento"],
+        "correcta": 0,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La contemplación se caracteriza por la ambivalencia respecto al cambio."
+      },
+      {
+        "enunciado": "Un paciente que dice 'ya he contactado con un nutricionista y empiezo mañana' se encuentra en la fase de:",
+        "opciones": ["Acción", "Preparación", "Mantenimiento", "Contemplación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La preparación implica un compromiso firme y una acción inmediata planificada."
+      },
+      {
+        "enunciado": "Un paciente que manifiesta 'he intentado dejarlo varias veces y siempre vuelvo a lo mismo' se encuentra en la fase de:",
+        "opciones": ["Acción", "Precontemplación", "Recaída", "Preparación"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El reconocimiento del fracaso tras intentos previos es característico de la recaída."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'no quiero cambiar, estoy bien así' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Precontemplación", "Acción", "Mantenimiento"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La negativa total a considerar el cambio es típica de la precontemplación."
+      },
+      {
+        "enunciado": "Un paciente que dice 'hace un mes que dejé de beber y estoy siguiendo terapia' se encuentra en la fase de:",
+        "opciones": ["Preparación", "Contemplación", "Acción", "Mantenimiento"],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La acción incluye los primeros meses de aplicación de conductas nuevas sostenidas."
+      },
+      {
+        "enunciado": "Un paciente que afirma 'ya no siento la necesidad de fumar y han pasado más de seis meses' se encuentra en la fase de:",
+        "opciones": ["Acción", "Mantenimiento", "Contemplación", "Preparación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Cuando el cambio se sostiene en el tiempo y hay menor riesgo de recaída, hablamos de mantenimiento."
+      },
+      {
+        "enunciado": "Un paciente que dice 'no es tan grave como todos dicen, yo controlo' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Preparación", "Acción", "Precontemplación"],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Minimizar el problema o negar su existencia es típico de la precontemplación."
+      },
+      {
+        "enunciado": "Un paciente que comenta 'dejé de consumir hace una semana y he cambiado mi rutina' se encuentra en la fase de:",
+        "opciones": ["Contemplación", "Acción", "Mantenimiento", "Preparación"],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La adopción activa de nuevos comportamientos marca el inicio de la fase de acción."
+      },
+      {
+        "enunciado": "Las fases del modelo de cambio de Prochaska y DiClemente son:",
+        "opciones": [
+          "Precontemplación, Contemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Preparación, Contemplación, Acción, Recaída, Mantenimiento"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El orden correcto es: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, y eventualmente Recaída."
+      },
+      {
+        "enunciado": "Según el modelo transteórico de Prochaska y DiClemente, las fases del cambio incluyen:",
+        "opciones": [
+          "Precontemplación, Reflexión, Acción, Consolidación, Recaída",
+          "Negación, Contemplación, Preparación, Acción, Estabilización, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Preparación, Implementación, Recaída, Acción, Mantenimiento"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Solo la tercera opción presenta correctamente las fases aceptadas del modelo transteórico clásico."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska y DiClemente, ¿cuál es la secuencia correcta de fases del cambio conductual?",
+        "opciones": [
+          "Contemplación, Acción, Mantenimiento, Preparación, Precontemplación",
+          "Precontemplación, Preparación, Contemplación, Acción, Recaída, Mantenimiento",
+          "Preparación, Contemplación, Acción, Mantenimiento, Recaída, Precontemplación",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída"
+        ],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El modelo plantea una progresión lógica desde la negación hasta el mantenimiento, con posibilidad de recaída."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones representa correctamente las fases del modelo transteórico en orden?",
+        "opciones": [
+          "Precontemplación, Contemplación, Planificación, Acción, Estabilización, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Negación, Duda, Intención, Acción, Consolidación, Recaída"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Solo la opción 3 recoge las fases clásicas reconocidas del modelo de Prochaska y DiClemente."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska y DiClemente, las fases del cambio incluyen, en orden:",
+        "opciones": [
+          "Contemplación, Precontemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Preparación, Acción, Mantenimiento, Recaída, Contemplación, Precontemplación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La secuencia correcta refleja la progresión natural del cambio según el modelo transteórico."
+      },
+      {
+        "enunciado": "Respecto a las fases del modelo de cambio de Prochaska y DiClemente, ¿cuál de las siguientes secuencias es incorrecta?",
+        "opciones": [
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Esa secuencia es incorrecta porque altera el orden lógico del modelo (contempla antes que precontempla)."
+      },
+      {
+        "enunciado": "El modelo de Prochaska y DiClemente contempla las siguientes fases, en orden lógico:",
+        "opciones": [
+          "Precontemplación, Acción, Contemplación, Preparación, Mantenimiento, Recaída",
+          "Contemplación, Preparación, Acción, Mantenimiento, Precontemplación, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Preparación, Precontemplación, Contemplación, Acción, Mantenimiento, Recaída"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La única opción que sigue la secuencia científica aceptada del modelo es la tercera."
+      },
+      {
+        "enunciado": "Según el modelo transteórico de Prochaska y DiClemente, ¿cuál es el orden correcto de las fases del cambio?",
+        "opciones": [
+          "Contemplación, Preparación, Acción, Mantenimiento, Precontemplación, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Acción, Preparación, Contemplación, Precontemplación, Mantenimiento, Recaída",
+          "Contemplación, Acción, Preparación, Mantenimiento, Recaída, Precontemplación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El modelo se basa en un proceso secuencial que parte de la negación del problema hasta la consolidación del cambio."
+      },
+      {
+        "enunciado": "Una versión correcta y completa de las fases del modelo de Prochaska y DiClemente es:",
+        "opciones": [
+          "Precontemplación, Contemplación, Decisión, Implementación, Estabilización, Recaída",
+          "Reconocimiento, Preparación, Acción, Consolidación, Recaída, Negación",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Acción, Preparación, Contemplación, Recaída, Repetición"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Las fases clásicas del modelo son: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
+      },
+      {
+        "enunciado": "En relación con el modelo de cambio de Prochaska y DiClemente, una formulación incorrecta de sus fases sería:",
+        "opciones": [
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La segunda opción es incorrecta porque invierte el orden de precontemplación y contemplación, rompiendo la lógica del modelo."
+      },
+      {
+        "enunciado": "Las fases del modelo de cambio de Prochaska y DiClemente son:",
+        "opciones": [
+          "Precontemplación, Contemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Preparación, Contemplación, Acción, Recaída, Mantenimiento"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El orden correcto es: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, y eventualmente Recaída."
+      },
+      {
+        "enunciado": "Según el modelo transteórico de Prochaska y DiClemente, las fases del cambio incluyen:",
+        "opciones": [
+          "Precontemplación, Reflexión, Acción, Consolidación, Recaída",
+          "Negación, Contemplación, Preparación, Acción, Estabilización, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Preparación, Implementación, Recaída, Acción, Mantenimiento"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Solo la tercera opción presenta correctamente las fases aceptadas del modelo transteórico clásico."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska y DiClemente, ¿cuál es la secuencia correcta de fases del cambio conductual?",
+        "opciones": [
+          "Contemplación, Acción, Mantenimiento, Preparación, Precontemplación",
+          "Precontemplación, Preparación, Contemplación, Acción, Recaída, Mantenimiento",
+          "Preparación, Contemplación, Acción, Mantenimiento, Recaída, Precontemplación",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída"
+        ],
+        "correcta": 3,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El modelo plantea una progresión lógica desde la negación hasta el mantenimiento, con posibilidad de recaída."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones representa correctamente las fases del modelo transteórico en orden?",
+        "opciones": [
+          "Precontemplación, Contemplación, Planificación, Acción, Estabilización, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Negación, Duda, Intención, Acción, Consolidación, Recaída"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Solo la opción 3 recoge las fases clásicas reconocidas del modelo de Prochaska y DiClemente."
+      },
+      {
+        "enunciado": "En el modelo de Prochaska y DiClemente, las fases del cambio incluyen, en orden:",
+        "opciones": [
+          "Contemplación, Precontemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Preparación, Acción, Mantenimiento, Recaída, Contemplación, Precontemplación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La secuencia correcta refleja la progresión natural del cambio según el modelo transteórico."
+      },
+      {
+        "enunciado": "Respecto a las fases del modelo de cambio de Prochaska y DiClemente, ¿cuál de las siguientes secuencias es incorrecta?",
+        "opciones": [
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Recaída, Mantenimiento",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Esa secuencia es incorrecta porque altera el orden lógico del modelo (contempla antes que precontempla)."
+      },
+      {
+        "enunciado": "El modelo de Prochaska y DiClemente contempla las siguientes fases, en orden lógico:",
+        "opciones": [
+          "Precontemplación, Acción, Contemplación, Preparación, Mantenimiento, Recaída",
+          "Contemplación, Preparación, Acción, Mantenimiento, Precontemplación, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Preparación, Precontemplación, Contemplación, Acción, Mantenimiento, Recaída"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La única opción que sigue la secuencia científica aceptada del modelo es la tercera."
+      },
+      {
+        "enunciado": "Según el modelo transteórico de Prochaska y DiClemente, ¿cuál es el orden correcto de las fases del cambio?",
+        "opciones": [
+          "Contemplación, Preparación, Acción, Mantenimiento, Precontemplación, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Acción, Preparación, Contemplación, Precontemplación, Mantenimiento, Recaída",
+          "Contemplación, Acción, Preparación, Mantenimiento, Recaída, Precontemplación"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "El modelo se basa en un proceso secuencial que parte de la negación del problema hasta la consolidación del cambio."
+      },
+      {
+        "enunciado": "Una versión correcta y completa de las fases del modelo de Prochaska y DiClemente es:",
+        "opciones": [
+          "Precontemplación, Contemplación, Decisión, Implementación, Estabilización, Recaída",
+          "Reconocimiento, Preparación, Acción, Consolidación, Recaída, Negación",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Acción, Preparación, Contemplación, Recaída, Repetición"
+        ],
+        "correcta": 2,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "Las fases clásicas del modelo son: Precontemplación, Contemplación, Preparación, Acción, Mantenimiento y Recaída."
+      },
+      {
+        "enunciado": "En relación con el modelo de cambio de Prochaska y DiClemente, una formulación incorrecta de sus fases sería:",
+        "opciones": [
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Contemplación, Precontemplación, Acción, Preparación, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento, Recaída",
+          "Precontemplación, Contemplación, Preparación, Acción, Mantenimiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema108", "prochaska"],
+        "feedback": "La segunda opción es incorrecta porque invierte el orden de precontemplación y contemplación, rompiendo la lógica del modelo."
+      }
+                              
+]
