@@ -131,18 +131,6 @@
         "feedback": "P5: máximo 120 minutos de espera por tratarse de menor urgencia."
       },
       {
-        "enunciado": "Un paciente con prioridad II debe ser atendido por enfermería de forma ______ y por facultativo en un máximo de ______.",
-        "opciones": [
-          ["inmediata", "30 minutos"],
-          ["inmediata", "15 minutos"],
-          ["15 minutos", "15 minutos"],
-          ["5 minutos", "10 minutos"]
-        ],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P2: atención inmediata por enfermería y médica en 15 minutos."
-      },
-      {
         "enunciado": "¿Qué nivel de triaje permite una espera de hasta una hora?",
         "opciones": ["P2", "P3", "P4", "P5"],
         "correcta": 2,
