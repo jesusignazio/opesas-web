@@ -1,0 +1,283 @@
+[
+    {
+        "enunciado": "Un paciente con una puntuación de 100 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Independencia funcional", "Dependencia grave"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 15 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia grave", "Dependencia total", "Independencia funcional", "Dependencia moderada"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 35 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia grave", "Dependencia moderada", "Dependencia leve", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 50 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Dependencia grave", "Independencia funcional"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 80 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Independencia funcional", "Dependencia total"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 0 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia grave", "Dependencia total", "Independencia funcional"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 25 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia total", "Dependencia grave", "Dependencia moderada", "Dependencia leve"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 60 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Independencia funcional", "Dependencia grave"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 95 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia grave", "Independencia funcional", "Dependencia moderada"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 45 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Dependencia grave", "Independencia funcional"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 20 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia grave", "Dependencia total", "Dependencia leve", "Independencia funcional"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 40 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Dependencia grave", "Independencia funcional"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 59 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia grave", "Dependencia moderada", "Independencia funcional"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 75 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia moderada", "Dependencia grave", "Dependencia total"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 5 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia total", "Dependencia grave", "Dependencia moderada", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 68 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia total", "Dependencia grave", "Dependencia moderada", "Dependencia leve"],
+        "correcta": 3,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 90 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia leve", "Dependencia grave", "Dependencia moderada", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 30 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia grave", "Dependencia moderada", "Dependencia leve", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 43 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia moderada", "Dependencia leve", "Dependencia grave", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de 85 en el índice de Barthel presenta:",
+        "opciones": ["Dependencia total", "Dependencia leve", "Dependencia grave", "Dependencia moderada"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones en el índice de Barthel corresponde a dependencia grave?",
+        "opciones": ["15", "35", "55", "100"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación en el índice de Barthel se asocia a dependencia moderada?",
+        "opciones": ["25", "45", "70", "100"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de estas puntuaciones indica dependencia total según el índice de Barthel?",
+        "opciones": ["0", "22", "41", "85"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación refleja independencia funcional completa en el índice de Barthel?",
+        "opciones": ["90", "80", "100", "60"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué valor del índice de Barthel se clasifica como dependencia leve?",
+        "opciones": ["35", "50", "65", "100"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones representa una dependencia moderada según Barthel?",
+        "opciones": ["38", "60", "75", "100"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación en el índice de Barthel se corresponde con dependencia total?",
+        "opciones": ["10", "30", "50", "70"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes valores en el índice de Barthel refleja dependencia leve?",
+        "opciones": ["58", "68", "38", "100"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación del índice de Barthel se clasifica como dependencia grave?",
+        "opciones": ["19", "40", "61", "85"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación indica dependencia moderada en el índice de Barthel?",
+        "opciones": ["39", "50", "70", "99"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación corresponde a una persona con dependencia total según el índice de Barthel?",
+        "opciones": ["10", "30", "60", "90"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación más adecuada en el índice de Barthel para alguien con independencia funcional?",
+        "opciones": ["95", "100", "85", "75"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación indica dependencia leve en el índice de Barthel?",
+        "opciones": ["62", "58", "38", "20"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de estas puntuaciones refleja dependencia moderada según Barthel?",
+        "opciones": ["25", "45", "55", "80"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Una persona con dependencia grave según Barthel probablemente tenga una puntuación de:",
+        "opciones": ["35", "15", "65", "85"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones refleja mejor una dependencia leve?",
+        "opciones": ["40", "50", "70", "25"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación se asocia con dependencia total en el índice de Barthel?",
+        "opciones": ["0", "45", "65", "90"],
+        "correcta": 0,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Cuál es una puntuación compatible con dependencia moderada según el índice de Barthel?",
+        "opciones": ["39", "42", "59", "98"],
+        "correcta": 2,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "Una persona con una puntuación de 37 en Barthel se clasifica como:",
+        "opciones": ["Dependencia leve", "Dependencia grave", "Dependencia moderada", "Independencia funcional"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      },
+      {
+        "enunciado": "¿Qué puntuación se encuentra en el límite superior de la dependencia moderada en Barthel?",
+        "opciones": ["40", "60", "20", "80"],
+        "correcta": 1,
+        "categorías": ["tema124", "indice_barthel"],
+        "feedback": "Puntuación 0 (peor) – 100 (mejor): total (0–20), grave (21–40), moderada (41–60), leve (61–99), independencia funcional (100)."
+      }
+      
+]

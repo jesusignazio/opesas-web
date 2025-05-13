@@ -1,0 +1,192 @@
+[
+    {
+        "enunciado": "Un paciente necesita ayuda para realizar varias actividades básicas de la vida diaria dos o tres veces al día, pero no requiere apoyo permanente de un cuidador. Según la Ley 39/2006, ¿qué grado de dependencia tiene?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: dependencia severa (ayuda varias veces al día, sin apoyo continuo)."
+      },
+      {
+        "enunciado": "Una mujer de 83 años necesita apoyo limitado para el aseo y vestirse por la mañana, pero el resto del día se maneja sola. ¿Qué grado de dependencia corresponde según la Ley 39/2006?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 0,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: dependencia moderada (ayuda una vez al día o apoyo intermitente)."
+      },
+      {
+        "enunciado": "Un varón con deterioro cognitivo necesita ayuda constante para alimentarse, asearse y movilizarse, y requiere la presencia continua de su hija. ¿Qué grado de dependencia se le asignaría según la Ley 39/2006?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: gran dependencia (apoyo indispensable y continuo)."
+      },
+      {
+        "enunciado": "Una persona con movilidad reducida necesita asistencia para asearse y preparar la comida, una vez al día. ¿Qué grado de dependencia establece la Ley 39/2006?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 0,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: ayuda para varias actividades, al menos una vez al día."
+      },
+      {
+        "enunciado": "Una mujer con demencia avanzada requiere apoyo para todas las ABVD, varias veces al día, y la supervisión constante de otra persona. Según la Ley 39/2006, ¿cuál es su grado de dependencia?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: pérdida total de autonomía, apoyo generalizado y continuo."
+      },
+      {
+        "enunciado": "Según la Ley 39/2006, ¿qué grado de dependencia tiene alguien que necesita ayuda intermitente para vestirse y asearse, pero es autónomo el resto del día?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 0,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: apoyo limitado o intermitente, no continuo."
+      },
+      {
+        "enunciado": "Una persona con paraplejia necesita ayuda dos veces al día para transferencias y cuidados personales, pero puede comer y moverse con ayudas técnicas. ¿Qué grado de dependencia refleja esta situación?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: dependencia severa (ayuda dos o tres veces al día, sin necesidad permanente de cuidador)."
+      },
+      {
+        "enunciado": "Un hombre encamado, con ELA avanzada, requiere cuidados constantes para todas las actividades de la vida diaria. ¿Qué grado de dependencia tiene según la Ley de Promoción de la Autonomía Personal?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: gran dependencia, con apoyo indispensable y continuo."
+      },
+      {
+        "enunciado": "Una persona necesita apoyo para el aseo y vestido cada mañana, pero no presenta deterioro cognitivo ni necesita ayuda constante. ¿Qué grado de dependencia se asignaría?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 0,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: necesidad de ayuda para varias ABVD una vez al día."
+      },
+      {
+        "enunciado": "Según la Ley 39/2006, ¿qué grado de dependencia tiene alguien que necesita apoyo extenso para su autonomía personal pero no requiere supervisión continua?",
+        "opciones": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: dependencia severa con apoyo extenso pero no continuo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones corresponde a una persona con Grado I de dependencia según la Ley 39/2006?",
+        "opciones": [
+          "Necesita ayuda varias veces al día y requiere apoyo continuo.",
+          "Precisa ayuda una vez al día para varias ABVD, pero es autónoma el resto del tiempo.",
+          "Necesita apoyo extenso para todas las tareas y supervisión permanente.",
+          "Requiere ayuda para todas las ABVD y presenta deterioro cognitivo severo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: ayuda para varias ABVD al menos una vez al día, o apoyo intermitente."
+      },
+      {
+        "enunciado": "¿Cuál de estas situaciones corresponde a un Grado II de dependencia según la Ley 39/2006?",
+        "opciones": [
+          "Precisa ayuda limitada solo para el aseo una vez por semana.",
+          "Necesita ayuda para ABVD dos o tres veces al día, pero no constante.",
+          "Está encamado, requiere apoyo generalizado y ayuda constante.",
+          "Realiza todas las ABVD de forma autónoma con ayudas técnicas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: dependencia severa, ayuda dos o tres veces al día, sin necesidad de cuidador permanente."
+      },
+      {
+        "enunciado": "Una persona con Grado III de dependencia presentaría:",
+        "opciones": [
+          "Ayuda una vez al día y autonomía parcial.",
+          "Necesidad de supervisión para tareas del hogar únicamente.",
+          "Apoyo indispensable y continuo por pérdida total de autonomía.",
+          "Ayuda puntual para actividades instrumentales como cocinar."
+        ],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: gran dependencia, con necesidad de apoyo generalizado y constante."
+      },
+      {
+        "enunciado": "¿Qué situación se ajusta a un Grado II de dependencia?",
+        "opciones": [
+          "Ayuda para vestirse una vez al día, sin otros apoyos.",
+          "Apoyo intermitente y limitado para el aseo y comida.",
+          "Ayuda dos o tres veces al día para ABVD, sin necesidad de cuidador permanente.",
+          "Dependencia total y continua por deterioro mental severo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: apoyo extenso, pero no continuo, para ABVD."
+      },
+      {
+        "enunciado": "Una persona con Grado I de dependencia se caracteriza por:",
+        "opciones": [
+          "Autonomía completa con ayudas técnicas.",
+          "Ayuda intermitente para tareas como vestirse o asearse.",
+          "Necesidad de ayuda generalizada para todas las ABVD.",
+          "Supervisión permanente por deterioro cognitivo severo."
+        ],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: apoyo intermitente o limitado, sin pérdida completa de autonomía."
+      },
+      {
+        "enunciado": "¿Qué situación corresponde a una persona con Grado III de dependencia?",
+        "opciones": [
+          "Autonomía con ayuda puntual para medicación.",
+          "Ayuda estructurada para cocinar y limpiar.",
+          "Necesidad de ayuda para ABVD varias veces al día y apoyo continuo.",
+          "Necesita asistencia una vez a la semana para compras."
+        ],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: necesita ayuda varias veces al día y apoyo indispensable."
+      },
+      {
+        "enunciado": "Una persona que precisa ayuda diaria para aseo y alimentación, pero no precisa un cuidador constante, presenta:",
+        "opciones": [
+          "Grado I",
+          "Grado II",
+          "Grado III",
+          "No tiene dependencia reconocida"
+        ],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado II: ayuda dos o tres veces al día sin presencia permanente."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones ejemplifica el Grado III de dependencia?",
+        "opciones": [
+          "Necesita ayuda una vez al día para vestirse y peinarse.",
+          "Precisa ayuda intermitente para aseo y movilidad.",
+          "Requiere asistencia continua por deterioro físico y cognitivo severo.",
+          "Apoyo esporádico para uso de transporte público y recados."
+        ],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: necesidad de apoyo generalizado y continuo por pérdida total de autonomía."
+      },
+      {
+        "enunciado": "Una persona con Grado I de dependencia:",
+        "opciones": [
+          "Requiere apoyo constante para todas las ABVD.",
+          "Puede realizar actividades con ayuda intermitente o limitada una vez al día.",
+          "Solo necesita apoyo emocional sin ayuda física.",
+          "Tiene supervisión nocturna por seguridad."
+        ],
+        "correcta": 1,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado I: dependencia moderada, con ayuda limitada o intermitente."
+      },
+      {
+        "enunciado": "Una persona que necesita asistencia total para higiene, comida y desplazamiento, y cuya autonomía está gravemente comprometida, corresponde a:",
+        "opciones": [
+          "Grado I",
+          "Grado II",
+          "Grado III",
+          "Sin dependencia reconocida"
+        ],
+        "correcta": 2,
+        "categorías": ["tema122", "grados_dependencia"],
+        "feedback": "Grado III: gran dependencia, con necesidad de apoyo indispensable y continuo."
+      }      
+]

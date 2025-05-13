@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte del Índice de Barthel?",
+        "opciones": ["Preparación de comidas", "Uso del teléfono", "Control de esfínteres", "Manejo de medicación"],
+        "correcta": 2,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El control de esfínteres es uno de los ítems clave del índice de Barthel."
+      },
+      {
+        "enunciado": "En el Índice de Barthel, ¿qué actividad se valora con una puntuación de 0, 5 o 10 puntos?",
+        "opciones": ["Subir escaleras", "Baño", "Vestirse", "Desplazarse entre habitaciones"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Subir y bajar escaleras se valora con 0 (dependiente), 5 (ayuda), 10 (independiente)."
+      },
+      {
+        "enunciado": "¿Cuál de estas actividades es valorada en el Índice de Barthel?",
+        "opciones": ["Preparar la medicación", "Vestirse", "Llamar por teléfono", "Hacer la compra"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Vestirse es uno de los ítems del índice, se valora en grados de autonomía."
+      },
+      {
+        "enunciado": "El ítem 'alimentación' en el Índice de Barthel evalúa:",
+        "opciones": ["Si la persona puede cocinar sus alimentos", "Si es capaz de comer sola", "Si tiene dieta equilibrada", "Si puede comprar alimentos"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El ítem alimentación valora la capacidad de comer sin ayuda, no de cocinar."
+      },
+      {
+        "enunciado": "¿Qué puntuación máxima puede otorgarse en el ítem 'traslado cama-silla' del índice de Barthel?",
+        "opciones": ["5", "10", "15", "20"],
+        "correcta": 2,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El ítem 'traslados' (cama-silla) se valora con un máximo de 15 puntos."
+      },
+      {
+        "enunciado": "El ítem 'aseo personal' en el Índice de Barthel tiene una puntuación máxima de:",
+        "opciones": ["5", "10", "15", "20"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Aseo personal es un ítem menor, con un máximo de 5 puntos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems tiene una puntuación máxima de 10 puntos en el Índice de Barthel?",
+        "opciones": ["Deambulación", "Vestirse", "Comer", "Usar el WC"],
+        "correcta": 3,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El uso del inodoro se valora con un máximo de 10 puntos en función de la autonomía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems NO pertenece al Índice de Barthel?",
+        "opciones": ["Bañarse", "Deambulación", "Preparar comidas", "Uso del WC"],
+        "correcta": 2,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Preparar comidas pertenece a la escala de Lawton, no a Barthel."
+      },
+      {
+        "enunciado": "¿Qué aspecto valora el ítem 'control de defecación' en el Índice de Barthel?",
+        "opciones": ["Si necesita ayuda para ir al WC", "Si usa pañal", "Si tiene control total, parcial o nulo", "Si necesita laxantes"],
+        "correcta": 2,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El ítem se enfoca en la autonomía funcional para el control de esfínteres."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación máxima total posible del Índice de Barthel?",
+        "opciones": ["50", "75", "90", "100"],
+        "correcta": 3,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El índice de Barthel tiene una puntuación total de hasta 100 puntos."
+      }
+      
+]

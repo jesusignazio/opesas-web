@@ -1,0 +1,143 @@
+[
+    {
+        "enunciado": "El formaldehído es un:",
+        "opciones": ["Antiséptico", "Desinsectante", "Desinfectante", "Esterilizante"],
+        "correcta": 3,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El formaldehído es un esterilizante químico utilizado para material termosensible."
+      },
+      {
+        "enunciado": "El alcohol etílico al 70% es considerado un:",
+        "opciones": ["Desinfectante", "Antiséptico", "Esterilizante", "Detergente"],
+        "correcta": 1,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El alcohol al 70% es un antiséptico de uso habitual en piel sana."
+      },
+      {
+        "enunciado": "La povidona yodada al 10% se clasifica como:",
+        "opciones": ["Desinfectante", "Esterilizante", "Antiséptico", "Bactericida exclusivo"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "La povidona yodada es un antiséptico de amplio espectro para piel y mucosas."
+      },
+      {
+        "enunciado": "El ácido peracético es un:",
+        "opciones": ["Antiséptico", "Desinfectante de bajo nivel", "Esterilizante químico", "Lubricante quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El ácido peracético se usa como esterilizante para dispositivos termosensibles."
+      },
+      {
+        "enunciado": "El glutaraldehído se considera un:",
+        "opciones": ["Antiséptico para mucosas", "Desinfectante de superficies", "Esterilizante de alto nivel", "Bacteriostático leve"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El glutaraldehído es un esterilizante químico para material sensible al calor."
+      },
+      {
+        "enunciado": "La clorhexidina al 0,5-2% se clasifica como:",
+        "opciones": ["Detergente", "Esterilizante", "Antiséptico", "Fungicida exclusivamente"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "La clorhexidina es un antiséptico con acción frente a bacterias, virus y hongos."
+      },
+      {
+        "enunciado": "El hipoclorito sódico (lejía) es un:",
+        "opciones": ["Antiséptico", "Esterilizante", "Desinfectante de alto nivel", "Desinsectante"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El hipoclorito es un desinfectante potente para superficies y material no crítico."
+      },
+      {
+        "enunciado": "El peróxido de hidrógeno (agua oxigenada) al 3% es un:",
+        "opciones": ["Esterilizante", "Desinfectante", "Antiséptico", "Fungicida especializado"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El agua oxigenada es un antiséptico de uso limitado en piel y heridas superficiales."
+      },
+      {
+        "enunciado": "El óxido de etileno se utiliza como:",
+        "opciones": ["Desinfectante de bajo nivel", "Antiséptico", "Esterilizante en frío", "Neutralizante químico"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El óxido de etileno es un esterilizante gaseoso para material sensible al calor y humedad."
+      },
+      {
+        "enunciado": "El yodo en solución alcohólica actúa como:",
+        "opciones": ["Desinfectante intermedio", "Antiséptico", "Esterilizante", "Detergente quirúrgico"],
+        "correcta": 1,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El yodo en solución alcohólica tiene función antiséptica de rápida acción."
+      },
+      {
+        "enunciado": "La cloramina T es un:",
+        "opciones": ["Antiséptico", "Desinfectante", "Esterilizante", "Antiviral de contacto"],
+        "correcta": 1,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "La cloramina T es un desinfectante intermedio utilizado para superficies y material no crítico."
+      },
+      {
+        "enunciado": "El mercurio (merbromina) se considera actualmente un:",
+        "opciones": ["Antiséptico de uso común", "Esterilizante", "Antiséptico desaconsejado por toxicidad", "Desinfectante hospitalario de elección"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El mercurio fue un antiséptico, pero hoy está desaconsejado por su toxicidad."
+      },
+      {
+        "enunciado": "El fenol se clasifica principalmente como:",
+        "opciones": ["Antiséptico", "Desinfectante", "Esterilizante", "Detergente quirúrgico"],
+        "correcta": 1,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El fenol es un desinfectante fuerte, aunque también tiene propiedades antisépticas limitadas."
+      },
+      {
+        "enunciado": "El agua oxigenada al 6% puede actuar como:",
+        "opciones": ["Desinfectante", "Esterilizante químico de alto nivel", "Detergente", "Antiséptico para heridas profundas"],
+        "correcta": 0,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "A concentraciones superiores al 3%, el peróxido de hidrógeno actúa como desinfectante."
+      },
+      {
+        "enunciado": "El ácido bórico en solución diluida es un:",
+        "opciones": ["Antiséptico suave", "Esterilizante ocular", "Detergente alcalino", "Desinfectante hospitalario"],
+        "correcta": 0,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El ácido bórico es un antiséptico suave para mucosas, especialmente oftálmico."
+      },
+      {
+        "enunciado": "La tintura de yodo se considera un:",
+        "opciones": ["Antiséptico", "Desinfectante intermedio", "Esterilizante de material quirúrgico", "Lubricante cutáneo"],
+        "correcta": 0,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "La tintura de yodo se utiliza como antiséptico de acción rápida y amplio espectro."
+      },
+      {
+        "enunciado": "El cloruro de benzalconio es un:",
+        "opciones": ["Esterilizante gaseoso", "Desinfectante de alto nivel", "Antiséptico de bajo nivel", "Detergente con actividad residual"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El cloruro de benzalconio es un antiséptico y desinfectante de bajo nivel (cuaternario de amonio)."
+      },
+      {
+        "enunciado": "El yodo povidona se utiliza principalmente como:",
+        "opciones": ["Desinfectante de alto nivel", "Esterilizante en frío", "Antiséptico", "Desinsectante de superficies"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El yodo povidona es un antiséptico ampliamente utilizado sobre piel y mucosas."
+      },
+      {
+        "enunciado": "El ácido láctico en formulaciones vaginales es considerado un:",
+        "opciones": ["Esterilizante", "Desinfectante vaginal", "Antiséptico suave", "Neutralizante de pH ácido"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El ácido láctico actúa como antiséptico suave, manteniendo el pH ácido protector."
+      },
+      {
+        "enunciado": "El ozono médico en forma gaseosa actúa como:",
+        "opciones": ["Desinfectante atmosférico", "Antiséptico de amplio espectro", "Esterilizante gaseoso", "Desodorizante quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema121", "antisepticos"],
+        "feedback": "El ozono es un esterilizante gaseoso eficaz frente a bacterias, virus y esporas."
+      }
+       
+]

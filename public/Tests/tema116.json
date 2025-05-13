@@ -418,7 +418,76 @@
         "correcta": 2,
         "categorías": ["tema116", "altastemp_grupos"],
         "feedback": "Nivel 2 se asocia con el color naranja, no rojo."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de Temperaturas Excesivas 2024, el periodo oficial de activación es:",
+        "opciones": ["Del 1 de junio al 15 de septiembre", "Del 15 de mayo al 30 de septiembre", "Del 16 de mayo al 30 de septiembre", "Del 1 de julio al 31 de agosto"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El periodo de activación ordinario del Plan es del 16 de mayo al 30 de septiembre."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de Temperaturas Excesivas 2024, el Plan puede activarse fuera del periodo oficial mediante:",
+        "opciones": ["Resolución parlamentaria", "Revisión semanal por centros de salud", "Seguimiento específico entre el 1 y el 15 de mayo o de octubre", "Petición de los servicios sociales"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Existe un seguimiento del 1 al 15 de mayo y del 1 al 15 de octubre que permite activar el Plan si es necesario."
+      },
+      {
+        "enunciado": "El Plan Andaluz de Temperaturas Excesivas prevé flexibilidad de activación según condiciones térmicas en las siguientes fechas:",
+        "opciones": ["Del 1 al 15 de mayo y del 1 al 15 de octubre", "Del 1 al 30 de abril y todo octubre", "Del 15 de junio al 15 de julio", "Del 1 al 30 de noviembre"],
+        "correcta": 0,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Se realiza un seguimiento en los quince días previos y posteriores al periodo oficial (mayo y octubre)."
+      },
+      {
+        "enunciado": "¿Qué ocurre entre el 1 y el 15 de mayo según el Plan Andaluz de Temperaturas Excesivas 2024?",
+        "opciones": ["Se activa automáticamente el Plan", "Se suspende cualquier actuación", "Se realiza seguimiento para posible activación anticipada", "Se determina el color de alerta para todo el verano"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "Durante ese periodo se monitoriza la situación para decidir si es necesario activar el Plan antes del 16 de mayo."
+      },
+      {
+        "enunciado": "¿Cuál es la fecha de finalización ordinaria del Plan de Temperaturas Excesivas en Andalucía?",
+        "opciones": ["15 de septiembre", "30 de septiembre", "1 de octubre", "15 de octubre"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El Plan finaliza oficialmente el 30 de septiembre."
+      },
+      {
+        "enunciado": "El periodo de seguimiento tras el cierre oficial del Plan de Temperaturas Excesivas comprende:",
+        "opciones": ["Del 1 al 31 de octubre", "Del 30 de septiembre al 15 de octubre", "Del 1 al 15 de octubre", "Del 15 al 31 de octubre"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El seguimiento posterior al cierre del Plan se realiza del 1 al 15 de octubre por si es necesaria una reactivación."
+      },
+      {
+        "enunciado": "El criterio de flexibilidad en el Plan de Temperaturas Excesivas implica que:",
+        "opciones": ["Se activará automáticamente desde el 1 de mayo", "Permite adelantar o extender el Plan según condiciones climáticas", "El Plan puede interrumpirse por decisión local", "Solo aplica en zonas urbanas"],
+        "correcta": 1,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El Plan puede activarse fuera de las fechas oficiales si se detecta riesgo en el seguimiento previo o posterior."
+      },
+      {
+        "enunciado": "El periodo ordinario de activación del Plan de Temperaturas Excesivas comienza el día:",
+        "opciones": ["1 de mayo", "15 de mayo", "16 de mayo", "1 de junio"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "La activación oficial comienza el 16 de mayo."
+      },
+      {
+        "enunciado": "¿Cuál es la duración total del periodo oficial de activación del Plan de Temperaturas Excesivas, en meses completos?",
+        "opciones": ["Junio, julio y agosto", "Junio a septiembre", "Mayo a septiembre", "Mayo a octubre"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El periodo completo va del 16 de mayo al 30 de septiembre."
+      },
+      {
+        "enunciado": "La activación del Plan de Temperaturas Excesivas fuera del periodo oficial puede realizarse si:",
+        "opciones": ["La media térmica supera 25 °C durante una semana", "El número de hospitalizaciones aumenta", "Las temperaturas extremas se mantienen durante el seguimiento del 1 al 15 de mayo u octubre", "Lo solicita cualquier profesional sanitario"],
+        "correcta": 2,
+        "categorías": ["tema116", "altastemp_grupos"],
+        "feedback": "El seguimiento térmico en esos periodos permite activar el Plan de forma extraordinaria si hay riesgo."
       }
-                  
 
 ]

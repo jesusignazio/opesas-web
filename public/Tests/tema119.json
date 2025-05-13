@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "Según la escalera del dolor de la OMS, el tratamiento inicial del dolor leve comienza con:",
+        "opciones": ["Opioides menores", "Antiinflamatorios no esteroideos", "Morfina", "Coadyuvantes ansiolíticos"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El primer escalón incluye analgésicos no opioides como AINEs y paracetamol."
+      },
+      {
+        "enunciado": "En el segundo escalón de la escalera del dolor de la OMS se recomienda:",
+        "opciones": ["Opioides mayores como morfina", "Corticoides", "Opioides menores combinados con no opioides", "Anestesia regional"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El segundo escalón incluye opioides débiles como tramadol + AINEs o paracetamol."
+      },
+      {
+        "enunciado": "El tercer escalón de la escalera analgésica de la OMS contempla el uso de:",
+        "opciones": ["Antidepresivos tricíclicos", "Opioides mayores", "Paracetamol en monoterapia", "Analgésicos tópicos"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Tercer escalón: opioides potentes como morfina o fentanilo, combinados con no opioides."
+      },
+      {
+        "enunciado": "Un paciente con dolor oncológico intenso debe iniciar tratamiento en la escalera del dolor por:",
+        "opciones": ["Primer escalón", "Segundo escalón", "Escalón correspondiente a la intensidad del dolor", "Escalón previo siempre"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La OMS permite comenzar directamente en el escalón correspondiente al nivel de dolor."
+      },
+      {
+        "enunciado": "En la escalera de la OMS, los coadyuvantes pueden usarse:",
+        "opciones": ["Solo en el primer escalón", "Únicamente con opioides mayores", "En cualquiera de los escalones", "Exclusivamente en dolor neuropático"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Los coadyuvantes pueden acompañar cualquier nivel de tratamiento para potenciar el efecto analgésico."
+      },
+      {
+        "enunciado": "Según la OMS, un opioide menor utilizado en el segundo escalón sería:",
+        "opciones": ["Tramadol", "Fentanilo", "Ibuprofeno", "Amitriptilina"],
+        "correcta": 0,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Tramadol es un opioide débil utilizado en el segundo escalón."
+      },
+      {
+        "enunciado": "La escalera del dolor de la OMS está diseñada originalmente para el tratamiento del dolor:",
+        "opciones": ["Agudo posquirúrgico", "Crónico no oncológico", "Oncológico", "Neuropático exclusivo"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La escalera analgésica de la OMS fue diseñada inicialmente para el dolor oncológico."
+      },
+      {
+        "enunciado": "La inclusión de coadyuvantes como antidepresivos o antiepilépticos en la escalera del dolor se justifica por:",
+        "opciones": ["Reducción de efectos adversos", "Tratamiento específico de dolor neuropático", "Mejor absorción de opioides", "Efecto sedante en todos los tipos de dolor"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Los coadyuvantes están indicados especialmente en dolor con componente neuropático."
+      },
+      {
+        "enunciado": "Según la escalera del dolor de la OMS, ¿qué opción es incorrecta?",
+        "opciones": ["Permite subir o bajar de escalón según respuesta", "Incluye coadyuvantes desde el primer escalón", "Debe aplicarse progresivamente siempre desde el primer nivel", "Puede combinar opioides con no opioides en todos los niveles"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La escalera permite iniciar en cualquier escalón según el nivel de dolor, no es obligatorio seguirla secuencialmente."
+      },
+      {
+        "enunciado": "En la escalera del dolor, un AINE como el ibuprofeno estaría indicado en:",
+        "opciones": ["Primer escalón", "Segundo escalón", "Tercer escalón", "Solo en combinación con coadyuvantes"],
+        "correcta": 0,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Los AINEs forman parte del primer escalón de la escalera analgésica de la OMS."
+      },
+      {
+        "enunciado": "Según la OMS, en la escalera del dolor, el paso del segundo al tercer escalón está indicado cuando:",
+        "opciones": ["El paciente presenta efectos adversos leves", "El dolor persiste o aumenta pese a opioides menores", "El paciente tiene antecedentes de abuso de sustancias", "Se completa una semana de tratamiento en el segundo escalón"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El paso de escalón se basa en la falta de control del dolor, no en el tiempo."
+      },
+      {
+        "enunciado": "En la escalera de la OMS, ¿cuál de los siguientes se considera un coadyuvante?",
+        "opciones": ["Paracetamol", "Morfina", "Gabapentina", "Codeína"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Gabapentina es un coadyuvante útil para dolor neuropático."
+      },
+      {
+        "enunciado": "El uso de morfina como parte de la escalera del dolor de la OMS se corresponde con:",
+        "opciones": ["Primer escalón", "Segundo escalón", "Tercer escalón", "Escalón adicional no contemplado"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La morfina es un opioide mayor, indicado en el tercer escalón."
+      },
+      {
+        "enunciado": "Según la OMS, el objetivo principal de la escalera del dolor es:",
+        "opciones": ["Eliminar completamente el dolor en todos los casos", "Aumentar progresivamente la sedación", "Controlar el dolor de forma eficaz y escalonada", "Reducir el uso de fármacos antineoplásicos"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El objetivo es aliviar el dolor eficazmente con la mínima medicación necesaria."
+      },
+      {
+        "enunciado": "En la escalera del dolor de la OMS, ¿qué tipo de fármacos forman parte del primer escalón?",
+        "opciones": ["Opioides potentes", "Opioides débiles", "Antiinflamatorios y analgésicos no opioides", "Anestésicos locales"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Primer escalón: AINEs, paracetamol y otros no opioides."
+      },
+      {
+        "enunciado": "¿Qué característica define la estrategia de la OMS frente al dolor?",
+        "opciones": ["Tratar el dolor exclusivamente con opioides", "Basarse en la intensidad del dolor y usar combinación racional", "Rotar fármacos cada 3 días", "Evitar combinaciones farmacológicas"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El tratamiento se adapta a la intensidad del dolor y permite combinaciones adecuadas."
+      },
+      {
+        "enunciado": "Un paciente con dolor leve-moderado que no responde a AINEs debería pasar a:",
+        "opciones": ["Escalón 2 con opioide menor", "Escalón 3 con morfina", "Coadyuvante sin cambiar escalón", "Sedación paliativa"],
+        "correcta": 0,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El siguiente paso sería un opioide débil como tramadol o codeína."
+      },
+      {
+        "enunciado": "La OMS sugiere que el uso de coadyuvantes se considera útil para:",
+        "opciones": ["Potenciar analgesia, tratar síntomas asociados y dolor neuropático", "Reemplazar opioides", "Prevenir efectos secundarios", "Evitar tolerancia farmacológica"],
+        "correcta": 0,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Los coadyuvantes cumplen funciones complementarias importantes."
+      },
+      {
+        "enunciado": "En la escalera de la OMS, ¿cuál de los siguientes fármacos sería apropiado en el segundo escalón?",
+        "opciones": ["Fentanilo", "Codeína", "Ibuprofeno", "Amitriptilina"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Codeína es un opioide débil, incluido en el segundo escalón."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la escalera analgésica de la OMS es correcta?",
+        "opciones": ["Solo debe aplicarse en dolor oncológico", "Permite iniciar tratamiento en cualquier escalón según el dolor", "Los escalones se aplican de forma estricta en orden ascendente", "No contempla el uso conjunto de opioides y no opioides"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La escalera es flexible y permite comenzar en cualquier nivel según intensidad del dolor."
+      },
+      {
+        "enunciado": "En la escalera del dolor de la OMS, ¿qué combinación terapéutica es propia del segundo escalón?",
+        "opciones": ["Paracetamol + ibuprofeno", "Morfina + gabapentina", "Codeína + paracetamol", "Fentanilo + corticoide"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El segundo escalón combina un opioide menor (como codeína) con un no opioide."
+      },
+      {
+        "enunciado": "En el tercer escalón de la OMS, el tratamiento de elección para dolor intenso es:",
+        "opciones": ["Paracetamol en altas dosis", "Opioide mayor como morfina", "Gabapentina en monoterapia", "Codeína con ibuprofeno"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Morfina y otros opioides mayores se utilizan en el tercer escalón para dolor intenso."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una ventaja de la escalera analgésica de la OMS?",
+        "opciones": ["Evita el uso de opioides en todos los casos", "Propone una progresión clara y adaptable del tratamiento", "Solo es útil en dolor postoperatorio", "Excluye medicamentos coadyuvantes"],
+        "correcta": 1,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "La escalera ofrece una estrategia flexible basada en la intensidad del dolor."
+      },
+      {
+        "enunciado": "El uso de fármacos como amitriptilina o pregabalina en el manejo del dolor indica:",
+        "opciones": ["Uso de opioides mayores", "Tratamiento de dolor visceral", "Manejo de dolor neuropático con coadyuvantes", "Paso obligatorio al tercer escalón"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Los coadyuvantes son clave en dolor neuropático y pueden combinarse en cualquier escalón."
+      },
+      {
+        "enunciado": "Un paciente con dolor moderado por cáncer, sin control con AINEs, debe recibir:",
+        "opciones": ["Fentanilo", "Amitriptilina", "Tramadol + paracetamol", "Solo paracetamol a dosis máxima"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Segundo escalón: opioide menor (tramadol) más no opioide como paracetamol."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes no es una indicación formal de coadyuvantes en la escalera del dolor?",
+        "opciones": ["Dolor neuropático", "Ansiedad asociada al dolor", "Dolor óseo metastásico", "Dolor somático leve sin comorbilidades"],
+        "correcta": 3,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El dolor somático leve suele tratarse con analgésicos simples, sin necesidad de coadyuvantes."
+      },
+      {
+        "enunciado": "Según la OMS, ¿qué principio debe guiar el uso de la escalera analgésica?",
+        "opciones": ["Administrar la menor dosis posible de opioides", "Escalar progresivamente sin posibilidad de retroceso", "Individualizar según la intensidad y tipo de dolor", "Tratar solo con no opioides hasta agotar alternativas"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El tratamiento debe adaptarse a cada paciente según tipo, intensidad y evolución del dolor."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO corresponde a un medicamento del primer escalón?",
+        "opciones": ["Ibuprofeno", "Paracetamol", "Tramadol", "Metamizol"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Tramadol es un opioide menor, propio del segundo escalón."
+      },
+      {
+        "enunciado": "El tratamiento de dolor oncológico severo con opioides mayores corresponde a:",
+        "opciones": ["Primer escalón", "Segundo escalón", "Tercer escalón", "Fuera de la escalera OMS"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "El tercer escalón está indicado para dolor intenso, con opioides mayores como morfina o fentanilo."
+      },
+      {
+        "enunciado": "En la estrategia de la OMS, ¿cuál de los siguientes es un coadyuvante útil en dolor con componente depresivo?",
+        "opciones": ["Ibuprofeno", "Tramadol", "Amitriptilina", "Morfina"],
+        "correcta": 2,
+        "categorías": ["tema119", "dolor_oms"],
+        "feedback": "Amitriptilina es un antidepresivo tricíclico útil como coadyuvante en dolor con componente emocional o neuropático."
+      }
+              
+]
