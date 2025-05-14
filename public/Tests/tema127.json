@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "La tasa de natalidad se define como:",
+        "opciones": ["Número de nacidos vivos por cada 1.000 mujeres en edad fértil", "Número de nacidos vivos por cada 1.000 habitantes", "Número de embarazos por cada 100 mujeres fértiles", "Número total de nacimientos dividido entre la población infantil"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de natalidad: número de nacidos vivos por cada 1.000 habitantes en un año."
+      },
+      {
+        "enunciado": "La tasa de fecundidad general se refiere a:",
+        "opciones": ["Nacimientos por cada 1.000 habitantes", "Nacimientos por cada 1.000 mujeres de 15 a 49 años", "Nacimientos por cada 100 mujeres en edad fértil", "Nacimientos por cada 10.000 mujeres"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de fecundidad general: número de nacidos vivos por cada 1.000 mujeres en edad fértil (15-49 años)."
+      },
+      {
+        "enunciado": "La tasa de mortalidad bruta mide:",
+        "opciones": ["Defunciones por cada 1.000 habitantes", "Muertes infantiles por cada 1.000 nacidos vivos", "Muertes maternas por cada 100.000 nacimientos", "Defunciones en mayores de 65 años por cada 1.000 personas mayores"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de mortalidad bruta: número total de defunciones por cada 1.000 habitantes en un año."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores está ajustado al grupo de edad reproductiva?",
+        "opciones": ["Tasa de natalidad", "Tasa de fecundidad general", "Tasa de mortalidad infantil", "Esperanza de vida al nacer"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "La tasa de fecundidad general se ajusta a mujeres de 15 a 49 años (edad fértil)."
+      },
+      {
+        "enunciado": "La tasa de mortalidad infantil se calcula como:",
+        "opciones": ["Número de muertes en menores de 5 años por cada 1.000 habitantes", "Muertes en menores de 1 año por cada 1.000 nacidos vivos", "Muertes por causas infecciosas en menores de edad", "Muertes por cada 100.000 niños en edad escolar"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de mortalidad infantil: defunciones en menores de 1 año por cada 1.000 nacidos vivos."
+      },
+      {
+        "enunciado": "La esperanza de vida al nacer representa:",
+        "opciones": ["Edad promedio de defunción", "Edad máxima alcanzada por la población", "Media de años que se espera que viva una persona al nacer", "Duración de vida útil de una cohorte reproductiva"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Esperanza de vida al nacer: media de años que se espera que viva un recién nacido según condiciones actuales de mortalidad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes indicadores refleja mejor el envejecimiento de la población?",
+        "opciones": ["Tasa de fecundidad", "Esperanza de vida", "Índice de dependencia", "Tasa de mortalidad infantil"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "El índice de dependencia compara población dependiente (jóvenes y mayores) con la población activa."
+      },
+      {
+        "enunciado": "Si una población tiene una alta tasa de fecundidad y una alta mortalidad infantil, esto sugiere:",
+        "opciones": ["Transición demográfica avanzada", "Alta tasa de crecimiento natural", "Disminución de esperanza de vida", "Descenso de tasa de natalidad"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Alta fecundidad + alta mortalidad infantil: suele generar alto crecimiento natural en fases tempranas de la transición demográfica."
+      },
+      {
+        "enunciado": "La tasa bruta de reproducción estima:",
+        "opciones": ["El número de hijas que tendría una mujer durante toda su vida fértil", "El número total de nacimientos esperados en un año", "La proporción de mujeres fértiles en la población", "La edad media de maternidad"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa bruta de reproducción: estima el número de hijas que tendría una mujer durante su vida fértil, asumiendo tasas constantes."
+      },
+      {
+        "enunciado": "La diferencia entre la tasa de natalidad y la tasa de mortalidad bruta genera:",
+        "opciones": ["La tasa de fecundidad", "El crecimiento natural de la población", "La migración neta", "El índice de envejecimiento"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Crecimiento natural = tasa de natalidad – tasa de mortalidad bruta."
+      },
+      {
+        "enunciado": "La tasa de mortalidad materna se define como:",
+        "opciones": ["Muertes de mujeres embarazadas por cada 10.000 mujeres fértiles", "Muertes maternas por causas relacionadas con el embarazo por cada 100.000 nacidos vivos", "Muertes maternas por cada 1.000 partos", "Muertes fetales por cada 100.000 gestantes"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de mortalidad materna: muertes por causas relacionadas con el embarazo, parto o puerperio por cada 100.000 nacidos vivos."
+      },
+      {
+        "enunciado": "La razón de masculinidad al nacer representa:",
+        "opciones": ["Proporción de hombres sobre mujeres en edad fértil", "Relación entre nacidos vivos varones y mujeres", "Índice de longevidad masculina", "Porcentaje de hombres mayores de 65 años"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Razón de masculinidad: relación entre nacidos vivos varones y mujeres (suele expresarse por cada 100 mujeres)."
+      },
+      {
+        "enunciado": "El índice de envejecimiento se calcula como:",
+        "opciones": ["Relación entre mayores de 65 años y menores de 15 años", "Relación entre población activa y dependiente", "Relación entre mayores de 80 años y población total", "Relación entre población jubilada y total de adultos"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Índice de envejecimiento: proporción de personas ≥65 años respecto a menores de 15 años."
+      },
+      {
+        "enunciado": "La esperanza de vida saludable estima:",
+        "opciones": ["Los años que vivirá una persona con enfermedad crónica", "Los años de vida libres de discapacidad o limitaciones importantes", "La edad media de inicio de dependencia", "Los años en buena salud tras la jubilación"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Esperanza de vida saludable: número medio de años que se espera vivir sin discapacidad o enfermedad limitante."
+      },
+      {
+        "enunciado": "El índice de dependencia mide:",
+        "opciones": ["La cantidad de personas con discapacidad", "La carga económica de los dependientes sobre la población activa", "El número de mayores institucionalizados", "La necesidad de asistencia domiciliaria"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Índice de dependencia: relación entre población dependiente (0-14 y ≥65) y población en edad laboral (15-64)."
+      },
+      {
+        "enunciado": "¿Qué indicador refleja la carga sanitaria por maternidad en un país?",
+        "opciones": ["Tasa de fecundidad", "Tasa de mortalidad materna", "Índice de dependencia", "Esperanza de vida saludable"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "La tasa de mortalidad materna refleja las muertes asociadas al embarazo, parto y puerperio."
+      },
+      {
+        "enunciado": "Un país con baja tasa de natalidad, alta esperanza de vida y alto índice de envejecimiento presenta probablemente:",
+        "opciones": ["Transición demográfica avanzada", "Alta fecundidad", "Alta carga de mortalidad infantil", "Crecimiento natural acelerado"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Estos indicadores reflejan un país en etapa avanzada de transición demográfica."
+      },
+      {
+        "enunciado": "La tasa de mortalidad neonatal incluye muertes que ocurren:",
+        "opciones": ["En los primeros 28 días de vida", "En el primer año de vida", "En el primer trimestre", "Durante el parto exclusivamente"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Mortalidad neonatal: muertes de recién nacidos en los primeros 28 días de vida."
+      },
+      {
+        "enunciado": "El número medio de hijos por mujer durante su vida fértil se denomina:",
+        "opciones": ["Tasa de fecundidad general", "Índice sintético de fecundidad", "Razón de natalidad", "Tasa de reproducción bruta"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Índice sintético de fecundidad: promedio de hijos que tendría una mujer durante su vida reproductiva."
+      },
+      {
+        "enunciado": "La tasa global de mortalidad considera:",
+        "opciones": ["Solo la población mayor de 65 años", "El total de defunciones por cada 1.000 habitantes", "Solo las muertes por enfermedades transmisibles", "Solo los fallecimientos hospitalarios"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa global o bruta de mortalidad: total de defunciones por cada 1.000 habitantes."
+      },
+      {
+        "enunciado": "Cuando en una población el índice de dependencia aumenta progresivamente, esto indica:",
+        "opciones": ["Aumento del número de nacimientos", "Reducción de la esperanza de vida", "Mayor carga sobre la población activa", "Disminución de la tasa de fecundidad adolescente"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Un índice de dependencia alto implica mayor proporción de personas no activas respecto a las activas laboralmente."
+      },
+      {
+        "enunciado": "El indicador que mide específicamente la proporción de personas ≥65 años respecto a la población total es:",
+        "opciones": ["Índice de envejecimiento", "Índice de longevidad", "Tasa de mortalidad en ancianos", "Índice de dependencia global"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Índice de envejecimiento: mide el peso de los mayores de 65 años en el conjunto de la población."
+      },
+      {
+        "enunciado": "Una alta tasa de fecundidad y baja esperanza de vida al nacer es característica de:",
+        "opciones": ["Países desarrollados", "Poblaciones en transición avanzada", "Países en vías de desarrollo", "Sociedades postindustriales"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Países en vías de desarrollo suelen presentar estas características demográficas."
+      },
+      {
+        "enunciado": "La tasa de fecundidad adolescente considera nacimientos en mujeres de:",
+        "opciones": ["10 a 14 años", "12 a 18 años", "15 a 19 años", "15 a 24 años"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa de fecundidad adolescente: nacimientos por cada 1.000 mujeres de 15 a 19 años."
+      },
+      {
+        "enunciado": "Un índice sintético de fecundidad igual a 2,1 se considera:",
+        "opciones": ["Tasa de fecundidad adolescente", "Nivel de reemplazo generacional", "Indicador de envejecimiento poblacional", "Riesgo de sobrepoblación"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Un valor de 2,1 hijos por mujer garantiza, en términos generales, el reemplazo generacional."
+      },
+      {
+        "enunciado": "La diferencia entre la tasa bruta y la neta de reproducción es que la neta:",
+        "opciones": ["Incluye la mortalidad materna", "Considera solo hijas mujeres", "Tiene en cuenta la mortalidad femenina durante la edad fértil", "Es un porcentaje de la bruta"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "La tasa neta de reproducción descuenta las muertes que ocurren antes de finalizar la edad fértil."
+      },
+      {
+        "enunciado": "La tasa de mortalidad postneonatal mide las muertes ocurridas:",
+        "opciones": ["Durante el primer mes", "Entre el primer y quinto año de vida", "Del día 29 al día 365 de vida", "En menores de 6 meses"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Mortalidad postneonatal: del día 29 al 365 de vida (es decir, tras la etapa neonatal)."
+      },
+      {
+        "enunciado": "Una razón de masculinidad mayor de 105 indica que:",
+        "opciones": ["Nacen más niñas que niños", "Se espera una mayor longevidad femenina", "Hay más varones nacidos vivos que mujeres", "El índice de fecundidad es alto"],
+        "correcta": 2,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Una razón >100 indica que nacen más niños varones que niñas (lo fisiológicamente habitual)."
+      },
+      {
+        "enunciado": "La tasa global de fecundidad refleja:",
+        "opciones": ["Número de partos por cada 1.000 habitantes", "Número de hijos por mujer al final de su vida fértil", "Relación entre mujeres fértiles y población total", "Nacimientos por cada 100 mujeres entre 20 y 35 años"],
+        "correcta": 1,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "Tasa global o índice sintético de fecundidad: hijos por mujer a lo largo de su vida reproductiva."
+      },
+      {
+        "enunciado": "La mortalidad general ajustada por edad se utiliza para:",
+        "opciones": ["Comparar poblaciones con estructuras de edad diferentes", "Estimar el crecimiento natural", "Evaluar la fecundidad según grupos etarios", "Analizar la esperanza de vida sin sesgos"],
+        "correcta": 0,
+        "categorías": ["tema127", "indicadores_demograficos"],
+        "feedback": "La tasa ajustada por edad permite comparaciones entre poblaciones con distinta pirámide demográfica."
+      }
+      
+]

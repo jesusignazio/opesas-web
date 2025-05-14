@@ -1,0 +1,212 @@
+[
+    {
+        "enunciado": "¿Qué colectivo está específicamente reconocido como beneficiario de la Tarjeta +Cuidado?",
+        "opciones": ["Personas cuidadoras de pacientes oncológicos terminales", "Personas cuidadoras habituales de pacientes con demencia o gran discapacidad", "Cuidadores institucionales en centros residenciales", "Personal sanitario con pacientes a su cargo"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La Tarjeta +Cuidado está dirigida a personas cuidadoras habituales de pacientes con demencia o gran discapacidad."
+      },
+      {
+        "enunciado": "Una de las funciones de la Tarjeta +Cuidado es:",
+        "opciones": ["Facilitar el acceso a subvenciones económicas", "Priorizar la vacunación antigripal", "Mejorar la accesibilidad y atención sanitaria personalizada", "Garantizar habitación individual en hospitalización"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "La Tarjeta +Cuidado mejora la atención y accesibilidad de pacientes y cuidadores en el sistema sanitario."
+      },
+      {
+        "enunciado": "Según el Plan de Atención a Cuidadoras Familiares, ¿qué profesional realiza la valoración de la persona cuidadora?",
+        "opciones": ["El médico de familia", "La enfermera comunitaria de enlace o la enfermera de familia", "El trabajador social", "El personal administrativo del centro de salud"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La valoración de la persona cuidadora corresponde a la enfermera de familia o de enlace."
+      },
+      {
+        "enunciado": "¿Qué característica define a una persona cuidadora habitual según el Plan andaluz?",
+        "opciones": ["Ser profesional sanitario en activo", "Convivir con el paciente o estar más de 10 horas diarias en su domicilio", "Tener vínculo legal de dependencia reconocida", "Percibir remuneración por los cuidados"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La persona cuidadora habitual es quien convive con el paciente o dedica más de 10 horas diarias a su atención."
+      },
+      {
+        "enunciado": "¿Qué órgano del centro de salud decide la aprobación final para otorgar la Tarjeta +Cuidado?",
+        "opciones": ["El médico de familia", "La dirección del distrito sanitario", "La comisión de evaluación del centro", "La Junta de Gobierno del SAS"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "La comisión de evaluación del centro, compuesta por dirección, enfermera de enlace y trabajadora social, decide sobre la aprobación."
+      },
+      {
+        "enunciado": "Entre las medidas asociadas a la Tarjeta +Cuidado NO se encuentra:",
+        "opciones": ["Facilitar acompañamiento durante pruebas complementarias", "Atención personalizada en urgencias", "Acceso a recetas electrónicas sin cita previa", "Facilitar material de apoyo en domicilio"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "El acceso a recetas sin cita previa no es una medida recogida dentro de la Tarjeta +Cuidado."
+      },
+      {
+        "enunciado": "¿En qué niveles asistenciales se mejora la atención gracias a la Tarjeta +Cuidado?",
+        "opciones": ["Atención Primaria, Urgencias y Hospitalización", "Sólo en Atención Primaria", "Sólo en centros sociosanitarios", "Exclusivamente en domicilios"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "La mejora de la atención incluye Atención Primaria, Urgencias y Hospitalización."
+      },
+      {
+        "enunciado": "¿Qué implica la personalización de la atención dentro del marco de la Tarjeta +Cuidado?",
+        "opciones": ["Asignación de un profesional de referencia", "Acceso directo al historial clínico", "Consulta exclusiva con especialista", "Visitas domiciliarias diarias por parte del personal médico"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "La personalización se traduce en la asignación de profesionales de referencia para el paciente y su cuidador."
+      },
+      {
+        "enunciado": "Una de las finalidades de la Tarjeta +Cuidado es:",
+        "opciones": ["Detectar a tiempo la sobrecarga del cuidador", "Identificar a los cuidadores remunerados", "Garantizar la cobertura económica de cuidados", "Aplicar medidas de discriminación positiva en el acceso sanitario"],
+        "correcta": 3,
+        "categorías": ["tema142"],
+        "feedback": "Busca mejorar la accesibilidad y atención mediante discriminación positiva por la situación del cuidador."
+      },
+      {
+        "enunciado": "La valoración de las personas cuidadoras se realiza una vez que:",
+        "opciones": ["El paciente ha sido valorado y diagnosticado de demencia o gran discapacidad", "Se recibe solicitud de cita en trabajo social", "El cuidador lo solicita de forma espontánea", "El centro hospitalario emite un informe clínico"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "La valoración de la persona cuidadora se inicia tras el diagnóstico o identificación de deterioro del paciente."
+      },
+      {
+        "enunciado": "Una vez aprobada la inclusión en la Tarjeta +Cuidado, ¿qué ocurre a nivel administrativo?",
+        "opciones": ["Se informa a la Delegación Territorial", "Se notifica al cuidador por carta certificada", "Se da de alta al cuidador en la aplicación informática y se emite la tarjeta", "Se registra la solicitud en el libro oficial del centro"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "El alta se realiza en la aplicación informática específica y se emite la tarjeta correspondiente."
+      },
+      {
+        "enunciado": "Entre las medidas hospitalarias que contempla la Tarjeta +Cuidado se incluye:",
+        "opciones": ["Privacidad reforzada para el cuidador", "Acompañamiento del cuidador durante estancias hospitalarias", "Ingreso del cuidador junto al paciente", "Estancia limitada del cuidador a turnos de 4 horas"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La tarjeta reconoce el acompañamiento familiar durante toda la estancia hospitalaria y pruebas."
+      },
+      {
+        "enunciado": "¿Qué instrumento estratégico recoge las medidas vinculadas a la Tarjeta +Cuidado?",
+        "opciones": ["Plan Andaluz de Cuidados Domiciliarios", "Plan de Atención a Cuidadoras Familiares de Andalucía", "Plan de Discapacidad y Dependencia del SAS", "Plan de Apoyo a la Familia en Riesgo Social"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "Las medidas provienen del Plan de Atención a Cuidadoras Familiares de Andalucía."
+      },
+      {
+        "enunciado": "¿Qué finalidad tiene la Tarjeta +Cuidado respecto al acompañamiento en urgencias?",
+        "opciones": ["Permitir la entrada sólo en turnos de mañana", "Facilitar el acompañamiento del paciente, incluso durante pruebas complementarias", "Sustituir al personal sanitario durante los cuidados", "Restringir el acceso a pacientes con alteraciones cognitivas"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "Se contempla el acompañamiento del cuidador incluso durante la realización de pruebas."
+      },
+      {
+        "enunciado": "Para acceder a la Tarjeta +Cuidado, el paciente con demencia debe ser incluido en:",
+        "opciones": ["El Registro de Enfermedades Neurológicas", "El Proceso Asistencial Demencias", "El Plan Integral de Mayores", "El Proceso de Discapacidad Moderada"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "El paso previo a la valoración del cuidador es la inclusión del paciente en el Proceso Asistencial Demencias."
+      },
+      {
+        "enunciado": "¿Quiénes forman parte de la comisión de evaluación encargada de aprobar la Tarjeta +Cuidado?",
+        "opciones": ["Dirección del centro, personal administrativo y médico de urgencias", "Equipo directivo, enfermera comunitaria de enlace y trabajadora social", "Médico de familia, pediatra y farmacéutico", "Consejo de salud del centro y Junta de Distrito"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La comisión evaluadora incluye dirección del centro, enfermería comunitaria de enlace y trabajo social."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto al uso de la Tarjeta +Cuidado?",
+        "opciones": ["Sólo es válida en urgencias hospitalarias", "Su validez es temporal y se renueva anualmente", "Permite el acceso prioritario a atención primaria y hospitalaria", "Sólo se aplica en pacientes con Alzheimer"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "Mejora el acceso al sistema sanitario en diferentes niveles asistenciales, no sólo en urgencias."
+      },
+      {
+        "enunciado": "¿Qué debe ocurrir antes de la emisión de la Tarjeta +Cuidado?",
+        "opciones": ["Firma del consentimiento por parte del paciente", "Solicitud expresa del cuidador por escrito", "Valoración de la situación por la comisión del centro", "Alta del paciente en la base de datos de dependencia"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "La tarjeta se emite una vez aprobada la inclusión por la comisión de evaluación del centro."
+      },
+      {
+        "enunciado": "¿Qué elemento NO forma parte del proceso de inclusión en la Tarjeta +Cuidado?",
+        "opciones": ["Valoración del paciente", "Valoración del cuidador", "Aprobación por la comisión", "Informe del especialista hospitalario obligatorio"],
+        "correcta": 3,
+        "categorías": ["tema142"],
+        "feedback": "El informe del especialista no es requisito; la inclusión se decide en el centro de salud."
+      },
+      {
+        "enunciado": "¿Qué criterio debe cumplir la persona cuidadora para ser considerada habitual?",
+        "opciones": ["Tener un contrato de cuidado registrado", "No estar trabajando en el sistema sanitario", "Asumir el cuidado de forma permanente y pasar más de 10 horas diarias con el paciente", "Poseer formación específica en demencias"],
+        "correcta": 2,
+        "categorías": ["tema142"],
+        "feedback": "La persona cuidadora habitual es aquella que asume el cuidado de forma estable y diaria."
+      },
+      {
+        "enunciado": "¿Dónde se recogen formalmente las medidas asociadas a la Tarjeta +Cuidado?",
+        "opciones": ["Estrategia de Cuidados Paliativos de Andalucía", "Plan de Atención a Cuidadoras Familiares de Andalucía", "Plan Integral de Alzheimer de España", "Plan Andaluz de Humanización Sanitaria"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "Todas las medidas están recogidas en el Plan de Atención a Cuidadoras Familiares de Andalucía."
+      },
+      {
+        "enunciado": "La Tarjeta +Cuidado permite aplicar medidas de:",
+        "opciones": ["Acompañamiento profesional domiciliario", "Discriminación positiva en el acceso sanitario", "Control clínico automático desde historia digital", "Reducción de tratamientos farmacológicos en demencias"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La finalidad principal es establecer medidas de discriminación positiva para mejorar la atención sanitaria."
+      },
+      {
+        "enunciado": "La Tarjeta +Cuidado está dirigida específicamente a personas cuidadoras de:",
+        "opciones": ["Personas con Alzheimer, otras demencias y gran discapacidad", "Menores de edad con enfermedades crónicas", "Personas institucionalizadas en centros sociosanitarios", "Pacientes oncológicos terminales exclusivamente"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "Está orientada a cuidadores habituales de pacientes con demencias (cualquier tipo) y grandes discapacidades."
+      },
+      {
+        "enunciado": "¿Qué nivel asistencial está incluido en la mejora de atención contemplada por la Tarjeta +Cuidado?",
+        "opciones": ["Atención Primaria", "Hospitalización", "Urgencias", "Todas las anteriores"],
+        "correcta": 3,
+        "categorías": ["tema142"],
+        "feedback": "Las mejoras afectan a Atención Primaria, Urgencias y Hospitalización."
+      },
+      {
+        "enunciado": "Entre los beneficios asociados a la Tarjeta +Cuidado se encuentra:",
+        "opciones": ["Acompañamiento del cuidador durante pruebas diagnósticas", "Tramitación preferente de ayudas económicas", "Consulta prioritaria en atención especializada", "Exención del pago de fármacos crónicos"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "Se reconoce el acompañamiento del cuidador incluso durante pruebas complementarias."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los objetivos explícitos de la Tarjeta +Cuidado en urgencias hospitalarias?",
+        "opciones": ["Reducir el número de pruebas innecesarias", "Prevenir el síndrome confusional", "Limitar el acceso de cuidadores a las zonas clínicas", "Dar prioridad a pacientes con dependencia leve"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "Uno de los objetivos en urgencias es prevenir el síndrome confusional, especialmente en pacientes con deterioro cognitivo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente el proceso para acceder a la Tarjeta +Cuidado?",
+        "opciones": ["Se solicita en el hospital mediante un informe neurológico", "La enfermera de familia valora al cuidador y la comisión del centro aprueba su emisión", "La emite automáticamente el sistema al detectar Alzheimer en la historia clínica", "Se otorga directamente en el momento del diagnóstico de demencia"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La valoración del cuidador por enfermería y la aprobación por parte de la comisión del centro son pasos clave."
+      },
+      {
+        "enunciado": "¿Qué profesionales forman parte de la comisión de evaluación para la Tarjeta +Cuidado?",
+        "opciones": ["Médico de familia, enfermera gestora de casos y psicólogo clínico", "Equipo directivo del centro, enfermera comunitaria de enlace y trabajadora social", "Especialista hospitalario, terapeuta ocupacional y administrativo de citas", "Solo el médico de familia junto al trabajador social del centro"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La comisión está compuesta por dirección, enfermera comunitaria de enlace y trabajadora social."
+      },
+      {
+        "enunciado": "El acompañamiento del cuidador durante la realización de pruebas complementarias está:",
+        "opciones": ["Autorizado por defecto con la Tarjeta +Cuidado", "Restringido solo a pruebas no invasivas", "Permitido solo en centros concertados", "Sujeto a aprobación del médico especialista del hospital"],
+        "correcta": 0,
+        "categorías": ["tema142"],
+        "feedback": "El uso de la Tarjeta +Cuidado incluye el derecho al acompañamiento en pruebas complementarias."
+      },
+      {
+        "enunciado": "El uso de la Tarjeta +Cuidado busca principalmente:",
+        "opciones": ["Reducir costes sanitarios", "Facilitar la intimidad y personalización de la atención", "Homogeneizar la atención a todos los pacientes", "Optimizar la rotación de camas hospitalarias"],
+        "correcta": 1,
+        "categorías": ["tema142"],
+        "feedback": "La tarjeta busca adaptar la atención a las necesidades del binomio paciente-cuidador, priorizando la personalización y la dignidad."
+      }            
+]

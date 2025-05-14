@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes drenajes actúa por gravedad?",
+        "opciones": ["Drenaje tipo Kehr", "Drenaje de Jackson-Pratt", "Drenaje tipo Redon", "Todas las respuestas anteriores son ciertas"],
+        "correcta": 0,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Kehr funciona por gravedad. Jackson-Pratt y Redon son sistemas de aspiración."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje se basa en un sistema de aspiración cerrado por presión negativa?",
+        "opciones": ["Drenaje de Penrose", "Drenaje tipo Redon", "Drenaje tipo Kehr", "Drenaje de Hemovac"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje tipo Redon utiliza presión negativa y sistema cerrado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes es pasivo y abierto?",
+        "opciones": ["Jackson-Pratt", "Penrose", "Redon", "Hemovac"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Penrose es pasivo, abierto y funciona por capilaridad y gravedad."
+      },
+      {
+        "enunciado": "El drenaje de tipo Jackson-Pratt se caracteriza por:",
+        "opciones": ["Sistema abierto y por gravedad", "Sistema cerrado con aspiración activa", "Sistema pasivo sin aspiración", "Aspiración intermitente por sifón"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "Jackson-Pratt es un sistema cerrado con succión por presión negativa (aspiración activa)."
+      },
+      {
+        "enunciado": "¿En qué localización anatómica se suele colocar un drenaje tipo Kehr?",
+        "opciones": ["Recto", "Colon", "Vía biliar", "Vesícula"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje en T de Kehr se coloca habitualmente en la vía biliar tras cirugía."
+      },
+      {
+        "enunciado": "¿Qué drenaje está especialmente indicado tras una colecistectomía con exploración de vía biliar?",
+        "opciones": ["Redon", "Penrose", "Kehr", "Hemovac"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Kehr es típico tras intervenciones en la vía biliar como la colecistectomía."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje es más adecuado para evitar infecciones nosocomiales?",
+        "opciones": ["Sistema abierto", "Sistema pasivo", "Sistema cerrado con aspiración", "Drenaje por capilaridad"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "Los sistemas cerrados con aspiración reducen el riesgo de infecciones al limitar el contacto con el exterior."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes se clasifica como activo?",
+        "opciones": ["Penrose", "Kehr", "Redon", "Setón"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Redon es un sistema activo que emplea presión negativa para evacuar secreciones."
+      },
+      {
+        "enunciado": "¿Qué drenaje se utiliza habitualmente para colecciones profundas o abscesos en cavidad abdominal?",
+        "opciones": ["Penrose", "Jackson-Pratt", "Setón", "Tubo rectal"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje Jackson-Pratt es adecuado para colecciones profundas por su capacidad de succión suave y continua."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes es más útil en cirugía anal para mantener abierta una fístula?",
+        "opciones": ["Redon", "Kehr", "Setón", "Penrose"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El setón se utiliza para mantener el trayecto de una fístula anal abierto y drenado."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje se asocia con mayor riesgo de infección por ser un sistema abierto?",
+        "opciones": ["Drenaje tipo Redon", "Drenaje de Penrose", "Drenaje de Jackson-Pratt", "Drenaje tipo Hemovac"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Penrose es abierto y pasivo, lo que aumenta el riesgo de contaminación externa."
+      },
+      {
+        "enunciado": "¿Qué drenaje suele usarse tras intervenciones ortopédicas como artroplastias?",
+        "opciones": ["Drenaje tipo Kehr", "Drenaje de Penrose", "Drenaje tipo Hemovac", "Drenaje en setón"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El Hemovac es un sistema cerrado con aspiración que se usa con frecuencia en cirugía ortopédica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes NO es un sistema cerrado?",
+        "opciones": ["Redon", "Jackson-Pratt", "Hemovac", "Penrose"],
+        "correcta": 3,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Penrose es un sistema abierto y pasivo, a diferencia de los otros tres."
+      },
+      {
+        "enunciado": "El principal objetivo del drenaje quirúrgico es:",
+        "opciones": ["Permitir el paso de aire a la cavidad quirúrgica", "Evitar el uso de antibióticos postoperatorios", "Favorecer la salida de líquidos y evitar acumulaciones", "Mantener la herida completamente abierta"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "Los drenajes se usan para evacuar exudado, sangre o pus y prevenir complicaciones como abscesos o dehiscencias."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones es una complicación frecuente en el uso de drenajes quirúrgicos?",
+        "opciones": ["Hipoglucemia", "Obstrucción del drenaje", "Hipotermia", "Hiperreflexia"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "La obstrucción del drenaje es una complicación común que puede anular su función evacuadora."
+      },
+      {
+        "enunciado": "¿Qué drenaje está diseñado en forma de tubo en 'T' para facilitar el flujo biliar?",
+        "opciones": ["Redon", "Penrose", "Kehr", "Hemovac"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Kehr (en T) se coloca en la vía biliar para facilitar la salida de bilis."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes funciona por presión negativa generada manualmente?",
+        "opciones": ["Penrose", "Setón", "Jackson-Pratt", "Kehr"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El Jackson-Pratt se activa comprimiendo su reservorio para generar presión negativa."
+      },
+      {
+        "enunciado": "¿En qué momento se suele retirar un drenaje quirúrgico si no hay complicaciones?",
+        "opciones": ["Al día siguiente de la intervención", "Cuando el paciente recibe el alta", "Cuando el débito es escaso y seroso", "A las 12 horas, independientemente del contenido"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "Se retira cuando el débito es bajo y de características normales (seroso, no purulento)."
+      },
+      {
+        "enunciado": "El objetivo del setón en patología anal es:",
+        "opciones": ["Evacuar pus de una cavidad abdominal", "Cerrar una herida quirúrgica", "Permitir el drenaje continuo de una fístula", "Aspirar líquido pleural"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El setón se utiliza para mantener abierta una fístula anal y facilitar su drenaje progresivo."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje utiliza un mecanismo de vacío a través de un fuelle o reservorio que se colapsa?",
+        "opciones": ["Redon", "Penrose", "Kehr", "Jackson-Pratt"],
+        "correcta": 3,
+        "categorías": ["tema135"],
+        "feedback": "El Jackson-Pratt emplea un reservorio flexible que se colapsa para generar presión negativa."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje funciona por presión negativa generada manualmente?",
+        "opciones": ["Penrose", "Kehr", "Jackson-Pratt", "Setón"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje Jackson-Pratt utiliza un reservorio que se colapsa para crear presión negativa (aspiración activa)."
+      },
+      {
+        "enunciado": "¿Qué drenaje actúa únicamente por gravedad y no tiene succión activa?",
+        "opciones": ["Kehr", "Hemovac", "Redon", "Jackson-Pratt"],
+        "correcta": 0,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje tipo Kehr es pasivo y actúa por gravedad, usado frecuentemente en vía biliar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes drenajes es pasivo y actúa por capilaridad?",
+        "opciones": ["Redon", "Penrose", "Jackson-Pratt", "Hemovac"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El Penrose es un drenaje pasivo y abierto que drena por capilaridad y gravedad."
+      },
+      {
+        "enunciado": "¿Qué drenaje utiliza un sistema de vacío continuo mediante un reservorio rígido o fuelle?",
+        "opciones": ["Hemovac", "Penrose", "Kehr", "Setón"],
+        "correcta": 0,
+        "categorías": ["tema135"],
+        "feedback": "El Hemovac genera presión negativa mediante un fuelle que succiona el contenido."
+      },
+      {
+        "enunciado": "¿Cuál de estos drenajes requiere estar conectado a un sistema de aspiración externa o vacío continuo hospitalario?",
+        "opciones": ["Penrose", "Redon", "Jackson-Pratt", "Kehr"],
+        "correcta": 1,
+        "categorías": ["tema135"],
+        "feedback": "El Redon puede conectarse a vacío continuo para mantener presión negativa constante (activo cerrado)."
+      },
+      {
+        "enunciado": "¿Qué drenaje es considerado activo y cerrado?",
+        "opciones": ["Penrose", "Kehr", "Redon", "Setón"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje de Redon es activo (presión negativa) y cerrado, lo que reduce infecciones."
+      },
+      {
+        "enunciado": "¿Cuál de estos drenajes actúa sin necesidad de vacío o succión, solo por presión hidrostática?",
+        "opciones": ["Penrose", "Jackson-Pratt", "Redon", "Hemovac"],
+        "correcta": 0,
+        "categorías": ["tema135"],
+        "feedback": "El Penrose funciona por gravedad y presión hidrostática sin ningún tipo de aspiración."
+      },
+      {
+        "enunciado": "¿Qué tipo de drenaje funciona por presión negativa generada mediante succión mecánica o eléctrica continua?",
+        "opciones": ["Kehr", "Setón", "Redon conectado a aspiración", "Penrose"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El Redon puede conectarse a succión mecánica continua para una aspiración más constante."
+      },
+      {
+        "enunciado": "El drenaje de tipo Kehr se mantiene permeable gracias a:",
+        "opciones": ["Aspiración activa intermitente", "Presión negativa continua", "Gravedad y flujo biliar", "Capilaridad controlada"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "El drenaje en T de Kehr depende del flujo de bilis y la gravedad para mantener su función."
+      },
+      {
+        "enunciado": "¿Qué característica común presentan los drenajes Redon, Hemovac y Jackson-Pratt?",
+        "opciones": ["Son drenajes abiertos", "Funcionan por capilaridad", "Son sistemas cerrados con presión negativa", "Solo se usan en cirugía digestiva"],
+        "correcta": 2,
+        "categorías": ["tema135"],
+        "feedback": "Todos ellos son drenajes cerrados que funcionan por presión negativa (activos)."
+      }
+                  
+]

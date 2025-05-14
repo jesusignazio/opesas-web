@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "¿Cuáles son los principios fundamentales de la bioética según Beauchamp y Childress?",
+        "opciones": ["Promover la salud, prevenir la enfermedad, restaurar la salud y aliviar el sufrimiento", "Beneficencia, Autonomía, Justicia y Eficiencia", "No maleficencia, Beneficencia, Autonomía y Justicia", "Beneficencia, Autonomía, Solidaridad y Equidad"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "Los cuatro principios clásicos de la bioética son: No maleficencia, Beneficencia, Autonomía y Justicia."
+      },
+      {
+        "enunciado": "¿Qué principio bioético se refiere al deber de respetar la capacidad del paciente para decidir?",
+        "opciones": ["Justicia", "Beneficencia", "Autonomía", "No maleficencia"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "El principio de autonomía implica respetar las decisiones informadas del paciente sobre su salud."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes enunciados representa el principio de no maleficencia?",
+        "opciones": ["Respetar la voluntad del paciente", "Hacer el bien al paciente", "No causar daño al paciente", "Tratar a todos por igual"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "No maleficencia significa evitar hacer daño, directa o indirectamente, al paciente."
+      },
+      {
+        "enunciado": "¿Qué principio bioético obliga a actuar buscando el mayor beneficio para el paciente?",
+        "opciones": ["Autonomía", "Justicia", "Beneficencia", "No maleficencia"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "Beneficencia implica actuar en beneficio del paciente, promoviendo su bienestar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes principios implica tratar con equidad a los pacientes, sin discriminación?",
+        "opciones": ["Justicia", "Beneficencia", "Autonomía", "No maleficencia"],
+        "correcta": 0,
+        "categorías": ["tema139"],
+        "feedback": "El principio de justicia se refiere a la distribución equitativa de recursos y trato justo en salud."
+      },
+      {
+        "enunciado": "¿Qué entendemos por ética de mínimos?",
+        "opciones": ["Conjunto de valores personales", "Normas morales compartidas por toda la sociedad", "Decisiones clínicas individuales", "Valores religiosos aplicados a la salud"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La ética de mínimos se basa en los valores éticos universales que toda sociedad debería compartir."
+      },
+      {
+        "enunciado": "La ética de máximos hace referencia a:",
+        "opciones": ["Normas legales obligatorias", "Valores universales del sistema sanitario", "Valores personales o religiosos que van más allá del deber moral común", "Códigos deontológicos médicos"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "La ética de máximos recoge ideales personales o espirituales, no exigibles universalmente."
+      },
+      {
+        "enunciado": "El consentimiento informado se basa principalmente en el principio de:",
+        "opciones": ["Justicia", "Autonomía", "No maleficencia", "Eficiencia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "El consentimiento informado es una aplicación directa del principio de autonomía del paciente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es uno de los principios clásicos de la bioética?",
+        "opciones": ["Autonomía", "Equidad", "No maleficencia", "Justicia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "Equidad no forma parte de los cuatro principios clásicos, aunque está relacionada con la justicia."
+      },
+      {
+        "enunciado": "¿En qué contexto se aplica la ética de mínimos en el ámbito sanitario?",
+        "opciones": ["En la religión del paciente", "En la gestión del dolor espiritual", "En las normas éticas básicas compartidas por todos los profesionales", "En los valores morales personales del facultativo"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "La ética de mínimos establece los principios éticos básicos compartidos y exigibles a todo profesional."
+      },
+      {
+        "enunciado": "El principio de justicia en bioética se refiere a:",
+        "opciones": ["Evitar causar daño", "Tratar al paciente según sus preferencias", "Distribuir equitativamente los recursos sanitarios", "Asegurar el máximo beneficio individual"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "Justicia: equidad en el acceso y distribución de recursos y tratamientos sanitarios."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes principios busca evitar el daño al paciente?",
+        "opciones": ["Beneficencia", "Autonomía", "No maleficencia", "Justicia"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "No maleficencia: obligación ética de no provocar daño."
+      },
+      {
+        "enunciado": "El respeto por las decisiones personales del paciente se relaciona con el principio de:",
+        "opciones": ["Beneficencia", "Autonomía", "Justicia", "No maleficencia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "Autonomía: cada individuo tiene derecho a decidir sobre su salud, tras recibir información adecuada."
+      },
+      {
+        "enunciado": "Una intervención que beneficia al paciente aunque no lo haya solicitado podría generar conflicto con el principio de:",
+        "opciones": ["Justicia", "No maleficencia", "Beneficencia", "Autonomía"],
+        "correcta": 3,
+        "categorías": ["tema139"],
+        "feedback": "Beneficiar sin respetar la voluntad del paciente puede vulnerar el principio de autonomía."
+      },
+      {
+        "enunciado": "¿Qué opción refleja un ejemplo de ética de máximos?",
+        "opciones": ["Respetar la confidencialidad del paciente", "No hacer daño al paciente", "Ofrecer cuidados paliativos respetando creencias religiosas del paciente", "No discriminar por condición económica"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "La ética de máximos incluye valores personales o trascendentes, no exigibles legalmente."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a la ética de mínimos?",
+        "opciones": ["Basada en la religión", "Opcional y personal", "Fundamento común del marco ético social", "Aplicable solo en situaciones complejas"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "La ética de mínimos representa los valores y deberes comunes exigibles en una sociedad."
+      },
+      {
+        "enunciado": "El uso racional de recursos en salud está más directamente relacionado con el principio de:",
+        "opciones": ["Beneficencia", "Justicia", "Autonomía", "Eficiencia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La justicia implica repartir equitativamente los recursos, evitando privilegios o desigualdades."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes principios puede entrar en conflicto con la beneficencia cuando el paciente rechaza un tratamiento útil?",
+        "opciones": ["Autonomía", "Justicia", "Eficiencia", "No maleficencia"],
+        "correcta": 0,
+        "categorías": ["tema139"],
+        "feedback": "El derecho del paciente a decidir puede entrar en conflicto con la intención del profesional de ayudarle (beneficencia)."
+      },
+      {
+        "enunciado": "La objeción de conciencia del profesional sanitario se basa en:",
+        "opciones": ["Ética de mínimos", "Ética de máximos", "Principio de beneficencia", "Justicia distributiva"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La objeción de conciencia pertenece a la ética de máximos, relacionada con convicciones personales."
+      },
+      {
+        "enunciado": "La confidencialidad médica es una norma ética que forma parte de:",
+        "opciones": ["Ética de máximos", "Ética de mínimos", "Eficiencia profesional", "Códigos religiosos"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La confidencialidad es parte de la ética profesional mínima, compartida y exigible."
+      },
+      {
+        "enunciado": "¿Cuáles son los principios fundamentales de la bioética según Beauchamp y Childress?",
+        "opciones": ["Autonomía, No maleficencia, Beneficencia y Justicia", "Respeto, Equidad, Eficiencia y Confidencialidad", "Solidaridad, Veracidad, Beneficencia y Autonomía", "Legalidad, Igualdad, Dignidad y Justicia"],
+        "correcta": 0,
+        "categorías": ["tema139"],
+        "feedback": "Los principios fundamentales de la bioética son: Autonomía, No maleficencia, Beneficencia y Justicia."
+      },
+      {
+        "enunciado": "¿Qué combinación refleja con mayor precisión los principios bioéticos clásicos?",
+        "opciones": ["Beneficencia, Justicia, Eficiencia y Fidelidad", "Autonomía, Justicia, Lealtad y Seguridad", "No maleficencia, Justicia, Beneficencia y Autonomía", "Confidencialidad, Veracidad, Justicia y Prudencia"],
+        "correcta": 2,
+        "categorías": ["tema139"],
+        "feedback": "Los principios bioéticos universales son: No maleficencia, Beneficencia, Autonomía y Justicia."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones recoge correctamente los pilares básicos de la bioética?",
+        "opciones": ["Legalidad, Moralidad, Prudencia y Confidencialidad", "Autonomía, Justicia, No maleficencia y Beneficencia", "Eficiencia, Solidaridad, Respeto y Justicia", "Consentimiento, Fidelidad, Equidad y Dignidad"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "Los principios básicos aceptados internacionalmente son: Autonomía, Justicia, No maleficencia y Beneficencia."
+      },
+      {
+        "enunciado": "¿Qué conjunto de valores representa los principios bioéticos fundamentales?",
+        "opciones": ["Autonomía, Compasión, Eficiencia y Justicia", "Autonomía, Beneficencia, Justicia y No maleficencia", "Empatía, Justicia, Seguridad y Equidad", "Veracidad, Autonomía, Responsabilidad y Neutralidad"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "Los principios de Beauchamp y Childress: Autonomía, Beneficencia, No maleficencia y Justicia."
+      },
+      {
+        "enunciado": "¿Cuáles son considerados principios fundamentales de la bioética?",
+        "opciones": ["Consentimiento, Equidad, No maleficencia y Justicia", "No maleficencia, Beneficencia, Autonomía y Justicia", "Confidencialidad, Justicia, Legalidad y Eficiencia", "Responsabilidad, Respeto, Solidaridad y Beneficencia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La bioética se sustenta en cuatro principios clave: No maleficencia, Beneficencia, Autonomía y Justicia."
+      },
+      {
+        "enunciado": "¿Qué grupo representa correctamente los principios de la bioética según el enfoque principialista?",
+        "opciones": ["Justicia, Respeto, Fidelidad y Seguridad", "No maleficencia, Beneficencia, Justicia y Autonomía", "Beneficencia, Igualdad, Compromiso y Legalidad", "Autonomía, Equidad, Humanidad y Eficacia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "El enfoque principialista clásico incluye: No maleficencia, Beneficencia, Autonomía y Justicia."
+      },
+      {
+        "enunciado": "¿Qué opción reúne los principios bioéticos clásicos tal y como se aplican en el ámbito clínico?",
+        "opciones": ["Autonomía, Fidelidad, Igualdad y Beneficencia", "Autonomía, Beneficencia, Justicia y No maleficencia", "Dignidad, Compasión, Justicia y Respeto", "Veracidad, Autonomía, Justicia y Seguridad"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "En el ámbito clínico, los principios éticos esenciales son: Autonomía, Beneficencia, Justicia y No maleficencia."
+      },
+      {
+        "enunciado": "En bioética, los principios que deben guiar la actuación sanitaria son:",
+        "opciones": ["Legalidad, Igualdad, Cuidado y Responsabilidad", "Autonomía, No maleficencia, Justicia y Beneficencia", "Equidad, Solidaridad, Compromiso y Empatía", "Seguridad, Respeto, Humanidad y Autonomía"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "Los cuatro pilares bioéticos clásicos son: Autonomía, No maleficencia, Beneficencia y Justicia."
+      },
+      {
+        "enunciado": "¿Qué combinación de valores corresponde al marco bioético universalmente aceptado?",
+        "opciones": ["Beneficencia, Seguridad, Fidelidad y Empatía", "Autonomía, No maleficencia, Justicia y Beneficencia", "Justicia, Respeto, Prudencia y Responsabilidad", "Consentimiento, Compasión, Fidelidad y Justicia"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "El marco bioético universal está compuesto por: Autonomía, No maleficencia, Justicia y Beneficencia."
+      },
+      {
+        "enunciado": "¿Cuáles son los principios bioéticos fundamentales que deben equilibrarse en la toma de decisiones clínicas?",
+        "opciones": ["Equidad, Compasión, Justicia y Autonomía", "Autonomía, Justicia, No maleficencia y Beneficencia", "Fidelidad, Empatía, Justicia y Autonomía", "Legalidad, Humanidad, Justicia y Dignidad"],
+        "correcta": 1,
+        "categorías": ["tema139"],
+        "feedback": "La toma de decisiones clínicas debe regirse por: Autonomía, Justicia, Beneficencia y No maleficencia."
+      }
+                  
+]

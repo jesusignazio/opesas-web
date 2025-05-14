@@ -1,141 +1,108 @@
 [
-    {
-        "enunciado": "Según el nivel de triaje, ¿cuál es el tiempo máximo recomendado para atender a un paciente de prioridad III?",
-        "opciones": ["15 minutos", "30 minutos", "60 minutos", "120 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad III: debe ser valorado en un máximo de 30 minutos."
-      },
-      {
-        "enunciado": "Un paciente clasificado como prioridad IV debe ser atendido como máximo en:",
-        "opciones": ["15 minutos", "30 minutos", "60 minutos", "90 minutos"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad IV: el tiempo máximo de espera es de 60 minutos."
-      },
-      {
-        "enunciado": "Según los criterios de triaje, ¿cuánto tiempo puede esperar un paciente de prioridad V?",
-        "opciones": ["30 minutos", "60 minutos", "90 minutos", "120 minutos"],
-        "correcta": 3,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad V: debe ser atendido en un máximo de 120 minutos."
-      },
-      {
-        "enunciado": "Un paciente de prioridad I debe ser atendido:",
-        "opciones": ["En menos de 15 minutos", "En menos de 5 minutos", "De forma inmediata", "En menos de 30 minutos"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad I: atención inmediata por gravedad vital."
-      },
-      {
-        "enunciado": "Para un paciente clasificado como prioridad II, el tiempo máximo hasta la valoración médica es de:",
-        "opciones": ["Inmediato", "15 minutos", "30 minutos", "60 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad II: atención inmediata por enfermería, y médica en un máximo de 15 minutos."
-      },
-      {
-        "enunciado": "El tiempo máximo para valorar médicamente a un paciente P2 es de:",
-        "opciones": ["Inmediato", "15 minutos", "30 minutos", "60 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "En prioridad II, el personal médico debe valorar al paciente en un máximo de 15 minutos."
-      },
-      {
-        "enunciado": "¿Qué prioridad permite esperar hasta 1 hora para ser atendido?",
-        "opciones": ["P2", "P3", "P4", "P5"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P4: debe ser atendido en un máximo de 60 minutos."
-      },
-      {
-        "enunciado": "¿Cuál es el tiempo máximo recomendado para un paciente clasificado como P5?",
-        "opciones": ["30 minutos", "60 minutos", "90 minutos", "120 minutos"],
-        "correcta": 3,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P5: hasta 120 minutos de espera, por tratarse de menor urgencia."
-      },
-      {
-        "enunciado": "Un paciente en situación crítica es clasificado como P1. ¿Qué tiempo de respuesta requiere?",
-        "opciones": ["15 minutos", "30 minutos", "Inmediato", "5 minutos"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P1: nivel I, atención inmediata sin demora."
-      },
-      {
-        "enunciado": "¿Qué nivel de triaje exige valoración por enfermería inmediata y por médico antes de 15 minutos?",
-        "opciones": ["P1", "P2", "P3", "P4"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P2: atención inmediata por enfermería, y facultativa en 15 minutos como máximo."
-      },
-      {
-        "enunciado": "¿Cuál es el tiempo máximo recomendado para atender a un paciente clasificado como prioridad III según el triaje?",
-        "opciones": ["10 minutos", "30 minutos", "45 minutos", "60 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad III: debe ser atendido en un máximo de 30 minutos."
-      },
-      {
-        "enunciado": "Un paciente clasificado como prioridad V debe ser atendido antes de:",
-        "opciones": ["90 minutos", "120 minutos", "150 minutos", "180 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad V: atención en un máximo de 120 minutos."
-      },
-      {
-        "enunciado": "El nivel de triaje IV establece que el tiempo máximo para ser atendido debe ser de:",
-        "opciones": ["30 minutos", "60 minutos", "90 minutos", "120 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad IV: máximo de 60 minutos para valoración médica."
-      },
-      {
-        "enunciado": "¿Qué tiempo es correcto para la valoración médica de un paciente clasificado como prioridad II?",
-        "opciones": ["Inmediata", "15 minutos", "30 minutos", "60 minutos"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad II: atención inmediata de enfermería y facultativa antes de 15 minutos."
-      },
-      {
-        "enunciado": "¿Cuál es el tiempo de atención para un paciente con prioridad I según el triaje?",
-        "opciones": ["Inmediata", "5 minutos", "10 minutos", "15 minutos"],
-        "correcta": 0,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "Prioridad I: atención inmediata, sin esperas."
-      },
-      {
-        "enunciado": "¿Qué prioridad tiene un tiempo máximo de atención de 30 minutos?",
-        "opciones": ["P2", "P3", "P4", "P5"],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P3 (Prioridad III): tiempo máximo de 30 minutos."
-      },
-      {
-        "enunciado": "¿Cuál de las siguientes combinaciones es correcta según los tiempos del triaje?",
-        "opciones": [
-          "P1 – 10 min | P2 – 15 min | P3 – 45 min",
-          "P1 – inmediata | P2 – 15 min | P4 – 60 min",
-          "P2 – inmediata | P3 – 30 min | P5 – 90 min",
-          "P3 – 15 min | P4 – 30 min | P5 – 120 min"
-        ],
-        "correcta": 1,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "La única combinación correcta es: P1 inmediata, P2 en 15 min, P4 en 60 min."
-      },
-      {
-        "enunciado": "El triaje nivel V permite una espera máxima de:",
-        "opciones": ["60 minutos", "90 minutos", "120 minutos", "150 minutos"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P5: máximo 120 minutos de espera por tratarse de menor urgencia."
-      },
-      {
-        "enunciado": "¿Qué nivel de triaje permite una espera de hasta una hora?",
-        "opciones": ["P2", "P3", "P4", "P5"],
-        "correcta": 2,
-        "categorías": ["tema123", "triaje_tiempos"],
-        "feedback": "P4: tiempo máximo de atención médica es de 60 minutos."
-      }
-      
+  {
+    "enunciado": "Según el nivel de triaje en adultos, ¿cuál es el tiempo máximo recomendado para atender a un paciente de prioridad IV?",
+    "opciones": ["10 minutos", "60 minutos", "120 minutos", "240 minutos"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es el tiempo máximo recomendado para atender a un paciente pediátrico clasificado como prioridad II?",
+    "opciones": ["15 minutos", "30 minutos", "60 minutos", "120 minutos"],
+    "correcta": 0,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "Un paciente adulto catalogado como prioridad III en triaje debe ser atendido en un máximo de:",
+    "opciones": ["10 minutos", "30 minutos", "60 minutos", "120 minutos"],
+    "correcta": 1,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es el tiempo máximo para valorar a un paciente pediátrico con prioridad IV según el triaje?",
+    "opciones": ["30 minutos", "60 minutos", "90 minutos", "120 minutos"],
+    "correcta": 3,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "Un adulto con prioridad II debe ser atendido en un máximo de:",
+    "opciones": ["5 minutos", "10 minutos", "30 minutos", "60 minutos"],
+    "correcta": 1,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "Según el triaje pediátrico, ¿cuál es el tiempo máximo de atención para un paciente con prioridad III?",
+    "opciones": ["15 minutos", "30 minutos", "60 minutos", "120 minutos"],
+    "correcta": 1,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Qué prioridad corresponde a un paciente adulto que puede esperar hasta 240 minutos para ser atendido?",
+    "opciones": ["Prioridad III", "Prioridad IV", "Prioridad V", "Prioridad II"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es el tiempo máximo recomendado para un paciente pediátrico clasificado como prioridad V?",
+    "opciones": ["30 minutos", "60 minutos", "90 minutos", "120 minutos"],
+    "correcta": 3,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "En triaje adulto, ¿qué nivel requiere atención inmediata?",
+    "opciones": ["Nivel II", "Nivel III", "Nivel I", "Nivel V"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es el tiempo máximo para atender a un niño con prioridad I en el sistema de triaje?",
+    "opciones": ["15 minutos", "10 minutos", "Inmediato", "5 minutos"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es la secuencia correcta de tiempos máximos de atención en pacientes adultos según el nivel de triaje?",
+    "opciones": ["Inm-15-30-60-120", "Inm-10-60-120-240", "Inm-5-30-60-180", "Inm-10-30-90-180"],
+    "correcta": 1,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál es la secuencia de tiempos desde triaje hasta atención en el sistema de triaje pediátrico?",
+    "opciones": ["Inm-10-60-120-240", "Inm-5-15-30-60", "Inm-15-30-60-120", "Inm-10-20-40-80"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "Selecciona la secuencia que corresponde a los tiempos máximos de atención para triaje adulto (niveles I a V):",
+    "opciones": ["Inm-10-60-120-240", "Inm-15-30-60-120", "10-30-60-120-240", "Inm-5-15-45-90"],
+    "correcta": 0,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes secuencias corresponde a los tiempos establecidos para triaje pediátrico?",
+    "opciones": ["Inm-10-30-60-120", "Inm-15-30-60-120", "Inm-20-40-80-160", "Inm-10-60-120-240"],
+    "correcta": 1,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  },
+  {
+    "enunciado": "¿Cuál de estas secuencias refleja los tiempos correctos de atención tras triaje en adultos?",
+    "opciones": ["Inm-5-30-60-120", "Inm-15-30-90-180", "Inm-10-60-120-240", "Inm-20-40-80-120"],
+    "correcta": 2,
+    "categorías": ["tema123", "triaje_tiempos"],
+    "feedback": "Adulto: Inm-10-60-120-240   //     Pediatrico: Inm-15-30-60-120"
+  }
+    
 ]

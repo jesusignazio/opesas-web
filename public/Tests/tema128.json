@@ -1,0 +1,212 @@
+[
+    {
+        "enunciado": "En una prueba diagnóstica, ¿cuál de los siguientes valores es afectado por la prevalencia de la enfermedad?",
+        "opciones": ["Sensibilidad", "Especificidad", "Valor predictivo negativo", "Exactitud técnica del test"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "El VPN y el VPP dependen de la prevalencia; sensibilidad y especificidad no."
+      },
+      {
+        "enunciado": "Un test con alta especificidad pero baja sensibilidad es más útil para:",
+        "opciones": ["Descartar enfermedad si el resultado es negativo", "Confirmar enfermedad si el resultado es positivo", "Detectar todos los casos posibles", "Aplicar cribado poblacional"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Alta especificidad: útil para confirmar diagnóstico si el test es positivo."
+      },
+      {
+        "enunciado": "Una prueba con sensibilidad del 90% y especificidad del 90% aplicada en una enfermedad de baja prevalencia probablemente tendrá:",
+        "opciones": ["VPP alto", "VPN bajo", "VPP bajo", "Sensibilidad reducida"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "En baja prevalencia, el VPP será bajo aunque sensibilidad y especificidad sean altas."
+      },
+      {
+        "enunciado": "El cociente de probabilidades positivo (Likelihood Ratio +) se calcula como:",
+        "opciones": ["VP / FP", "Sensibilidad / (1 - especificidad)", "1 - especificidad / sensibilidad", "Especificidad / sensibilidad"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "LR+: Sensibilidad / (1 - Especificidad); mide cuánto más probable es un positivo en enfermos que en sanos."
+      },
+      {
+        "enunciado": "El valor predictivo positivo aumenta cuando:",
+        "opciones": ["La especificidad disminuye", "La prevalencia aumenta", "La sensibilidad baja", "La proporción de falsos positivos aumenta"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "A mayor prevalencia, mayor VPP: más probabilidad de que un positivo sea realmente enfermo."
+      },
+      {
+        "enunciado": "En estudios diagnósticos, el Odds Ratio se utiliza para:",
+        "opciones": ["Estimar el riesgo absoluto", "Comparar tasas de incidencia", "Evaluar fuerza de asociación entre test y enfermedad", "Ajustar la sensibilidad por prevalencia"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "El OR mide la asociación entre exposición y enfermedad, también usado en test diagnósticos retrospectivos."
+      },
+      {
+        "enunciado": "¿Qué combinación de sensibilidad y especificidad da la mejor capacidad discriminativa?",
+        "opciones": ["Sensibilidad 90%, especificidad 50%", "Sensibilidad 60%, especificidad 90%", "Sensibilidad 95%, especificidad 95%", "Sensibilidad 50%, especificidad 50%"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Sensibilidad y especificidad altas dan buena discriminación (idealmente ≥95%)."
+      },
+      {
+        "enunciado": "Una prueba con VPN del 98% indica que:",
+        "opciones": ["El 98% de los negativos están realmente enfermos", "El 98% de los positivos están sanos", "El 98% de los negativos están realmente sanos", "La especificidad es del 98%"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "VPN alto: gran capacidad para identificar correctamente a los no enfermos entre los que resultan negativos."
+      },
+      {
+        "enunciado": "Un test con sensibilidad del 100% y especificidad del 100% significa que:",
+        "opciones": ["Todos los enfermos y sanos se clasifican correctamente", "No hay falsos negativos pero sí falsos positivos", "No hay falsos positivos pero sí falsos negativos", "La prueba es útil solo si la prevalencia es alta"],
+        "correcta": 0,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Sensibilidad y especificidad del 100%: no hay errores diagnósticos, prueba perfecta (muy raro en la práctica)."
+      },
+      {
+        "enunciado": "La sensibilidad de una prueba aumenta si:",
+        "opciones": ["Aumenta la prevalencia", "Se eleva el punto de corte hacia valores más extremos", "Se disminuye el umbral para considerar positivo", "La población de estudio es más sana"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Bajar el umbral de corte aumenta la detección (sensibilidad), pero puede reducir la especificidad."
+      },
+      {
+        "enunciado": "Si una prueba diagnóstica tiene muchos falsos positivos, esto afecta principalmente a:",
+        "opciones": ["La sensibilidad", "El valor predictivo positivo", "El valor predictivo negativo", "La prevalencia"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Un número elevado de falsos positivos reduce el valor predictivo positivo (VPP)."
+      },
+      {
+        "enunciado": "Si una prueba tiene muchos falsos negativos, su sensibilidad será:",
+        "opciones": ["Alta", "Baja", "Inalterada", "Equivalente a la especificidad"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Sensibilidad baja implica que la prueba no detecta bien a los enfermos (hay muchos falsos negativos)."
+      },
+      {
+        "enunciado": "Una prueba con sensibilidad del 70% y especificidad del 95% es más útil para:",
+        "opciones": ["Detección precoz en cribado", "Confirmar la enfermedad cuando da positiva", "Detectar todos los casos", "Reducir la tasa de falsos negativos"],
+        "correcta": 1,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Alta especificidad permite confirmar diagnóstico cuando el resultado es positivo (SPIN)."
+      },
+      {
+        "enunciado": "En una enfermedad muy rara, la mayoría de los positivos serán:",
+        "opciones": ["Verdaderos positivos", "Falsos negativos", "Verdaderos negativos", "Falsos positivos"],
+        "correcta": 3,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Con baja prevalencia, es más probable que un positivo sea un falso positivo, incluso con buena especificidad."
+      },
+      {
+        "enunciado": "Una prueba diagnóstica tiene sensibilidad 100% y especificidad 50%. ¿Qué se puede afirmar?",
+        "opciones": ["Todos los negativos son sanos", "Todos los positivos son enfermos", "Todos los enfermos son detectados, pero hay muchos falsos positivos", "Es una prueba muy precisa"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Sensibilidad del 100% = ningún enfermo escapa, pero especificidad del 50% implica muchos falsos positivos."
+      },
+      {
+        "enunciado": "El valor predictivo negativo (VPN) se reduce cuando:",
+        "opciones": ["Aumenta la prevalencia de la enfermedad", "La especificidad es alta", "Disminuye la sensibilidad", "La mayoría de los pacientes son sanos"],
+        "correcta": 0,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "El VPN disminuye si la prevalencia de la enfermedad es alta (hay más verdaderos enfermos entre los negativos)."
+      },
+      {
+        "enunciado": "El área bajo la curva ROC (AUC) representa:",
+        "opciones": ["La prevalencia de la enfermedad", "La sensibilidad de la prueba", "La precisión diagnóstica global", "La diferencia entre VPP y VPN"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "El AUC (ROC) resume la capacidad discriminativa de la prueba: cuanto mayor, mejor."
+      },
+      {
+        "enunciado": "Una prueba con área bajo la curva ROC de 0,50 indica que:",
+        "opciones": ["Es excelente", "Tiene sensibilidad muy alta", "No discrimina mejor que el azar", "Tiene especificidad perfecta"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "AUC = 0,50 indica que la prueba es inútil: no discrimina entre enfermos y sanos."
+      },
+      {
+        "enunciado": "¿Cuál es la fórmula correcta para calcular la sensibilidad?",
+        "opciones": ["VP / (VP + FN)", "VP / (VP + FP)", "VP / (VP + VN)", "VN / (VN + FP)"],
+        "correcta": 0,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "Sensibilidad = verdaderos positivos dividido entre todos los enfermos (VP + FN)."
+      },
+      {
+        "enunciado": "En el contexto de pruebas diagnósticas, el cociente de probabilidades negativo (LR−) se interpreta como:",
+        "opciones": ["Probabilidad de resultado positivo en sanos", "Probabilidad de resultado negativo en sanos", "Probabilidad de resultado negativo en enfermos", "Probabilidad de estar sano si la prueba es negativa"],
+        "correcta": 2,
+        "categorías": ["tema128", "validez_pruebas"],
+        "feedback": "El LR− refleja cuán probable es obtener un resultado negativo en un enfermo. Cuanto más bajo, mejor."
+      },
+      {
+      "enunciado": "La sensibilidad de una prueba diagnóstica representa:",
+      "opciones": ["La proporción de falsos positivos entre los enfermos", "La capacidad de detectar correctamente a los sanos", "La proporción de verdaderos positivos entre los enfermos", "La probabilidad de que un positivo esté realmente enfermo"],
+      "correcta": 2,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "La sensibilidad mide la capacidad de detectar correctamente a los enfermos: VP / (VP + FN)."
+    },
+    {
+      "enunciado": "La especificidad se define como:",
+      "opciones": ["Proporción de falsos negativos entre los enfermos", "Capacidad de detectar correctamente a los sanos", "Proporción de enfermos diagnosticados como sanos", "Relación entre verdaderos positivos y total de positivos"],
+      "correcta": 1,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "Especificidad: proporción de verdaderos negativos entre los no enfermos: VN / (VN + FP)."
+    },
+    {
+      "enunciado": "El valor predictivo positivo (VPP) indica:",
+      "opciones": ["Proporción de enfermos reales entre los positivos de la prueba", "Capacidad de detectar a todos los sanos", "Probabilidad de que un negativo esté realmente sano", "Tasa de falsos positivos entre los enfermos"],
+      "correcta": 0,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "VPP: probabilidad de que un resultado positivo sea realmente un enfermo: VP / (VP + FP)."
+    },
+    {
+      "enunciado": "El valor predictivo negativo (VPN) expresa:",
+      "opciones": ["Probabilidad de que un positivo esté sano", "Probabilidad de estar sano si la prueba es negativa", "Capacidad de detectar enfermedad", "Relación entre negativos y enfermos"],
+      "correcta": 1,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "VPN: probabilidad de que un resultado negativo realmente corresponda a una persona sana: VN / (VN + FN)."
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes medidas depende directamente de la prevalencia de la enfermedad?",
+      "opciones": ["Sensibilidad", "Especificidad", "Valor predictivo positivo", "Exactitud global"],
+      "correcta": 2,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "El VPP y VPN dependen de la prevalencia. A mayor prevalencia, mayor VPP y menor VPN."
+    },
+    {
+      "enunciado": "Si una prueba tiene alta sensibilidad, es útil para:",
+      "opciones": ["Confirmar el diagnóstico", "Reducir los falsos positivos", "Descartar la enfermedad si es negativa", "Aumentar la especificidad"],
+      "correcta": 2,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "Alta sensibilidad: útil para descartar enfermedad cuando la prueba es negativa (regla del 'SNOUT')."
+    },
+    {
+      "enunciado": "Si una prueba tiene alta especificidad, su utilidad principal es:",
+      "opciones": ["Descartar enfermedad con seguridad", "Confirmar enfermedad si da positivo", "Detectar portadores sanos", "Reducir el sesgo de selección"],
+      "correcta": 1,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "Alta especificidad: útil para confirmar enfermedad si la prueba es positiva ('SPIN')."
+    },
+    {
+      "enunciado": "El Odds Ratio en estudios de casos y controles se interpreta como:",
+      "opciones": ["Probabilidad directa de enfermar", "Razón de incidencias acumuladas", "Razón de probabilidades de exposición entre casos y controles", "Riesgo relativo ajustado por el tiempo"],
+      "correcta": 2,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "El OR es la razón de probabilidades de haber estado expuesto entre los casos frente a los controles."
+    },
+    {
+      "enunciado": "Una prueba con sensibilidad del 100% y especificidad del 0% indica que:",
+      "opciones": ["Detecta a todos los enfermos y no a los sanos", "Clasifica a todos como positivos", "No detecta a los enfermos reales", "Es altamente específica y útil en screening"],
+      "correcta": 1,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "Sensibilidad 100% y especificidad 0% = todos los resultados son positivos, sin discriminar sanos de enfermos."
+    },
+    {
+      "enunciado": "Una prueba con VPN alto es especialmente útil cuando:",
+      "opciones": ["Queremos confirmar un diagnóstico", "Queremos descartar enfermedad en población con baja prevalencia", "Trabajamos con pruebas de baja sensibilidad", "La enfermedad tiene consecuencias graves si se diagnostica tarde"],
+      "correcta": 1,
+      "categorías": ["tema128", "validez_pruebas"],
+      "feedback": "Un VPN alto es útil para descartar enfermedad, especialmente en escenarios de baja prevalencia."
+    } 
+]

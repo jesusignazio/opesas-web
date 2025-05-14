@@ -1,0 +1,353 @@
+[
+    {
+        "enunciado": "Según el modelo de Donabedian, la disponibilidad de recursos físicos y humanos se considera un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Impacto"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los indicadores de estructura evalúan los recursos disponibles: personal, equipos, instalaciones, etc."
+      },
+      {
+        "enunciado": "En el modelo de Donabedian, la correcta administración de una medicación prescrita se clasifica como indicador de:",
+        "opciones": ["Resultado", "Estructura", "Proceso", "Calidad percibida"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El proceso incluye las acciones que se realizan para atender al paciente: diagnósticos, tratamientos, cuidados..."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ejemplos sería un indicador de resultado según Donabedian?",
+        "opciones": ["Número de quirófanos disponibles", "Índice de mortalidad postoperatoria", "Protocolo de higiene de manos", "Ratio enfermera/paciente"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los indicadores de resultado evalúan los efectos de la atención sobre la salud del paciente."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador refleja la calidad técnica de la atención en el momento en que se lleva a cabo?",
+        "opciones": ["Estructura", "Resultado", "Proceso", "Satisfacción del paciente"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los indicadores de proceso permiten evaluar cómo se realiza la atención sanitaria, según protocolos o estándares."
+      },
+      {
+        "enunciado": "El modelo de Donabedian considera que los buenos resultados en salud dependen de:",
+        "opciones": ["Satisfacción subjetiva del paciente", "El tipo de contrato del profesional", "La relación entre estructura, proceso y resultado", "El coste-efectividad de los tratamientos"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Donabedian propuso que la calidad sanitaria depende del equilibrio entre estructura, proceso y resultados."
+      },
+      {
+        "enunciado": "Un indicador como la tasa de reingresos hospitalarios se clasifica como:",
+        "opciones": ["Indicador de estructura", "Indicador de proceso", "Indicador de resultado", "Indicador de satisfacción"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los reingresos son una consecuencia clínica y por tanto se consideran indicadores de resultado."
+      },
+      {
+        "enunciado": "El cumplimiento del checklist quirúrgico obligatorio es un ejemplo de indicador de:",
+        "opciones": ["Proceso", "Resultado", "Impacto", "Estructura"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Se trata de una acción dentro del procedimiento asistencial, por tanto, es un indicador de proceso."
+      },
+      {
+        "enunciado": "El número de camas hospitalarias disponibles por cada 1.000 habitantes es un ejemplo de indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Productividad"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Este dato describe los recursos disponibles, característica propia de los indicadores de estructura."
+      },
+      {
+        "enunciado": "La tasa de infecciones nosocomiales tras cirugía se clasifica como:",
+        "opciones": ["Indicador de proceso", "Indicador de estructura", "Indicador de resultado", "Indicador de gestión"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las infecciones postquirúrgicas reflejan un resultado clínico tras la atención prestada."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes sería un ejemplo de indicador de estructura?",
+        "opciones": ["Tiempo medio de espera en urgencias", "Número de médicos por unidad", "Tasa de éxito terapéutico", "Nivel de adherencia a guías clínicas"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El número de profesionales disponibles es un recurso sanitario, y por tanto indicador de estructura."
+      },
+      {
+        "enunciado": "Según el modelo de Donabedian, la ratio de enfermeras por unidad asistencial se considera un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Calidad percibida"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los indicadores de estructura hacen referencia a los recursos humanos, materiales y organizativos disponibles."
+      },
+      {
+        "enunciado": "La adherencia a un protocolo de atención al paciente politraumatizado corresponde a un indicador de:",
+        "opciones": ["Resultado", "Estructura", "Proceso", "Satisfacción"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La adherencia a guías o protocolos es parte del proceso asistencial y su correcta ejecución."
+      },
+      {
+        "enunciado": "La supervivencia al alta en pacientes ingresados en UCI se clasifica como indicador de:",
+        "opciones": ["Estructura", "Resultado", "Proceso", "Impacto"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los indicadores de resultado evalúan el efecto de la atención sanitaria en la salud del paciente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un ejemplo de indicador de proceso?",
+        "opciones": ["Tiempo medio de estancia hospitalaria", "Disponibilidad de quirófanos", "Registro del consentimiento informado", "Ratio camas/1000 habitantes"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El registro del consentimiento forma parte de los procedimientos que se realizan durante la atención al paciente."
+      },
+      {
+        "enunciado": "Según Donabedian, ¿cuál de los siguientes ejemplos se relaciona con la calidad de la estructura?",
+        "opciones": ["Número de consultas atendidas por día", "Satisfacción del paciente", "Número de camas por servicio", "Cumplimiento del calendario vacunal"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La disponibilidad de camas es un recurso físico y, por tanto, un indicador de estructura."
+      },
+      {
+        "enunciado": "La tasa de reintervenciones quirúrgicas a los 30 días es un ejemplo de indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Prevención"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las reintervenciones reflejan un desenlace clínico negativo y se clasifican como indicadores de resultado."
+      },
+      {
+        "enunciado": "En el modelo de Donabedian, ¿qué evalúa un indicador de proceso?",
+        "opciones": ["El entorno físico del centro", "El cumplimiento de los procedimientos asistenciales", "La experiencia subjetiva del usuario", "El impacto epidemiológico de una campaña"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El proceso mide cómo se lleva a cabo la atención y si se siguen las buenas prácticas clínicas."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador es el 'porcentaje de pacientes que reciben profilaxis antibiótica dentro de la hora previa a cirugía'?",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Eficiencia"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Este dato describe una acción clínica concreta, por tanto, es indicador de proceso."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes se considera un resultado negativo en términos de calidad asistencial?",
+        "opciones": ["Tasa de errores de medicación", "Ratio de facultativos por paciente", "Protocolo de aislamiento registrado", "Capacidad del laboratorio disponible"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los errores de medicación tienen impacto directo en la seguridad y el resultado clínico del paciente."
+      },
+      {
+        "enunciado": "¿Qué relación plantea el modelo de Donabedian para evaluar la calidad asistencial?",
+        "opciones": ["Estructura → Proceso → Resultado", "Resultado → Proceso → Estructura", "Protocolo → Resultado → Satisfacción", "Objetivo → Medida → Impacto"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Donabedian propone que una buena estructura permite un buen proceso, y este a su vez genera buenos resultados."
+      },
+      {
+        "enunciado": "La existencia de un protocolo escrito para la administración segura de fármacos es un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Calidad percibida"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los protocolos forman parte de la organización del centro, por tanto, se consideran indicadores de estructura."
+      },
+      {
+        "enunciado": "La correcta cumplimentación de la historia clínica por parte del profesional es un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Rendimiento"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las acciones que realiza el profesional sanitario en el acto asistencial son indicadores de proceso."
+      },
+      {
+        "enunciado": "La tasa de satisfacción de los usuarios medida mediante encuestas corresponde a un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Rendimiento"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La percepción del paciente sobre la atención recibida forma parte de los resultados de calidad asistencial."
+      },
+      {
+        "enunciado": "La frecuencia con la que se realiza higiene de manos según protocolo es un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Coste-efectividad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La higiene de manos es una acción asistencial y se evalúa como indicador de proceso."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador es la disponibilidad de unidades de cuidados intensivos por cada 100.000 habitantes?",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Impacto"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La disponibilidad de infraestructuras sanitarias se considera un indicador estructural."
+      },
+      {
+        "enunciado": "La tasa de complicaciones postoperatorias en un hospital se considera un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Prevención"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las complicaciones clínicas reflejan directamente el resultado de la atención prestada."
+      },
+      {
+        "enunciado": "La disponibilidad de equipos de reanimación en áreas críticas es un ejemplo de indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Satisfacción"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los recursos materiales necesarios para la atención sanitaria son indicadores de estructura."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador representa el porcentaje de pacientes quirúrgicos que reciben antibiótico profiláctico adecuado antes de la incisión?",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Calidad subjetiva"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Este tipo de acción asistencial, realizada correctamente o no, pertenece al ámbito del proceso."
+      },
+      {
+        "enunciado": "La existencia de un sistema informatizado de prescripción de medicamentos se clasifica como:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Prevención"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las herramientas y sistemas disponibles para la atención se consideran parte de la estructura."
+      },
+      {
+        "enunciado": "¿Qué indicador ayuda a valorar el impacto final de una intervención sanitaria en la salud del paciente?",
+        "opciones": ["Estructura", "Resultado", "Proceso", "Accesibilidad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El resultado es lo que permite valorar si la atención ha conseguido el objetivo clínico y humano esperado."
+      },
+      {
+        "enunciado": "La existencia de un sistema de climatización en quirófano se clasifica como un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Eficiencia"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los aspectos físicos del entorno asistencial, como el sistema de climatización, pertenecen a la estructura."
+      },
+      {
+        "enunciado": "El porcentaje de pacientes que abandonan un tratamiento antes de tiempo se considera un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Satisfacción"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El abandono del tratamiento refleja el resultado de la intervención y su efectividad percibida o real."
+      },
+      {
+        "enunciado": "La presencia de desfibriladores accesibles en todas las unidades hospitalarias se considera un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Impacto"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los equipos disponibles son un recurso físico, y por tanto parte de la estructura."
+      },
+      {
+        "enunciado": "El tiempo medio que transcurre desde el ingreso hasta la administración del primer antibiótico es un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Accesibilidad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Este indicador evalúa cómo se ejecuta una parte del tratamiento, por tanto es de proceso."
+      },
+      {
+        "enunciado": "La tasa de partos instrumentales por cada 1.000 nacimientos vivos es un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Satisfacción"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los resultados obstétricos son indicadores de resultado clínico, ya que reflejan desenlaces concretos."
+      },
+      {
+        "enunciado": "La elaboración de un plan terapéutico individualizado para cada paciente se considera un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Impacto"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Planificar la atención es parte del proceso asistencial."
+      },
+      {
+        "enunciado": "El índice de reingresos hospitalarios por el mismo diagnóstico en menos de 72 horas es un indicador de:",
+        "opciones": ["Proceso", "Estructura", "Resultado", "Eficiencia"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los reingresos son consecuencias clínicas y se consideran indicadores de resultado."
+      },
+      {
+        "enunciado": "La formación obligatoria del personal en seguridad del paciente forma parte de un indicador de:",
+        "opciones": ["Proceso", "Estructura", "Resultado", "Satisfacción"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La formación del personal es un recurso humano, y por tanto indicador de estructura."
+      },
+      {
+        "enunciado": "La administración de vacunas siguiendo el calendario oficial es un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Rendimiento"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La ejecución correcta de procedimientos clínicos es característica de los indicadores de proceso."
+      },
+      {
+        "enunciado": "La tasa de errores de medicación notificados en una unidad es un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Prevención"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los errores de medicación son consecuencias que afectan al resultado de la atención."
+      },
+      {
+        "enunciado": "La ratio de pacientes asignados por médico en atención primaria es un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Productividad"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Refleja la disponibilidad de recursos humanos, lo cual es un indicador de estructura."
+      },
+      {
+        "enunciado": "La correcta identificación del paciente antes de una intervención quirúrgica es un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Calidad subjetiva"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "La verificación de identidad es una acción clínica concreta y por tanto un indicador de proceso."
+      },
+      {
+        "enunciado": "El índice de amputaciones evitables en pacientes diabéticos es un ejemplo de indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Accesibilidad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las amputaciones son desenlaces clínicos y por tanto indicadores de resultado."
+      },
+      {
+        "enunciado": "La existencia de un plan de mantenimiento preventivo de equipamiento médico es un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Impacto"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los planes de mantenimiento se relacionan con los recursos disponibles, lo que define a la estructura."
+      },
+      {
+        "enunciado": "El porcentaje de cesáreas realizadas sin indicación clínica es un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Coste-efectividad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Analiza una práctica clínica concreta, y por tanto se clasifica como proceso."
+      },
+      {
+        "enunciado": "¿Qué tipo de indicador permite evaluar si se ha producido una mejora en el estado de salud del paciente?",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Satisfacción"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "El resultado mide los efectos finales de la atención en la salud del paciente."
+      },
+      {
+        "enunciado": "El tiempo medio desde la solicitud de una prueba diagnóstica hasta su realización es un indicador de:",
+        "opciones": ["Estructura", "Proceso", "Resultado", "Accesibilidad"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Este indicador evalúa cómo se organiza y ejecuta la atención clínica: es proceso."
+      },
+      {
+        "enunciado": "La disponibilidad de historia clínica electrónica interoperable en un centro se considera un indicador de:",
+        "opciones": ["Proceso", "Resultado", "Estructura", "Utilización"],
+        "correcta": 2,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Es un recurso tecnológico organizativo, y como tal, parte de la estructura."
+      },
+      {
+        "enunciado": "El porcentaje de pacientes que presentan efectos adversos evitables durante la hospitalización es un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Satisfacción"],
+        "correcta": 0,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Los efectos adversos reflejan el resultado clínico final y la seguridad del paciente."
+      },
+      {
+        "enunciado": "La frecuencia de sesiones clínicas multidisciplinares celebradas por unidad se considera un indicador de:",
+        "opciones": ["Resultado", "Proceso", "Estructura", "Clima laboral"],
+        "correcta": 1,
+        "categorías": ["tema134", "modelo_donabedian"],
+        "feedback": "Las sesiones clínicas son acciones organizadas como parte del proceso asistencial."
+      }
+                              
+]

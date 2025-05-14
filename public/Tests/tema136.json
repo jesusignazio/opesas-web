@@ -1,0 +1,283 @@
+[
+    {
+        "enunciado": "¿Qué nivel de evidencia corresponde a un metaanálisis de ensayos clínicos aleatorizados de buena calidad?",
+        "opciones": ["IA", "IB", "IIA", "IIIB"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ensayos clínicos aleatorizados (ECA) con adecuada calidad y consistencia."
+      },
+      {
+        "enunciado": "Un ensayo clínico aleatorizado individual bien diseñado se clasifica como:",
+        "opciones": ["IA", "IB", "IIA", "IIIB"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IB: evidencia procedente de un ensayo clínico aleatorizado individual bien realizado."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia corresponde a estudios de cohortes bien diseñados y no aleatorizados?",
+        "opciones": ["IA", "IB", "IIA", "IIIB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IIA: evidencia procedente de estudios de cohortes bien diseñados, no aleatorizados."
+      },
+      {
+        "enunciado": "Un estudio de casos y controles bien realizado corresponde al nivel:",
+        "opciones": ["IB", "IIA", "IIIB", "IIIC"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IIIB: evidencia obtenida a partir de estudios de casos y controles correctamente diseñados."
+      },
+      {
+        "enunciado": "Una serie de casos clínicos o estudios descriptivos sin grupo control se clasifica como:",
+        "opciones": ["IIIC", "IV", "IB", "IA"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IV: evidencia basada en informes de casos, series de casos o estudios observacionales sin grupo control."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia representa la opinión de expertos sin apoyo de estudios empíricos?",
+        "opciones": ["IA", "IIB", "IV", "V"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "V: opiniones de expertos, consensos o comités sin base directa en evidencia empírica."
+      },
+      {
+        "enunciado": "Un estudio de cohortes sin grupo control paralelo ni aleatorización se clasifica como:",
+        "opciones": ["IIA", "IIIB", "IIIC", "IV"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IIA: estudios de cohortes bien diseñados, aunque no aleatorizados."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia tiene menor fuerza para establecer causalidad?",
+        "opciones": ["IB", "IIA", "IIIB", "V"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "V: el nivel más bajo, basado en opiniones de expertos, sin soporte directo de estudios clínicos."
+      },
+      {
+        "enunciado": "Un metaanálisis mal diseñado o con heterogeneidad excesiva se clasifica generalmente como:",
+        "opciones": ["IA", "IB", "II", "No se clasifica como IA por baja calidad"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "Para ser IA, un metaanálisis debe tener alta calidad metodológica y homogeneidad aceptable."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia corresponde a un estudio controlado no aleatorizado?",
+        "opciones": ["IB", "IIA", "IIIB", "II"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IIA: estudios controlados pero sin aleatorización, como cohortes prospectivas no aleatorias."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia es el más alto?",
+        "opciones": ["IIA", "IB", "IA", "IIIB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: es el nivel más alto, basado en metaanálisis de ensayos clínicos aleatorizados de alta calidad."
+      },
+      {
+        "enunciado": "Un ensayo clínico aleatorizado individual se clasifica como:",
+        "opciones": ["IA", "IB", "IIIB", "IV"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IB: ensayo clínico aleatorizado individual y bien diseñado."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a estudios de cohortes no aleatorizados?",
+        "opciones": ["IIA", "IB", "IV", "IA"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IIA: estudios de cohortes bien diseñados pero sin aleatorización."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia tienen los estudios de casos y controles?",
+        "opciones": ["IA", "IIA", "IIIB", "V"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IIIB: estudios de casos y controles bien realizados."
+      },
+      {
+        "enunciado": "Las series de casos y estudios descriptivos sin grupo control se clasifican como:",
+        "opciones": ["IIIA", "IV", "IB", "IA"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IV: nivel de evidencia para estudios descriptivos sin grupo control."
+      },
+      {
+        "enunciado": "La opinión de expertos sin estudios científicos se considera evidencia de nivel:",
+        "opciones": ["III", "IV", "V", "IA"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "V: el nivel más bajo, basado en opiniones o consensos sin base empírica."
+      },
+      {
+        "enunciado": "¿Cuál es mejor evidencia científica: un metaanálisis o un estudio de casos y controles?",
+        "opciones": ["Metaanálisis", "Casos y controles", "Opinión de expertos", "Estudios descriptivos"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "Los metaanálisis de ECA son nivel IA, superior a los casos y controles (IIIB)."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a estudios observacionales sin aleatorización?",
+        "opciones": ["IB", "IIA", "IA", "V"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IIA: estudios observacionales como cohortes sin aleatorización."
+      },
+      {
+        "enunciado": "¿Qué nivel tiene más riesgo de sesgo?",
+        "opciones": ["IA", "IB", "IIIB", "V"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "V: nivel más bajo, se basa en opiniones no contrastadas."
+      },
+      {
+        "enunciado": "¿Un metaanálisis de alta calidad equivale a nivel:",
+        "opciones": ["IA", "IB", "IIA", "IV"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA de buena calidad y homogéneos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia corresponde a un metaanálisis de ensayos clínicos aleatorizados de alta calidad?",
+        "opciones": ["IB", "IA", "IIA", "IIIB"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "Un ensayo clínico aleatorizado individual bien diseñado corresponde al nivel:",
+        "opciones": ["IA", "IIA", "IB", "IV"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a estudios de cohortes bien diseñados pero sin aleatorización?",
+        "opciones": ["IB", "IIA", "IIIB", "IV"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "Un estudio de casos y controles correctamente diseñado se clasifica como nivel:",
+        "opciones": ["IIIB", "IIA", "V", "IB"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia se basa en estudios descriptivos sin grupo control?",
+        "opciones": ["IIIA", "IIIB", "IV", "IB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "La opinión de expertos sin apoyo de estudios empíricos se clasifica como evidencia de nivel:",
+        "opciones": ["IV", "V", "IIIB", "IA"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes niveles de evidencia tiene menor fuerza científica?",
+        "opciones": ["IB", "IIA", "IV", "V"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a un estudio de cohortes con ciertas limitaciones metodológicas?",
+        "opciones": ["IB", "IIA", "IIB", "IIIB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia es superior: IIIB o IIA?",
+        "opciones": ["IIIB", "IIA", "Son equivalentes", "IV"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel representa la evidencia obtenida a partir de informes de casos clínicos?",
+        "opciones": ["IB", "IIIA", "IV", "V"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia corresponde a un metaanálisis de ensayos clínicos aleatorizados de alta calidad?",
+        "opciones": ["IB", "IA", "IIA", "IIIB"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "Un ensayo clínico aleatorizado individual bien diseñado corresponde al nivel:",
+        "opciones": ["IA", "IIA", "IB", "IV"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a estudios de cohortes bien diseñados pero sin aleatorización?",
+        "opciones": ["IB", "IIA", "IIIB", "IV"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "Un estudio de casos y controles correctamente diseñado se clasifica como nivel:",
+        "opciones": ["IIIB", "IIA", "V", "IB"],
+        "correcta": 0,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia se basa en estudios descriptivos sin grupo control?",
+        "opciones": ["IIIA", "IIIB", "IV", "IB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "La opinión de expertos sin apoyo de estudios empíricos se clasifica como evidencia de nivel:",
+        "opciones": ["IV", "V", "IIIB", "IA"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes niveles de evidencia tiene menor fuerza científica?",
+        "opciones": ["IB", "IIA", "IV", "V"],
+        "correcta": 3,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a un estudio de cohortes con ciertas limitaciones metodológicas?",
+        "opciones": ["IB", "IIA", "IIB", "IIIB"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel de evidencia es superior: IIIB o IIA?",
+        "opciones": ["IIIB", "IIA", "Son equivalentes", "IV"],
+        "correcta": 1,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      },
+      {
+        "enunciado": "¿Qué nivel representa la evidencia obtenida a partir de informes de casos clínicos?",
+        "opciones": ["IB", "IIIA", "IV", "V"],
+        "correcta": 2,
+        "categorías": ["tema136"],
+        "feedback": "IA: metaanálisis de ECA. IB: ECA individuales. IIA: cohortes. IIB: cohortes de menor calidad. IIIB: casos y controles. IV: series de casos. V: opinión de expertos."
+      }
+                        
+]

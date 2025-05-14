@@ -1,0 +1,142 @@
+[
+    {
+        "enunciado": "Según los manuales de certificación de competencias profesionales de la Agencia de Calidad Sanitaria de Andalucía, los niveles de acreditación de un profesional de enfermería son:",
+        "opciones": ["Avanzado, Experto y Excelente", "Inicial, Básico y Avanzado", "Uno, Dos y Tres", "Interno, Externo y Superior"],
+        "correcta": 0,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La Agencia de Calidad Sanitaria de Andalucía establece tres niveles de acreditación: Avanzado, Experto y Excelente."
+      },
+      {
+        "enunciado": "En el modelo de acreditación profesional de la Agencia de Calidad Sanitaria de Andalucía, ¿qué nivel se considera el primero al que puede optar un profesional?",
+        "opciones": ["Inicial", "Avanzado", "Básico", "Experto"],
+        "correcta": 1,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Avanzado es el primero dentro del proceso de acreditación progresiva de la Agencia de Calidad Sanitaria de Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes niveles de acreditación profesional implica un mayor grado de liderazgo e innovación?",
+        "opciones": ["Avanzado", "Experto", "Excelente", "Intermedio"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Excelente refleja un desempeño profesional con liderazgo, innovación e impacto en el entorno."
+      },
+      {
+        "enunciado": "¿Qué organismo gestiona el proceso de acreditación de competencias profesionales en Andalucía?",
+        "opciones": ["Ministerio de Sanidad", "Consejería de Universidad e Investigación", "Agencia de Calidad Sanitaria de Andalucía", "Colegio Oficial de Enfermería"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La Agencia de Calidad Sanitaria de Andalucía, dependiente de la Junta de Andalucía, gestiona los procesos de acreditación y calidad profesional."
+      },
+      {
+        "enunciado": "La acreditación profesional según la Agencia de Calidad Sanitaria de Andalucía se basa principalmente en:",
+        "opciones": ["Superar una prueba objetiva", "Valoración curricular exclusivamente", "Evidencias presentadas por el profesional", "Evaluación entre pares anónima"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La Agencia de Calidad Sanitaria de Andalucía valora evidencias que el profesional presenta sobre su práctica clínica habitual."
+      },
+      {
+        "enunciado": "¿Cuál de estas afirmaciones sobre la acreditación profesional es correcta?",
+        "opciones": ["Es obligatoria para ejercer en el sistema sanitario público andaluz", "Otorga un reconocimiento de calidad a nivel nacional", "Es un proceso voluntario de mejora profesional", "Sustituye a la especialidad enfermera"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La acreditación de la Agencia de Calidad Sanitaria de Andalucía es voluntaria, orientada a la mejora continua y el reconocimiento de buenas prácticas."
+      },
+      {
+        "enunciado": "¿Qué nivel de acreditación requiere evidencias de impacto positivo en la organización o en la comunidad?",
+        "opciones": ["Avanzado", "Experto", "Excelente", "Fundacional"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Excelente implica evidencias de liderazgo, innovación e impacto más allá del ámbito individual."
+      },
+      {
+        "enunciado": "Para alcanzar el nivel Experto en la acreditación profesional de la Agencia de Calidad Sanitaria de Andalucía, el profesional debe demostrar:",
+        "opciones": ["Conocimientos teóricos exclusivamente", "Experiencia laboral mínima de 15 años", "Competencias complejas en su ámbito y práctica reflexiva", "Un curso homologado por el SAS"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Experto requiere evidencias de práctica avanzada, competencias complejas y análisis reflexivo."
+      },
+      {
+        "enunciado": "¿Qué formato tienen los manuales de certificación profesional de la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Listados de requisitos técnicos", "Compilación normativa", "Estándares estructurados en criterios e indicadores", "Cuestionarios de autoevaluación exclusivamente"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "Los manuales están estructurados en estándares con criterios e indicadores observables."
+      },
+      {
+        "enunciado": "¿Qué valor tiene la acreditación profesional otorgada por la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Administrativo y retributivo inmediato", "Reconocimiento de calidad basado en competencias reales", "Equivalente a un título universitario", "Requisito para acceder a una plaza fija"],
+        "correcta": 1,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La acreditación reconoce la competencia profesional mediante evaluación de la práctica y mejora continua."
+      },
+      {
+        "enunciado": "Según la Agencia de Calidad Sanitaria de Andalucía, los niveles de acreditación profesional de enfermería son:",
+        "opciones": ["Avanzado, Experto y Excelente", "Inicial, Medio y Alto", "Básico, Profesional y Técnico", "Competente, Especialista y Experto"],
+        "correcta": 0,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La Agencia de Calidad Sanitaria de Andalucía establece tres niveles: Avanzado, Experto y Excelente."
+      },
+      {
+        "enunciado": "La acreditación profesional de la Agencia de Calidad Sanitaria de Andalucía se basa en:",
+        "opciones": ["Evidencias aportadas por el profesional sobre su práctica clínica", "Exámenes tipo test de conocimientos", "Cursos homologados por la Consejería de Salud", "Informe del responsable de unidad"],
+        "correcta": 0,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El proceso de acreditación se apoya en evidencias prácticas aportadas por el profesional acreditando su competencia."
+      },
+      {
+        "enunciado": "¿Qué nivel de acreditación implica demostrar innovación, liderazgo y resultados en la organización según la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Avanzado", "Experto", "Excelente", "Intermedio"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Excelente requiere evidencias de impacto significativo, liderazgo e innovación."
+      },
+      {
+        "enunciado": "La Agencia de Calidad Sanitaria de Andalucía es el organismo encargado de:",
+        "opciones": ["Homologar especialidades sanitarias", "Gestionar bolsas de empleo público", "Acreditar competencias profesionales en el ámbito sanitario", "Evaluar programas universitarios de grado"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La Agencia de Calidad Sanitaria de Andalucía gestiona los procesos de acreditación y mejora continua en salud."
+      },
+      {
+        "enunciado": "¿Cuál es el nivel inicial dentro del itinerario de acreditación profesional ofrecido por la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Básico", "Competente", "Avanzado", "Experto"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Avanzado es el primero de los tres reconocidos por la Agencia de Calidad Sanitaria de Andalucía."
+      },
+      {
+        "enunciado": "Según la Agencia de Calidad Sanitaria de Andalucía, ¿qué se evalúa en el proceso de acreditación?",
+        "opciones": ["Competencias clínicas con evidencias documentadas", "Conocimientos teóricos por examen", "Informe de desempeño anual", "Voluntariado y participación comunitaria"],
+        "correcta": 0,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "Se valoran competencias demostradas mediante evidencias en la práctica profesional habitual."
+      },
+      {
+        "enunciado": "El modelo de acreditación de la Agencia de Calidad Sanitaria de Andalucía tiene como objetivo:",
+        "opciones": ["Otorgar puntuación para oposiciones", "Identificar buenas prácticas profesionales y fomentar la mejora continua", "Establecer un ranking interno de profesionales", "Clasificar centros de atención primaria"],
+        "correcta": 1,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El modelo de acreditación reconoce la excelencia profesional y promueve el desarrollo continuo."
+      },
+      {
+        "enunciado": "¿Qué caracteriza al nivel Experto según los criterios de la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Domina tareas básicas sin supervisión", "Desarrolla competencias complejas y aplica mejora en su entorno", "Participa en proyectos de formación externa", "Actúa bajo supervisión directa de personal excelente"],
+        "correcta": 1,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "El nivel Experto refleja una práctica autónoma, avanzada y con contribuciones significativas al equipo."
+      },
+      {
+        "enunciado": "¿Cómo se estructuran los manuales de certificación profesional de la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Por años de experiencia y cursos realizados", "En estándares, criterios e indicadores de competencia", "Mediante formularios de autoevaluación únicamente", "Por categorías de personal asistencial"],
+        "correcta": 1,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "Los manuales se organizan en estándares y criterios medibles con indicadores de evaluación."
+      },
+      {
+        "enunciado": "¿Qué carácter tiene la acreditación profesional ofrecida por la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": ["Obligatorio para personal del sistema público", "Recomendado para todos los niveles asistenciales", "Voluntario y orientado a la mejora y el reconocimiento profesional", "Exclusivo para centros hospitalarios"],
+        "correcta": 2,
+        "categorías": ["tema131", "calidad_profesional"],
+        "feedback": "La acreditación profesional es voluntaria y tiene como fin la mejora de la calidad asistencial y el reconocimiento del desempeño."
+      }      
+]

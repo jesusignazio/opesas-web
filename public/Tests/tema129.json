@@ -1,0 +1,265 @@
+[
+    {
+        "enunciado": "¿Cuál es la definición de cuasiincidente en el contexto de la seguridad del paciente?",
+        "opciones": ["Un evento que causa daño leve al paciente", "Un evento adverso no prevenible", "Un evento que no llega a producirse gracias a una barrera o intervención a tiempo", "Un error que produce consecuencias graves"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Un cuasiincidente es un error que no llega al paciente porque se intercepta a tiempo."
+      },
+      {
+        "enunciado": "¿Qué es un evento centinela según los sistemas de notificación de seguridad?",
+        "opciones": ["Un evento frecuente y leve", "Un evento grave, inesperado, que produce daño o muerte y requiere análisis inmediato", "Un fallo habitual en la comunicación clínica", "Un incidente que solo afecta al entorno, no al paciente"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento centinela: evento grave, inesperado, que causa daño severo o la muerte y exige análisis causa raíz."
+      },
+      {
+        "enunciado": "Un evento tipo Robinson se caracteriza por:",
+        "opciones": ["Su baja frecuencia pero alta mortalidad", "Su visibilidad inmediata para los profesionales", "Ser un fallo sistemático tolerado como normal", "Tener origen exclusivamente técnico"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento tipo Robinson: fallo crónico normalizado dentro de una organización, sin consecuencias inmediatas."
+      },
+      {
+        "enunciado": "¿Qué define a un evento adverso?",
+        "opciones": ["Error sin consecuencias", "Fallo del sistema que afecta a otros profesionales", "Daño no intencionado causado al paciente por la asistencia sanitaria", "Riesgo potencial aún no manifestado"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento adverso: daño no intencionado derivado de la asistencia, no de la evolución natural de la enfermedad."
+      },
+      {
+        "enunciado": "¿Qué es un error activo en el modelo de Reason?",
+        "opciones": ["Una consecuencia de la cultura organizacional", "Un error que se manifiesta directamente en la actividad asistencial", "Un fallo del diseño del sistema", "Un error corregido antes de llegar al paciente"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Error activo: error directamente observable en la práctica clínica, cometido por el profesional."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a un error latente según James Reason?",
+        "opciones": ["Es visible de inmediato", "Afecta a la relación profesional-paciente", "Está oculto en el sistema hasta que se manifiesta por una concatenación de fallos", "Es un tipo de error intencionado"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Error latente: fallo oculto en el sistema que puede desencadenar un evento si se combinan otros factores."
+      },
+      {
+        "enunciado": "¿Qué entendemos por cultura justa en seguridad del paciente?",
+        "opciones": ["Tolerancia a todos los errores clínicos", "Evaluación sin consecuencias de cualquier incidente", "Equilibrio entre no culpabilizar y asumir responsabilidad cuando corresponde", "Fomento del castigo para evitar la repetición de fallos"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Cultura justa: promueve el aprendizaje sin castigo, salvo en negligencias o acciones deliberadas."
+      },
+      {
+        "enunciado": "¿Qué es un análisis causa raíz (ACR)?",
+        "opciones": ["Un sistema de penalización de errores", "Un método para identificar a los responsables de un error", "Una herramienta estructurada para analizar en profundidad eventos graves", "Una revisión estadística de incidentes leves"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "ACR: herramienta estructurada que identifica causas subyacentes en eventos adversos graves o centinela."
+      },
+      {
+        "enunciado": "¿Qué es un sistema de notificación no punitivo?",
+        "opciones": ["Un registro confidencial sin consecuencias disciplinarias", "Una base de datos judicial", "Un documento para sancionar al profesional responsable", "Un canal de quejas externas del paciente"],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Sistema de notificación no punitivo: permite informar de errores sin miedo a represalias, promoviendo la mejora."
+      },
+      {
+        "enunciado": "¿Qué describe mejor al análisis modal de fallos y efectos (AMFE)?",
+        "opciones": ["Una técnica legal de defensa ante demandas", "Un modelo para analizar eventos centinela pasados", "Una herramienta preventiva que identifica riesgos antes de que ocurran", "Una estadística de error médico individual"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El AMFE (FMEA): herramienta preventiva para analizar procesos y detectar posibles fallos antes de que ocurran."
+      },
+      
+      {
+        "enunciado": "¿Qué define a un evento centinela?",
+        "opciones": ["Un fallo sin consecuencias", "Un daño leve tratado en consulta", "Un evento grave e inesperado que causa muerte o daño físico/psicológico severo", "Un efecto secundario de un medicamento"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento centinela: evento grave, inesperado, que causa daño severo o la muerte y requiere análisis causa raíz."
+      },
+      {
+        "enunciado": "¿Cuál es la característica principal de un cuasiincidente?",
+        "opciones": ["Produce daño mínimo al paciente", "No se detecta hasta días después", "Es interceptado antes de llegar al paciente", "Se relaciona con errores administrativos"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Cuasiincidente: error que no llega al paciente porque se detecta o intercepta a tiempo."
+      },
+      {
+        "enunciado": "Un incidente con daño es aquel que:",
+        "opciones": ["No llega a afectar al paciente", "Produce algún nivel de daño clínico al paciente", "Es parte del curso natural de la enfermedad", "Implica una falta de comunicación pero sin consecuencias"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Incidente con daño: incidente que llega al paciente y le causa daño, aunque sea leve."
+      },
+      {
+        "enunciado": "¿Cuál es la definición de incidente sin daño?",
+        "opciones": ["Un error técnico del profesional", "Un incidente que llega al paciente pero no le causa daño", "Un riesgo potencial que no se materializa", "Un evento notificado por el paciente"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Incidente sin daño: llega al paciente pero no genera consecuencias clínicas observables."
+      },
+      {
+        "enunciado": "¿Qué es un evento tipo Robinson?",
+        "opciones": ["Un error puntual de un profesional", "Una situación anómala cronificada y normalizada por el entorno laboral", "Un incidente notificado directamente por el paciente", "Una complicación médica inevitable"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento tipo Robinson: desviación del procedimiento o riesgo aceptado como normal en la práctica habitual."
+      },
+      {
+        "enunciado": "¿Qué distingue a un cuasiincidente de un evento adverso?",
+        "opciones": ["El cuasiincidente solo ocurre en farmacia", "El cuasiincidente nunca causa daño al paciente", "El evento adverso no es notificado", "Ambos implican daño al paciente"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El cuasiincidente se detiene antes de alcanzar al paciente; no causa daño."
+      },
+      {
+        "enunciado": "¿Qué define un evento adverso prevenible?",
+        "opciones": ["Un efecto secundario inevitable", "Un error sin consecuencias", "Un daño que podría haberse evitado con una atención adecuada", "Un problema derivado del incumplimiento terapéutico del paciente"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento adverso prevenible: daño causado por asistencia sanitaria que se podría haber evitado."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor un evento centinela?",
+        "opciones": ["Siempre tiene consecuencias legales", "Requiere análisis causa raíz inmediato por su gravedad", "Es menos grave que un evento adverso", "No implica necesariamente daño al paciente"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento centinela: requiere análisis inmediato por el daño grave o muerte que produce."
+      },
+      {
+        "enunciado": "¿Qué distingue a un incidente con daño de un evento centinela?",
+        "opciones": ["El incidente con daño nunca requiere notificación", "El evento centinela es más leve", "El incidente con daño puede no ser grave; el centinela implica siempre alta gravedad", "Ambos siempre implican muerte"],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Incidente con daño: puede ser leve o moderado; evento centinela implica daño grave o muerte."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones describe mejor un evento centinela?",
+        "opciones": [
+          "Es un incidente que causa daño permanente o muerte al paciente",
+          "Es un evento grave que requiere revisión sistemática de causas",
+          "Implica un fallo que afecta a la seguridad del paciente de forma significativa",
+          "Se trata de un incidente sin consecuencias clínicas pero con alto riesgo potencial"
+        ],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El evento centinela es un evento grave que produce daño severo o muerte y requiere análisis causa raíz."
+      },
+      {
+        "enunciado": "¿Qué característica es común en un cuasiincidente?",
+        "opciones": [
+          "Se produce una desviación del procedimiento sin alcanzar al paciente",
+          "Se detecta un fallo que habría podido causar daño si no se hubiera corregido",
+          "No se genera daño, pero sí una amenaza potencial a la seguridad",
+          "Requiere intervención clínica tras su detección"
+        ],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El cuasiincidente es un fallo que se detecta a tiempo antes de llegar al paciente y producir daño."
+      },
+      {
+        "enunciado": "Un evento tipo Robinson se caracteriza por:",
+        "opciones": [
+          "Ser una práctica desviada de los protocolos que se ha normalizado en el entorno laboral",
+          "Producir errores por acumulación de pequeñas desviaciones organizativas",
+          "Estar relacionado con una exposición continuada al riesgo sin consecuencias visibles inmediatas",
+          "Implicar una omisión clínica por error de juicio profesional individual"
+        ],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El evento tipo Robinson describe una práctica incorrecta cronificada y tolerada por el entorno asistencial."
+      },
+      {
+        "enunciado": "¿Qué diferencia clave existe entre un incidente con daño y uno sin daño?",
+        "opciones": [
+          "El con daño requiere intervención terapéutica adicional, el sin daño no",
+          "El con daño afecta a la estancia o recuperación del paciente, el sin daño no",
+          "El sin daño llega al paciente pero no produce consecuencias clínicas, el con daño sí",
+          "Ambos se notifican, pero solo el con daño obliga a revisión estructurada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El incidente sin daño llega al paciente pero no produce consecuencias; el con daño sí produce alguna afectación clínica."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones puede clasificarse como evento adverso?",
+        "opciones": [
+          "Una reacción alérgica a un fármaco correctamente prescrito y administrado",
+          "Una caída en planta que causa fractura tras una omisión de barandillas",
+          "Un error de identificación que genera una demora en el tratamiento",
+          "Una infección nosocomial asociada a sonda vesical"
+        ],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El evento adverso implica daño al paciente, como en el caso de una caída por fallo asistencial prevenible."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta mejor al concepto de cuasiincidente?",
+        "opciones": [
+          "Se produce una acción potencialmente dañina que es revertida antes de llegar al paciente",
+          "Implica una administración errónea de medicación detectada tras su administración",
+          "Conlleva daño leve que no requiere atención médica adicional",
+          "Es un error en la documentación que afecta indirectamente al tratamiento"
+        ],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Un cuasiincidente es interceptado antes de que llegue al paciente o produzca daño."
+      },
+      {
+        "enunciado": "Un evento centinela se diferencia de otros eventos adversos porque:",
+        "opciones": [
+          "Su gravedad obliga a realizar un análisis causa raíz",
+          "Está relacionado exclusivamente con cirugía",
+          "Solo se produce por errores individuales",
+          "Es reversible si se detecta a tiempo"
+        ],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El evento centinela exige respuesta inmediata e investigación profunda por su impacto grave o mortal."
+      },
+      {
+        "enunciado": "¿Qué afirmación sobre el evento tipo Robinson es más precisa?",
+        "opciones": [
+          "Es una desviación ocasional de un protocolo", 
+          "Es una práctica irregular tolerada por el entorno clínico", 
+          "Tiene un origen exclusivamente técnico", 
+          "Se detecta solo a través de revisión externa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "El evento Robinson refleja una práctica desviada que se ha vuelto normal dentro del contexto laboral."
+      },
+      {
+        "enunciado": "Un incidente con daño leve puede implicar:",
+        "opciones": [
+          "Una molestia transitoria sin tratamiento", 
+          "Una intervención adicional sin secuelas", 
+          "Una prolongación mínima de la estancia", 
+          "Una lesión menor resuelta con atención básica"
+        ],
+        "correcta": 3,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Un incidente con daño leve puede requerir atención simple, sin dejar secuelas importantes."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre incidentes sin daño es correcta?",
+        "opciones": [
+          "Llegan al paciente pero no generan efectos adversos", 
+          "Solo afectan al profesional, no al paciente", 
+          "No requieren notificación", 
+          "Siempre son consecuencia de fallos del sistema"
+        ],
+        "correcta": 0,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Incidente sin daño: llega al paciente pero no tiene impacto clínico negativo observable."
+      },
+
+      {
+        "enunciado": "¿Qué es un evento adverso en el ámbito sanitario?",
+        "opciones": ["Un resultado inesperado de la enfermedad", "Un daño producido por la asistencia sanitaria y no por la evolución natural del proceso", "Un error administrativo sin consecuencias", "Una complicación inevitable del tratamiento"],
+        "correcta": 1,
+        "categorías": ["tema129", "seguridad_paciente"],
+        "feedback": "Evento adverso: daño no intencionado causado por la asistencia sanitaria, no por la evolución natural."
+      }
+            
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes términos describe lo que el fármaco hace sobre el organismo?",
+        "opciones": ["Farmacodinámica", "Farmacocinética", "Biodisponibilidad", "Aclaramiento"],
+        "correcta": 0,
+        "categorías": ["tema137"],
+        "feedback": "Farmacodinámica: estudia los efectos del fármaco sobre el organismo y su mecanismo de acción."
+      },
+      {
+        "enunciado": "¿Qué término se refiere al estudio de la absorción, distribución, metabolismo y excreción de un fármaco?",
+        "opciones": ["Farmacocinética", "Farmacodinámica", "Toxicología", "Potencia"],
+        "correcta": 0,
+        "categorías": ["tema137"],
+        "feedback": "Farmacocinética: lo que el organismo hace con el fármaco (ADME)."
+      },
+      {
+        "enunciado": "¿Qué concepto hace referencia a la fracción del fármaco que alcanza la circulación sistémica?",
+        "opciones": ["Biodisponibilidad", "Semivida", "Aclaramiento", "Afinidad"],
+        "correcta": 0,
+        "categorías": ["tema137"],
+        "feedback": "Biodisponibilidad: proporción del fármaco administrado que llega a la circulación en forma activa."
+      },
+      {
+        "enunciado": "¿Qué es la semivida plasmática de un fármaco?",
+        "opciones": ["Tiempo que tarda en absorberse", "Tiempo necesario para eliminar el 50% del fármaco", "Tiempo hasta alcanzar el efecto máximo", "Duración del efecto terapéutico"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "Semivida (t½): tiempo necesario para que la concentración plasmática se reduzca a la mitad."
+      },
+      {
+        "enunciado": "¿Qué término define la capacidad del organismo para eliminar un fármaco?",
+        "opciones": ["Biodisponibilidad", "Aclaramiento", "Distribución", "Potencia"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "Aclaramiento: volumen de plasma del que se elimina completamente un fármaco por unidad de tiempo."
+      },
+      {
+        "enunciado": "¿Qué es la afinidad en farmacología?",
+        "opciones": ["Capacidad para activar un receptor", "Intensidad del efecto", "Grado de unión a su receptor", "Velocidad de absorción"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "Afinidad: capacidad de un fármaco para unirse a su receptor específico."
+      },
+      {
+        "enunciado": "¿Qué concepto indica la dosis mínima necesaria para producir un efecto?",
+        "opciones": ["Potencia", "Eficacia", "Afinidad", "Biodisponibilidad"],
+        "correcta": 0,
+        "categorías": ["tema137"],
+        "feedback": "Potencia: cantidad de fármaco necesaria para producir un determinado efecto."
+      },
+      {
+        "enunciado": "¿Qué es la eficacia en farmacología?",
+        "opciones": ["Capacidad para unirse al receptor", "Cantidad absorbida del fármaco", "Grado máximo de efecto que puede alcanzar", "Velocidad de distribución"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "Eficacia: capacidad de un fármaco para producir el efecto máximo esperado."
+      },
+      {
+        "enunciado": "¿Qué describe el volumen de distribución (Vd)?",
+        "opciones": ["Concentración plasmática alcanzada", "Cantidad de fármaco en orina", "Grado de unión a proteínas plasmáticas", "Hipotético volumen en el que se disuelve el fármaco en el cuerpo"],
+        "correcta": 3,
+        "categorías": ["tema137"],
+        "feedback": "Volumen de distribución: relación entre la dosis y la concentración plasmática; indica la dispersión del fármaco por los tejidos."
+      },
+      {
+        "enunciado": "¿Qué propiedad farmacocinética puede influir directamente en la frecuencia de administración de un fármaco?",
+        "opciones": ["Aclaramiento", "Semivida", "Afinidad", "Potencia"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "La semivida determina cuánto dura el fármaco en el organismo, y por tanto, cuán frecuentemente debe administrarse."
+      },
+      {
+        "enunciado": "¿Qué fase del proceso farmacocinético implica la llegada del fármaco desde el sitio de administración a la sangre?",
+        "opciones": ["Distribución", "Absorción", "Metabolismo", "Excreción"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "La absorción es el paso inicial del fármaco hacia la circulación sistémica."
+      },
+      {
+        "enunciado": "¿Qué proceso farmacocinético transforma el fármaco en compuestos más fáciles de eliminar?",
+        "opciones": ["Absorción", "Distribución", "Metabolismo", "Biodisponibilidad"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "El metabolismo convierte el fármaco en metabolitos más polares para su eliminación, principalmente en hígado."
+      },
+      {
+        "enunciado": "¿Qué fase sigue a la absorción en la farmacocinética clásica?",
+        "opciones": ["Excreción", "Distribución", "Metabolismo", "Aclaramiento"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "Después de ser absorbido, el fármaco se distribuye por los compartimentos corporales."
+      },
+      {
+        "enunciado": "¿Qué término indica la relación entre la dosis administrada y la concentración que se alcanza en sangre?",
+        "opciones": ["Biodisponibilidad", "Aclaramiento", "Potencia", "Afinidad"],
+        "correcta": 0,
+        "categorías": ["tema137"],
+        "feedback": "La biodisponibilidad refleja qué fracción de la dosis llega en forma activa a la circulación sistémica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos corresponde a la farmacodinamia?",
+        "opciones": ["Eliminación renal", "Afinidad por el receptor", "Metabolismo hepático", "Distribución tisular"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "La farmacodinamia estudia la interacción del fármaco con su diana biológica (receptores, enzimas, etc.)."
+      },
+      {
+        "enunciado": "¿Qué parámetro refleja cuánto fármaco es eliminado del cuerpo por unidad de tiempo?",
+        "opciones": ["Volumen de distribución", "Aclaramiento", "Afinidad", "Eficacia"],
+        "correcta": 1,
+        "categorías": ["tema137"],
+        "feedback": "El aclaramiento mide la eficacia del cuerpo para eliminar el fármaco (renal, hepático, etc.)."
+      },
+      {
+        "enunciado": "¿Qué significa que un fármaco tenga una alta potencia?",
+        "opciones": ["Produce más efectos secundarios", "Requiere dosis mayores", "Necesita menor dosis para producir efecto", "Tiene más biodisponibilidad"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "Un fármaco potente necesita menos dosis para alcanzar el mismo efecto que otro menos potente."
+      },
+      {
+        "enunciado": "¿Qué propiedad influye en la rapidez con la que un fármaco alcanza su efecto terapéutico?",
+        "opciones": ["Semivida", "Metabolismo", "Absorción", "Excreción"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "Una absorción rápida permite que el fármaco llegue antes al plasma y actúe más pronto."
+      },
+      {
+        "enunciado": "¿Qué proceso determina principalmente la duración del efecto de un fármaco?",
+        "opciones": ["Distribución", "Absorción", "Excreción", "Metabolismo"],
+        "correcta": 3,
+        "categorías": ["tema137"],
+        "feedback": "El metabolismo (junto con la excreción) reduce la concentración activa y, por tanto, el efecto del fármaco."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos se relaciona más con la acción biológica del fármaco en el cuerpo?",
+        "opciones": ["Farmacocinética", "Excreción", "Farmacodinamia", "Aclaramiento"],
+        "correcta": 2,
+        "categorías": ["tema137"],
+        "feedback": "La farmacodinamia explica cómo y dónde actúa el fármaco, su mecanismo y sus efectos."
+      }
+            
+]

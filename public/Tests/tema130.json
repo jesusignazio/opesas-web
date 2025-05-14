@@ -1,0 +1,212 @@
+[
+      {
+        "enunciado": "¿Cuál de los siguientes es un tipo de estudio propio de la investigación cualitativa?",
+        "opciones": ["Ensayo clínico controlado", "Estudio fenomenológico", "Estudio transversal", "Estudio ecológico"],
+        "correcta": 1,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "El estudio fenomenológico es un diseño cualitativo centrado en comprender la experiencia vivida de los participantes."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio cualitativo busca comprender las creencias y significados compartidos dentro de un grupo cultural?",
+        "opciones": ["Estudio etnográfico", "Estudio de casos", "Investigación-acción", "Estudio fenomenológico"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La etnografía estudia culturas y subculturas mediante observación prolongada e inmersión."
+      },
+      {
+        "enunciado": "¿Qué diseño cualitativo es más adecuado para explorar un proceso social desde el punto de vista de los actores implicados?",
+        "opciones": ["Teoría fundamentada", "Estudio de cohorte", "Estudio caso-control", "Ensayo cruzado"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La teoría fundamentada (grounded theory) busca desarrollar una teoría explicativa desde los datos recogidos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diseños cualitativos se centra en analizar en profundidad una situación concreta dentro de su contexto real?",
+        "opciones": ["Estudio de casos", "Estudio fenomenológico", "Estudio longitudinal", "Estudio de intervención"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "El estudio de casos analiza a fondo un fenómeno dentro de su entorno real, con múltiples fuentes de información."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio cualitativo combina acción práctica con investigación participativa para promover el cambio?",
+        "opciones": ["Investigación-acción", "Etnografía", "Teoría fundamentada", "Estudio de casos múltiples"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La investigación-acción implica a los participantes para mejorar su realidad mediante reflexión e intervención."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes enfoques cualitativos está más centrado en explorar la vivencia subjetiva de un fenómeno?",
+        "opciones": ["Estudio fenomenológico", "Estudio ecológico", "Estudio transversal", "Estudio de intervención"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "El estudio fenomenológico se enfoca en comprender cómo los individuos experimentan un fenómeno determinado."
+      },
+      {
+        "enunciado": "¿Qué diseño cualitativo se utiliza comúnmente para desarrollar teorías emergentes desde los datos y no desde hipótesis previas?",
+        "opciones": ["Teoría fundamentada", "Estudio longitudinal", "Estudio experimental", "Investigación correlacional"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La grounded theory se basa en la recolección y análisis iterativo de datos para construir teoría inductivamente."
+      },
+      {
+        "enunciado": "¿Qué tipo de estudio cualitativo puede incluir entrevistas, observación y documentos para analizar un fenómeno en profundidad?",
+        "opciones": ["Estudio de casos", "Estudio ecológico", "Ensayo clínico", "Estudio transversal analítico"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "El estudio de casos integra múltiples técnicas para analizar fenómenos complejos en su contexto."
+      },
+      {
+        "enunciado": "¿Cuál de estos diseños cualitativos tiene como objetivo principal comprender las reglas sociales implícitas de un colectivo?",
+        "opciones": ["Etnografía", "Investigación-acción", "Estudio de cohortes", "Estudio fenomenológico"],
+        "correcta": 0,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La etnografía permite comprender las normas, valores y significados de una cultura o subgrupo."
+      },
+      {
+        "enunciado": "¿Qué caracteriza a los estudios cualitativos frente a los cuantitativos?",
+        "opciones": ["Buscan explicaciones estadísticas", "Usan muestreo aleatorio", "Exploran significados y experiencias en profundidad", "Se centran en probar hipótesis con grandes muestras"],
+        "correcta": 2,
+        "categorías": ["tema130", "investigacion_cualitativa"],
+        "feedback": "La investigación cualitativa profundiza en significados, experiencias y contextos, no en generalización numérica."
+      },
+      {
+  "enunciado": "¿Cuál de los siguientes enfoques cualitativos se centra en desarrollar explicaciones teóricas desde los datos obtenidos en campo?",
+  "opciones": ["Teoría fundamentada", "Estudio transversal", "Estudio de casos", "Investigación-acción"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La teoría fundamentada (grounded theory) busca construir teoría a partir de los datos, de forma inductiva."
+},
+{
+  "enunciado": "¿Qué enfoque cualitativo se basa en observar directamente la vida cotidiana de una comunidad o grupo cultural?",
+  "opciones": ["Etnografía", "Estudio fenomenológico", "Investigación-acción", "Estudio observacional analítico"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La etnografía se basa en la observación participante prolongada de un grupo social o cultural."
+},
+{
+  "enunciado": "¿Cuál de estos diseños cualitativos se caracteriza por integrar acción, reflexión y participación comunitaria?",
+  "opciones": ["Investigación-acción", "Estudio fenomenológico", "Estudio ecológico", "Teoría fundamentada"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La investigación-acción busca transformar la realidad con la participación activa de los involucrados."
+},
+{
+  "enunciado": "¿Cuál de los siguientes enfoques cualitativos tiene como finalidad comprender cómo una persona vive una situación concreta?",
+  "opciones": ["Estudio fenomenológico", "Estudio de cohortes", "Teoría fundamentada", "Investigación correlacional"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "El enfoque fenomenológico se centra en la experiencia vivida y la percepción subjetiva de los participantes."
+},
+{
+  "enunciado": "¿Qué característica distingue al estudio de casos dentro de los diseños cualitativos?",
+  "opciones": ["Análisis exhaustivo de una unidad dentro de su contexto real", "Observación prolongada en el tiempo de una comunidad", "Diseño para comparar múltiples cohortes", "Prueba experimental de intervenciones clínicas"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "El estudio de casos permite analizar en profundidad una unidad (persona, grupo, evento) en su contexto real."
+},
+{
+  "enunciado": "¿Qué diseño cualitativo es más adecuado para investigar cómo se desarrollan patrones sociales o simbólicos en un grupo?",
+  "opciones": ["Etnografía", "Estudio transversal", "Estudio experimental", "Estudio correlacional"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La etnografía permite entender patrones sociales, culturales y simbólicos dentro de un grupo."
+},
+{
+  "enunciado": "¿Qué tipo de investigación cualitativa enfatiza la comprensión colectiva del fenómeno y la co-construcción del conocimiento?",
+  "opciones": ["Investigación-acción", "Estudio fenomenológico", "Estudio longitudinal", "Teoría fundamentada"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La investigación-acción se basa en procesos participativos, colaborativos y orientados al cambio social."
+},
+{
+  "enunciado": "¿Qué diseño cualitativo es útil cuando se quiere explorar un fenómeno desde la perspectiva de quienes lo han vivido, sin imponer categorías previas?",
+  "opciones": ["Estudio fenomenológico", "Teoría fundamentada", "Etnografía", "Estudio de casos múltiples"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "El estudio fenomenológico busca captar la esencia de la experiencia subjetiva sin estructuras previas."
+},
+{
+  "enunciado": "¿Cuál de los siguientes enfoques cualitativos puede involucrar múltiples fuentes de datos como entrevistas, documentos y observación?",
+  "opciones": ["Estudio de casos", "Estudio transversal descriptivo", "Teoría fundamentada deductiva", "Ensayo aleatorizado"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "El estudio de casos puede utilizar distintas fuentes de datos para un análisis profundo y contextualizado."
+},
+{
+  "enunciado": "¿Cuál es un rasgo común a los principales diseños cualitativos?",
+  "opciones": ["Muestreo teórico y análisis inductivo", "Aleatorización y análisis estadístico", "Comparación de grupos mediante variables numéricas", "Validación externa de hipótesis previas"],
+  "correcta": 0,
+  "categorías": ["tema130", "investigacion_cualitativa"],
+  "feedback": "La investigación cualitativa se basa en muestreo intencional y análisis inductivo, sin hipótesis cuantificables previas."
+},
+{
+    "enunciado": "¿Cuál de los siguientes enfoques cualitativos permite el desarrollo de una teoría directamente desde los datos recopilados?",
+    "opciones": ["Teoría fundamentada", "Investigación-acción", "Etnografía", "Estudio de casos único"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La teoría fundamentada (grounded theory) construye teoría desde los datos, sin partir de hipótesis previas."
+  },
+  {
+    "enunciado": "¿Qué diseño cualitativo resulta más útil para estudiar un fenómeno complejo desde múltiples fuentes y perspectivas?",
+    "opciones": ["Estudio de casos", "Estudio transversal", "Teoría fundamentada", "Estudio fenomenológico"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "El estudio de casos permite una exploración profunda de fenómenos complejos en su contexto real."
+  },
+  {
+    "enunciado": "¿Cuál es la finalidad principal de un estudio fenomenológico?",
+    "opciones": ["Explorar la vivencia subjetiva de los participantes ante un fenómeno", "Desarrollar una teoría explicativa desde el análisis", "Observar prácticas culturales desde dentro", "Aplicar intervenciones prácticas en el campo"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "El estudio fenomenológico busca comprender la esencia de la experiencia vivida por los participantes."
+  },
+  {
+    "enunciado": "¿Qué distingue a la investigación-acción del resto de estudios cualitativos?",
+    "opciones": ["La implicación activa de los participantes en la toma de decisiones", "El uso exclusivo de entrevistas individuales", "El análisis retrospectivo de experiencias pasadas", "El distanciamiento del investigador durante el proceso"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La investigación-acción implica a los participantes en un proceso cíclico de reflexión y mejora."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes diseños cualitativos requiere la inmersión prolongada del investigador en el entorno del grupo estudiado?",
+    "opciones": ["Etnografía", "Investigación-acción", "Estudio de casos múltiples", "Teoría fundamentada"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La etnografía implica observación participante prolongada para comprender las dinámicas culturales del grupo."
+  },
+  {
+    "enunciado": "¿Qué diseño cualitativo se orienta a comprender cómo se construyen e interpretan los significados sociales?",
+    "opciones": ["Etnografía", "Estudio de casos", "Estudio cuasiexperimental", "Estudio transversal analítico"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La etnografía busca comprender significados culturales y prácticas sociales desde la perspectiva del grupo."
+  },
+  {
+    "enunciado": "¿Qué caracteriza a un estudio de teoría fundamentada frente a un estudio fenomenológico?",
+    "opciones": ["Busca desarrollar teoría explicativa desde el análisis comparativo constante", "Parte de categorías predefinidas para explorar vivencias", "Requiere observación estructurada del entorno", "Suele enfocarse en un único caso con profundidad"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La grounded theory utiliza análisis comparativo constante para construir teoría desde los datos."
+  },
+  {
+    "enunciado": "¿Qué tipo de estudio cualitativo sería más apropiado para introducir mejoras en un servicio mediante la participación activa del equipo?",
+    "opciones": ["Investigación-acción", "Teoría fundamentada", "Estudio fenomenológico", "Estudio descriptivo mixto"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La investigación-acción busca transformación social o institucional con implicación directa de los actores."
+  },
+  {
+    "enunciado": "¿Cuál de estos diseños cualitativos permite comparar distintas unidades bajo un mismo fenómeno?",
+    "opciones": ["Estudio de casos múltiples", "Teoría fundamentada", "Estudio observacional descriptivo", "Estudio fenomenológico individual"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "Los estudios de casos múltiples permiten comparar diferentes contextos bajo un mismo fenómeno."
+  },
+  {
+    "enunciado": "¿Qué característica es compartida por todos los diseños cualitativos?",
+    "opciones": ["Interpretación subjetiva de la experiencia", "Uso exclusivo de observación directa", "Representatividad estadística del muestreo", "Estandarización de resultados cuantificables"],
+    "correcta": 0,
+    "categorías": ["tema130", "investigacion_cualitativa"],
+    "feedback": "La investigación cualitativa se enfoca en la interpretación del significado desde la perspectiva del sujeto."
+  }  
+]

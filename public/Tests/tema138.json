@@ -1,0 +1,157 @@
+[
+    {
+        "enunciado": "Atendiendo al IMC (Índice de Masa Corporal), entendemos que una persona adulta tiene normopeso:",
+        "opciones": ["Cuando su IMC está entre 20 y 26,9 Kg/m²", "Cuando su IMC está entre 17 y 20,9 Kg/m²", "Cuando su IMC está entre 18,5 y 24,9 Kg/m²", "Ninguna de las anteriores es correcta"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "Normopeso: IMC entre 18,5 y 24,9 Kg/m² según la OMS."
+      },
+      {
+        "enunciado": "Una persona con un IMC de 16,8 Kg/m² se clasifica como:",
+        "opciones": ["Normopeso", "Sobrepeso", "Delgadez severa", "Obesidad tipo I"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "Delgadez severa: IMC menor de 17 Kg/m²."
+      },
+      {
+        "enunciado": "Según la clasificación por IMC, el sobrepeso comienza cuando el índice es igual o superior a:",
+        "opciones": ["24,5 Kg/m²", "25 Kg/m²", "26 Kg/m²", "27,5 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Sobrepeso: IMC entre 25 y 29,9 Kg/m²."
+      },
+      {
+        "enunciado": "¿Cuál es el rango de IMC para la obesidad tipo I?",
+        "opciones": ["30–34,9 Kg/m²", "25–29,9 Kg/m²", "35–39,9 Kg/m²", "Mayor de 40 Kg/m²"],
+        "correcta": 0,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo I: IMC entre 30 y 34,9 Kg/m²."
+      },
+      {
+        "enunciado": "Una persona con un IMC de 36,2 Kg/m² se clasifica como:",
+        "opciones": ["Obesidad tipo I", "Obesidad tipo II", "Obesidad mórbida", "Sobrepeso alto"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo II: IMC entre 35 y 39,9 Kg/m²."
+      },
+      {
+        "enunciado": "¿A partir de qué valor de IMC se considera obesidad mórbida (tipo III)?",
+        "opciones": ["40 Kg/m²", "38 Kg/m²", "39,9 Kg/m²", "45 Kg/m²"],
+        "correcta": 0,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo III (mórbida): IMC ≥ 40 Kg/m²."
+      },
+      {
+        "enunciado": "Una persona con un IMC de 28,4 Kg/m² se encuentra en situación de:",
+        "opciones": ["Normopeso", "Sobrepeso", "Obesidad tipo I", "Delgadez moderada"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Sobrepeso: IMC entre 25 y 29,9 Kg/m²."
+      },
+      {
+        "enunciado": "El IMC se calcula dividiendo:",
+        "opciones": ["El peso en kg entre la talla en cm", "La talla en metros entre el peso en kg", "El peso en kg entre la talla en metros al cuadrado", "La talla al cuadrado entre el peso en kg"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "IMC = peso (kg) ÷ talla² (m²)."
+      },
+      {
+        "enunciado": "El IMC se calcula dividiendo:",
+        "opciones": ["El peso en kg entre la talla en cm", "La talla en metros entre el peso en kg", "El peso en kg entre la talla en metros al cuadrado", "La talla al cuadrado entre el peso en kg"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "IMC = peso (kg) ÷ talla² (m²)."
+      },
+      {
+        "enunciado": "El IMC se calcula dividiendo:",
+        "opciones": ["El peso en kg entre la talla en cm", "La talla en metros entre el peso en kg", "El peso en kg entre la talla en metros al cuadrado", "La talla al cuadrado entre el peso en kg"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "IMC = peso (kg) ÷ talla² (m²)."
+      },
+      {
+        "enunciado": "Una persona que pesa 90 kg y mide 1,70 m tiene un IMC de aproximadamente:",
+        "opciones": ["30,5 Kg/m²", "28,2 Kg/m²", "25,8 Kg/m²", "32,1 Kg/m²"],
+        "correcta": 0,
+        "categorías": ["tema138"],
+        "feedback": "90 ÷ (1,70²) = 90 ÷ 2,89 ≈ 31,1 Kg/m² (obesidad tipo I)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes valores representa delgadez moderada según IMC?",
+        "opciones": ["16,4 Kg/m²", "17,8 Kg/m²", "18,5 Kg/m²", "20,3 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Delgadez moderada: IMC entre 17 y 18,4 Kg/m²."
+      },
+      {
+        "enunciado": "¿Qué IMC corresponde a una situación de delgadez leve?",
+        "opciones": ["16,3 Kg/m²", "17,2 Kg/m²", "18,6 Kg/m²", "25,1 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Delgadez leve: IMC entre 17 y 18,4 Kg/m²."
+      },
+      {
+        "enunciado": "Una persona con un IMC de 42 Kg/m² se clasifica como:",
+        "opciones": ["Obesidad tipo I", "Obesidad tipo II", "Obesidad tipo III", "Sobrepeso"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo III (mórbida): IMC ≥ 40 Kg/m²."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el IMC es correcta?",
+        "opciones": ["El IMC se mide en centímetros cuadrados", "Un IMC de 29,5 es obesidad", "Un IMC de 24 está dentro del normopeso", "Un IMC de 18,2 es sobrepeso"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "Normopeso: IMC entre 18,5 y 24,9 Kg/m²."
+      },
+      {
+        "enunciado": "¿Qué IMC representa obesidad tipo II?",
+        "opciones": ["30–34,9 Kg/m²", "35–39,9 Kg/m²", "40–44,9 Kg/m²", "25–29,9 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo II: IMC entre 35 y 39,9 Kg/m²."
+      },
+      {
+        "enunciado": "El rango de normopeso según la OMS se encuentra entre:",
+        "opciones": ["18–24 Kg/m²", "18,5–24,9 Kg/m²", "19–25 Kg/m²", "18,5–26,9 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Normopeso según OMS: 18,5 a 24,9 Kg/m²."
+      },
+      {
+        "enunciado": "Una persona con un peso de 100 kg y una altura de 1,60 m tiene un IMC aproximado de:",
+        "opciones": ["35,5 Kg/m²", "39,1 Kg/m²", "41,3 Kg/m²", "44,0 Kg/m²"],
+        "correcta": 2,
+        "categorías": ["tema138"],
+        "feedback": "IMC = 100 ÷ (1,60²) = 100 ÷ 2,56 ≈ 39,1 Kg/m² (obesidad tipo II)."
+      },
+      {
+        "enunciado": "¿Qué valor de IMC indica sobrepeso según criterios internacionales?",
+        "opciones": ["24,5 Kg/m²", "25,5 Kg/m²", "29,9 Kg/m²", "35,1 Kg/m²"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Sobrepeso: IMC de 25 a 29,9 Kg/m²."
+      },
+      {
+        "enunciado": "Una persona con un IMC de 18,2 Kg/m² se clasifica como:",
+        "opciones": ["Delgadez leve", "Normopeso", "Delgadez moderada", "Sobrepeso"],
+        "correcta": 0,
+        "categorías": ["tema138"],
+        "feedback": "Delgadez leve: entre 17 y 18,4 Kg/m²."
+      },
+      {
+        "enunciado": "Un IMC de 34,8 Kg/m² corresponde a:",
+        "opciones": ["Sobrepeso", "Obesidad tipo I", "Obesidad tipo II", "Normopeso"],
+        "correcta": 1,
+        "categorías": ["tema138"],
+        "feedback": "Obesidad tipo I: entre 30 y 34,9 Kg/m²."
+      },
+      {
+        "enunciado": "¿Qué valor se obtiene al dividir 70 kg por 1,75² en metros?",
+        "opciones": ["22,9 Kg/m²", "24,5 Kg/m²", "26,1 Kg/m²", "28,3 Kg/m²"],
+        "correcta": 0,
+        "categorías": ["tema138"],
+        "feedback": "IMC = 70 ÷ 3,06 ≈ 22,9 Kg/m² (normopeso)."
+      }
+
+]

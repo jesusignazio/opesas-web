@@ -1,0 +1,1507 @@
+[
+    {
+        "enunciado": "Para realizar el diagnóstico de una determinada conducta, ¿qué instrumento propone explorar los factores predisponentes, facilitadores y reforzantes de dicha conducta?",
+        "opciones": ["Modelo de Prochaska y Di Clemente", "Modelo PRECEDE", "Modelo de etapas del cambio", "Modelo de Gagne"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo PRECEDE analiza factores que influyen en la conducta para diseñar intervenciones educativas."
+      },
+      {
+        "enunciado": "¿Qué herramienta se emplea en la visita domiciliaria para valorar el apoyo social percibido?",
+        "opciones": ["Apgar Familiar", "Índice de esfuerzo del cuidador", "Duke-UNC", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario Duke-UNC mide el apoyo social percibido, no el real."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar la funcionalidad de una familia desde la perspectiva del paciente?",
+        "opciones": ["Zarit", "Apgar Familiar", "Gijón", "Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El Apgar Familiar evalúa la percepción de funcionalidad familiar en cinco dimensiones."
+      },
+      {
+        "enunciado": "¿Qué modelo valora la disposición al cambio del paciente mediante fases como precontemplación o acción?",
+        "opciones": ["Modelo de Leininger", "Modelo PRECEDE", "Modelo de Prochaska y Di Clemente", "Modelo de promoción de salud de Pender"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Prochaska y Di Clemente describe las etapas del cambio conductual."
+      },
+      {
+        "enunciado": "¿Qué herramienta evalúa el nivel de esfuerzo del cuidador principal?",
+        "opciones": ["Escala de Yesavage", "Índice de Barthel", "Escala de Zarit", "Escala de Gijón"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit mide la sobrecarga del cuidador no profesional."
+      },
+      {
+        "enunciado": "¿Qué cuestionario se aplica para medir el riesgo social en personas mayores en su entorno habitual?",
+        "opciones": ["Pfeiffer", "Gijón", "Apgar Familiar", "Duke-UNC"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón valora factores como la vivienda, convivencia y apoyo social real."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes instrumentos se enfoca específicamente en el nivel de apoyo emocional y confidencial que percibe el paciente?",
+        "opciones": ["Índice de Barthel", "Escala de Tinetti", "Escala Duke-UNC", "Escala de Norton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el apoyo social percibido, en especial el afectivo y confidencial."
+      },
+      {
+        "enunciado": "Para detectar síntomas depresivos en personas mayores, se utiliza preferentemente:",
+        "opciones": ["Escala de Tinetti", "Escala de Yesavage", "Índice de Barthel", "Escala de Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage fue diseñada específicamente para valorar depresión en ancianos."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para valorar el riesgo de caída en mayores mediante observación del equilibrio y la marcha?",
+        "opciones": ["Escala de Norton", "Escala de Tinetti", "Índice de Lawton", "Test de Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti analiza el equilibrio y la marcha como predictores de caídas."
+      },
+      {
+        "enunciado": "¿Qué test permite detectar deterioro cognitivo leve mediante preguntas de orientación y memoria?",
+        "opciones": ["Test de Apgar familiar", "Escala de Braden", "Test de Pfeiffer", "Escala de Lawton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer es útil en cribado rápido de deterioro cognitivo en adultos mayores."
+      },
+      {
+        "enunciado": "¿Qué índice se usa para valorar la dependencia en actividades básicas de la vida diaria?",
+        "opciones": ["Índice de Barthel", "Escala de Yesavage", "Escala de Lawton", "Escala de Gijón"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel evalúa el grado de autonomía funcional básica."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa el grado de sobrecarga emocional del cuidador no profesional?",
+        "opciones": ["Escala de Braden", "Escala de Zarit", "Escala de Downton", "Índice de Barthel"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit mide el impacto emocional y físico del rol de cuidador informal."
+      },
+      {
+        "enunciado": "¿Cuál es el propósito del modelo PRECEDE?",
+        "opciones": ["Evaluar la autoestima del paciente", "Diseñar intervenciones educativas", "Valorar el estado nutricional", "Calcular el riesgo social"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PRECEDE es un modelo que ayuda a planificar estrategias de promoción de salud."
+      },
+      {
+        "enunciado": "¿Qué herramienta es útil para identificar familias disfuncionales desde la perspectiva emocional del paciente?",
+        "opciones": ["Test de Pfeiffer", "Duke-UNC", "Apgar Familiar", "Yesavage"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El Apgar Familiar valora cinco aspectos de la relación familiar como el afecto o la adaptabilidad."
+      },
+      {
+        "enunciado": "¿Qué escala analiza el riesgo de caídas según cinco factores, incluyendo medicación y déficits sensoriales?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Índice de Barthel", "Escala de Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton es una herramienta multifactorial para riesgo de caídas hospitalarias."
+      },
+      {
+        "enunciado": "¿Qué herramienta puede usarse en enfermería comunitaria para valorar el entorno sociofamiliar del anciano?",
+        "opciones": ["Índice de Barthel", "Escala de Gijón", "Test de Pfeiffer", "Escala de Yesavage"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón es adecuada para valorar riesgo social y nivel de apoyo en mayores."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes herramientas está diseñada para valorar el apoyo social que una persona percibe que tiene, no el real?",
+        "opciones": ["Escala de Gijón", "Duke-UNC", "Apgar Familiar", "Escala de Tinetti"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC se centra en el apoyo social subjetivo, clave en intervenciones comunitarias."
+      },
+      {
+        "enunciado": "¿Qué modelo incluye las fases de precontemplación, contemplación, preparación, acción y mantenimiento?",
+        "opciones": ["Modelo de Orem", "Modelo de Prochaska y Di Clemente", "Modelo de promoción de salud de Pender", "Modelo PRECEDE"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de etapas del cambio describe la progresión motivacional hacia la modificación de conducta."
+      },
+      {
+        "enunciado": "¿Qué escala puede alertar al profesional sobre el riesgo de abandono o negligencia social en el entorno familiar?",
+        "opciones": ["Duke-UNC", "Apgar Familiar", "Escala de Gijón", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón ayuda a detectar riesgo social y vulnerabilidad en mayores."
+      },
+      {
+        "enunciado": "Usted ha detectado que puede haber una disfunción familiar en un paciente. ¿Qué herramienta utilizaría en primera instancia?",
+        "opciones": ["Apgar familiar", "Escala socio familiar de Gijón", "Escala de incapacidad de la Cruz Roja", "Escala de Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El Apgar familiar es una herramienta breve para valorar el funcionamiento familiar."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas se usa para evaluar el riesgo de aparición de úlceras por presión?",
+        "opciones": ["Escala de Norton", "Índice de Barthel", "Escala de Pfeiffer", "Escala de Lawton-Brody"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Norton valora riesgo de UPP evaluando movilidad, incontinencia, estado físico y mental."
+      },
+      {
+        "enunciado": "¿Qué escala valora la sobrecarga del cuidador principal?",
+        "opciones": ["Escala de Lawton", "Escala de Zarit", "Índice de Barthel", "Escala de Tinetti"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit mide el grado de sobrecarga del cuidador informal."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas se emplea para valorar el riesgo de caídas?",
+        "opciones": ["Escala de Braden", "Escala de Tinetti", "Escala de Yesavage", "Índice de Katz"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti evalúa equilibrio y marcha, útil para valorar riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué índice se utiliza para valorar la dependencia en actividades básicas de la vida diaria?",
+        "opciones": ["Índice de Barthel", "Escala de Zarit", "Escala de Lawton", "Escala de Downton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel valora la capacidad funcional en tareas básicas como baño, vestido, movilidad, etc."
+      },
+      {
+        "enunciado": "¿Qué herramienta evalúa la capacidad para realizar actividades instrumentales de la vida diaria?",
+        "opciones": ["Índice de Barthel", "Escala de Lawton-Brody", "Escala de Norton", "Escala de Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton-Brody valora actividades como cocinar, manejar dinero, usar teléfono, etc."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el estado cognitivo brevemente en personas mayores?",
+        "opciones": ["Escala de Yesavage", "Índice de Barthel", "Mini-Mental State Examination (MMSE)", "Escala de Tinetti"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El MMSE (Mini-Examen Cognoscitivo) es ampliamente usado para detectar deterioro cognitivo."
+      },
+      {
+        "enunciado": "¿Qué escala permite detectar depresión en personas mayores de forma rápida y validada?",
+        "opciones": ["Escala de Yesavage", "Escala de Zarit", "Índice de Barthel", "Escala de Braden"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage (versión corta o larga) está diseñada para identificar síntomas depresivos en ancianos."
+      },
+      {
+        "enunciado": "¿Qué herramienta valora el deterioro cognitivo mediante 10 ítems con respuesta verdadero/falso?",
+        "opciones": ["Escala de Lawton", "Escala de Pfeiffer", "Índice de Barthel", "Escala de Norton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer es un cuestionario breve para valorar deterioro cognitivo leve o moderado."
+      },
+      {
+        "enunciado": "¿Qué escala puede ayudar a valorar el riesgo de úlceras por presión en pacientes encamados además de Norton?",
+        "opciones": ["Escala de Braden", "Escala de Yesavage", "Escala de Downton", "Escala de Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden valora percepción sensorial, humedad, actividad, movilidad, nutrición y fricción/cizalla."
+      },
+      {
+        "enunciado": "¿Qué escala valora riesgo de caídas considerando múltiples factores como medicación y alteraciones sensoriales?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Escala de Zarit", "Índice de Barthel"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton es una herramienta de cribado de riesgo de caídas hospitalarias basada en 5 factores."
+      },
+      {
+        "enunciado": "¿Qué herramienta valora el nivel sociofamiliar de una persona mayor en su entorno?",
+        "opciones": ["Escala de Gijón", "Escala de Yesavage", "Escala de Barthel", "Test de Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala sociofamiliar de Gijón se utiliza para detectar riesgo social en ancianos."
+      },
+      {
+        "enunciado": "¿Qué índice valora la independencia en tareas como vestirse, asearse o alimentarse?",
+        "opciones": ["Índice de Barthel", "Escala de Pfeiffer", "Escala de Lawton", "Escala de Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel mide el grado de autonomía en actividades básicas de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué test se usa comúnmente en atención primaria para cribado rápido de deterioro cognitivo?",
+        "opciones": ["Escala de Zarit", "Test de Pfeiffer", "Escala de Braden", "Test de Apgar familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer es simple, rápido y útil para detección precoz de deterioro cognitivo en consulta."
+      },
+      {
+        "enunciado": "¿Qué escala permite evaluar el equilibrio y la marcha en personas mayores?",
+        "opciones": ["Escala de Tinetti", "Escala de Norton", "Escala de Lawton", "Mini-Mental"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti se usa para evaluar equilibrio estático y dinámico, muy útil en geriatría."
+      },
+      {
+        "enunciado": "¿Qué escala es útil para identificar a pacientes en situación de soledad o falta de apoyo social?",
+        "opciones": ["Escala de Yesavage", "Escala de Gijón", "Escala de Braden", "Índice de Barthel"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón evalúa riesgo social en mayores, incluyendo apoyo familiar y convivencia."
+      },
+      {
+        "enunciado": "¿Qué test está especialmente diseñado para evaluar el riesgo de depresión geriátrica?",
+        "opciones": ["Pfeiffer", "Yesavage", "Tinetti", "Downton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage detecta sintomatología depresiva en personas mayores, útil en atención primaria."
+      },
+      {
+        "enunciado": "¿Qué índice valora las capacidades funcionales del anciano en tareas complejas del hogar?",
+        "opciones": ["Índice de Barthel", "Escala de Lawton-Brody", "Escala de Tinetti", "Escala de Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Lawton-Brody mide actividades instrumentales como cocinar, limpieza, uso del teléfono, etc."
+      },
+      {
+        "enunciado": "¿Qué test puede ayudar a valorar la competencia familiar en momentos de crisis o enfermedad?",
+        "opciones": ["Apgar familiar", "Escala de Zarit", "Mini-Mental", "Escala de Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El Apgar familiar es un cuestionario breve para valorar funcionalidad familiar percibida."
+      },
+      {
+        "enunciado": "¿Qué escala valora múltiples dominios para determinar si una persona mayor presenta fragilidad o dependencia?",
+        "opciones": ["Mini Nutritional Assessment", "Valoración geriátrica integral", "Escala de Gijón", "Escala de Norton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La valoración geriátrica integral combina aspectos físicos, cognitivos, sociales y funcionales."
+      },
+      {
+        "enunciado": "¿Qué herramienta se utiliza para valorar la calidad de vida relacionada con la salud en pacientes crónicos?",
+        "opciones": ["Escala de Lawton", "EuroQol-5D", "Escala de Norton", "Escala de Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El EuroQol-5D mide calidad de vida relacionada con la salud en cinco dimensiones."
+      },
+      {
+        "enunciado": "¿Qué escala se usa para valorar el estado nutricional de personas mayores?",
+        "opciones": ["Mini Nutritional Assessment (MNA)", "Escala de Yesavage", "Índice de Barthel", "Escala de Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La MNA evalúa el riesgo de desnutrición en mayores, incluyendo IMC, dieta, movilidad y otros factores."
+      },
+      {
+        "enunciado": "¿Qué instrumento evalúa la competencia cultural del profesional sanitario?",
+        "opciones": ["Escala de Lawton", "Purnell", "Tinetti", "PRECEDE"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Purnell permite valorar la competencia cultural en la atención sanitaria."
+      },
+      {
+        "enunciado": "¿Qué modelo promueve la salud desde un enfoque motivacional y preventivo?",
+        "opciones": ["Modelo de Orem", "Modelo de promoción de salud de Pender", "Modelo de Gijón", "Modelo de King"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Pender considera factores personales y ambientales que motivan conductas saludables."
+      },
+      {
+        "enunciado": "¿Qué instrumento se utiliza en valoración geriátrica para estimar riesgo funcional y social?",
+        "opciones": ["Escala de Zarit", "Valoración geriátrica integral", "Escala de Tinetti", "Escala de Downton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La valoración geriátrica integral combina áreas física, cognitiva, emocional y social."
+      },
+      {
+        "enunciado": "¿Qué escala específica mide la severidad del insomnio en adultos?",
+        "opciones": ["Insomnia Severity Index (ISI)", "Epworth", "Yesavage", "Duke-UNC"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI evalúa gravedad y repercusión del insomnio desde la percepción del paciente."
+      },
+      {
+        "enunciado": "¿Qué herramienta se aplica para valorar el nivel de sedación en cuidados intensivos?",
+        "opciones": ["Glasgow", "Escala de Ramsay", "Braden", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Ramsay evalúa el nivel de sedación en pacientes críticos."
+      },
+      {
+        "enunciado": "¿Qué modelo se centra en la conducta aprendida mediante refuerzos y observación?",
+        "opciones": ["Modelo de Bandura", "Modelo de Orem", "Modelo de King", "Modelo PRECEDE"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Bandura se basa en el aprendizaje social, con refuerzo y autoeficacia."
+      },
+      {
+        "enunciado": "¿Qué índice permite valorar la severidad de la disnea en la EPOC?",
+        "opciones": ["MNA", "mMRC", "EuroQol", "Norton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala modificada de la mMRC valora la disnea según grado de esfuerzo físico."
+      },
+      {
+        "enunciado": "¿Qué test se utiliza para detectar deterioro cognitivo en fases iniciales?",
+        "opciones": ["Mini-Mental", "Lawton", "Zarit", "Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El Mini-Mental State Examination (MMSE) es una prueba estandarizada para evaluar cognición."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa riesgo de malnutrición en pacientes hospitalizados o institucionalizados?",
+        "opciones": ["Escala de Zarit", "MNA", "Duke-UNC", "Lawton-Brody"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La Mini Nutritional Assessment detecta riesgo nutricional precoz en ancianos."
+      },
+      {
+        "enunciado": "¿Qué herramienta permite valorar la autoeficacia en la gestión de enfermedades crónicas?",
+        "opciones": ["Escala de Tinetti", "PAM (Patient Activation Measure)", "Barthel", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala PAM mide el grado de conocimiento, habilidad y confianza del paciente para autogestionarse."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para valorar el riesgo de dependencia de sustancias en adolescentes?",
+        "opciones": ["Test AUDIT", "Escala CAGE", "Test CRAFFT", "Escala Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "CRAFFT es un instrumento validado para detectar riesgo de consumo problemático en adolescentes."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora el riesgo de abandono terapéutico en pacientes crónicos?",
+        "opciones": ["Morisky-Green", "Zarit", "Barthel", "Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Morisky-Green valora la adherencia al tratamiento a través de 4 preguntas simples."
+      },
+      {
+        "enunciado": "¿Qué modelo utiliza las fases de valoración, diagnóstico, planificación, ejecución y evaluación?",
+        "opciones": ["Modelo de Prochaska", "Proceso enfermero", "Modelo de King", "Modelo PRECEDE"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El proceso enfermero es un método sistemático de atención en cinco etapas."
+      },
+      {
+        "enunciado": "¿Qué escala es útil para valorar dolor en pacientes no comunicativos o con deterioro cognitivo?",
+        "opciones": ["EVA", "PAINAD", "Yesavage", "CRAFFT"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD es una herramienta observacional para valorar dolor en pacientes con demencia avanzada."
+      },
+      {
+        "enunciado": "¿Qué test se usa para evaluar el nivel de somnolencia diurna?",
+        "opciones": ["Epworth", "Yesavage", "Zarit", "ISI"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Epworth mide somnolencia mediante situaciones cotidianas."
+      },
+      {
+        "enunciado": "¿Qué herramienta permite valorar el entorno social del paciente desde una perspectiva objetiva?",
+        "opciones": ["Duke-UNC", "Apgar Familiar", "Escala de Gijón", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón incluye vivienda, situación económica y apoyo social real."
+      },
+      {
+        "enunciado": "¿Qué instrumento permite identificar el nivel de motivación del paciente para cambiar un comportamiento de salud?",
+        "opciones": ["Modelo de King", "Modelo de Orem", "Modelo de Prochaska y Di Clemente", "Escala de Yesavage"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Prochaska y Di Clemente identifica las fases del cambio conductual (precontemplación, contemplación, etc.)."
+      },
+      {
+        "enunciado": "¿Qué herramienta se usa para detectar dolor en personas con deterioro cognitivo severo?",
+        "opciones": ["EVA", "PAINAD", "Zarit", "Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD (Pain Assessment in Advanced Dementia) permite evaluar dolor observacionalmente en pacientes con demencia."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para detectar el riesgo de caídas en pacientes hospitalizados, valorando cinco factores?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Escala de Braden", "Mini Nutritional Assessment"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton valora cinco factores de riesgo de caída: historia previa, medicamentos, estado sensorial, etc."
+      },
+      {
+        "enunciado": "¿Qué test de cribado detecta síntomas depresivos en mayores y puede aplicarse en atención primaria?",
+        "opciones": ["Pfeiffer", "Yesavage", "Lawton", "Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage (versión corta de 5 o 15 ítems) se emplea para detectar depresión geriátrica."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la adherencia terapéutica mediante 4 preguntas cerradas?",
+        "opciones": ["Escala de Zarit", "Test de Morisky-Green", "EuroQol-5D", "Test de Apgar familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Morisky-Green valora adherencia mediante preguntas simples sobre olvido o abandono del tratamiento."
+      },
+      {
+        "enunciado": "¿Qué índice evalúa la autonomía en actividades básicas como el aseo, la movilidad o la alimentación?",
+        "opciones": ["Índice de Barthel", "Escala de Pfeiffer", "Escala de Gijón", "Escala de Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel valora independencia en tareas básicas de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué escala mide el apoyo social que percibe una persona, especialmente el emocional y confidencial?",
+        "opciones": ["Apgar Familiar", "Escala de Gijón", "Duke-UNC", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el apoyo social percibido, no el estructural o real."
+      },
+      {
+        "enunciado": "¿Qué escala valora el equilibrio estático y dinámico para estimar el riesgo de caídas?",
+        "opciones": ["Braden", "Downton", "Tinetti", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti analiza equilibrio y marcha; muy útil en geriatría para valorar riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué modelo se aplica en planificación de programas de promoción de la salud desde un enfoque educativo y participativo?",
+        "opciones": ["Modelo PRECEDE", "Modelo de Leininger", "Modelo de Pender", "Modelo de Prochaska"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El modelo PRECEDE permite diseñar intervenciones educativas desde el análisis de factores de salud."
+      },
+      {
+        "enunciado": "¿Qué prueba evalúa el deterioro cognitivo mediante 10 ítems de respuesta verdadero/falso?",
+        "opciones": ["Pfeiffer", "Mini-Mental", "Yesavage", "Zarit"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer valora orientación, cálculo, memoria y comprensión verbal de forma sencilla."
+      },
+      {
+        "enunciado": "¿Qué herramienta detecta sobrecarga emocional y física en cuidadores informales de personas dependientes?",
+        "opciones": ["Lawton", "Zarit", "Tinetti", "Apgar Familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit es la más utilizada para valorar la sobrecarga del cuidador no profesional."
+      },
+      {
+        "enunciado": "¿Qué escala analiza el riesgo de aparición de úlceras por presión según factores como movilidad o nutrición?",
+        "opciones": ["Tinetti", "Braden", "Barthel", "Downton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden estima el riesgo de UPP considerando seis factores."
+      },
+      {
+        "enunciado": "¿Qué escala específica evalúa la situación sociofamiliar del anciano para detectar riesgo social?",
+        "opciones": ["Gijón", "Zarit", "Apgar", "Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón analiza apoyo, convivencia, recursos económicos y entorno físico del paciente mayor."
+      },
+      {
+        "enunciado": "¿Qué modelo teórico destaca la autoeficacia como variable clave en la modificación de conducta?",
+        "opciones": ["King", "Bandura", "Pender", "Gordon"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Bandura se centra en la autoeficacia como elemento motivacional para el cambio."
+      },
+      {
+        "enunciado": "¿Qué escala valora el impacto del insomnio en la vida diaria del paciente?",
+        "opciones": ["ISI", "Epworth", "Pfeiffer", "Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI (Insomnia Severity Index) permite evaluar intensidad y repercusión del insomnio."
+      },
+      {
+        "enunciado": "¿Qué herramienta de cribado se utiliza para valorar fragilidad en personas mayores?",
+        "opciones": ["Barthel", "Test de la marcha 4 metros", "FRAIL", "MMSE"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL es un cuestionario validado para detectar pacientes frágiles en atención primaria y hospitalaria."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la capacidad para realizar actividades domésticas y sociales (instrumentales)?",
+        "opciones": ["Lawton", "Barthel", "Braden", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton-Brody valora tareas instrumentales como usar el teléfono, cocinar o manejar dinero."
+      },
+      {
+        "enunciado": "¿Qué instrumento permite identificar el nivel de motivación del paciente para cambiar un comportamiento de salud?",
+        "opciones": ["Modelo de King", "Modelo de Orem", "Modelo de Prochaska y Di Clemente", "Escala de Yesavage"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Prochaska y Di Clemente identifica las fases del cambio conductual (precontemplación, contemplación, etc.)."
+      },
+      {
+        "enunciado": "¿Qué herramienta se usa para detectar dolor en personas con deterioro cognitivo severo?",
+        "opciones": ["EVA", "PAINAD", "Zarit", "Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD (Pain Assessment in Advanced Dementia) permite evaluar dolor observacionalmente en pacientes con demencia."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para detectar el riesgo de caídas en pacientes hospitalizados, valorando cinco factores?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Escala de Braden", "Mini Nutritional Assessment"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton valora cinco factores de riesgo de caída: historia previa, medicamentos, estado sensorial, etc."
+      },
+      {
+        "enunciado": "¿Qué test de cribado detecta síntomas depresivos en mayores y puede aplicarse en atención primaria?",
+        "opciones": ["Pfeiffer", "Yesavage", "Lawton", "Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage (versión corta de 5 o 15 ítems) se emplea para detectar depresión geriátrica."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la adherencia terapéutica mediante 4 preguntas cerradas?",
+        "opciones": ["Escala de Zarit", "Test de Morisky-Green", "EuroQol-5D", "Test de Apgar familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Morisky-Green valora adherencia mediante preguntas simples sobre olvido o abandono del tratamiento."
+      },
+      {
+        "enunciado": "¿Qué índice evalúa la autonomía en actividades básicas como el aseo, la movilidad o la alimentación?",
+        "opciones": ["Índice de Barthel", "Escala de Pfeiffer", "Escala de Gijón", "Escala de Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel valora independencia en tareas básicas de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué escala mide el apoyo social que percibe una persona, especialmente el emocional y confidencial?",
+        "opciones": ["Apgar Familiar", "Escala de Gijón", "Duke-UNC", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el apoyo social percibido, no el estructural o real."
+      },
+      {
+        "enunciado": "¿Qué escala valora el equilibrio estático y dinámico para estimar el riesgo de caídas?",
+        "opciones": ["Braden", "Downton", "Tinetti", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti analiza equilibrio y marcha; muy útil en geriatría para valorar riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué modelo se aplica en planificación de programas de promoción de la salud desde un enfoque educativo y participativo?",
+        "opciones": ["Modelo PRECEDE", "Modelo de Leininger", "Modelo de Pender", "Modelo de Prochaska"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El modelo PRECEDE permite diseñar intervenciones educativas desde el análisis de factores de salud."
+      },
+      {
+        "enunciado": "¿Qué prueba evalúa el deterioro cognitivo mediante 10 ítems de respuesta verdadero/falso?",
+        "opciones": ["Pfeiffer", "Mini-Mental", "Yesavage", "Zarit"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer valora orientación, cálculo, memoria y comprensión verbal de forma sencilla."
+      },
+      {
+        "enunciado": "¿Qué herramienta detecta sobrecarga emocional y física en cuidadores informales de personas dependientes?",
+        "opciones": ["Lawton", "Zarit", "Tinetti", "Apgar Familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit es la más utilizada para valorar la sobrecarga del cuidador no profesional."
+      },
+      {
+        "enunciado": "¿Qué escala analiza el riesgo de aparición de úlceras por presión según factores como movilidad o nutrición?",
+        "opciones": ["Tinetti", "Braden", "Barthel", "Downton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden estima el riesgo de UPP considerando seis factores."
+      },
+      {
+        "enunciado": "¿Qué escala específica evalúa la situación sociofamiliar del anciano para detectar riesgo social?",
+        "opciones": ["Gijón", "Zarit", "Apgar", "Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón analiza apoyo, convivencia, recursos económicos y entorno físico del paciente mayor."
+      },
+      {
+        "enunciado": "¿Qué modelo teórico destaca la autoeficacia como variable clave en la modificación de conducta?",
+        "opciones": ["King", "Bandura", "Pender", "Gordon"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Bandura se centra en la autoeficacia como elemento motivacional para el cambio."
+      },
+      {
+        "enunciado": "¿Qué escala valora el impacto del insomnio en la vida diaria del paciente?",
+        "opciones": ["ISI", "Epworth", "Pfeiffer", "Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI (Insomnia Severity Index) permite evaluar intensidad y repercusión del insomnio."
+      },
+      {
+        "enunciado": "¿Qué herramienta de cribado se utiliza para valorar fragilidad en personas mayores?",
+        "opciones": ["Barthel", "Test de la marcha 4 metros", "FRAIL", "MMSE"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL es un cuestionario validado para detectar pacientes frágiles en atención primaria y hospitalaria."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la capacidad para realizar actividades domésticas y sociales (instrumentales)?",
+        "opciones": ["Lawton", "Barthel", "Braden", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton-Brody valora tareas instrumentales como usar el teléfono, cocinar o manejar dinero."
+      },
+      {
+        "enunciado": "¿Qué instrumento permite identificar el nivel de motivación del paciente para cambiar un comportamiento de salud?",
+        "opciones": ["Modelo de King", "Modelo de Orem", "Modelo de Prochaska y Di Clemente", "Escala de Yesavage"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Prochaska y Di Clemente identifica las fases del cambio conductual (precontemplación, contemplación, etc.)."
+      },
+      {
+        "enunciado": "¿Qué herramienta se usa para detectar dolor en personas con deterioro cognitivo severo?",
+        "opciones": ["EVA", "PAINAD", "Zarit", "Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD (Pain Assessment in Advanced Dementia) permite evaluar dolor observacionalmente en pacientes con demencia."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para detectar el riesgo de caídas en pacientes hospitalizados, valorando cinco factores?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Escala de Braden", "Mini Nutritional Assessment"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton valora cinco factores de riesgo de caída: historia previa, medicamentos, estado sensorial, etc."
+      },
+      {
+        "enunciado": "¿Qué test de cribado detecta síntomas depresivos en mayores y puede aplicarse en atención primaria?",
+        "opciones": ["Pfeiffer", "Yesavage", "Lawton", "Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage (versión corta de 5 o 15 ítems) se emplea para detectar depresión geriátrica."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la adherencia terapéutica mediante 4 preguntas cerradas?",
+        "opciones": ["Escala de Zarit", "Test de Morisky-Green", "EuroQol-5D", "Test de Apgar familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Morisky-Green valora adherencia mediante preguntas simples sobre olvido o abandono del tratamiento."
+      },
+      {
+        "enunciado": "¿Qué índice evalúa la autonomía en actividades básicas como el aseo, la movilidad o la alimentación?",
+        "opciones": ["Índice de Barthel", "Escala de Pfeiffer", "Escala de Gijón", "Escala de Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel valora independencia en tareas básicas de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué escala mide el apoyo social que percibe una persona, especialmente el emocional y confidencial?",
+        "opciones": ["Apgar Familiar", "Escala de Gijón", "Duke-UNC", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el apoyo social percibido, no el estructural o real."
+      },
+      {
+        "enunciado": "¿Qué escala valora el equilibrio estático y dinámico para estimar el riesgo de caídas?",
+        "opciones": ["Braden", "Downton", "Tinetti", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti analiza equilibrio y marcha; muy útil en geriatría para valorar riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué modelo se aplica en planificación de programas de promoción de la salud desde un enfoque educativo y participativo?",
+        "opciones": ["Modelo PRECEDE", "Modelo de Leininger", "Modelo de Pender", "Modelo de Prochaska"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El modelo PRECEDE permite diseñar intervenciones educativas desde el análisis de factores de salud."
+      },
+      {
+        "enunciado": "¿Qué prueba evalúa el deterioro cognitivo mediante 10 ítems de respuesta verdadero/falso?",
+        "opciones": ["Pfeiffer", "Mini-Mental", "Yesavage", "Zarit"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer valora orientación, cálculo, memoria y comprensión verbal de forma sencilla."
+      },
+      {
+        "enunciado": "¿Qué herramienta detecta sobrecarga emocional y física en cuidadores informales de personas dependientes?",
+        "opciones": ["Lawton", "Zarit", "Tinetti", "Apgar Familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit es la más utilizada para valorar la sobrecarga del cuidador no profesional."
+      },
+      {
+        "enunciado": "¿Qué escala analiza el riesgo de aparición de úlceras por presión según factores como movilidad o nutrición?",
+        "opciones": ["Tinetti", "Braden", "Barthel", "Downton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden estima el riesgo de UPP considerando seis factores."
+      },
+      {
+        "enunciado": "¿Qué escala específica evalúa la situación sociofamiliar del anciano para detectar riesgo social?",
+        "opciones": ["Gijón", "Zarit", "Apgar", "Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón analiza apoyo, convivencia, recursos económicos y entorno físico del paciente mayor."
+      },
+      {
+        "enunciado": "¿Qué modelo teórico destaca la autoeficacia como variable clave en la modificación de conducta?",
+        "opciones": ["King", "Bandura", "Pender", "Gordon"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El modelo de Bandura se centra en la autoeficacia como elemento motivacional para el cambio."
+      },
+      {
+        "enunciado": "¿Qué escala valora el impacto del insomnio en la vida diaria del paciente?",
+        "opciones": ["ISI", "Epworth", "Pfeiffer", "Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI (Insomnia Severity Index) permite evaluar intensidad y repercusión del insomnio."
+      },
+      {
+        "enunciado": "¿Qué herramienta de cribado se utiliza para valorar fragilidad en personas mayores?",
+        "opciones": ["Barthel", "Test de la marcha 4 metros", "FRAIL", "MMSE"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL es un cuestionario validado para detectar pacientes frágiles en atención primaria y hospitalaria."
+      },
+      {
+        "enunciado": "¿Qué instrumento valora la capacidad para realizar actividades domésticas y sociales (instrumentales)?",
+        "opciones": ["Lawton", "Barthel", "Braden", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton-Brody valora tareas instrumentales como usar el teléfono, cocinar o manejar dinero."
+      },      
+      {
+        "enunciado": "¿Qué escala es adecuada para valorar el riesgo de desnutrición en personas mayores en atención primaria?",
+        "opciones": ["Escala de Braden", "Mini Nutritional Assessment (MNA)", "Índice de Barthel", "Escala de Yesavage"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La MNA permite detectar desnutrición o riesgo nutricional precoz en personas mayores."
+      },
+      {
+        "enunciado": "¿Qué instrumento mide el grado de sedación en pacientes críticos de forma rápida y objetiva?",
+        "opciones": ["Escala de Glasgow", "Escala de Ramsay", "Test de Pfeiffer", "PAINAD"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Ramsay valora el nivel de sedación en pacientes ingresados, especialmente en UCI."
+      },
+      {
+        "enunciado": "¿Qué herramienta es útil para valorar la calidad de vida relacionada con la salud de forma genérica?",
+        "opciones": ["Mini-Mental", "EuroQol-5D", "Barthel", "Lawton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El EuroQol-5D evalúa cinco dimensiones de salud y se emplea en estudios de calidad de vida."
+      },
+      {
+        "enunciado": "¿Qué escala valora riesgo de caídas en personas institucionalizadas, considerando factores múltiples?",
+        "opciones": ["Escala de Tinetti", "Escala de Downton", "Escala de Barthel", "Escala de Lawton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton valora historia de caídas, fármacos, alteraciones sensoriales, estado mental y marcha."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para detectar síntomas depresivos en personas mayores?",
+        "opciones": ["Escala de Yesavage", "Escala de Downton", "Mini-Mental", "Escala de Braden"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage es específica para cribado de depresión geriátrica."
+      },
+      {
+        "enunciado": "¿Qué herramienta se usa para valorar el dolor en pacientes con comunicación verbal limitada?",
+        "opciones": ["EVA", "PAINAD", "Escala de Ramsay", "Test de Epworth"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD permite una valoración del dolor en personas con demencia avanzada mediante observación."
+      },
+      {
+        "enunciado": "¿Qué índice mide independencia en actividades básicas como comer, moverse o vestirse?",
+        "opciones": ["Barthel", "Lawton", "Zarit", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel evalúa el grado de autonomía funcional básica."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa la función cognitiva con una puntuación máxima de 30?",
+        "opciones": ["Escala de Pfeiffer", "Mini-Mental", "Yesavage", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El Mini-Mental State Examination (MMSE) es un test de cribado para deterioro cognitivo."
+      },
+      {
+        "enunciado": "¿Qué instrumento evalúa la carga emocional y física del cuidador principal no profesional?",
+        "opciones": ["Zarit", "Barthel", "Tinetti", "Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit valora el nivel de sobrecarga del cuidador informal."
+      },
+      {
+        "enunciado": "¿Qué escala valora el riesgo de aparición de úlceras por presión en pacientes encamados?",
+        "opciones": ["Braden", "Tinetti", "Lawton", "Barthel"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden evalúa factores como nutrición, movilidad, humedad, fricción, etc."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el grado de apoyo emocional y confidencial percibido por el paciente?",
+        "opciones": ["Gijón", "Apgar Familiar", "Duke-UNC", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario Duke-UNC mide el apoyo social subjetivo, no necesariamente el real."
+      },
+      {
+        "enunciado": "¿Qué herramienta valora el entorno social y familiar de una persona mayor en su domicilio?",
+        "opciones": ["Barthel", "Zarit", "Escala de Gijón", "Mini-Mental"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Gijón mide factores sociales que pueden afectar a la salud de personas mayores."
+      },
+      {
+        "enunciado": "¿Qué escala se aplica para evaluar la marcha y el equilibrio en personas mayores?",
+        "opciones": ["Escala de Norton", "Tinetti", "Pfeiffer", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Tinetti se utiliza para predecir riesgo de caídas mediante análisis de equilibrio y marcha."
+      },
+      {
+        "enunciado": "¿Qué escala ayuda a identificar familias disfuncionales desde la percepción del paciente?",
+        "opciones": ["Zarit", "Escala de Gijón", "Apgar Familiar", "Lawton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El Apgar Familiar valora adaptabilidad, participación, afecto, etc., en el entorno familiar."
+      },
+      {
+        "enunciado": "¿Qué instrumento se emplea para medir el riesgo de fragilidad en ancianos mediante una sencilla batería?",
+        "opciones": ["Escala de Braden", "Índice de FRAIL", "Test de Pfeiffer", "EuroQol-5D"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El índice FRAIL incluye fatiga, resistencia, ambulación, enfermedades y pérdida de peso."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa la capacidad de una persona para llevar a cabo actividades instrumentales del hogar?",
+        "opciones": ["Barthel", "Lawton", "Braden", "Yesavage"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton-Brody evalúa funciones como cocinar, usar el teléfono o administrar la medicación."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para valorar la dependencia a la nicotina en personas fumadoras?",
+        "opciones": ["Escala de Fagerström", "Test de Morisky-Green", "Escala de Zarit", "Test AUDIT"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Fagerström evalúa el grado de dependencia física a la nicotina."
+      },
+      {
+        "enunciado": "¿Qué índice permite estimar la mortalidad a medio plazo en pacientes con múltiples enfermedades crónicas?",
+        "opciones": ["Índice de Charlson", "Profund Index", "Mini Nutritional Assessment", "Duke-UNC"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El Profund Index predice el riesgo de mortalidad en pacientes pluripatológicos y frágiles."
+      },
+      {
+        "enunciado": "¿Qué test se emplea para detectar riesgo de consumo problemático de alcohol?",
+        "opciones": ["CAGE", "AUDIT", "Fagerström", "PAINAD"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El AUDIT (Alcohol Use Disorders Identification Test) valora riesgo y consumo de alcohol."
+      },
+      {
+        "enunciado": "¿Qué test breve se utiliza para detectar trastornos relacionados con el consumo de alcohol?",
+        "opciones": ["CAGE", "FRAIL", "ISI", "Barthel"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "CAGE es un cuestionario de 4 preguntas útil para identificar consumo de riesgo o dependencia alcohólica."
+      },
+      {
+        "enunciado": "¿Qué escala se usa para medir la severidad del insomnio en adultos?",
+        "opciones": ["ISI (Insomnia Severity Index)", "Epworth", "Yesavage", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La ISI cuantifica la gravedad del insomnio y su impacto funcional y emocional."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa la somnolencia diurna excesiva mediante situaciones cotidianas?",
+        "opciones": ["ISI", "PAINAD", "Epworth", "CRAFFT"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Epworth mide la somnolencia en diferentes escenarios de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué índice se utiliza para valorar el riesgo nutricional en pacientes mayores institucionalizados?",
+        "opciones": ["Barthel", "MNA", "Zarit", "Lawton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La Mini Nutritional Assessment (MNA) detecta riesgo de malnutrición en mayores."
+      },
+      {
+        "enunciado": "¿Qué herramienta es útil para valorar el impacto del dolor en pacientes con demencia avanzada?",
+        "opciones": ["PAINAD", "Yesavage", "Barthel", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala PAINAD es observacional y se aplica en pacientes con deterioro cognitivo severo."
+      },
+      {
+        "enunciado": "¿Qué escala valora el riesgo de caídas considerando medicamentos, marcha y estado sensorial?",
+        "opciones": ["Downton", "Tinetti", "Braden", "Lawton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Downton es multifactorial y se usa en entornos hospitalarios y residenciales."
+      },
+      {
+        "enunciado": "¿Qué test valora adherencia al tratamiento mediante preguntas sobre olvidos y descuidos?",
+        "opciones": ["AUDIT", "Morisky-Green", "Zarit", "Epworth"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Morisky-Green es un test breve para detectar baja adherencia terapéutica."
+      },
+      {
+        "enunciado": "¿Qué escala valora el grado de sobrecarga que experimenta el cuidador principal?",
+        "opciones": ["Zarit", "Duke-UNC", "Gijón", "Yesavage"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit mide el impacto físico y emocional del cuidado en personas dependientes."
+      },
+      {
+        "enunciado": "¿Qué test evalúa si una persona mayor presenta síntomas depresivos?",
+        "opciones": ["Pfeiffer", "Yesavage", "Lawton", "Tinetti"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Yesavage permite identificar riesgo de depresión en personas mayores mediante cuestionario."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa el apoyo social percibido por el paciente en su entorno más cercano?",
+        "opciones": ["Duke-UNC", "Apgar Familiar", "Gijón", "Zarit"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC se enfoca en la percepción subjetiva del apoyo social recibido."
+      },
+      {
+        "enunciado": "¿Qué índice se usa para estimar la carga de comorbilidad y riesgo de mortalidad en pacientes crónicos?",
+        "opciones": ["FRAIL", "Charlson", "Barthel", "Tinetti"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Charlson asigna puntuaciones a patologías crónicas para predecir mortalidad."
+      },
+      {
+        "enunciado": "¿Qué índice mide fragilidad en personas mayores evaluando fatiga, resistencia y pérdida de peso?",
+        "opciones": ["FRAIL", "MNA", "Lawton", "Charlson"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL es una escala rápida y validada para identificar pacientes frágiles."
+      },
+      {
+        "enunciado": "¿Qué escala valora el riesgo de aparición de úlceras por presión?",
+        "opciones": ["Braden", "Lawton", "Barthel", "Downton"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden analiza movilidad, fricción, nutrición y humedad para valorar riesgo de UPP."
+      },
+      {
+        "enunciado": "¿Qué índice se utiliza para valorar el grado de dependencia en actividades básicas de la vida diaria?",
+        "opciones": ["Lawton", "Barthel", "MNA", "FRAIL"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel mide la capacidad funcional en tareas como baño, comida o desplazamientos."
+      },
+      {
+        "enunciado": "¿Qué instrumento evalúa el dolor mediante expresión facial, vocalizaciones y tensión corporal?",
+        "opciones": ["PAINAD", "ISI", "Zarit", "Epworth"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD es útil en personas con deterioro cognitivo que no pueden comunicar su dolor verbalmente."
+      },
+      {
+        "enunciado": "¿Qué escala permite identificar riesgo de dependencia al tabaco?",
+        "opciones": ["Fagerström", "CAGE", "Morisky", "AUDIT"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Fagerström clasifica la dependencia a la nicotina en leve, moderada o alta."
+      },
+      {
+        "enunciado": "¿Qué escala valora la calidad de vida relacionada con la salud de forma genérica y estandarizada?",
+        "opciones": ["EuroQol-5D", "Barthel", "Lawton", "Pfeiffer"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "EuroQol-5D evalúa movilidad, autocuidado, actividades, dolor y ansiedad en una escala universal."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para valorar la dependencia física a la nicotina?",
+        "opciones": ["Test AUDIT", "Escala de Fagerström", "Test CAGE", "Escala de Epworth"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Fagerström evalúa el nivel de dependencia a la nicotina mediante 6 preguntas."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el estado funcional de un paciente oncológico y estimar su pronóstico?",
+        "opciones": ["Índice de Karnofsky", "Índice de Barthel", "Profund Index", "Mini Nutritional Assessment"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Karnofsky cuantifica la capacidad funcional y autonomía, especialmente en pacientes con enfermedades avanzadas."
+      },
+      {
+        "enunciado": "Un paciente con un índice de Karnofsky de 70 se interpreta como:",
+        "opciones": ["Dependencia total", "Requiere asistencia ocasional", "Independiente", "Alta sedación"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Un valor de 70 indica que el paciente puede cuidar de sí mismo pero puede requerir asistencia ocasional."
+      },
+      {
+        "enunciado": "¿Qué test se emplea para medir el grado de sedación o agitación en pacientes críticos?",
+        "opciones": ["Richmond (RASS)", "Escala de Ramsay", "Escala de Glasgow", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala RASS (Richmond) se utiliza para monitorizar agitación o sedación en pacientes críticos."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea específicamente para medir el riesgo de caídas mediante observación de la marcha y el equilibrio?",
+        "opciones": ["Escala de Tinetti", "Braden", "Downton", "Barthel"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Tinetti valora equilibrio y marcha, especialmente útil en personas mayores con riesgo de caída."
+      },
+      {
+        "enunciado": "¿Qué escala permite clasificar el riesgo de desnutrición en personas mayores?",
+        "opciones": ["Lawton-Brody", "FRAIL", "MNA (Mini Nutritional Assessment)", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La MNA es una herramienta validada para detectar riesgo nutricional en ancianos."
+      },
+      {
+        "enunciado": "¿Qué escala valora el apoyo social subjetivo percibido por el paciente?",
+        "opciones": ["Escala de Gijón", "Duke-UNC", "Zarit", "Apgar Familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el nivel de apoyo emocional y confidencial percibido, no el estructural real."
+      },
+      {
+        "enunciado": "¿Qué test se utiliza para estimar la severidad del insomnio en adultos?",
+        "opciones": ["ISI", "Epworth", "CRAFFT", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI (Insomnia Severity Index) es un cuestionario validado para valorar la severidad del insomnio."
+      },
+      {
+        "enunciado": "¿Qué índice estima la carga de comorbilidad y predice mortalidad a largo plazo?",
+        "opciones": ["Índice de Charlson", "Índice de Barthel", "Karnofsky", "Profund Index"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Charlson otorga una puntuación a enfermedades crónicas para estimar riesgo de mortalidad."
+      },
+      {
+        "enunciado": "¿Qué escala valora el nivel de dependencia en funciones instrumentales como manejar dinero o cocinar?",
+        "opciones": ["Barthel", "Lawton-Brody", "Karnofsky", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton valora independencia en actividades instrumentales de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para valorar la dependencia física a la nicotina?",
+        "opciones": ["Test AUDIT", "Escala de Fagerström", "Test CAGE", "Escala de Epworth"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Fagerström evalúa el nivel de dependencia a la nicotina mediante 6 preguntas."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el estado funcional de un paciente oncológico y estimar su pronóstico?",
+        "opciones": ["Índice de Karnofsky", "Índice de Barthel", "Profund Index", "Mini Nutritional Assessment"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Karnofsky cuantifica la capacidad funcional y autonomía, especialmente en pacientes con enfermedades avanzadas."
+      },
+      {
+        "enunciado": "Un paciente con un índice de Karnofsky de 70 se interpreta como:",
+        "opciones": ["Dependencia total", "Requiere asistencia ocasional", "Independiente", "Alta sedación"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Un valor de 70 indica que el paciente puede cuidar de sí mismo pero puede requerir asistencia ocasional."
+      },
+      {
+        "enunciado": "¿Qué test se emplea para medir el grado de sedación o agitación en pacientes críticos?",
+        "opciones": ["Richmond (RASS)", "Escala de Ramsay", "Escala de Glasgow", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala RASS (Richmond) se utiliza para monitorizar agitación o sedación en pacientes críticos."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea específicamente para medir el riesgo de caídas mediante observación de la marcha y el equilibrio?",
+        "opciones": ["Escala de Tinetti", "Braden", "Downton", "Barthel"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Tinetti valora equilibrio y marcha, especialmente útil en personas mayores con riesgo de caída."
+      },
+      {
+        "enunciado": "¿Qué escala permite clasificar el riesgo de desnutrición en personas mayores?",
+        "opciones": ["Lawton-Brody", "FRAIL", "MNA (Mini Nutritional Assessment)", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La MNA es una herramienta validada para detectar riesgo nutricional en ancianos."
+      },
+      {
+        "enunciado": "¿Qué escala valora el apoyo social subjetivo percibido por el paciente?",
+        "opciones": ["Escala de Gijón", "Duke-UNC", "Zarit", "Apgar Familiar"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC mide el nivel de apoyo emocional y confidencial percibido, no el estructural real."
+      },
+      {
+        "enunciado": "¿Qué test se utiliza para estimar la severidad del insomnio en adultos?",
+        "opciones": ["ISI", "Epworth", "CRAFFT", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El ISI (Insomnia Severity Index) es un cuestionario validado para valorar la severidad del insomnio."
+      },
+      {
+        "enunciado": "¿Qué índice estima la carga de comorbilidad y predice mortalidad a largo plazo?",
+        "opciones": ["Índice de Charlson", "Índice de Barthel", "Karnofsky", "Profund Index"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Charlson otorga una puntuación a enfermedades crónicas para estimar riesgo de mortalidad."
+      },
+      {
+        "enunciado": "¿Qué escala valora el nivel de dependencia en funciones instrumentales como manejar dinero o cocinar?",
+        "opciones": ["Barthel", "Lawton-Brody", "Karnofsky", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton valora independencia en actividades instrumentales de la vida diaria."
+      },
+      {
+        "enunciado": "¿Qué escala utilizaremos para evaluar la salud general de una cuidadora?",
+        "opciones": ["Cuestionario de Zarit", "Cuestionario de Moretti", "Cuestionario de Brass", "Cuestionario de Goldberg"],
+        "correcta": 3,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario de Goldberg se utiliza para detectar ansiedad y depresión, útil en cuidadores."
+      },
+      {
+        "enunciado": "¿Qué cuestionario permite detectar riesgo de fragilidad en personas mayores mediante cinco ítems sencillos?",
+        "opciones": ["Escala de Yesavage", "Índice FRAIL", "Escala de Barthel", "Mini-Mental"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala FRAIL valora fatiga, resistencia, ambulación, enfermedades y pérdida de peso."
+      },
+      {
+        "enunciado": "¿Qué herramienta es adecuada para medir la sobrecarga emocional y física del cuidador informal?",
+        "opciones": ["Índice de Barthel", "Escala de Tinetti", "Cuestionario de Zarit", "Escala de Lawton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario de Zarit evalúa el impacto emocional y físico del rol de cuidador principal."
+      },
+      {
+        "enunciado": "¿Qué instrumento utilizamos para detectar ansiedad y depresión en atención primaria?",
+        "opciones": ["Cuestionario de Goldberg", "Escala de Gijón", "Escala de Apgar Familiar", "Índice de Charlson"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario de Goldberg es una herramienta validada para evaluar ansiedad y depresión."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para valorar la fragilidad en ancianos en base a fatiga, fuerza y movilidad?",
+        "opciones": ["Lawton", "Barthel", "FRAIL", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala FRAIL detecta fragilidad mediante cinco preguntas simples y es útil en atención primaria."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el nivel de autonomía en actividades instrumentales de la vida diaria?",
+        "opciones": ["Índice de Barthel", "Escala de Lawton-Brody", "Mini Nutritional Assessment", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Lawton valora actividades instrumentales como uso del teléfono, cocina o finanzas."
+      },
+      {
+        "enunciado": "¿Qué índice es útil para valorar el estado funcional de una persona con enfermedades crónicas avanzadas?",
+        "opciones": ["Profund Index", "FRAIL", "Charlson", "Barthel"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El Profund Index estima mortalidad y complejidad en pacientes pluripatológicos."
+      },
+      {
+        "enunciado": "¿Qué escala se puede utilizar para medir la percepción subjetiva del cuidador sobre su propia carga?",
+        "opciones": ["Barthel", "Zarit", "Goldberg", "Gijón"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit recoge la percepción del cuidador sobre el esfuerzo que supone el cuidado diario."
+      },
+      {
+        "enunciado": "¿Qué cuestionario puede emplearse para valorar síntomas de ansiedad y depresión en cuidadores o pacientes crónicos?",
+        "opciones": ["Goldberg", "Lawton", "Zarit", "Tinetti"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "Goldberg detecta presencia de ansiedad y/o depresión, especialmente en el contexto de sobrecarga emocional."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas está indicada para evaluar la fragilidad en personas mayores en atención comunitaria?",
+        "opciones": ["Charlson", "Barthel", "FRAIL", "Downton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala FRAIL es sencilla, validada y útil para cribado de fragilidad en mayores."
+      },
+      {
+        "enunciado": "¿Qué herramienta es más adecuada para valorar riesgo de fragilidad en personas de edad avanzada sanas o independientes?",
+        "opciones": ["Zarit", "Profund", "FRAIL", "Braden"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL permite detectar fragilidad incluso en personas sin dependencia funcional establecida."
+      },
+      {
+        "enunciado": "¿Qué escala está diseñada para estimar el nivel de ansiedad y depresión mediante 9 preguntas cada una?",
+        "opciones": ["Yesavage", "Goldberg", "Zarit", "Gijón"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El cuestionario de Goldberg tiene dos subescalas: una para ansiedad (9 ítems) y otra para depresión (9 ítems)."
+      },
+      {
+        "enunciado": "¿Qué índice puede utilizarse para valorar el pronóstico de supervivencia en pacientes pluripatológicos?",
+        "opciones": ["Charlson", "Barthel", "Profund Index", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Profund Index ayuda a estratificar pacientes crónicos con mal pronóstico y necesidad de cuidados paliativos."
+      },
+      {
+        "enunciado": "¿Qué escala se recomienda para evaluar fatiga, debilidad y ambulación reducida en pacientes ancianos?",
+        "opciones": ["FRAIL", "Lawton", "Tinetti", "Goldberg"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL es un acrónimo que incluye Fatiga, Resistencia, Ambulación, Enfermedad y Pérdida de peso."
+      },
+      {
+        "enunciado": "¿Qué instrumento puede detectar riesgo de ansiedad en cuidadores en visitas domiciliarias?",
+        "opciones": ["FRAIL", "Braden", "Goldberg", "Barthel"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Goldberg es útil en visitas domiciliarias para evaluar salud mental en cuidadores y pacientes."
+      },
+      {
+        "enunciado": "¿Qué escala es útil para detectar fragilidad precoz y reversible en personas mayores activas?",
+        "opciones": ["Barthel", "Charlson", "FRAIL", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL puede identificar casos incipientes de fragilidad antes de que aparezca la dependencia."
+      },
+      {
+        "enunciado": "¿Qué herramienta se utiliza para valorar el nivel de salud mental general en atención primaria?",
+        "opciones": ["Zarit", "Gijón", "Goldberg", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Goldberg es un cuestionario muy utilizado en medicina de familia para detectar ansiedad y depresión."
+      },
+      {
+        "enunciado": "¿Qué escala recoge la percepción de fatiga, dificultad para subir escaleras y pérdida de peso en el anciano?",
+        "opciones": ["Yesavage", "FRAIL", "Braden", "Charlson"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "FRAIL incluye estos aspectos como parte de su valoración de fragilidad física."
+      },
+      {
+        "enunciado": "¿Qué índice permite clasificar a personas mayores según el riesgo de complicaciones o muerte en el próximo año?",
+        "opciones": ["Charlson", "Barthel", "Profund Index", "Downton"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Profund Index se usa en pacientes con enfermedades crónicas avanzadas para valorar pronóstico clínico."
+      },
+      {
+        "enunciado": "¿Qué escala ayuda a determinar la percepción del apoyo emocional y social del paciente en su entorno?",
+        "opciones": ["Lawton", "Goldberg", "Duke-UNC", "FRAIL"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Duke-UNC valora la red de apoyo social percibida, no la estructura familiar real."
+      },
+      {
+        "enunciado": "¿Qué diferencia principal existe entre el test de Fagerström y el cuestionario de Glover-Nilsson?",
+        "opciones": ["Fagerström mide dependencia psicológica y Glover-Nilsson dependencia física", "Fagerström evalúa el deseo de dejar de fumar y Glover-Nilsson la motivación", "Fagerström mide dependencia física a la nicotina y Glover-Nilsson aspectos conductuales", "Ambos cuestionarios evalúan exactamente lo mismo"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Fagerström evalúa dependencia física a la nicotina; Glover-Nilsson mide dependencia psicológica y conductual."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para valorar la complejidad biopsicosocial en pacientes crónicos complejos?",
+        "opciones": ["Barthel", "INTERMED", "MNA", "Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "INTERMED evalúa la complejidad asistencial desde un enfoque biopsicosocial integral."
+      },
+      {
+        "enunciado": "¿Qué herramienta se utiliza para evaluar el dolor en pacientes con demencia avanzada?",
+        "opciones": ["PAINAD", "Yesavage", "Visual Analógica (EVA)", "Richmond"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "PAINAD permite evaluar el dolor observando el comportamiento en pacientes no comunicativos."
+      },
+      {
+        "enunciado": "¿Para qué se utiliza la Escala de Maddox?",
+        "opciones": ["Valorar deterioro cognitivo", "Determinar necesidad de sujeción", "Detectar fragilidad social", "Medir riesgo de caídas"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Maddox ayuda a valorar la indicación y justificación clínica del uso de sujeciones físicas."
+      },
+      {
+        "enunciado": "¿Qué escala se emplea para detectar deterioro cognitivo leve o moderado mediante preguntas breves?",
+        "opciones": ["Pfeiffer", "Barthel", "Norton", "Apgar familiar"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer permite una evaluación rápida del estado cognitivo mediante 10 ítems."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas se utiliza para evaluar el grado de independencia en actividades básicas de la vida diaria?",
+        "opciones": ["Yesavage", "Pfeiffer", "Barthel", "Zarit"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El índice de Barthel mide la capacidad funcional del paciente para realizar actividades básicas."
+      },
+      {
+        "enunciado": "¿Qué escala permite detectar sintomatología depresiva en personas mayores?",
+        "opciones": ["Yesavage", "Norton", "Braden", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Yesavage es una herramienta de cribado de depresión geriátrica."
+      },
+      {
+        "enunciado": "¿Qué instrumento es más adecuado para identificar sobrecarga en personas cuidadoras?",
+        "opciones": ["Zarit", "PAINAD", "Maddox", "Gijón"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El test de Zarit mide la carga emocional, física y social del cuidador principal."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas se usa específicamente para valorar riesgo social en mayores?",
+        "opciones": ["Duke-UNC", "Gijón", "MNA", "Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala sociofamiliar de Gijón valora el riesgo social en personas mayores."
+      },
+      {
+        "enunciado": "¿Qué escala evalúa sedación y agitación en pacientes críticos?",
+        "opciones": ["Braden", "PAINAD", "Richmond (RASS)", "EVA"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala Richmond (RASS) se emplea para valorar nivel de sedación/agitación en UCI."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas se utiliza específicamente en la valoración nutricional del anciano?",
+        "opciones": ["MNA", "Fagerström", "Norton", "Apgar familiar"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La MNA (Mini Nutritional Assessment) es una herramienta validada para detectar riesgo de desnutrición en ancianos."
+      },
+      {
+        "enunciado": "¿Qué escala se utiliza para la valoración del riesgo de caídas en pacientes geriátricos institucionalizados?",
+        "opciones": ["Braden", "Downton", "Moretti", "Pfeiffer"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Moretti se emplea para valorar el riesgo de caídas en pacientes institucionalizados."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas es útil para valorar el riesgo de úlceras por presión?",
+        "opciones": ["Bradd", "Braden", "Barthel", "Maddox"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Braden valora el riesgo de desarrollar úlceras por presión. A veces se confunde erróneamente con 'Bradd'."
+      },
+      {
+        "enunciado": "La escala de Goldberg se utiliza para:",
+        "opciones": ["Valoración de dolor crónico", "Cribado de ansiedad y depresión", "Evaluar agitación psicomotriz", "Valorar deterioro cognitivo leve"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Goldberg se usa como cribado rápido de ansiedad y depresión en atención primaria."
+      },
+      {
+        "enunciado": "¿Qué escala valora el nivel de agitación-sedación en pacientes críticos?",
+        "opciones": ["PAINAD", "RASS (Richmond)", "Moretti", "Goldberg"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala RASS permite evaluar el grado de sedación o agitación en pacientes críticos, especialmente en UCI."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas es una herramienta para cribado de síntomas depresivos y ansiosos?",
+        "opciones": ["Goldberg", "Yesavage", "Zarit", "Gijón"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Goldberg permite detectar síntomas de ansiedad y depresión en población general."
+      },
+      {
+        "enunciado": "La escala de Braden valora principalmente:",
+        "opciones": ["Nivel cognitivo", "Nivel de riesgo de caídas", "Riesgo de úlceras por presión", "Estado emocional del paciente"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Braden es una escala clave para prevenir y valorar el riesgo de úlceras por presión."
+      },
+      {
+        "enunciado": "¿Para qué se usa la escala de Moretti?",
+        "opciones": ["Evaluar agitación en UCI", "Cribado de desnutrición", "Riesgo de caídas en ancianos institucionalizados", "Dolor en pacientes con demencia"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Moretti es útil para estimar riesgo de caídas en población geriátrica en centros residenciales."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas permite identificar ansiedad y depresión en el ámbito de atención primaria?",
+        "opciones": ["PAINAD", "Goldberg", "Norton", "Barthel"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Goldberg es una herramienta sencilla y frecuente en atención primaria para detectar síntomas ansioso-depresivos."
+      },
+      {
+        "enunciado": "¿Qué escala suele utilizarse para estimar el riesgo de úlceras por presión en pacientes hospitalizados?",
+        "opciones": ["Moretti", "Braden", "Fagerström", "Lawton"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Braden valora parámetros como movilidad, humedad, nutrición, etc. para detectar riesgo de UPP."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas no se utiliza para valorar el estado cognitivo?",
+        "opciones": ["Pfeiffer", "Goldberg", "MEC de Lobo", "Mini-Cog"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Goldberg no evalúa funciones cognitivas, sino síntomas de ansiedad y depresión."
+      },
+      {
+        "enunciado": "¿Qué cuestionario se utiliza para el cribado del consumo problemático de alcohol?",
+        "opciones": ["SCOFF", "AUDIT", "MNA", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El AUDIT (Alcohol Use Disorders Identification Test) es una herramienta validada para detectar consumo de riesgo o abuso de alcohol."
+      },
+      {
+        "enunciado": "¿Qué test se utiliza habitualmente para valorar el estado nutricional en pacientes ancianos?",
+        "opciones": ["Test de Pfeiffer", "MNA", "Test de Goldberg", "Test de Fagerström"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El MNA (Mini Nutritional Assessment) permite identificar desnutrición o riesgo nutricional en mayores."
+      },
+      {
+        "enunciado": "¿Qué instrumento se emplea para evaluar deterioro cognitivo leve en personas mayores?",
+        "opciones": ["Yesavage", "Pfeiffer", "Zarit", "SCOFF"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "El test de Pfeiffer consiste en 10 ítems breves para detectar deterioro cognitivo leve o moderado."
+      },
+      {
+        "enunciado": "¿Qué test se utiliza como cribado rápido de depresión en personas mayores?",
+        "opciones": ["Goldberg", "Yesavage", "Zarit", "Barthel"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "Yesavage es una escala de uso habitual para cribado de síntomas depresivos en población geriátrica."
+      },
+      {
+        "enunciado": "¿Qué test está diseñado para la detección de dependencia al tabaco?",
+        "opciones": ["AUDIT", "MNA", "Test de Fagerström", "PAINAD"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "El test de Fagerström mide la dependencia física a la nicotina en fumadores."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes escalas sirve para el cribado de ansiedad y depresión en adultos?",
+        "opciones": ["Zarit", "Goldberg", "Lawton", "Braden"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Goldberg se usa para detectar de forma rápida síntomas de ansiedad y depresión."
+      },
+      {
+        "enunciado": "¿Qué escala permite valorar el sobrecarga del cuidador principal?",
+        "opciones": ["Barthel", "MNA", "Zarit", "Braden"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "La escala de Zarit mide la carga emocional, física y social en cuidadores de personas dependientes."
+      },
+      {
+        "enunciado": "¿Qué cuestionario se emplea habitualmente para el cribado de anorexia nerviosa o bulimia?",
+        "opciones": ["SCOFF", "EAT-26", "Ambos", "Ninguno"],
+        "correcta": 2,
+        "categorías": ["tema140"],
+        "feedback": "Tanto SCOFF como EAT-26 son herramientas útiles para el cribado de trastornos del comportamiento alimentario."
+      },
+      {
+        "enunciado": "¿Qué instrumento es útil para evaluar la calidad del sueño en adultos?",
+        "opciones": ["Escala de Pittsburgh", "Yesavage", "Barthel", "PAINAD"],
+        "correcta": 0,
+        "categorías": ["tema140"],
+        "feedback": "El índice de calidad del sueño de Pittsburgh permite valorar problemas de sueño y su impacto funcional."
+      },
+      {
+        "enunciado": "¿Cuál de estas escalas permite detectar problemas con el alcohol en atención primaria?",
+        "opciones": ["MALT", "CAGE", "Goldberg", "SCOFF"],
+        "correcta": 1,
+        "categorías": ["tema140"],
+        "feedback": "CAGE es un cuestionario corto, útil para identificar consumo de alcohol problemático."
+      }
+]

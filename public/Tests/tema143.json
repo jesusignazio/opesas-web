@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "La capacidad de controlar, afrontar y tomar decisiones personales sobre cómo vivir según las normas propias se denomina:",
+        "opciones": ["Dependencia", "Autonomía", "Discapacidad", "Limitación funcional"],
+        "correcta": 1,
+        "categorías": ["tema143"],
+        "feedback": "Autonomía implica control sobre la propia vida y decisiones cotidianas."
+      },
+      {
+        "enunciado": "La necesidad de ayuda importante para realizar actividades básicas de la vida diaria define:",
+        "opciones": ["Discapacidad", "Autonomía reducida", "Dependencia", "Fragilidad"],
+        "correcta": 2,
+        "categorías": ["tema143"],
+        "feedback": "La dependencia supone una pérdida de autonomía funcional que requiere apoyo de terceros."
+      },
+      {
+        "enunciado": "¿Qué concepto hace referencia a las limitaciones en la actividad de una persona debidas a una deficiencia física, mental o sensorial?",
+        "opciones": ["Dependencia", "Autonomía", "Discapacidad", "Restricción social"],
+        "correcta": 2,
+        "categorías": ["tema143"],
+        "feedback": "Discapacidad implica una limitación funcional asociada a una deficiencia o alteración de la salud."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos hace referencia a una relación recíproca de apoyo entre personas o sistemas?",
+        "opciones": ["Interdependencia", "Dependencia funcional", "Autonomía compartida", "Dependencia institucional"],
+        "correcta": 0,
+        "categorías": ["tema143"],
+        "feedback": "La interdependencia reconoce que todas las personas necesitan de otras en algún grado, en una relación de reciprocidad."
+      },
+      {
+        "enunciado": "Cuando una persona puede realizar por sí misma las AVD (actividades básicas de la vida diaria), se dice que tiene:",
+        "opciones": ["Discapacidad leve", "Autonomía funcional", "Apoyo limitado", "Interdependencia"],
+        "correcta": 1,
+        "categorías": ["tema143"],
+        "feedback": "Autonomía funcional significa capacidad de ejecutar tareas básicas como asearse, alimentarse, etc."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos incluye la combinación de factores personales, sociales y ambientales que afectan a la independencia de una persona?",
+        "opciones": ["Discapacidad", "Fragilidad", "Autonomía", "Dependencia"],
+        "correcta": 3,
+        "categorías": ["tema143"],
+        "feedback": "La dependencia considera no solo factores individuales, sino también contextuales."
+      },
+      {
+        "enunciado": "Según los marcos sociosanitarios, ¿cuál es el concepto que mejor define la libertad individual en la toma de decisiones vitales?",
+        "opciones": ["Autonomía", "Capacidad jurídica", "Autodeterminación supervisada", "Independencia funcional"],
+        "correcta": 0,
+        "categorías": ["tema143"],
+        "feedback": "La autonomía está relacionada con la autodeterminación, tanto en decisiones como en estilo de vida."
+      },
+      {
+        "enunciado": "Una persona con discapacidad que no presenta necesidad de ayuda en actividades básicas se considera:",
+        "opciones": ["Dependiente moderado", "Autónomo", "Interdependiente", "Con fragilidad funcional"],
+        "correcta": 1,
+        "categorías": ["tema143"],
+        "feedback": "La discapacidad no implica necesariamente dependencia; puede coexistir con autonomía funcional."
+      },
+      {
+        "enunciado": "La imposibilidad de llevar a cabo una actividad esperada según la edad o contexto social debido a una deficiencia se denomina:",
+        "opciones": ["Discapacidad", "Dependencia", "Autonomía restringida", "Deterioro cognitivo"],
+        "correcta": 0,
+        "categorías": ["tema143"],
+        "feedback": "Discapacidad implica una dificultad o imposibilidad de realizar ciertas actividades habituales."
+      },
+      {
+        "enunciado": "El reconocimiento de que ninguna persona es totalmente autónoma ni completamente dependiente se ajusta al concepto de:",
+        "opciones": ["Autonomía limitada", "Dependencia compartida", "Interdependencia", "Vulnerabilidad funcional"],
+        "correcta": 2,
+        "categorías": ["tema143"],
+        "feedback": "La interdependencia subraya la necesidad mutua entre individuos y estructuras sociales."
+      }
+      
+]

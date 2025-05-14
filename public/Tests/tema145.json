@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes vitaminas es liposoluble?",
+        "opciones": ["Vitamina B1", "Vitamina C", "Vitamina A", "Vitamina B12"],
+        "correcta": 2,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina A es liposoluble. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes vitaminas pertenece al grupo de las hidrosolubles?",
+        "opciones": ["Vitamina D", "Vitamina B6", "Vitamina K", "Vitamina A"],
+        "correcta": 1,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina B6 es hidrosoluble. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Qué característica comparten las vitaminas liposolubles?",
+        "opciones": ["Se eliminan fácilmente por la orina", "Se almacenan en el tejido adiposo", "Son sensibles al calor", "Requieren ser administradas diariamente"],
+        "correcta": 1,
+        "categorías": ["tema145"],
+        "feedback": "Las liposolubles (A, D, E, K) se almacenan en grasa. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes vitaminas es hidrosoluble?",
+        "opciones": ["Vitamina E", "Vitamina D", "Vitamina C", "Vitamina K"],
+        "correcta": 2,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina C es hidrosoluble. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "Las vitaminas del complejo B se caracterizan por ser:",
+        "opciones": ["Liposolubles", "Hidrosolubles", "Prohormonas", "Sintetizadas en la piel por la luz solar"],
+        "correcta": 1,
+        "categorías": ["tema145"],
+        "feedback": "El grupo B es hidrosoluble. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes vitaminas no pertenece al grupo de las liposolubles?",
+        "opciones": ["Vitamina D", "Vitamina C", "Vitamina K", "Vitamina A"],
+        "correcta": 1,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina C es hidrosoluble. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "Una de las siguientes vitaminas es liposoluble y está implicada en la coagulación. Indique cuál:",
+        "opciones": ["Vitamina K", "Vitamina B2", "Vitamina C", "Vitamina B1"],
+        "correcta": 0,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina K es liposoluble y actúa en la coagulación. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál es una característica principal de las vitaminas hidrosolubles?",
+        "opciones": ["Se acumulan en el hígado", "Tienen riesgo alto de toxicidad", "Se eliminan fácilmente por la orina", "No se destruyen con la cocción"],
+        "correcta": 2,
+        "categorías": ["tema145"],
+        "feedback": "Las hidrosolubles se eliminan por orina. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones contiene solo vitaminas liposolubles?",
+        "opciones": ["A, D, E, K", "B1, B6, B12, C", "C, D, K, B9", "A, B2, D, E"],
+        "correcta": 0,
+        "categorías": ["tema145"],
+        "feedback": "A, D, E y K son las únicas liposolubles. Regla mnemotécnica: AEDK → liposolubles."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta?",
+        "opciones": ["La vitamina B12 es liposoluble", "La vitamina A se excreta por la orina", "La vitamina C es hidrosoluble", "La vitamina D se clasifica como hidrosoluble"],
+        "correcta": 2,
+        "categorías": ["tema145"],
+        "feedback": "La vitamina C es hidrosoluble. Regla mnemotécnica: AEDK → liposolubles."
+      }
+      
+]

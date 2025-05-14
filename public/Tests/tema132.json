@@ -1,0 +1,213 @@
+[{
+    "enunciado": "¿A qué autor debemos la Teoría del Psicoanálisis?",
+    "opciones": ["Freud", "Rogers", "Pavlov", "Thorndike"],
+    "correcta": 0,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Sigmund Freud es el creador del Psicoanálisis."
+  },
+  {
+    "enunciado": "¿Quién es el principal representante del Conductismo Clásico?",
+    "opciones": ["Skinner", "Piaget", "Pavlov", "Bandura"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Iván Pavlov desarrolló el condicionamiento clásico, base del conductismo."
+  },
+  {
+    "enunciado": "¿Qué autor propuso la Teoría del Aprendizaje Social?",
+    "opciones": ["Vygotsky", "Bandura", "Skinner", "Freud"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Albert Bandura desarrolló la Teoría del Aprendizaje Social, centrada en la imitación y el modelado."
+  },
+  {
+    "enunciado": "¿Quién desarrolló la Teoría del Desarrollo Cognitivo en etapas?",
+    "opciones": ["Vygotsky", "Piaget", "Rogers", "Bandura"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Jean Piaget es conocido por su teoría del desarrollo cognitivo por etapas."
+  },
+  {
+    "enunciado": "¿Qué autor se asocia con la Ley del Efecto y el aprendizaje por ensayo y error?",
+    "opciones": ["Thorndike", "Watson", "Skinner", "Köhler"],
+    "correcta": 0,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Edward Thorndike formuló la Ley del Efecto dentro del marco del conductismo inicial."
+  },
+  {
+    "enunciado": "¿Quién es el autor principal del Humanismo en psicología?",
+    "opciones": ["Skinner", "Freud", "Rogers", "Pavlov"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Carl Rogers es una de las figuras centrales del enfoque humanista en psicología."
+  },
+  {
+    "enunciado": "¿A qué autor se asocia la teoría del Condicionamiento Operante?",
+    "opciones": ["Pavlov", "Skinner", "Piaget", "Freud"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "B. F. Skinner desarrolló el condicionamiento operante, fundamental en el conductismo."
+  },
+  {
+    "enunciado": "¿Quién propuso la Zona de Desarrollo Próximo como parte de su teoría sociocultural?",
+    "opciones": ["Bandura", "Vygotsky", "Erikson", "Piaget"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Lev Vygotsky introdujo el concepto de Zona de Desarrollo Próximo como clave en el aprendizaje guiado."
+  },
+  {
+    "enunciado": "¿Qué autor desarrolló la Teoría de la Gestalt?",
+    "opciones": ["Köhler", "Maslow", "Freud", "Watson"],
+    "correcta": 0,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Wolfgang Köhler es uno de los fundadores de la psicología de la Gestalt."
+  },
+  {
+    "enunciado": "¿Quién es conocido por la jerarquía de necesidades y la autorrealización?",
+    "opciones": ["Rogers", "Maslow", "Erikson", "Piaget"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Abraham Maslow propuso la jerarquía de necesidades, culminando en la autorrealización."
+  },
+  {
+    "enunciado": "¿Quién formuló la teoría del desarrollo psicosocial en ocho etapas?",
+    "opciones": ["Freud", "Erikson", "Maslow", "Bandura"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Erik Erikson propuso la teoría del desarrollo psicosocial en ocho etapas a lo largo de la vida."
+  },
+  {
+    "enunciado": "¿A qué autor se asocia el concepto de reflejo condicionado?",
+    "opciones": ["Skinner", "Watson", "Pavlov", "Rogers"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Pavlov descubrió el reflejo condicionado en sus experimentos con perros."
+  },
+  {
+    "enunciado": "¿Qué autor propuso la teoría de la mente como capacidad cognitiva en desarrollo?",
+    "opciones": ["Piaget", "Vygotsky", "Baron-Cohen", "Erikson"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Simon Baron-Cohen es conocido por sus estudios sobre la teoría de la mente, especialmente en autismo."
+  },
+  {
+    "enunciado": "¿Qué autor acuñó el término 'conductismo' y lo aplicó al estudio de la conducta observable?",
+    "opciones": ["Pavlov", "Skinner", "Watson", "Thorndike"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "John B. Watson fue el primer gran defensor del conductismo como enfoque dominante en psicología."
+  },
+  {
+    "enunciado": "¿A quién se le atribuye el desarrollo del enfoque centrado en la persona?",
+    "opciones": ["Maslow", "Rogers", "Skinner", "Bandura"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Carl Rogers desarrolló la terapia centrada en la persona dentro del enfoque humanista."
+  },
+  {
+    "enunciado": "¿Qué autor explicó el aprendizaje mediante el insight o comprensión súbita?",
+    "opciones": ["Thorndike", "Skinner", "Köhler", "Watson"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Wolfgang Köhler observó el aprendizaje por insight en chimpancés, base de la psicología de la Gestalt."
+  },
+  {
+    "enunciado": "¿Quién propuso que la personalidad tiene una estructura formada por ello, yo y superyó?",
+    "opciones": ["Freud", "Jung", "Adler", "Erikson"],
+    "correcta": 0,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Freud describió la estructura de la personalidad con el modelo ello–yo–superyó en el psicoanálisis."
+  },
+  {
+    "enunciado": "¿Quién desarrolló una teoría de la motivación basada en necesidades jerarquizadas?",
+    "opciones": ["Maslow", "Rogers", "Bandura", "Erikson"],
+    "correcta": 0,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Abraham Maslow propuso la jerarquía de necesidades humanas, desde las fisiológicas hasta la autorrealización."
+  },
+  {
+    "enunciado": "¿Qué psicólogo fue pionero en aplicar principios de reforzamiento en el condicionamiento operante?",
+    "opciones": ["Watson", "Skinner", "Bandura", "Thorndike"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "B.F. Skinner desarrolló el concepto de reforzamiento como base del condicionamiento operante."
+  },
+  {
+    "enunciado": "¿Quién es conocido por estudiar la importancia del lenguaje y la interacción social en el desarrollo cognitivo?",
+    "opciones": ["Piaget", "Vygotsky", "Freud", "Maslow"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Lev Vygotsky subrayó el papel del lenguaje y la cultura en la construcción del conocimiento."
+  },
+  {
+    "enunciado": "Iván Pávlov es conocido principalmente por:",
+    "opciones": ["La teoría del desarrollo moral", "La teoría del apego", "El condicionamiento clásico", "La psicología humanista"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Pávlov descubrió el condicionamiento clásico mediante experimentos con reflejos en perros."
+  },
+  {
+    "enunciado": "Albert Bandura desarrolló una teoría centrada en:",
+    "opciones": ["El desarrollo psicosocial en etapas", "El aprendizaje por observación e imitación", "La asociación estímulo-respuesta", "La autorrealización como motivación principal"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Bandura formuló la Teoría del Aprendizaje Social, basada en la observación y el modelado."
+  },
+  {
+    "enunciado": "Jean Piaget aportó fundamentalmente a la psicología con:",
+    "opciones": ["El análisis del inconsciente", "La teoría del refuerzo", "La teoría del desarrollo cognitivo por etapas", "La teoría del aprendizaje significativo"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Piaget propuso que el desarrollo cognitivo progresa en etapas: sensoriomotor, preoperacional, etc."
+  },
+  {
+    "enunciado": "B. F. Skinner es un autor clave en:",
+    "opciones": ["La psicología de la Gestalt", "La terapia centrada en la persona", "El condicionamiento operante", "La zona de desarrollo próximo"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Skinner desarrolló el condicionamiento operante: conducta moldeada por refuerzos y castigos."
+  },
+  {
+    "enunciado": "Sigmund Freud formuló una teoría basada en:",
+    "opciones": ["La observación objetiva de la conducta", "La estructura inconsciente de la mente", "El aprendizaje por imitación", "La resolución de conflictos cognitivos"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Freud propuso el psicoanálisis, centrado en el inconsciente, los sueños y los mecanismos de defensa."
+  },
+  {
+    "enunciado": "Carl Rogers es una figura central en:",
+    "opciones": ["El psicoanálisis clásico", "El enfoque humanista y la terapia centrada en la persona", "El análisis funcional de la conducta", "La teoría del apego"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Rogers promovió un enfoque humanista centrado en la empatía, autenticidad y aceptación incondicional."
+  },
+  {
+    "enunciado": "Erik Erikson es reconocido por su teoría sobre:",
+    "opciones": ["Los reforzadores positivos y negativos", "Las etapas del desarrollo psicosocial", "El desarrollo moral por niveles", "El procesamiento sensorial"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Erikson desarrolló una teoría en ocho etapas que abarca toda la vida, centrada en conflictos psicosociales."
+  },
+  {
+    "enunciado": "Lev Vygotsky propuso una teoría centrada en:",
+    "opciones": ["La motivación individual", "El desarrollo moral", "La influencia sociocultural en el aprendizaje", "El análisis de los sueños"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Vygotsky desarrolló la teoría sociocultural, destacando el papel del entorno social y el lenguaje en el aprendizaje."
+  },
+  {
+    "enunciado": "Abraham Maslow es conocido por:",
+    "opciones": ["El modelo estímulo-respuesta", "El estudio de la percepción visual", "La jerarquía de necesidades humanas", "La asociación entre estímulo y refuerzo"],
+    "correcta": 2,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Maslow propuso una jerarquía de necesidades que culmina en la autorrealización."
+  },
+  {
+    "enunciado": "Edward Thorndike introdujo conceptos fundamentales como:",
+    "opciones": ["La zona de desarrollo próximo", "La ley del efecto y el aprendizaje por ensayo y error", "La resolución gestáltica de problemas", "La introspección estructural"],
+    "correcta": 1,
+    "categorías": ["tema132", "autores_teorias"],
+    "feedback": "Thorndike planteó la Ley del Efecto: las conductas seguidas de consecuencias agradables tienden a repetirse."
+  }
+  
+  
+  ]

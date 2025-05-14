@@ -1,0 +1,563 @@
+[
+    {
+        "enunciado": "Dentro de la Estrategia de Cuidados de Andalucía, ¿cuál de las siguientes Enfermeras de Práctica Avanzada está actualmente en desarrollo y no consolidada como figura activa?",
+        "opciones": ["Enfermera de Práctica Avanzada en Cuidados Oncológicos", "Enfermera de Práctica Avanzada en Cuidados Paliativos", "Enfermera de Práctica Avanzada en Heridas Crónicas Complejas", "Enfermera de Práctica Avanzada en Ostomías"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Cuidados Paliativos está en fase de desarrollo, no consolidada como figura activa."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes figuras profesionales NO corresponde al perfil de Enfermera de Práctica Avanzada reconocido en Andalucía?",
+        "opciones": ["Enfermera de Práctica Avanzada en Diabetes", "Enfermera de Práctica Avanzada en Heridas Complejas", "Enfermera de Práctica Avanzada en Geriatría", "Enfermera de Práctica Avanzada en Ostomías"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Geriatría no está contemplada actualmente como perfil específico en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de estas áreas de práctica avanzada está en desarrollo según la Estrategia de Cuidados de Andalucía?",
+        "opciones": ["EPA en Oncología", "EPA en Ostomías", "EPA en ERCA", "EPA en Gestión de Casos"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La atención a personas con enfermedad renal crónica avanzada (ERCA) está en fase de desarrollo."
+      },
+      {
+        "enunciado": "Según el marco andaluz, ¿cuál de las siguientes figuras de EPA está implantada y activa?",
+        "opciones": ["EPA en Cuidados Paliativos", "EPA en ERCA", "EPA en Oncología Compleja", "EPA en Trastorno Mental Grave"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Oncología Compleja es una de las figuras ya implantadas en el sistema sanitario andaluz."
+      },
+      {
+        "enunciado": "¿Qué figura de Enfermera de Práctica Avanzada aún NO forma parte del despliegue oficial en Andalucía?",
+        "opciones": ["EPA en Ostomías", "EPA en Heridas Crónicas Complejas", "EPA en Procesos Oncológicos", "EPA en Enfermedades Neurodegenerativas"],
+        "correcta": 3,
+        "categorías": ["tema144"],
+        "feedback": "No existe actualmente una figura específica de EPA en enfermedades neurodegenerativas."
+      },
+      {
+        "enunciado": "En Andalucía, la Enfermera de Práctica Avanzada de reciente desarrollo vinculada al ámbito renal se denomina:",
+        "opciones": ["EPA en Diálisis Avanzada", "EPA en ERCA (Enfermedad Renal Crónica Avanzada)", "EPA en Nefropatías Autoinmunes", "EPA en Fístulas Arteriovenosas"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La figura en desarrollo es la Enfermera de Práctica Avanzada en ERCA."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa un rol existente de EPA en Andalucía?",
+        "opciones": ["EPA en Paciente Frágil", "EPA en Cuidados Intensivos", "EPA en Ostomías", "EPA en Pediatría Comunitaria"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Ostomías es una figura consolidada dentro de la Estrategia de Cuidados andaluza."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes figuras no está incluida ni activa ni en desarrollo en la EPA andaluza?",
+        "opciones": ["EPA en Oncología Compleja", "EPA en Cuidados Paliativos", "EPA en Enfermería Escolar", "EPA en ERCA"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La Enfermería Escolar no forma parte de los perfiles definidos de EPA en Andalucía."
+      },
+      {
+        "enunciado": "Una de las siguientes opciones es una figura consolidada dentro de la Enfermería de Práctica Avanzada en Andalucía. Indica cuál:",
+        "opciones": ["EPA en Cuidados Intensivos Neonatales", "EPA en Procesos Oncológicos Complejos", "EPA en Atención Psiquiátrica Ambulatoria", "EPA en Dependencia Social"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Procesos Oncológicos Complejos está reconocida como figura activa en el SSPA."
+      },
+      {
+        "enunciado": "Según la Estrategia de Cuidados de Andalucía, ¿qué figura de EPA se encuentra en desarrollo?",
+        "opciones": ["EPA en Gestión de Casos", "EPA en Oncología", "EPA en Cuidados Paliativos", "EPA en Heridas Complejas"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Cuidados Paliativos está en proceso de desarrollo y despliegue en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes figuras profesionales de Enfermería de Práctica Avanzada está plenamente implementada en Andalucía?",
+        "opciones": ["EPA en Gestión de Casos", "EPA en Cuidados Paliativos", "EPA en ERCA", "EPA en Cuidados Respiratorios Avanzados"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Gestión de Casos está implantada como una de las figuras clave del sistema andaluz."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones NO corresponde a un perfil de Enfermera de Práctica Avanzada reconocida ni en desarrollo en Andalucía?",
+        "opciones": ["EPA en Ostomías", "EPA en Heridas Crónicas", "EPA en Nutrición Enteral", "EPA en Procesos Oncológicos"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "No existe actualmente una EPA en Nutrición Enteral como figura específica reconocida."
+      },
+      {
+        "enunciado": "Dentro de la Estrategia de Cuidados de Andalucía, ¿cuál de las siguientes áreas de práctica avanzada está en desarrollo?",
+        "opciones": ["EPA en Tratamientos Complejos de la Diabetes", "EPA en Geriatría", "EPA en Cuidados Paliativos", "EPA en Dolor Crónico No Oncológico"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Cuidados Paliativos es una figura reconocida como en desarrollo actualmente."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes figuras de práctica avanzada ya se encuentra operativa dentro del SSPA?",
+        "opciones": ["EPA en ERCA", "EPA en Cuidados Oncológicos Complejos", "EPA en Atención al Parto Normal", "EPA en Psiquiatría Infanto-Juvenil"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Oncología Compleja es una de las figuras ya en funcionamiento dentro del sistema andaluz."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes figuras de EPA no forma parte del catálogo oficial de figuras existentes o en desarrollo en Andalucía?",
+        "opciones": ["EPA en Heridas Crónicas", "EPA en Paciente Crónico Complejo", "EPA en Cuidados Respiratorios", "EPA en Tratamientos Complejos para la Diabetes"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Cuidados Respiratorios no está contemplada actualmente en el marco oficial andaluz."
+      },
+      {
+        "enunciado": "Señala la figura de Enfermera de Práctica Avanzada que está siendo desarrollada para la atención especializada de pacientes renales:",
+        "opciones": ["EPA en Diálisis Crónica", "EPA en ERCA", "EPA en Nefropatías Autoinmunes", "EPA en Glomerulonefritis"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La Enfermera de Práctica Avanzada en ERCA (Enfermedad Renal Crónica Avanzada) está actualmente en desarrollo en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué figura de EPA ha sido implementada para mejorar la atención a pacientes con lesiones crónicas de difícil cicatrización?",
+        "opciones": ["EPA en Cuidados de Integridad Cutánea", "EPA en Heridas Crónicas Complejas", "EPA en Úlceras Tumorales", "EPA en Enfermería Quirúrgica"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Heridas Crónicas Complejas tiene como objetivo la atención integral y especializada de este tipo de pacientes."
+      },
+      {
+        "enunciado": "Una de las siguientes figuras de Enfermería de Práctica Avanzada no se contempla actualmente en Andalucía, ni como existente ni en desarrollo:",
+        "opciones": ["EPA en Ostomías", "EPA en Cuidados Pediátricos Complejos", "EPA en Diabetes", "EPA en Cuidados Paliativos"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "No está implantada ni en desarrollo una figura específica de EPA en Cuidados Pediátricos Complejos."
+      },
+      {
+        "enunciado": "¿Cuál de estas funciones está asociada a la Enfermera de Práctica Avanzada en Tratamientos Complejos de la Diabetes?",
+        "opciones": ["Seguimiento telefónico exclusivo de pacientes con DM2", "Ajuste terapéutico, educación y coordinación entre niveles asistenciales", "Valoración exclusiva del pie diabético", "Gestión administrativa del material de autocontrol glucémico"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA en Diabetes realiza seguimiento clínico complejo, educación terapéutica y coordinación interprofesional."
+      },
+      {
+        "enunciado": "Dentro de las funciones de la EPA en Procesos Oncológicos, se encuentra:",
+        "opciones": ["Administración de tratamientos hospitalarios", "Atención integral, coordinación, seguimiento de toxicidades y apoyo emocional", "Detección precoz de cáncer", "Gestión administrativa de altas hospitalarias"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Las EPA en Oncología proporcionan atención integral y seguimiento especializado durante procesos terapéuticos complejos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un dominio competencial específico de la Enfermera de Práctica Avanzada en Andalucía?",
+        "opciones": ["Prescripción farmacológica autónoma", "Relaciones interprofesionales y mentoría", "Evaluación financiera de centros sanitarios", "Auditoría externa de procesos clínicos"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La mentoría y colaboración interprofesional es uno de los pilares competenciales de la EPA."
+      },
+      {
+        "enunciado": "El liderazgo clínico y profesional, como dominio de la Enfermera de Práctica Avanzada, implica:",
+        "opciones": ["Supervisión jerárquica del equipo médico", "Capacidad de influir en la mejora de prácticas clínicas y toma de decisiones", "Gestión económica de unidades clínicas", "Redacción de informes técnicos de laboratorio"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "El liderazgo clínico incluye la mejora asistencial, la innovación y la toma de decisiones clínicas avanzadas."
+      },
+      {
+        "enunciado": "Entre los dominios competenciales de la Enfermera de Práctica Avanzada se encuentra:",
+        "opciones": ["Gestión de Recursos Humanos", "Educación y docencia profesional", "Auditoría externa", "Tramitación de bajas médicas"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA ejerce funciones docentes tanto con profesionales como con pacientes y cuidadores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ámbitos forma parte de los dominios competenciales de la EPA reconocidos en Andalucía?",
+        "opciones": ["Control presupuestario hospitalario", "Promoción de la salud", "Supervisión legal del consentimiento informado", "Distribución de recursos tecnológicos"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La promoción de la salud es un componente esencial del rol de la EPA en todos los niveles asistenciales."
+      },
+      {
+        "enunciado": "La gestión de cuidados como dominio de la Enfermería de Práctica Avanzada hace referencia a:",
+        "opciones": ["Planificar turnos de enfermería", "Coordinar actividades administrativas", "Garantizar la continuidad y efectividad del cuidado al paciente complejo", "Supervisar la facturación de consultas externas"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de cuidados implica integrar, personalizar y coordinar intervenciones clínicas complejas."
+      },
+      {
+        "enunciado": "¿Qué dominio competencial de la Enfermera de Práctica Avanzada implica la capacidad para generar nuevo conocimiento clínico?",
+        "opciones": ["Autonomía profesional", "Investigación y práctica basada en evidencias", "Gestión clínica", "Mentoría avanzada"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA participa activamente en investigación y aplicación de evidencia científica en su práctica."
+      },
+      {
+        "enunciado": "La autonomía profesional como competencia clave en la EPA implica:",
+        "opciones": ["Capacidad para prescribir medicamentos sin restricción", "Toma de decisiones clínicas avanzadas dentro del marco legal", "Supervisión directa del equipo médico", "Asistencia exclusiva en urgencias hospitalarias"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La autonomía profesional permite a la EPA decidir en contextos clínicos complejos dentro de su ámbito."
+      },
+      {
+        "enunciado": "¿Qué dominio competencial de la EPA se relaciona con la evaluación continua y mejora de los procesos asistenciales?",
+        "opciones": ["Liderazgo profesional", "Gestión de la calidad", "Docencia en cuidados", "Promoción institucional"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de la calidad forma parte del perfil avanzado en su compromiso con la excelencia clínica."
+      },
+      {
+        "enunciado": "El rol de mentoría que desarrolla la Enfermera de Práctica Avanzada se orienta principalmente a:",
+        "opciones": ["Evaluar procesos administrativos", "Formar y apoyar a profesionales sanitarios en su desarrollo clínico", "Coordinar procesos judiciales en salud", "Auditar contratos laborales en unidades asistenciales"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La mentoría es un pilar de la EPA para fortalecer el aprendizaje entre profesionales sanitarios."
+      },
+      {
+        "enunciado": "Uno de los dominios clave de la Enfermería de Práctica Avanzada en Andalucía es:",
+        "opciones": ["Educación sanitaria exclusivamente a pacientes", "Gestión contable de recursos de enfermería", "Práctica basada en evidencias científicas", "Tareas administrativas avanzadas"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La práctica basada en la evidencia sustenta el razonamiento clínico y la toma de decisiones de la EPA."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes no es un dominio competencial definido para la Enfermera de Práctica Avanzada en Andalucía?",
+        "opciones": ["Gestión de cuidados", "Promoción de la salud", "Supervisión económica del centro", "Liderazgo clínico"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La supervisión económica no forma parte de los dominios competenciales establecidos para la EPA."
+      },
+      {
+        "enunciado": "El dominio 'Educación y docencia profesional' de la EPA implica:",
+        "opciones": ["Formación exclusiva al paciente", "Organización de másteres universitarios", "Desarrollo de competencias en profesionales de enfermería y formación continuada", "Gestión académica de la unidad docente"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA actúa como referente formador de otros profesionales, promoviendo la mejora continua."
+      },
+      {
+        "enunciado": "¿Qué dominio competencial de la EPA está directamente relacionado con el uso de guías clínicas y protocolos actualizados?",
+        "opciones": ["Autonomía profesional", "Gestión de cuidados", "Investigación y práctica basada en evidencias", "Relaciones interprofesionales"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La práctica basada en evidencias requiere aplicar y adaptar guías y protocolos clínicos actuales."
+      },
+      {
+        "enunciado": "¿Cuál es el dominio que permite a la EPA identificar y aplicar mejoras continuas en los procesos asistenciales?",
+        "opciones": ["Gestión de calidad", "Liderazgo clínico", "Investigación clínica", "Mentoría"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de calidad busca evaluar y perfeccionar los procesos clínicos desde la perspectiva de la mejora continua."
+      },
+      {
+        "enunciado": "La participación activa de la EPA en comités clínicos y toma de decisiones estratégicas responde al dominio de:",
+        "opciones": ["Promoción de la salud", "Autonomía profesional", "Relaciones interprofesionales y liderazgo", "Docencia avanzada"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA lidera espacios interprofesionales y participa en decisiones clínicas de alto nivel."
+      },
+      {
+        "enunciado": "El desarrollo de actividades comunitarias y preventivas forma parte del dominio de enfermería de practica avanzada de:",
+        "opciones": ["Gestión de cuidados", "Promoción de la salud", "Mentoría interprofesional", "Investigación clínica"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA participa en estrategias de salud pública, educación para la salud y prevención en comunidad."
+      },
+      {
+        "enunciado": "¿Qué dominio permite a la EPA actuar con autonomía en el análisis y priorización de problemas clínicos complejos?",
+        "opciones": ["Autonomía profesional", "Docencia avanzada", "Investigación aplicada", "Gestión económica"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La autonomía profesional otorga capacidad para tomar decisiones clínicas especializadas sin supervisión directa."
+      },
+      {
+        "enunciado": "La mentoría como dominio de la EPA implica:",
+        "opciones": ["Acompañar al paciente durante visitas clínicas", "Orientar y apoyar el desarrollo competencial de profesionales sanitarios", "Gestionar equipos administrativos", "Revisar historias clínicas como auditor externo"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La mentoría se refiere al apoyo entre iguales y formación en servicio para otros profesionales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes dominios de enfermería de practica avanzada está orientado a generar nuevo conocimiento e innovación clínica?",
+        "opciones": ["Gestión de cuidados", "Educación profesional", "Investigación y práctica basada en evidencias", "Promoción intersectorial"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA investiga, difunde y aplica conocimiento científico en contextos reales de atención sanitaria."
+      },
+      {
+        "enunciado": "El dominio de enfermería de practica avanzada de 'Gestión de Cuidados' se centra principalmente en:",
+        "opciones": ["Distribuir tareas asistenciales", "Coordinar la continuidad y efectividad del cuidado al paciente complejo", "Supervisar al personal auxiliar", "Revisar los indicadores económicos del servicio"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de cuidados implica garantizar que el cuidado recibido sea eficiente, seguro y centrado en la persona."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un dominio competencial reconocido de la Enfermera de Práctica Avanzada?",
+        "opciones": ["Gestión de cuidados", "Control de recursos económicos", "Supervisión administrativa", "Gestión presupuestaria"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de cuidados es uno de los ocho dominios clave de la EPA en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ámbitos forma parte de los dominios competenciales de la EPA?",
+        "opciones": ["Auditoría clínica externa", "Educación y docencia profesional", "Supervisión de contratos laborales", "Dirección de áreas sanitarias"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La educación y docencia profesional es una competencia clave de la práctica avanzada enfermera."
+      },
+      {
+        "enunciado": "¿Cuál es un dominio propio de la Enfermera de Práctica Avanzada según el marco andaluz?",
+        "opciones": ["Gestión de turnos", "Autonomía profesional", "Evaluación de personal", "Control farmacológico general"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La autonomía profesional permite a la EPA tomar decisiones clínicas complejas con alto nivel de responsabilidad."
+      },
+      {
+        "enunciado": "¿Qué opción representa uno de los dominios oficiales de competencia de la EPA?",
+        "opciones": ["Promoción de la salud", "Revisión contable", "Dirección médica adjunta", "Supervisión de almacenes"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La promoción de la salud es un pilar de la práctica enfermera avanzada, especialmente en el entorno comunitario."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones corresponde a un dominio competencial de la Enfermera de Práctica Avanzada?",
+        "opciones": ["Relaciones interprofesionales y mentoría", "Gestión de inventario", "Planificación estratégica económica", "Supervisión de obras hospitalarias"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La colaboración interprofesional y la mentoría forman parte del rol docente y clínico de la EPA."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes elementos forma parte de los dominios competenciales de la EPA en Andalucía?",
+        "opciones": ["Investigación y práctica basada en evidencias", "Supervisión contable hospitalaria", "Gestión administrativa de contratos", "Auditoría legal sanitaria"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La EPA está comprometida con la generación, aplicación y difusión de conocimiento científico."
+      },
+      {
+        "enunciado": "Señala cuál de los siguientes es un dominio reconocido de la figura de la Enfermera de Práctica Avanzada:",
+        "opciones": ["Gestión de personal", "Gestión de calidad", "Contratación externa", "Logística sanitaria"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La gestión de la calidad es clave para la mejora continua y la seguridad del paciente en el rol EPA."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes constituye un dominio competencial oficial de la EPA en el sistema andaluz?",
+        "opciones": ["Evaluación de infraestructuras", "Gestión de turnos del personal", "Liderazgo clínico y profesional", "Dirección técnica de obra"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "El liderazgo clínico implica ser referente asistencial y guía para otros profesionales del equipo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones es un dominio de competencia específico de la Enfermería de Práctica Avanzada?",
+        "opciones": ["Promoción empresarial", "Auditoría de procesos externos", "Evaluación contable", "Educación y docencia profesional"],
+        "correcta": 3,
+        "categorías": ["tema144"],
+        "feedback": "La EPA actúa como formadora y mentora en el entorno clínico, reforzando competencias del equipo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes no es un dominio competencial de la Enfermera de Práctica Avanzada?",
+        "opciones": ["Investigación y evidencia científica", "Autonomía profesional", "Supervisión contable", "Promoción de la salud"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La supervisión contable no está incluida entre los ocho dominios definidos para la EPA."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes atributos define a la Enfermera de Práctica Avanzada en el SSPA?",
+        "opciones": ["Capacidad de derivación exclusiva a atención especializada", "Referente para el abordaje de la complejidad con autonomía en la toma de decisiones", "Gestión exclusiva de recursos humanos", "Supervisión técnica del personal médico"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA actúa como referente clínico en contextos complejos, con autonomía para tomar decisiones asistenciales."
+      },
+      {
+        "enunciado": "La capacidad de organizar componentes del plan asistencial y adaptar la atención sanitaria a cada paciente es una función asociada a:",
+        "opciones": ["Liderazgo profesional", "Gestión económica", "Coordinación de la atención compleja", "Supervisión de calidad externa"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA coordina la atención compleja, ajustando recursos y garantizando la continuidad asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes funciones corresponde a la figura de la EPA en su papel como referente profesional?",
+        "opciones": ["Resolución exclusiva de conflictos organizativos", "Auditoría de prescripción médica", "Consultoría para otros profesionales y apoyo al aprendizaje", "Valoración exclusiva de pacientes institucionalizados"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA ejerce una función consultora, siendo referente formativo y de apoyo para el resto del equipo."
+      },
+      {
+        "enunciado": "Como motor de cambio, la EPA se caracteriza por:",
+        "opciones": ["Asumir funciones de gestión hospitalaria", "Promover innovaciones e influir en la práctica clínica desde la evidencia", "Organizar exclusivamente programas formativos externos", "Redactar procedimientos administrativos complejos"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Su liderazgo impulsa mejoras clínicas a través de la transferencia del conocimiento y la práctica basada en evidencia."
+      },
+      {
+        "enunciado": "¿Qué atributo permite a la EPA activar recursos para cubrir necesidades y facilitar la continuidad asistencial?",
+        "opciones": ["Consultoría clínica", "Promoción de la investigación", "Coordinación de atención compleja", "Gestión presupuestaria"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La coordinación de la atención compleja es clave para adaptar los cuidados y activar recursos disponibles."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un atributo característico de la EPA según el SSPA?",
+        "opciones": ["Liderazgo clínico", "Capacidad de consultoría", "Gestión directa de contratos laborales", "Promoción de la investigación"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La gestión contractual no forma parte de los atributos clínicos definidos para la EPA."
+      },
+      {
+        "enunciado": "En el ámbito de la investigación, la EPA destaca por:",
+        "opciones": ["Aplicar exclusivamente protocolos ya validados", "Promover investigaciones propias en su ámbito de práctica", "Coordinar comités científicos institucionales", "Sustituir a equipos de investigación en caso de ausencia"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA fomenta la investigación desde la práctica clínica, aportando evidencia desde su campo."
+      },
+      {
+        "enunciado": "El atributo de 'consultoría' en la EPA implica que:",
+        "opciones": ["Se encarga de tutelar exclusivamente a estudiantes", "Es referente para el aprendizaje de otros profesionales", "Coordina recursos económicos", "Aprueba derivaciones médicas sin revisión"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA sirve de referente clínico y formativo para profesionales del entorno asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes funciones corresponde al rol de la EPA como 'motor de cambio'?",
+        "opciones": ["Ajuste presupuestario anual", "Supervisión legal de recursos humanos", "Innovación en cuidados y mejora de la calidad asistencial", "Dirección médica de centro de salud"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La EPA lidera el cambio asistencial mediante la implementación de mejoras e innovación basadas en evidencia."
+      },
+      {
+        "enunciado": "Uno de los atributos de la EPA según el SSPA es:",
+        "opciones": ["Realizar exclusivamente seguimiento telefónico", "Ejercer como referente para abordar la complejidad clínica con autonomía de decisión", "Redactar planes estratégicos de salud pública", "Asumir tareas administrativas no clínicas"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La EPA tiene capacidad para abordar situaciones clínicas complejas con independencia y liderazgo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes se considera una competencia avanzada transversal de la Enfermera de Práctica Avanzada?",
+        "opciones": ["Cirugía menor", "Educación terapéutica", "Clasificación avanzada en urgencias", "Telecuidados"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La educación terapéutica es una competencia avanzada transversal reconocida para todas las EPA."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes competencias se considera específica y no transversal en el marco de la práctica avanzada en Andalucía?",
+        "opciones": ["Prescripción colaborativa", "Resolución de procesos protocolizados", "Inserción de catéteres PICC", "Educación terapéutica"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La inserción de catéteres PICC es una competencia avanzada específica, no aplicable a todas las EPA."
+      },
+      {
+        "enunciado": "¿Qué tipo de competencia avanzada representa la 'prescripción colaborativa en procesos crónicos' según el SSPA?",
+        "opciones": ["Específica", "Transversal", "Operativa", "Instrumental"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La prescripción colaborativa es una competencia transversal aplicable a múltiples ámbitos EPA."
+      },
+      {
+        "enunciado": "La 'Clasificación y telecuidados en salas de coordinación' es una competencia:",
+        "opciones": ["Transversal", "Específica", "Exclusiva de atención primaria", "Genérica"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Se trata de una competencia específica que se desarrolla en contextos concretos como salas de coordinación."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes competencias avanzadas es considerada transversal y no específica?",
+        "opciones": ["Cirugía menor", "Clasificación en urgencias", "Educación terapéutica", "Telemonitorización domiciliaria"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La educación terapéutica es una competencia avanzada transversal para todas las EPA."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una competencia avanzada específica según el modelo andaluz de EPA?",
+        "opciones": ["Gestión compartida de la asistencia", "Educación terapéutica", "Prescripción colaborativa", "Cirugía menor"],
+        "correcta": 3,
+        "categorías": ["tema144"],
+        "feedback": "La cirugía menor es una competencia avanzada específica desarrollada solo en determinados puestos."
+      },
+      {
+        "enunciado": "En el modelo andaluz, la resolución de procesos protocolizados para la gestión compartida de la asistencia se considera:",
+        "opciones": ["Competencia específica", "Competencia instrumental", "Competencia transversal", "Función no reconocida oficialmente"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "Esta resolución protocolizada forma parte de las competencias transversales de la EPA."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones corresponde a una competencia avanzada específica y no generalizable a todas las EPA?",
+        "opciones": ["Educación terapéutica", "Prescripción colaborativa", "Clasificación avanzada en urgencias", "Seguimiento farmacológico compartido"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La clasificación avanzada en urgencias es específica de ciertas EPA, no transversal."
+      },
+      {
+        "enunciado": "La 'Educación terapéutica' en el contexto de competencias de la EPA se define como:",
+        "opciones": ["Específica para diabetes", "Exclusiva de atención primaria", "Competencia transversal", "Función de enfermería generalista"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "Es una competencia transversal reconocida para todas las enfermeras de práctica avanzada."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta en relación con las competencias avanzadas en el SSPA?",
+        "opciones": ["Todas las EPA deben realizar cirugía menor", "La prescripción colaborativa es específica del ámbito hospitalario", "La inserción de catéteres PICC es una competencia avanzada específica", "La gestión compartida de la asistencia es exclusiva de unidades de hospitalización"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La inserción de catéteres PICC es una competencia avanzada específica según el marco andaluz."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes competencias se considera transversal en el modelo andaluz de Enfermería de Práctica Avanzada?",
+        "opciones": ["Clasificación en urgencias", "Educación terapéutica", "Inserción de PICC", "Cirugía menor ambulatoria"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La educación terapéutica es una competencia avanzada transversal aplicable a todas las EPA."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes corresponde a una competencia avanzada específica?",
+        "opciones": ["Prescripción colaborativa", "Clasificación y telecuidados en salas de coordinación", "Gestión compartida de la asistencia", "Educación terapéutica"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Clasificación y telecuidados es una competencia específica desarrollada en ciertos puestos EPA."
+      },
+      {
+        "enunciado": "¿Qué competencia avanzada se considera transversal en el SSPA para las Enfermeras de Práctica Avanzada?",
+        "opciones": ["Clasificación avanzada en urgencias", "Educación terapéutica", "Cirugía menor", "Inserción de catéteres de tipo PICC"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Entre las competencias transversales está la educación terapéutica, aplicable a todas las EPA."
+      },
+      {
+        "enunciado": "La competencia de prescripción colaborativa para el seguimiento de tratamientos en procesos crónicos se considera:",
+        "opciones": ["Específica", "Transversal", "Instrumental", "Limitada a hospitales de tercer nivel"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "Es una competencia avanzada transversal reconocida para múltiples contextos de práctica."
+      },
+      {
+        "enunciado": "¿Cuál de estas competencias pertenece al grupo de competencias específicas en el modelo EPA?",
+        "opciones": ["Educación terapéutica", "Prescripción colaborativa", "Resolución de procesos protocolizados", "Cirugía menor"],
+        "correcta": 3,
+        "categorías": ["tema144"],
+        "feedback": "La cirugía menor es una competencia específica que solo algunas EPA desarrollan en su ámbito concreto."
+      },
+      {
+        "enunciado": "En el marco de la EPA andaluza, ¿cuál es una competencia avanzada específica de puestos concretos?",
+        "opciones": ["Educación terapéutica", "Clasificación en urgencias", "Gestión de casos", "Prescripción colaborativa"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La clasificación avanzada en urgencias es una competencia específica, no transversal."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una competencia avanzada transversal que facilita la autogestión del paciente?",
+        "opciones": ["Educación terapéutica", "Inserción de PICC", "Clasificación clínica", "Cirugía ambulatoria"],
+        "correcta": 0,
+        "categorías": ["tema144"],
+        "feedback": "La educación terapéutica es clave en el empoderamiento del paciente crónico y es transversal."
+      },
+      {
+        "enunciado": "Entre las siguientes, ¿qué competencia está destinada solo a áreas o puestos específicos según el modelo EPA andaluz?",
+        "opciones": ["Gestión compartida de la asistencia", "Educación terapéutica", "Clasificación en salas de coordinación", "Prescripción colaborativa"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La clasificación en salas de coordinación es específica y no aplicable a todos los perfiles EPA."
+      },
+      {
+        "enunciado": "¿Qué tipo de competencia es la inserción de catéteres centrales de acceso periférico (PICC) según el SSPA?",
+        "opciones": ["Transversal", "Específica", "Instrumental básica", "Autonómica"],
+        "correcta": 1,
+        "categorías": ["tema144"],
+        "feedback": "La inserción de PICC es una competencia específica reservada a EPA con formación en ese procedimiento."
+      },
+      {
+        "enunciado": "¿Qué competencia avanzada transversal se relaciona directamente con el seguimiento terapéutico de pacientes crónicos?",
+        "opciones": ["Cirugía menor", "Clasificación en urgencias", "Prescripción colaborativa", "Valoración geriátrica integral"],
+        "correcta": 2,
+        "categorías": ["tema144"],
+        "feedback": "La prescripción colaborativa permite el seguimiento de tratamientos crónicos y es transversal."
+      }
+            
+]

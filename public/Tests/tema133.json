@@ -1,0 +1,283 @@
+[
+    {
+        "enunciado": "Cuando una intervención sanitaria alcanza los resultados esperados en condiciones ideales, hablamos de:",
+        "opciones": ["Eficacia", "Eficiencia", "Case Mix", "Productividad"],
+        "correcta": 0,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La eficacia mide el resultado de una intervención en condiciones controladas o ideales."
+      },
+      {
+        "enunciado": "Cuando una intervención logra los resultados esperados en condiciones reales, se habla de:",
+        "opciones": ["Eficiencia", "Eficacia", "Efectividad", "Case Mix"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La efectividad evalúa el impacto de una intervención en la práctica clínica habitual."
+      },
+      {
+        "enunciado": "La relación entre los resultados obtenidos y los recursos utilizados define el concepto de:",
+        "opciones": ["Eficacia", "Efectividad", "Case Mix", "Eficiencia"],
+        "correcta": 3,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La eficiencia mide si se han usado los recursos de forma óptima para lograr un objetivo."
+      },
+      {
+        "enunciado": "La medida que refleja la diversidad y complejidad de los pacientes atendidos en un centro es:",
+        "opciones": ["Eficiencia", "Case Mix", "Efectividad", "Productividad"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El case mix representa la mezcla y complejidad clínica de los pacientes de un centro."
+      },
+      {
+        "enunciado": "Un programa de salud que funciona en un ensayo clínico pero no en la población general es eficaz pero no:",
+        "opciones": ["Case Mix", "Eficiente", "Efectivo", "Coste-efectivo"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Es eficaz (ensayo clínico), pero no efectivo (vida real)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes términos se refiere al análisis económico que relaciona coste y resultado clínico en unidades naturales (como años de vida ganados)?",
+        "opciones": ["Eficiencia", "Case Mix", "Coste-efectividad", "Productividad"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-efectividad compara los costes de distintas intervenciones frente a sus resultados clínicos."
+      },
+      {
+        "enunciado": "El número de pacientes atendidos por unidad de tiempo es un indicador de:",
+        "opciones": ["Eficacia", "Productividad", "Case Mix", "Efectividad"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La productividad mide el volumen de actividad realizada en relación con los recursos o el tiempo."
+      },
+      {
+        "enunciado": "Si una intervención obtiene buenos resultados usando más recursos de lo necesario, se dice que es:",
+        "opciones": ["Eficaz pero ineficiente", "Ineficaz pero eficiente", "Efectiva y eficiente", "Case Mix elevado"],
+        "correcta": 0,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Puede ser eficaz si logra el objetivo, pero ineficiente si usa más recursos de los necesarios."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos NO mide directamente resultados clínicos ni económicos?",
+        "opciones": ["Eficiencia", "Case Mix", "Efectividad", "Coste-efectividad"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El Case Mix no mide resultados, sino la complejidad de los pacientes atendidos."
+      },
+      {
+        "enunciado": "El análisis que busca identificar si una intervención es rentable comparando el valor monetario del beneficio con el coste es:",
+        "opciones": ["Coste-utilidad", "Case Mix", "Coste-beneficio", "Productividad"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-beneficio traduce tanto los costes como los beneficios a valores monetarios para compararlos."
+      },
+      {
+        "enunciado": "Un fármaco que logra curar una enfermedad en condiciones experimentales controladas es:",
+        "opciones": ["Efectivo", "Eficaz", "Eficiente", "Case Mix"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La eficacia se refiere al éxito de una intervención en condiciones ideales o experimentales."
+      },
+      {
+        "enunciado": "Un programa de cribado que reduce la mortalidad en la población general demuestra:",
+        "opciones": ["Eficacia", "Eficiencia", "Efectividad", "Case Mix"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La efectividad evalúa el resultado real de una intervención en condiciones habituales."
+      },
+      {
+        "enunciado": "¿Qué mide el análisis coste-utilidad?",
+        "opciones": ["Relación entre coste y efectividad clínica directa", "Relación entre coste y calidad de vida ajustada a los años (QALY)", "Rendimiento según número de pacientes atendidos", "Case Mix ajustado"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-utilidad compara intervenciones según su coste por QALY ganado."
+      },
+      {
+        "enunciado": "Una intervención que ofrece resultados positivos utilizando pocos recursos se considera:",
+        "opciones": ["Eficaz", "Eficiente", "Costosa", "Con alto Case Mix"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La eficiencia valora el uso óptimo de recursos en la obtención de resultados."
+      },
+      {
+        "enunciado": "El término 'Case Mix' se refiere a:",
+        "opciones": ["El coste total de una intervención", "La cantidad de procedimientos realizados", "La complejidad clínica de los pacientes atendidos", "El grado de efectividad de un tratamiento"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Case Mix es la mezcla y complejidad de los casos que atiende un centro o servicio sanitario."
+      },
+      {
+        "enunciado": "¿Qué aspecto se valora al hablar de coste-beneficio?",
+        "opciones": ["Coste por paciente tratado", "Comparación entre el valor monetario del beneficio y el coste de la intervención", "Número de tratamientos disponibles", "Grado de eficacia clínica"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-beneficio traduce costes y beneficios en términos monetarios."
+      },
+      {
+        "enunciado": "Un hospital que atiende más pacientes con múltiples patologías crónicas tendrá:",
+        "opciones": ["Baja efectividad", "Alto coste por paciente", "Case Mix elevado", "Menor eficiencia"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Un Case Mix alto refleja una atención a pacientes con mayor complejidad clínica."
+      },
+      {
+        "enunciado": "Una intervención muy eficaz pero muy costosa y con poco impacto real en población general puede ser:",
+        "opciones": ["Eficiente y efectiva", "Eficaz pero inefectiva", "Efectiva y económica", "Case Mix neutral"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Una intervención puede ser eficaz en laboratorio pero no efectiva ni eficiente en la práctica real."
+      },
+      {
+        "enunciado": "El término que mejor describe el rendimiento clínico de un procedimiento en términos de coste por unidad de resultado es:",
+        "opciones": ["Case Mix", "Coste-utilidad", "Coste total", "Productividad clínica"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Coste-utilidad mide el coste necesario para obtener beneficios expresados en QALYs u otros indicadores de utilidad."
+      },
+      {
+        "enunciado": "¿Qué se considera un indicador clave para ajustar la comparación entre hospitales con distinta población atendida?",
+        "opciones": ["Eficacia relativa", "Case Mix", "Coste-beneficio", "Productividad asistencial"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El Case Mix permite comparar la eficiencia o resultados teniendo en cuenta la complejidad de los pacientes."
+      },
+      {
+        "enunciado": "La relación entre el número de actividades realizadas y los recursos empleados se denomina:",
+        "opciones": ["Eficacia", "Rendimiento", "Productividad asistencial", "Pertinencia"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La productividad asistencial mide la cantidad de actividad realizada respecto a los recursos disponibles."
+      },
+      {
+        "enunciado": "La capacidad de alcanzar los objetivos con los recursos disponibles, sin valorar resultados clínicos, se refiere a:",
+        "opciones": ["Productividad asistencial", "Rendimiento", "Utilización de recursos", "Calidad técnica"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El rendimiento refleja la eficiencia en la realización de tareas sin medir necesariamente los resultados en salud."
+      },
+      {
+        "enunciado": "El principio según el cual todos deben recibir atención sanitaria según sus necesidades, sin discriminación, se llama:",
+        "opciones": ["Eficiencia", "Accesibilidad", "Equidad", "Satisfacción del paciente"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La equidad busca garantizar que todos accedan al sistema sanitario según necesidad, sin desigualdades injustificadas."
+      },
+      {
+        "enunciado": "La evaluación de la calidad de la atención desde el punto de vista del usuario se denomina:",
+        "opciones": ["Calidad técnica", "Pertinencia", "Satisfacción", "Calidad percibida"],
+        "correcta": 3,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La calidad percibida es la valoración subjetiva del paciente sobre la atención recibida."
+      },
+      {
+        "enunciado": "¿Qué término se refiere a la adecuación entre la intervención realizada y la necesidad clínica real del paciente?",
+        "opciones": ["Accesibilidad", "Pertinencia", "Utilización de recursos", "Rendimiento"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La pertinencia evalúa si una intervención es adecuada para el problema de salud presentado."
+      },
+      {
+        "enunciado": "La disponibilidad de servicios sanitarios cuando el usuario los necesita define el concepto de:",
+        "opciones": ["Calidad técnica", "Accesibilidad", "Equidad", "Productividad"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La accesibilidad mide si el paciente puede recibir atención sin barreras económicas, geográficas o temporales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos refleja la correcta aplicación de conocimientos y técnicas clínicas?",
+        "opciones": ["Calidad percibida", "Calidad técnica", "Efectividad", "Rendimiento"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La calidad técnica se refiere a la aplicación correcta de conocimientos profesionales y protocolos clínicos."
+      },
+      {
+        "enunciado": "El mantenimiento de una atención coherente entre niveles asistenciales se denomina:",
+        "opciones": ["Accesibilidad", "Eficiencia", "Continuidad asistencial", "Case Mix"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La continuidad asistencial implica que el paciente reciba atención coordinada entre diferentes profesionales o niveles del sistema."
+      },
+      {
+        "enunciado": "¿Qué mide la utilización de recursos?",
+        "opciones": ["La adecuación clínica de los tratamientos", "La percepción subjetiva del usuario", "La cantidad de recursos empleados en relación con el uso real", "El acceso sin barreras a los servicios"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La utilización de recursos evalúa si se están usando correctamente los medios disponibles frente a la demanda existente."
+      },
+      {
+        "enunciado": "¿Qué indicador se usa comúnmente para valorar la experiencia del usuario respecto al trato recibido y tiempos de espera?",
+        "opciones": ["Calidad técnica", "Satisfacción del paciente", "Pertinencia", "Productividad asistencial"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "La satisfacción del paciente refleja su opinión sobre la atención recibida, incluyendo aspectos humanos, logísticos y clínicos."
+      },
+      {
+        "enunciado": "¿Qué análisis económico compara el coste de una intervención con sus resultados en unidades naturales como años de vida ganados?",
+        "opciones": ["Coste-beneficio", "Coste-utilidad", "Coste-efectividad", "Coste marginal"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-efectividad relaciona los costes con resultados clínicos medidos en unidades como años de vida o muertes evitadas."
+      },
+      {
+        "enunciado": "¿Qué análisis valora las intervenciones según coste por QALY ganado?",
+        "opciones": ["Coste-utilidad", "Coste-efectividad", "Coste total", "Coste marginal"],
+        "correcta": 0,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-utilidad usa medidas de calidad de vida como los QALY (años de vida ajustados por calidad)."
+      },
+      {
+        "enunciado": "En un análisis coste-beneficio, tanto costes como beneficios se expresan en:",
+        "opciones": ["QALY", "Unidades naturales", "Tiempos de espera", "Moneda (€)"],
+        "correcta": 3,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "En el análisis coste-beneficio todo se expresa en términos monetarios, lo que permite comparar directamente coste y ganancia económica."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes corresponde a un coste indirecto en salud?",
+        "opciones": ["Compra de medicación", "Salario del personal", "Pérdida de productividad por enfermedad", "Material quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Los costes indirectos incluyen pérdidas económicas derivadas de la enfermedad, como baja laboral o pérdida de productividad."
+      },
+      {
+        "enunciado": "Los costes derivados directamente de la atención sanitaria, como consultas o pruebas, son:",
+        "opciones": ["Costes sociales", "Costes indirectos", "Costes de oportunidad", "Costes directos"],
+        "correcta": 3,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Los costes directos incluyen todos los recursos directamente utilizados en el proceso asistencial."
+      },
+      {
+        "enunciado": "La diferencia entre coste sanitario y coste social radica en que el coste social incluye:",
+        "opciones": ["Solo recursos públicos", "Solo costes hospitalarios", "Costes médicos y también impactos económicos generales", "Gastos de seguros privados únicamente"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El coste social considera tanto los gastos del sistema sanitario como los costes indirectos que afectan a la sociedad (absentismo, dependencia...)."
+      },
+      {
+        "enunciado": "¿Qué representa un QALY en evaluación económica?",
+        "opciones": ["Un año de vida sin hospitalizaciones", "Un año de vida en cualquier estado de salud", "Un año de vida ajustado por la calidad percibida", "Un año de vida en perfecto estado de salud"],
+        "correcta": 3,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Un QALY representa un año de vida vivido en condiciones óptimas de salud (valor 1), o fracciones según la calidad."
+      },
+      {
+        "enunciado": "¿Qué mide el indicador 'años de vida ganados' (AVG)?",
+        "opciones": ["Tiempo libre de síntomas", "Años añadidos a la esperanza de vida tras una intervención", "Duración total del tratamiento", "Incremento de ingresos hospitalarios"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "Los AVG cuantifican el incremento en la esperanza de vida como resultado de una intervención."
+      },
+      {
+        "enunciado": "¿Qué se entiende por coste marginal en economía de la salud?",
+        "opciones": ["Coste total de una intervención", "Coste de los recursos desperdiciados", "Coste adicional por producir una unidad más de resultado", "Coste promedio por paciente tratado"],
+        "correcta": 2,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El coste marginal es el coste extra asociado a obtener una unidad adicional de beneficio (como un QALY más o un paciente tratado adicional)."
+      },
+      {
+        "enunciado": "Un estudio que calcula el coste por QALY entre dos tratamientos está realizando un análisis de tipo:",
+        "opciones": ["Coste-efectividad", "Coste-utilidad", "Coste social", "Coste marginal"],
+        "correcta": 1,
+        "categorías": ["tema133", "gestion_sanitaria"],
+        "feedback": "El análisis coste-utilidad es el único que utiliza los QALY como unidad de resultado para comparar tratamientos."
+      }
+                        
+]

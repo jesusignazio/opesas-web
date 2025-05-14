@@ -1,0 +1,225 @@
+[
+    {
+        "enunciado": "¿A qué llamamos mediana en Estadística?",
+        "opciones": ["A la diferencia entre el valor máximo y el valor mínimo de una muestra", "Al valor que ocupa el centro de la distribución una vez ordenados los datos", "Al valor más frecuente de una muestra", "Al percentil 25 de una muestra"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La mediana es el valor central de una distribución una vez ordenados los datos."
+      },
+      {
+        "enunciado": "¿Qué es la moda en una distribución de datos?",
+        "opciones": ["El valor más alejado de la media", "El valor que aparece con mayor frecuencia", "El punto medio entre el valor mínimo y máximo", "El valor que corresponde al percentil 50"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La moda es el valor que se repite con mayor frecuencia en un conjunto de datos."
+      },
+      {
+        "enunciado": "¿Qué representa el percentil 25?",
+        "opciones": ["El valor más frecuente", "El valor que supera al 25% de los datos", "La media de la muestra", "La diferencia entre Q1 y Q3"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El percentil 25 es el valor por debajo del cual se encuentra el 25% de los datos ordenados."
+      },
+      {
+        "enunciado": "¿Qué medida representa la diferencia entre el valor máximo y el valor mínimo?",
+        "opciones": ["Varianza", "Rango", "Desviación típica", "Mediana"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El rango es una medida de dispersión que indica la amplitud total de los datos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes gráficos es más adecuado para representar variables cualitativas nominales?",
+        "opciones": ["Histograma", "Polígono de frecuencias", "Diagrama de barras", "Gráfico de dispersión"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El diagrama de barras es útil para representar frecuencias de variables cualitativas."
+      },
+      {
+        "enunciado": "¿Qué representa una frecuencia relativa en estadística?",
+        "opciones": ["La frecuencia dividida entre el número total de datos", "El número total de observaciones", "El porcentaje de valores extremos", "La diferencia entre moda y mediana"],
+        "correcta": 0,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La frecuencia relativa se obtiene dividiendo la frecuencia absoluta entre el total de datos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas es más adecuada para describir la tendencia central de datos muy asimétricos?",
+        "opciones": ["Media aritmética", "Moda", "Mediana", "Rango"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La mediana es menos sensible a valores extremos, por eso se prefiere en distribuciones asimétricas."
+      },
+      {
+        "enunciado": "¿Qué tipo de gráfico es más apropiado para representar la distribución de una variable continua agrupada en intervalos?",
+        "opciones": ["Diagrama de sectores", "Diagrama de barras", "Histograma", "Gráfico lineal simple"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El histograma es ideal para representar la frecuencia de variables cuantitativas continuas."
+      },
+      {
+        "enunciado": "¿Qué nombre recibe el conjunto de valores numéricos que resumen un conjunto de datos?",
+        "opciones": ["Estimadores", "Parámetros", "Medidas estadísticas", "Inferencias"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Las medidas estadísticas resumen características como tendencia central o dispersión."
+      },
+      {
+        "enunciado": "¿Qué indica el percentil 50 en una distribución de datos?",
+        "opciones": ["La moda", "La media", "La mediana", "El rango intercuartílico"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El percentil 50 corresponde exactamente a la mediana de la distribución."
+      },
+      {
+        "enunciado": "Una de las siguientes opciones NO ES una medida de tendencia central en Bioestadística:",
+        "opciones": ["La Mediana", "La Varianza", "La Media aritmética", "La Moda"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La varianza es una medida de dispersión, no de tendencia central."
+      },
+      {
+        "enunciado": "Una de las siguientes NO ES una medida de dispersión:",
+        "opciones": ["Desviación típica", "Varianza", "Mediana", "Amplitud intercuartílica"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La mediana es una medida de tendencia central, no de dispersión."
+      },
+      {
+        "enunciado": "Una de las siguientes opciones NO corresponde a una escala de medición cuantitativa:",
+        "opciones": ["Intervalo", "Razón", "Nominal", "Proporcional"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La escala nominal es cualitativa, no cuantitativa."
+      },
+      {
+        "enunciado": "Una de las siguientes representaciones gráficas NO es adecuada para variables cualitativas:",
+        "opciones": ["Diagrama de barras", "Gráfico de sectores", "Histograma", "Pictograma"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El histograma es adecuado para variables cuantitativas continuas, no cualitativas."
+      },
+      {
+        "enunciado": "Una de las siguientes NO es una característica típica de la media aritmética:",
+        "opciones": ["Sensible a los valores extremos", "Se puede calcular en cualquier escala", "Se utiliza con variables cuantitativas", "Resume todos los datos en un solo valor"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La media solo se aplica a variables cuantitativas de escala de intervalo o razón, no a cualquier escala."
+      },
+      {
+        "enunciado": "Una de las siguientes NO es una variable cuantitativa:",
+        "opciones": ["Edad", "Presión arterial", "Sexo", "Peso"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Sexo es una variable cualitativa nominal, no cuantitativa."
+      },
+      {
+        "enunciado": "Una de las siguientes opciones NO corresponde a una medida de forma de la distribución:",
+        "opciones": ["Curtosis", "Asimetría", "Moda", "Sesgo"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La moda es una medida de tendencia central, no de forma de la distribución."
+      },
+      {
+        "enunciado": "Una de las siguientes NO es adecuada para describir la dispersión de datos ordinales:",
+        "opciones": ["Amplitud intercuartílica", "Rango", "Desviación típica", "Percentiles"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La desviación típica requiere datos de nivel de intervalo o razón, no ordinal."
+      },
+      {
+        "enunciado": "Una de las siguientes opciones NO es una representación adecuada para frecuencias absolutas:",
+        "opciones": ["Tabla de frecuencias", "Gráfico circular", "Diagrama de barras", "Gráfico de dispersión"],
+        "correcta": 3,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El gráfico de dispersión se utiliza para variables cuantitativas relacionadas, no para frecuencias."
+      },
+      {
+        "enunciado": "Una de las siguientes NO es una escala de medición según Stevens:",
+        "opciones": ["Nominal", "Ordinal", "Diferencial", "Razón"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Las escalas clásicas de medición son: nominal, ordinal, intervalo y razón. 'Diferencial' no pertenece a esta clasificación."
+      },
+      {
+        "enunciado": "Una distribución con forma muy picuda, donde los datos se agrupan fuertemente alrededor de la media, se denomina:",
+        "opciones": ["Platiograma", "Mesograma", "Leptograma", "Ortograma"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Una distribución leptocúrtica o leptograma tiene un pico alto y valores muy concentrados cerca de la media."
+      },
+      {
+        "enunciado": "Una distribución leptocúrtica se caracteriza por:",
+        "opciones": [
+          "Ser simétrica y aplanada, con baja concentración de valores centrales",
+          "Tener un pico alto y concentrar los datos alrededor de la media",
+          "Presentar múltiples modas separadas",
+          "Tener una curtosis negativa y forma cuadrada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Una distribución leptocúrtica tiene alta curtosis: es muy picuda y los datos están muy concentrados alrededor de la media."
+      },
+      {
+        "enunciado": "Una distribución con forma aplanada y pocos datos agrupados en torno a la media es:",
+        "opciones": ["Leptocúrtica", "Platicúrtica", "Mesocúrtica", "Asimétrica negativa"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Una distribución platicúrtica tiene baja curtosis y es aplanada."
+      },
+      {
+        "enunciado": "Una distribución mesocúrtica tiene una curtosis:",
+        "opciones": ["Mayor que cero", "Igual a cero", "Menor que cero", "Variable según la media"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Una distribución mesocúrtica tiene curtosis igual a cero: es como la distribución normal estándar."
+      },
+      {
+        "enunciado": "En una distribución asimétrica negativa, la relación entre media, mediana y moda suele ser:",
+        "opciones": ["Media > Mediana > Moda", "Moda > Mediana > Media", "Media = Moda > Mediana", "Moda < Media < Mediana"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "En una asimetría negativa, la cola va hacia la izquierda: moda > mediana > media."
+      },
+      {
+        "enunciado": "¿Qué valor se ve más afectado por la presencia de valores extremos?",
+        "opciones": ["Moda", "Mediana", "Media", "Rango intercuartílico"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La media es muy sensible a los valores extremos, a diferencia de la mediana o la moda."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas proporciona información sobre la simetría de una distribución?",
+        "opciones": ["Curtosis", "Moda", "Coeficiente de asimetría", "Rango"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El coeficiente de asimetría (o skewness) mide el grado y dirección de la asimetría de una distribución."
+      },
+      {
+        "enunciado": "Si una distribución es perfectamente simétrica, entonces:",
+        "opciones": ["Moda > Mediana > Media", "Media = Mediana = Moda", "Media > Moda > Mediana", "Moda = Rango = Desviación típica"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "En distribuciones simétricas, media, mediana y moda coinciden."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes valores indica una distribución con simetría a la derecha?",
+        "opciones": ["Asimetría negativa", "Curtosis elevada", "Moda > Media", "Asimetría positiva"],
+        "correcta": 3,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "Una asimetría positiva implica que la cola está a la derecha: media > mediana > moda."
+      },
+      {
+        "enunciado": "¿Cuál de estas afirmaciones es correcta respecto al rango?",
+        "opciones": ["Es resistente a valores extremos", "Se basa en los percentiles 25 y 75", "Es útil en distribuciones simétricas", "Solo depende del valor mínimo y máximo"],
+        "correcta": 3,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El rango se calcula como máximo menos mínimo, y es muy sensible a los valores extremos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pares describe mejor una distribución normal en cuanto a forma y dispersión?",
+        "opciones": ["Simétrica y leptocúrtica", "Simétrica y mesocúrtica", "Asimétrica y platicúrtica", "Bimodal y mesocúrtica"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La distribución normal es simétrica y mesocúrtica (curtosis ≈ 0)."
+      }
+                        
+]
