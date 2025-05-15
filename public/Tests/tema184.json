@@ -1,0 +1,170 @@
+[
+
+    {
+        "enunciado": "Un paciente que sufre una alteración sistémica leve o moderada, pero sin limitación funcional, se clasifica como:",
+        "opciones": ["ASA I", "ASA II", "ASA III", "ASA IV"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve/moderada sin limitación. ASA III: enfermedad grave con limitación. ASA IV: enfermedad grave que pone en peligro la vida. ASA V: paciente moribundo."
+      },
+      {
+        "enunciado": "Un paciente moribundo con pocas probabilidades de sobrevivir incluso con cirugía se clasifica como:",
+        "opciones": ["ASA III", "ASA IV", "ASA V", "ASA VI"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada sin limitación. ASA III: enfermedad grave con limitación. ASA IV: grave y pone en peligro la vida. ASA V: moribundo sin expectativas reales de supervivencia."
+      },
+      {
+        "enunciado": "Un paciente con una enfermedad sistémica grave que limita su funcionalidad, pero no amenaza directamente su vida, se clasifica como:",
+        "opciones": ["ASA II", "ASA III", "ASA IV", "ASA V"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve. ASA III: enfermedad grave con limitación funcional. ASA IV: enfermedad grave y vital. ASA V: moribundo."
+      },
+      {
+        "enunciado": "¿Qué clasificación ASA corresponde a un paciente sin ninguna alteración sistémica, únicamente intervenido por un proceso localizado?",
+        "opciones": ["ASA I", "ASA II", "ASA III", "ASA IV"],
+        "correcta": 0,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: paciente sano sin enfermedad sistémica. ASA II: leve/moderada. ASA III: grave. ASA IV: grave que compromete la vida. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente con una enfermedad sistémica grave no corregible que pone en peligro su vida, se clasifica como:",
+        "opciones": ["ASA II", "ASA III", "ASA IV", "ASA V"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve. ASA III: grave con limitación. ASA IV: enfermedad sistémica grave no corregible y amenazante. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente clasificado como ASA I tiene:",
+        "opciones": ["Una enfermedad sistémica leve", "Una enfermedad sistémica grave con limitación funcional", "Ninguna alteración orgánica ni funcional", "Una patología aguda no controlada"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada sin limitación. ASA III: grave con limitación. ASA IV: grave que pone en peligro la vida. ASA V: moribundo sin expectativas reales de supervivencia."
+      },
+      {
+        "enunciado": "Un paciente clasificado como ASA II presenta:",
+        "opciones": ["Una alteración grave que limita su vida", "Una enfermedad sistémica leve o moderada sin limitación funcional", "Un estado terminal sin posibilidad de mejora", "Una patología exclusivamente localizada"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sin enfermedad. ASA II: leve/moderada sin limitación. ASA III: grave con limitación. ASA IV: grave y vital. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente ASA III se caracteriza por:",
+        "opciones": ["Presentar una enfermedad leve", "No tener patología alguna", "Presentar una enfermedad sistémica grave con algún grado de limitación funcional", "Ser un paciente terminal sin esperanza de vida"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada. ASA III: grave con limitación funcional. ASA IV: grave que amenaza la vida. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente con clasificación ASA IV tiene:",
+        "opciones": ["Una enfermedad sistémica leve", "Un proceso quirúrgico localizado sin enfermedad de base", "Una alteración sistémica que pone en peligro su vida y no es corregible", "Una enfermedad grave que produce leve limitación funcional"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada. ASA III: grave con limitación. ASA IV: grave y no corregible. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente clasificado como ASA V presenta:",
+        "opciones": ["Una patología que limita su funcionalidad, pero con buen pronóstico", "Un estado clínico terminal con mínimas posibilidades de supervivencia", "Una alteración sistémica leve", "Una enfermedad que permite cirugía ambulatoria"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada. ASA III: grave con limitación. ASA IV: enfermedad grave no corregible. ASA V: paciente moribundo con escasas probabilidades de supervivencia."
+      },
+      {
+        "enunciado": "Un paciente que sufre una alteración sistémica leve o moderada, pero sin limitación funcional, se clasifica como:",
+        "opciones": ["ASA I", "ASA II", "ASA III", "ASA IV"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve/moderada sin limitación. ASA III: enfermedad grave con limitación. ASA IV: enfermedad grave que pone en peligro la vida. ASA V: paciente moribundo."
+      },
+      {
+        "enunciado": "Un paciente moribundo con pocas probabilidades de sobrevivir incluso con cirugía se clasifica como:",
+        "opciones": ["ASA III", "ASA IV", "ASA V", "ASA VI"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: leve/moderada sin limitación. ASA III: enfermedad grave con limitación. ASA IV: grave y pone en peligro la vida. ASA V: moribundo sin expectativas reales de supervivencia."
+      },
+      {
+        "enunciado": "Un paciente con una enfermedad sistémica grave que limita su funcionalidad, pero no amenaza directamente su vida, se clasifica como:",
+        "opciones": ["ASA II", "ASA III", "ASA IV", "ASA V"],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve. ASA III: enfermedad grave con limitación funcional. ASA IV: enfermedad grave y vital. ASA V: moribundo."
+      },
+      {
+        "enunciado": "¿Qué clasificación ASA corresponde a un paciente sin ninguna alteración sistémica, únicamente intervenido por un proceso localizado?",
+        "opciones": ["ASA I", "ASA II", "ASA III", "ASA IV"],
+        "correcta": 0,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: paciente sano sin enfermedad sistémica. ASA II: leve/moderada. ASA III: grave. ASA IV: grave que compromete la vida. ASA V: moribundo."
+      },
+      {
+        "enunciado": "Un paciente con una enfermedad sistémica grave no corregible que pone en peligro su vida, se clasifica como:",
+        "opciones": ["ASA II", "ASA III", "ASA IV", "ASA V"],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA I: sano. ASA II: enfermedad leve. ASA III: grave con limitación. ASA IV: enfermedad sistémica grave no corregible y amenazante. ASA V: moribundo."
+      },
+      {
+        "enunciado": "¿Para qué se utiliza la clasificación ASA de la American Society of Anesthesiologists?",
+        "opciones": [
+          "Para predecir el riesgo quirúrgico y anestésico de un paciente",
+          "Para clasificar el tipo de intervención quirúrgica",
+          "Para valorar el dolor postoperatorio",
+          "Para seleccionar el tipo de anestesia regional"
+        ],
+        "correcta": 0,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "La clasificación ASA evalúa el estado físico del paciente antes de una cirugía y permite estimar el riesgo anestésico-quirúrgico."
+      },
+      {
+        "enunciado": "La clasificación ASA se emplea en el ámbito quirúrgico para:",
+        "opciones": [
+          "Seleccionar los analgésicos postoperatorios más adecuados",
+          "Estimar el estado físico preoperatorio del paciente",
+          "Indicar la vía de abordaje quirúrgico",
+          "Determinar el tipo de intervención quirúrgica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA clasifica al paciente según su estado de salud global, ayudando a valorar el riesgo previo a la cirugía."
+      },
+      {
+        "enunciado": "¿Qué valora fundamentalmente la escala ASA en un paciente quirúrgico?",
+        "opciones": [
+          "La gravedad del procedimiento quirúrgico",
+          "La preparación preoperatoria",
+          "El estado físico general y comorbilidades del paciente",
+          "El tipo de anestesia que debe emplearse"
+        ],
+        "correcta": 2,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "ASA se centra en el estado físico global del paciente, independientemente del tipo de cirugía, para estimar el riesgo anestésico."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de clasificar a un paciente con un nivel ASA?",
+        "opciones": [
+          "Ajustar la duración del ayuno preoperatorio",
+          "Determinar el riesgo vital y complicaciones quirúrgicas",
+          "Calcular la dosis de anestésico necesaria",
+          "Estimar el tiempo de hospitalización postquirúrgica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "El objetivo de la clasificación ASA es estimar el riesgo de complicaciones relacionadas con la anestesia y la cirugía."
+      },
+      {
+        "enunciado": "¿Qué aspecto NO tiene en cuenta directamente la clasificación ASA?",
+        "opciones": [
+          "El tipo de patología sistémica del paciente",
+          "La edad del paciente",
+          "El estado físico general",
+          "La urgencia del procedimiento quirúrgico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema184", "criterios_asa"],
+        "feedback": "La edad no se considera directamente en la clasificación ASA, que se basa en el estado físico y comorbilidades del paciente."
+      }
+      
+      
+]

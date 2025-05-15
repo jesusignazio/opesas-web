@@ -68,6 +68,147 @@
         "correcta": 3,
         "categorías": ["tema118", "indice_barthel_items"],
         "feedback": "El índice de Barthel tiene una puntuación total de hasta 100 puntos."
+      },
+      {
+        "enunciado": "¿Cuál de estas actividades es valorada en el Índice de Barthel?",
+        "opciones": ["Uso del retrete", "Control del correo postal", "Manejo del dinero", "Planificación de menús"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El uso del retrete es uno de los ítems valorados en el Índice de Barthel."
+      },
+      {
+        "enunciado": "¿Qué capacidad funcional se incluye en el Índice de Barthel?",
+        "opciones": ["Preparación de alimentos", "Control de esfínteres urinarios", "Realizar compras", "Gestión de citas médicas"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El control urinario es uno de los ítems clave del Índice de Barthel."
+      },
+      {
+        "enunciado": "¿Cuál de estas actividades pertenece al Índice de Barthel?",
+        "opciones": ["Manejo del transporte público", "Subir y bajar escaleras", "Usar el cajero automático", "Organizar la medicación"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Subir y bajar escaleras es uno de los ítems funcionales del Índice de Barthel."
+      },
+      {
+        "enunciado": "Según el Índice de Barthel, ¿cuál de estas actividades se valora para determinar autonomía?",
+        "opciones": ["Vestirse", "Gestionar documentos legales", "Administrar finanzas", "Cocinar de forma independiente"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Vestirse es uno de los ítems que evalúa la independencia funcional en el Índice de Barthel."
+      },
+      {
+        "enunciado": "¿Qué ítem se incluye en el Índice de Barthel?",
+        "opciones": ["Higiene personal", "Leer etiquetas de fármacos", "Tomar decisiones médicas", "Buscar ayuda social"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La higiene personal se contempla como parte de las actividades básicas en Barthel."
+      },
+      {
+        "enunciado": "¿Qué actividad funcional forma parte del Índice de Barthel?",
+        "opciones": ["Realizar gestiones bancarias", "Baño o ducha", "Conducir un vehículo", "Usar teléfono móvil"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El baño o ducha es uno de los ítems básicos valorados en el Barthel."
+      },
+      {
+        "enunciado": "En el Índice de Barthel, ¿cuál de estas tareas se considera para valorar el nivel de dependencia?",
+        "opciones": ["Trasladarse entre sillas y cama", "Lavar ropa", "Pedir comida a domicilio", "Tomar decisiones financieras"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El traslado cama-silla es uno de los ítems centrales del índice."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes actividades se evalúa en el Índice de Barthel?",
+        "opciones": ["Cuidado de mascotas", "Alimentación", "Participación en actividades sociales", "Gestión de conflictos familiares"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La alimentación es una de las 10 actividades evaluadas en el Índice de Barthel."
+      },
+      {
+        "enunciado": "¿Qué actividad funcional se recoge en el Índice de Barthel?",
+        "opciones": ["Organizar vacaciones", "Uso del inodoro", "Seguimiento de tratamientos complejos", "Limpieza de la casa"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El uso del inodoro (retrete) es parte de los ítems funcionales evaluados."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte del Índice de Barthel?",
+        "opciones": ["Cuidado de nietos", "Desplazarse en silla de ruedas o caminar", "Atención al correo electrónico", "Tramitar ayudas sociales"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La movilidad es un componente fundamental del Índice de Barthel."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes funciones se evalúa directamente en el Índice de Barthel?",
+        "opciones": ["Control de esfínteres fecales", "Supervisión de medicación", "Gestión de ayudas técnicas", "Comprensión lectora"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El control de esfínteres fecales es uno de los 10 ítems del Barthel."
+      },
+      {
+        "enunciado": "¿Qué ítem corresponde al Índice de Barthel?",
+        "opciones": ["Usar transporte público", "Peinarse y afeitarse", "Hacer la cama", "Revisar informes médicos"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La higiene personal incluye tareas como peinarse y afeitarse."
+      },
+      {
+        "enunciado": "¿Qué aspecto de la movilidad valora el Índice de Barthel?",
+        "opciones": ["Marcha o desplazamiento", "Equilibrio postural en bipedestación", "Tiempo de marcha mantenida", "Subida de rampa"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El desplazamiento o marcha es uno de los ítems clave del Barthel."
+      },
+      {
+        "enunciado": "¿Cuál de estas actividades básicas es valorada en el Índice de Barthel?",
+        "opciones": ["Planificación del menú semanal", "Vestido superior e inferior", "Hacer ejercicio físico", "Toma de decisiones financieras"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Vestirse, incluyendo prenda superior e inferior, es un ítem evaluado."
+      },
+      {
+        "enunciado": "¿Qué aspecto funcional se contempla en el Barthel?",
+        "opciones": ["Alimentación por sí mismo", "Uso del teléfono móvil", "Realización de la compra", "Participación en grupos sociales"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La capacidad de alimentarse solo es uno de los ítems principales."
+      },
+      {
+        "enunciado": "¿Qué actividad se incluye en el Barthel como parte de la higiene personal?",
+        "opciones": ["Cuidado de la piel", "Lavado de cara y manos", "Aplicación de cremas corporales", "Uso de productos cosméticos"],
+        "correcta": 1,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El lavado de cara y manos forma parte del ítem de higiene personal."
+      },
+      {
+        "enunciado": "¿Qué actividad cotidiana se evalúa específicamente en el Índice de Barthel?",
+        "opciones": ["Desplazamiento en escaleras", "Organización del hogar", "Cuidado del entorno familiar", "Gestión del presupuesto doméstico"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Subir y bajar escaleras se evalúa como una capacidad funcional específica."
+      },
+      {
+        "enunciado": "¿Cuál de estas tareas forma parte del ítem de transferencia del Índice de Barthel?",
+        "opciones": ["Pasar de la cama a la silla", "Levantar pesas de entrenamiento", "Girar sobre el eje corporal", "Andar descalzo"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "La transferencia cama-silla se evalúa directamente en el Barthel."
+      },
+      {
+        "enunciado": "¿Qué se valora en el ítem de baño del Índice de Barthel?",
+        "opciones": ["Capacidad de ducharse o bañarse solo", "Uso de productos cosméticos", "Frecuencia del baño", "Tiempo dedicado a la higiene"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "El ítem valora si el paciente necesita ayuda para ducharse o bañarse."
+      },
+      {
+        "enunciado": "¿Qué capacidad funcional evalúa el Índice de Barthel que podría verse limitada por artrosis severa?",
+        "opciones": ["Vestirse", "Cuidado de jardines", "Realizar gestiones bancarias", "Recoger la casa"],
+        "correcta": 0,
+        "categorías": ["tema118", "indice_barthel_items"],
+        "feedback": "Las limitaciones articulares pueden afectar directamente al ítem de vestirse."
       }
+      
       
 ]

@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿A qué edad se espera que un lactante haya duplicado su peso al nacimiento?",
+        "opciones": ["A los 3 meses", "A los 5 meses", "Al año", "A los 18 meses"],
+        "correcta": 1,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "El peso del RN se duplica aproximadamente hacia los 5 meses."
+      },
+      {
+        "enunciado": "¿A qué edad se espera que un niño haya triplicado su peso de nacimiento?",
+        "opciones": ["A los 9 meses", "A los 12 meses", "A los 18 meses", "A los 24 meses"],
+        "correcta": 1,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "Hacia los 12 meses (1 año), el niño suele haber triplicado su peso al nacer."
+      },
+      {
+        "enunciado": "¿En qué momento del desarrollo infantil se cuadruplica el peso del nacimiento?",
+        "opciones": ["A los 18 meses", "A los 2 años", "A los 2 años y medio", "A los 3 años"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "El peso al nacer se cuadruplica aproximadamente hacia los 2 años y medio."
+      },
+      {
+        "enunciado": "Durante el primer trimestre de vida, ¿cuál es el aumento de peso medio diario esperado?",
+        "opciones": ["10-15 g/día", "20 g/día", "25-30 g/día", "35 g/día"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "En el primer trimestre el aumento medio de peso diario es de 25-30 g."
+      },
+      {
+        "enunciado": "¿Cuánto suele crecer un niño en su primer año de vida?",
+        "opciones": ["20%", "30%", "50%", "70%"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "Durante el primer año de vida, el niño aumenta su talla en un 50% respecto a la del nacimiento."
+      },
+      {
+        "enunciado": "¿Cuándo suele doblar un niño la talla que tenía al nacer?",
+        "opciones": ["A los 2 años", "A los 3 años", "A los 4 años", "A los 5 años"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "Hacia los 4 años, la talla suele ser el doble de la talla al nacimiento."
+      },
+      {
+        "enunciado": "¿Cuál es el ritmo de aumento de peso medio durante el cuarto trimestre de vida?",
+        "opciones": ["25-30 g/día", "20 g/día", "15 g/día", "10 g/día"],
+        "correcta": 3,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "En el cuarto trimestre (9-12 meses) el peso aumenta unos 10 g diarios."
+      },
+      {
+        "enunciado": "¿Qué ocurre generalmente con el ritmo de crecimiento tras los 18-24 meses?",
+        "opciones": ["Se acelera progresivamente", "Se detiene", "Disminuye al mínimo", "Permanece constante"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "A partir de los 18-24 meses, el crecimiento es mínimo hasta los 3-4 años."
+      },
+      {
+        "enunciado": "¿Cuál es el patrón de crecimiento infantil tras los 3-4 años de edad?",
+        "opciones": ["Uniforme", "Acelerado constante", "En brotes irregulares", "Lineal sin pausas"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "A partir de los 3-4 años el crecimiento ocurre en brotes, con periodos de estancamiento aparente."
+      },
+      {
+        "enunciado": "¿Cuál es el aumento medio diario de peso durante el segundo trimestre de vida?",
+        "opciones": ["10 g/día", "15 g/día", "20 g/día", "25 g/día"],
+        "correcta": 2,
+        "categorías": ["tema171", "crecimiento_infantil"],
+        "feedback": "Durante el segundo trimestre el aumento medio diario de peso es de 20 g."
+      }
+      
+]

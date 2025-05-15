@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 1 tiene una dependencia física a la nicotina:",
+        "opciones": ["Nula", "Baja", "Moderada", "Alta"],
+        "correcta": 1,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 1: dependencia baja (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 4 tiene una dependencia física a la nicotina:",
+        "opciones": ["Nula", "Baja", "Moderada", "Alta"],
+        "correcta": 2,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 4: dependencia moderada (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 0 tiene una dependencia física a la nicotina:",
+        "opciones": ["Nula", "Baja", "Moderada", "Alta"],
+        "correcta": 1,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 0: dependencia baja (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 6 tiene una dependencia física a la nicotina:",
+        "opciones": ["Baja", "Moderada", "Alta", "Muy alta"],
+        "correcta": 2,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 6: dependencia alta (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 7 tiene una dependencia física a la nicotina:",
+        "opciones": ["Baja", "Moderada", "Alta", "Muy alta"],
+        "correcta": 3,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 7: dependencia muy alta (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 3 tiene una dependencia física a la nicotina:",
+        "opciones": ["Baja", "Moderada", "Alta", "Muy alta"],
+        "correcta": 1,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 3: dependencia moderada (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 10 tiene una dependencia física a la nicotina:",
+        "opciones": ["Alta", "Muy alta", "Extrema", "Moderada"],
+        "correcta": 1,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 10: dependencia muy alta (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 5 tiene una dependencia física a la nicotina:",
+        "opciones": ["Baja", "Moderada", "Alta", "Muy alta"],
+        "correcta": 2,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 5: dependencia alta (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 8 tiene una dependencia física a la nicotina:",
+        "opciones": ["Baja", "Moderada", "Alta", "Muy alta"],
+        "correcta": 3,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 8: dependencia muy alta (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Fagerström de 2 tiene una dependencia física a la nicotina:",
+        "opciones": ["Nula", "Baja", "Moderada", "Alta"],
+        "correcta": 1,
+        "categorías": ["tema175", "fagerstrom"],
+        "feedback": "Puntuación 2: dependencia baja (0–2 baja, 3–4 moderada, 5–6 alta, 7–10 muy alta)."
+      }
+      
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes hallazgos es diagnóstico de diabetes mellitus tipo 2?",
+        "opciones": [
+          "Glucemia en ayunas de 115 mg/dl",
+          "HbA1c del 6,2%",
+          "Glucemia al azar de 205 mg/dl acompañada de poliuria y pérdida de peso",
+          "Glucemia postcarga oral de glucosa de 190 mg/dl"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "Glucemia al azar ≥ 200 mg/dl junto con síntomas clásicos de hiperglucemia es criterio diagnóstico de diabetes."
+      },
+      {
+        "enunciado": "En el cribado oportunista de DMT2, ¿cuál es la prueba de elección en personas sin diabetes conocida?",
+        "opciones": [
+          "HbA1c capilar",
+          "Glucemia basal venosa tras 8 horas de ayuno",
+          "Glucemia al azar",
+          "Glucosa en orina"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "La glucemia basal venosa tras 8 horas de ayuno es la prueba recomendada para el cribado oportunista."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes cifras corresponde a prediabetes según los criterios actuales?",
+        "opciones": [
+          "HbA1c del 6,7%",
+          "Glucemia en ayunas de 95 mg/dl",
+          "Glucemia postcarga de 160 mg/dl",
+          "Glucemia basal de 130 mg/dl"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "La tolerancia alterada a la glucosa (prediabetes) incluye cifras entre 140 y 199 mg/dl a las 2 h de la SOG."
+      },
+      {
+        "enunciado": "¿Qué criterio no permite diagnosticar DM2 según el PAI de Diabetes?",
+        "opciones": [
+          "Glucemia en ayunas ≥ 126 mg/dl",
+          "HbA1c ≥ 6,5%",
+          "Glucemia postcarga ≥ 200 mg/dl",
+          "HbA1c capilar ≥ 6,5%"
+        ],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "La HbA1c capilar no se recomienda para el diagnóstico de DM; debe ser determinada en laboratorio certificado."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes cifras NO se considera dentro del rango de prediabetes?",
+        "opciones": [
+          "Glucemia en ayunas de 104 mg/dl",
+          "HbA1c de 6,3%",
+          "Glucemia postcarga de 145 mg/dl",
+          "HbA1c de 6,6%"
+        ],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "Una HbA1c de 6,6% ya está por encima del umbral de prediabetes y se considera diagnóstico de diabetes."
+      },
+      {
+        "enunciado": "En el cribado sistemático de DMT2 a partir de los 45 años, la periodicidad recomendada es:",
+        "opciones": [
+          "Anual",
+          "Cada 2 años",
+          "Cada 3 años",
+          "Solo si hay síntomas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "A partir de los 45 años, el cribado debe hacerse cada 3 años si no hay factores de riesgo."
+      },
+      {
+        "enunciado": "Según el PAI de Diabetes, ¿cuál es el objetivo recomendado de HbA1c para la mayoría de los pacientes con DM2?",
+        "opciones": [
+          "< 6,5%",
+          "< 7%",
+          "< 7,5%",
+          "< 8%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "El valor objetivo general de HbA1c es < 7%, individualizándose según edad, comorbilidad y riesgo de hipoglucemias."
+      },
+      {
+        "enunciado": "¿Qué valor de HbA1c indica riesgo de desarrollar diabetes, sin ser diagnóstico todavía?",
+        "opciones": [
+          "≥ 6,5%",
+          "Entre 5,7% y 6,4%",
+          "< 5,7%",
+          "≥ 7%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "Una HbA1c entre 5,7% y 6,4% se considera prediabetes y refleja alto riesgo de progresión a DM2."
+      },
+      {
+        "enunciado": "¿Qué factores de riesgo justificarían un cribado anual de DMT2 en cualquier edad?",
+        "opciones": [
+          "Hipertensión y sobrepeso",
+          "Antecedente familiar de DM1",
+          "Consumo moderado de alcohol",
+          "Actividad física intensa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema150"],
+        "feedback": "Hipertensión, sobrepeso, dislipemia o antecedentes familiares de DM2 son factores que requieren cribado anual."
+      },
+      {
+        "enunciado": "¿Qué valor de glucemia post-SOG se considera diagnóstico de diabetes?",
+        "opciones": [
+          "≥ 140 mg/dl",
+          "≥ 160 mg/dl",
+          "≥ 180 mg/dl",
+          "≥ 200 mg/dl"
+        ],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "Una glucemia ≥ 200 mg/dl a las 2 horas de una sobrecarga oral de glucosa es diagnóstico de diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el valor mínimo de glucemia en ayunas necesario para diagnosticar una diabetes tipo 2?",
+        "opciones": ["100 mg/dl", "110 mg/dl", "126 mg/dl", "140 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "La diabetes se diagnostica si la glucemia basal es ≥ 126 mg/dl en plasma venoso."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes valores de HbA1c se considera diagnóstico de diabetes?",
+        "opciones": ["5,6%", "6,4%", "6,5%", "7%"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "Una HbA1c ≥ 6,5% en laboratorio certificado es criterio diagnóstico de diabetes mellitus."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el rango de HbA1c que define la situación de prediabetes?",
+        "opciones": ["5,5% - 6%", "5,7% - 6,4%", "6% - 6,9%", "5,8% - 6,6%"],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "El rango 5,7%-6,4% de HbA1c define el riesgo elevado o prediabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué resultado tras una SOG de 75 g indica diabetes?",
+        "opciones": ["≥ 140 mg/dl", "≥ 160 mg/dl", "≥ 180 mg/dl", "≥ 200 mg/dl"],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "Glucemia ≥ 200 mg/dl a las 2 horas de una sobrecarga oral de glucosa confirma el diagnóstico de diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes hallazgos no es diagnóstico de diabetes?",
+        "opciones": [
+          "HbA1c ≥ 6,5%",
+          "Glucemia al azar ≥ 200 mg/dl con síntomas",
+          "Glucemia basal de 122 mg/dl",
+          "Glucemia post-SOG ≥ 200 mg/dl"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "Una glucemia basal de 122 mg/dl indica glucemia alterada, pero no alcanza el umbral de diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cada cuánto debe realizarse el cribado sistemático de DMT2 a partir de los 45 años?",
+        "opciones": ["Cada año", "Cada dos años", "Cada tres años", "Solo si hay síntomas"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "El cribado en población sin factores de riesgo se realiza cada 3 años a partir de los 45 años."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el valor de glucemia en ayunas que indica glucemia basal alterada (prediabetes)?",
+        "opciones": ["≥ 100 mg/dl y < 126 mg/dl", "≥ 110 mg/dl y < 130 mg/dl", "≥ 105 mg/dl y < 120 mg/dl", "≥ 90 mg/dl y < 125 mg/dl"],
+        "correcta": 0,
+        "categorías": ["tema150"],
+        "feedback": "La glucemia basal alterada se define como ≥ 100 y < 126 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el objetivo general de HbA1c para el control de pacientes con DM2?",
+        "opciones": ["< 6%", "< 6,5%", "< 7%", "< 7,5%"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "El objetivo general es mantener la HbA1c por debajo del 7%, salvo en pacientes en los que se individualice."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes factores justificaría un cribado anual de DMT2 en cualquier edad?",
+        "opciones": ["Consumo moderado de sal", "Antecedentes familiares de DMT1", "Dislipemia y sobrepeso", "Historia de tabaquismo"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "Dislipemia y sobrepeso son factores de riesgo que justifican cribado anual sin importar la edad."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estas pruebas NO es válida para el diagnóstico de DM2?",
+        "opciones": ["Glucemia basal venosa ≥ 126 mg/dl", "Glucemia al azar ≥ 200 mg/dl con síntomas", "HbA1c capilar ≥ 6,5%", "SOG ≥ 200 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "La HbA1c capilar no es una prueba válida para el diagnóstico de DM según las recomendaciones."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes resultados permitiría diagnosticar DM2 sin necesidad de repetir la prueba?",
+        "opciones": [
+          "HbA1c de 6,7% en laboratorio certificado",
+          "Glucemia en ayunas de 130 mg/dl sin síntomas",
+          "Glucemia post-SOG de 210 mg/dl en un primer análisis",
+          "Glucemia al azar de 210 mg/dl con poliuria y pérdida de peso"
+        ],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "Solo en caso de glucemia al azar ≥200 mg/dl acompañada de síntomas clásicos no se requiere repetir la prueba."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, una HbA1c de 6,4% indica:",
+        "opciones": [
+          "Diabetes tipo 2 si se confirma en segunda determinación",
+          "Diabetes tipo 2 si hay síntomas clásicos",
+          "Prediabetes y requiere seguimiento",
+          "Cifras compatibles con normoglucemia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "Una HbA1c entre 5,7% y 6,4% se considera indicativa de prediabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes hallazgos requeriría repetir la prueba para confirmar el diagnóstico?",
+        "opciones": [
+          "HbA1c ≥ 6,5% sin síntomas",
+          "Glucemia al azar de 210 mg/dl con polidipsia",
+          "Glucemia post-SOG de 205 mg/dl en paciente asintomático",
+          "Todas menos la opción B"
+        ],
+        "correcta": 3,
+        "categorías": ["tema150"],
+        "feedback": "Solo la glucemia al azar con síntomas permite diagnóstico sin repetición. Las demás requieren confirmación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, un paciente con glucemia en ayunas de 124 mg/dl, post-SOG de 165 mg/dl y HbA1c de 6,0% presenta:",
+        "opciones": [
+          "Diagnóstico confirmado de DM2",
+          "Situación compatible con prediabetes",
+          "Normoglucemia con riesgo cardiovascular",
+          "Indicación de repetir la SOG"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "Los tres parámetros (GBA, TAG y HbA1c entre 5,7-6,4%) son compatibles con prediabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el criterio diagnóstico para intolerancia a la glucosa?",
+        "opciones": [
+          "Glucemia post-SOG entre 140 y 199 mg/dl",
+          "Glucemia en ayunas entre 100 y 125 mg/dl",
+          "HbA1c entre 5,7% y 6,4%",
+          "Glucemia al azar de 180 mg/dl sin síntomas"
+        ],
+        "correcta": 0,
+        "categorías": ["tema150"],
+        "feedback": "La intolerancia a la glucosa (TAG) se define por glucemia a las 2 h de SOG entre 140-199 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estas combinaciones indica la necesidad de cribado anual en personas menores de 45 años?",
+        "opciones": [
+          "IMC de 26 y HDL de 40 mg/dl",
+          "Antecedente de DM2 en madre y triglicéridos > 250 mg/dl",
+          "Glucemia basal de 95 mg/dl y HbA1c de 5,6%",
+          "Tensión arterial de 130/85 con normopeso"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "Tener dos factores de riesgo como antecedentes de DM2 y dislipemia grave indica cribado anual, independientemente de la edad."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes criterios justifica repetir la HbA1c en laboratorio estandarizado?",
+        "opciones": [
+          "HbA1c capilar ≥ 6,5%",
+          "HbA1c venosa ≥ 6,5% en un centro acreditado",
+          "HbA1c < 6% en paciente con síntomas clásicos",
+          "HbA1c ≥ 6,0% en paciente normopeso y asintomático"
+        ],
+        "correcta": 0,
+        "categorías": ["tema150"],
+        "feedback": "La HbA1c capilar no se acepta como prueba diagnóstica; debe repetirse en laboratorio certificado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes situaciones se consideraría indicativa de cribado estructurado cada 3 años?",
+        "opciones": [
+          "Paciente de 50 años sin factores de riesgo conocidos",
+          "Mujer de 42 años con antecedentes de DM gestacional",
+          "Varón de 35 años con IMC 28 y PA 138/90",
+          "Hombre de 70 años con HbA1c de 5,8%"
+        ],
+        "correcta": 0,
+        "categorías": ["tema150"],
+        "feedback": "A partir de los 45 años, sin factores de riesgo, se recomienda cribado cada 3 años."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué afirmación sobre la sobrecarga oral de glucosa (SOG) es correcta?",
+        "opciones": [
+          "Debe realizarse con 100 g de glucosa anhidra disuelta en agua",
+          "Solo se recomienda en pacientes sintomáticos",
+          "Es válida para confirmar tanto prediabetes como DM",
+          "Se desaconseja su uso en mayores de 65 años"
+        ],
+        "correcta": 2,
+        "categorías": ["tema150"],
+        "feedback": "La SOG con 75 g permite diagnosticar tanto intolerancia a la glucosa como diabetes mellitus."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en cuál de estas situaciones no es válida la glucemia capilar como herramienta diagnóstica?",
+        "opciones": [
+          "En pacientes pediátricos con síntomas de debut",
+          "En cribado rutinario en atención primaria",
+          "En urgencias ante sospecha de cetoacidosis",
+          "En control glucémico domiciliario en DM2 conocidos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema150"],
+        "feedback": "La glucemia capilar no es válida para diagnóstico de diabetes en cribado; se usa solo como orientación."
+      }                  
+]

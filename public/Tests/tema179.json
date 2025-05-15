@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "Una úlcera por presión con pérdida total del grosor de la piel, con exposición de músculo o hueso, corresponde al estadio:",
+        "opciones": ["I", "II", "III", "IV"],
+        "correcta": 3,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio IV: pérdida total del grosor con exposición de músculo, hueso o estructuras profundas. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una úlcera por presión que presenta piel íntegra, pero eritema que no palidece, se clasifica como:",
+        "opciones": ["Estadio I", "Estadio II", "Estadio III", "Estadio IV"],
+        "correcta": 0,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio I: piel íntegra con eritema persistente. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una úlcera por presión con pérdida parcial del grosor de la piel, afectando epidermis y/o dermis, corresponde a:",
+        "opciones": ["Estadio I", "Estadio II", "Estadio III", "Estadio IV"],
+        "correcta": 1,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio II: úlcera superficial o ampolla con afectación de dermis/epidermis. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "¿Cuál es el estadio de una UPP con cavitación profunda, pérdida completa del grosor cutáneo y tejido necrótico?",
+        "opciones": ["Estadio II", "Estadio III", "Estadio IV", "Estadio indeterminado"],
+        "correcta": 2,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio IV: hay destrucción de todos los tejidos y exposición de estructuras profundas. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una úlcera cubierta por escara o esfacelos que impide valorar la profundidad real, se clasifica como:",
+        "opciones": ["Estadio II", "Estadio III", "Estadio IV", "No estadificable"],
+        "correcta": 3,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "UPP no clasificable: escara o tejido desvitalizado impide ver el fondo. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una ampolla serosa intacta en una zona de presión puede clasificarse como:",
+        "opciones": ["Estadio I", "Estadio II", "Estadio III", "Lesión profunda de tejidos"],
+        "correcta": 1,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio II: ampolla o úlcera superficial con pérdida parcial del grosor. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una lesión por presión con apariencia de hematoma profundo y piel intacta se clasifica como:",
+        "opciones": ["Estadio I", "Estadio II", "Lesión de tejidos profundos", "Estadio IV"],
+        "correcta": 2,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Lesión de tejidos profundos: piel intacta, color púrpura/marrón y daño interno. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una úlcera por presión con cráter profundo y exposición de tejido subcutáneo, pero sin afectar músculo ni hueso, se clasifica como:",
+        "opciones": ["Estadio II", "Estadio III", "Estadio IV", "No clasificable"],
+        "correcta": 1,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio III: pérdida total del grosor cutáneo, sin llegar a estructuras profundas. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "¿Qué estadio se asocia a enrojecimiento persistente de piel íntegra que no desaparece al presionar?",
+        "opciones": ["Estadio I", "Estadio II", "Estadio III", "Lesión tisular profunda"],
+        "correcta": 0,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Estadio I: eritema no blanqueante con piel íntegra. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      },
+      {
+        "enunciado": "Una úlcera con piel violácea o marrón, sin rotura, con tejidos dañados en profundidad, debe clasificarse como:",
+        "opciones": ["Estadio I", "Estadio II", "Estadio IV", "Lesión de tejidos profundos"],
+        "correcta": 3,
+        "categorías": ["tema179", "upp_estadios"],
+        "feedback": "Lesión de tejidos profundos: piel intacta, pero daño tisular profundo. GUIABURROS: I: eritema sin rotura · II: dermis expuesta · III: tejido subcutáneo expuesto · IV: músculo/hueso · No clasificable: escara/necrosis."
+      }
+      
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "enunciado": "¿Cuál es el peso medio al nacimiento en un recién nacido varón a término?",
+        "opciones": ["2.900 g", "3.100 g", "3.300 g", "3.500 g"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "El peso medio de un recién nacido varón es de aproximadamente 3.300 g."
+      },
+      {
+        "enunciado": "¿A partir de qué cifra se considera bajo peso al nacer en un RN a término?",
+        "opciones": ["2.000 g", "2.200 g", "2.500 g", "2.700 g"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "El bajo peso al nacer se define como un peso inferior a 2.500 g en un RN de ≥39 semanas."
+      },
+      {
+        "enunciado": "¿Cuál es la talla media estimada de un recién nacido sano a término?",
+        "opciones": ["48 ± 2 cm", "50 ± 2 cm", "52 ± 3 cm", "54 ± 2 cm"],
+        "correcta": 1,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "La talla media al nacimiento es de 50 ± 2 cm."
+      },
+      {
+        "enunciado": "¿Cuál es el perímetro cefálico medio de un recién nacido sano?",
+        "opciones": ["32 cm", "33 cm", "35 cm", "36 cm"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "El perímetro cefálico medio de un recién nacido es de 35 cm."
+      },
+      {
+        "enunciado": "En un recién nacido sano, ¿cómo suele ser la relación entre el perímetro cefálico y el torácico al nacer?",
+        "opciones": ["El cefálico es mayor", "El torácico es mayor", "Son iguales", "El cefálico es menor"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "Al nacer, el perímetro cefálico suele ser igual al torácico."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes valores de perímetro cefálico requeriría derivación para estudio por posible macrocefalia?",
+        "opciones": ["34 cm", "36 cm", "37 cm", "38 cm (P>97)"],
+        "correcta": 3,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "Valores por encima del percentil 97 (como 38 cm) deben valorarse por posible macrocefalia."
+      },
+      {
+        "enunciado": "¿Qué criterio se utiliza para indicar derivación en caso de microcefalia en el RN?",
+        "opciones": ["P<5", "P<10", "P<3", "P<25"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "Se considera indicación de derivación un perímetro cefálico por debajo del percentil 3."
+      },
+      {
+        "enunciado": "¿Cuál es el peso medio al nacimiento en una niña recién nacida a término?",
+        "opciones": ["3.400 g", "3.300 g", "3.200 g", "3.100 g"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "En las niñas, el peso medio al nacimiento es de aproximadamente 3.200 g."
+      },
+      {
+        "enunciado": "¿Cómo se debe pesar correctamente a un recién nacido para obtener un valor fiable?",
+        "opciones": ["Con pañal limpio", "Desnudo", "Con ropa ligera", "Envuelto en una toalla fina"],
+        "correcta": 1,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "El peso del recién nacido debe tomarse completamente desnudo para evitar errores."
+      },
+      {
+        "enunciado": "¿Con qué instrumento se recomienda medir el perímetro cefálico en un RN?",
+        "opciones": ["Regla rígida", "Cinta métrica de papel", "Cinta métrica flexible", "Calibrador electrónico"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "Se utiliza una cinta métrica flexible, colocada sobre las orejas y por encima de las cejas."
+      },
+      {
+        "enunciado": "¿Cuál es la longitud media habitual de un recién nacido sano a término?",
+        "opciones": ["45 ± 2 cm", "48 ± 2 cm", "50 ± 2 cm", "52 ± 3 cm"],
+        "correcta": 2,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "La longitud media del recién nacido a término es de 50 ± 2 cm."
+      },
+      {
+        "enunciado": "¿Qué longitud es más probable en un recién nacido sano a término?",
+        "opciones": ["46 cm", "48 cm", "54 cm", "56 cm"],
+        "correcta": 1,
+        "categorías": ["tema170", "valores_normales_rn"],
+        "feedback": "Una longitud de 48 cm está dentro del rango normal (50 ± 2 cm) para un RN sano a término."
+      }
+            
+]

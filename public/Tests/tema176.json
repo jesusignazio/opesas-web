@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "Un paciente con una puntuación de Richmond de 0 muestra:",
+        "opciones": ["Motivación muy baja", "Motivación baja", "Motivación moderada", "Motivación alta"],
+        "correcta": 0,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 2 muestra:",
+        "opciones": ["Motivación muy baja", "Motivación baja", "Motivación moderada", "Motivación alta"],
+        "correcta": 1,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 3 muestra:",
+        "opciones": ["Motivación baja", "Motivación moderada", "Motivación alta", "Motivación muy alta"],
+        "correcta": 1,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 5 muestra:",
+        "opciones": ["Motivación moderada", "Motivación alta", "Motivación muy alta", "Motivación baja"],
+        "correcta": 1,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 7 muestra:",
+        "opciones": ["Motivación moderada", "Motivación alta", "Motivación muy alta", "Motivación baja"],
+        "correcta": 2,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 4 muestra:",
+        "opciones": ["Motivación muy baja", "Motivación baja", "Motivación moderada", "Motivación alta"],
+        "correcta": 2,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 6 muestra:",
+        "opciones": ["Motivación alta", "Motivación moderada", "Motivación baja", "Motivación muy alta"],
+        "correcta": 0,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 8 muestra:",
+        "opciones": ["Motivación baja", "Motivación alta", "Motivación muy alta", "Motivación moderada"],
+        "correcta": 2,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 10 muestra:",
+        "opciones": ["Motivación muy alta", "Motivación alta", "Motivación moderada", "Motivación baja"],
+        "correcta": 0,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación de Richmond de 1 muestra:",
+        "opciones": ["Motivación muy baja", "Motivación baja", "Motivación moderada", "Motivación alta"],
+        "correcta": 0,
+        "categorías": ["tema176", "richmond"],
+        "feedback": "0–1: motivación muy baja · 2: baja · 3–4: moderada · 5–6: alta · 7–10: muy alta."
+      }
+      
+]

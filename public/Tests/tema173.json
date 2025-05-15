@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "Un desinfectante que elimina bacterias vegetativas y algunos hongos es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina virus lipídicos y hongos, pero no micobacterias, es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina micobacterias pero no esporas es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina virus no lipídicos, hongos y bacterias es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina esporas bacterianas es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 3,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante capaz de eliminar bacterias, hongos y micobacterias, pero no esporas, es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina bacterias vegetativas, virus con envoltura y hongos es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina virus con envoltura, virus no lipídicos y micobacterias, pero no esporas, es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que inactiva virus lipídicos pero no micobacterias ni hongos es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 0,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      },
+      {
+        "enunciado": "Un desinfectante que elimina micobacterias, virus no lipídicos y hongos es:",
+        "opciones": ["Nivel bajo", "Nivel medio", "Nivel alto", "Esterilización"],
+        "correcta": 2,
+        "categorías": ["tema173", "desinfección_niveles"],
+        "feedback": "Nivel bajo: bacterias vegetativas, algunos hongos y virus con envoltura. Nivel medio: + micobacterias. Nivel alto: + virus no lipídicos. Esterilización: todo, incluidas esporas."
+      }
+      
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia debe realizarse el cribado de ERC en personas con diabetes tipo 2?",
+        "opciones": ["Semestralmente", "Anualmente", "Cada dos años", "Solo si aparecen síntomas"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "El cribado de ERC debe realizarse de forma anual en personas con diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué periodicidad se recomienda valorar el filtrado glomerular en pacientes con diabetes?",
+        "opciones": ["Cada 3 meses", "Una vez al año", "Cada 5 años", "Solo al inicio del diagnóstico"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "La estimación del FG se recomienda anualmente como parte del cribado renal en personas con diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cada cuánto se debe realizar la determinación de la excreción urinaria de albúmina en pacientes con diabetes?",
+        "opciones": ["Anualmente", "Cada 6 meses", "Solo una vez tras el diagnóstico", "Cada 2 años si no hay síntomas"],
+        "correcta": 0,
+        "categorías": ["tema152"],
+        "feedback": "La determinación de la excreción urinaria de albúmina debe hacerse una vez al año."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué frecuencia se recomienda para el cribado de ERC mediante pruebas de orina y FG?",
+        "opciones": ["Mensualmente", "Cada 3 años", "Anualmente", "Solo si hay retinopatía diabética"],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "La frecuencia estándar recomendada para el cribado renal es anual."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, en pacientes con DMT2, ¿cuándo se debe repetir el cribado renal si el resultado fue normal el año anterior?",
+        "opciones": ["A los 6 meses", "A los 12 meses", "A los 24 meses", "A los 36 meses"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "Incluso con resultados normales previos, el cribado de ERC debe repetirse anualmente."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia del cribado de ERC en pacientes con DMT1 con más de 5 años de evolución?",
+        "opciones": ["Anualmente", "Cada 2 años", "Cada 6 meses", "Cada 3 años"],
+        "correcta": 0,
+        "categorías": ["tema152"],
+        "feedback": "Una vez iniciado el cribado (a los 5 años de evolución en DMT1), debe realizarse de forma anual."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo se recomienda repetir el cribado renal si se detecta una albuminuria limítrofe?",
+        "opciones": ["Inmediatamente", "A las 24 horas", "Entre 3 y 6 meses", "Al año siguiente"],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "Se recomienda confirmar la albuminuria con dos de tres determinaciones en un periodo de entre 3 y 6 meses."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cada cuánto tiempo se debe revisar el daño renal mediante FG y albúmina en orina?",
+        "opciones": ["Semestralmente", "Anualmente", "Bienalmente", "Trimestralmente"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "La frecuencia recomendada para el cribado de daño renal en diabetes es anual."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la periodicidad estándar del cribado renal una vez que se ha iniciado en personas con diabetes?",
+        "opciones": ["Cada 3 meses", "Anualmente", "Cada 5 años", "Al completar 10 años de evolución"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "Una vez iniciado el cribado, se mantiene anualmente para una detección precoz de ERC."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe repetirse el cribado de ERC en una persona con DMT2 y pruebas normales previas?",
+        "opciones": ["A los 2 años", "Cada 6 meses", "Anualmente", "Solo si desarrolla HTA o proteinuria"],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "Independientemente del resultado previo, el cribado renal debe repetirse cada año."
+      },
+
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe iniciarse el cribado de enfermedad renal crónica en personas con diabetes tipo 2?",
+        "opciones": [
+          "A los 5 años del diagnóstico",
+          "A los 10 años del diagnóstico",
+          "En el momento del diagnóstico",
+          "Al inicio del tratamiento farmacológico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "En pacientes con DMT2, el cribado de enfermedad renal crónica se inicia en el momento del diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe iniciarse el cribado de ERC en personas con DMT1?",
+        "opciones": [
+          "Desde el diagnóstico",
+          "A los 5 años de evolución",
+          "Al presentar microalbuminuria",
+          "A partir de los 30 años"
+        ],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "En personas con diabetes tipo 1, el cribado de ERC se inicia a los 5 años de evolución de la enfermedad."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué fórmula se recomienda para estimar el filtrado glomerular en el cribado de ERC?",
+        "opciones": [
+          "Cockcroft-Gault únicamente",
+          "CKD-EPI como opción preferente",
+          "MDRD exclusivamente",
+          "Cualquier fórmula excepto CKD-EPI"
+        ],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "La fórmula CKD-EPI es la opción preferente para estimar el FG en el cribado de ERC."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el valor de cociente albúmina/creatinina en muestra simple de orina que sugiere daño renal?",
+        "opciones": [
+          "≥ 10 mg/g",
+          "≥ 20 mg/g",
+          "≥ 30 mg/g",
+          "≥ 50 mg/g"
+        ],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "Un cociente albúmina/creatinina ≥ 30 mg/g es marcador de daño renal y requiere confirmación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuántas determinaciones con albuminuria positiva se requieren para confirmar el diagnóstico de ERC?",
+        "opciones": ["Una sola determinación", "Dos determinaciones consecutivas", "Tres determinaciones en 6 meses", "Dos de tres determinaciones en 3–6 meses"],
+        "correcta": 3,
+        "categorías": ["tema152"],
+        "feedback": "Se requiere confirmación en al menos dos de tres determinaciones realizadas en un periodo de entre 3 y 6 meses."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué criterio NO forma parte del diagnóstico de ERC?",
+        "opciones": [
+          "FG < 60 ml/min/1,73 m² mantenido durante 3 meses",
+          "Cociente albúmina/creatinina ≥ 30 mg/g",
+          "Hipoglucemia frecuente con HbA1c < 6%",
+          "Alteraciones estructurales en pruebas de imagen"
+        ],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "La hipoglucemia no forma parte de los criterios diagnósticos de ERC. Los otros sí lo son."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia recomendada del cribado de ERC en personas con diabetes?",
+        "opciones": ["Cada 6 meses", "Anualmente", "Cada 2 años", "Al inicio y si hay síntomas"],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "Se recomienda realizar el cribado de ERC una vez al año en personas con diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes afirmaciones es correcta sobre el diagnóstico de ERC en personas con diabetes?",
+        "opciones": [
+          "Basta con un FG aislado < 60 ml/min para diagnosticar ERC",
+          "El diagnóstico se basa solo en la proteinuria",
+          "Es necesaria la persistencia del daño renal durante al menos 3 meses",
+          "Solo se considera ERC si hay síntomas urinarios"
+        ],
+        "correcta": 2,
+        "categorías": ["tema152"],
+        "feedback": "El diagnóstico de ERC requiere daño renal persistente durante al menos 3 meses."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué prueba NO es adecuada para cribar complicaciones renales en diabetes?",
+        "opciones": [
+          "Creatinina plasmática con cálculo de FG",
+          "Cociente albúmina/creatinina en orina",
+          "Albuminuria en orina de 24 h",
+          "Glucemia capilar postprandial"
+        ],
+        "correcta": 3,
+        "categorías": ["tema152"],
+        "feedback": "La glucemia capilar no se utiliza para el cribado renal; las otras pruebas sí están indicadas."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes métodos puede ser indicativo de daño renal si aparece de forma aislada?",
+        "opciones": [
+          "Creatinina plasmática normal",
+          "Alteraciones del sedimento urinario",
+          "FG > 90 ml/min con microalbuminuria negativa",
+          "pH urinario inferior a 6"
+        ],
+        "correcta": 1,
+        "categorías": ["tema152"],
+        "feedback": "Alteraciones en el sedimento urinario pueden ser marcador de daño renal incluso sin alteración del FG."
+      }
+]

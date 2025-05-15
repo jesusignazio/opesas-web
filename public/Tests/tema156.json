@@ -1,0 +1,170 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes fármacos NO tiene riesgo de producir hipoglucemias según el PAI de Diabetes Mellitus?",
+        "opciones": ["Glibenclamida", "Metformina", "Repaglinida", "Gliclazida"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "La metformina no tiene riesgo de hipoglucemia. Es un fármaco sensibilizador, no un secretagogo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes grupos farmacológicos se considera secretagogo y por tanto con riesgo de hipoglucemias?",
+        "opciones": ["iSGLT2", "aRGLP1", "Sulfonilureas", "iDPP-4"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Las sulfonilureas son secretagogos de insulina, con riesgo de hipoglucemia."
+      },
+      {
+        "enunciado": "Según el PAI de Diabetes Mellitus, ¿cuál de los siguientes fármacos NO se asocia a riesgo de hipoglucemia?",
+        "opciones": ["Metformina", "Repaglinida", "Gliclazida", "Nateglinida"],
+        "correcta": 0,
+        "categorías": ["tema156"],
+        "feedback": "La metformina es un sensibilizador que no estimula la secreción de insulina."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos SÍ se incluye en el seguimiento protocolizado del tratamiento farmacológico individualizado según el PAI?",
+        "opciones": ["Pioglitazona", "Glibenclamida", "Empagliflozina", "Todas las anteriores"],
+        "correcta": 3,
+        "categorías": ["tema156"],
+        "feedback": "Todos estos fármacos están considerados en el seguimiento protocolizado, aunque con indicaciones específicas según perfil del paciente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos se clasifica como inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)?",
+        "opciones": ["Sitagliptina", "Dapagliflozina", "Acarbosa", "Pioglitazona"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "La dapagliflozina es un iSGLT2, sin riesgo de hipoglucemia, usado con frecuencia en pacientes con comorbilidades cardiovasculares o renales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos es hipoglucemiante (con riesgo de hipoglucemia)?",
+        "opciones": ["Metformina", "Gliclazida", "Pioglitazona", "Dapagliflozina"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "La gliclazida es una sulfonilurea, secretagogo de insulina, con riesgo de hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos NO es hipoglucemiante?",
+        "opciones": ["Repaglinida", "Insulina rápida", "Pioglitazona", "Glibenclamida"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "La pioglitazona no estimula la secreción de insulina y no causa hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de estos fármacos tiene riesgo de hipoglucemia?",
+        "opciones": ["Empagliflozina", "Sitagliptina", "Nateglinida", "Metformina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "La nateglinida es una meglitinida, secretagogo de insulina, y puede causar hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es hipoglucemiante por sí solo?",
+        "opciones": ["Gliclazida", "Repaglinida", "Metformina", "Insulina NPH"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "La metformina no es hipoglucemiante porque no estimula la secreción de insulina."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes antidiabéticos orales tiene bajo riesgo de hipoglucemias?",
+        "opciones": ["Glibenclamida", "Acarbosa", "Repaglinida", "Insulina rápida"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "Acarbosa, inhibidor de la alfa-glucosidasa, no provoca hipoglucemias."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos NO es hipoglucemiante?",
+        "opciones": ["Sitagliptina", "Glibenclamida", "Repaglinida", "Insulina basal"],
+        "correcta": 0,
+        "categorías": ["tema156"],
+        "feedback": "Sitagliptina (iDPP-4) no es hipoglucemiante por sí sola."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos puede provocar hipoglucemia?",
+        "opciones": ["Liraglutida", "Pioglitazona", "Repaglinida", "Empagliflozina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Repaglinida es una meglitinida, y puede causar hipoglucemias."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes medicamentos NO tiene riesgo de hipoglucemia?",
+        "opciones": ["Metformina", "Insulina rápida", "Glibenclamida", "Nateglinida"],
+        "correcta": 0,
+        "categorías": ["tema156"],
+        "feedback": "Metformina no estimula insulina; no causa hipoglucemia por sí sola."
+      },
+      {
+        "enunciado": "¿Cuál de estos antidiabéticos SÍ es hipoglucemiante?",
+        "opciones": ["Dapagliflozina", "Acarbosa", "Nateglinida", "Pioglitazona"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Nateglinida es un secretagogo, con riesgo de hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos es hipoglucemiante?",
+        "opciones": ["Empagliflozina", "Metformina", "Glibenclamida", "Sitagliptina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Glibenclamida es una sulfonilurea, que produce hipoglucemias."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos no está incluido en el seguimiento protocolizado del tratamiento farmacológico individualizado en pacientes con diabetes?",
+        "opciones": ["Metformina", "Glipizida", "Pioglitazona", "Gliclazida"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "El PAI recomienda gliclazida o glimepirida como sulfonilureas preferentes, pero no glipizida."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes antidiabéticos no se contempla como prioritario en el seguimiento protocolizado del PAI de Diabetes?",
+        "opciones": ["Repaglinida", "Sitagliptina", "Acarbosa", "Metformina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "La acarbosa (inhibidor de la alfa-glucosidasa) no figura entre los fármacos priorizados."
+      },
+      {
+        "enunciado": "¿Cuál de estos fármacos no está incluido como primera línea en el seguimiento del tratamiento individualizado según el PAI?",
+        "opciones": ["iSGLT2", "iDPP-4", "Pioglitazona", "Nateglinida"],
+        "correcta": 3,
+        "categorías": ["tema156"],
+        "feedback": "La nateglinida (meglitinida) no se menciona explícitamente en el seguimiento priorizado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes medicamentos no se incluye de forma preferente en el seguimiento farmacológico individualizado?",
+        "opciones": ["Empagliflozina", "Glimepirida", "Glipizida", "Metformina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Glipizida no está entre las sulfonilureas recomendadas preferentemente en el PAI."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos no aparece entre los incluidos en el seguimiento individualizado del tratamiento en el PAI?",
+        "opciones": ["Repaglinida", "Glipizida", "iSGLT2", "iDPP4"],
+        "correcta": 1,
+        "categorías": ["tema156"],
+        "feedback": "Glipizida no está incluida como sulfonilurea preferente."
+      },
+      {
+        "enunciado": "¿Qué fármaco no está incluido como recomendación prioritaria en el PAI Diabetes para el tratamiento individualizado?",
+        "opciones": ["Pioglitazona", "Canagliflozina", "Acarbosa", "Metformina"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Acarbosa no se encuentra entre los fármacos considerados clave en el seguimiento protocolizado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes antidiabéticos orales no se encuentra entre los priorizados en el seguimiento protocolizado del PAI?",
+        "opciones": ["Metformina", "Dapagliflozina", "Glimepirida", "Glibenclamida"],
+        "correcta": 3,
+        "categorías": ["tema156"],
+        "feedback": "Glibenclamida no se considera sulfonilurea de elección; se priorizan gliclazida y glimepirida."
+      },
+      {
+        "enunciado": "¿Cuál de estos medicamentos no forma parte del grupo preferente de sulfonilureas en el tratamiento según el PAI?",
+        "opciones": ["Gliclazida", "Glimepirida", "Glipizida", "Ninguna de las anteriores"],
+        "correcta": 2,
+        "categorías": ["tema156"],
+        "feedback": "Glipizida no es una sulfonilurea recomendada preferentemente en el PAI."
+      },
+      {
+        "enunciado": "¿Cuál de estos fármacos no está incluido en el seguimiento individualizado según el PAI de Diabetes Mellitus?",
+        "opciones": ["Metformina", "Sitagliptina", "Empagliflozina", "Acarbosa"],
+        "correcta": 3,
+        "categorías": ["tema156"],
+        "feedback": "Acarbosa no se contempla entre los principales grupos incluidos en el seguimiento protocolizado."
+      }
+]

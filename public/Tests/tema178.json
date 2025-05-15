@@ -1,0 +1,192 @@
+[
+    {
+        "enunciado": "Un RN con una puntuación de Apgar de 2 tiene:",
+        "opciones": ["Estado clínico normal", "Moderada depresión", "Estado crítico", "Adaptación fisiológica completa"],
+        "correcta": 2,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 5 tiene:",
+        "opciones": ["Estado crítico", "Depresión moderada", "Estado clínico normal", "Necesidad de ventilación mecánica inmediata"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 0 tiene:",
+        "opciones": ["Estado clínico normal", "Estado crítico", "Leve depresión respiratoria", "Tono muscular normal"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 7 tiene:",
+        "opciones": ["Estado crítico", "Depresión moderada", "Estado clínico normal", "Signos de asfixia neonatal"],
+        "correcta": 2,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 10 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Depresión grave", "Hipoxia perinatal"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 4 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Estado crítico", "Adaptación fisiológica completa"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 6 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Requiere reanimación urgente", "Riesgo vital inmediato"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 1 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Estado crítico", "Signos compatibles con adaptación neonatal normal"],
+        "correcta": 2,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 8 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Estado crítico", "Necesidad de reanimación avanzada"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "Un RN con una puntuación de Apgar de 9 tiene:",
+        "opciones": ["Estado clínico normal", "Depresión moderada", "Depresión grave", "Asfixia neonatal severa"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "0–3: estado crítico · 4–6: depresión moderada · 7–10: estado normal."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación mínima posible en el test de Apgar?",
+        "opciones": ["0", "1", "2", "3"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "El test de Apgar puntúa de 0 a 10. La mínima puntuación posible es 0, indicando ausencia total de respuesta."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación máxima posible en el test de Apgar?",
+        "opciones": ["8", "9", "10", "12"],
+        "correcta": 2,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "La máxima puntuación es 10, cuando todas las variables se puntúan con 2 (óptimas)."
+      },
+      {
+        "enunciado": "¿Cuándo se realiza la primera medición del test de Apgar en un recién nacido?",
+        "opciones": ["A los 30 segundos", "Al primer minuto de vida", "A los 3 minutos", "Al quinto minuto de vida"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "El test de Apgar se evalúa a los 1 y 5 minutos tras el nacimiento."
+      },
+      {
+        "enunciado": "¿Cuándo se realiza la segunda valoración del test de Apgar?",
+        "opciones": ["Al segundo minuto", "Al tercer minuto", "Al cuarto minuto", "Al quinto minuto de vida"],
+        "correcta": 3,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "La segunda medición se hace a los 5 minutos de vida. Puede repetirse cada 5 si el resultado es bajo."
+      },
+      {
+        "enunciado": "¿Qué se valora en el test de Apgar en cada momento de medición?",
+        "opciones": ["Respuesta a la alimentación", "Reflejos, color, respiración, tono muscular y frecuencia cardíaca", "Estado de consciencia y reflejos pupilares", "Sólo la frecuencia respiratoria y cardíaca"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "Se valoran 5 parámetros: color, respiración, frecuencia cardíaca, reflejos y tono muscular."
+      },
+      {
+        "enunciado": "¿Qué indica una mejora significativa del test de Apgar entre el minuto 1 y el minuto 5?",
+        "opciones": ["Complicación respiratoria", "Buena adaptación neonatal", "Mal pronóstico", "Indicación de reanimación avanzada"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "Una mejora entre 1 y 5 minutos indica buena respuesta y adaptación del RN tras el parto."
+      },
+      {
+        "enunciado": "Si el test de Apgar a los 5 minutos es inferior a 7, ¿qué se recomienda hacer?",
+        "opciones": ["Repetir Apgar cada 5 minutos hasta obtener ≥7 o hasta los 20 minutos", "No repetirlo", "Reevaluar solo si hay síntomas", "Esperar a la revisión del pediatra en planta"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar"],
+        "feedback": "Si a los 5 minutos el Apgar es <7, se recomienda repetir cada 5 minutos hasta mejorar o hasta 20 minutos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes parámetros se valora en el test de Apgar?",
+        "opciones": ["Tono muscular", "Tensión arterial", "Reflejo pupilar", "Peso al nacer"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "El test de Apgar evalúa: frecuencia cardíaca, respiración, color, tono muscular y respuesta a estímulos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems NO se evalúa en el test de Apgar?",
+        "opciones": ["Frecuencia cardíaca", "Saturación de oxígeno", "Coloración de la piel", "Respuesta a estímulos"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "La saturación de oxígeno no es un ítem del test de Apgar. Sí lo son: FC, respiración, color, tono muscular y reflejos."
+      },
+      {
+        "enunciado": "¿Cuál de estas respuestas es uno de los 5 parámetros del test de Apgar?",
+        "opciones": ["Frecuencia respiratoria", "Respuesta a estímulos", "Diuresis", "Peso estimado"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "Se valora la respuesta refleja a estímulos, como el llanto o la tos tras estimulación nasal."
+      },
+      {
+        "enunciado": "¿Qué parámetro relacionado con el color se valora en el test de Apgar?",
+        "opciones": ["Cianosis distal", "Palidez conjuntival", "Ictericia neonatal", "Coloración general de la piel"],
+        "correcta": 3,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "El test de Apgar valora la coloración de la piel: azulada, rosada parcial o completamente rosada."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte del test de Apgar?",
+        "opciones": ["Tono muscular", "Temperatura rectal", "Peso al nacer", "Índice de Silverman"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "Tono muscular es uno de los cinco ítems evaluados en Apgar (junto con FC, respiración, color y reflejos)."
+      },
+      {
+        "enunciado": "En el test de Apgar, la frecuencia cardíaca se evalúa como:",
+        "opciones": ["Ausente, <100, >100 lpm", "Ausente, débil, normal", "Bradicardia, normocardia, taquicardia", "Fuerte, moderada, débil"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "La FC se puntúa: 0 (ausente), 1 (<100 lpm), 2 (>100 lpm)."
+      },
+      {
+        "enunciado": "El reflejo evaluado en el test de Apgar se valora con qué tipo de estímulo:",
+        "opciones": ["Pinchazo", "Estimulación nasal o succión", "Masaje cardíaco", "Compresión plantar"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "Se evalúa la respuesta a la estimulación, como retirar una sonda nasal o al succionar."
+      },
+      {
+        "enunciado": "En el test de Apgar, ¿cómo se evalúa el esfuerzo respiratorio?",
+        "opciones": ["Por frecuencia respiratoria exacta", "Por tipo de llanto y regularidad respiratoria", "Por volumen tidal", "Por ruidos pulmonares a la auscultación"],
+        "correcta": 1,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "La respiración se puntúa: 0 (ausente), 1 (débil o irregular), 2 (llanto vigoroso y respiración regular)."
+      },
+      {
+        "enunciado": "El tono muscular en el test de Apgar se valora como:",
+        "opciones": ["Flácido, algo flexionado, movimientos activos", "Bradicinesia, rigidez, normotonía", "Hipotonía, espasticidad, normotonía", "Abducción, rotación interna, contracción refleja"],
+        "correcta": 0,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "0: flácido, 1: algo de flexión, 2: movimientos activos. Esa es la escala del tono muscular en Apgar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems NO forma parte del test de Apgar?",
+        "opciones": ["Tono muscular", "Llanto", "Temperatura corporal", "Frecuencia cardíaca"],
+        "correcta": 2,
+        "categorías": ["tema178", "apgar_items"],
+        "feedback": "Temperatura no forma parte del test de Apgar. Los ítems sí son: FC, respiración, color, tono y reflejos."
+      }
+                  
+]

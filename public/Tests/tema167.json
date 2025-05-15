@@ -1,0 +1,1674 @@
+[
+    {
+      "enunciado": "¿Cuál es el objetivo principal de la nueva Dirección General de Cuidados y Atención Sociosanitaria creada por el Decreto 198/2024?",
+      "opciones": [
+        "Gestionar los recursos económicos del sistema sanitario.",
+        "Coordinar las políticas de cuidados para mejorar la atención en todas las etapas del ciclo vital.",
+        "Supervisar la actividad de las unidades de salud mental comunitaria.",
+        "Implementar estrategias de transformación digital en el ámbito de salud."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Cuidados y Atención Sociosanitaria se centra en coordinar las políticas de cuidados para garantizar una atención integral y de calidad a lo largo del ciclo vital."
+    },
+    {
+      "enunciado": "¿Qué entidad está adscrita a la Secretaría General de Salud Pública e I+D+i en Salud según el Decreto 198/2024?",
+      "opciones": [
+        "El Servicio Andaluz de Salud (SAS).",
+        "La Fundación Pública Andaluza Progreso y Salud.",
+        "La Agencia Digital de Andalucía.",
+        "El Instituto de Salud Carlos III."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Fundación Pública Andaluza Progreso y Salud está adscrita a la Secretaría General de Salud Pública e I+D+i en Salud para apoyar sus competencias."
+    },
+    {
+      "enunciado": "¿Qué papel desempeñan las Unidades de Salud Mental Comunitaria en la red de atención a la salud mental en Andalucía?",
+      "opciones": [
+        "Son el primer nivel de atención especializada en salud mental.",
+        "Gestionan exclusivamente casos de hospitalización completa.",
+        "Coordinar los programas de trasplantes en pacientes con trastornos mentales.",
+        "Realizan exclusivamente funciones de terapia ocupacional."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Salud Mental Comunitaria son el primer nivel de atención especializada en salud mental, actuando como puerta de entrada a la red."
+    },
+    {
+      "enunciado": "¿Cuál es el centro de referencia del Sector III en el programa de trasplantes de Andalucía?",
+      "opciones": [
+        "Hospital Virgen del Rocío.",
+        "Hospital Puerta del Mar.",
+        "Hospital Reina Sofía.",
+        "Hospital Virgen de las Nieves."
+      ],
+      "correcta": 3,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Hospital Virgen de las Nieves es el centro de referencia del Sector III en el programa de trasplantes."
+    },
+    {
+      "enunciado": "Según el Decreto 462/1996, ¿qué función tienen las Juntas Facultativas en las áreas hospitalarias?",
+      "opciones": [
+        "Regular la formación en atención primaria.",
+        "Supervisar la calidad de la asistencia médica y asesorar en gestión clínica.",
+        "Coordinar las actividades de salud pública en hospitales.",
+        "Gestionar los recursos financieros del hospital."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas Facultativas supervisan la calidad de la asistencia médica y asesoran en planificación, organización y gestión clínica."
+    },
+    {
+      "enunciado": "¿Qué dispositivo de la red de salud mental está diseñado para la recuperación de habilidades sociales y reinserción laboral?",
+      "opciones": [
+        "Unidades de salud mental infanto-juvenil.",
+        "Hospitales de día de salud mental.",
+        "Unidades de rehabilitación de salud mental.",
+        "Comunidades terapéuticas de salud mental."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Rehabilitación de Salud Mental están orientadas a la recuperación de habilidades sociales y la reinserción laboral."
+    },
+    {
+      "enunciado": "¿Qué órgano se encarga de la gestión de los recursos económicos en los distritos de atención primaria según el Decreto 197/2007?",
+      "opciones": [
+        "Dirección Gerencia.",
+        "Dirección de Gestión Económica y Desarrollo Profesional.",
+        "Comisión de Calidad y Procesos Asistenciales.",
+        "Dirección de Cuidados de Enfermería."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección de Gestión Económica y Desarrollo Profesional se encarga de la gestión económica y presupuestaria en los distritos de atención primaria."
+    },
+    {
+      "enunciado": "¿Qué principio destaca en la creación de la Dirección General de Sistemas de Información y Comunicaciones según el Decreto 198/2024?",
+      "opciones": [
+        "Priorizar la humanización en los cuidados.",
+        "Promover la transformación digital en el sistema de salud.",
+        "Reestructurar las áreas hospitalarias.",
+        "Integrar los servicios de atención temprana."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Sistemas de Información y Comunicaciones se creó para liderar la transformación digital en todos los ámbitos del sistema de salud."
+    },
+    {
+      "enunciado": "¿Qué función tienen los hospitales de día de salud mental en Andalucía?",
+      "opciones": [
+        "Proveer atención en crisis agudas mediante hospitalización completa.",
+        "Actuar como recurso intermedio entre la unidad comunitaria y la hospitalización.",
+        "Coordinar las políticas de atención en salud mental.",
+        "Facilitar programas especializados para población infanto-juvenil."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los hospitales de día de salud mental son un recurso intermedio que proporciona atención parcial entre la unidad comunitaria y la hospitalización completa."
+    },
+    {
+      "enunciado": "¿Qué funciones tienen las Áreas de Gestión Sanitaria según el Decreto 197/2007?",
+      "opciones": [
+        "Coordinar exclusivamente la atención primaria.",
+        "Integrar y coordinar atención primaria y especializada en su ámbito.",
+        "Gestionar los recursos financieros de los hospitales.",
+        "Supervisar la actividad de las unidades de trasplantes."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Áreas de Gestión Sanitaria tienen como objetivo integrar y coordinar la atención primaria y especializada en su ámbito territorial."
+    },
+    {
+      "enunciado": "¿Cuál es la finalidad de las comunidades terapéuticas de salud mental en Andalucía?",
+      "opciones": [
+        "Tratar intensivamente trastornos mentales graves en hospitalización completa o parcial.",
+        "Prestar atención ambulatoria a pacientes infanto-juveniles.",
+        "Coordinar la actividad de los hospitales de día.",
+        "Gestionar el acceso a las unidades de salud mental comunitaria."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las comunidades terapéuticas de salud mental ofrecen tratamiento intensivo para pacientes con trastornos graves en régimen de hospitalización completa o parcial."
+    },
+    {
+      "enunciado": "¿Qué entidad está adscrita a la Secretaría General de Planificación Asistencial y Consumo según el Decreto 198/2024?",
+      "opciones": [
+        "La Fundación Pública Andaluza para la Integración del Enfermo Mental (FAISEM).",
+        "El Instituto de Salud Carlos III.",
+        "La Agencia Digital de Andalucía.",
+        "La Escuela Andaluza de Salud Pública."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "FAISEM está adscrita a la Secretaría General de Planificación Asistencial y Consumo, según lo establecido en el Decreto 198/2024."
+    },
+    {
+      "enunciado": "¿Qué centro es el referente para el Sector II del Programa de Donación y Trasplantes de Órganos y Tejidos en Andalucía?",
+      "opciones": [
+        "Hospital Virgen del Rocío.",
+        "Hospital Puerta del Mar.",
+        "Hospital Reina Sofía.",
+        "Hospital Virgen de las Nieves."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Hospital Reina Sofía es el centro de referencia para el Sector II, que incluye Córdoba y Jaén, en el Programa de Donación y Trasplantes."
+    },
+    {
+      "enunciado": "¿Qué función principal tienen las Unidades de Hospitalización de Salud Mental?",
+      "opciones": [
+        "Ofrecer hospitalización parcial a pacientes con trastorno mental grave.",
+        "Gestionar crisis agudas de salud mental mediante hospitalización completa.",
+        "Coordinar programas de rehabilitación psicosocial.",
+        "Actuar como recurso ambulatorio especializado."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Hospitalización de Salud Mental gestionan crisis agudas mediante hospitalización completa."
+    },
+    {
+      "enunciado": "Según el Decreto 462/1996, ¿qué órgano tiene como función velar por la calidad de la asistencia médica en los hospitales?",
+      "opciones": [
+        "Dirección Gerencia.",
+        "Junta Facultativa.",
+        "Comisión de Dirección.",
+        "Dirección de Cuidados de Enfermería."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene la función principal de velar por la calidad de la asistencia médica en los hospitales."
+    },
+    {
+      "enunciado": "¿Cómo se organiza la atención primaria en el ámbito del Servicio Andaluz de Salud según el Decreto 197/2007?",
+      "opciones": [
+        "A través de Áreas Hospitalarias.",
+        "Mediante distritos de atención primaria y zonas básicas de salud.",
+        "Por sectores de coordinación regional.",
+        "Con unidades móviles de atención."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La atención primaria se organiza mediante distritos de atención primaria y zonas básicas de salud, como establece el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué profesionales forman parte de las Unidades de Salud Mental en Andalucía?",
+      "opciones": [
+        "Médicos de familia exclusivamente.",
+        "Psiquiatras, psicólogos clínicos, enfermeros, trabajadores sociales, entre otros.",
+        "Especialistas en trasplantes y cirugía.",
+        "Técnicos en gestión administrativa y dirección económica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Salud Mental están formadas por un equipo multidisciplinar que incluye psiquiatras, psicólogos clínicos, enfermeros, trabajadores sociales, entre otros."
+    },
+    {
+      "enunciado": "Según el Decreto 198/2024, ¿qué principios de regulación sigue la nueva estructura organizativa de la Consejería de Salud y Consumo?",
+      "opciones": [
+        "Eficiencia y transparencia.",
+        "Seguridad e innovación.",
+        "Autonomía y flexibilidad.",
+        "Estandarización y control."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 198/2024 establece que la nueva estructura organizativa sigue principios de eficiencia y transparencia."
+    },
+    {
+      "enunciado": "¿Qué función tienen los hospitales de día según la red de salud mental en Andalucía?",
+      "opciones": [
+        "Gestionar exclusivamente la hospitalización completa.",
+        "Actuar como recurso intermedio entre atención comunitaria y hospitalización completa.",
+        "Supervisar programas educativos en salud mental.",
+        "Coordinar las actividades de rehabilitación social y laboral."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los hospitales de día actúan como recurso intermedio entre la atención comunitaria y la hospitalización completa, facilitando la continuidad asistencial."
+    },
+    {
+      "enunciado": "Según el Decreto 197/2007, ¿qué entidad establece las demarcaciones territoriales de las zonas básicas de salud en Andalucía?",
+      "opciones": [
+        "El Servicio Andaluz de Salud.",
+        "La Consejería de Salud.",
+        "El Ministerio de Sanidad.",
+        "Los Ayuntamientos correspondientes."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Consejería de Salud es la entidad encargada de delimitar las zonas básicas de salud en Andalucía según factores geográficos, demográficos y sociales."
+    },
+    {
+      "enunciado": "¿Qué funciones realizan los distritos de atención primaria según el Decreto 197/2007?",
+      "opciones": [
+        "Coordinan los servicios hospitalarios de alta complejidad.",
+        "Planifican, dirigen y gestionan los servicios de atención primaria en su ámbito territorial.",
+        "Controlan exclusivamente la distribución de medicamentos.",
+        "Supervisan las políticas de trasplantes en su territorio."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los distritos de atención primaria son responsables de la planificación, dirección y gestión de los servicios de atención primaria en su área territorial."
+    },
+    {
+      "enunciado": "¿Cuál es la estructura orgánica básica de un distrito de atención primaria según el Decreto 197/2007?",
+      "opciones": [
+        "Dirección Gerencia, Dirección de Salud y Dirección de Gestión Económica y Desarrollo Profesional.",
+        "Gerencia Hospitalaria y Dirección de Cuidados.",
+        "Comisión Técnica y Dirección de Recursos Humanos.",
+        "Consejo Consultivo y Gabinete Jurídico."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La estructura básica de un distrito de atención primaria incluye la Dirección Gerencia, la Dirección de Salud y la Dirección de Gestión Económica y Desarrollo Profesional."
+    },
+    {
+      "enunciado": "¿Qué son las zonas básicas de salud en el marco de la atención primaria en Andalucía?",
+      "opciones": [
+        "Unidades administrativas para la supervisión económica de los centros de salud.",
+        "Demarcaciones territoriales donde se organiza y presta la atención primaria de salud.",
+        "Centros de alta resolución médica.",
+        "Hospitales de referencia de cada provincia."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud son las demarcaciones territoriales en las que se organiza y presta la atención primaria de salud, asegurando accesibilidad a la población."
+    },
+    {
+      "enunciado": "¿Qué tipos de centros componen los dispositivos de atención primaria en Andalucía según el Decreto 197/2007?",
+      "opciones": [
+        "Únicamente centros de salud en zonas urbanas.",
+        "Centros de salud, consultorios locales y consultorios auxiliares.",
+        "Hospitales comarcales y centros de salud mental.",
+        "Áreas de gestión especializada y hospitales de día."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los dispositivos de atención primaria incluyen centros de salud, consultorios locales y consultorios auxiliares, según el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué órgano directivo en los distritos de atención primaria es responsable de la planificación estratégica y el control económico?",
+      "opciones": [
+        "Dirección Gerencia.",
+        "Dirección de Salud.",
+        "Dirección de Gestión Económica y Desarrollo Profesional.",
+        "Comisión de Dirección."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección de Gestión Económica y Desarrollo Profesional se encarga de la planificación estratégica y del control económico en los distritos de atención primaria."
+    },
+    {
+      "enunciado": "Según el Decreto 197/2007, ¿qué criterio define las zonas básicas de salud en el Mapa de Atención Primaria?",
+      "opciones": [
+        "Exclusivamente criterios epidemiológicos.",
+        "Criterios geográficos, demográficos, sociales, epidemiológicos y de accesibilidad.",
+        "La cantidad de profesionales sanitarios disponibles.",
+        "El número de hospitales comarcales en la región."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud se definen atendiendo a criterios geográficos, demográficos, sociales, epidemiológicos y de accesibilidad, según el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué tipo de servicios se ofrecen en los centros de atención primaria según el Decreto 197/2007?",
+      "opciones": [
+        "Solo servicios de diagnóstico especializado.",
+        "Promoción de la salud, prevención, diagnóstico, tratamiento y rehabilitación.",
+        "Exclusivamente atención domiciliaria.",
+        "Hospitalización y cirugía de alta complejidad."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "En los centros de atención primaria se ofrecen servicios de promoción de la salud, prevención, diagnóstico, tratamiento y rehabilitación."
+    },
+    {
+      "enunciado": "¿Qué órgano de los distritos de atención primaria establece los objetivos anuales para las unidades de gestión clínica?",
+      "opciones": [
+        "Comisión de Calidad.",
+        "Dirección de Salud.",
+        "Dirección de Cuidados de Enfermería.",
+        "Dirección Gerencia."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección de Salud es responsable de establecer los objetivos anuales para las unidades de gestión clínica dentro de los distritos de atención primaria."
+    },
+    {
+      "enunciado": "¿Cómo se garantiza la continuidad asistencial entre atención primaria y hospitalaria según el modelo andaluz?",
+      "opciones": [
+        "A través de contratos independientes para cada nivel asistencial.",
+        "Mediante la creación de áreas de gestión sanitaria integradas.",
+        "Con la separación administrativa de los servicios.",
+        "Solo a través de reuniones periódicas entre gerentes."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La continuidad asistencial se garantiza mediante áreas de gestión sanitaria integradas, que coordinan la atención primaria y especializada."
+    },
+    {
+      "enunciado": "¿Qué documento establece los criterios generales para la delimitación de zonas básicas de salud en Andalucía?",
+      "opciones": [
+        "El Decreto 462/1996 sobre Asistencia Especializada.",
+        "El Mapa de Atención Primaria de Andalucía.",
+        "El Estatuto de Autonomía de Andalucía.",
+        "La Ley 8/1986 de creación del Servicio Andaluz de Salud."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Mapa de Atención Primaria de Andalucía delimita las zonas básicas de salud, basándose en criterios geográficos, demográficos y sociales."
+    },
+    {
+      "enunciado": "Según el Decreto 197/2007, ¿qué nivel territorial organiza la asistencia sanitaria de atención primaria?",
+      "opciones": [
+        "Las áreas hospitalarias.",
+        "Los distritos de atención primaria.",
+        "Las regiones sanitarias.",
+        "Los hospitales comarcales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los distritos de atención primaria son los niveles territoriales que organizan la asistencia sanitaria de atención primaria según el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué objetivo tienen las unidades de gestión clínica en los distritos de atención primaria?",
+      "opciones": [
+        "Controlar el gasto farmacéutico exclusivamente.",
+        "Coordinar a los profesionales en la prestación de servicios integrales.",
+        "Supervisar las políticas de trasplantes en Andalucía.",
+        "Gestionar exclusivamente las urgencias hospitalarias."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las unidades de gestión clínica tienen como objetivo coordinar a los profesionales para garantizar una atención integral y de calidad."
+    },
+    {
+      "enunciado": "¿Qué función tienen los consultorios locales en el marco de la atención primaria en Andalucía?",
+      "opciones": [
+        "Prestar servicios especializados de alta complejidad.",
+        "Actuar como puntos de atención sanitaria básica en localidades más pequeñas.",
+        "Supervisar los trasplantes en zonas rurales.",
+        "Dirigir las políticas de salud pública en distritos sanitarios."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los consultorios locales son puntos de atención sanitaria básica en localidades más pequeñas, complementando a los centros de salud."
+    },
+    {
+      "enunciado": "¿Cuál es el objetivo principal del Decreto 197/2007 en relación con la atención primaria?",
+      "opciones": [
+        "Reorganizar la atención especializada en Andalucía.",
+        "Regular la estructura, organización y funcionamiento de los servicios de atención primaria.",
+        "Crear nuevos hospitales comarcales en zonas rurales.",
+        "Centralizar la gestión económica de los centros de atención primaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 197/2007 regula la estructura, organización y funcionamiento de los servicios de atención primaria para optimizar su operatividad."
+    },
+    {
+      "enunciado": "¿Qué órgano en los distritos de atención primaria evalúa la calidad, efectividad y eficiencia de los servicios prestados?",
+      "opciones": [
+        "Dirección de Salud.",
+        "Dirección de Cuidados de Enfermería.",
+        "Comisión de Dirección.",
+        "Dirección Gerencia."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección de Salud evalúa la calidad, efectividad y eficiencia de los servicios asistenciales en los distritos de atención primaria."
+    },
+    {
+      "enunciado": "¿Qué elemento define al centro de atención primaria según el Decreto 197/2007?",
+      "opciones": [
+        "Es un espacio dedicado exclusivamente a la prevención de enfermedades.",
+        "Es la estructura física donde se realizan actividades de atención primaria integral y orientada a la ciudadanía.",
+        "Es una oficina administrativa de los distritos sanitarios.",
+        "Es un hospital de referencia para cada zona básica de salud."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El centro de atención primaria es la estructura física donde los profesionales realizan actividades de atención integral y orientadas a la ciudadanía."
+    },
+    {
+      "enunciado": "¿Qué criterios se utilizan para la delimitación de las zonas básicas de salud según el Decreto 197/2007?",
+      "opciones": [
+        "Solo criterios geográficos.",
+        "Criterios geográficos, demográficos, sociales y de recursos existentes.",
+        "Solo la densidad de población.",
+        "La disponibilidad de hospitales cercanos."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud se delimitan considerando criterios geográficos, demográficos, sociales y la disponibilidad de recursos existentes."
+    },
+    {
+      "enunciado": "¿Qué órgano directivo en los distritos de atención primaria se encarga de promover la participación ciudadana?",
+      "opciones": [
+        "Dirección de Gestión Económica y Desarrollo Profesional.",
+        "Dirección de Salud.",
+        "Dirección Gerencia.",
+        "Comisión de Dirección."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección Gerencia se encarga de ordenar y dirigir las relaciones con la ciudadanía, fomentando su participación en el ámbito de los distritos de atención primaria."
+    },
+    {
+      "enunciado": "¿Qué estructura en atención primaria incluye la planificación de los riesgos ambientales y alimentarios para la salud?",
+      "opciones": [
+        "Las unidades de gestión clínica.",
+        "Los distritos de atención primaria.",
+        "Los consultorios auxiliares.",
+        "Los hospitales comarcales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los distritos de atención primaria planifican, entre otras funciones, la gestión de los riesgos ambientales y alimentarios para la salud."
+    },
+    {
+      "enunciado": "¿Qué es una zona básica de salud según el Decreto 197/2007?",
+      "opciones": [
+        "Una unidad administrativa para la gestión económica de los servicios sanitarios.",
+        "El marco territorial para la prestación de atención primaria básica e integral.",
+        "Una división geográfica exclusiva para atención hospitalaria.",
+        "Una agrupación de hospitales comarcales en un distrito."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Una zona básica de salud es el marco territorial donde se presta atención primaria básica e integral, según el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué criterio principal se utiliza para la creación de las áreas de salud en Andalucía?",
+      "opciones": [
+        "La densidad de población y la distribución de recursos sanitarios.",
+        "El número de hospitales terciarios disponibles.",
+        "La relación directa con las unidades de trasplantes.",
+        "La presencia de centros de investigación biomédica."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La creación de áreas de salud en Andalucía se basa en criterios de densidad de población y distribución de recursos sanitarios para garantizar la atención."
+    },
+    {
+      "enunciado": "¿Cómo se estructuran los servicios de atención primaria en las zonas básicas de salud según el Decreto 197/2007?",
+      "opciones": [
+        "En distritos hospitalarios exclusivos.",
+        "Mediante centros de atención primaria, consultorios locales y auxiliares.",
+        "A través de servicios de telemedicina exclusivamente.",
+        "Solo con hospitales de alta resolución."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud incluyen centros de atención primaria, consultorios locales y auxiliares, según el Decreto 197/2007."
+    },
+    {
+      "enunciado": "¿Qué función principal tienen los distritos de atención primaria en el marco de las áreas de salud?",
+      "opciones": [
+        "Coordinar las actividades hospitalarias de alta especialización.",
+        "Gestionar operativamente los servicios de atención primaria dentro de su ámbito territorial.",
+        "Supervisar exclusivamente las urgencias médicas en zonas rurales.",
+        "Establecer las políticas de trasplantes en Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los distritos de atención primaria gestionan operativamente los servicios de atención primaria dentro de su ámbito territorial."
+    },
+    {
+      "enunciado": "¿Qué define a un área de gestión sanitaria en Andalucía?",
+      "opciones": [
+        "Es una estructura para la atención primaria exclusivamente.",
+        "Es una unidad organizativa que integra la atención primaria y especializada en un territorio.",
+        "Es una agrupación de zonas básicas de salud urbanas.",
+        "Es un conjunto de centros de investigación sanitaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Un área de gestión sanitaria integra la atención primaria y especializada para coordinar la atención sanitaria en un territorio."
+    },
+    {
+      "enunciado": "Según el Decreto 197/2007, ¿cuál es el nivel básico de acceso a los servicios de salud pública en Andalucía?",
+      "opciones": [
+        "Las áreas hospitalarias.",
+        "Las zonas básicas de salud.",
+        "Los distritos de atención primaria.",
+        "Las comunidades terapéuticas."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud son el nivel básico de acceso a los servicios de salud pública en Andalucía."
+    },
+    {
+      "enunciado": "¿Cómo se organizan las zonas básicas de salud para garantizar la accesibilidad según el Decreto 197/2007?",
+      "opciones": [
+        "Por la proximidad de hospitales terciarios.",
+        "Mediante criterios geográficos, demográficos, sociales y epidemiológicos.",
+        "Según el número de consultas de urgencia registradas.",
+        "Por la cantidad de trasplantes realizados en cada área."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las zonas básicas de salud se organizan teniendo en cuenta criterios geográficos, demográficos, sociales y epidemiológicos para garantizar la accesibilidad."
+    },
+    {
+      "enunciado": "¿Qué recurso de atención primaria actúa como primer contacto para la ciudadanía en las zonas básicas de salud?",
+      "opciones": [
+        "Los hospitales comarcales.",
+        "Los consultorios locales y auxiliares.",
+        "Los servicios de urgencias hospitalarias.",
+        "Las unidades de gestión clínica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "En las zonas básicas de salud, los consultorios locales y auxiliares actúan como el primer contacto para la ciudadanía."
+    },
+    {
+      "enunciado": "¿Cuál es la principal función de los centros de atención primaria en las zonas básicas de salud?",
+      "opciones": [
+        "Realizar actividades de alta especialización quirúrgica.",
+        "Prestar atención sanitaria básica e integral orientada a la promoción y prevención.",
+        "Coordinar exclusivamente las políticas de salud mental.",
+        "Gestionar el transporte sanitario de emergencia."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los centros de atención primaria tienen como función principal la prestación de servicios sanitarios básicos e integrales, orientados a la promoción y prevención."
+    },
+    {
+      "enunciado": "¿Qué figura en el ámbito de la atención primaria asegura la planificación y gestión territorial de los servicios de salud?",
+      "opciones": [
+        "Los distritos de atención primaria.",
+        "Las áreas hospitalarias.",
+        "Las unidades de rehabilitación de salud mental.",
+        "Los hospitales de alta resolución."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los distritos de atención primaria son responsables de la planificación y gestión territorial de los servicios de salud en su ámbito."
+    },
+    {
+      "enunciado": "¿Qué normativa regula la estructura y funcionamiento de los servicios de atención especializada en Andalucía?",
+      "opciones": [
+        "El Decreto 197/2007.",
+        "El Decreto 462/1996.",
+        "La Ley 2/1998 de Salud de Andalucía.",
+        "El Estatuto de Autonomía de Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 regula la estructura y el funcionamiento de los servicios de atención especializada y los órganos de dirección de los hospitales en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué es un área hospitalaria según el modelo andaluz de atención sanitaria?",
+      "opciones": [
+        "Un grupo de centros de salud coordinados por un hospital terciario.",
+        "El espacio integrador para la prestación de atención especializada que incluye hospitales y centros periféricos de especialidades.",
+        "Una división territorial basada en criterios de densidad poblacional.",
+        "Un sistema de coordinación exclusivo para urgencias hospitalarias."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El área hospitalaria integra funcionalmente hospitales y centros periféricos de especialidades para la prestación de atención especializada."
+    },
+    {
+      "enunciado": "¿Qué objetivo tienen las Juntas Facultativas en los hospitales según el Decreto 462/1996?",
+      "opciones": [
+        "Supervisar las políticas de trasplantes.",
+        "Garantizar la calidad de la asistencia médica y asesorar en la planificación clínica.",
+        "Gestionar exclusivamente los recursos económicos.",
+        "Coordinar los servicios de atención primaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas Facultativas supervisan la calidad de la asistencia médica y asesoran en la planificación y gestión clínica en los hospitales."
+    },
+    {
+      "enunciado": "¿Qué componente organizativo es responsable de la gestión de los hospitales en Andalucía?",
+      "opciones": [
+        "Los distritos sanitarios.",
+        "La Dirección Gerencia del hospital.",
+        "La Secretaría General Técnica.",
+        "Las Unidades de Gestión Clínica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección Gerencia del hospital es el órgano responsable de la gestión operativa de los centros hospitalarios en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué órgano de los hospitales propone el nombramiento del Director Médico según el Decreto 462/1996?",
+      "opciones": [
+        "La Dirección Gerencia.",
+        "La Junta Facultativa.",
+        "La Comisión de Dirección.",
+        "La Consejería de Salud."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene entre sus funciones la propuesta de nombramiento del Director Médico del hospital."
+    },
+    {
+      "enunciado": "¿Qué función tienen los centros periféricos de especialidades en las áreas hospitalarias?",
+      "opciones": [
+        "Prestar atención primaria básica a la población.",
+        "Proveer servicios de atención especializada fuera del hospital principal.",
+        "Gestionar exclusivamente las urgencias médicas.",
+        "Coordinar las políticas de salud mental en zonas rurales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los centros periféricos de especialidades ofrecen atención especializada y complementan los servicios del hospital principal en el área hospitalaria."
+    },
+    {
+      "enunciado": "¿Qué criterios justificaron la creación de áreas hospitalarias según el Decreto 462/1996?",
+      "opciones": [
+        "La necesidad de centralizar la atención primaria en grandes hospitales.",
+        "Integrar funcionalmente hospitales y centros periféricos para optimizar recursos.",
+        "Reorganizar la atención exclusivamente en zonas urbanas.",
+        "Aumentar el número de camas hospitalarias disponibles."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las áreas hospitalarias se crearon para integrar funcionalmente hospitales y centros periféricos, optimizando la prestación de servicios especializados."
+    },
+    {
+      "enunciado": "¿Qué figura organiza la atención en los servicios de hospitalización en los hospitales andaluces?",
+      "opciones": [
+        "El Director de Cuidados de Enfermería.",
+        "El Director Médico.",
+        "La Junta de Enfermería.",
+        "La Comisión de Calidad."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Director Médico es responsable de organizar la atención en los servicios de hospitalización dentro de los hospitales."
+    },
+    {
+      "enunciado": "¿Qué objetivo tienen las Unidades de Gestión Clínica en los hospitales andaluces?",
+      "opciones": [
+        "Coordinar los servicios de atención primaria en zonas rurales.",
+        "Optimizar la gestión clínica mediante la participación de los profesionales en la toma de decisiones.",
+        "Gestionar exclusivamente los recursos financieros del hospital.",
+        "Coordinar los programas de rehabilitación social."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Gestión Clínica tienen como objetivo optimizar la gestión asistencial involucrando a los profesionales en la toma de decisiones."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre los hospitales en el ámbito del Servicio Andaluz de Salud?",
+      "opciones": [
+        "La eliminación de las áreas de gestión clínica.",
+        "La creación de áreas hospitalarias y la regulación de órganos de dirección y participación.",
+        "La integración exclusiva de servicios de urgencia.",
+        "El cierre de los centros periféricos de especialidades."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 establece la creación de áreas hospitalarias y regula los órganos de dirección y participación en los hospitales."
+    },
+    {
+      "enunciado": "¿Qué normativa introdujo cambios en los órganos colegiados de los hospitales para incrementar la participación de los profesionales sanitarios?",
+      "opciones": [
+        "El Decreto 462/1996.",
+        "El Decreto 197/2007.",
+        "La Ley 2/1998 de Salud de Andalucía.",
+        "La Ley 44/2003 de Ordenación de las Profesiones Sanitarias."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 incrementó la participación de los profesionales sanitarios en los órganos colegiados de los hospitales."
+    },
+    {
+      "enunciado": "¿Qué función tienen las Juntas de Enfermería en los hospitales andaluces según el Decreto 462/1996?",
+      "opciones": [
+        "Coordinar exclusivamente los recursos económicos del hospital.",
+        "Velar por la calidad de los cuidados de enfermería y proponer mejoras organizativas.",
+        "Gestionar las urgencias hospitalarias de alta complejidad.",
+        "Establecer políticas de salud pública en áreas rurales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas de Enfermería se encargan de velar por la calidad de los cuidados y proponer mejoras en la organización de estos servicios."
+    },
+    {
+      "enunciado": "Según el modelo andaluz, ¿cómo se define el área hospitalaria?",
+      "opciones": [
+        "Una agrupación de zonas básicas de salud urbanas.",
+        "Una estructura que integra hospitales y centros periféricos de especialidades.",
+        "Un sistema para coordinar trasplantes en cada provincia.",
+        "Un conjunto de servicios exclusivos de alta especialización."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El área hospitalaria integra hospitales y centros periféricos de especialidades, garantizando una atención especializada."
+    },
+    {
+      "enunciado": "¿Qué órgano en los hospitales tiene la responsabilidad de evaluar los incentivos de los profesionales según los objetivos cumplidos?",
+      "opciones": [
+        "La Dirección Gerencia.",
+        "La Junta Facultativa.",
+        "La Dirección Médica.",
+        "La Comisión de Calidad y Procesos."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa evalúa el cumplimiento de los objetivos por parte de los profesionales y propone la distribución de incentivos."
+    },
+    {
+      "enunciado": "¿Qué profesionales forman parte de las Juntas Facultativas de los hospitales según el Decreto 462/1996?",
+      "opciones": [
+        "Solo los directores médicos y gerentes.",
+        "Representantes de las áreas funcionales médicas, quirúrgicas, de salud mental y otros servicios.",
+        "Únicamente especialistas en atención primaria.",
+        "Exclusivamente personal de enfermería y auxiliares."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas Facultativas están integradas por representantes de las áreas funcionales médicas, quirúrgicas, de salud mental y otros servicios hospitalarios."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 en relación con las funciones de las Juntas de Enfermería?",
+      "opciones": [
+        "Supervisar la formación de especialistas en áreas quirúrgicas.",
+        "Asesorar en la planificación y evaluación de los cuidados de enfermería.",
+        "Gestionar los recursos económicos del área hospitalaria.",
+        "Coordinar las actividades de investigación biomédica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas de Enfermería tienen la función de asesorar en la planificación y evaluación de los cuidados de enfermería en los hospitales."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario tiene como objetivo principal velar por la calidad de la asistencia médica y la docencia?",
+      "opciones": [
+        "La Dirección de Gestión Económica.",
+        "La Junta Facultativa.",
+        "La Junta de Enfermería.",
+        "La Comisión Técnica de Calidad."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa vela por la calidad de la asistencia médica y promueve la docencia e investigación en los hospitales."
+    },
+    {
+      "enunciado": "¿Qué función principal tienen los centros periféricos de especialidades en el modelo hospitalario andaluz?",
+      "opciones": [
+        "Prestar atención sanitaria básica.",
+        "Ofrecer atención especializada cercana al lugar de residencia de los pacientes.",
+        "Coordinar exclusivamente las unidades de urgencias hospitalarias.",
+        "Supervisar las políticas de trasplantes en áreas rurales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los centros periféricos de especialidades acercan la atención especializada a los pacientes en su lugar de residencia, reduciendo la necesidad de desplazamiento."
+    },
+    {
+      "enunciado": "¿Qué cambios introdujo el Decreto 462/1996 en la gestión de los hospitales?",
+      "opciones": [
+        "Centralizó la toma de decisiones exclusivamente en las gerencias hospitalarias.",
+        "Incrementó la participación de los profesionales sanitarios en los órganos colegiados.",
+        "Eliminó las Juntas Facultativas y de Enfermería.",
+        "Estableció que solo las direcciones médicas gestionaran las áreas funcionales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 incrementó la participación de los profesionales sanitarios en los órganos colegiados, mejorando la corresponsabilidad en la gestión."
+    },
+    {
+      "enunciado": "Según el modelo hospitalario andaluz, ¿qué responsabilidad tiene la Dirección Médica?",
+      "opciones": [
+        "Gestionar exclusivamente los recursos financieros del hospital.",
+        "Dirigir la actividad asistencial y supervisar las áreas funcionales médicas.",
+        "Establecer políticas de salud pública en las áreas hospitalarias.",
+        "Coordinar la formación de personal administrativo."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección Médica es responsable de dirigir la actividad asistencial y supervisar las áreas funcionales médicas del hospital."
+    },
+    {
+      "enunciado": "¿Qué finalidad tiene el área hospitalaria según el Decreto 462/1996?",
+      "opciones": [
+        "Garantizar exclusivamente la atención primaria en zonas rurales.",
+        "Integrar hospitales y centros periféricos para coordinar la atención especializada.",
+        "Coordinar las políticas de salud mental en Andalucía.",
+        "Supervisar la atención en hospitales terciarios exclusivamente."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El área hospitalaria integra hospitales y centros periféricos para coordinar y garantizar la atención especializada a la población."
+    },
+    {
+      "enunciado": "¿Qué órgano en los hospitales tiene la función de proponer modificaciones en las infraestructuras físicas según el Decreto 462/1996?",
+      "opciones": [
+        "La Dirección Gerencia.",
+        "La Junta Facultativa.",
+        "La Comisión de Dirección.",
+        "La Dirección de Cuidados de Enfermería."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene la función de proponer modificaciones en las infraestructuras físicas relacionadas con el área médica del hospital."
+    },
+    {
+      "enunciado": "¿Cómo se define el concepto de gestión clínica en el modelo hospitalario andaluz?",
+      "opciones": [
+        "La dirección exclusiva de los recursos económicos del hospital.",
+        "La organización basada en la corresponsabilidad de los profesionales en la toma de decisiones asistenciales.",
+        "La centralización de todos los servicios especializados en un hospital terciario.",
+        "La creación de unidades administrativas para supervisar la atención primaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La gestión clínica en el modelo hospitalario andaluz se basa en la corresponsabilidad de los profesionales en la toma de decisiones asistenciales."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre las áreas funcionales de los hospitales?",
+      "opciones": [
+        "Se organizan en función de la actividad quirúrgica, médica y otros servicios especializados.",
+        "Son exclusivamente unidades de urgencias médicas.",
+        "Deben estar gestionadas únicamente por la Dirección Económica.",
+        "Están restringidas a la atención de pacientes hospitalizados."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las áreas funcionales de los hospitales se organizan según las actividades quirúrgicas, médicas, de salud mental y otros servicios especializados."
+    },
+    {
+      "enunciado": "¿Qué papel desempeñan los centros periféricos de especialidades en las áreas hospitalarias?",
+      "opciones": [
+        "Centralizan las urgencias hospitalarias.",
+        "Proveen atención especializada como extensión del hospital principal.",
+        "Gestionan exclusivamente la atención primaria en zonas rurales.",
+        "Supervisan los trasplantes de órganos y tejidos."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Los centros periféricos de especialidades proveen atención especializada y actúan como una extensión del hospital principal en las áreas hospitalarias."
+    },
+    {
+      "enunciado": "¿Qué figura tiene la responsabilidad de coordinar la formación e investigación en los hospitales según el modelo andaluz?",
+      "opciones": [
+        "La Dirección de Cuidados de Enfermería.",
+        "La Dirección Médica.",
+        "La Junta de Enfermería.",
+        "La Comisión Técnica de Ética."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección Médica es responsable de coordinar la formación e investigación en los hospitales del modelo andaluz."
+    },
+    {
+      "enunciado": "¿Qué característica define a las Unidades de Gestión Clínica en los hospitales andaluces?",
+      "opciones": [
+        "Son unidades administrativas que supervisan los recursos económicos del hospital.",
+        "Integran equipos multiprofesionales para mejorar la calidad y la eficiencia asistencial.",
+        "Gestionan exclusivamente las áreas de salud mental.",
+        "Actúan como intermediarias entre atención primaria y especializada."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de Gestión Clínica integran equipos multiprofesionales para garantizar la calidad y la eficiencia en la atención hospitalaria."
+    },
+    {
+      "enunciado": "¿Qué órgano en los hospitales tiene la función de informar y evaluar los presupuestos asignados anualmente?",
+      "opciones": [
+        "La Junta Facultativa.",
+        "La Dirección Económica.",
+        "La Dirección Médica.",
+        "La Comisión de Calidad."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene entre sus funciones conocer y evaluar el presupuesto anual asignado al hospital."
+    },
+    {
+      "enunciado": "¿Qué servicio en los hospitales tiene como objetivo tratar crisis agudas de salud mental?",
+      "opciones": [
+        "Unidades de hospitalización de salud mental.",
+        "Hospitales de día de salud mental.",
+        "Centros periféricos de especialidades.",
+        "Unidades de rehabilitación psicosocial."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Unidades de hospitalización de salud mental están diseñadas para atender crisis agudas mediante hospitalización completa."
+    },
+    {
+      "enunciado": "¿Qué prioridad establece el modelo hospitalario andaluz en la organización de los servicios especializados?",
+      "opciones": [
+        "Concentrar todos los servicios en hospitales terciarios.",
+        "Coordinar la atención especializada con los servicios de atención primaria.",
+        "Eliminación de centros periféricos para reducir costes.",
+        "Descentralizar la gestión económica de las áreas funcionales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El modelo hospitalario andaluz prioriza la coordinación entre la atención especializada y los servicios de atención primaria para garantizar la continuidad asistencial."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario tiene como función principal velar por la calidad de la asistencia médica y asesorar en la planificación clínica?",
+      "opciones": [
+        "La Junta Facultativa.",
+        "La Dirección Gerencia.",
+        "La Comisión de Dirección.",
+        "La Dirección Médica."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa supervisa la calidad de la asistencia médica y asesora en la planificación y gestión clínica del hospital."
+    },
+    {
+      "enunciado": "¿Quién preside la Junta Facultativa de los hospitales según el Decreto 462/1996?",
+      "opciones": [
+        "El Director Económico-Administrativo.",
+        "El Director Médico.",
+        "El Director de Enfermería.",
+        "El Gerente del Hospital."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa está presidida por el Director Médico del hospital, quien dirige las actividades asistenciales."
+    },
+    {
+      "enunciado": "¿Qué función tiene la Junta de Enfermería en los hospitales andaluces?",
+      "opciones": [
+        "Supervisar los presupuestos del hospital.",
+        "Asesorar en la planificación y evaluación de los cuidados de enfermería.",
+        "Coordinar exclusivamente la formación de especialistas médicos.",
+        "Establecer políticas de trasplantes en el área hospitalaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta de Enfermería tiene como función principal asesorar en la planificación y evaluación de los cuidados de enfermería."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario es responsable de la gestión económica y de los recursos humanos del hospital?",
+      "opciones": [
+        "La Dirección Gerencia.",
+        "La Junta Facultativa.",
+        "La Comisión de Dirección.",
+        "La Dirección de Gestión Económica."
+      ],
+      "correcta": 3,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección de Gestión Económica es responsable de la gestión económica y de los recursos humanos en el hospital."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre los miembros de la Junta Facultativa?",
+      "opciones": [
+        "Deben incluir representantes de áreas funcionales como quirúrgica, médica y de salud mental.",
+        "Están compuestos únicamente por el personal de enfermería.",
+        "Incluyen exclusivamente a los directores de los distritos de atención primaria.",
+        "Solo participan los gerentes y administradores del hospital."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa incluye representantes de áreas funcionales como quirúrgica, médica y de salud mental, entre otros."
+    },
+    {
+      "enunciado": "¿Qué órgano es responsable de proponer cambios en la plantilla de personal facultativo del hospital?",
+      "opciones": [
+        "La Dirección de Cuidados de Enfermería.",
+        "La Junta Facultativa.",
+        "La Comisión de Calidad.",
+        "La Dirección Gerencia."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene la responsabilidad de proponer modificaciones en la composición cualitativa y cuantitativa de la plantilla de personal facultativo."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario debe informar y aprobar la memoria anual del área asistencial?",
+      "opciones": [
+        "La Junta Facultativa.",
+        "La Dirección Económica.",
+        "La Junta de Enfermería.",
+        "La Comisión Técnica de Ética."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa debe informar y aprobar la memoria anual del área asistencial del hospital."
+    },
+    {
+      "enunciado": "¿Qué función tiene la Comisión de Calidad en un hospital del Sistema Andaluz de Salud?",
+      "opciones": [
+        "Supervisar exclusivamente los presupuestos del hospital.",
+        "Garantizar la calidad asistencial mediante la evaluación de procesos y resultados.",
+        "Coordinar las actividades administrativas de la Dirección Gerencia.",
+        "Gestionar los trasplantes de órganos y tejidos."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Comisión de Calidad evalúa procesos y resultados para garantizar la calidad asistencial en el hospital."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre la representación de las áreas funcionales en las Juntas Facultativas?",
+      "opciones": [
+        "Debe ser equilibrada y contar con al menos un representante de cada área funcional.",
+        "Es opcional la representación de las áreas funcionales.",
+        "Solo incluye a representantes de áreas quirúrgicas y médicas.",
+        "La representación es determinada exclusivamente por la Dirección Médica."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 establece que debe haber al menos un representante de cada área funcional en la Junta Facultativa."
+    },
+    {
+      "enunciado": "¿Qué órgano de los hospitales andaluces coordina la docencia e investigación en el área médica?",
+      "opciones": [
+        "La Junta de Enfermería.",
+        "La Dirección Médica.",
+        "La Comisión de Dirección.",
+        "La Dirección de Gestión Económica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección Médica coordina las actividades de docencia e investigación en el área médica del hospital."
+    },
+    {
+      "enunciado": "¿Qué criterio establece el Decreto 462/1996 para la composición de las Juntas Facultativas en cuanto al número de vocales por área funcional?",
+      "opciones": [
+        "Un mínimo de dos y un máximo de cinco vocales por área funcional.",
+        "Al menos tres vocales por cada área funcional, siendo uno jefe de servicio.",
+        "Un representante único por área funcional designado por la Dirección Médica.",
+        "Un número variable determinado por la Dirección Gerencia según las necesidades."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 462/1996 establece que cada área funcional debe tener al menos tres vocales en la Junta Facultativa, siendo uno de ellos jefe de servicio."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre el papel del Director Económico-Administrativo en las Juntas Facultativas?",
+      "opciones": [
+        "Actúa como presidente de la Junta.",
+        "Forma parte como vocal con derecho a voto.",
+        "Actúa como secretario con voz pero sin voto.",
+        "No tiene participación en las Juntas Facultativas."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Director Económico-Administrativo actúa como secretario de la Junta Facultativa, con voz pero sin voto."
+    },
+    {
+      "enunciado": "Según el Decreto 462/1996, ¿qué sucede si la Junta Facultativa no propone una terna para el nombramiento del Director Médico dentro del plazo establecido?",
+      "opciones": [
+        "La Junta de Enfermería asume la responsabilidad de proponer la terna.",
+        "El nombramiento se realiza directamente por el órgano competente.",
+        "La Dirección Gerencia solicita una prórroga al Consejo de Gobierno.",
+        "La Junta Facultativa pierde su capacidad de decisión en ese caso."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Si la Junta Facultativa no propone una terna dentro del plazo, el nombramiento del Director Médico lo realiza directamente el órgano competente."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario tiene la capacidad de proponer modificaciones vinculantes a la distribución interna de los recursos asistenciales del hospital?",
+      "opciones": [
+        "La Junta Facultativa.",
+        "La Dirección Médica.",
+        "La Dirección de Gestión Económica.",
+        "La Comisión de Calidad."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa tiene la capacidad de proponer modificaciones vinculantes sobre la distribución interna de los recursos asistenciales."
+    },
+    {
+      "enunciado": "¿Qué función realiza la Junta de Enfermería en la evaluación de los objetivos asistenciales del hospital?",
+      "opciones": [
+        "Propone los incentivos económicos para los profesionales de enfermería.",
+        "Elabora los objetivos del contrato-programa del hospital.",
+        "Informa sobre los objetivos de cuidados y su alineación con la estrategia asistencial.",
+        "Supervisa la distribución de las plantillas de personal facultativo."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta de Enfermería informa sobre los objetivos de cuidados y su alineación con la estrategia asistencial del hospital."
+    },
+    {
+      "enunciado": "¿Cuál es el procedimiento para la revocación del Director Médico según el Decreto 462/1996?",
+      "opciones": [
+        "Debe ser aprobada por unanimidad de la Junta Facultativa.",
+        "Requiere el voto favorable de al menos dos tercios de los miembros de la Junta Facultativa.",
+        "Es una decisión exclusiva de la Dirección Gerencia.",
+        "Depende de la aprobación del Consejo de Gobierno de la Junta de Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La revocación del Director Médico requiere el voto favorable de al menos dos tercios de los miembros de la Junta Facultativa."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre la renovación de las Juntas Facultativas?",
+      "opciones": [
+        "Deben renovarse cada cinco años de forma automática.",
+        "Su renovación es opcional y se realiza según decisión de la Dirección Gerencia.",
+        "Se renuevan cada cuatro años, salvo situaciones excepcionales.",
+        "No se contempla un período específico para la renovación de las juntas."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "Las Juntas Facultativas deben renovarse cada cuatro años, salvo situaciones excepcionales contempladas en el Decreto."
+    },
+    {
+      "enunciado": "¿Qué órgano de los hospitales tiene la capacidad de proponer modificaciones a la infraestructura física relacionada con el área médica?",
+      "opciones": [
+        "La Junta Facultativa.",
+        "La Dirección Económica.",
+        "La Junta de Enfermería.",
+        "La Comisión Técnica de Ética."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa puede proponer modificaciones relacionadas con la infraestructura física del área médica del hospital."
+    },
+    {
+      "enunciado": "¿Qué órgano hospitalario tiene la función de evaluar y proponer la distribución de los fondos para formación del personal facultativo?",
+      "opciones": [
+        "La Dirección Gerencia.",
+        "La Junta Facultativa.",
+        "La Dirección de Gestión Económica.",
+        "La Comisión de Dirección."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa evalúa y propone la distribución de los fondos destinados a la formación del personal facultativo."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 462/1996 sobre la creación de comisiones técnicas en los hospitales?",
+      "opciones": [
+        "Pueden ser creadas únicamente por la Dirección Médica.",
+        "Su creación está limitada a un máximo de dos por hospital.",
+        "La Junta Facultativa puede solicitar su creación para mejorar áreas específicas.",
+        "Son exclusivamente responsabilidad de la Junta de Enfermería."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Junta Facultativa puede solicitar la creación de comisiones técnicas para mejorar áreas específicas de la gestión hospitalaria."
+    },
+    {
+      "enunciado": "¿Qué órgano establece las directrices generales en materia de salud en Andalucía?",
+      "opciones": [
+        "El Parlamento de Andalucía.",
+        "La Consejería de Salud y Consumo.",
+        "El Servicio Andaluz de Salud (SAS).",
+        "La Dirección General de Gestión Económica."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Consejería de Salud y Consumo establece las directrices generales en materia de salud, incluyendo planificación y coordinación de políticas sanitarias."
+    },
+    {
+      "enunciado": "¿Cuál es la función principal de la Secretaría General de Salud Pública e I+D+i en Salud según el Decreto 198/2024?",
+      "opciones": [
+        "La gestión de hospitales comarcales.",
+        "El desarrollo de políticas de salud pública y el impulso de la innovación e investigación.",
+        "La planificación de infraestructuras sanitarias en zonas rurales.",
+        "La supervisión de las políticas de trasplantes en Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Secretaría General de Salud Pública e I+D+i tiene como función principal desarrollar políticas de salud pública y promover la innovación e investigación."
+    },
+    {
+      "enunciado": "¿Qué organismo dependiente de la Consejería de Salud se encarga de la ejecución operativa de los servicios sanitarios públicos en Andalucía?",
+      "opciones": [
+        "La Fundación Pública Andaluza Progreso y Salud.",
+        "El Servicio Andaluz de Salud (SAS).",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "La Escuela Andaluza de Salud Pública."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Servicio Andaluz de Salud (SAS) es el organismo encargado de la ejecución operativa de los servicios sanitarios públicos en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué competencias tiene la Dirección General de Asistencia Sanitaria y Resultados en Salud según el Decreto 198/2024?",
+      "opciones": [
+        "Supervisar la calidad del aire en zonas urbanas.",
+        "Coordinar las estrategias de atención sanitaria y medir los resultados en salud.",
+        "Gestionar las relaciones laborales de los profesionales sanitarios.",
+        "Desarrollar programas de formación exclusivamente para personal administrativo."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Asistencia Sanitaria y Resultados en Salud coordina las estrategias de atención sanitaria y mide los resultados en salud."
+    },
+    {
+      "enunciado": "¿Qué órgano coordina el sistema de trasplantes de órganos y tejidos en Andalucía?",
+      "opciones": [
+        "La Dirección General de Salud Pública.",
+        "La Coordinación Autonómica de Trasplantes.",
+        "El Servicio Andaluz de Salud (SAS).",
+        "La Agencia de Calidad Sanitaria de Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Coordinación Autonómica de Trasplantes coordina el sistema de donación y trasplantes de órganos y tejidos en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué entidad dependiente de la Consejería de Salud promueve la formación y el desarrollo profesional del personal sanitario en Andalucía?",
+      "opciones": [
+        "La Agencia Digital de Andalucía.",
+        "La Escuela Andaluza de Salud Pública.",
+        "El Servicio Andaluz de Salud (SAS).",
+        "La Fundación Pública Andaluza FAISEM."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Escuela Andaluza de Salud Pública promueve la formación y el desarrollo profesional del personal sanitario en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué función tiene la Dirección General de Transformación Digital en Salud según el Decreto 198/2024?",
+      "opciones": [
+        "Gestionar los recursos humanos en hospitales comarcales.",
+        "Implementar y coordinar estrategias de digitalización en el sistema sanitario.",
+        "Supervisar la calidad del agua y los alimentos.",
+        "Gestionar exclusivamente las compras de material sanitario."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Transformación Digital en Salud coordina estrategias de digitalización para mejorar la eficiencia y la calidad del sistema sanitario."
+    },
+    {
+      "enunciado": "¿Qué competencias tiene la Secretaría General de Planificación Asistencial y Consumo?",
+      "opciones": [
+        "Coordinar la atención hospitalaria en centros privados.",
+        "Planificar la oferta asistencial y coordinar el consumo responsable de productos.",
+        "Supervisar las políticas de rehabilitación en salud mental.",
+        "Gestionar los programas de urgencias y emergencias médicas."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Secretaría General de Planificación Asistencial y Consumo planifica la oferta asistencial y coordina el consumo responsable en productos de salud."
+    },
+    {
+      "enunciado": "¿Qué órgano establece el contrato-programa entre la Consejería de Salud y el Servicio Andaluz de Salud?",
+      "opciones": [
+        "La Dirección General de Gestión Económica.",
+        "La Dirección Gerencia del Servicio Andaluz de Salud.",
+        "La Secretaría General de Salud Pública.",
+        "La Consejería de Salud y Consumo."
+      ],
+      "correcta": 3,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Consejería de Salud y Consumo establece el contrato-programa con el SAS, que regula objetivos y recursos asignados al sistema sanitario público."
+    },
+    {
+      "enunciado": "¿Qué organismo colabora con la Consejería de Salud en programas de integración social de personas con enfermedad mental grave?",
+      "opciones": [
+        "La Escuela Andaluza de Salud Pública.",
+        "La Fundación Pública Andaluza FAISEM.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "El Instituto de Salud Carlos III."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Fundación Pública Andaluza FAISEM colabora con la Consejería de Salud en la integración social de personas con enfermedad mental grave."
+    },
+    {
+      "enunciado": "¿Cuál es el órgano encargado de la promoción de la salud y la prevención de enfermedades en Andalucía?",
+      "opciones": [
+        "La Dirección General de Salud Pública y Ordenación Farmacéutica.",
+        "La Dirección General de Gestión Económica.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "El Servicio Andaluz de Salud (SAS)."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Salud Pública y Ordenación Farmacéutica es responsable de la promoción de la salud y la prevención de enfermedades."
+    },
+    {
+      "enunciado": "¿Qué función tiene la Secretaría General Técnica de la Consejería de Salud?",
+      "opciones": [
+        "Gestionar los recursos humanos del Servicio Andaluz de Salud.",
+        "Coordinar la asistencia sanitaria en hospitales comarcales.",
+        "Dar soporte administrativo, jurídico y técnico a los órganos de la Consejería.",
+        "Supervisar las políticas de salud pública en zonas rurales."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Secretaría General Técnica presta soporte administrativo, jurídico y técnico a los diferentes órganos de la Consejería de Salud."
+    },
+    {
+      "enunciado": "¿Qué organismo dependiente de la Consejería de Salud gestiona el Biobanco del Sistema Sanitario Público de Andalucía?",
+      "opciones": [
+        "La Fundación Pública Andaluza Progreso y Salud.",
+        "La Coordinación Autonómica de Trasplantes.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "El Instituto Andaluz de Investigación Biomédica."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Fundación Pública Andaluza Progreso y Salud gestiona el Biobanco del Sistema Sanitario Público de Andalucía."
+    },
+    {
+      "enunciado": "¿Qué órgano de la Consejería de Salud es responsable de las políticas de consumo en Andalucía?",
+      "opciones": [
+        "La Dirección General de Salud Pública y Ordenación Farmacéutica.",
+        "La Secretaría General de Planificación Asistencial y Consumo.",
+        "El Servicio Andaluz de Salud.",
+        "La Agencia de Calidad Sanitaria de Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Secretaría General de Planificación Asistencial y Consumo es la encargada de coordinar las políticas de consumo en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué competencias tiene la Agencia de Calidad Sanitaria de Andalucía?",
+      "opciones": [
+        "Gestionar las urgencias hospitalarias en todo el territorio andaluz.",
+        "Establecer criterios de calidad y acreditación para los centros y profesionales sanitarios.",
+        "Coordinar la formación de personal administrativo.",
+        "Supervisar exclusivamente los servicios de salud mental."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Agencia de Calidad Sanitaria de Andalucía establece criterios de calidad y acreditación para centros, unidades y profesionales sanitarios."
+    },
+    {
+      "enunciado": "¿Qué órgano tiene competencias en la planificación de recursos humanos en el sistema sanitario público de Andalucía?",
+      "opciones": [
+        "La Dirección General de Personal del Servicio Andaluz de Salud.",
+        "La Dirección General de Gestión Económica.",
+        "La Secretaría General Técnica de la Consejería.",
+        "La Escuela Andaluza de Salud Pública."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Personal del SAS es la encargada de la planificación y gestión de los recursos humanos del sistema sanitario público."
+    },
+    {
+      "enunciado": "¿Qué función tiene la Coordinación Autonómica de Trasplantes dentro de la Consejería de Salud?",
+      "opciones": [
+        "Supervisar la calidad de los servicios hospitalarios.",
+        "Coordinar las donaciones y trasplantes en el ámbito regional.",
+        "Gestionar exclusivamente las emergencias médicas en Andalucía.",
+        "Desarrollar políticas de promoción de la salud en centros escolares."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Coordinación Autonómica de Trasplantes coordina las donaciones y los trasplantes en el ámbito regional, colaborando con la ONT."
+    },
+    {
+      "enunciado": "¿Qué competencia tiene la Dirección General de Asistencia Sanitaria y Resultados en Salud respecto a las Áreas de Gestión Sanitaria?",
+      "opciones": [
+        "Supervisar exclusivamente los contratos-programa de los hospitales.",
+        "Coordinar la integración de la atención primaria y especializada en las Áreas de Gestión Sanitaria.",
+        "Gestionar los recursos económicos de las Áreas de Gestión Sanitaria.",
+        "Establecer las políticas de formación sanitaria especializada."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Asistencia Sanitaria y Resultados en Salud coordina la integración de la atención primaria y especializada en las Áreas de Gestión Sanitaria."
+    },
+    {
+      "enunciado": "¿Qué rol desempeña la Dirección General de Salud Pública y Ordenación Farmacéutica en la vigilancia epidemiológica?",
+      "opciones": [
+        "Supervisar exclusivamente los laboratorios clínicos.",
+        "Coordinar las políticas de donación y trasplantes.",
+        "Gestionar los sistemas de información para la vigilancia epidemiológica y salud pública.",
+        "Acreditar a los profesionales sanitarios en áreas de salud pública."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Salud Pública y Ordenación Farmacéutica gestiona los sistemas de información para la vigilancia epidemiológica y la salud pública."
+    },
+    {
+      "enunciado": "¿Qué órgano es responsable de promover la innovación sanitaria en Andalucía?",
+      "opciones": [
+        "La Fundación Pública Andaluza Progreso y Salud.",
+        "La Dirección General de Gestión Económica.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "El Servicio Andaluz de Salud."
+      ],
+      "correcta": 0,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Fundación Pública Andaluza Progreso y Salud promueve la innovación sanitaria y la investigación en el ámbito del Sistema Sanitario Público de Andalucía."
+    },
+    {
+      "enunciado": "¿Qué establece el Decreto 198/2024 sobre la Dirección General de Cuidados y Atención Sociosanitaria?",
+      "opciones": [
+        "Debe centrarse exclusivamente en la atención a personas mayores.",
+        "Se encarga de coordinar políticas de cuidados en todas las etapas del ciclo vital y atención sociosanitaria.",
+        "Es responsable de la gestión económica del Servicio Andaluz de Salud.",
+        "Tiene la función principal de supervisar la actividad de las áreas de salud mental."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Cuidados y Atención Sociosanitaria coordina políticas de cuidados y atención sociosanitaria en todas las etapas del ciclo vital."
+    },
+    {
+      "enunciado": "¿Qué diferencia funcional establece el Decreto 198/2024 entre la Secretaría General de Salud Pública y la Secretaría General de Planificación Asistencial?",
+      "opciones": [
+        "La primera se ocupa de la atención primaria, mientras que la segunda de la atención especializada.",
+        "La Secretaría General de Salud Pública desarrolla políticas de promoción de salud, y la de Planificación Asistencial coordina la oferta asistencial.",
+        "Ambas tienen competencias compartidas en la vigilancia epidemiológica.",
+        "La Secretaría General de Planificación Asistencial coordina exclusivamente las políticas de consumo."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El Decreto 198/2024 establece que la Secretaría General de Salud Pública se centra en promoción de salud, mientras que la de Planificación Asistencial organiza la oferta sanitaria."
+    },
+    {
+      "enunciado": "¿Qué función específica tiene la Dirección General de Transformación Digital en Salud respecto a los sistemas de información?",
+      "opciones": [
+        "Supervisar los sistemas exclusivamente en hospitales terciarios.",
+        "Desarrollar y mantener los sistemas de información sanitaria, promoviendo la interoperabilidad.",
+        "Coordinar la adquisición de equipos tecnológicos en atención primaria.",
+        "Gestionar la formación en competencias digitales del personal administrativo."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Transformación Digital en Salud desarrolla y mantiene los sistemas de información sanitaria, asegurando la interoperabilidad entre niveles asistenciales."
+    },
+    {
+      "enunciado": "¿Qué establece el contrato-programa entre la Consejería de Salud y el Servicio Andaluz de Salud?",
+      "opciones": [
+        "El número de profesionales necesarios en cada área sanitaria.",
+        "Los objetivos, recursos y compromisos que debe cumplir el SAS en un período determinado.",
+        "Las directrices para la promoción de la salud en el ámbito escolar.",
+        "Los criterios de acreditación de los centros sanitarios."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "El contrato-programa define los objetivos, recursos y compromisos que debe cumplir el SAS en un período determinado, asegurando su alineación con las políticas de salud."
+    },
+    {
+      "enunciado": "¿Qué órgano tiene la responsabilidad de coordinar las acciones del Plan Andaluz de Salud?",
+      "opciones": [
+        "La Dirección General de Gestión Económica.",
+        "La Secretaría General de Salud Pública.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "El Parlamento de Andalucía."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Secretaría General de Salud Pública es responsable de coordinar las acciones derivadas del Plan Andaluz de Salud."
+    },
+    {
+      "enunciado": "¿Qué rol desempeña la Fundación Pública Andaluza FAISEM en el ámbito de la salud mental?",
+      "opciones": [
+        "Supervisa la calidad de los cuidados en las unidades de salud mental comunitaria.",
+        "Colabora en la integración social de personas con enfermedad mental grave.",
+        "Gestiona los recursos humanos en centros de atención a la salud mental.",
+        "Desarrolla políticas de prevención de enfermedades psiquiátricas en menores."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Fundación Pública Andaluza FAISEM colabora con la Consejería de Salud en la integración social de personas con enfermedad mental grave."
+    },
+    {
+      "enunciado": "Según el Decreto 198/2024, ¿qué se entiende por el concepto de 'atención integrada' promovido por la Consejería de Salud?",
+      "opciones": [
+        "La prestación exclusiva de servicios sanitarios en zonas rurales.",
+        "La coordinación de niveles asistenciales para garantizar la continuidad de cuidados.",
+        "La digitalización de todos los servicios de atención primaria.",
+        "La supervisión directa de los servicios sociosanitarios por los distritos de atención primaria."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La atención integrada busca coordinar los diferentes niveles asistenciales para garantizar la continuidad de cuidados y una atención centrada en el paciente."
+    },
+    {
+      "enunciado": "¿Qué organismo regula los criterios para la formación sanitaria especializada en Andalucía?",
+      "opciones": [
+        "La Dirección General de Personal del SAS.",
+        "La Agencia de Calidad Sanitaria de Andalucía.",
+        "La Escuela Andaluza de Salud Pública.",
+        "La Secretaría General de Planificación Asistencial."
+      ],
+      "correcta": 2,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Escuela Andaluza de Salud Pública regula los criterios y organiza actividades para la formación sanitaria especializada en Andalucía."
+    },
+    {
+      "enunciado": "¿Qué objetivo tiene la Red Andaluza de Medicina Transfusional, Tejidos y Células en el Sistema Sanitario Público de Andalucía?",
+      "opciones": [
+        "Supervisar los trasplantes en hospitales privados.",
+        "Garantizar la disponibilidad y calidad de sangre, tejidos y células en la región.",
+        "Coordinar exclusivamente la formación en trasplantes.",
+        "Desarrollar políticas de donación en colaboración con organismos internacionales."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Red Andaluza de Medicina Transfusional, Tejidos y Células garantiza la disponibilidad y calidad de sangre, tejidos y células en el Sistema Sanitario Público de Andalucía."
+    },
+    {
+      "enunciado": "¿Qué distingue a la Dirección General de Gestión Económica dentro de la Consejería de Salud?",
+      "opciones": [
+        "Es responsable de planificar exclusivamente los presupuestos hospitalarios.",
+        "Gestiona los recursos económicos del sistema sanitario público y controla su eficiencia.",
+        "Coordina las compras de medicamentos para hospitales terciarios.",
+        "Supervisa los recursos humanos en todas las áreas de salud."
+      ],
+      "correcta": 1,
+      "categorías": ["tema167", "organizacion1"],
+      "feedback": "La Dirección General de Gestión Económica gestiona los recursos económicos del sistema sanitario público y asegura su eficiencia."
+    },
+      {
+          "enunciado": "Según el Decreto 197/2007 de 3 de Julio, ¿cuál es una de las competencias de la Dirección de la Unidad de Gestión Clínica en el ámbito de la Atención Primaria?",
+          "opciones": [
+              "Supervisar el cumplimiento de los objetivos anuales de todas las unidades del distrito",
+              "Gestionar los recursos humanos y materiales asignados a la unidad",
+              "Organizar las comisiones técnicas del distrito",
+              "Ninguna de las anteriores"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica tiene como función gestionar los recursos humanos y materiales asignados para cumplir con los objetivos de la unidad."
+      },
+      {
+          "enunciado": "Según el Decreto 197/2007, ¿de quién depende la Dirección de la Unidad de Gestión Clínica en un distrito de Atención Primaria?",
+          "opciones": [
+              "Del Director Gerente del Servicio Andaluz de Salud",
+              "Del Director de Salud del Distrito",
+              "De la Consejería de Salud y Consumo",
+              "De la Dirección de Gestión Económica del Distrito"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica depende directamente del Director de Salud del Distrito de Atención Primaria."
+      },
+      {
+          "enunciado": "Según el Decreto 197/2007, ¿qué mecanismo debe garantizar la Dirección de la Unidad de Gestión Clínica para fomentar la participación ciudadana?",
+          "opciones": [
+              "Constituir una Comisión de Calidad y Procesos Asistenciales",
+              "Coordinar las actividades con el Director de Cuidados de Enfermería",
+              "Establecer mecanismos de participación ciudadana aprobados por la Consejería de Salud",
+              "Crear un comité de supervisión interna"
+          ],
+          "correcta": 2,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica debe garantizar la participación ciudadana utilizando los mecanismos establecidos por la Consejería de Salud."
+      },
+      {
+          "enunciado": "¿Cuál de las siguientes afirmaciones sobre la Dirección de la Unidad de Gestión Clínica es correcta según el Decreto 197/2007?",
+          "opciones": [
+              "Debe garantizar la accesibilidad y la continuidad asistencial en el ámbito de su unidad.",
+              "Tiene la capacidad de modificar la estructura del distrito.",
+              "Supervisa la gestión económica de todos los centros del distrito.",
+              "Depende jerárquicamente de la Comisión de Dirección."
+          ],
+          "correcta": 0,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica debe garantizar tanto la accesibilidad como la continuidad asistencial en el ámbito de la unidad."
+      },
+      {
+          "enunciado": "Según el Decreto 197/2007, la Dirección de la Unidad de Gestión Clínica tiene rango de:",
+          "opciones": [
+              "Órgano colegiado",
+              "Cargo intermedio",
+              "Unidad de asesoramiento",
+              "Equipo de dirección"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica tiene rango de cargo intermedio dentro del distrito de Atención Primaria."
+      },
+      {
+          "enunciado": "¿Cuál es el ámbito de actuación de la Dirección de la Unidad de Gestión Clínica según el Decreto 197/2007?",
+          "opciones": [
+              "La gestión integral del distrito de Atención Primaria",
+              "Las actividades y recursos de su Unidad de Gestión Clínica",
+              "La coordinación de las políticas de salud del área sanitaria",
+              "La supervisión de las comisiones técnicas del distrito"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica actúa sobre las actividades y recursos asignados a su unidad específica."
+      },
+      {
+          "enunciado": "Según el Decreto 197/2007, una de las funciones principales de la Dirección de la Unidad de Gestión Clínica es:",
+          "opciones": [
+              "Elaborar el presupuesto anual del distrito",
+              "Coordinar la formación continua de los profesionales de la unidad",
+              "Designar a los miembros de las comisiones técnicas",
+              "Proponer modificaciones en el contrato programa del distrito"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica tiene como función coordinar la formación continua de los profesionales de su unidad."
+      },
+      {
+          "enunciado": "¿Qué documento regula los objetivos anuales de la Unidad de Gestión Clínica según el Decreto 197/2007?",
+          "opciones": [
+              "El Plan Andaluz de Salud",
+              "El contrato programa del distrito",
+              "El presupuesto general del SAS",
+              "El Estatuto de Autonomía de Andalucía"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "Los objetivos anuales de la Unidad de Gestión Clínica están regulados por el contrato programa del distrito de Atención Primaria."
+      },
+      {
+          "enunciado": "¿Cómo debe la Dirección de la Unidad de Gestión Clínica garantizar la calidad de la asistencia según el Decreto 197/2007?",
+          "opciones": [
+              "A través de la evaluación continua de procesos, servicios y actividades",
+              "Realizando auditorías externas semestrales",
+              "Supervisando exclusivamente la accesibilidad a los servicios",
+              "Derivando la evaluación a la Dirección de Salud del Distrito"
+          ],
+          "correcta": 0,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica garantiza la calidad mediante la evaluación continua de los procesos, servicios y actividades."
+      },
+      {
+          "enunciado": "Según el Decreto 197/2007, ¿cuál de las siguientes afirmaciones es correcta sobre la Dirección de la Unidad de Gestión Clínica?",
+          "opciones": [
+              "Tiene autonomía completa respecto al distrito",
+              "Debe colaborar estrechamente con otros órganos del distrito para garantizar la continuidad asistencial",
+              "Sus funciones están limitadas a la gestión económica",
+              "Solo tiene autoridad en unidades hospitalarias"
+          ],
+          "correcta": 1,
+          "categorías": ["tema167", "organizacion1"],
+          "feedback": "La Dirección de la Unidad de Gestión Clínica debe colaborar con otros órganos del distrito para garantizar la continuidad asistencial y la integración de servicios."
+      }
+  ]
+  
+  
+  
+  

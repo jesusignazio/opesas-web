@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "En relación con el sistema de GRD, ¿cuál de los siguientes factores incrementaría con mayor probabilidad el peso relativo de un caso?",
+        "opciones": ["Edad menor de 45 años", "Ausencia de comorbilidades", "Ingreso corto sin procedimientos", "Presencia de complicaciones y estancia prolongada"],
+        "correcta": 3,
+        "categorías": ["tema165", "grd"],
+        "feedback": "El peso relativo aumenta con complicaciones, procedimientos complejos y estancias prolongadas."
+      },
+      {
+        "enunciado": "¿Qué papel juega la codificación diagnóstica (CIE-10) en la asignación de GRD?",
+        "opciones": ["Se utiliza solo en auditorías internas", "Se emplea como base para agrupar casos en GRD mediante algoritmos automáticos", "Solo se usa en Atención Primaria", "Clasifica tratamientos farmacológicos dentro del GRD"],
+        "correcta": 1,
+        "categorías": ["tema165", "grd"],
+        "feedback": "La codificación CIE-10 es clave para que el sistema agrupe correctamente a cada paciente en su GRD."
+      },
+      {
+        "enunciado": "Una revisión de casos muestra que muchos pacientes con un mismo diagnóstico caen en GRD diferentes. ¿Qué factor explica esta variabilidad?",
+        "opciones": ["Diferencia en turnos médicos", "Diferencias en edad, comorbilidades o procedimientos asociados", "Tipo de hospital (público o privado)", "Número de visitas previas a urgencias"],
+        "correcta": 1,
+        "categorías": ["tema165", "grd"],
+        "feedback": "El GRD depende no solo del diagnóstico principal, sino también de edad, procedimientos y comorbilidades."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el uso de GRD como sistema de financiación es correcta?",
+        "opciones": ["Es incompatible con presupuestos globales por hospital", "Permite establecer pagos estandarizados por caso", "Favorece la variabilidad clínica y de costes", "Se aplica solo a servicios quirúrgicos"],
+        "correcta": 1,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Los GRD permiten establecer pagos por episodio asistencial, facilitando la financiación basada en actividad."
+      },
+      {
+        "enunciado": "Si dos pacientes con el mismo diagnóstico principal tienen GRD distintos, ¿cuál de las siguientes situaciones puede justificarlo?",
+        "opciones": ["Ambos fueron dados de alta el mismo día", "Uno recibió tratamiento quirúrgico y el otro no", "Ninguno tenía comorbilidades", "Ambos tenían el mismo grupo de edad"],
+        "correcta": 1,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Los procedimientos (quirúrgicos o no) influyen decisivamente en la asignación del GRD."
+      },
+      {
+        "enunciado": "¿Cuál de estas afirmaciones sobre los pesos relativos de los GRD es falsa?",
+        "opciones": ["Reflejan la complejidad y consumo esperado de recursos", "Permiten comparar casos entre hospitales", "Un mayor peso implica mayor severidad clínica", "Son iguales para todos los hospitales independientemente de su nivel"],
+        "correcta": 3,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Los pesos pueden ajustarse según características del hospital o región; no siempre son idénticos."
+      },
+      {
+        "enunciado": "¿Qué implicación puede tener una mala codificación diagnóstica en el sistema GRD?",
+        "opciones": ["No afecta al resultado final", "Puede derivar en una clasificación GRD incorrecta y afectar la financiación y calidad del registro", "Reduce la estancia hospitalaria", "Solo afecta a informes estadísticos externos"],
+        "correcta": 1,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Una codificación errónea puede clasificar mal al paciente, con impacto clínico, económico y de calidad."
+      },
+      {
+        "enunciado": "¿Cuál es una de las principales limitaciones del sistema GRD en evaluación de calidad asistencial?",
+        "opciones": ["No permite calcular costes reales", "No distingue entre hospitales públicos y privados", "No contempla adecuadamente los resultados en salud del paciente", "Ignora la duración del ingreso"],
+        "correcta": 2,
+        "categorías": ["tema165", "grd"],
+        "feedback": "El GRD estima consumo de recursos, pero no mide directamente resultados en salud ni calidad de vida."
+      },
+      {
+        "enunciado": "¿Qué utilidad específica tienen los GRD en la gestión clínica?",
+        "opciones": ["Planificación de menús hospitalarios", "Detección de fraude en bajas laborales", "Comparación de productividad entre servicios o unidades", "Prescripción de material quirúrgico"],
+        "correcta": 2,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Permiten comparar eficiencia entre servicios, medir productividad y orientar decisiones de gestión clínica."
+      },
+      {
+        "enunciado": "En un hospital se detecta que un servicio clínico tiene un coste medio por GRD superior al estándar. ¿Qué medida sería más razonable adoptar?",
+        "opciones": ["Reducir la plantilla médica", "Aumentar el número de altas", "Revisar procedimientos clínicos y codificación", "Suspender la actividad asistencial temporalmente"],
+        "correcta": 2,
+        "categorías": ["tema165", "grd"],
+        "feedback": "Antes de medidas drásticas, se deben revisar prácticas clínicas y codificación para detectar causas del desvío."
+      }
+      
+]

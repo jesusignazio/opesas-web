@@ -1,0 +1,86 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones diferencia correctamente el test de Fagerström del test de Richmond?",
+        "opciones": ["El test de Fagerström evalúa la motivación y el de Richmond la dependencia", "Ambos evalúan la dependencia a la nicotina", "El test de Richmond mide motivación, Fagerström mide dependencia", "Ambos se usan para clasificar pacientes en riesgo cardiovascular"],
+        "correcta": 2,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "Fagerström: evalúa dependencia física a la nicotina. Richmond: evalúa motivación para dejar de fumar."
+      },
+      {
+        "enunciado": "¿Qué evalúa el test de Richmond?",
+        "opciones": ["Grado de dependencia a la nicotina", "Motivación para dejar de fumar", "Síntomas de abstinencia", "Tolerancia a la nicotina"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Richmond mide el grado de motivación del paciente para dejar de fumar."
+      },
+      {
+        "enunciado": "¿Qué evalúa el test de Fagerström?",
+        "opciones": ["Nivel de motivación", "Dependencia física a la nicotina", "Grado de adicción psicológica", "Tolerancia farmacológica"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Fagerström mide la dependencia física a la nicotina."
+      },
+      {
+        "enunciado": "Un paciente con puntuación alta en el test de Fagerström y baja en Richmond presenta:",
+        "opciones": ["Alta motivación y baja dependencia", "Alta dependencia y alta motivación", "Alta dependencia y baja motivación", "Baja dependencia y baja motivación"],
+        "correcta": 2,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "Fagerström alto = mucha dependencia. Richmond bajo = poca motivación para dejar de fumar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes test se compone de preguntas como '¿cuánto tiempo pasa desde que se levanta hasta que fuma su primer cigarrillo?'",
+        "opciones": ["Test de Richmond", "Test de Fagerström", "Test de Yesavage", "Test CRAFFT"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Fagerström incluye preguntas sobre conductas asociadas al consumo diario de tabaco."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes test es más útil para seleccionar pacientes candidatos a intervención motivacional?",
+        "opciones": ["Test de Fagerström", "Test de Richmond", "Test AUDIT", "Test de Pfeiffer"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Richmond mide motivación para dejar de fumar y es útil para valorar si se puede intervenir."
+      },
+      {
+        "enunciado": "¿Qué test clasifica al paciente como con dependencia baja, moderada, alta o muy alta a la nicotina?",
+        "opciones": ["Richmond", "Fagerström", "Malt", "Zarit"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "Fagerström clasifica la dependencia física en niveles según puntuación."
+      },
+      {
+        "enunciado": "El test de Richmond puntúa de:",
+        "opciones": ["0 a 6", "0 a 8", "0 a 10", "0 a 5"],
+        "correcta": 2,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Richmond se puntúa de 0 a 10 para medir motivación para dejar de fumar."
+      },
+      {
+        "enunciado": "El test que ayuda a decidir si es necesario tratamiento farmacológico para la deshabituación es:",
+        "opciones": ["Test de Richmond", "Test de Pfeiffer", "Test de Fagerström", "Test de Goldberg"],
+        "correcta": 2,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Fagerström orienta la necesidad de intervención farmacológica según el nivel de dependencia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes test se usa prioritariamente para decidir la oportunidad de intervención en pacientes poco motivados?",
+        "opciones": ["Test de Fagerström", "Test de Richmond", "Escala EVA", "Test de Apgar familiar"],
+        "correcta": 1,
+        "categorías": ["tema177", "comparativa_tests_tabaquismo"],
+        "feedback": "El test de Richmond evalúa la motivación, clave para decidir el enfoque educativo o motivacional."
+      },
+      {
+        "enunciado": "Una puntuación en el test de Fagerström de 3 puntos y una puntuación en el test de Richmond de 10 nos dice que:",
+        "opciones": [
+          "El paciente tiene una baja dependencia a la nicotina y una alta motivación para el cambio, por tanto es posible iniciar tratamiento para deshabituación tabáquica.",
+          "El paciente tiene una alta dependencia a la nicotina y una alta motivación para el cambio, por tanto es posible iniciar tratamiento para deshabituación tabáquica.",
+          "El paciente tiene una baja dependencia a la nicotina y una baja motivación para el cambio, por tanto es posible iniciar tratamiento para deshabituación tabáquica.",
+          "El paciente tiene una alta dependencia a la nicotina y una baja motivación para el cambio, por tanto es posible iniciar tratamiento para deshabituación tabáquica."
+        ],
+        "correcta": 0,
+        "categorías": ["tema177", "fagerstrom_richmond"],
+        "feedback": "Fagerström mide la dependencia física: 3 puntos = baja. Richmond mide motivación: 10 puntos = alta. Alta motivación + baja dependencia = candidato ideal para tratamiento de deshabituación."
+      }
+      
+      
+]

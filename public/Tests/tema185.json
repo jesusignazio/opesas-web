@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "La anestesia epidural se caracteriza por:",
+        "opciones": ["Introducir el anestésico en el espacio subaracnoideo a nivel L4-L5", "Introducir el anestésico en el espacio epidural sin perforar la duramadre, entre L2-L3 o L3-L4", "Bloquear un plexo nervioso de forma troncular", "Aplicar anestésico tópico sobre la piel y mucosas"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "En la epidural el anestésico se deposita en el espacio epidural sin atravesar la duramadre; suele puncionarse entre L2-L3 o L3-L4."
+      },
+      {
+        "enunciado": "La anestesia intratecal (raquídea) consiste en:",
+        "opciones": ["Perforar duramadre y aracnoides para introducir anestésico en el LCR", "Introducir anestésico en una vena distal con torniquete", "Bloquear un nervio periférico aislado", "Infiltrar anestésico en tejido subcutáneo sin vasoconstrictor"],
+        "correcta": 0,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "En la raquídea se atraviesa duramadre y aracnoides (habitualmente en L4-L5) para mezclar el anestésico con el LCR."
+      },
+      {
+        "enunciado": "El bloqueo de Bier se clasifica como anestesia:",
+        "opciones": ["Local tópica", "Regional intravenosa", "Raquídea", "Epidural caudal"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "El bloqueo de Bier es una técnica de anestesia regional intravenosa con torniquete que aísla un miembro."
+      },
+      {
+        "enunciado": "¿Para qué tipo de cirugía está especialmente indicada la epidural caudal?",
+        "opciones": ["Neurocirugía craneal", "Procesos perineales y obstétricos", "Cirugía torácica alta", "Cirugía ocular"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La epidural caudal a nivel del sacro se emplea en intervenciones perineales, obstétricas y de abdomen bajo."
+      },
+      {
+        "enunciado": "La infiltración de lidocaína con adrenalina en la piel se considera anestesia:",
+        "opciones": ["General", "Local", "Regional troncular", "Intratecal"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La inyección directa de anestésico sobre tejidos diana es anestesia local; la adrenalina prolonga su efecto por vasoconstricción."
+      },
+      {
+        "enunciado": "Bloquear el plexo braquial para una cirugía de mano corresponde a:",
+        "opciones": ["Anestesia regional troncular", "Anestesia local", "Epidural caudal", "Bloqueo de Bier"],
+        "correcta": 0,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La anestesia regional por bloqueo de un plexo (troncular) suprime la sensibilidad en todo el territorio inervado."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes técnicas NO atraviesa la duramadre?",
+        "opciones": ["Raquídea", "Epidural", "Intratecal", "Espinal subaracnoidea"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La epidural se realiza en el espacio epidural; la raquídea (intratecal) atraviesa la duramadre y la aracnoides."
+      },
+      {
+        "enunciado": "La anestesia regional intravenosa se utiliza preferentemente en:",
+        "opciones": ["Cirugía abdominal alta", "Miembros superiores o inferiores con torniquete", "Cesárea electiva", "Intervenciones intracraneales"],
+        "correcta": 1,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "El bloqueo de Bier anestesia un miembro aislado mediante torniquete y anestésico intravenoso distal."
+      },
+      {
+        "enunciado": "En la anestesia local tópica, la absorción sistémica del anestésico se reduce gracias a:",
+        "opciones": ["Mezclar adrenalina con el anestésico", "Usar lidocaína al 2 %", "Aplicar frío sobre la zona", "Añadir bicarbonato a la solución"],
+        "correcta": 0,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La vasoconstricción inducida por la adrenalina enlentece la absorción y prolonga el efecto del anestésico local."
+      },
+      {
+        "enunciado": "Selecciona la combinación correcta técnica-nivel de punción:",
+        "opciones": ["Epidural lumbar: L4-L5 atravesando aracnoides", "Raquídea: L2-L3 sin perforar duramadre", "Epidural lombar: L2-L3 sin perforar duramadre", "Bloqueo de Bier: inyección intratecal con torniquete"],
+        "correcta": 2,
+        "categorías": ["tema185", "tipos_anestesia"],
+        "feedback": "La epidural lumbar típica se realiza en L2-L3 (o L3-L4) en el espacio epidural; la raquídea atraviesa duramadre en L4-L5."
+      }
+      
+]

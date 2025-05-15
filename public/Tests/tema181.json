@@ -1,0 +1,109 @@
+[
+    {
+        "enunciado": "Un símbolo triangular en un genograma corresponde a:",
+        "opciones": ["Un hombre", "Una mujer", "Un embarazo", "Un aborto"],
+        "correcta": 3,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "En un genograma, un triángulo representa un aborto espontáneo o provocado."
+      },
+      {
+        "enunciado": "¿Qué representa un cuadrado en un genograma?",
+        "opciones": ["Un hombre", "Un embarazo", "Una unión", "Una mujer"],
+        "correcta": 0,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "El cuadrado en un genograma representa a un varón."
+      },
+      {
+        "enunciado": "¿Qué simboliza un círculo en un genograma?",
+        "opciones": ["Un hombre", "Una mujer", "Un aborto", "Un vínculo familiar"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "El círculo representa a una mujer en el genograma."
+      },
+      {
+        "enunciado": "Una línea horizontal entre un cuadrado y un círculo en un genograma indica:",
+        "opciones": ["Divorcio", "Relación de pareja actual", "Vínculo biológico", "Relación de hermanos"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "Una línea horizontal entre un hombre y una mujer indica relación de pareja o matrimonio."
+      },
+      {
+        "enunciado": "¿Qué representa una línea vertical descendente desde una pareja en un genograma?",
+        "opciones": ["Vínculo afectivo", "Relación extraconyugal", "Descendencia", "Separación legal"],
+        "correcta": 2,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "Una línea vertical descendente representa la descendencia (hijos) de la pareja."
+      },
+      {
+        "enunciado": "En un genograma, una línea quebrada entre dos miembros de la familia indica:",
+        "opciones": ["Separación emocional intensa o conflicto", "Adopción", "Divorcio legal", "Relación de pareja reciente"],
+        "correcta": 0,
+        "categorías": ["tema181", "genograma_relaciones"],
+        "feedback": "Una línea quebrada representa una relación conflictiva o distante entre dos miembros del genograma."
+      },
+      {
+        "enunciado": "¿Qué representa un doble trazo entre un hombre y una mujer en un genograma?",
+        "opciones": ["Separación", "Matrimonio legal", "Relación de pareja estrecha o fusión emocional", "Adopción"],
+        "correcta": 2,
+        "categorías": ["tema181", "genograma_relaciones"],
+        "feedback": "Un doble trazo indica una relación de fusión emocional o dependencia intensa."
+      },
+      {
+        "enunciado": "Una línea vertical interrumpida entre padres e hijo en un genograma representa:",
+        "opciones": ["Fallecimiento del hijo", "Adopción legal", "Hijo no biológico", "Abandono familiar"],
+        "correcta": 2,
+        "categorías": ["tema181", "genograma_descendencia"],
+        "feedback": "Una línea discontinua o interrumpida entre padres e hijo indica una relación no biológica (adopción, acogida)."
+      },
+      {
+        "enunciado": "Un símbolo con una 'X' sobre él en un genograma significa que:",
+        "opciones": ["Ese familiar está ausente", "La persona ha fallecido", "El sexo es desconocido", "Existe conflicto con la familia"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "Una 'X' sobre el símbolo (cuadrado, círculo o triángulo) indica que la persona ha fallecido."
+      },
+      {
+        "enunciado": "¿Qué se representa mediante una línea punteada alrededor de varios miembros del genograma?",
+        "opciones": ["Conflicto entre ellos", "Grupo de convivencia", "Familiaridad genética", "Hijos de diferentes padres"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_contexto"],
+        "feedback": "Una línea punteada que rodea a varios miembros indica un grupo de convivencia actual (ej. núcleo familiar)."
+      },
+      {
+        "enunciado": "En un genograma, una línea quebrada entre dos miembros de la familia indica:",
+        "opciones": ["Separación emocional intensa o conflicto", "Adopción", "Divorcio legal", "Relación de pareja reciente"],
+        "correcta": 0,
+        "categorías": ["tema181", "genograma_relaciones"],
+        "feedback": "Una línea quebrada representa una relación conflictiva o distante entre dos miembros del genograma."
+      },
+      {
+        "enunciado": "¿Qué representa un doble trazo entre un hombre y una mujer en un genograma?",
+        "opciones": ["Separación", "Matrimonio legal", "Relación de pareja estrecha o fusión emocional", "Adopción"],
+        "correcta": 2,
+        "categorías": ["tema181", "genograma_relaciones"],
+        "feedback": "Un doble trazo indica una relación de fusión emocional o dependencia intensa."
+      },
+      {
+        "enunciado": "Una línea vertical interrumpida entre padres e hijo en un genograma representa:",
+        "opciones": ["Fallecimiento del hijo", "Adopción legal", "Hijo no biológico", "Abandono familiar"],
+        "correcta": 2,
+        "categorías": ["tema181", "genograma_descendencia"],
+        "feedback": "Una línea discontinua o interrumpida entre padres e hijo indica una relación no biológica (adopción, acogida)."
+      },
+      {
+        "enunciado": "Un símbolo con una 'X' sobre él en un genograma significa que:",
+        "opciones": ["Ese familiar está ausente", "La persona ha fallecido", "El sexo es desconocido", "Existe conflicto con la familia"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_simbolos"],
+        "feedback": "Una 'X' sobre el símbolo (cuadrado, círculo o triángulo) indica que la persona ha fallecido."
+      },
+      {
+        "enunciado": "¿Qué se representa mediante una línea punteada alrededor de varios miembros del genograma?",
+        "opciones": ["Conflicto entre ellos", "Grupo de convivencia", "Familiaridad genética", "Hijos de diferentes padres"],
+        "correcta": 1,
+        "categorías": ["tema181", "genograma_contexto"],
+        "feedback": "Una línea punteada que rodea a varios miembros indica un grupo de convivencia actual (ej. núcleo familiar)."
+      }
+      
+            
+]

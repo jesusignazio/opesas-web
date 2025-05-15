@@ -1,0 +1,284 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes SÍ es un Plan Integral vigente de la Consejería de Salud y Familias de la Junta de Andalucía?",
+        "opciones": ["PIHD. Plan Integral de Hepatopatías Difusas", "PITA. Plan Integral de Tabaquismo", "PIACE. Plan Integral de Atención Cardiovascular Emergente", "PIDO. Plan Integral del Dolor Oncológico"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "PITA, Plan Integral de Tabaquismo, sí existe como plan oficial de salud pública en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales está contemplado en el listado oficial de la Consejería de Salud andaluza?",
+        "opciones": ["Atención al dolor posquirúrgico crónico", "Fractura de cadera", "Complicaciones en cirugía bariátrica", "Tratamiento de nefritis crónica"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Fractura de cadera es un proceso asistencial reconocido oficialmente en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes Planes Integrales de salud de Andalucía SÍ existe?",
+        "opciones": ["PIOBIN. Plan Integral de Obesidad Infantil", "PIRAM. Plan Integral de Riesgo Alimentario Metabólico", "PIRAD. Plan Integral de Rehabilitación y Adicciones", "PIAAC. Plan Integral de Atención a la Cronicidad"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "PIOBIN es el Plan Integral de Obesidad Infantil de la Junta de Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales está presente en el catálogo oficial de Andalucía?",
+        "opciones": ["Atención al paciente pluripatológico", "Prevención de cáncer gástrico", "Urgencias dermatológicas", "Infecciones respiratorias comunitarias"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "Atención a pacientes pluripatológicos es un proceso asistencial oficial del SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales del ámbito oncológico está recogido oficialmente en Andalucía?",
+        "opciones": ["Cáncer gástrico", "Cáncer de piel", "Cáncer renal", "Cáncer hepático"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "El cáncer de piel figura entre los procesos asistenciales reconocidos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales relacionados con la salud mental existe oficialmente?",
+        "opciones": ["Trastorno bipolar", "Trastorno límite de la personalidad", "Trastorno mental grave", "Trastornos adaptativos"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "El proceso asistencial sobre trastorno mental grave sí está incluido en el catálogo oficial."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales forma parte del abordaje en infancia según el SAS?",
+        "opciones": ["Atención a la fobia escolar", "Atención a trastornos sensoriales", "Atención a problemas del sueño en pediatría", "Seguimiento del peso en escolares"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Los trastornos sensoriales forman parte de los procesos de atención temprana reconocidos por la Consejería."
+      },
+      {
+        "enunciado": "¿Cuál de estos procesos asistenciales vinculados a enfermedades respiratorias está oficialmente reconocido?",
+        "opciones": ["Asma bronquial severo", "EPOC", "Infecciones nosocomiales respiratorias", "Neumonía intersticial"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "La EPOC (Enfermedad Pulmonar Obstructiva Crónica) sí está contemplada en los procesos asistenciales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos relacionados con dolor está registrado como proceso asistencial?",
+        "opciones": ["Dolor crónico no oncológico", "Dolor neuropático", "Dolor torácico psicógeno", "Dolor lumbar agudo"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "El dolor crónico no oncológico es un proceso asistencial incluido en el SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos forma parte del grupo de procesos sobre transición de género?",
+        "opciones": ["Atención en cirugía de reafirmación sexual", "Atención sanitaria a personas transexuales adultas", "Apoyo psicológico en adolescencia trans", "Orientación sexual y salud comunitaria"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "‘Atención sanitaria a personas transexuales adultas’ es un proceso asistencial contemplado por la Consejería."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales forma parte del catálogo oficial del SAS?",
+        "opciones": ["Síndrome de apnea del sueño", "Síndrome coronario agudo sin elevación del ST", "Hepatocarcinoma", "Insomnio crónico"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "El síndrome coronario agudo sin elevación del ST (SCASEST) está reconocido como proceso asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes planes integrales SÍ forma parte de la planificación sanitaria en Andalucía?",
+        "opciones": ["PIDA. Plan Integral de Dislipemia Aterogénica", "PIDMA. Plan Integral de Diabetes", "PICI. Plan Integral de Cuidados Intensivos", "PISOM. Plan Integral de Salud Osteomuscular"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "PIDMA es el Plan Integral de Diabetes Mellitus en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales relacionados con oncología SÍ está incluido oficialmente?",
+        "opciones": ["Cáncer testicular", "Cáncer de cabeza y cuello", "Cáncer de vejiga", "Cáncer hepático"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Cáncer de cabeza y cuello es un proceso asistencial reconocido por la Consejería de Salud."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un proceso asistencial incluido por la Junta de Andalucía?",
+        "opciones": ["Artroplastia de cadera", "IAM con elevación del ST", "Hipotiroidismo autoinmune", "Tratamiento sustitutivo de insuficiencia renal crónica"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "El hipotiroidismo autoinmune no aparece como proceso asistencial específico en el listado oficial."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos sobre salud infantil está oficialmente recogido en Andalucía?",
+        "opciones": ["Atención al niño hiperactivo", "Atención temprana: trastornos del espectro autista", "Trastornos de conducta escolar", "Síndrome de Tourette en la infancia"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Los trastornos del espectro autista forman parte del bloque de atención temprana."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales vinculados al sistema nervioso central sí existe?",
+        "opciones": ["Esclerosis múltiple", "Epilepsia", "Enfermedad de Parkinson", "Corea de Huntington"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "La enfermedad de Parkinson es un proceso asistencial reconocido por la Consejería."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos relacionados con la salud dental está oficialmente reconocido?",
+        "opciones": ["Atención a ortodoncia funcional", "Seguimiento de caries dental e inclusiones dentarias", "Tratamiento quirúrgico de la periodontitis", "Extracción de muelas del juicio en población infantil"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "La atención a la caries dental y a las inclusiones dentarias está incluida como proceso asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de estos procesos de salud mental está incluido en el listado oficial del SAS?",
+        "opciones": ["Trastornos de personalidad", "Trastornos de la conducta alimentaria", "Depresión resistente", "Fobia social"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Los trastornos de la conducta alimentaria figuran entre los procesos asistenciales oficiales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos ginecológicos está reconocido por el sistema sanitario andaluz?",
+        "opciones": ["Endometriosis profunda", "Cáncer de cérvix", "Síndrome premenstrual", "Metrorragias disfuncionales"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Cáncer de cérvix forma parte del grupo de procesos oncológicos reconocidos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos cardiovasculares está contemplado en el catálogo oficial?",
+        "opciones": ["Insuficiencia cardíaca", "Pericarditis aguda", "Valvulopatías aórticas", "Síndrome de QT largo"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "La insuficiencia cardíaca es un proceso asistencial establecido por la Consejería."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales respiratorios es oficial en Andalucía?",
+        "opciones": ["Fibrosis pulmonar idiopática", "Tromboembolismo pulmonar", "Neumonía adquirida en la comunidad", "Derrame pleural crónico"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Tromboembolismo pulmonar forma parte de los procesos asistenciales incluidos."
+      },
+      {
+        "enunciado": "¿Cuál de estos procesos asistenciales sobre enfermedades infecciosas es oficial?",
+        "opciones": ["Toxoplasmosis congénita", "Tuberculosis", "Hepatitis víricas", "Fiebre tifoidea"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "Las hepatitis víricas figuran como proceso asistencial específico en el listado del SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos relacionados con dolor está registrado en Andalucía?",
+        "opciones": ["Síndrome de dolor miofascial", "Dolor abdominal", "Neuralgia del trigémino", "Lumbalgia mecánica"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Dolor abdominal es uno de los procesos incluidos oficialmente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos sobre enfermedades hematológicas está incluido?",
+        "opciones": ["Anemia ferropénica", "Leucemia aguda", "Hemofilia", "Ninguno de los anteriores"],
+        "correcta": 3,
+        "categorías": ["tema160"],
+        "feedback": "No hay procesos asistenciales específicos relacionados con enfermedades hematológicas en el listado actual."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes planes integrales o procesos asistenciales SÍ existe?",
+        "opciones": ["PIAD. Plan Integral de Alcoholismo y Drogodependencias", "PIOR. Plan Integral de Obesidad y Riesgo Metabólico", "Atención al trauma grave", "Plan Integral de Dermatología Crónica"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "Atención al trauma grave es un proceso asistencial oficial. PIAD y los demás no existen con esos nombres."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales forma parte del catálogo oficial andaluz?",
+        "opciones": ["Cáncer de páncreas", "Cefaleas", "Hipertensión intracraneal benigna", "Síncope vasovagal"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "El proceso asistencial para cefaleas está incluido oficialmente en el listado del SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes SÍ es un proceso asistencial vinculado a patologías digestivas?",
+        "opciones": ["Gastritis erosiva", "Enfermedad celíaca", "Dolor abdominal", "Colitis pseudomembranosa"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "Dolor abdominal es un proceso asistencial incluido oficialmente."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales pediátricos está recogido en el listado oficial?",
+        "opciones": ["Síndrome de déficit de atención e hiperactividad (TDAH)", "Seguimiento del recién nacido de riesgo", "Enuresis nocturna", "Trastornos del lenguaje evolutivo"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "El seguimiento del recién nacido de riesgo forma parte de los procesos de atención temprana."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales se refiere a atención quirúrgica en Andalucía?",
+        "opciones": ["Control postoperatorio ambulatorio", "Artroplastia de cadera", "Revisión de implantes", "Cirugía funcional compleja"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Artroplastia de cadera es un proceso asistencial oficial del SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales existe en el contexto de la salud reproductiva?",
+        "opciones": ["Menopausia sintomática", "Síndrome premenstrual severo", "Embarazo, parto y puerperio", "Dispareunia idiopática"],
+        "correcta": 2,
+        "categorías": ["tema160"],
+        "feedback": "Embarazo, parto y puerperio es un proceso asistencial contemplado por la Consejería."
+      },
+      {
+        "enunciado": "¿Cuál de estos procesos sí está incluido dentro del bloque de patologías crónicas?",
+        "opciones": ["Enfermedad pulmonar obstructiva crónica", "Rinitis alérgica persistente", "Psoriasis severa", "Artrosis de rodilla"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "La EPOC está recogida como proceso asistencial oficial."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes planes o procesos SÍ forma parte de la estrategia sanitaria andaluza?",
+        "opciones": ["Atención a personas fumadoras", "Atención al consumo de energizantes", "Plan contra el sedentarismo urbano", "Protocolo de autolesiones en adolescentes"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "Existe un proceso asistencial específico para la atención a personas fumadoras."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos oncológicos se encuentra regulado oficialmente?",
+        "opciones": ["Cáncer de próstata", "Cáncer de pulmón", "Cáncer hepático", "Cáncer pancreático"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "Cáncer de pulmón está entre los procesos asistenciales oncológicos oficiales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos relacionados con dolor torácico está en el catálogo oficial?",
+        "opciones": ["Dolor torácico musculo-esquelético", "Síndrome coronario agudo con elevación de ST", "Costocondritis", "Pericarditis viral"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "IAM con elevación del ST (SCASEST) es un proceso asistencial bajo dolor torácico."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos mentales o conductuales sí está contemplado?",
+        "opciones": ["Fobia específica", "Trastorno mental grave", "Esquizofrenia paranoide", "Trastorno obsesivo-compulsivo"],
+        "correcta": 1,
+        "categorías": ["tema160"],
+        "feedback": "El Trastorno Mental Grave es el proceso oficial bajo el que se agrupan estos casos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos es parte de la atención a enfermedades infecciosas?",
+        "opciones": ["VIH/SIDA", "Mononucleosis infecciosa", "Citomegalovirus congénito", "Listeriosis en adultos"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "VIH/SIDA es un proceso asistencial específico regulado por la Consejería de Salud."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales de salud visual es oficial?",
+        "opciones": ["Atención a cataratas seniles", "Prevención de ceguera", "No existe ninguno", "Deterioro cognitivo"],
+        "correcta": 3,
+        "categorías": ["tema160"],
+        "feedback": "No hay procesos específicos de visión, pero sí existe uno para deterioro cognitivo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos tempranos forma parte del PAI correspondiente?",
+        "opciones": ["Trastornos del desarrollo con discapacidad motora", "Dislexia funcional", "Retraso madurativo inespecífico", "Inmadurez auditiva leve"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "Forma parte del grupo de atención temprana en trastornos del desarrollo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos existe como parte del PAI Riesgo Vascular?",
+        "opciones": ["Riesgo vascular", "Síndrome metabólico", "HTA sistólica aislada", "Microalbuminuria incipiente"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "El proceso 'Riesgo vascular' está integrado en los programas asistenciales del SAS."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales existe realmente?",
+        "opciones": ["Fibromialgia", "Síndrome miofascial", "Dolor cervical tensional", "Cansancio crónico idiopático"],
+        "correcta": 0,
+        "categorías": ["tema160"],
+        "feedback": "Fibromialgia está incluida oficialmente como proceso asistencial crónico."
+      }
+         
+
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "enunciado": "¿Qué son los Conjuntos Mínimos Básicos de Datos (CMBD)?",
+        "opciones": [
+          "Sistemas de codificación para clasificar enfermedades raras",
+          "Estrategias de planificación sanitaria hospitalaria",
+          "Bases de datos estructuradas que recogen información clínica y administrativa de la atención prestada",
+          "Registros exclusivos de mortalidad y defunciones hospitalarias"
+        ],
+        "correcta": 2,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "Los CMBD recogen datos clínicos y administrativos básicos sobre episodios asistenciales, útiles para gestión, investigación y planificación sanitaria."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes variables NO se recoge en el CMBD de Andalucía?",
+        "opciones": [
+          "Datos administrativos como el número de historia clínica",
+          "Datos clínicos como diagnósticos o procedimientos",
+          "Datos sociodemográficos como edad y sexo",
+          "Datos del centro de salud de referencia del paciente"
+        ],
+        "correcta": 3,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El CMBD no recoge datos sobre centros de salud de referencia, sino sobre el episodio de hospitalización o atención especializada."
+      },
+      {
+        "enunciado": "¿Qué tipo de codificación diagnóstica se emplea habitualmente en los CMBD?",
+        "opciones": [
+          "CIAP-2",
+          "CIE-10-ES",
+          "ICPC-3",
+          "SNOMED-CT"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "En los CMBD se usa CIE-10-ES (adaptación española de la CIE-10), especialmente en hospitalización y consultas externas."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes objetivos forma parte del uso del CMBD en el sistema sanitario?",
+        "opciones": [
+          "Facturación de recetas en oficina de farmacia",
+          "Evaluar la competencia clínica de los profesionales",
+          "Apoyar la planificación y gestión sanitaria",
+          "Seguimiento exclusivo de ensayos clínicos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El CMBD se emplea para planificar, gestionar y analizar la actividad asistencial, además de apoyar estudios de calidad y eficiencia."
+      },
+      {
+        "enunciado": "¿Qué nivel asistencial es el principal generador de información para el CMBD?",
+        "opciones": [
+          "Atención primaria",
+          "Hospitalización",
+          "Urgencias extrahospitalarias",
+          "Servicios de salud pública"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El CMBD está centrado principalmente en los episodios hospitalarios (ingresos, intervenciones, altas hospitalarias, etc.)."
+      },
+      {
+        "enunciado": "¿Qué dato clínico puede encontrarse en un registro CMBD?",
+        "opciones": [
+          "Nombre del facultativo",
+          "Diagnóstico principal y secundarios codificados",
+          "Horas de quirófano empleadas",
+          "Consentimientos informados del paciente"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El CMBD recoge diagnósticos y procedimientos codificados (CIE), no nombres personales ni documentos clínico-legales."
+      },
+      {
+        "enunciado": "¿Qué finalidad NO tiene el CMBD?",
+        "opciones": [
+          "Estudios epidemiológicos",
+          "Gestión clínica",
+          "Control de calidad asistencial",
+          "Asignación automática de citas médicas"
+        ],
+        "correcta": 3,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El CMBD no gestiona citas médicas. Se usa para análisis de actividad, calidad, eficiencia y epidemiología hospitalaria."
+      },
+      {
+        "enunciado": "¿Qué variable se considera obligatoria en un CMBD hospitalario?",
+        "opciones": [
+          "Fecha de nacimiento del progenitor",
+          "Sexo del paciente",
+          "Lugar de residencia exacto",
+          "Número de tarjeta sanitaria"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "El sexo del paciente es una variable básica. No se requiere lugar exacto ni datos de familiares."
+      },
+      {
+        "enunciado": "¿Qué dato NO corresponde a una variable clínica dentro del CMBD?",
+        "opciones": [
+          "Diagnóstico principal",
+          "Intervención quirúrgica realizada",
+          "Día de estancia hospitalaria",
+          "Nombre del anestesista"
+        ],
+        "correcta": 3,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "Los nombres propios no se recogen en el CMBD, sólo datos estructurados, anónimos y codificados."
+      },
+      {
+        "enunciado": "¿Qué papel tiene el CMBD en el análisis de los Grupos Relacionados por el Diagnóstico (GRD)?",
+        "opciones": [
+          "Ninguno",
+          "Proporciona los datos base para su agrupación",
+          "Sirve para clasificar los GRD por provincias",
+          "Sustituye el sistema GRD en hospitales públicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "Los GRD se calculan a partir de la información codificada en el CMBD (diagnósticos, procedimientos, edad, sexo, etc.)."
+      },
+      {
+        "enunciado": "¿Qué significa el acrónimo CMBD en el ámbito sanitario?",
+        "opciones": [
+          "Conjunto Médico Básico de Diagnóstico",
+          "Clasificación Mínima de Bases Diagnósticas",
+          "Conjunto Mínimo Básico de Datos",
+          "Catálogo Médico Básico de Datos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "CMBD significa Conjunto Mínimo Básico de Datos: recoge datos clínicos y administrativos de la actividad sanitaria."
+      },
+      {
+        "enunciado": "¿Cuál es la interpretación correcta del acrónimo CMBD?",
+        "opciones": [
+          "Conjunto Mínimo Básico de Diagnósticos",
+          "Conjunto Mínimo Básico de Datos",
+          "Clasificación Mínima de Beneficio Diagnóstico",
+          "Códigos Médicos Básicos de Datos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema180", "cmdb"],
+        "feedback": "CMBD: Conjunto Mínimo Básico de Datos. Base de datos clínica y administrativa sobre episodios asistenciales."
+      }      
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes hitos del desarrollo psicomotor suele alcanzarse hacia el mes de vida?",
+        "opciones": ["Se mantiene sentado sin apoyo", "Fija la mirada en el examinador", "Balbucea sílabas repetidas", "Emite bisílabos con intención"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "Hacia el primer mes el lactante fija la mirada y puede seguir objetos en un arco de 90º."
+      },
+      {
+        "enunciado": "¿A qué edad se espera que un lactante mantenga la cabeza erguida de forma firme?",
+        "opciones": ["1 mes", "2 meses", "4 meses", "6 meses"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "Hacia los 4 meses el control cefálico suele estar completamente establecido."
+      },
+      {
+        "enunciado": "¿Cuándo suele mantenerse el lactante sentado sin apoyo de forma estable?",
+        "opciones": ["3 meses", "5 meses", "6 meses", "8 meses"],
+        "correcta": 3,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 8 meses es habitual que el bebé se mantenga sentado sin apoyo."
+      },
+      {
+        "enunciado": "¿Qué hito del desarrollo psicomotor se espera en un lactante de 6 meses?",
+        "opciones": ["Sonríe socialmente", "Emite bisílabos con intención", "Sigue objetos con la mirada a 180º", "Se mantiene de pie sin apoyo"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "Hacia los 6 meses, el bebé puede seguir objetos en 180º y comenzar con bisílabos simples."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes conductas corresponde a un desarrollo esperable a los 2 meses?",
+        "opciones": ["Mantenerse de pie con ayuda", "Risa social", "Uso de pinza fina", "Gatear"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "La sonrisa social suele aparecer alrededor de las 6-8 semanas de vida."
+      },
+      {
+        "enunciado": "¿A qué edad se inicia generalmente el gateo en un lactante sano?",
+        "opciones": ["5 meses", "7 meses", "9 meses", "12 meses"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "El gateo suele comenzar entre los 7-9 meses."
+      },
+      {
+        "enunciado": "¿Qué hito del desarrollo se alcanza habitualmente a los 12 meses?",
+        "opciones": ["Mantiene la cabeza firme", "Balbucea monosílabos", "Camina solo", "Emite sílabas con intención"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 12 meses el niño puede comenzar a caminar solo o con mínima ayuda."
+      },
+      {
+        "enunciado": "¿Cuál de estos hitos es típico a los 9 meses de edad?",
+        "opciones": ["Risa social", "Pinza fina", "Sujeta la cabeza", "Se mantiene sentado con apoyo"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 9 meses suele desarrollarse la pinza fina (índice y pulgar)."
+      },
+      {
+        "enunciado": "¿A qué edad es normal que el niño responda claramente al sonido y gire la cabeza hacia él?",
+        "opciones": ["Recién nacido", "1 mes", "2 meses", "6 meses"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "Hacia los 2 meses el bebé gira la cabeza ante estímulos sonoros."
+      },
+      {
+        "enunciado": "¿Qué desarrollo es esperable en un niño de 18 meses?",
+        "opciones": ["Camina solo", "Sigue con la mirada 90º", "Balbucea sin intención", "Ríe por reflejo"],
+        "correcta": 0,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 18 meses el niño camina con seguridad, comienza a subir escaleras con ayuda y amplía su vocabulario."
+      },
+      {
+        "enunciado": "¿Qué conducta motriz suele aparecer hacia los 3 meses de edad?",
+        "opciones": ["Control cefálico completo", "Sigue objetos a 180º", "Sujeta objetos brevemente con las manos", "Se sienta sin apoyo"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 3 meses el bebé comienza a sujetar objetos brevemente, aunque el agarre aún es reflejo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes hitos del desarrollo del lenguaje aparece primero?",
+        "opciones": ["Bisílabos con intención", "Monosílabos reflexivos", "Balbuceo sin intención", "Emisión de palabras simples"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "El balbuceo sin intención comienza hacia los 4-5 meses, y es el primer paso en el desarrollo del lenguaje."
+      },
+      {
+        "enunciado": "¿A qué edad es habitual que un lactante pueda sujetar la cabeza erguida en sedestación?",
+        "opciones": ["1 mes", "3 meses", "5 meses", "6 meses"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 3 meses el niño comienza a tener buen control cefálico en posición vertical."
+      },
+      {
+        "enunciado": "¿Qué conducta social se observa típicamente hacia las 6 semanas de vida?",
+        "opciones": ["Emite bisílabos", "Sonríe socialmente", "Fija la mirada a 180º", "Balbucea con intención"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "La sonrisa social suele aparecer entre la 6ª y 8ª semana como respuesta intencional a estímulos sociales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes hitos indica un adecuado desarrollo motriz fino a los 9 meses?",
+        "opciones": ["Control cefálico", "Gateo", "Pinza gruesa", "Pinza fina"],
+        "correcta": 3,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "La pinza fina (índice y pulgar) aparece alrededor de los 9 meses."
+      },
+      {
+        "enunciado": "¿Qué capacidad motora se alcanza habitualmente a los 4 meses?",
+        "opciones": ["Sostiene la cabeza firmemente", "Camina con apoyo", "Gatea", "Mantiene la sedestación sin ayuda"],
+        "correcta": 0,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "A los 4 meses el bebé puede sostener firmemente la cabeza y levantar el tórax estando en decúbito prono."
+      },
+      {
+        "enunciado": "¿Cuál de estos hitos es característico de los 6-7 meses de edad?",
+        "opciones": ["Gatea", "Balbucea", "Pinza fina", "Camina con ayuda"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "El balbuceo (como 'ba-ba' o 'ma-ma' sin intención) es típico a los 6-7 meses."
+      },
+      {
+        "enunciado": "¿Qué hito relacionado con la marcha se espera hacia los 12 meses?",
+        "opciones": ["Camina solo", "Gatea", "Se mantiene de pie con ayuda", "Controla esfínteres"],
+        "correcta": 0,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "La mayoría de los niños comienza a dar pasos sin ayuda hacia los 12 meses."
+      },
+      {
+        "enunciado": "¿Qué hito motor grueso suele alcanzarse a los 10-11 meses?",
+        "opciones": ["Gatea", "Camina con ayuda", "Controla cabeza", "Se sienta con apoyo"],
+        "correcta": 1,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "Caminar con apoyo (pasos sujetándose a muebles o manos) aparece entre los 10-11 meses."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes hitos representa un desarrollo social a los 12 meses?",
+        "opciones": ["Risa social", "Sonríe al espejo", "Ansiedad de separación", "Control postural en sedestación"],
+        "correcta": 2,
+        "categorías": ["tema172", "desarrollo_psicomotor"],
+        "feedback": "La ansiedad de separación es una manifestación social y emocional típica hacia los 12 meses."
+      }
+      
+      
+]

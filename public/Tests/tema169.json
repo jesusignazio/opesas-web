@@ -1,0 +1,213 @@
+[
+    {
+        "enunciado": "¿A qué edad suele desaparecer el reflejo de Moro en el recién nacido?",
+        "opciones": ["1-2 meses", "3-4 meses", "6-9 meses", "12 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Moro aparece al nacer y desaparece entre los 3 y 4 meses, aunque puede persistir hasta los 6 meses."
+      },
+      {
+        "enunciado": "¿Cuál es el rango habitual de desaparición del reflejo de marcha automática?",
+        "opciones": ["A las 2 semanas", "A las 6 semanas", "A los 3 meses", "A los 6 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de marcha suele desaparecer sobre las 6 semanas, aunque puede persistir hasta los 3 meses."
+      },
+      {
+        "enunciado": "¿Cuándo suele desaparecer el reflejo de búsqueda (enraizamiento)?",
+        "opciones": ["Al mes de vida", "A los 2 meses", "A los 4 meses", "A los 6 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de búsqueda está presente al nacer y desaparece alrededor de los 4 meses."
+      },
+      {
+        "enunciado": "¿Cuál es la edad esperada de desaparición del reflejo plantar?",
+        "opciones": ["3-4 meses", "5-6 meses", "8-9 meses", "12 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo plantar suele desaparecer hacia los 5-6 meses."
+      },
+      {
+        "enunciado": "¿A qué edad se espera que desaparezca el reflejo de agarre palmar?",
+        "opciones": ["2 meses", "4 meses", "5-6 meses", "8 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de agarre palmar está presente desde el nacimiento y desaparece entre los 5 y 6 meses."
+      },
+      {
+        "enunciado": "¿Cuál es la edad aproximada de aparición del reflejo tónico del cuello simétrico?",
+        "opciones": ["Al nacimiento", "1 mes", "3 meses", "6-9 meses"],
+        "correcta": 3,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo tónico del cuello simétrico aparece entre los 6 y 9 meses de edad y se integra hacia los 12 meses."
+      },
+      {
+        "enunciado": "¿En qué momento suele aparecer el reflejo de Landau?",
+        "opciones": ["Nacimiento", "1 mes", "3-4 meses", "9 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Landau aparece entre los 3 y 4 meses y desaparece entre los 12 y 24 meses."
+      },
+      {
+        "enunciado": "¿A qué edad suele desaparecer el reflejo de Galant si el desarrollo es normal?",
+        "opciones": ["3 meses", "4-6 meses", "6-9 meses", "12 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Galant desaparece normalmente entre los 4 y 6 meses. Si persiste, puede indicar patología neurológica."
+      },
+      {
+        "enunciado": "¿Qué reflejo está presente desde las 28 semanas de gestación y desaparece hacia los 4 meses?",
+        "opciones": ["Reflejo plantar", "Reflejo de Moro", "Reflejo de búsqueda", "Reflejo de marcha"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de búsqueda (o enraizamiento) aparece a las 28 semanas de gestación y desaparece a los 4 meses."
+      },
+      {
+        "enunciado": "¿En qué rango de edad suele desaparecer el reflejo de Babinski en el lactante?",
+        "opciones": ["3-5 meses", "6-9 meses", "8-12 meses", "18 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Babinski puede estar presente hasta los 8-12 meses; su persistencia más allá puede indicar patología neurológica."
+      },
+      {
+        "enunciado": "¿Cuándo aparece el reflejo de Moro en el desarrollo del recién nacido?",
+        "opciones": ["Al nacimiento", "A las 6 semanas", "A los 3 meses", "A los 6 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Moro aparece al nacimiento y suele desaparecer entre los 3 y 4 meses."
+      },
+      {
+        "enunciado": "¿Cuál es la edad de aparición habitual del reflejo de búsqueda o enraizamiento?",
+        "opciones": ["28 semanas de gestación", "Al nacimiento", "1 mes", "3 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de búsqueda aparece ya en la vida intrauterina, en torno a las 28 semanas de gestación."
+      },
+      {
+        "enunciado": "¿Desde qué momento se puede observar el reflejo de succión en el recién nacido?",
+        "opciones": ["28 semanas de gestación", "Nacimiento", "1 mes", "3 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de succión está presente al nacimiento y es fundamental para la lactancia."
+      },
+      {
+        "enunciado": "¿Cuándo aparece típicamente el reflejo tónico del cuello asimétrico (postura de esgrima)?",
+        "opciones": ["Nacimiento", "1 mes", "3 meses", "6 meses"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "Este reflejo suele aparecer hacia el primer mes de vida y desaparece alrededor de los 4 meses."
+      },
+      {
+        "enunciado": "¿En qué momento se observa por primera vez el reflejo plantar en un recién nacido?",
+        "opciones": ["Desde el nacimiento", "A los 2 meses", "A los 5 meses", "A los 12 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo plantar aparece al nacimiento y desaparece sobre los 5-6 meses."
+      },
+      {
+        "enunciado": "¿Cuándo se desarrolla normalmente el reflejo tónico del cuello simétrico?",
+        "opciones": ["Al nacimiento", "3 meses", "6-9 meses", "12 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "Este reflejo aparece entre los 6 y 9 meses de vida y debe integrarse hacia los 12 meses."
+      },
+      {
+        "enunciado": "¿A qué edad aparece el reflejo de agarre palmar en un lactante sano?",
+        "opciones": ["Al nacimiento", "1 mes", "3 meses", "6 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de agarre palmar aparece desde el nacimiento y desaparece entre los 5 y 6 meses."
+      },
+      {
+        "enunciado": "¿Desde cuándo está presente el reflejo infantil de Galant?",
+        "opciones": ["Nacimiento", "2 semanas", "1 mes", "3 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Galant está presente desde el nacimiento y desaparece entre los 4 y 6 meses."
+      },
+      {
+        "enunciado": "¿En qué edad aparece el reflejo de Landau?",
+        "opciones": ["Al nacimiento", "1 mes", "3-4 meses", "9 meses"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Landau aparece hacia los 3-4 meses y se integra entre los 12 y 24 meses."
+      },
+      {
+        "enunciado": "¿Desde cuándo puede observarse el reflejo de marcha automática en un neonato?",
+        "opciones": ["Al nacimiento", "3 semanas", "6 semanas", "3 meses"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de marcha aparece desde el nacimiento y desaparece alrededor de las 6 semanas."
+      },
+      {
+        "enunciado": "El reflejo que se desencadena al girar la cabeza del lactante y provoca que el brazo del lado hacia el que gira se extienda mientras que el opuesto se flexiona, se llama:",
+        "opciones": ["Reflejo tónico del cuello asimétrico", "Reflejo de Moro", "Reflejo de Galant", "Reflejo de Landau"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo tónico del cuello asimétrico se conoce como postura de esgrima y aparece hacia el primer mes."
+      },
+      {
+        "enunciado": "El reflejo que se activa al acariciar la mejilla del bebé y provoca que gire la cabeza buscando el estímulo, se denomina:",
+        "opciones": ["Reflejo de succión", "Reflejo plantar", "Reflejo de búsqueda", "Reflejo de Galant"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de búsqueda o enraizamiento es clave para iniciar la lactancia."
+      },
+      {
+        "enunciado": "El reflejo en el que el bebé flexiona las extremidades superiores y extiende las inferiores al flexionar su cuello hacia delante es:",
+        "opciones": ["Reflejo tónico del cuello simétrico", "Reflejo tónico del cuello asimétrico", "Reflejo de Moro", "Reflejo de Babinski"],
+        "correcta": 0,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo tónico del cuello simétrico se relaciona con la posición de la cabeza y la postura de las extremidades."
+      },
+      {
+        "enunciado": "El reflejo que provoca la extensión de brazos seguida de flexión en respuesta a un sobresalto es:",
+        "opciones": ["Reflejo de Babinski", "Reflejo de Moro", "Reflejo de marcha", "Reflejo plantar"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Moro aparece al nacimiento y es un reflejo primitivo de sobresalto."
+      },
+      {
+        "enunciado": "El reflejo en el que el bebé hace movimientos de succión ante el contacto del paladar se llama:",
+        "opciones": ["Reflejo de Galant", "Reflejo plantar", "Reflejo de succión", "Reflejo de marcha"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de succión es esencial para la alimentación y aparece desde el nacimiento."
+      },
+      {
+        "enunciado": "El reflejo en el que el bebé mueve la columna hacia el lado estimulado al acariciar su espalda se llama:",
+        "opciones": ["Reflejo de Moro", "Reflejo de Galant", "Reflejo plantar", "Reflejo de Landau"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Galant está presente desde el nacimiento y ayuda a valorar la integridad neurológica."
+      },
+      {
+        "enunciado": "El reflejo que provoca que el bebé intente caminar al apoyar los pies sobre una superficie se denomina:",
+        "opciones": ["Reflejo plantar", "Reflejo de marcha", "Reflejo tónico del cuello simétrico", "Reflejo de Babinski"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de marcha aparece al nacimiento y simula la acción de caminar cuando se estimula la planta del pie."
+      },
+      {
+        "enunciado": "El reflejo que provoca la extensión del dedo gordo del pie y apertura en abanico de los otros dedos al estimular la planta del pie es:",
+        "opciones": ["Reflejo plantar", "Reflejo de Galant", "Reflejo de Babinski", "Reflejo de búsqueda"],
+        "correcta": 2,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Babinski es útil para valorar el desarrollo neurológico; es normal en bebés hasta los 8–12 meses."
+      },
+      {
+        "enunciado": "El reflejo que provoca que el bebé cierre la mano cuando se estimula la palma se llama:",
+        "opciones": ["Reflejo de Galant", "Reflejo de marcha", "Reflejo plantar", "Reflejo de agarre palmar"],
+        "correcta": 3,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de agarre palmar aparece al nacimiento y desaparece hacia los 5-6 meses."
+      },
+      {
+        "enunciado": "El reflejo en el que el bebé, colocado boca abajo sobre el brazo del adulto, extiende el tronco y eleva cabeza y extremidades se denomina:",
+        "opciones": ["Reflejo de Galant", "Reflejo de Landau", "Reflejo tónico del cuello simétrico", "Reflejo de Moro"],
+        "correcta": 1,
+        "categorías": ["tema169", "reflejos_arcaicos"],
+        "feedback": "El reflejo de Landau aparece a los 3-4 meses y refleja el desarrollo postural y neuromuscular."
+      }
+                  
+]

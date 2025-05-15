@@ -1,0 +1,233 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus, señale la respuesta INCORRECTA en relación al autoanálisis de glucemia capilar (AGC) en pacientes con DM tipo 2:",
+        "opciones": [
+          "Pacientes sin tratamiento farmacológico o con fármacos sin riesgo de hipoglucemia no requieren AGC de forma rutinaria.",
+          "Los pacientes con insulina basal y control estable deben realizar 1 control diario mediante AGC.",
+          "Durante el primer mes de inicio con insulina bifásica, se pueden indicar hasta 7 controles diarios mediante AGC.",
+          "Pacientes con sulfonilureas y control estable pueden requerir entre 1 y 3 controles semanales mediante AGC."
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "El límite de controles con insulina bifásica es de 3-4 al día. 7 controles/día solo se permiten en casos especiales."
+      },
+      {
+        "enunciado": "En relación al AGC según el PAI Diabetes Mellitus, indique la opción incorrecta:",
+        "opciones": [
+          "El uso de AGC puede estar indicado como herramienta educativa en pacientes sin fármacos.",
+          "Durante el primer mes con insulina basal, están indicados hasta 2-3 controles diarios.",
+          "Con insulina basal-bolo en control estable, se recomiendan 3-4 controles al día.",
+          "En pacientes con metformina e iDPP4, se recomiendan controles glucémicos diarios."
+        ],
+        "correcta": 3,
+        "categorías": ["tema157"],
+        "feedback": "Los fármacos como metformina e iDPP4 no tienen riesgo de hipoglucemias, por lo que no se indica AGC diario."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones justifica un AGC de hasta 7 controles al día según el PAI Diabetes Mellitus?",
+        "opciones": [
+          "Paciente en tratamiento solo con pioglitazona.",
+          "Inicio de insulina bifásica.",
+          "Control inestable con sulfonilureas.",
+          "Paciente con diabetes gestacional y terapia con insulina."
+        ],
+        "correcta": 3,
+        "categorías": ["tema157"],
+        "feedback": "La diabetes gestacional bajo insulina es una situación especial que justifica AGC intensivo (4-7/día)."
+      },
+      {
+        "enunciado": "Señale la opción incorrecta sobre el uso del AGC en pacientes con tratamiento no insulínico y sin riesgo de hipoglucemias:",
+        "opciones": [
+          "No está indicado el AGC de forma habitual.",
+          "Se pueden indicar hasta 7 determinaciones semanales con fin educativo.",
+          "Se recomienda AGC diario en pacientes mayores de 70 años.",
+          "El AGC puede considerarse al inicio del tratamiento como refuerzo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "La edad avanzada por sí sola no justifica AGC diario si no hay riesgo de hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tratamientos permite hasta 2-3 controles diarios de AGC durante el primer mes, según el PAI?",
+        "opciones": [
+          "Insulina basal",
+          "Insulina bifásica",
+          "Fármacos sin riesgo de hipoglucemia",
+          "Sulfonilureas con control estable"
+        ],
+        "correcta": 0,
+        "categorías": ["tema157"],
+        "feedback": "En el inicio de insulina basal, se permiten hasta 2-3 AGC/día durante el primer mes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estas situaciones NO justifica 4-7 controles/día de glucemia capilar?",
+        "opciones": [
+          "Paciente con diabetes tipo 1 en tratamiento con ISCI.",
+          "Paciente con diabetes gestacional en tratamiento con insulina.",
+          "Paciente con metformina y buen control glucémico.",
+          "Paciente insulinodependiente con descompensaciones frecuentes."
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "La metformina no produce hipoglucemias, por lo tanto, no requiere AGC intensivo."
+      },
+      {
+        "enunciado": "En el contexto del PAI Diabetes Mellitus, ¿qué pauta de AGC es INCORRECTA en pacientes con DM2 y tratamiento con insulina basal en control estable?",
+        "opciones": [
+          "1 control/día",
+          "2 controles/día",
+          "Hasta 2-3 controles/día si el control es inestable",
+          "3-4 controles/día al inicio del tratamiento con insulina basal-bolo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "En control estable con insulina basal, solo se recomienda 1 control/día."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes fármacos NO requiere controles rutinarios de glucemia capilar en pacientes con buen control?",
+        "opciones": [
+          "Metformina",
+          "Empagliflozina",
+          "Insulina bifásica",
+          "Pioglitazona"
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "La insulina bifásica sí requiere controles diarios, incluso en control estable."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el número MÁXIMO de controles diarios indicados al inicio del tratamiento con insulina bifásica?",
+        "opciones": ["2", "3", "4", "7"],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "En fase de inicio con bifásicas, se permiten hasta 3-4 controles/día."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pacientes SÍ debe realizar entre 1 y 3 controles semanales de AGC?",
+        "opciones": [
+          "Paciente con pioglitazona y sin hipoglucemias",
+          "Paciente con gliclazida y control estable",
+          "Paciente con liraglutida y normoglucemia",
+          "Paciente sin tratamiento farmacológico"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "Las sulfonilureas como gliclazida pueden producir hipoglucemias incluso en control estable."
+      },
+      {
+        "enunciado": "¿Qué afirmación es FALSA respecto a la indicación de AGC en pacientes con DM2 según el PAI?",
+        "opciones": [
+          "Con insulina basal-bolo pueden indicarse hasta 4-7 controles diarios.",
+          "En situaciones especiales se permite prescripción individualizada de AGC.",
+          "Con tratamiento con iDPP-4 sin riesgo de hipoglucemia se requiere AGC diario.",
+          "En sulfonilureas, el número de controles puede ajustarse según el control glucémico."
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "Los iDPP-4 no requieren AGC diario por no provocar hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes perfiles requiere AGC de 4 a 7 veces al día según el PAI?",
+        "opciones": [
+          "Paciente con insulina basal en control estable",
+          "Paciente con ISCI",
+          "Paciente con pioglitazona",
+          "Paciente tratado solo con metformina"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "ISCI (infusión subcutánea continua de insulina) requiere control intensivo individualizado."
+      },
+      {
+        "enunciado": "En pacientes con DM2 que inician tratamiento con insulina basal, ¿cuál es el número máximo de controles diarios permitidos el primer mes?",
+        "opciones": ["1", "2", "3", "7"],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "Durante el primer mes pueden indicarse hasta 2-3 controles diarios con insulina basal."
+      },
+      {
+        "enunciado": "Según el PAI, ¿cuál de estos tratamientos puede necesitar hasta 7 controles semanales solo como herramienta educativa?",
+        "opciones": [
+          "Metformina",
+          "Sulfonilureas",
+          "Insulina bifásica",
+          "iSGLT2"
+        ],
+        "correcta": 0,
+        "categorías": ["tema157"],
+        "feedback": "En tratamientos sin riesgo de hipoglucemia, como metformina, se permite AGC educativo."
+      },
+      {
+        "enunciado": "¿Qué afirmación es CORRECTA sobre AGC según el PAI?",
+        "opciones": [
+          "Insulina basal siempre requiere 4 controles diarios",
+          "Sin tratamiento farmacológico no se permite AGC bajo ningún concepto",
+          "Durante el inicio con sulfonilureas puede indicarse AGC intensivo durante 1 mes",
+          "Insulina rápida en pacientes sin complicaciones no necesita AGC"
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "El inicio de sulfonilureas permite hasta 7 controles/semana como máximo durante un mes."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pacientes NO tiene indicación de AGC diario en control estable según el PAI?",
+        "opciones": [
+          "Paciente con insulina basal",
+          "Paciente con insulina bifásica",
+          "Paciente con insulina rápida",
+          "Paciente con inhibidores de la DPP-4"
+        ],
+        "correcta": 3,
+        "categorías": ["tema157"],
+        "feedback": "Los iDPP-4 no requieren AGC diario salvo en situaciones excepcionales."
+      },
+      {
+        "enunciado": "¿Qué pauta de AGC está indicada en un paciente con DM2, sin insulina, y con gliclazida en control estable?",
+        "opciones": [
+          "Ningún control semanal",
+          "1-3 controles por semana",
+          "1 control al día",
+          "4-7 controles al día"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "En pacientes con fármacos no insulínicos y riesgo de hipoglucemias se indica 1-3 controles semanales."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un criterio para AGC individualizado (4-7/día)?",
+        "opciones": [
+          "DM tipo 1 en ISCI",
+          "Diabetes gestacional con insulina",
+          "Paciente con pioglitazona y buen control",
+          "Trabajador de riesgo con insulinoterapia"
+        ],
+        "correcta": 2,
+        "categorías": ["tema157"],
+        "feedback": "La pioglitazona no conlleva riesgo de hipoglucemia, por lo que no justifica AGC diario intensivo."
+      },
+      {
+        "enunciado": "En el contexto del PAI, ¿cuál de estos fármacos justificaría controles glucémicos diarios al inicio del tratamiento?",
+        "opciones": [
+          "Sitagliptina",
+          "Glibenclamida",
+          "Empagliflozina",
+          "Acarbosa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "Las sulfonilureas como glibenclamida tienen riesgo de hipoglucemia y requieren AGC al inicio."
+      },
+      {
+        "enunciado": "¿Qué recomendación es INCORRECTA respecto al uso del AGC en el inicio de tratamiento con insulina basal-bolo?",
+        "opciones": [
+          "Se permiten hasta 4-7 controles diarios",
+          "Se requiere prescripción individualizada en todos los casos",
+          "Es una de las pautas con mayor necesidad de control",
+          "Es útil para ajustar dosis de insulina rápida"
+        ],
+        "correcta": 1,
+        "categorías": ["tema157"],
+        "feedback": "No siempre se requiere prescripción individualizada; en este esquema ya se prevé AGC intensivo."
+      }
+            
+]

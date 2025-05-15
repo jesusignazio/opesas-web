@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes definiciones corresponde a la amenorrea?",
+        "opciones": ["Sangrado menstrual doloroso", "Ausencia de menstruación durante al menos 3 ciclos consecutivos", "Menstruaciones frecuentes, con ciclos menores de 21 días", "Sangrado menstrual excesivo en cantidad o duración"],
+        "correcta": 1,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "Amenorrea es la ausencia de menstruación durante al menos 3 ciclos o más de 90 días."
+      },
+      {
+        "enunciado": "¿Qué término se emplea para describir la aparición de menstruaciones con una frecuencia mayor de lo normal (ciclos <21 días)?",
+        "opciones": ["Dismenorrea", "Polimenorrea", "Oligomenorrea", "Hipermenorrea"],
+        "correcta": 1,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "Polimenorrea se refiere a ciclos menstruales cortos, es decir, menstruaciones demasiado frecuentes."
+      },
+      {
+        "enunciado": "¿Qué se entiende por dismenorrea?",
+        "opciones": ["Sangrado menstrual escaso", "Dolor asociado a la menstruación", "Ausencia de ovulación", "Menstruación en mujeres postmenopáusicas"],
+        "correcta": 1,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "La dismenorrea es el dolor pélvico o abdominal asociado al sangrado menstrual, especialmente en los primeros días del ciclo."
+      },
+      {
+        "enunciado": "La polimenorrea se caracteriza por:",
+        "opciones": ["Ciclos menstruales prolongados (>35 días)", "Ausencia completa de menstruación", "Menstruaciones frecuentes con ciclos <21 días", "Sangrados intermenstruales sin patrón definido"],
+        "correcta": 2,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "En la polimenorrea, el intervalo entre reglas es inferior a 21 días, aumentando la frecuencia menstrual."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes condiciones puede considerarse una dismenorrea secundaria?",
+        "opciones": ["Menstruación dolorosa sin patología aparente", "Dolor menstrual debido a endometriosis", "Dolor ovulatorio fisiológico", "Ausencia de menstruación por estrés"],
+        "correcta": 1,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "La dismenorrea secundaria suele estar causada por una patología subyacente como endometriosis o adenomiosis."
+      },
+      {
+        "enunciado": "La amenorrea secundaria se define como:",
+        "opciones": ["Ausencia de menarquia en mujeres mayores de 18 años", "Dolor persistente tras la menstruación", "Ausencia de menstruación durante al menos 3 ciclos consecutivos tras haber tenido ciclos previos", "Reglas irregulares durante más de 6 meses"],
+        "correcta": 2,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "La amenorrea secundaria es la desaparición de la menstruación en una mujer que ya había menstruado previamente."
+      },
+      {
+        "enunciado": "¿Qué término describe ciclos menstruales infrecuentes, con una duración mayor de 35 días entre menstruaciones?",
+        "opciones": ["Hipomenorrea", "Polimenorrea", "Oligomenorrea", "Amenorrea"],
+        "correcta": 2,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "La oligomenorrea corresponde a menstruaciones poco frecuentes, con ciclos menstruales >35 días."
+      },
+      {
+        "enunciado": "Una paciente consulta por sangrado menstrual escaso y de corta duración. ¿Cuál es el término médico que mejor lo describe?",
+        "opciones": ["Hipermenorrea", "Polimenorrea", "Hipomenorrea", "Metrorragia"],
+        "correcta": 2,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "Hipomenorrea hace referencia a menstruaciones con sangrado escaso o de duración reducida."
+      },
+      {
+        "enunciado": "La dismenorrea primaria suele aparecer:",
+        "opciones": ["Desde la menarquia, sin patología ginecológica subyacente", "En mujeres mayores de 40 años", "Solo en ciclos anovulatorios", "Después de un embarazo"],
+        "correcta": 0,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "La dismenorrea primaria suele comenzar en la adolescencia, sin enfermedad ginecológica identificable."
+      },
+      {
+        "enunciado": "Una paciente presenta reglas cada 18 días. ¿Cuál es el diagnóstico más probable?",
+        "opciones": ["Oligomenorrea", "Amenorrea", "Polimenorrea", "Dismenorrea"],
+        "correcta": 2,
+        "categorías": ["tema166", "ciclo_menstrual"],
+        "feedback": "Un ciclo menstrual de menos de 21 días se considera polimenorrea."
+      }
+      
+]

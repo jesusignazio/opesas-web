@@ -208,5 +208,40 @@
       "correcta": 1,
       "categorías": ["tema128", "validez_pruebas"],
       "feedback": "Un VPN alto es útil para descartar enfermedad, especialmente en escenarios de baja prevalencia."
-    } 
+    },
+    {
+      "enunciado": "Cuando hablamos de la probabilidad de que la prueba diagnóstica realizada a un paciente dé positiva si la condición de estudio está presente, o de la proporción de verdaderos positivos respecto al total de enfermos, nos referimos a:",
+      "opciones": ["Sensibilidad", "Especificidad", "Valor predictivo negativo", "Valor predictivo positivo"],
+      "correcta": 0,
+      "categorías": ["tema128"],
+      "feedback": "La sensibilidad mide la proporción de verdaderos positivos entre todos los enfermos reales."
+    },
+    {
+      "enunciado": "¿Qué parámetro mide la capacidad de una prueba diagnóstica para identificar correctamente a quienes NO tienen la enfermedad?",
+      "opciones": ["Sensibilidad", "Especificidad", "Valor predictivo positivo", "Prevalencia"],
+      "correcta": 1,
+      "categorías": ["tema128"],
+      "feedback": "La especificidad representa la proporción de verdaderos negativos entre todos los sanos."
+    },
+    {
+      "enunciado": "¿Cuál es la probabilidad de que un individuo con una prueba diagnóstica positiva realmente tenga la enfermedad?",
+      "opciones": ["Valor predictivo negativo", "Sensibilidad", "Valor predictivo positivo", "Razón de verosimilitud positiva"],
+      "correcta": 2,
+      "categorías": ["tema128"],
+      "feedback": "El valor predictivo positivo (VPP) estima la probabilidad de enfermedad ante un resultado positivo."
+    },
+    {
+      "enunciado": "¿Qué medida expresa la probabilidad de que una persona con resultado negativo esté realmente sana?",
+      "opciones": ["Sensibilidad", "Valor predictivo negativo", "Especificidad", "Odds ratio"],
+      "correcta": 1,
+      "categorías": ["tema128"],
+      "feedback": "El valor predictivo negativo (VPN) mide la proporción de verdaderos negativos entre todos los negativos."
+    },
+    {
+      "enunciado": "¿Qué medida compara la probabilidad de exposición en los casos respecto a los controles en estudios observacionales?",
+      "opciones": ["Odds ratio", "Sensibilidad", "Valor predictivo positivo", "Riesgo relativo"],
+      "correcta": 0,
+      "categorías": ["tema128"],
+      "feedback": "El odds ratio se utiliza principalmente en estudios de casos y controles para estimar la fuerza de asociación."
+    }    
 ]

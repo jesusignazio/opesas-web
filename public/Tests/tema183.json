@@ -1,0 +1,120 @@
+[
+    {
+        "enunciado": "¿Cuál es la etapa del proceso enfermero en la que se determinan los resultados deseados e identifican las intervenciones para lograrlos?",
+        "opciones": ["Evaluación", "Planificación", "Diagnóstico", "Ejecución"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "En la etapa de planificación se formulan los objetivos y se seleccionan las intervenciones necesarias para alcanzarlos."
+      },
+      {
+        "enunciado": "¿En qué fase del proceso enfermero se recopilan datos subjetivos y objetivos del paciente?",
+        "opciones": ["Diagnóstico", "Evaluación", "Valoración", "Ejecución"],
+        "correcta": 2,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La valoración es la primera etapa del proceso enfermero, donde se recopila información relevante para identificar necesidades."
+      },
+      {
+        "enunciado": "Durante el proceso enfermero, ¿cuál es la fase en la que se ponen en práctica las intervenciones previamente planificadas?",
+        "opciones": ["Planificación", "Diagnóstico", "Ejecución", "Evaluación"],
+        "correcta": 2,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La ejecución consiste en implementar las intervenciones enfermeras para alcanzar los objetivos planteados."
+      },
+      {
+        "enunciado": "¿Qué fase del proceso enfermero permite valorar si se han logrado los objetivos planteados?",
+        "opciones": ["Evaluación", "Planificación", "Ejecución", "Diagnóstico"],
+        "correcta": 0,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La evaluación es la última etapa y sirve para analizar la eficacia del plan de cuidados."
+      },
+      {
+        "enunciado": "¿En qué fase del proceso enfermero se identifican los problemas de salud y se formulan los diagnósticos enfermeros?",
+        "opciones": ["Valoración", "Diagnóstico", "Evaluación", "Planificación"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "En la fase de diagnóstico se analizan los datos recogidos y se determina el juicio clínico enfermero."
+      },
+      {
+        "enunciado": "¿Cuál es el orden correcto de las etapas del proceso enfermero?",
+        "opciones": ["Diagnóstico, Valoración, Ejecución, Evaluación, Planificación", "Valoración, Diagnóstico, Planificación, Ejecución, Evaluación", "Planificación, Diagnóstico, Valoración, Ejecución, Evaluación", "Valoración, Planificación, Diagnóstico, Ejecución, Evaluación"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "El proceso enfermero consta de cinco etapas: valoración, diagnóstico, planificación, ejecución y evaluación."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones se refiere a una actividad propia de la fase de diagnóstico enfermero?",
+        "opciones": ["Identificar signos y síntomas", "Determinar la efectividad de una intervención", "Establecer los resultados esperados", "Elaborar los planes de alta"],
+        "correcta": 0,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "En la fase diagnóstica se analizan los signos y síntomas recogidos para formular los diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "¿Qué acción corresponde a la fase de planificación del proceso enfermero?",
+        "opciones": ["Observar la respuesta del paciente a la medicación", "Redactar objetivos específicos y medibles", "Obtener antecedentes médicos", "Recoger signos vitales"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "Durante la planificación se redactan los objetivos y se seleccionan intervenciones específicas para cada diagnóstico."
+      },
+      {
+        "enunciado": "¿Qué fase del proceso enfermero implica comparar la respuesta del paciente con los objetivos establecidos?",
+        "opciones": ["Diagnóstico", "Planificación", "Evaluación", "Ejecución"],
+        "correcta": 2,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La evaluación permite determinar si las intervenciones han sido eficaces o si es necesario modificar el plan de cuidados."
+      },
+      {
+        "enunciado": "Durante la fase de ejecución del proceso enfermero, ¿qué actividad se lleva a cabo?",
+        "opciones": ["Definir los problemas", "Implementar las intervenciones", "Medir el logro de los objetivos", "Recolectar datos de salud"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La ejecución implica llevar a cabo las intervenciones planificadas para alcanzar los resultados esperados."
+      },
+      {
+        "enunciado": "¿Cuáles son las etapas del proceso enfermero en el orden correcto?",
+        "opciones": [
+          "Valoración, Diagnóstico, Planificación, Ejecución y Evaluación",
+          "Diagnóstico, Planificación, Valoración, Ejecución y Evaluación",
+          "Valoración, Planificación, Diagnóstico, Evaluación y Ejecución",
+          "Evaluación, Diagnóstico, Ejecución, Planificación y Valoración"
+        ],
+        "correcta": 0,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "El proceso enfermero se compone de cinco etapas ordenadas: valoración, diagnóstico, planificación, ejecución y evaluación."
+      },
+      {
+        "enunciado": "¿Cuántas etapas conforman el proceso enfermero?",
+        "opciones": ["Cuatro", "Cinco", "Seis", "Siete"],
+        "correcta": 1,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "El proceso enfermero consta de cinco etapas: valoración, diagnóstico, planificación, ejecución y evaluación."
+      },
+      {
+        "enunciado": "¿Qué nombre recibe la primera etapa del proceso enfermero?",
+        "opciones": ["Planificación", "Diagnóstico", "Evaluación", "Valoración"],
+        "correcta": 3,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "La valoración es la primera etapa y consiste en recoger datos del estado de salud del paciente."
+      },
+      {
+        "enunciado": "¿Cuál de estas NO es una etapa del proceso enfermero?",
+        "opciones": ["Diagnóstico", "Ejecución", "Supervisión", "Evaluación"],
+        "correcta": 2,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "Supervisión no forma parte de las cinco etapas del proceso enfermero: valoración, diagnóstico, planificación, ejecución y evaluación."
+      },
+      {
+        "enunciado": "¿En qué etapa del proceso enfermero se decide si mantener, modificar o finalizar el plan de cuidados?",
+        "opciones": ["Diagnóstico", "Ejecución", "Evaluación", "Planificación"],
+        "correcta": 2,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "En la evaluación se analiza la respuesta del paciente y se decide mantener, modificar o concluir el plan."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes actividades corresponde a la fase de valoración?",
+        "opciones": ["Recoger datos subjetivos y objetivos", "Elaborar diagnósticos", "Indicar intervenciones", "Evaluar la eficacia del plan"],
+        "correcta": 0,
+        "categorías": ["tema183", "proceso_enfermero"],
+        "feedback": "Durante la valoración se recopila toda la información necesaria para identificar las necesidades del paciente."
+      }
+                       
+]

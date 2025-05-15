@@ -1,0 +1,143 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes ítems se valora en la escala de Braden?",
+        "opciones": ["Percepción sensorial", "Adherencia al tratamiento", "Capacidad de comunicación", "Función respiratoria"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La percepción sensorial es uno de los 6 ítems de la escala de Braden."
+      },
+      {
+        "enunciado": "¿Qué aspecto funcional valora la escala de Braden?",
+        "opciones": ["Capacidad para alimentarse", "Estado emocional", "Movilidad", "Dolor crónico"],
+        "correcta": 2,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La movilidad es uno de los componentes esenciales en la escala de Braden."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte de la escala de Braden?",
+        "opciones": ["Nivel de ansiedad", "Exposición a la humedad", "Control de glucemia", "Autonomía en el aseo"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La humedad es uno de los factores evaluados, ya que influye en el riesgo de UPP."
+      },
+      {
+        "enunciado": "¿Qué elemento se incluye en la evaluación de la escala de Braden?",
+        "opciones": ["Consumo calórico semanal", "Nutrición", "Participación en actividades sociales", "Nivel de colaboración familiar"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La nutrición es un ítem de la escala porque incide directamente en la integridad cutánea."
+      },
+      {
+        "enunciado": "¿Qué factor analiza la escala de Braden?",
+        "opciones": ["Estado inmunológico", "Exposición al sol", "Actividad física", "Capacidad cognitiva"],
+        "correcta": 2,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La actividad física (grado de movilización espontánea) es uno de los ítems clave."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems pertenece a la escala de Braden?",
+        "opciones": ["Fricción y cizalla", "Estado del sistema digestivo", "Control vesical", "Saturación de oxígeno"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La fricción y cizalla se valora por su influencia en el daño cutáneo."
+      },
+      {
+        "enunciado": "¿Qué ítem se tiene en cuenta en la escala de Braden para estimar el riesgo de UPP?",
+        "opciones": ["Índice de masa corporal", "Estado nutricional", "Tolerancia a la medicación", "Frecuencia cardíaca"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "El estado nutricional es fundamental para la prevención de úlceras por presión."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes variables se evalúa explícitamente en la escala de Braden?",
+        "opciones": ["Actividad", "Autoestima", "Capacidad de expresión verbal", "Orientación temporal"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La actividad es uno de los 6 ítems de la escala Braden."
+      },
+      {
+        "enunciado": "En la escala de Braden, ¿qué componente se analiza?",
+        "opciones": ["Estado visual", "Capacidad auditiva", "Humedad de la piel", "Capacidad de razonamiento"],
+        "correcta": 2,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La humedad cutánea se evalúa por su relación directa con el riesgo de UPP."
+      },
+      {
+        "enunciado": "¿Qué dimensión se incluye en la escala de Braden?",
+        "opciones": ["Fricción y cizalla", "Autocuidado avanzado", "Desempeño social", "Estado afectivo"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "Fricción y cizalla es el sexto ítem evaluado en la escala de Braden."
+      },
+      {
+        "enunciado": "¿Qué componente forma parte de la escala de Braden?",
+        "opciones": ["Nivel de ansiedad", "Humedad", "Capacidad respiratoria", "Comunicación verbal"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La humedad es uno de los seis ítems evaluados en la escala de Braden."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems se valora específicamente en la escala de Braden?",
+        "opciones": ["Riesgo cardiovascular", "Nutrición", "Capacidad de socialización", "Control emocional"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La nutrición es clave para valorar el riesgo de aparición de úlceras por presión."
+      },
+      {
+        "enunciado": "¿Qué dimensión funcional se incluye en la escala de Braden?",
+        "opciones": ["Nivel de actividad", "Memoria reciente", "Visión binocular", "Estado inmunológico"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La actividad (nivel de movimiento habitual) es uno de los ítems del Braden."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes aspectos se evalúa en Braden para estimar riesgo de UPP?",
+        "opciones": ["Adherencia terapéutica", "Percepción sensorial", "Autonomía económica", "Comunicación escrita"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La percepción sensorial se valora por su influencia en la detección del malestar o presión."
+      },
+      {
+        "enunciado": "¿Qué aspecto se contempla dentro de la escala de Braden?",
+        "opciones": ["Índice de masa corporal", "Fricción y cizalla", "Capacidad visual", "Nivel educativo"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "Fricción y cizalla es el sexto ítem valorado por su relación con daño dérmico directo."
+      },
+      {
+        "enunciado": "¿Qué se incluye como ítem en la escala de Braden?",
+        "opciones": ["Frecuencia urinaria", "Humedad cutánea", "Tiempo de sueño", "Tensión arterial sistólica"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La humedad cutánea es un factor que favorece la aparición de úlceras por presión."
+      },
+      {
+        "enunciado": "¿Qué ítem valora la escala de Braden directamente?",
+        "opciones": ["Estado del ánimo", "Grado de movilidad", "Consumo de líquidos", "Concentración de oxígeno"],
+        "correcta": 1,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La movilidad es esencial en la escala, al determinar el riesgo de presión mantenida."
+      },
+      {
+        "enunciado": "¿Qué indicador aparece en la escala de Braden?",
+        "opciones": ["Actividad física", "Tiempo de lectura", "Capacidad para cocinar", "Evaluación dental"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "El nivel de actividad física habitual es un indicador clave en la escala Braden."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems NO pertenece a la escala de Braden?",
+        "opciones": ["Percepción sensorial", "Fricción y cizalla", "Participación familiar", "Actividad"],
+        "correcta": 2,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "Participación familiar no forma parte de los seis ítems evaluados en la escala."
+      },
+      {
+        "enunciado": "¿Qué aspecto se incluye en la escala Braden para prevenir UPP?",
+        "opciones": ["Movilidad", "Control metabólico", "Estado vacunal", "Comprensión lectora"],
+        "correcta": 0,
+        "categorías": ["tema162", "braden_items"],
+        "feedback": "La movilidad es un factor directamente implicado en el riesgo de UPP y se valora en Braden."
+      }
+            
+]

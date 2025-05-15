@@ -1,0 +1,479 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué momento del embarazo debe realizarse el cribado universal de diabetes gestacional en mujeres sin factores de riesgo previos?",
+        "opciones": ["En la primera visita", "Entre las semanas 20 y 22", "Entre las semanas 24 y 28", "En el tercer trimestre"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El cribado universal de DMG debe realizarse entre las semanas 24 y 28 de gestación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué resultado en el Test de O’Sullivan requiere realizar una SOG con 100 g?",
+        "opciones": ["≥ 120 mg/dl", "≥ 126 mg/dl", "≥ 140 mg/dl", "≥ 200 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Un resultado igual o superior a 140 mg/dl en el Test de O’Sullivan se considera positivo y requiere SOG de 100 g."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué acción debe tomarse si una mujer embarazada con cribado positivo en el primer trimestre tiene una SOG normal?",
+        "opciones": [
+          "Realizar otra SOG en el segundo trimestre",
+          "Repetir el Test de O’Sullivan en la semana 32",
+          "Derivar a endocrinología directamente",
+          "No realizar más pruebas si la paciente es normopeso"
+        ],
+        "correcta": 0,
+        "categorías": ["tema151"],
+        "feedback": "Si la SOG es normal tras un cribado positivo en el primer trimestre, debe repetirse la SOG entre las semanas 24-28."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuántos valores alterados se requieren en la SOG de 100 g para diagnosticar diabetes gestacional?",
+        "opciones": ["Uno", "Dos", "Tres", "Cuatro"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Se requieren al menos dos valores por encima del umbral para confirmar el diagnóstico de DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el valor umbral diagnóstico para la glucemia a las 2 horas tras SOG con 100 g de glucosa?",
+        "opciones": ["≥ 160 mg/dl", "≥ 165 mg/dl", "≥ 170 mg/dl", "≥ 180 mg/dl"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "El valor diagnóstico a las 2 h de la SOG de 100 g es ≥ 165 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes situaciones no requiere cribado precoz de diabetes gestacional en la primera visita?",
+        "opciones": [
+          "IMC ≥ 30 kg/m²",
+          "Antecedentes de diabetes gestacional",
+          "Macrosomía fetal previa",
+          "Edad materna < 25 años sin antecedentes"
+        ],
+        "correcta": 3,
+        "categorías": ["tema151"],
+        "feedback": "Una edad joven sin otros factores no justifica cribado precoz."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué prueba diagnóstica está desaconsejada para detectar DMG?",
+        "opciones": ["SOG de 100 g", "Glucemia basal ≥ 126 mg/dl", "HbA1c capilar", "Glucemia ocasional ≥ 200 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La HbA1c capilar no se recomienda como prueba de diagnóstico de DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, en gestantes con cribado negativo pero macrosomía fetal posterior, ¿cuál es la indicación?",
+        "opciones": [
+          "Solicitar HbA1c capilar",
+          "Realizar directamente una SOG",
+          "Repetir el Test de O’Sullivan",
+          "Esperar a la aparición de síntomas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Ante signos clínicos fetales como macrosomía, se debe proceder directamente a una SOG para diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué valor de glucemia basal en dos ocasiones permite el diagnóstico de DMG sin SOG?",
+        "opciones": ["≥ 105 mg/dl", "≥ 110 mg/dl", "≥ 120 mg/dl", "≥ 126 mg/dl"],
+        "correcta": 3,
+        "categorías": ["tema151"],
+        "feedback": "Una glucemia basal ≥ 126 mg/dl en dos ocasiones es criterio diagnóstico de DMG sin necesidad de SOG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué valor de glucemia a las 3 horas en la SOG de 100 g se considera diagnóstico?",
+        "opciones": ["≥ 130 mg/dl", "≥ 135 mg/dl", "≥ 145 mg/dl", "≥ 155 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El valor diagnóstico de la glucemia a las 3 horas en la SOG es ≥ 145 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes valores a la 1.ª hora de una SOG con 100 g es diagnóstico de DMG?",
+        "opciones": ["≥ 180 mg/dl", "≥ 185 mg/dl", "≥ 190 mg/dl", "≥ 200 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El umbral diagnóstico a la 1.ª hora en la SOG es ≥ 190 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes pruebas puede evitarse si se detecta glucemia basal ≥ 126 mg/dl en dos ocasiones?",
+        "opciones": ["Test de O’Sullivan", "SOG de 100 g", "HbA1c capilar", "Repetición del cribado en segundo trimestre"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Si la glucemia basal es ≥ 126 mg/dl en dos ocasiones, no es necesario realizar la SOG para confirmar el diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en cuál de los siguientes casos estaría indicado realizar directamente una SOG en el tercer trimestre?",
+        "opciones": [
+          "Cribado negativo y ganancia de peso materna elevada",
+          "Cribado negativo y presencia de macrosomía fetal",
+          "Cribado negativo y anemia gestacional",
+          "Cribado negativo y embarazo múltiple"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "La macrosomía fetal o polihidramnios en el tercer trimestre justifica una SOG directa aunque el cribado fuera negativo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la principal razón por la que se desaconseja el uso de HbA1c capilar en el cribado de DMG?",
+        "opciones": [
+          "No detecta hipoglucemias",
+          "Tiene menor precisión en gestantes",
+          "No está estandarizada para embarazo",
+          "No refleja la glucemia postprandial"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La HbA1c capilar no está estandarizada ni validada para el diagnóstico de DMG, según NICE y el PAI."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes parámetros NO forma parte de la SOG de 100 g para diagnóstico de DMG?",
+        "opciones": ["Glucemia basal", "Glucemia a los 60 minutos", "Glucemia a los 90 minutos", "Glucemia a los 180 minutos"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "En la SOG de 100 g se miden la glucemia basal, a 1h, 2h y 3h. No se incluye la medición a los 90 minutos."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la secuencia correcta ante una gestante con resultado de 145 mg/dl en el Test de O’Sullivan?",
+        "opciones": [
+          "Realizar SOG de 75 g",
+          "Solicitar HbA1c capilar",
+          "Realizar SOG de 100 g",
+          "Confirmar con glucemia basal en ayunas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Un valor ≥ 140 mg/dl en el Test de O’Sullivan requiere realizar una SOG de 100 g para confirmar o descartar DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué medida debe acompañar a la indicación de SOG en gestantes?",
+        "opciones": [
+          "Administrar suero glucosado previo a la prueba",
+          "Realizar control capilar diario desde ese momento",
+          "Proporcionar recomendaciones dietéticas previas",
+          "Restringir la actividad física 48 horas antes"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La paciente debe recibir información y recomendaciones nutricionales antes de realizar la SOG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué afirmación sobre el Test de O’Sullivan es correcta?",
+        "opciones": [
+          "Debe realizarse siempre en ayunas",
+          "Utiliza 75 g de glucosa anhidra",
+          "Se considera cribado universal entre las semanas 24-28",
+          "Solo se aplica en mujeres con factores de riesgo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan es la prueba de cribado universal recomendada entre las semanas 24-28 de gestación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué umbral de glucemia a las 3 horas en la SOG con 100 g es compatible con DMG?",
+        "opciones": ["≥ 130 mg/dl", "≥ 140 mg/dl", "≥ 145 mg/dl", "≥ 150 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El valor de referencia para la glucemia a las 3 horas en la SOG es ≥ 145 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué pauta está indicada si una gestante en primer trimestre tiene glucemia basal alterada y TAG?",
+        "opciones": [
+          "Esperar al segundo trimestre para el cribado universal",
+          "Realizar directamente la SOG de 100 g",
+          "Solicitar HbA1c y repetir glucemia en tercer trimestre",
+          "Derivar a endocrinología sin pruebas previas"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "En presencia de GBA/TAG en el primer trimestre, se realiza directamente la SOG de 100 g."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué cantidad de glucosa se administra en el Test de O’Sullivan?",
+        "opciones": ["50 gramos de glucosa anhidra", "75 gramos de glucosa anhidra", "100 gramos de glucosa anhidra", "1,75 g/kg de peso corporal"],
+        "correcta": 0,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan se realiza con 50 g de glucosa, sin necesidad de ayuno previo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes valores no se considera criterio diagnóstico de DMG en la SOG de 100 g?",
+        "opciones": ["Glucemia basal ≥ 105 mg/dl", "Glucemia a 1 h ≥ 190 mg/dl", "Glucemia a 2 h ≥ 160 mg/dl", "Glucemia a 3 h ≥ 145 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El umbral a las 2 horas es ≥ 165 mg/dl, no 160 mg/dl; por tanto, 160 mg/dl no cumple criterio diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en cuál de estas circunstancias se debe repetir la SOG en el segundo trimestre?",
+        "opciones": [
+          "Cribado negativo y peso fetal percentil 10",
+          "Cribado positivo en primer trimestre con SOG normal",
+          "Test de O’Sullivan < 140 mg/dl",
+          "Cribado positivo y HbA1c capilar < 6%"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Si el cribado precoz es positivo pero la SOG inicial es normal, se repite la SOG entre las semanas 24-28."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la interpretación correcta de una glucemia de 138 mg/dl en el Test de O’Sullivan?",
+        "opciones": [
+          "Resultado positivo, requiere SOG inmediata",
+          "Resultado negativo, no se realiza SOG",
+          "Resultado dudoso, repetir en 2 semanas",
+          "Resultado diagnóstico de DMG"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Un valor < 140 mg/dl en el Test de O’Sullivan se considera negativo y no requiere otras pruebas."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué caso puede diagnosticarse DMG sin realizar una SOG?",
+        "opciones": [
+          "HbA1c ≥ 6,5%",
+          "Glucemia al azar ≥ 160 mg/dl",
+          "Glucemia basal ≥ 126 mg/dl en dos ocasiones",
+          "Test de O’Sullivan ≥ 200 mg/dl"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Dos glucemias basales ≥ 126 mg/dl permiten diagnosticar DMG sin necesidad de SOG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, en la SOG con 100 g, ¿cuándo se considera el resultado positivo para diagnóstico de DMG?",
+        "opciones": [
+          "Cuando un valor supera el umbral",
+          "Cuando al menos dos valores están por encima del umbral",
+          "Cuando la glucemia basal supera los 120 mg/dl",
+          "Solo si los valores a 1 h y 2 h son patológicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Se requieren al menos dos valores alterados en la SOG para confirmar el diagnóstico de diabetes gestacional."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué situaciones se recomienda realizar cribado precoz de DMG en la primera visita?",
+        "opciones": [
+          "Edad > 30 años sin otros factores",
+          "Ganancia ponderal acelerada en el primer trimestre",
+          "IMC ≥ 30, antecedentes de DMG o hijo macrosómico",
+          "Presencia de náuseas intensas y vómitos persistentes"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El cribado precoz está indicado si hay factores como IMC ≥ 30, antecedentes de DMG o macrosomía fetal previa."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué se debe hacer si una gestante presenta polihidramnios y tenía un Test de O’Sullivan negativo?",
+        "opciones": [
+          "Repetir el Test de O’Sullivan",
+          "Realizar directamente una SOG",
+          "Solicitar HbA1c en suero",
+          "Controlar la dieta y repetir la glucemia basal"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Ante signos clínicos atribuibles a DMG como polihidramnios, debe realizarse directamente una SOG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes afirmaciones sobre el Test de O’Sullivan es correcta?",
+        "opciones": [
+          "Debe realizarse en ayunas estrictas",
+          "Es válido solo a partir de la semana 24",
+          "Consiste en la administración de 50 g de glucosa sin necesidad de ayuno",
+          "Está contraindicado en gestantes con vómitos en el primer trimestre"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan se realiza sin ayuno y consiste en administrar 50 g de glucosa por vía oral."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿por qué no se recomienda la HbA1c capilar en el diagnóstico de DMG?",
+        "opciones": [
+          "Por su variabilidad postprandial",
+          "Por falta de sensibilidad diagnóstica en gestantes",
+          "Porque no está estandarizada ni validada para cribado o diagnóstico",
+          "Porque sólo mide glucemias basales y no postprandiales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La HbA1c capilar no está estandarizada ni validada para el cribado ni el diagnóstico de diabetes gestacional."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué cantidad de glucosa se administra en el Test de O’Sullivan para cribado de DMG?",
+        "opciones": ["25 g", "50 g", "75 g", "100 g"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan utiliza 50 g de glucosa por vía oral para el cribado de diabetes gestacional."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la principal diferencia entre el Test de O’Sullivan y la SOG estándar en cuanto a preparación previa?",
+        "opciones": [
+          "El Test de O’Sullivan requiere ayuno estricto",
+          "La SOG puede hacerse en cualquier momento del día",
+          "El Test de O’Sullivan no requiere ayuno",
+          "Ambas pruebas deben hacerse siempre tras 8 horas de ayuno"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan se realiza sin necesidad de ayuno; a diferencia de la SOG, que sí lo requiere."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe realizarse el Test de O’Sullivan como cribado universal en gestantes sin factores de riesgo?",
+        "opciones": ["En la semana 12", "Entre las semanas 20 y 22", "Entre las semanas 24 y 28", "A partir de la semana 32"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El cribado universal con Test de O’Sullivan debe hacerse entre las semanas 24 y 28 de gestación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿es necesario que la gestante esté en ayunas para realizar el Test de O’Sullivan?",
+        "opciones": ["Sí, siempre", "Solo si tiene obesidad", "No, nunca", "Solo en el tercer trimestre"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan se realiza sin ayuno previo, independientemente del trimestre o factores de riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué trimestre se aplica el cribado universal con el Test de O’Sullivan si no hay factores de riesgo?",
+        "opciones": ["Primero", "Segundo", "Tercero", "Solo si hay síntomas"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "El cribado universal se realiza en el segundo trimestre, entre las semanas 24 y 28 de gestación."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿a qué gestantes debe aplicarse el Test de O’Sullivan en la primera visita del embarazo?",
+        "opciones": [
+          "A todas las gestantes",
+          "Solo a las gestantes con síntomas de hiperglucemia",
+          "Solo a las que presentan factores de riesgo de DMG",
+          "A las menores de 25 años con antecedentes de aborto"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El cribado precoz con Test de O’Sullivan se indica en la primera visita solo si hay factores de riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué resultado en el Test de O’Sullivan se considera positivo y requiere SOG?",
+        "opciones": ["≥ 120 mg/dl", "≥ 126 mg/dl", "≥ 140 mg/dl", "≥ 160 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Se considera positivo un valor ≥ 140 mg/dl, lo que obliga a realizar una SOG con 100 g para confirmar DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué afirmación es correcta sobre el uso del Test de O’Sullivan en el tercer trimestre?",
+        "opciones": [
+          "Debe repetirse en todas las gestantes",
+          "Se usa en caso de macrosomía o polihidramnios con cribado previo negativo",
+          "No se recomienda su uso en tercer trimestre por falsos positivos",
+          "Solo se repite si hay síntomas clásicos de hiperglucemia"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Si hay signos fetales atribuibles a DMG en el tercer trimestre, se procede directamente a SOG, sin repetir Test de O’Sullivan."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estas pruebas tiene mayor valor diagnóstico tras un Test de O’Sullivan positivo?",
+        "opciones": ["HbA1c capilar", "Glucemia basal en ayunas", "SOG con 100 g de glucosa", "SOG con 50 g de glucosa"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La SOG con 100 g es la prueba de confirmación tras un Test de O’Sullivan positivo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes afirmaciones sobre el Test de O’Sullivan es incorrecta?",
+        "opciones": [
+          "Se realiza con 50 g de glucosa",
+          "No requiere ayuno",
+          "Es parte del cribado universal entre las semanas 24-28",
+          "Solo se realiza si hay síntomas de hiperglucemia"
+        ],
+        "correcta": 3,
+        "categorías": ["tema151"],
+        "feedback": "El Test de O’Sullivan es una prueba de cribado, no depende de síntomas, y se aplica universalmente entre las semanas 24-28."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuántos gramos de glucosa anhidra se administran en la SOG para el diagnóstico de diabetes gestacional?",
+        "opciones": ["50 g", "75 g", "100 g", "1,75 g/kg de peso corporal"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La sobrecarga oral para diagnóstico de DMG se realiza con 100 g de glucosa anhidra disuelta en agua."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuántos valores deben superar los umbrales en la SOG de 100 g para confirmar el diagnóstico de DMG?",
+        "opciones": ["Uno", "Dos", "Tres", "Todos"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Se necesita que al menos dos valores sean iguales o superiores a los umbrales establecidos para confirmar DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el valor umbral diagnóstico para la glucemia a las 2 horas tras SOG con 100 g?",
+        "opciones": ["≥ 155 mg/dl", "≥ 160 mg/dl", "≥ 165 mg/dl", "≥ 170 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "El valor de referencia a las 2 horas es ≥ 165 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estos valores supera el umbral diagnóstico en una SOG de 100 g?",
+        "opciones": ["Basal de 102 mg/dl", "1h de 185 mg/dl", "2h de 163 mg/dl", "3h de 147 mg/dl"],
+        "correcta": 3,
+        "categorías": ["tema151"],
+        "feedback": "Los umbrales diagnósticos son: basal ≥ 105 mg/dl, 1h ≥ 190 mg/dl, 2h ≥ 165 mg/dl, 3h ≥ 145 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el umbral diagnóstico para la glucemia a los 60 minutos en la SOG de 100 g?",
+        "opciones": ["≥ 185 mg/dl", "≥ 190 mg/dl", "≥ 195 mg/dl", "≥ 200 mg/dl"],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "A los 60 minutos (1 hora), el valor de corte para DMG es ≥ 190 mg/dl."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál sería la interpretación si una paciente obtiene: basal 110 mg/dl, 1h 195 mg/dl, 2h 160 mg/dl, 3h 140 mg/dl?",
+        "opciones": [
+          "No hay criterios diagnósticos",
+          "Un valor alterado, repetir SOG",
+          "Dos valores alterados, diagnóstico de DMG",
+          "Todos los valores normales, resultado negativo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Los valores de basal (≥ 105) y 1h (≥ 190) están alterados; con dos valores positivos, se confirma DMG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el umbral diagnóstico para la glucemia a los 180 minutos (3 h) tras la SOG de 100 g?",
+        "opciones": ["≥ 135 mg/dl", "≥ 140 mg/dl", "≥ 145 mg/dl", "≥ 150 mg/dl"],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "A las 3 horas, la glucemia debe ser ≥ 145 mg/dl para ser considerada positiva."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué debe hacerse si la SOG es normal pese a un Test de O'Sullivan positivo en primer trimestre?",
+        "opciones": [
+          "Repetir el Test de O’Sullivan en tercer trimestre",
+          "Solicitar HbA1c venosa",
+          "Repetir la SOG en el segundo trimestre",
+          "Realizar test de tolerancia con 75 g"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "Debe repetirse la SOG entre las semanas 24 y 28 incluso si la inicial fue normal."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué situación justifica la realización directa de una SOG, sin Test de O’Sullivan previo?",
+        "opciones": [
+          "Glucemia capilar ≥ 160 mg/dl",
+          "Polihidramnios en el tercer trimestre con cribado previo negativo",
+          "Antecedente de DM en abuelo materno",
+          "Gestación múltiple sin factores de riesgo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema151"],
+        "feedback": "Si hay complicaciones fetales atribuibles a DMG, como polihidramnios, debe realizarse directamente una SOG."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué afirmación es verdadera respecto a la SOG de 100 g?",
+        "opciones": [
+          "Se utiliza para cribado universal de DMG",
+          "Es positiva si al menos un valor supera el umbral",
+          "Debe realizarse tras un Test de O’Sullivan positivo",
+          "Es preferible a la HbA1c en todos los trimestres"
+        ],
+        "correcta": 2,
+        "categorías": ["tema151"],
+        "feedback": "La SOG de 100 g es la prueba diagnóstica que se realiza tras un cribado positivo con Test de O’Sullivan."
+      }
+
+          
+]

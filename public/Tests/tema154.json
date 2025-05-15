@@ -1,0 +1,113 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la técnica empleada para el cribado inicial de retinopatía diabética?",
+        "opciones": [
+          "Oftalmoscopia directa sin dilatación",
+          "Retinografía digital con midriasis con tropicamida",
+          "Ecografía ocular",
+          "Angiografía fluoresceínica"
+        ],
+        "correcta": 1,
+        "categorías": ["tema154"],
+        "feedback": "El cribado inicial de RD se realiza mediante retinografía digital tras midriasis con tropicamida."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué situación está contraindicada la midriasis con tropicamida para la retinografía?",
+        "opciones": [
+          "En pacientes con hipermetropía severa",
+          "En personas con antecedentes de glaucoma agudo",
+          "En diabéticos tipo 1 con mal control",
+          "En pacientes con retinopatía previa tratada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema154"],
+        "feedback": "La tropicamida está contraindicada en pacientes con antecedentes de glaucoma agudo o en tratamiento con pilocarpina."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿quién realiza la primera valoración de la retinografía en el cribado de RD?",
+        "opciones": [
+          "El profesional de oftalmología",
+          "El profesional de medicina interna",
+          "El profesional de AP o AH con competencias específicas",
+          "El óptico optometrista del centro de salud"
+        ],
+        "correcta": 2,
+        "categorías": ["tema154"],
+        "feedback": "El primer nivel de cribado lo realiza un profesional de atención primaria o hospitalaria con formación específica."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué plazo debe valorarse la retinografía en el primer nivel de cribado?",
+        "opciones": ["En menos de 72 horas", "En menos de 15 días", "En menos de 1 mes", "En menos de 3 meses"],
+        "correcta": 2,
+        "categorías": ["tema154"],
+        "feedback": "La valoración inicial debe hacerse en un periodo inferior a un mes desde la realización de la retinografía."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe realizarse cribado anual de retinopatía diabética?",
+        "opciones": [
+          "En todos los pacientes diabéticos",
+          "Solo si presentan hipertensión o enfermedad renal crónica",
+          "En pacientes con más de 10 años de evolución de la diabetes",
+          "En pacientes con retinografía patológica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema154"],
+        "feedback": "Se recomienda cribado anual de RD en pacientes con diabetes de más de 10 años de evolución."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia del cribado de RD en pacientes con menos de 10 años de evolución y sin factores de riesgo?",
+        "opciones": ["Cada 6 meses", "Anualmente", "Cada 2 años", "Cada 3 años"],
+        "correcta": 3,
+        "categorías": ["tema154"],
+        "feedback": "En pacientes con menos de 10 años de evolución y sin factores de riesgo, el cribado puede espaciarse cada 3 años."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo se debe derivar al segundo nivel de cribado (oftalmología)?",
+        "opciones": [
+          "Si la retinografía es normal",
+          "Si la retinografía muestra cualquier grado de RD o hallazgos potencialmente patológicos",
+          "Solo si el paciente presenta síntomas visuales",
+          "Siempre que se haya alcanzado los 10 años de evolución"
+        ],
+        "correcta": 1,
+        "categorías": ["tema154"],
+        "feedback": "Cualquier hallazgo patológico o indicios de RD en la retinografía requiere derivación al segundo nivel (oftalmología)."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué se hace con los pacientes cuya retinografía es normal?",
+        "opciones": [
+          "Se les cita en un año independientemente del tipo de diabetes",
+          "Se les remite a oftalmología para verificación",
+          "Se reincorporan al circuito de cribado con frecuencia según evolución y factores de riesgo",
+          "Se suspende el cribado durante 5 años"
+        ],
+        "correcta": 2,
+        "categorías": ["tema154"],
+        "feedback": "Los pacientes sin RD se reincorporan al circuito de cribado con periodicidad según los años de evolución y factores de riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué pacientes deben tener una periodicidad individualizada (entre 1 y 2 años) en el cribado de RD?",
+        "opciones": [
+          "Pacientes con menos de 5 años de evolución",
+          "Pacientes con factores de riesgo como HTA, ERC o HbA1c > 8%",
+          "Todos los diabéticos tipo 1",
+          "Personas mayores de 70 años con buena visión"
+        ],
+        "correcta": 1,
+        "categorías": ["tema154"],
+        "feedback": "En presencia de factores de riesgo como HTA, ERC o mal control glucémico, se recomienda una periodicidad individualizada."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué se debe hacer si un paciente presenta una retinografía con RD leve y no precisa estudios adicionales?",
+        "opciones": [
+          "Iniciar tratamiento farmacológico",
+          "Derivar a oftalmología de forma urgente",
+          "Repetir retinografía a los 6 meses",
+          "Reincorporar al circuito de cribado"
+        ],
+        "correcta": 3,
+        "categorías": ["tema154"],
+        "feedback": "Si oftalmología determina que la RD leve no precisa actuación, el paciente vuelve al circuito de cribado."
+      }
+      
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "enunciado": "Un paciente con una puntuación de Norton de 18 tendrá un riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Sin riesgo"],
+        "correcta": 3,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Norton de 14 tendrá un riesgo de UPP:",
+        "opciones": ["Sin riesgo", "Riesgo", "Alto", "Muy alto"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Con una puntuación Norton de 12, el paciente presenta riesgo de UPP:",
+        "opciones": ["Moderado", "Riesgo", "Alto", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Si un paciente obtiene 9 puntos en la escala de Norton, se considera riesgo de UPP:",
+        "opciones": ["Riesgo", "Muy alto", "Alto", "Moderado"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con Norton de 11 presenta un riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Riesgo", "Sin riesgo"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Una puntuación de 15 en Norton indica un riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Riesgo", "Sin riesgo"],
+        "correcta": 3,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con Norton de 10 tiene un riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Riesgo", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Si un paciente tiene 8 puntos en Norton, el riesgo de UPP es:",
+        "opciones": ["Riesgo", "Alto", "Muy alto", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Con Norton 13, el paciente presenta riesgo de UPP:",
+        "opciones": ["Alto", "Muy alto", "Riesgo", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación de 16 en Norton tiene riesgo de UPP:",
+        "opciones": ["Riesgo", "Muy alto", "Alto", "Sin riesgo"],
+        "correcta": 3,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones en la escala de Norton se considera de riesgo alto de UPP?",
+        "opciones": ["8", "11", "14", "16"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones de Norton implica riesgo muy alto de UPP?",
+        "opciones": ["12", "10", "9", "14"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Qué puntuación en la escala de Norton se considera sin riesgo de úlceras por presión?",
+        "opciones": ["13", "14", "15", "12"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones de Norton representa un riesgo de UPP?",
+        "opciones": ["18", "14", "16", "20"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál es una puntuación de Norton compatible con riesgo muy alto de UPP?",
+        "opciones": ["10", "13", "9", "15"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Qué puntuación de la escala Norton corresponde a un riesgo alto de UPP?",
+        "opciones": ["9", "12", "15", "17"],
+        "correcta": 1,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "Una puntuación de Norton compatible con riesgo sería:",
+        "opciones": ["16", "18", "14", "19"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones indica riesgo muy alto de desarrollar UPP según Norton?",
+        "opciones": ["8", "10", "11", "13"],
+        "correcta": 0,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Cuál de estas puntuaciones en Norton estaría libre de riesgo de UPP?",
+        "opciones": ["13", "14", "15", "12"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      },
+      {
+        "enunciado": "¿Qué puntuación de Norton implica riesgo alto de úlceras por presión?",
+        "opciones": ["17", "10", "12", "16"],
+        "correcta": 2,
+        "categorías": ["tema163", "escala_norton"],
+        "feedback": "Norton: ≤9 riesgo muy alto · ≤12 riesgo alto · ≤14 riesgo · >14 sin riesgo"
+      }
+            
+]

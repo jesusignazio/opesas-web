@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus y la cartera de servicios del SAS, ¿en cuál de los siguientes casos estaría indicada la MFG?",
+        "opciones": [
+          "Paciente con DM2 en tratamiento con dieta y ejercicio.",
+          "Paciente con DM1 con hipoglucemias frecuentes e hipoglucemias inadvertidas.",
+          "Paciente con DM2 bien controlado con metformina en monoterapia.",
+          "Paciente obeso con prediabetes sin medicación."
+        ],
+        "correcta": 1,
+        "categorías": ["tema159"],
+        "feedback": "La MFG está indicada en pacientes con DM1 que presentan hipoglucemias frecuentes o inadvertidas."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta respecto al uso de la monitorización flash de glucosa (MFG)?",
+        "opciones": [
+          "Debe utilizarse siempre en todos los pacientes con diabetes tipo 2.",
+          "Requiere un programa estructurado de educación diabetológica para su correcta interpretación.",
+          "Sustituye completamente a la determinación de HbA1c.",
+          "Solo se recomienda en pacientes sin tratamiento farmacológico."
+        ],
+        "correcta": 1,
+        "categorías": ["tema159"],
+        "feedback": "La MFG debe ir acompañada de formación en el uso y la interpretación de los datos."
+      },
+      {
+        "enunciado": "¿En cuál de estos perfiles clínicos NO estaría justificada la MFG según el PAI?",
+        "opciones": [
+          "Paciente con diabetes tipo 1 e hipoglucemias nocturnas frecuentes.",
+          "Paciente con DM2 en tratamiento con insulina basal-bolo y gran variabilidad glucémica.",
+          "Paciente con DM2 controlado solo con dieta.",
+          "Paciente con diabetes gestacional en tratamiento con insulina y seguimiento intensivo."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "La MFG no está indicada en pacientes sin tratamiento farmacológico o con buen control solo con dieta."
+      },
+      {
+        "enunciado": "Respecto al uso de MFG según el PAI, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Debe indicarse únicamente por endocrinología hospitalaria.",
+          "Puede formar parte del seguimiento en AP si el paciente está en un programa de educación diabetológica.",
+          "Está limitada a mayores de 65 años.",
+          "No es compatible con insulina de acción prolongada."
+        ],
+        "correcta": 1,
+        "categorías": ["tema159"],
+        "feedback": "La atención primaria puede manejar MFG en pacientes seleccionados dentro de programas educativos."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes, ¿cuál es un criterio de acceso a MFG en el sistema sanitario andaluz?",
+        "opciones": [
+          "Diabetes tipo 2 controlada con antidiabéticos orales sin riesgo de hipoglucemia.",
+          "Cualquier paciente con diabetes mayor de 45 años.",
+          "Participación en programa estructurado de educación diabetológica.",
+          "IMC superior a 30 kg/m²."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "El acceso a MFG requiere, entre otros criterios, la inclusión en un programa educativo."
+      },
+      {
+        "enunciado": "En el marco del PAI Diabetes, ¿qué perfil clínico justifica el uso de MFG como parte del seguimiento?",
+        "opciones": [
+          "Paciente con DM2 y tratamiento solo con inhibidores de DPP-4.",
+          "Paciente con DM1 que presenta hipoglucemias inadvertidas.",
+          "Paciente con diabetes tipo 2 sin medicación, en buen control.",
+          "Paciente con DM2 tratado con empagliflozina sin descompensaciones."
+        ],
+        "correcta": 1,
+        "categorías": ["tema159"],
+        "feedback": "Las hipoglucemias inadvertidas son una de las principales indicaciones de MFG en DM1."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores NO se considera para indicar MFG según el PAI y cartera de servicios?",
+        "opciones": [
+          "Participación en un programa de educación diabetológica.",
+          "Presencia de variabilidad glucémica significativa.",
+          "Uso exclusivo de fármacos sin riesgo de hipoglucemia.",
+          "Historia de hipoglucemias graves o inadvertidas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "La MFG no se indica en pacientes con tratamiento exclusivamente con fármacos seguros."
+      },
+      {
+        "enunciado": "¿Cuál es una condición necesaria para implementar el uso de MFG en pacientes con diabetes tipo 2 según el PAI?",
+        "opciones": [
+          "IMC superior a 35.",
+          "Inicio de tratamiento con insulina basal.",
+          "Inestabilidad glucémica o necesidad de optimizar ajuste de insulina.",
+          "Edad superior a 70 años con buen control glucémico."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "La variabilidad glucémica o necesidad de ajuste intensivo justifica el uso de MFG."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre la relación entre educación diabetológica y MFG según el PAI?",
+        "opciones": [
+          "La MFG solo se indica si hay educación grupal obligatoria.",
+          "No es necesario ningún tipo de formación previa para el uso de MFG.",
+          "La interpretación de MFG requiere formación previa del paciente.",
+          "La MFG sustituye la necesidad de cualquier formación estructurada."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "El paciente debe saber interpretar los datos que aporta la MFG, lo que exige educación estructurada."
+      },
+      {
+        "enunciado": "¿Qué ventaja aporta la MFG en pacientes con diabetes, según recoge el PAI?",
+        "opciones": [
+          "Permite el control automático sin necesidad de supervisión médica.",
+          "Sustituye de forma absoluta a las determinaciones capilares.",
+          "Aporta datos sobre el perfil glucémico y variabilidad, útiles para ajustar el tratamiento.",
+          "Elimina la necesidad de realizar HbA1c en el seguimiento del paciente."
+        ],
+        "correcta": 2,
+        "categorías": ["tema159"],
+        "feedback": "La MFG proporciona información continua que ayuda a ajustar fármacos y prevenir hipoglucemias."
+      }
+      
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "enunciado": "Un paciente con una puntuación de Braden de 12 tiene riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Bajo"],
+        "correcta": 0,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación de Braden de 13 presenta riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Sin riesgo"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación de Braden de 10 tiene riesgo de UPP:",
+        "opciones": ["Alto", "Muy alto", "Moderado", "Bajo"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Con una puntuación Braden de 15, el riesgo de úlcera por presión (UPP) es:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con Braden de 17 tiene riesgo de UPP:",
+        "opciones": ["Bajo", "Sin riesgo", "Moderado", "Muy alto"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Braden de 14 presenta riesgo de desarrollar UPP:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Nulo"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con Braden de 11 se clasifica como:",
+        "opciones": ["Riesgo moderado de UPP", "Riesgo alto de UPP", "Riesgo muy alto de UPP", "Sin riesgo de UPP"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Con Braden 19, el riesgo de desarrollar úlceras por presión (UPP) es:",
+        "opciones": ["Muy alto", "Moderado", "Alto", "Sin riesgo"],
+        "correcta": 3,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Braden de 16 presenta riesgo de UPP:",
+        "opciones": ["Moderado", "Alto", "Muy alto", "No valorable"],
+        "correcta": 0,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con Braden de 8 tiene riesgo de UPP:",
+        "opciones": ["Muy alto", "Moderado", "Alto", "Bajo"],
+        "correcta": 0,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Braden de 19 tiene riesgo de UPP:",
+        "opciones": ["Moderado", "Alto", "Muy alto", "Sin riesgo"],
+        "correcta": 3,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Con una puntuación de 16 en la escala de Braden, el riesgo de UPP se clasifica como:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Bajo"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Si un paciente obtiene una puntuación de 14 en la escala de Braden, ¿qué riesgo presenta de desarrollar UPP?",
+        "opciones": ["Riesgo alto", "Riesgo moderado", "Riesgo muy alto", "Sin riesgo"],
+        "correcta": 0,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un resultado de Braden igual a 9 indica un riesgo de UPP:",
+        "opciones": ["Moderado", "Muy alto", "Alto", "Bajo"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Braden de 18 tiene riesgo de UPP:",
+        "opciones": ["Sin riesgo", "Moderado", "Alto", "Muy alto"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Si un paciente tiene una puntuación de 20 en la escala de Braden, se interpreta como:",
+        "opciones": ["Riesgo leve", "Sin riesgo", "Riesgo alto", "Riesgo muy alto"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Una puntuación de 13 en Braden corresponde a riesgo de UPP:",
+        "opciones": ["Moderado", "Alto", "Muy alto", "Sin riesgo"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Con Braden de 12, el riesgo de úlcera por presión en el paciente es:",
+        "opciones": ["Moderado", "Alto", "Muy alto", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "Un paciente con puntuación Braden de 15 se encuentra en situación de riesgo de UPP:",
+        "opciones": ["Muy alto", "Alto", "Moderado", "Sin riesgo"],
+        "correcta": 2,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      },
+      {
+        "enunciado": "En la escala Braden, una puntuación de 8 indica riesgo de UPP:",
+        "opciones": ["Alto", "Muy alto", "Moderado", "Leve"],
+        "correcta": 1,
+        "categorías": ["tema161", "escala_braden"],
+        "feedback": "0–12: riesgo muy alto · 13–14: riesgo alto · 15–18: riesgo moderado · ≥19: sin riesgo"
+      }
+            
+]

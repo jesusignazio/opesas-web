@@ -1,0 +1,302 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la metformina es correcta según el PAI Diabetes Mellitus?",
+        "opciones": [
+          "Debe tomarse siempre con el estómago vacío para mejorar la absorción.",
+          "Puede producir hipoglucemias en monoterapia.",
+          "Puede causar efectos gastrointestinales como diarrea o náuseas.",
+          "Está contraindicada en pacientes con sobrepeso."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La metformina puede causar efectos secundarios digestivos, especialmente al inicio del tratamiento."
+      },
+      {
+        "enunciado": "Respecto al riesgo de hipoglucemia con metformina, señale la opción correcta:",
+        "opciones": [
+          "Presenta alto riesgo de hipoglucemia si se toma sola.",
+          "Puede causar hipoglucemia solo en ancianos.",
+          "No produce hipoglucemia en monoterapia.",
+          "Debe tomarse con glucosa para evitar hipoglucemias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La metformina no estimula la secreción de insulina, por tanto no produce hipoglucemia."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes recomendaciones sobre el uso de metformina es correcta?",
+        "opciones": [
+          "Debe tomarse preferiblemente antes de dormir.",
+          "Se debe suspender si hay efectos gastrointestinales leves.",
+          "Debe tomarse junto con la comida o justo después.",
+          "Puede tomarse con alcohol sin riesgo adicional."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Tomarla con o tras las comidas reduce efectos secundarios digestivos."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes, ¿cuál es la afirmación correcta sobre la gliclazida?",
+        "opciones": [
+          "Es una sulfonilurea de segunda línea que no se recomienda.",
+          "Debe tomarse exclusivamente en la cena.",
+          "Es una sulfonilurea de primera elección por su menor riesgo de hipoglucemia.",
+          "Se administra únicamente en combinación con insulina."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Gliclazida y glimepirida son las sulfonilureas preferidas por su mejor perfil de seguridad."
+      },
+      {
+        "enunciado": "¿Cuál es la afirmación correcta sobre el ajuste de gliclazida por parte de enfermería acreditada?",
+        "opciones": [
+          "Se ajusta cada 48 horas, aumentando 60 mg por toma.",
+          "Puede aumentarse cada 2 semanas en incrementos de 30 mg/día.",
+          "Debe suspenderse ante cualquier episodio de hiperglucemia aislado.",
+          "Se distribuye en cuatro tomas diarias para mayor eficacia."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "El PAI indica que se puede ajustar cada 2 semanas en incrementos de 30 mg/día según evolución."
+      },
+      {
+        "enunciado": "Respecto al olvido de una dosis de metformina, ¿cuál es la actuación correcta?",
+        "opciones": [
+          "Tomarla tan pronto se recuerde, incluso si coincide con la siguiente dosis.",
+          "Duplicar la siguiente dosis para compensar.",
+          "Si falta menos de 6 horas para la siguiente toma, no se toma la olvidada.",
+          "Suspender el tratamiento durante 24 horas."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Se recomienda omitir la dosis olvidada si se aproxima la siguiente toma."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre la educación terapéutica al iniciar metformina?",
+        "opciones": [
+          "No se requiere instrucción sobre efectos adversos.",
+          "Debe informarse del posible malestar gastrointestinal inicial.",
+          "Solo se instruye sobre hipoglucemias.",
+          "No se debe combinar con alimentación para no alterar su acción."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "Los efectos digestivos son frecuentes al inicio; el paciente debe conocerlos y saber cómo prevenirlos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes efectos adversos es común con la metformina?",
+        "opciones": [
+          "Retención de líquidos",
+          "Hipoglucemias graves",
+          "Náuseas y diarrea",
+          "Aumento de peso"
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Los efectos gastrointestinales son los más frecuentes, especialmente en las primeras semanas."
+      },
+      {
+        "enunciado": "¿Qué opción es correcta respecto a los objetivos glucémicos al ajustar gliclazida?",
+        "opciones": [
+          "Mantener glucemias entre 80 y 130 mg/dl en ayunas.",
+          "Permitir glucemias postprandiales de hasta 220 mg/dl.",
+          "No establecer objetivos claros para evitar hipoglucemias.",
+          "Reducir dosis si la glucemia está por debajo de 160 mg/dl en ayunas."
+        ],
+        "correcta": 0,
+        "categorías": ["tema158"],
+        "feedback": "El objetivo glucémico habitual es mantener glucemia en ayunas entre 80 y 130 mg/dl."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre las sulfonilureas recomendadas en el PAI?",
+        "opciones": [
+          "Glipizida y glibenclamida son las preferidas por su bajo coste.",
+          "Se prefiere gliclazida y glimepirida por menor riesgo de hipoglucemia.",
+          "Todas las sulfonilureas tienen el mismo perfil de seguridad.",
+          "No deben usarse en pacientes mayores de 65 años."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "Gliclazida y glimepirida son preferidas por su menor incidencia de hipoglucemias y mejor tolerancia."
+      },
+      {
+        "enunciado": "¿Cuál es la afirmación correcta sobre el inicio de tratamiento con metformina?",
+        "opciones": [
+          "Se debe iniciar con la dosis máxima para acelerar el control.",
+          "Puede producir hipoglucemia en monoterapia.",
+          "Debe iniciarse a dosis baja y aumentar progresivamente.",
+          "Solo se prescribe si el paciente tiene sobrepeso importante."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "El inicio gradual minimiza efectos secundarios digestivos."
+      },
+      {
+        "enunciado": "En relación al tratamiento con gliclazida, señale la opción correcta:",
+        "opciones": [
+          "Es un inhibidor de la DPP-4.",
+          "Debe administrarse en combinación con pioglitazona siempre.",
+          "Se recomienda en monoterapia o combinada, por su perfil seguro.",
+          "No está incluida en el protocolo del PAI por riesgo de hipoglucemias."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Gliclazida es una sulfonilurea recomendada por su perfil seguro frente a otras del grupo."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre el efecto de la metformina?",
+        "opciones": [
+          "Estimula directamente la secreción de insulina.",
+          "Aumenta la absorción intestinal de glucosa.",
+          "Disminuye la resistencia a la insulina y la producción hepática de glucosa.",
+          "Genera hipoglucemia si se combina con pioglitazona."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La metformina actúa sobre la resistencia periférica y la gluconeogénesis hepática."
+      },
+      {
+        "enunciado": "¿Qué recomendación es correcta al indicar metformina a un paciente?",
+        "opciones": [
+          "Debe suspenderse si aparecen náuseas o gases.",
+          "No debe combinarse con otros fármacos no insulínicos.",
+          "Debe explicarse que es normal cierta molestia digestiva inicial.",
+          "Debe tomarse con zumo de frutas para mejor absorción."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La educación al paciente debe incluir posibles efectos digestivos y cómo mitigarlos."
+      },
+      {
+        "enunciado": "¿Cuál es la afirmación correcta sobre la gliclazida en mayores de 65 años?",
+        "opciones": [
+          "Está contraindicada a partir de los 65 años.",
+          "Se prefiere frente a otras sulfonilureas por su menor riesgo de hipoglucemia.",
+          "Se recomienda solo como segunda línea.",
+          "No es eficaz en pacientes con deterioro renal leve."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "Gliclazida tiene mejor perfil de seguridad que glibenclamida en ancianos."
+      },
+      {
+        "enunciado": "¿Qué afirmación es cierta sobre la combinación de metformina y sulfonilureas?",
+        "opciones": [
+          "Está desaconsejada en cualquier circunstancia.",
+          "Debe usarse solo con glibenclamida.",
+          "Puede utilizarse si no se alcanza el control con monoterapia.",
+          "Provoca hipoglucemias graves en todos los casos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "El PAI contempla el uso combinado si no se alcanza control con un solo fármaco."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes efectos adversos es más frecuente con metformina?",
+        "opciones": [
+          "Hipoglucemia grave.",
+          "Aumento de peso.",
+          "Trastornos digestivos leves como náuseas o diarrea.",
+          "Retención de líquidos."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "Los efectos digestivos son habituales, especialmente al inicio del tratamiento."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre el ajuste de dosis de gliclazida?",
+        "opciones": [
+          "Debe ajustarse cada 3 días.",
+          "Se recomienda ajustar la dosis cada 2 semanas.",
+          "Se inicia con dosis máxima y se reduce según evolución.",
+          "Debe suspenderse si no se logra control en una semana."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "El PAI indica un ajuste cada 2 semanas en función de la glucemia."
+      },
+      {
+        "enunciado": "¿Qué afirmación es cierta sobre la toma de metformina?",
+        "opciones": [
+          "Debe tomarse siempre antes de las comidas.",
+          "Debe tomarse con o tras las comidas para mejorar la tolerancia.",
+          "Es indiferente el momento de la toma.",
+          "Debe tomarse en ayunas para evitar molestias digestivas."
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "Tomarla junto o después de comer reduce las molestias gástricas."
+      },
+      {
+        "enunciado": "En relación al olvido de una dosis de metformina, ¿cuál es la respuesta correcta?",
+        "opciones": [
+          "Debe duplicar la siguiente dosis.",
+          "Debe tomarla aunque hayan pasado más de 12 horas.",
+          "Debe tomarla solo si faltan más de 6 horas para la siguiente.",
+          "Debe omitirla si faltan menos de 6 horas para la siguiente toma."
+        ],
+        "correcta": 3,
+        "categorías": ["tema158"],
+        "feedback": "La norma general es no tomar la dosis si la siguiente está cercana."
+      },
+      {
+        "enunciado": "¿Qué combinación farmacológica está contemplada en el PAI como de bajo riesgo de hipoglucemia?",
+        "opciones": [
+          "Metformina + gliclazida",
+          "Metformina + pioglitazona",
+          "Metformina + insulina rápida",
+          "Glibenclamida + pioglitazona"
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "Pioglitazona no es hipoglucemiante; la combinación es segura en cuanto a hipoglucemias."
+      },
+      {
+        "enunciado": "¿Cuál es la afirmación correcta respecto a la pioglitazona?",
+        "opciones": [
+          "Es un inhibidor de la DPP-4.",
+          "Puede causar hipoglucemia en monoterapia.",
+          "Es un fármaco sin riesgo de hipoglucemias.",
+          "Está contraindicada en pacientes con obesidad."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La pioglitazona no provoca hipoglucemia, ya que no estimula la secreción de insulina."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre los efectos de la gliclazida?",
+        "opciones": [
+          "Produce hipoglucemia incluso en monoterapia.",
+          "No debe usarse en mayores de 50 años.",
+          "No tiene ningún riesgo hipoglucemiante.",
+          "Debe tomarse solo antes de dormir."
+        ],
+        "correcta": 0,
+        "categorías": ["tema158"],
+        "feedback": "Las sulfonilureas como gliclazida pueden producir hipoglucemia, aunque en menor medida que otras del grupo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones es de alto riesgo de hipoglucemia?",
+        "opciones": [
+          "Metformina + empagliflozina",
+          "Metformina + gliclazida",
+          "Metformina + pioglitazona",
+          "Metformina + iDPP-4"
+        ],
+        "correcta": 1,
+        "categorías": ["tema158"],
+        "feedback": "La combinación con sulfonilureas como gliclazida puede incrementar el riesgo de hipoglucemia."
+      },
+      {
+        "enunciado": "¿Qué perfil farmacológico corresponde a la gliclazida según el PAI?",
+        "opciones": [
+          "Inhibidor de la alfa-glucosidasa.",
+          "Agonista GLP-1.",
+          "Sulfonilurea de elección con bajo riesgo de hipoglucemia.",
+          "Insulina de acción intermedia."
+        ],
+        "correcta": 2,
+        "categorías": ["tema158"],
+        "feedback": "La gliclazida es una sulfonilurea preferida por su perfil seguro respecto a hipoglucemias."
+      }
+]

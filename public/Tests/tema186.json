@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "La posición quirúrgica que consiste en colocar al paciente boca abajo con camilla partida a nivel abdominal, dejando piernas y cabeza más bajas que el abdomen, se denomina:",
+        "opciones": ["Decúbito prono", "Litotomía", "Kraske o navaja", "Fowler"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Kraske (también llamada navaja): útil para cirugía rectal o coccígea. Abdomen más alto que piernas y cabeza."
+      },
+      {
+        "enunciado": "La posición quirúrgica más utilizada, indicada en cirugía abdominal, torácica o facial, es:",
+        "opciones": ["Fowler", "Decúbito supino", "Litotomía", "Trendelemburg"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Decúbito supino es la más común. El paciente está tumbado boca arriba."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes posiciones quirúrgicas se asocia a mayor riesgo de lesión del nervio ciático externo y de tromboembolismo?",
+        "opciones": ["Kraske", "Litotomía", "Decúbito prono", "Sims"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La litotomía se usa en cirugía genitourinaria. Riesgo de trombosis y lesión nerviosa."
+      },
+      {
+        "enunciado": "La posición de Trendelemburg está especialmente indicada en:",
+        "opciones": ["Cirugía renal", "Cirugía abdominal superior", "Procedimientos pélvicos", "Cirugía cervical"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Trendelemburg: cabeza más baja que el tronco. Mejora el acceso a la pelvis pero dificulta expansión pulmonar."
+      },
+      {
+        "enunciado": "¿En qué intervención se emplea la posición de Morestin (antitrendelemburg)?",
+        "opciones": ["Cirugía biliar", "Cirugía perineal", "Cirugía de uréteres", "Cirugía anal"],
+        "correcta": 0,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Antitrendelemburg: cabeza más alta que el tronco. Indicada en cirugía biliar, hepática y craneal."
+      },
+      {
+        "enunciado": "La posición de Sims en decúbito lateral izquierdo se utiliza en:",
+        "opciones": ["Cirugía cervical", "Exploraciones rectales y enemas", "Intervenciones oculares", "Craneotomía"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Sims izquierda: enemas, rectoscopias. Sims derecha: fecalomas, colon derecho."
+      },
+      {
+        "enunciado": "¿Qué posición se emplea en cirugía renal y se obtiene al flexionar la camilla a nivel del flanco en decúbito lateral?",
+        "opciones": ["Fowler", "Roser", "Nefrectomía", "Laminectomía"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La posición de nefrectomía es una modificación del decúbito lateral, flexionando la camilla en el flanco."
+      },
+      {
+        "enunciado": "La posición quirúrgica Fowler está indicada en:",
+        "opciones": ["Cirugía ginecológica", "Cirugía cervical, facial y oral", "Cirugía abdominal baja", "Cirugía ortopédica de extremidades"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Fowler (semisentado): favorece acceso a cara, cuello, boca. Usada también para mejorar la ventilación."
+      },
+      {
+        "enunciado": "¿Qué posición coloca al paciente en decúbito prono, apoyado en rodillas y con el tronco inclinado hacia delante, siendo útil para exploraciones rectales?",
+        "opciones": ["Kraske", "Sims", "Genupectoral", "Morestin"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Genupectoral o mahometana: decúbito prono apoyado en rodillas. Indicada en exploraciones rectales."
+      },
+      {
+        "enunciado": "En la posición de Roser o Proetz, el cuello se encuentra en:",
+        "opciones": ["Flexión lateral", "Hiperflexión", "Hiperextensión", "Neutro"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Roser: decúbito supino con cuello en hiperextensión. Usada en otorrino, tiroides, oftalmología, instilación de gotas."
+      },
+            
+]

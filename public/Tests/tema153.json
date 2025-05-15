@@ -1,0 +1,675 @@
+[
+    {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe iniciarse el cribado del pie diabético en personas con DMT2?",
+        "opciones": ["A los 10 años del diagnóstico", "En el momento del diagnóstico", "A partir de los 30 años", "Al iniciar insulina"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "En personas con DMT2, el cribado del pie diabético se realiza desde el momento del diagnóstico."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo debe iniciarse el cribado del pie diabético en personas con DMT1?",
+        "opciones": [
+          "Desde el diagnóstico",
+          "A partir de los 30 años o más de 10 años de evolución",
+          "Tras el primer ingreso hospitalario",
+          "Solo si hay síntomas neurológicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "En DMT1 se recomienda iniciar el cribado del pie diabético a partir de los 30 años o tras 10 años de evolución."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia debe realizarse el cribado del pie diabético en personas con riesgo moderado?",
+        "opciones": ["Cada 3 meses", "Cada 6 meses", "Cada 12 meses", "Solo si hay síntomas"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El cribado debe repetirse cada 6 meses en personas con riesgo moderado de pie diabético."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes métodos se emplea en el cribado del pie diabético?",
+        "opciones": [
+          "Electromiografía",
+          "Monofilamento de 5 g y punción cutánea",
+          "Monofilamento de Semmes-Weinstein 10 g y diapasón de 128 Hz",
+          "Electrocardiograma y exploración neurológica general"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El cribado incluye sensibilidad con monofilamento de 10 g y vibratoria con diapasón de 128 Hz."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué puntos se aplica el monofilamento de Semmes-Weinstein en cada pie?",
+        "opciones": [
+          "Talón, maleolo externo y maléolo tibial",
+          "Tres puntos plantares: falange distal del primer dedo y bases de primer y quinto metatarsiano",
+          "Cabeza del astrágalo y calcáneo",
+          "Punta de cada dedo del pie"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Se aplica en falange distal del primer dedo, base del primer metatarsiano y base del quinto metatarsiano."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué categoría de riesgo se asigna a un paciente con úlcera previa o ITB < 0,9?",
+        "opciones": ["Riesgo bajo", "Riesgo moderado", "Riesgo alto", "No se categoriza hasta repetir el ITB"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La presencia de úlcera previa o ITB alterado categoriza al paciente como de alto riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia de cribado del pie diabético en personas con riesgo bajo?",
+        "opciones": ["Mensualmente", "Cada 6 meses", "Anualmente", "Cada 2 años"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "En personas con riesgo bajo, el cribado del pie diabético se realiza anualmente."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo justifica una evaluación del índice tobillo-brazo (ITB)?",
+        "opciones": [
+          "Presencia de úlcera activa",
+          "Alteración en la sensibilidad vibratoria",
+          "Pulsos pedios no palpables o detección de pie de alto riesgo",
+          "Dolor nocturno en extremidades inferiores"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El ITB debe realizarse si no se palpan los pulsos o se detecta pie de alto riesgo o enfermedad vascular."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué clasificación se utiliza para graduar el pie diabético infectado?",
+        "opciones": [
+          "Clasificación de Wagner",
+          "Clasificación IDSA-PEDIS",
+          "Clasificación de Glasgow",
+          "Clasificación de Seddon"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La clasificación de IDSA-PEDIS se utiliza para graduar la gravedad de la infección en el pie diabético."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia se debe valorar el pie diabético en pacientes de alto riesgo?",
+        "opciones": ["Anualmente", "Semestralmente", "Cada 3 meses o en cada visita", "Solo si aparece dolor o lesión visible"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El seguimiento debe realizarse en cada visita, o al menos cada 3 meses en pacientes de alto riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia debe valorarse el pie en pacientes con diabetes y riesgo alto?",
+        "opciones": ["Cada 6 meses", "Una vez al año", "Cada 3 meses o en cada visita", "Solo en presencia de heridas"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Pacientes con riesgo alto deben ser valorados cada 3 meses o en cada contacto asistencial."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes pruebas es fundamental para detectar pérdida de sensibilidad protectora?",
+        "opciones": ["ITB", "Prueba de reflejos osteotendinosos", "Monofilamento de 10 g", "Electromiografía"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento de 10 g es la prueba fundamental para valorar la pérdida de sensibilidad protectora."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo está indicado iniciar la valoración del pie en pacientes con DMT1?",
+        "opciones": ["Desde el diagnóstico", "A los 5 años de evolución", "A los 10 años o si tienen más de 30 años", "Solo si tienen síntomas neurológicos"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "En DMT1, el cribado del pie se recomienda a partir de los 30 años o tras más de 10 años de evolución."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué se debe hacer si un paciente presenta pie de riesgo moderado?",
+        "opciones": ["Valoración anual", "Derivación inmediata al hospital", "Valoración cada 6 meses", "Realizar TAC vascular urgente"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "En pacientes con riesgo moderado se recomienda una valoración cada 6 meses."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia de valoración del pie en pacientes sin alteraciones ni factores de riesgo?",
+        "opciones": ["Cada 6 meses", "Cada 12 meses", "Cada 2 años", "Solo ante síntomas"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "En pacientes sin riesgo, el cribado del pie debe hacerse al menos anualmente."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estos factores justificaría una categorización de riesgo alto en pie diabético?",
+        "opciones": [
+          "Uña encarnada",
+          "Presencia de neuropatía y pulsos pedios ausentes",
+          "Pies planos",
+          "Dermopatía diabética leve"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Neuropatía más arteriopatía (ausencia de pulsos) eleva el riesgo del pie diabético a alto."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué instrumento se utiliza para valorar la sensibilidad vibratoria en el pie?",
+        "opciones": ["Diapasón de 128 Hz", "Estetoscopio doppler", "Martillo de reflejos", "Termómetro cutáneo"],
+        "correcta": 0,
+        "categorías": ["tema153"],
+        "feedback": "El diapasón de 128 Hz se utiliza para valorar la sensibilidad vibratoria, útil en el cribado del pie diabético."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo clínico debe hacer sospechar enfermedad vascular periférica en el pie diabético?",
+        "opciones": [
+          "Sudoración excesiva",
+          "Disminución de vello y piel fría",
+          "Pérdida de reflejos rotulianos",
+          "Hiperqueratosis plantar"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La piel fría y sin vello puede indicar enfermedad arterial, por lo que está indicada valoración con ITB."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es el objetivo principal del cribado del pie diabético?",
+        "opciones": [
+          "Detectar infecciones",
+          "Prevenir amputaciones y úlceras mediante detección precoz de riesgo",
+          "Evaluar el grado de dolor",
+          "Identificar deformidades del arco plantar"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El cribado busca detectar precozmente el riesgo de complicaciones graves como úlceras o amputaciones."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué condición exige valoración urgente del pie diabético?",
+        "opciones": [
+          "Onicomicosis",
+          "Neuropatía moderada",
+          "Úlcera activa o pie inflamado",
+          "Pérdida de uñas por roce"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Una úlcera activa o signos inflamatorios exigen valoración urgente del pie diabético."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia se debe valorar el pie diabético en pacientes de riesgo bajo?",
+        "opciones": ["Cada 3 meses", "Cada 6 meses", "Anualmente", "Solo si aparecen signos de infección"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "En personas con riesgo bajo, el cribado del pie diabético debe realizarse al menos una vez al año."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia debe realizarse la valoración del pie en personas con riesgo moderado?",
+        "opciones": ["Cada 2 años", "Cada 6 meses", "Anualmente", "Cada 3 meses"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Pacientes con riesgo moderado deben ser valorados cada 6 meses."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿con qué frecuencia se debe valorar el pie diabético en pacientes de alto riesgo?",
+        "opciones": ["Anualmente", "Semestralmente", "Cada 3 meses o en cada visita", "Solo si aparece dolor o lesión visible"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El seguimiento debe realizarse en cada visita, o al menos cada 3 meses en pacientes de alto riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál es la frecuencia adecuada de valoración del pie en personas con úlceras activas o infección grave?",
+        "opciones": ["Cada semana o según evolución clínica", "Cada 6 meses", "Anualmente", "Solo tras completar antibioterapia"],
+        "correcta": 0,
+        "categorías": ["tema153"],
+        "feedback": "En pacientes con pie de muy alto riesgo (úlceras activas o infección), el seguimiento debe ser semanal o según evolución clínica."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué instrumento se utiliza para explorar la sensibilidad vibratoria en el pie diabético?",
+        "opciones": ["Monofilamento de 10 g", "Diapasón de 128 Hz", "Martillo de reflejos", "Tensiómetro doppler"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La sensibilidad vibratoria se valora con un diapasón calibrado de 128 Hz."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en cuántos puntos se debe aplicar el monofilamento de Semmes-Weinstein por cada pie?",
+        "opciones": ["Dos", "Tres", "Cuatro", "Cinco"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento debe aplicarse en tres puntos plantares de cada pie."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuáles son los puntos plantares donde debe aplicarse el monofilamento en cada pie?",
+        "opciones": [
+          "Talón, arco plantar y maleolo lateral",
+          "Falange distal del primer dedo y bases del primer y quinto metatarsiano",
+          "Cabeza del astrágalo y maléolo tibial",
+          "Base del segundo metatarsiano y calcáneo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento se aplica en la falange distal del primer dedo y en la base del primer y quinto metatarsiano."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué objetivo tiene la aplicación del monofilamento de 10 g en el cribado del pie diabético?",
+        "opciones": [
+          "Detectar sensibilidad vibratoria",
+          "Evaluar perfusión arterial",
+          "Valorar la sensibilidad táctil protectora",
+          "Detectar hiperemia local"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento de 10 g se utiliza para valorar la sensibilidad táctil protectora, clave en la prevención de úlceras."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿en qué prominencias óseas se recomienda aplicar el diapasón de 128 Hz?",
+        "opciones": [
+          "Calcáneo y astrágalo",
+          "Cabeza del primer metatarsiano y maléolo tibial",
+          "Falange distal del segundo dedo y maléolo lateral",
+          "Base del segundo metatarsiano y maléolo peroneo"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El diapasón debe aplicarse sobre prominencias óseas: cabeza del primer metatarsiano y maléolo tibial."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué tipo de estimulación proporciona el diapasón en la exploración del pie?",
+        "opciones": ["Presión", "Temperatura", "Vibración", "Dolor"],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El diapasón calibrado de 128 Hz permite valorar la sensibilidad vibratoria en pacientes con diabetes."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué detecta la falta de percepción del monofilamento de 10 g en al menos uno de los tres puntos explorados?",
+        "opciones": [
+          "Presencia de arteriopatía",
+          "Sensibilidad vibratoria alterada",
+          "Pérdida de sensibilidad protectora",
+          "Inflamación crónica del pie"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La pérdida de sensibilidad protectora se detecta si no se percibe el monofilamento en alguno de los puntos."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cómo debe aplicarse correctamente el monofilamento de Semmes-Weinstein?",
+        "opciones": [
+          "Presionando con fuerza durante 10 segundos",
+          "Tocando de forma breve sin doblar el filamento",
+          "Presionando hasta que el filamento se curve ligeramente",
+          "Deslizando el filamento por la piel de forma continua"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento debe aplicarse hasta que se curve ligeramente, manteniéndose unos 1-2 segundos."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué utilidad tiene aplicar el diapasón sobre el maléolo tibial?",
+        "opciones": [
+          "Explorar la sensibilidad térmica",
+          "Evaluar el umbral de presión plantar",
+          "Valorar la sensibilidad vibratoria",
+          "Medir el tiempo de llenado capilar"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El diapasón aplicado sobre el maléolo tibial permite valorar la sensibilidad vibratoria proximal en el pie."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué componente de la exploración del pie detecta neuropatía periférica sensitiva temprana?",
+        "opciones": ["Monofilamento de 10 g", "Diapasón de 128 Hz", "Reflejo aquileo", "Índice tobillo-brazo"],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La pérdida precoz de sensibilidad vibratoria, evaluada con diapasón de 128 Hz, es uno de los primeros signos de neuropatía."
+      },
+      {
+        "enunciado": "¿Qué dispositivos deben utilizarse en el cribado del pie diabético según el PAI Diabetes Mellitus?",
+        "opciones": [
+          "Monofilamento de Semmes-Weinstein de 10 g y diapasón de 128 Hz",
+          "Tensiómetro doppler y monofilamento de 10 g",
+          "Monofilamento de 5 g y termómetro cutáneo",
+          "Diapasón de 64 Hz y test de reflejos rotulianos"
+        ],
+        "correcta": 0,
+        "categorías": ["tema153"],
+        "feedback": "El cribado del pie diabético debe realizarse con monofilamento de 10 g y diapasón calibrado de 128 Hz."
+      },
+      {
+        "enunciado": "Para valorar la sensibilidad táctil protectora y vibratoria en el pie diabético se emplean:",
+        "opciones": [
+          "Monofilamento de 10 g y termómetro cutáneo",
+          "Diapasón de 128 Hz y martillo de reflejos",
+          "Monofilamento de Semmes-Weinstein de 10 g y diapasón de 128 Hz",
+          "Exploración visual y doppler arterial"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento de 10 g evalúa la sensibilidad táctil y el diapasón de 128 Hz la vibratoria."
+      },
+      {
+        "enunciado": "¿Qué combinación de dispositivos es correcta para el cribado sensitivo del pie diabético?",
+        "opciones": [
+          "Auscultación con doppler y reflejos plantares",
+          "Monofilamento de 10 g y diapasón de 128 Hz",
+          "Sonda de exploración térmica y tensiómetro",
+          "Ninguna es correcta"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La combinación adecuada es monofilamento de 10 g para sensibilidad táctil y diapasón de 128 Hz para vibratoria."
+      },
+      {
+        "enunciado": "Respecto a los dispositivos empleados en el cribado del pie diabético, señale la opción correcta:",
+        "opciones": [
+          "El monofilamento evalúa la sensibilidad térmica",
+          "El diapasón de 64 Hz permite detectar vibración de forma precisa",
+          "El diapasón calibrado de 128 Hz y el monofilamento de 10 g son ambos adecuados",
+          "La prueba de reflejos es suficiente para descartar riesgo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Solo el diapasón de 128 Hz (no 64) y el monofilamento de 10 g permiten valorar correctamente las sensibilidades clave."
+      },
+      {
+        "enunciado": "Señale la combinación correcta de dispositivos de cribado para el pie diabético según el PAI:",
+        "opciones": [
+          "A) Diapasón de 128 Hz.",
+          "B) Monofilamento de Semmes-Weinstein de 10 g.",
+          "C) Martillo de reflejos.",
+          "D) A y B son correctas."
+        ],
+        "correcta": 3,
+        "categorías": ["tema153"],
+        "feedback": "A y B son correctas: ambos dispositivos están indicados para la evaluación sensitiva del pie diabético."
+      },
+      {
+        "enunciado": "Sobre el uso del diapasón y monofilamento en el cribado del pie diabético, señale la opción INCORRECTA:",
+        "opciones": [
+          "El monofilamento se aplica en tres puntos plantares por pie.",
+          "El diapasón debe ser de 128 Hz, aplicado sobre prominencias óseas.",
+          "Ambos dispositivos detectan sensibilidad vibratoria.",
+          "La ausencia de sensibilidad al monofilamento sugiere riesgo de úlcera."
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Solo el diapasón evalúa la sensibilidad vibratoria; el monofilamento evalúa la táctil protectora."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes combinaciones de dispositivos permite detectar la pérdida de sensibilidad protectora y vibratoria?",
+        "opciones": [
+          "Monofilamento de 10 g y doppler arterial",
+          "Diapasón de 128 Hz y exploración visual",
+          "Monofilamento de 10 g y diapasón de 128 Hz",
+          "Exploración térmica y martillo de reflejos"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Monofilamento de 10 g evalúa la sensibilidad protectora; el diapasón de 128 Hz la vibratoria."
+      },
+      {
+        "enunciado": "Señale la afirmación verdadera sobre los dispositivos recomendados para el cribado del pie diabético:",
+        "opciones": [
+          "El monofilamento de 5 g detecta mejor la neuropatía que el de 10 g",
+          "El diapasón debe aplicarse en el talón exclusivamente",
+          "El monofilamento de 10 g debe usarse en tres puntos del pie",
+          "El doppler es más sensible que el monofilamento para evaluar sensibilidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento se aplica en tres puntos: falange distal del primer dedo y bases del primer y quinto metatarsiano."
+      },
+      {
+        "enunciado": "Respecto al cribado sensitivo del pie diabético, ¿cuál de estas afirmaciones es cierta?",
+        "opciones": [
+          "El monofilamento detecta sensibilidad térmica y dolorosa",
+          "El diapasón de 128 Hz detecta sensibilidad táctil fina",
+          "Monofilamento de 10 g y diapasón de 128 Hz son complementarios en cribado",
+          "La valoración con diapasón no aporta información clínica relevante"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Ambos dispositivos son complementarios: uno detecta pérdida de protección táctil y el otro vibratoria."
+      },
+      {
+        "enunciado": "¿Qué instrumentos permiten clasificar el pie como de alto riesgo por pérdida sensitiva según el PAI?",
+        "opciones": [
+          "Monofilamento de 10 g y exploración térmica",
+          "Doppler y test de reflejos rotulianos",
+          "Monofilamento de Semmes-Weinstein de 10 g y diapasón de 128 Hz",
+          "Electromiografía y pulsos femorales"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El monofilamento y el diapasón permiten detectar neuropatía sensitiva que define el pie de riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuándo puede diagnosticarse neuropatía en el pie diabético?",
+        "opciones": [
+          "Cuando hay pérdida de sensibilidad en al menos dos puntos del pie",
+          "Con hallazgos patológicos en un punto a la exploración con monofilamento o diapasón",
+          "Solo si el paciente refiere dolor o quemazón en reposo",
+          "Cuando el índice tobillo-brazo es inferior a 0,9"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Se diagnostica neuropatía si hay al menos un hallazgo patológico en la exploración con monofilamento o sensibilidad vibratoria."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo es suficiente para confirmar la presencia de neuropatía en el pie diabético?",
+        "opciones": [
+          "Dolor con la presión del monofilamento",
+          "Ausencia de sensibilidad en un único punto con monofilamento",
+          "Test de reflejos anormales en el tobillo",
+          "Sensación de hormigueo sin hallazgos físicos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Basta con encontrar un punto patológico a la exploración con monofilamento o sensibilidad vibratoria para diagnosticar neuropatía."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de estas condiciones NO incrementa el riesgo moderado en pie diabético?",
+        "opciones": [
+          "Presencia de durezas o trastornos tróficos",
+          "Pie plano o pie cavo",
+          "Caminar habitualmente descalzo",
+          "Índice tobillo-brazo superior a 1,3"
+        ],
+        "correcta": 3,
+        "categorías": ["tema153"],
+        "feedback": "El ITB alterado no forma parte del riesgo moderado, sino del riesgo alto; las demás son factores moderados."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué factor contribuye al riesgo moderado de complicaciones en el pie diabético?",
+        "opciones": [
+          "Pulsos pedios normales",
+          "Uso de calzado cerrado con plantillas",
+          "Autotratamiento de lesiones en casa",
+          "Índice tobillo-brazo 0,95"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El autotratamiento de lesiones, como cortarse callos o durezas, incrementa el riesgo de complicaciones y categoriza al paciente como riesgo moderado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes afirmaciones define riesgo bajo en pie diabético?",
+        "opciones": [
+          "Presencia de pie cavo sin pérdida sensitiva",
+          "No presentar neuropatía ni ningún otro factor de riesgo",
+          "Tener trastornos tróficos pero sin dolor",
+          "Presentar tabaquismo activo sin deformidades"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Solo se considera riesgo bajo cuando no hay neuropatía ni ningún otro factor de riesgo anatómico, funcional o conductual."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué situación justifica diagnóstico de neuropatía sensitiva periférica en el pie?",
+        "opciones": [
+          "Ausencia de sensibilidad vibratoria en maléolo tibial unilateral",
+          "ITB < 0,9 sin pérdida sensitiva",
+          "Monofilamento no percibido en uno de los tres puntos plantares",
+          "Presencia de onicomicosis y durezas plantares"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La pérdida de sensibilidad al monofilamento en al menos un punto ya indica neuropatía según el protocolo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué combinación define mejor una situación de riesgo moderado para pie diabético?",
+        "opciones": [
+          "No sensibilidad vibratoria + deformidad anatómica",
+          "Sensibilidad conservada + tabaquismo + pie plano",
+          "ITB normal + pérdida de sensibilidad + deformidades",
+          "Reflejos conservados + neuropatía aislada"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Tabaquismo y alteraciones biomecánicas del pie, incluso con sensibilidad conservada, suponen riesgo moderado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo justifica diagnóstico de neuropatía incluso sin síntomas clínicos?",
+        "opciones": [
+          "Presión dolorosa con monofilamento",
+          "Sensación de quemazón en reposo",
+          "Pérdida de sensibilidad en un único punto a la exploración",
+          "ITB mayor de 1,4 con buena movilidad"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La neuropatía puede ser asintomática; basta con la pérdida de sensibilidad en un solo punto."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes prácticas de autocuidado se considera factor de riesgo moderado?",
+        "opciones": [
+          "Uso de crema hidratante en los pies",
+          "Uso de tijeras para eliminar durezas en casa",
+          "Lavado diario con agua templada y secado",
+          "Evitar caminar descalzo por casa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Autotratamiento de lesiones como cortar durezas o callos aumenta el riesgo de úlceras: factor moderado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo aislado clasifica al pie como de riesgo alto, no moderado?",
+        "opciones": [
+          "Trastornos tróficos leves",
+          "Pérdida de sensibilidad vibratoria",
+          "ITB < 0,9",
+          "Deformidades con sensibilidad intacta"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "El ITB alterado (< 0,9) indica arteriopatía, lo que clasifica directamente como pie de alto riesgo."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes factores clasifica al paciente con diabetes como de riesgo ALTO de pie diabético?",
+        "opciones": [
+          "Tabaquismo activo",
+          "Deformidades del pie y durezas plantares",
+          "Diagnóstico de isquemia o ITB < 0,9",
+          "Limitación para el autocuidado"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La isquemia (ITB < 0,9 o > 1,3) clasifica al paciente como riesgo ALTO."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes situaciones corresponde a un riesgo MODERADO de pie diabético?",
+        "opciones": [
+          "Diagnóstico de neuropatía sensitiva",
+          "Úlcera previa",
+          "Caminar habitualmente descalzo",
+          "ITB > 1,3"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "Las prácticas de riesgo como caminar descalzo clasifican al paciente como riesgo MODERADO."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué criterio clasifica al paciente como riesgo ALTO de pie diabético?",
+        "opciones": [
+          "Tabaquismo",
+          "Nefropatía diabética",
+          "Retinopatía leve",
+          "Amputación previa"
+        ],
+        "correcta": 3,
+        "categorías": ["tema153"],
+        "feedback": "Una amputación previa es un criterio de riesgo ALTO de pie diabético."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes factores NO corresponde a riesgo moderado de pie diabético?",
+        "opciones": [
+          "Trastornos tróficos en la inspección del pie",
+          "Uso de calzado inadecuado",
+          "Diagnóstico de isquemia",
+          "Durezas plantares"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La isquemia (ITB <0,9 o >1,3) clasifica al paciente como riesgo ALTO, no moderado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué hallazgo en la exploración sensitiva justificaría riesgo alto de pie diabético?",
+        "opciones": [
+          "Dolor con el monofilamento",
+          "Pérdida de sensibilidad táctil en un punto con monofilamento",
+          "ITB normal pero con pie plano",
+          "Reflejos disminuidos sin otros hallazgos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "El diagnóstico de neuropatía por hallazgo patológico en la exploración sensitiva clasifica como riesgo ALTO."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué paciente se considera de riesgo BAJO para pie diabético?",
+        "opciones": [
+          "Paciente con HTA y diabetes controlada",
+          "Paciente sin complicaciones ni factores de riesgo descritos",
+          "Paciente con obesidad y pie plano",
+          "Paciente con hiperlipemia en tratamiento"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "Riesgo bajo: paciente sin ninguno de los factores descritos para riesgo alto o moderado."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes factores define un riesgo ALTO de pie diabético?",
+        "opciones": [
+          "Enfermedad renal crónica en diálisis",
+          "Presencia de durezas plantares",
+          "Tabaquismo activo",
+          "Uso de tijeras para tratar lesiones en casa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema153"],
+        "feedback": "La ERC en terapia sustitutiva renal se considera criterio de riesgo ALTO."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de las siguientes combinaciones se asocia a riesgo MODERADO de pie diabético?",
+        "opciones": [
+          "Pie cavo + uso de cortaúñas + tabaquismo",
+          "Isquemia + neuropatía sensitiva",
+          "Úlcera previa + ITB <0,9",
+          "Pérdida de sensibilidad vibratoria + amputación previa"
+        ],
+        "correcta": 0,
+        "categorías": ["tema153"],
+        "feedback": "Todos los elementos en la opción A son factores moderados si se presentan en ausencia de isquemia o neuropatía."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿qué paciente debe considerarse de riesgo ALTO para pie diabético?",
+        "opciones": [
+          "Tabaquismo activo y pie plano",
+          "Retinopatía y uso de calentadores artificiales",
+          "Neuropatía confirmada por exploración sensitiva",
+          "Durezas plantares y uso de tijeras en casa"
+        ],
+        "correcta": 2,
+        "categorías": ["tema153"],
+        "feedback": "La presencia de neuropatía en la exploración (monofilamento o diapasón) implica riesgo ALTO."
+      },
+      {
+        "enunciado": "Según el PAI Diabetes Mellitus, ¿cuál de los siguientes factores es de riesgo MODERADO, no alto, para pie diabético?",
+        "opciones": [
+          "ITB de 0,85",
+          "Nefropatía diabética leve",
+          "Diagnóstico de neuropatía",
+          "Amputación menor previa"
+        ],
+        "correcta": 1,
+        "categorías": ["tema153"],
+        "feedback": "La presencia de complicaciones como nefropatía o retinopatía se considera factor de riesgo MODERADO."
+      }     
+]

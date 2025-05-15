@@ -1,0 +1,72 @@
+[
+    {
+        "enunciado": "Una lesión en la piel que se caracteriza por estar circunscrita, elevada y sólida, con un tamaño inferior a 10 mm de diámetro se denomina:",
+        "opciones": ["Pápula", "Mácula", "Nódulo", "Vesícula"],
+        "correcta": 0,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "Una pápula es una lesión sólida, elevada y circunscrita, menor de 10 mm."
+      },
+      {
+        "enunciado": "Una lesión cutánea plana, no palpable, con cambio de coloración y sin elevación se denomina:",
+        "opciones": ["Vesícula", "Pústula", "Mácula", "Pápula"],
+        "correcta": 2,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "Una mácula es una alteración de la coloración de la piel sin relieve ni infiltración."
+      },
+      {
+        "enunciado": "Una lesión cutánea elevada, de contenido líquido claro y tamaño inferior a 5 mm se denomina:",
+        "opciones": ["Ampolla", "Pústula", "Nódulo", "Vesícula"],
+        "correcta": 3,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La vesícula es una pequeña elevación rellena de líquido claro, menor a 5 mm."
+      },
+      {
+        "enunciado": "Una ampolla se diferencia de una vesícula por:",
+        "opciones": ["Su contenido purulento", "Su contenido hemorrágico", "Su tamaño superior a 5 mm", "Su carácter sólido"],
+        "correcta": 2,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La ampolla tiene características similares a la vesícula, pero mide más de 5 mm."
+      },
+      {
+        "enunciado": "Una lesión elevada, de contenido purulento y tamaño pequeño se denomina:",
+        "opciones": ["Ampolla", "Pústula", "Mácula", "Erosión"],
+        "correcta": 1,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "Una pústula contiene material purulento, puede aparecer en infecciones o inflamaciones."
+      },
+      {
+        "enunciado": "Un nódulo en dermatología es:",
+        "opciones": ["Una lesión líquida superficial", "Una lesión sólida profunda mayor de 10 mm", "Una lesión escamosa", "Una placa eritematosa"],
+        "correcta": 1,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "Un nódulo es una lesión sólida, profunda y de más de 10 mm de diámetro."
+      },
+      {
+        "enunciado": "Una lesión que consiste en la pérdida superficial de la epidermis, que no deja cicatriz, se denomina:",
+        "opciones": ["Úlcera", "Fisura", "Erosión", "Pústula"],
+        "correcta": 2,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La erosión es una pérdida superficial de epidermis que no alcanza dermis y no deja cicatriz."
+      },
+      {
+        "enunciado": "Una lesión cutánea con pérdida de epidermis y dermis que puede dejar cicatriz se denomina:",
+        "opciones": ["Fisura", "Úlcera", "Erosión", "Costra"],
+        "correcta": 1,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La úlcera afecta a capas más profundas y sí puede dejar cicatriz tras la curación."
+      },
+      {
+        "enunciado": "Una placa blanquecina, adherente, que aparece por acumulación de células muertas sobre la piel se llama:",
+        "opciones": ["Pápula", "Escama", "Erosión", "Mácula"],
+        "correcta": 1,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La escama es un desprendimiento visible de capas de la epidermis, común en psoriasis."
+      },
+      {
+        "enunciado": "Una lesión en forma de surco lineal profundo que afecta a la epidermis y puede extenderse a la dermis es:",
+        "opciones": ["Fisura", "Erosión", "Costra", "Vesícula"],
+        "correcta": 0,
+        "categorías": ["tema182", "lesiones_piel"],
+        "feedback": "La fisura es una hendidura lineal dolorosa, típica de talones o labios secos."
+      }      
+]
