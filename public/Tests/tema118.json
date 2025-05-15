@@ -1,214 +1,340 @@
 [
-    {
-        "enunciado": "¿Cuál de los siguientes ítems forma parte del Índice de Barthel?",
-        "opciones": ["Preparación de comidas", "Uso del teléfono", "Control de esfínteres", "Manejo de medicación"],
-        "correcta": 2,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El control de esfínteres es uno de los ítems clave del índice de Barthel."
-      },
-      {
-        "enunciado": "En el Índice de Barthel, ¿qué actividad se valora con una puntuación de 0, 5 o 10 puntos?",
-        "opciones": ["Subir escaleras", "Baño", "Vestirse", "Desplazarse entre habitaciones"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Subir y bajar escaleras se valora con 0 (dependiente), 5 (ayuda), 10 (independiente)."
-      },
-      {
-        "enunciado": "¿Cuál de estas actividades es valorada en el Índice de Barthel?",
-        "opciones": ["Preparar la medicación", "Vestirse", "Llamar por teléfono", "Hacer la compra"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Vestirse es uno de los ítems del índice, se valora en grados de autonomía."
-      },
-      {
-        "enunciado": "El ítem 'alimentación' en el Índice de Barthel evalúa:",
-        "opciones": ["Si la persona puede cocinar sus alimentos", "Si es capaz de comer sola", "Si tiene dieta equilibrada", "Si puede comprar alimentos"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El ítem alimentación valora la capacidad de comer sin ayuda, no de cocinar."
-      },
-      {
-        "enunciado": "¿Qué puntuación máxima puede otorgarse en el ítem 'traslado cama-silla' del índice de Barthel?",
-        "opciones": ["5", "10", "15", "20"],
-        "correcta": 2,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El ítem 'traslados' (cama-silla) se valora con un máximo de 15 puntos."
-      },
-      {
-        "enunciado": "El ítem 'aseo personal' en el Índice de Barthel tiene una puntuación máxima de:",
-        "opciones": ["5", "10", "15", "20"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Aseo personal es un ítem menor, con un máximo de 5 puntos."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems tiene una puntuación máxima de 10 puntos en el Índice de Barthel?",
-        "opciones": ["Deambulación", "Vestirse", "Comer", "Usar el WC"],
-        "correcta": 3,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El uso del inodoro se valora con un máximo de 10 puntos en función de la autonomía."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems NO pertenece al Índice de Barthel?",
-        "opciones": ["Bañarse", "Deambulación", "Preparar comidas", "Uso del WC"],
-        "correcta": 2,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Preparar comidas pertenece a la escala de Lawton, no a Barthel."
-      },
-      {
-        "enunciado": "¿Qué aspecto valora el ítem 'control de defecación' en el Índice de Barthel?",
-        "opciones": ["Si necesita ayuda para ir al WC", "Si usa pañal", "Si tiene control total, parcial o nulo", "Si necesita laxantes"],
-        "correcta": 2,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El ítem se enfoca en la autonomía funcional para el control de esfínteres."
-      },
-      {
-        "enunciado": "¿Cuál es la puntuación máxima total posible del Índice de Barthel?",
-        "opciones": ["50", "75", "90", "100"],
-        "correcta": 3,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El índice de Barthel tiene una puntuación total de hasta 100 puntos."
-      },
-      {
-        "enunciado": "¿Cuál de estas actividades es valorada en el Índice de Barthel?",
-        "opciones": ["Uso del retrete", "Control del correo postal", "Manejo del dinero", "Planificación de menús"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El uso del retrete es uno de los ítems valorados en el Índice de Barthel."
-      },
-      {
-        "enunciado": "¿Qué capacidad funcional se incluye en el Índice de Barthel?",
-        "opciones": ["Preparación de alimentos", "Control de esfínteres urinarios", "Realizar compras", "Gestión de citas médicas"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El control urinario es uno de los ítems clave del Índice de Barthel."
-      },
-      {
-        "enunciado": "¿Cuál de estas actividades pertenece al Índice de Barthel?",
-        "opciones": ["Manejo del transporte público", "Subir y bajar escaleras", "Usar el cajero automático", "Organizar la medicación"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Subir y bajar escaleras es uno de los ítems funcionales del Índice de Barthel."
-      },
-      {
-        "enunciado": "Según el Índice de Barthel, ¿cuál de estas actividades se valora para determinar autonomía?",
-        "opciones": ["Vestirse", "Gestionar documentos legales", "Administrar finanzas", "Cocinar de forma independiente"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Vestirse es uno de los ítems que evalúa la independencia funcional en el Índice de Barthel."
-      },
-      {
-        "enunciado": "¿Qué ítem se incluye en el Índice de Barthel?",
-        "opciones": ["Higiene personal", "Leer etiquetas de fármacos", "Tomar decisiones médicas", "Buscar ayuda social"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La higiene personal se contempla como parte de las actividades básicas en Barthel."
-      },
-      {
-        "enunciado": "¿Qué actividad funcional forma parte del Índice de Barthel?",
-        "opciones": ["Realizar gestiones bancarias", "Baño o ducha", "Conducir un vehículo", "Usar teléfono móvil"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El baño o ducha es uno de los ítems básicos valorados en el Barthel."
-      },
-      {
-        "enunciado": "En el Índice de Barthel, ¿cuál de estas tareas se considera para valorar el nivel de dependencia?",
-        "opciones": ["Trasladarse entre sillas y cama", "Lavar ropa", "Pedir comida a domicilio", "Tomar decisiones financieras"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El traslado cama-silla es uno de los ítems centrales del índice."
-      },
-      {
-        "enunciado": "¿Cuál de las siguientes actividades se evalúa en el Índice de Barthel?",
-        "opciones": ["Cuidado de mascotas", "Alimentación", "Participación en actividades sociales", "Gestión de conflictos familiares"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La alimentación es una de las 10 actividades evaluadas en el Índice de Barthel."
-      },
-      {
-        "enunciado": "¿Qué actividad funcional se recoge en el Índice de Barthel?",
-        "opciones": ["Organizar vacaciones", "Uso del inodoro", "Seguimiento de tratamientos complejos", "Limpieza de la casa"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El uso del inodoro (retrete) es parte de los ítems funcionales evaluados."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems forma parte del Índice de Barthel?",
-        "opciones": ["Cuidado de nietos", "Desplazarse en silla de ruedas o caminar", "Atención al correo electrónico", "Tramitar ayudas sociales"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La movilidad es un componente fundamental del Índice de Barthel."
-      },
-      {
-        "enunciado": "¿Cuál de las siguientes funciones se evalúa directamente en el Índice de Barthel?",
-        "opciones": ["Control de esfínteres fecales", "Supervisión de medicación", "Gestión de ayudas técnicas", "Comprensión lectora"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El control de esfínteres fecales es uno de los 10 ítems del Barthel."
-      },
-      {
-        "enunciado": "¿Qué ítem corresponde al Índice de Barthel?",
-        "opciones": ["Usar transporte público", "Peinarse y afeitarse", "Hacer la cama", "Revisar informes médicos"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La higiene personal incluye tareas como peinarse y afeitarse."
-      },
-      {
-        "enunciado": "¿Qué aspecto de la movilidad valora el Índice de Barthel?",
-        "opciones": ["Marcha o desplazamiento", "Equilibrio postural en bipedestación", "Tiempo de marcha mantenida", "Subida de rampa"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El desplazamiento o marcha es uno de los ítems clave del Barthel."
-      },
-      {
-        "enunciado": "¿Cuál de estas actividades básicas es valorada en el Índice de Barthel?",
-        "opciones": ["Planificación del menú semanal", "Vestido superior e inferior", "Hacer ejercicio físico", "Toma de decisiones financieras"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Vestirse, incluyendo prenda superior e inferior, es un ítem evaluado."
-      },
-      {
-        "enunciado": "¿Qué aspecto funcional se contempla en el Barthel?",
-        "opciones": ["Alimentación por sí mismo", "Uso del teléfono móvil", "Realización de la compra", "Participación en grupos sociales"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La capacidad de alimentarse solo es uno de los ítems principales."
-      },
-      {
-        "enunciado": "¿Qué actividad se incluye en el Barthel como parte de la higiene personal?",
-        "opciones": ["Cuidado de la piel", "Lavado de cara y manos", "Aplicación de cremas corporales", "Uso de productos cosméticos"],
-        "correcta": 1,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El lavado de cara y manos forma parte del ítem de higiene personal."
-      },
-      {
-        "enunciado": "¿Qué actividad cotidiana se evalúa específicamente en el Índice de Barthel?",
-        "opciones": ["Desplazamiento en escaleras", "Organización del hogar", "Cuidado del entorno familiar", "Gestión del presupuesto doméstico"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Subir y bajar escaleras se evalúa como una capacidad funcional específica."
-      },
-      {
-        "enunciado": "¿Cuál de estas tareas forma parte del ítem de transferencia del Índice de Barthel?",
-        "opciones": ["Pasar de la cama a la silla", "Levantar pesas de entrenamiento", "Girar sobre el eje corporal", "Andar descalzo"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "La transferencia cama-silla se evalúa directamente en el Barthel."
-      },
-      {
-        "enunciado": "¿Qué se valora en el ítem de baño del Índice de Barthel?",
-        "opciones": ["Capacidad de ducharse o bañarse solo", "Uso de productos cosméticos", "Frecuencia del baño", "Tiempo dedicado a la higiene"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "El ítem valora si el paciente necesita ayuda para ducharse o bañarse."
-      },
-      {
-        "enunciado": "¿Qué capacidad funcional evalúa el Índice de Barthel que podría verse limitada por artrosis severa?",
-        "opciones": ["Vestirse", "Cuidado de jardines", "Realizar gestiones bancarias", "Recoger la casa"],
-        "correcta": 0,
-        "categorías": ["tema118", "indice_barthel_items"],
-        "feedback": "Las limitaciones articulares pueden afectar directamente al ítem de vestirse."
-      }
-      
-      
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Gestión de la medicación",
+      "Control de agenda médica",
+      "Deposición",
+      "Uso de electrodomésticos"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Preparación de comidas",
+      "Uso del transporte público",
+      "Subir y bajar escaleras",
+      "Gestión económica básica"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Realizar compras",
+      "Llamadas telefónicas",
+      "Vestirse",
+      "Cuidado del entorno doméstico"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Limpieza del hogar",
+      "Arreglarse",
+      "Administración del dinero",
+      "Participación social"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Responsabilidad en la medicación",
+      "Lavarse",
+      "Uso de tecnología básica",
+      "Organización de tareas domésticas"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Comunicación escrita",
+      "Cuidado de personas a cargo",
+      "Micción",
+      "Manejo del dinero"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Tomar decisiones legales",
+      "Usar el retrete",
+      "Realizar llamadas importantes",
+      "Preparar medicamentos"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Conducir un vehículo",
+      "Transacciones bancarias",
+      "Comer",
+      "Llamar por teléfono"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Llevar una agenda de citas médicas",
+      "Participación en ocio",
+      "Trasladarse de la cama a la silla",
+      "Aseo del entorno inmediato"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Planificación de actividades del hogar",
+      "Gestión de documentos personales",
+      "Deambulación",
+      "Tareas de jardinería ligera"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Pedir cita médica por teléfono",
+      "Gestionar la medicación",
+      "Vestirse",
+      "Llevar un registro de síntomas"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Revisar documentos personales",
+      "Subir y bajar escaleras",
+      "Tomar decisiones económicas",
+      "Organizar la compra"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Buscar información sanitaria",
+      "Planificación semanal de comidas",
+      "Deambulación",
+      "Supervisión del entorno doméstico"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Manejo de agenda personal",
+      "Arreglarse",
+      "Uso de dispositivos electrónicos",
+      "Tareas de planificación de ocio"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Atención telefónica",
+      "Lavado de ropa",
+      "Micción",
+      "Manejo del dinero"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Tomar la tensión arterial",
+      "Deposición",
+      "Preparar el desayuno",
+      "Hacer la cama"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Gestionar turnos médicos",
+      "Comer",
+      "Hablar por teléfono",
+      "Comprar medicamentos"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Participar en grupos comunitarios",
+      "Usar el retrete",
+      "Leer el periódico",
+      "Regar las plantas"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Hacer ejercicios de memoria",
+      "Trasladarse de cama a silla",
+      "Gestionar redes sociales",
+      "Cocinar platos elaborados"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Sacar la basura",
+      "Lavar el coche",
+      "Lavarse",
+      "Recoger recetas electrónicas"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Acompañar a otros al médico",
+      "Vestirse",
+      "Programar citas online",
+      "Realizar videollamadas"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Ir a la farmacia",
+      "Organizar la semana",
+      "Controlar esfínteres",
+      "Hacer gestiones bancarias"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Tareas administrativas",
+      "Ayuda a familiares",
+      "Llevar el control de visitas médicas",
+      "Subir y bajar escaleras"
+    ],
+    "correcta": 3,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Organizar actividades sociales",
+      "Cuidado de mascotas",
+      "Manejo del tiempo",
+      "Arreglarse"
+    ],
+    "correcta": 3,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Barthel?",
+    "opciones": [
+      "Revisar correo electrónico",
+      "Pagar facturas",
+      "Solicitar citas médicas",
+      "Comer"
+    ],
+    "correcta": 3,
+    "categorias": ["tema118"],
+    "feedback": "El Índice de Barthel incluye: Comer, Lavarse, Vestirse, Arreglarse, Deposición, Micción, Usar el retrete, Trasladarse, Deambulación, Subir y bajar escaleras."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes ítems es uno de los que más puntúan en el Índice de Barthel?",
+    "opciones": [
+      "Lavarse",
+      "Arreglarse",
+      "Trasladarse",
+      "Usar el retrete"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "En el Índice de Barthel, los ítems que más puntúan son: Deambulación y Trasladarse (hasta 15 puntos), seguidos de Micción, Deposición y Escaleras (hasta 10)."
+  },
+  {
+    "enunciado": "¿Qué actividad del Índice de Barthel puede otorgar más puntuación individual que las demás?",
+    "opciones": [
+      "Lavarse",
+      "Deambulación",
+      "Arreglarse",
+      "Vestirse"
+    ],
+    "correcta": 1,
+    "categorias": ["tema118"],
+    "feedback": "En el Índice de Barthel, Deambulación y Trasladarse son los ítems de mayor peso, cada uno puede puntuar hasta 15. Micción, Deposición y Escaleras puntúan hasta 10."
+  },
+  {
+    "enunciado": "¿Cuáles son los dos ítems con mayor peso en la puntuación total del Índice de Barthel?",
+    "opciones": [
+      "Arreglarse y usar el retrete",
+      "Comer y lavarse",
+      "Deambulación y trasladarse",
+      "Vestirse y subir escaleras"
+    ],
+    "correcta": 2,
+    "categorias": ["tema118"],
+    "feedback": "Deambulación y Trasladarse son los dos ítems que más puntúan en el Índice de Barthel (hasta 15 puntos cada uno)."
+  }
+  
+
 ]

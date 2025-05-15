@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "Según el modelo de Kübler-Ross, ¿cuál es la primera fase del proceso de duelo?",
+        "opciones": [
+          "Negociación",
+          "Depresión",
+          "Negación",
+          "Ira"
+        ],
+        "correcta": 2,
+        "categorias": ["tema204"],
+        "feedback": "La primera fase del duelo es la negación, un mecanismo de defensa inicial ante la pérdida o diagnóstico impactante, en la que la persona se niega a aceptar la realidad."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes manifestaciones emocionales es más característica de la fase de negociación en el modelo de Kübler-Ross?",
+        "opciones": [
+          "Rechazo frontal de la realidad del diagnóstico.",
+          "Intento de pactar con un poder superior o consigo mismo para evitar la pérdida.",
+          "Irritabilidad constante con el entorno cercano.",
+          "Sentimiento de culpa permanente por la situación."
+        ],
+        "correcta": 1,
+        "categorias": ["tema204"],
+        "feedback": "La fase de negociación se caracteriza por intentos de retrasar o evitar la pérdida a través de promesas o pactos mentales, a menudo dirigidos a una figura trascendente."
+      },
+      {
+        "enunciado": "¿En qué fase del duelo según Kübler-Ross se observa comúnmente un estado de apatía, tristeza profunda y aislamiento?",
+        "opciones": [
+          "Ira",
+          "Negociación",
+          "Depresión",
+          "Aceptación"
+        ],
+        "correcta": 2,
+        "categorias": ["tema204"],
+        "feedback": "Durante la fase de depresión, la persona toma conciencia de la realidad de la pérdida, lo que se traduce en un estado de tristeza profunda, llanto y retraimiento."
+      },
+      {
+        "enunciado": "Una persona que expresa verbalmente: '¿Por qué me pasa esto a mí? No es justo', probablemente se encuentra en la fase de:",
+        "opciones": [
+          "Negación",
+          "Ira",
+          "Aceptación",
+          "Negociación"
+        ],
+        "correcta": 1,
+        "categorias": ["tema204"],
+        "feedback": "La expresión de injusticia, enfado y búsqueda de culpables es típica de la fase de ira, en la que el afectado proyecta su dolor hacia el entorno."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones caracteriza mejor la fase de aceptación del duelo según Kübler-Ross?",
+        "opciones": [
+          "Negación persistente de lo ocurrido.",
+          "Emocionalidad intensa y llanto frecuente.",
+          "Pérdida del sentido de vida y desesperanza.",
+          "Asimilación de la pérdida y búsqueda de adaptación."
+        ],
+        "correcta": 3,
+        "categorias": ["tema204"],
+        "feedback": "La aceptación se da cuando la persona logra asumir la pérdida, disminuye la resistencia emocional y comienza a reorganizar su vida con una nueva perspectiva."
+      },
+      {
+        "enunciado": "Una persona que evita hablar de la pérdida, sigue realizando planes como si nada hubiese ocurrido y responde con frases como 'eso no está pasando' está probablemente en la fase de:",
+        "opciones": [
+          "Negociación",
+          "Depresión",
+          "Ira",
+          "Negación"
+        ],
+        "correcta": 3,
+        "categorias": ["tema204"],
+        "feedback": "La negación es una reacción inicial ante el impacto emocional, en la que la persona se defiende psicológicamente bloqueando la realidad de la pérdida."
+      },
+      {
+        "enunciado": "En relación al modelo de Kübler-Ross, señale la afirmación correcta:",
+        "opciones": [
+          "Las fases del duelo son fijas, lineales y obligatorias.",
+          "La aceptación implica superar completamente el dolor.",
+          "La persona puede atravesar las fases en diferente orden o repetir alguna.",
+          "La ira es siempre dirigida hacia el personal sanitario."
+        ],
+        "correcta": 2,
+        "categorias": ["tema204"],
+        "feedback": "Aunque el modelo establece cinco fases, estas no siempre se presentan de manera secuencial. Es común que las personas fluctúen entre fases o repitan algunas."
+      },
+      {
+        "enunciado": "¿Cuáles son las fases del duelo propuestas por el modelo de Kübler-Ross?",
+        "opciones": [
+          "Negación, Ira, Negociación, Depresión, Aceptación",
+          "Ira, Negación, Aceptación, Depresión, Negociación",
+          "Shock, Negación, Rabia, Depresión, Reconciliación",
+          "Incredulidad, Miedo, Lucha, Dolor, Superación"
+        ],
+        "correcta": 0,
+        "categorias": ["tema204"],
+        "feedback": "El modelo de Kübler-Ross establece cinco fases del duelo: Negación, Ira, Negociación, Depresión y Aceptación, que pueden experimentarse en distinto orden o solaparse."
+      },
+      {
+        "enunciado": "¿Cuál es el orden correcto de las fases del duelo según la secuencia clásica descrita por Kübler-Ross?",
+        "opciones": [
+          "Negociación, Negación, Ira, Depresión, Aceptación",
+          "Negación, Ira, Negociación, Depresión, Aceptación",
+          "Negación, Depresión, Negociación, Ira, Aceptación",
+          "Ira, Negación, Aceptación, Depresión, Negociación"
+        ],
+        "correcta": 1,
+        "categorias": ["tema204"],
+        "feedback": "El orden propuesto por Kübler-Ross es: Negación → Ira → Negociación → Depresión → Aceptación, aunque no siempre se experimenta de forma estrictamente lineal."
+      },
+      {
+        "enunciado": "En el modelo de Kübler-Ross sobre el proceso de duelo, ¿qué fase precede a la depresión?",
+        "opciones": [
+          "Ira",
+          "Aceptación",
+          "Negación",
+          "Negociación"
+        ],
+        "correcta": 3,
+        "categorias": ["tema204"],
+        "feedback": "La fase de negociación, en la que la persona intenta aplazar o cambiar la realidad de la pérdida, suele preceder a la depresión, cuando toma conciencia emocional del hecho."
+      }
+      
+]

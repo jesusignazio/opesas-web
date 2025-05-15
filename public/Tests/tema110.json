@@ -208,6 +208,188 @@
         "correcta": 0,
         "categorías": ["tema110", "fase_cat"],
         "feedback": "El punto de inserción debe ser evaluado al menos cada turno para detectar signos de complicación."
+      },
+      {
+        "enunciado": "Respecto a la manipulación del catéter venoso central (CVC), ¿cuál de las siguientes acciones es INCORRECTA?",
+        "opciones": [
+          "Realizar lavado con técnica de presión positiva tras cada uso.",
+          "Desinfectar la conexión antes de cada manipulación con antiséptico adecuado.",
+          "Aspirar siempre al inicio para comprobar permeabilidad.",
+          "Realizar purgado del sistema con agua estéril antes de usarlo por primera vez."
+        ],
+        "correcta": 3,
+        "categorias": ["tema110"],
+        "feedback": "El lavado debe hacerse con suero salino y técnica adecuada. No se usa agua estéril en ningún momento, ya que no es un fluido compatible con administración intravenosa."
+      },
+      {
+        "enunciado": "¿Cuál es el antiséptico de elección para la desinfección de la conexión del CVC antes de su uso?",
+        "opciones": [
+          "Yodopovidona al 10%",
+          "Alcohol isopropílico al 30%",
+          "Clorhexidina alcohólica al 2%",
+          "Suero fisiológico estéril"
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "La clorhexidina alcohólica al 2% es el antiséptico de elección para la desinfección de puntos de acceso y conexiones del CVC por su eficacia bactericida y rápida acción."
+      },
+      {
+        "enunciado": "¿Cada cuánto debe cambiarse el apósito transparente estéril de un CVC si no hay complicaciones ni signos de infección?",
+        "opciones": [
+          "Cada 24 horas.",
+          "Cada 48 horas.",
+          "Cada 7 días o antes si está sucio o despegado.",
+          "Solo al finalizar la terapia intravenosa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "El apósito debe cambiarse cada 7 días si es transparente, o antes si está húmedo, sucio o despegado. Si es de gasa, se cambia cada 48 horas."
+      },
+      {
+        "enunciado": "Durante la administración de medicación a través de un CVC multilumen, ¿cuál es la precaución correcta?",
+        "opciones": [
+          "Se deben usar todas las luces simultáneamente para mejorar el flujo.",
+          "Cada luz debe manipularse como si fuera un acceso independiente.",
+          "El lavado solo es necesario en la luz principal.",
+          "Las luces no se lavan si solo se utilizan para sueros."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "Cada luz de un catéter multilumen es independiente. Requiere lavado, desinfección y control de permeabilidad como si fuera un acceso exclusivo."
+      },
+      {
+        "enunciado": "¿Cuál es la técnica correcta para el lavado de un CVC después de la administración de medicación?",
+        "opciones": [
+          "Lavar con suero salino a chorro continuo y cerrar sin pinzar.",
+          "Lavar con técnica Push-Stop-Push y cerrar con presión positiva.",
+          "Lavar con agua estéril y dejar vía abierta por si se necesita más tarde.",
+          "No se requiere lavado si la medicación es en bolo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "La técnica Push-Stop-Push mantiene la permeabilidad del CVC y previene obstrucciones. El cierre debe hacerse con presión positiva para evitar el reflujo sanguíneo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes signos requiere retirada inmediata del CVC?",
+        "opciones": [
+          "Pequeño eritema local sin secreción.",
+          "Edema leve sin fiebre ni signos sistémicos.",
+          "Fiebre de origen desconocido, secreción purulenta en el punto de inserción.",
+          "Dolor leve al mover el brazo donde está insertado el catéter."
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "Fiebre sin causa aparente junto con secreción purulenta son criterios de sospecha de infección asociada a CVC y requieren retirada para evitar bacteriemia."
+      },
+      {
+        "enunciado": "¿Qué precaución es obligatoria durante la inserción de un CVC para reducir el riesgo de infección?",
+        "opciones": [
+          "Rasurado previo de la zona con cuchilla.",
+          "Uso de guantes estériles y campo estéril total.",
+          "Uso de solución fisiológica para desinfección de la piel.",
+          "El paciente debe estar en sedestación para facilitar el acceso venoso."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "Durante la inserción del CVC debe aplicarse una técnica estéril estricta: lavado de manos, campo estéril total, mascarilla, bata estéril y guantes estériles."
+      },
+      {
+        "enunciado": "¿Qué tipo de solución se utiliza habitualmente para el mantenimiento de un CVC si no se administra medicación de forma continua?",
+        "opciones": [
+          "Heparina sódica 1.000 UI/ml",
+          "Clorhexidina alcohólica",
+          "Suero salino 0,9% mediante técnica de presión positiva",
+          "Agua destilada estéril"
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "Cuando no hay infusión continua, el CVC debe mantenerse permeable mediante lavados con suero salino usando técnica adecuada, sin necesidad de heparina en la mayoría de los casos."
+      },
+      {
+        "enunciado": "Durante el cambio de apósito de un CVC, se debe:",
+        "opciones": [
+          "Utilizar técnica limpia si no hay signos de infección.",
+          "Desinfectar la piel con alcohol 96º.",
+          "Desinfectar con clorhexidina y dejar secar antes de aplicar el nuevo apósito.",
+          "Evitar manipular la piel si el apósito anterior estaba limpio."
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "El cambio de apósito requiere técnica estéril, y la piel debe limpiarse con clorhexidina alcohólica dejando secar completamente antes de aplicar el apósito nuevo."
+      },
+      {
+        "enunciado": "Una complicación grave del CVC que puede poner en riesgo vital inmediato es:",
+        "opciones": [
+          "Flebitis leve.",
+          "Obstrucción parcial del lumen.",
+          "Embolia aérea.",
+          "Eritema superficial sin secreción."
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "La embolia aérea es una complicación grave y potencialmente mortal asociada a la manipulación inadecuada del CVC. Debe prevenirse manteniendo el sistema cerrado y con control del sellado."
+      },
+      {
+        "enunciado": "¿Cuál es la luz preferente para la administración de nutrición parenteral total (NPT) en un CVC multilumen?",
+        "opciones": [
+          "Cualquier luz disponible, alternando en cada turno.",
+          "La luz más distal, dedicada exclusivamente a NPT.",
+          "La luz más proximal, para facilitar mezclas con otras soluciones.",
+          "La luz intermedia, para equilibrar la velocidad de flujo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "La luz distal se utiliza preferentemente para NPT, ya que reduce el riesgo de contaminación cruzada y facilita la infusión de soluciones hiperosmolares."
+      },
+      {
+        "enunciado": "En un paciente con CVC multilumen que necesita administración simultánea de fármacos incompatibles, ¿cuál es la estrategia correcta?",
+        "opciones": [
+          "Utilizar la misma luz e intercalar lavados intensivos.",
+          "Administrar ambos fármacos por la luz proximal con intervalos de 30 minutos.",
+          "Asignar una luz a cada fármaco para evitar interacciones.",
+          "Evitar el uso de multilumen y sustituir por catéter periférico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema110"],
+        "feedback": "Cuando se administran fármacos incompatibles por CVC multilumen, se debe utilizar una luz independiente para cada uno y evitar mezclas en el mismo lumen."
+      },
+      {
+        "enunciado": "¿Qué luz del CVC debe reservarse preferentemente para la toma de muestras sanguíneas?",
+        "opciones": [
+          "La luz más proximal.",
+          "La luz más utilizada para perfusión continua.",
+          "La luz distal, si no está en uso exclusivo para NPT.",
+          "Cualquier luz, ya que todas tienen el mismo calibre y función."
+        ],
+        "correcta": 0,
+        "categorias": ["tema110"],
+        "feedback": "La luz proximal es la más cercana al punto de inserción y se prefiere para extracciones de sangre, ya que reduce el riesgo de contaminación por fármacos o mezclas."
+      },
+      {
+        "enunciado": "En un CVC de tres luces, ¿qué criterio debe priorizarse para asignar una luz específica a la administración de medicación vasopresora?",
+        "opciones": [
+          "Luz intermedia, para facilitar el cambio de frascos.",
+          "Luz distal, para garantizar un flujo más estable y seguro.",
+          "Cualquiera, siempre que se lave bien con suero fisiológico.",
+          "La luz más utilizada para hemoderivados, por su mayor calibre."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "Las medicaciones críticas como vasopresores deben administrarse por la luz distal, por su mayor estabilidad hemodinámica y menor riesgo de interferencias con otras sustancias."
+      },
+      {
+        "enunciado": "¿Qué luz del CVC es preferible reservar exclusivamente si se va a administrar medicación citotóxica?",
+        "opciones": [
+          "Luz proximal, por ser más fácil de monitorizar.",
+          "Luz distal, para evitar contacto con otras sustancias.",
+          "Luz intermedia, que tiene menor uso clínico.",
+          "No es necesario reservar ninguna luz en concreto."
+        ],
+        "correcta": 1,
+        "categorias": ["tema110"],
+        "feedback": "Para citostáticos y otros fármacos vesicantes o de alta toxicidad, se recomienda usar la luz distal del CVC y no compartirla con otras infusiones para evitar reacciones o extravasaciones."
       }
+      
+      
                   
 ]

@@ -1,0 +1,184 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes pacientes cumple criterio para activación del Código Ictus en el SAS?",
+        "opciones": [
+          "Paciente dependiente con alteración neurológica estable desde hace una semana.",
+          "Paciente autónomo con pérdida brusca de fuerza en brazo derecho hace 3 horas.",
+          "Paciente con deterioro basal (mRS 5) que refiere visión borrosa fluctuante desde ayer.",
+          "Paciente con vértigo de días de evolución sin focalidad."
+        ],
+        "correcta": 1,
+        "categorias": ["tema195"],
+        "feedback": "Se activa el Código Ictus si hay independencia funcional, focalidad neurológica de inicio brusco y síntomas con inicio <6h o desconocido. No se activa si el paciente es dependiente o los síntomas no son focales ni agudos."
+      },
+      {
+        "enunciado": "Se debe activar el Código Ictus en el SAS ante un paciente con:",
+        "opciones": [
+          "Disartria aguda y marcha inestable, 2 horas de evolución, independiente basal.",
+          "Disfagia progresiva de una semana sin focalidad ni déficit motor.",
+          "Cefalea crónica intermitente sin otros síntomas.",
+          "Hipotensión y mareo tras tomar antihipertensivos, sin focalidad."
+        ],
+        "correcta": 0,
+        "categorias": ["tema195"],
+        "feedback": "Focalidad neurológica de inicio brusco, presencia de síntomas en el momento del diagnóstico, y paciente independiente son criterios de activación del Código Ictus."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes síntomas NO se considera criterio clínico para activar el Código Ictus?",
+        "opciones": [
+          "Pérdida de visión súbita de un ojo.",
+          "Debilidad facial y del brazo izquierdo, de instauración aguda.",
+          "Lenguaje incoherente iniciado hace 45 minutos.",
+          "Temblor fino distal crónico sin progresión."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "Síntomas de alarma: déficit motor brusco, alteraciones del lenguaje, pérdida visual repentina, inestabilidad o cefalea súbita. Síntomas crónicos o no focales no justifican la activación."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores excluye la activación del Código Ictus según el protocolo del SAS?",
+        "opciones": [
+          "Inicio súbito de hemiparesia hace 1 hora.",
+          "Paciente con Rankin 4, dependiente para vestirse y asearse.",
+          "Afasia aguda en paciente previamente autónomo.",
+          "Ictus del despertar en persona independiente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema195"],
+        "feedback": "Pacientes dependientes (mRS > 3) no cumplen criterios de activación del Código Ictus, aunque presenten focalidad. Es esencial valorar la situación basal funcional."
+      },
+      {
+        "enunciado": "¿En qué caso estaría indicado activar el Código Ictus a nivel extrahospitalario?",
+        "opciones": [
+          "Paciente dependiente con caída sin focalidad ni alteración del lenguaje.",
+          "Paciente independiente con hemianopsia súbita desde hace 2 horas.",
+          "Paciente con deterioro cognitivo avanzado y afasia progresiva de días.",
+          "Paciente con visión borrosa intermitente desde hace 48 horas, sin otros síntomas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema195"],
+        "feedback": "La hemianopsia súbita es un síntoma de alarma. Si el paciente es independiente y los síntomas son de <6 h, se debe activar el Código Ictus extrahospitalario."
+      },
+      {
+        "enunciado": "En un paciente con síntomas desde hace 10 horas y déficit motor severo, ¿cuándo se activaría el Código Ictus?",
+        "opciones": [
+          "A nivel extrahospitalario en todos los casos.",
+          "Nunca, ya que supera las 6 horas.",
+          "Solo si está hospitalizado y el déficit es discapacitante.",
+          "Solo si el paciente es menor de 65 años."
+        ],
+        "correcta": 2,
+        "categorias": ["tema195"],
+        "feedback": "Entre 6 y 24 h, el Código Ictus solo se activa a nivel intrahospitalario y si el déficit es claramente discapacitante."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes síntomas justifica activación del Código Ictus si se presenta de forma brusca?",
+        "opciones": [
+          "Dificultad para leer y escribir iniciada hace 3 horas.",
+          "Temblores en extremidades presentes desde hace semanas.",
+          "Alteración cognitiva leve progresiva en un mes.",
+          "Cefalea habitual que aparece con el esfuerzo."
+        ],
+        "correcta": 0,
+        "categorias": ["tema195"],
+        "feedback": "Las alteraciones agudas del lenguaje (oral o escrito) son síntomas de alarma. La instauración brusca es clave en la activación del Código Ictus."
+      },
+      {
+        "enunciado": "Ante una paciente con mRS = 4, afasia súbita y síntomas iniciados hace 1 hora, ¿qué debe hacerse según protocolo SAS?",
+        "opciones": [
+          "No se activa Código Ictus por ser dependiente.",
+          "Se activa siempre que haya focalidad, sin importar situación basal.",
+          "Solo si la paciente está ingresada en un hospital.",
+          "Esperar evolución clínica y valorar al día siguiente."
+        ],
+        "correcta": 0,
+        "categorias": ["tema195"],
+        "feedback": "La dependencia funcional avanzada (mRS > 3) excluye la activación del Código Ictus, incluso si hay síntomas focales agudos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pacientes no cumple criterios para activación del Código Ictus?",
+        "opciones": [
+          "Paciente con hemiparesia derecha súbita hace 1 hora y mRS 1.",
+          "Paciente con inestabilidad brusca hace 2 horas, independiente funcionalmente.",
+          "Paciente con disartria de inicio súbito, vista bien por última vez hace 8 horas.",
+          "Paciente con amnesia progresiva sin focalidad ni síntomas agudos."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "Síntomas progresivos y no focales, sin inicio brusco, no son criterios de activación. La amnesia aislada no activa el Código Ictus."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta respecto al Código Ictus en el SAS?",
+        "opciones": [
+          "Debe activarse en todos los pacientes con alteración neurológica, sin considerar situación basal.",
+          "La pérdida visual unilateral repentina es un síntoma de alarma.",
+          "Solo se activa si hay pérdida de conciencia o convulsiones.",
+          "Los síntomas deben tener más de 24 horas para confirmar el diagnóstico."
+        ],
+        "correcta": 1,
+        "categorias": ["tema195"],
+        "feedback": "La pérdida de visión brusca, total o parcial, unilateral o bilateral, es uno de los síntomas clásicos de alarma en ictus."
+      },
+      {
+        "enunciado": "Los criterios de activación del Código Ictus, en el Servicio Andaluz de Salud, son:",
+        "opciones": [
+          "Tiempo de inicio de síntomas < 6 horas o de inicio desconocido o ictus del despertar.",
+          "Situación basal del paciente mediante escala Rankin ≤ 3.",
+          "Focalidad neurológica presente en el momento de la valoración.",
+          "Todas las anteriores son criterios de activación."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "El Código Ictus se activa si el paciente es independiente (mRS ≤ 3), presenta focalidad neurológica brusca y los síntomas han comenzado hace menos de 6 horas, son de inicio desconocido o ictus del despertar."
+      },
+      {
+        "enunciado": "Para activar el Código Ictus extrahospitalario en el SAS deben cumplirse los siguientes criterios:",
+        "opciones": [
+          "Focalidad neurológica aguda en un paciente independiente.",
+          "Síntomas de menos de 6 horas o inicio incierto con última vez visto bien < 24 h.",
+          "Déficit clínicamente discapacitante.",
+          "Todas las anteriores son correctas."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "La activación requiere que se cumplan simultáneamente: independencia funcional, focalidad de inicio brusco y síntomas en ventana terapéutica o con tiempo incierto dentro de las 24 h."
+      },
+      {
+        "enunciado": "¿Qué condiciones deben cumplirse para activar el Código Ictus en pacientes no hospitalizados?",
+        "opciones": [
+          "Focalidad neurológica de instauración súbita.",
+          "Inicio de síntomas hace menos de 6 horas.",
+          "Paciente con buena situación basal (mRS ≤ 3).",
+          "Todas las anteriores."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "Para activar el Código Ictus extrahospitalario se deben cumplir los tres: independencia funcional, síntomas de inicio brusco y dentro de ventana temporal (<6 h, inicio desconocido o despertar)."
+      },
+      {
+        "enunciado": "La activación del Código Ictus en pacientes hospitalizados con síntomas de 8 horas incluye:",
+        "opciones": [
+          "Valoración del déficit como clínicamente discapacitante.",
+          "Presencia de focalidad neurológica al momento del diagnóstico.",
+          "Situación basal funcional adecuada antes del ingreso.",
+          "Todas las anteriores."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "Entre las 6 y 24 h, el Código Ictus puede activarse solo en pacientes hospitalizados y con déficit discapacitante. También debe mantenerse la focalidad y buena situación basal antes del evento."
+      },
+      {
+        "enunciado": "Son síntomas de alarma que justifican la activación del Código Ictus si el resto de criterios se cumple:",
+        "opciones": [
+          "Cefalea intensa de aparición súbita con vómitos.",
+          "Alteración súbita del lenguaje hablado o escrito.",
+          "Debilidad o parálisis facial y de una extremidad de aparición brusca.",
+          "Todas las anteriores son síntomas de alarma."
+        ],
+        "correcta": 3,
+        "categorias": ["tema195"],
+        "feedback": "Los síntomas de alarma clásicos incluyen: alteraciones motoras agudas, lenguaje, visión, equilibrio y cefalea intensa de inicio repentino. Su presencia en un paciente candidato justifica la activación."
+      }
+      
+      
+]

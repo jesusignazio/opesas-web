@@ -1,0 +1,232 @@
+[
+    {
+        "enunciado": "Una persona mayor obtiene 8 puntos en la escala de Lawton y Brody. ¿Qué indica esta puntuación?",
+        "opciones": [
+          "Dependencia leve para las AIVD",
+          "Dependencia total en actividades básicas",
+          "Independencia total para las actividades instrumentales de la vida diaria",
+          "Riesgo alto de dependencia funcional"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "8 puntos es la puntuación máxima, lo que indica independencia total en las actividades instrumentales de la vida diaria (AIVD). Rango: 0–1 dependencia total, 2–5 moderada, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una mujer de 84 años obtiene una puntuación de 3 en la escala de Lawton y Brody. ¿Qué nivel de dependencia presenta?",
+        "opciones": [
+          "Dependencia leve",
+          "Independencia total",
+          "Dependencia moderada o severa",
+          "Dependencia mínima"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "Una puntuación de 3 se encuentra en el rango de 2 a 5 puntos, lo que se considera dependencia moderada o severa. Rango: 0–1 total, 2–5 moderada, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Según la escala de Lawton y Brody, ¿qué puntuación indica una dependencia leve para AIVD?",
+        "opciones": [
+          "0 a 1 puntos",
+          "2 a 5 puntos",
+          "6 a 7 puntos",
+          "8 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "La dependencia leve corresponde a puntuaciones entre 6 y 7. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una paciente que obtiene 1 punto en la escala de Lawton y Brody presenta:",
+        "opciones": [
+          "Independencia total",
+          "Dependencia moderada",
+          "Dependencia total",
+          "Autonomía con apoyo mínimo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "Con solo 1 punto, se considera que la persona presenta dependencia total para las AIVD. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una persona mayor puntúa 6 en la escala de Lawton y Brody. ¿Qué interpretación es correcta?",
+        "opciones": [
+          "Dependencia severa",
+          "Dependencia leve",
+          "Independencia total",
+          "Dependencia total"
+        ],
+        "correcta": 1,
+        "categorias": ["tema193"],
+        "feedback": "Una puntuación de 6 indica dependencia leve para actividades instrumentales. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Qué puntuación en la escala de Lawton y Brody se asocia con independencia total para AIVD?",
+        "opciones": [
+          "5 puntos",
+          "6 puntos",
+          "8 puntos",
+          "3 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "8 puntos representa la independencia total en las AIVD. Es la máxima puntuación posible. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una persona obtiene 5 puntos en la escala de Lawton y Brody. ¿Cómo se clasifica su dependencia?",
+        "opciones": [
+          "Dependencia leve",
+          "Independencia total",
+          "Dependencia moderada o severa",
+          "No valorable"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "Con 5 puntos, la persona se encuentra dentro del rango de dependencia moderada/severa. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una persona mayor puntúa 0 en la escala de Lawton y Brody. Esto significa:",
+        "opciones": [
+          "Dependencia total para AIVD",
+          "Independencia total para AIVD",
+          "Riesgo leve de dependencia",
+          "Deterioro cognitivo moderado"
+        ],
+        "correcta": 0,
+        "categorias": ["tema193"],
+        "feedback": "0 puntos es la puntuación más baja e indica dependencia total. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Un paciente con 7 puntos en Lawton y Brody presenta:",
+        "opciones": [
+          "Independencia total",
+          "Dependencia leve",
+          "Dependencia moderada",
+          "Dependencia total"
+        ],
+        "correcta": 1,
+        "categorias": ["tema193"],
+        "feedback": "6 y 7 puntos indican dependencia leve para AIVD. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Cuál de estas puntuaciones está dentro del rango de dependencia moderada o severa según la escala de Lawton y Brody?",
+        "opciones": [
+          "8 puntos",
+          "6 puntos",
+          "3 puntos",
+          "0 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "3 puntos se encuentra en el rango de 2 a 5, que corresponde a dependencia moderada o severa. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Un paciente obtiene 2 puntos en la escala de Lawton y Brody. ¿Qué nivel de autonomía tiene?",
+        "opciones": [
+          "Independencia total",
+          "Dependencia total",
+          "Dependencia moderada o severa",
+          "Dependencia leve"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "2 puntos reflejan dependencia moderada o severa. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes puntuaciones NO indica dependencia severa en la escala de Lawton y Brody?",
+        "opciones": [
+          "4 puntos",
+          "1 punto",
+          "3 puntos",
+          "6 puntos"
+        ],
+        "correcta": 3,
+        "categorias": ["tema193"],
+        "feedback": "6 puntos está en el rango de dependencia leve, no severa. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Qué puntuación mínima se requiere en Lawton y Brody para que una persona se considere con independencia funcional completa?",
+        "opciones": [
+          "6",
+          "7",
+          "8",
+          "5"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "8 puntos es la única puntuación que representa independencia total. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Qué nivel de autonomía refleja una persona que obtiene 4 puntos en Lawton y Brody?",
+        "opciones": [
+          "Independencia total",
+          "Dependencia total",
+          "Dependencia moderada o severa",
+          "Dependencia leve"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "Una puntuación de 4 entra dentro del rango de dependencia moderada o severa. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "Una persona mayor que vive sola obtiene 6 puntos en Lawton y Brody. Esto indica:",
+        "opciones": [
+          "Dependencia leve para actividades instrumentales",
+          "Independencia funcional",
+          "Riesgo de dependencia severa",
+          "Dependencia total en todas las AIVD"
+        ],
+        "correcta": 0,
+        "categorias": ["tema193"],
+        "feedback": "6 puntos indica dependencia leve. Aunque la persona viva sola, puede necesitar ayuda en algunas actividades. Rango: 0–1 total, 2–5 moderada/severa, 6–7 leve, 8 independiente."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación mínima posible en la escala de Lawton y Brody?",
+        "opciones": [
+          "0 puntos",
+          "1 punto",
+          "2 puntos",
+          "3 puntos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema193"],
+        "feedback": "La escala de Lawton y Brody se puntúa entre 0 (mínima) y 8 (máxima). 0 puntos indica dependencia total para actividades instrumentales."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación máxima que puede obtener una persona en la escala de Lawton y Brody?",
+        "opciones": [
+          "7 puntos",
+          "8 puntos",
+          "9 puntos",
+          "10 puntos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema193"],
+        "feedback": "La puntuación máxima en Lawton y Brody es 8, lo que indica independencia total para las actividades instrumentales de la vida diaria."
+      },
+      {
+        "enunciado": "¿Cuál es el rango completo de puntuación en la escala de Lawton y Brody?",
+        "opciones": [
+          "0 a 5 puntos",
+          "0 a 10 puntos",
+          "0 a 8 puntos",
+          "1 a 7 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "La escala tiene un rango de 0 a 8 puntos. Cada uno de los 8 ítems se valora con 0 o 1 punto, dependiendo del grado de autonomía."
+      },
+      {
+        "enunciado": "¿Qué interpretación corresponde a una persona que obtiene la puntuación mínima en la escala de Lawton y Brody?",
+        "opciones": [
+          "Independencia total",
+          "Dependencia leve",
+          "Dependencia total para AIVD",
+          "Valoración no válida"
+        ],
+        "correcta": 2,
+        "categorias": ["tema193"],
+        "feedback": "Una puntuación de 0 en Lawton y Brody indica dependencia total para las actividades instrumentales de la vida diaria."
+      }
+      
+      
+]

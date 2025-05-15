@@ -1,0 +1,183 @@
+[
+    {
+        "enunciado": "Una persona mayor obtiene 26 puntos en el MNA. ¿Cuál es su estado nutricional según esta escala?",
+        "opciones": [
+          "Malnutrición establecida",
+          "Riesgo de malnutrición",
+          "Estado nutricional normal",
+          "Obesidad moderada"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "Con 26 puntos, la persona se encuentra dentro del rango normal (24-30). Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Según la puntuación del MNA, ¿qué significa una valoración de 15 puntos?",
+        "opciones": [
+          "Malnutrición establecida",
+          "Riesgo de malnutrición",
+          "Estado nutricional adecuado",
+          "Sobrepeso leve"
+        ],
+        "correcta": 0,
+        "categorias": ["tema192"],
+        "feedback": "Una puntuación inferior a 17 puntos indica malnutrición establecida. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una paciente obtiene 22,5 puntos en el MNA. Su estado nutricional es:",
+        "opciones": [
+          "Normal",
+          "Malnutrición grave",
+          "Riesgo de malnutrición",
+          "Sobrepeso con riesgo cardiovascular"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "El rango de riesgo de malnutrición abarca de 17 a 23,5 puntos. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Un resultado de 17 puntos en el MNA indica:",
+        "opciones": [
+          "Malnutrición establecida",
+          "Inicio del riesgo de malnutrición",
+          "Estado nutricional normal",
+          "Resultado no interpretable"
+        ],
+        "correcta": 1,
+        "categorias": ["tema192"],
+        "feedback": "17 puntos es el umbral inferior del rango de riesgo. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una puntuación de 29,5 en el MNA corresponde a:",
+        "opciones": [
+          "Riesgo de malnutrición",
+          "Malnutrición avanzada",
+          "Estado nutricional normal",
+          "Necesidad urgente de intervención nutricional"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "Una puntuación entre 24 y 30 se considera estado nutricional normal. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una persona mayor obtiene 16,5 puntos en el MNA. ¿Qué indica este valor?",
+        "opciones": [
+          "Inicio de riesgo nutricional",
+          "Estado nutricional normal",
+          "Malnutrición establecida",
+          "No se puede valorar sin IMC"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "16,5 se encuentra por debajo del umbral de 17, por tanto es malnutrición. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "¿Qué puntuación del MNA se corresponde con el inicio del estado nutricional normal?",
+        "opciones": [
+          "17 puntos",
+          "23,5 puntos",
+          "24 puntos",
+          "30 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "A partir de 24 se considera normalidad nutricional. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Un resultado de 30 puntos en el MNA indica:",
+        "opciones": [
+          "Malnutrición leve",
+          "Riesgo nutricional bajo",
+          "Estado nutricional óptimo",
+          "Malnutrición enmascarada"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "30 es el máximo posible en el MNA y se interpreta como estado nutricional óptimo. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una puntuación de 19 puntos en el MNA corresponde a:",
+        "opciones": [
+          "Malnutrición establecida",
+          "Riesgo de malnutrición",
+          "Estado nutricional normal",
+          "Estado nutricional no clasificable"
+        ],
+        "correcta": 1,
+        "categorias": ["tema192"],
+        "feedback": "19 puntos está dentro del rango de 17 a 23,5, lo que representa riesgo. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "¿Qué puntuación representa malnutrición según el MNA?",
+        "opciones": [
+          "22 puntos",
+          "17 puntos",
+          "16 puntos",
+          "25 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "16 puntos está por debajo del umbral de 17, lo que indica malnutrición. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "¿Cuál es el rango de puntuación que define el riesgo de malnutrición en el MNA?",
+        "opciones": [
+          "0 a 16,9",
+          "17 a 23,5",
+          "20 a 26",
+          "24 a 30"
+        ],
+        "correcta": 1,
+        "categorias": ["tema192"],
+        "feedback": "El riesgo se sitúa entre 17 y 23,5 puntos. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "¿Cuál de estas puntuaciones está dentro del rango de malnutrición según el MNA?",
+        "opciones": [
+          "17,5",
+          "24",
+          "16,8",
+          "23,8"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "Una puntuación menor de 17 se considera malnutrición. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una persona mayor con 23,5 puntos en el MNA está en situación de:",
+        "opciones": [
+          "Malnutrición",
+          "Estado nutricional normal",
+          "Riesgo de malnutrición",
+          "Deshidratación aguda"
+        ],
+        "correcta": 2,
+        "categorias": ["tema192"],
+        "feedback": "23,5 es el límite superior del rango de riesgo. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "Una persona con 24 puntos exactos en el MNA presenta:",
+        "opciones": [
+          "Riesgo de malnutrición leve",
+          "Estado nutricional normal",
+          "Malnutrición por exceso",
+          "Pérdida de masa muscular"
+        ],
+        "correcta": 1,
+        "categorias": ["tema192"],
+        "feedback": "24 puntos marca el inicio del rango de normalidad nutricional. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      },
+      {
+        "enunciado": "¿Qué puntuación MNA indicaría malnutrición grave?",
+        "opciones": [
+          "18",
+          "25",
+          "29",
+          "12"
+        ],
+        "correcta": 3,
+        "categorias": ["tema192"],
+        "feedback": "Una puntuación muy baja como 12 implica malnutrición grave. Guiaburros: <17 malnutrición, 17–23,5 riesgo, 24–30 normal."
+      }
+      
+]

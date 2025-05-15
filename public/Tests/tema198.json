@@ -1,0 +1,182 @@
+[
+    {
+        "enunciado": "Señale la respuesta INCORRECTA en relación al procedimiento de recogida de muestra en la prueba del talón:",
+        "opciones": [
+          "La muestra debe recogerse preferentemente entre las 36 y 48 horas de vida del RN.",
+          "La primera gota debe desecharse antes de impregnar la tarjeta.",
+          "Es correcto utilizar una zona previamente puncionada si la anterior fue insuficiente.",
+          "El secado debe hacerse en una superficie limpia, horizontal y a temperatura ambiente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "Las zonas previamente puncionadas deben evitarse, ya que se consideran potencialmente infectadas y pueden alterar los resultados."
+      },
+      {
+        "enunciado": "Respecto a las enfermedades incluidas en el cribado neonatal en Andalucía, señale la INCORRECTA:",
+        "opciones": [
+          "Fenilcetonuria y tirosinemia son aminoacidopatías incluidas.",
+          "Fibrosis quística y anemia falciforme están contempladas en el cribado.",
+          "La diabetes mellitus tipo 1 está incluida por su carácter endocrino.",
+          "La deficiencia múltiple de carboxilasa forma parte del grupo de acidurias orgánicas cribadas."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "La diabetes mellitus tipo 1 no está incluida en el cribado neonatal. Las patologías endocrino-metabólicas cribadas son fundamentalmente congénitas y hereditarias."
+      },
+      {
+        "enunciado": "Respecto a las condiciones para repetir la prueba del talón, señale la correcta:",
+        "opciones": [
+          "RN que reciban transfusión de hematíes deben repetir la prueba a los 15 días de vida.",
+          "RN de menos de 37 semanas deben repetir la prueba a los 120 días de vida.",
+          "RN con dieta absoluta deben repetir la prueba a las 48 horas de iniciar alimentación.",
+          "RN de partos múltiples deben repetir la prueba a los 3 días de vida."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "Los RN con dieta absoluta deben repetir la prueba a las 48 horas de iniciar alimentación. Las transfusiones de hematíes exigen repetición a los 120 días."
+      },
+      {
+        "enunciado": "El procedimiento correcto de desinfección de la zona del talón antes de la punción incluye:",
+        "opciones": [
+          "Clorhexidina alcohólica al 4% y secado con gasa estéril.",
+          "Alcohol 70º y frotar enérgicamente la zona durante 1 minuto.",
+          "Clorhexidina acuosa al 2% o alcohol 70º y dejar secar al aire.",
+          "Yodo povidona y fricción durante al menos 30 segundos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "La desinfección debe hacerse con clorhexidina acuosa al 2% o alcohol 70º y dejar secar completamente al aire para evitar interferencias en el resultado."
+      },
+      {
+        "enunciado": "Señale la opción INCORRECTA respecto al manejo de la tarjeta de recogida de muestra:",
+        "opciones": [
+          "Cada círculo debe estar impregnado por ambas caras con una sola gota.",
+          "Debe desecharse cualquier círculo en el que no se haya completado la impregnación.",
+          "Pueden usarse varias gotas pequeñas para cubrir una sola cara del círculo.",
+          "La ficha debe dejarse secar de forma natural y no exponer al sol ni a calor directo."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "No deben usarse varias gotas en un círculo parcialmente impregnado, ya que esto provoca estratificación de la muestra y la invalida."
+      },
+      {
+        "enunciado": "Se recomienda repetir la prueba del talón en todas las siguientes situaciones EXCEPTO:",
+        "opciones": [
+          "RN prematuro de 36 semanas.",
+          "RN con peso al nacer de 2.800 g.",
+          "RN que recibió transfusión de plasma.",
+          "RN con alimentación parenteral a las 48 h de vida."
+        ],
+        "correcta": 1,
+        "categorias": ["tema198"],
+        "feedback": "El peso inferior a 2.500 g y edad gestacional menor de 37 semanas requieren repetición. Un peso de 2.800 g no lo justifica por sí solo."
+      },
+      {
+        "enunciado": "La técnica correcta para la obtención de muestra incluye:",
+        "opciones": [
+          "Incisión en zona central del talón para mayor sangrado.",
+          "Uso de jeringa y aguja para obtener sangre capilar.",
+          "Uso de dispositivo de punción estandarizado en zona lateral del talón.",
+          "Punción digital con lanceta de insulina en cualquier dedo del pie."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "Debe utilizarse un dispositivo específico en la zona lateral del talón, evitando zonas centrales para no lesionar el hueso calcáneo."
+      },
+      {
+        "enunciado": "Respecto a las medidas de analgesia no farmacológica recomendadas durante la prueba, señale la INCORRECTA:",
+        "opciones": [
+          "Amamantamiento durante la punción.",
+          "Uso de sacarosa o succión no nutritiva.",
+          "Separación del RN de la madre durante la toma para evitar interferencias.",
+          "Cuidado canguro o contacto piel con piel."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "No se recomienda separar al RN de su madre. El contacto materno es parte esencial de las medidas analgésicas no farmacológicas."
+      },
+      {
+        "enunciado": "Cuando el cribado mediante prueba del talón está contraindicado por lesión en ambos talones, se debe:",
+        "opciones": [
+          "Retrasar la prueba hasta la curación total.",
+          "Realizar punción en la zona media del pie con el mismo dispositivo.",
+          "Solicitar toma de muestra venosa y dejar constancia en la historia.",
+          "Obtener muestra por raspado capilar bajo supervisión médica."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "Cuando no es posible usar el talón, se debe obtener muestra venosa y dejar registro del tipo de muestra en la historia digital."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes patologías NO está incluida en el programa de cribado neonatal en Andalucía?",
+        "opciones": [
+          "Fenilcetonuria",
+          "Acidemia propiónica",
+          "Diabetes tipo 1",
+          "Enfermedad de células falciformes"
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "La diabetes tipo 1 no forma parte del cribado neonatal. El programa incluye enfermedades congénitas endocrino-metabólicas y genéticas como la fenilcetonuria, acidemias y hemoglobinopatías."
+      },
+      {
+        "enunciado": "En relación con el manejo de la tarjeta de la prueba del talón, señale la opción correcta:",
+        "opciones": [
+          "Puede guardarse en el sobre tan pronto como deje de gotear sangre.",
+          "Se recomienda dejar secar completamente al aire entre 2 y 3 horas antes de su almacenamiento.",
+          "Es preferible secar la ficha con una lámpara de calor para acelerar el proceso.",
+          "La ficha debe doblarse sobre sí misma para conservar mejor la muestra."
+        ],
+        "correcta": 1,
+        "categorias": ["tema198"],
+        "feedback": "La tarjeta debe dejarse secar sobre una superficie limpia y horizontal, al aire, durante 2–3 horas antes de introducirla en el sobre. No debe usarse calor ni doblarse."
+      },
+      {
+        "enunciado": "Respecto al dispositivo utilizado para la punción del talón en el cribado neonatal, señale la afirmación correcta:",
+        "opciones": [
+          "Puede utilizarse una lanceta convencional si se desinfecta previamente.",
+          "Debe adaptarse al peso del recién nacido para minimizar el daño tisular.",
+          "Cualquier dispositivo que realice una incisión profunda es válido.",
+          "Si no se dispone del dispositivo, puede improvisarse con aguja estéril."
+        ],
+        "correcta": 1,
+        "categorias": ["tema198"],
+        "feedback": "Debe usarse un dispositivo específico de incisión, ajustable según el peso del RN. No se admite la improvisación ni el uso de materiales no estandarizados."
+      },
+      {
+        "enunciado": "En cuanto al secado de la ficha de recogida de sangre para cribado neonatal, indique la respuesta INCORRECTA:",
+        "opciones": [
+          "El secado debe realizarse a temperatura ambiente.",
+          "Se debe evitar exposición al sol o a fuentes de calor.",
+          "Puede introducirse en el sobre una vez deje de estar húmeda al tacto.",
+          "Debe secarse al menos durante 2–3 horas antes de ser almacenada."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "La ficha debe secarse completamente, entre 2–3 horas, antes de su almacenamiento. Introducirla en el sobre antes puede comprometer la validez de la muestra."
+      },
+      {
+        "enunciado": "Respecto al material empleado para la punción en la prueba del talón, señale la opción INCORRECTA:",
+        "opciones": [
+          "Se debe utilizar un dispositivo estandarizado de incisión.",
+          "El tipo de dispositivo puede variar según el peso del RN.",
+          "Se permite el uso de jeringa o lanceta si no se dispone del dispositivo oficial.",
+          "Debe evitarse reutilizar zonas previamente puncionadas."
+        ],
+        "correcta": 2,
+        "categorias": ["tema198"],
+        "feedback": "No se permite improvisar con jeringas o lancetas. El dispositivo de incisión debe ser específico, diseñado para esta prueba, y adaptado al peso del RN."
+      },
+      {
+        "enunciado": "Respecto al secado y conservación de la tarjeta de la prueba del talón, indique la opción correcta:",
+        "opciones": [
+          "La tarjeta puede colocarse verticalmente para facilitar el escurrido.",
+          "Se debe secar al aire, sin doblar, durante 2–3 horas antes de introducirla en el sobre.",
+          "El secado debe hacerse al sol o con secador para acelerar el proceso.",
+          "Puede almacenarse inmediatamente si se limpia con una gasa estéril."
+        ],
+        "correcta": 1,
+        "categorias": ["tema198"],
+        "feedback": "El secado de la ficha debe hacerse en horizontal, al aire, durante al menos 2–3 horas. No debe usarse calor, ni doblarse, ni manipularse antes de secarse completamente."
+      }      
+]

@@ -69,5 +69,75 @@
         "categorías": ["tema186", "posiciones_quirurgicas"],
         "feedback": "Roser: decúbito supino con cuello en hiperextensión. Usada en otorrino, tiroides, oftalmología, instilación de gotas."
       },
-            
+      {
+        "enunciado": "¿Qué posición quirúrgica consiste en colocar al paciente en decúbito lateral con la pierna superior flexionada y apoyada sobre la inferior extendida?",
+        "opciones": ["Sims", "Fowler", "Genupectoral", "Roser"],
+        "correcta": 0,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La posición de Sims se usa frecuentemente para enemas, tacto rectal o instilaciones rectales."
+      },
+      {
+        "enunciado": "La posición más adecuada para favorecer el drenaje postural de secreciones bronquiales es:",
+        "opciones": ["Kraske", "Trendelemburg", "Antitrendelemburg", "Genupectoral"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Trendelemburg favorece el drenaje postural, aunque puede dificultar la expansión pulmonar."
+      },
+      {
+        "enunciado": "La posición antitrendelemburg o Morestin se usa para mejorar el acceso a:",
+        "opciones": ["Zona perineal", "Cavidad pélvica", "Cara y cuello", "Fosa renal"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Antitrendelemburg eleva la cabeza sobre el nivel del tronco, mejorando el acceso a cabeza y cuello."
+      },
+      {
+        "enunciado": "La posición de litotomía está contraindicada en pacientes con:",
+        "opciones": ["Embarazo", "Hipertensión intracraneal", "Trombosis venosa profunda", "Glaucoma"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La litotomía puede favorecer la estasis venosa y aumentar el riesgo trombótico."
+      },
+      {
+        "enunciado": "En la posición de Kraske, ¿cuál es el objetivo principal de la inclinación?",
+        "opciones": ["Acceso a la región perianal", "Evitar reflujo gastroesofágico", "Mejorar la ventilación pulmonar", "Visualización de órganos abdominales altos"],
+        "correcta": 0,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Kraske (posición en navaja) permite exposición rectal, perineal y sacra."
+      },
+      {
+        "enunciado": "¿Qué posición permite una mejor exploración del colon descendente?",
+        "opciones": ["Sims derecha", "Sims izquierda", "Decúbito supino", "Fowler"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "Sims izquierda facilita exploración del colon descendente y la administración de enemas."
+      },
+      {
+        "enunciado": "¿Qué posición está indicada en intervenciones de columna dorsal?",
+        "opciones": ["Decúbito prono", "Litotomía", "Kraske", "Sims"],
+        "correcta": 0,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La posición prono es ideal para intervenciones sobre columna vertebral y cirugía dorsal."
+      },
+      {
+        "enunciado": "¿Cuál es la posición recomendada en cirugía laparoscópica ginecológica?",
+        "opciones": ["Antitrendelemburg", "Kraske", "Fowler", "Trendelemburg"],
+        "correcta": 3,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La Trendelemburg permite el desplazamiento de vísceras abdominales, mejorando la visión del área pélvica."
+      },
+      {
+        "enunciado": "La posición de Roser se considera peligrosa en pacientes con:",
+        "opciones": ["Hipertensión", "Problemas cervicales", "Diabetes", "Asma severa"],
+        "correcta": 1,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La hiperextensión cervical en la posición de Roser puede agravar lesiones previas en el cuello."
+      },
+      {
+        "enunciado": "En cirugía del hombro, la posición más adecuada es:",
+        "opciones": ["Decúbito prono", "Decúbito lateral", "Fowler o semisentado", "Litotomía"],
+        "correcta": 2,
+        "categorías": ["tema186", "posiciones_quirurgicas"],
+        "feedback": "La posición Fowler o semisentada mejora el acceso quirúrgico al hombro y la parte superior del tórax."
+      }
+      
 ]

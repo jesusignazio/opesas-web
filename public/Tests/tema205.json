@@ -1,0 +1,161 @@
+[
+    {
+        "enunciado": "¿Según el Calendario de Vacunaciones de Andalucía, a qué edades se administra el anticuerpo monoclonal frente al virus respiratorio sincitial (VRS)?",
+        "opciones": [
+          "En prematuros menores de 28 semanas al mes de vida.",
+          "A todos los lactantes durante su primera temporada de exposición al VRS.",
+          "Solo a menores de 3 meses con cardiopatía estructural.",
+          "A los 2 y 4 meses en combinación con otras vacunas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "El anticuerpo monoclonal frente al VRS (nirsevimab) se administra a todos los lactantes durante su primera temporada de exposición como profilaxis frente a la bronquiolitis."
+      },
+      {
+        "enunciado": "Según el Calendario de Vacunaciones de Andalucía, la vacuna hexavalente (DTPa-VPI-Hib-HB) se administra a los:",
+        "opciones": [
+          "2, 4 y 6 meses.",
+          "2, 4 y 11 meses.",
+          "4, 6 y 11 meses.",
+          "2, 6 y 12 meses."
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna hexavalente (difteria, tétanos, tosferina, polio, Hib, hepatitis B) se administra a los 2, 4 y 11 meses como parte del calendario infantil sistemático."
+      },
+      {
+        "enunciado": "¿Cuál es la pauta vacunal frente al neumococo en el calendario andaluz infantil?",
+        "opciones": [
+          "2, 4, 6 y 11 meses.",
+          "2, 4 y 11 meses.",
+          "2, 6, 12 y 15 meses.",
+          "4, 6 y 12 meses."
+        ],
+        "correcta": 0,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna frente al neumococo (conjugada 13-valente) se administra a los 2, 4, 6 y 11 meses en el calendario andaluz para lactantes."
+      },
+      {
+        "enunciado": "Según el calendario de Andalucía, ¿cuándo se administra la vacuna frente a Meningococo B?",
+        "opciones": [
+          "2, 6 y 15 meses.",
+          "2, 4 y 15 meses.",
+          "2, 4 y 11 meses.",
+          "2 y 6 meses con recuerdo a los 3 años."
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "La vacunación frente a meningococo B (Bexsero) se pauta a los 2, 4 y 15 meses en el calendario infantil andaluz."
+      },
+      {
+        "enunciado": "La vacunación frente a Meningococo ACWY se realiza, según el calendario vigente, a los:",
+        "opciones": [
+          "2, 4 y 12 meses.",
+          "4 meses, 12 meses y 12 años (rescate hasta 18 años).",
+          "6 meses y 14 años.",
+          "12 meses y 3 años."
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna frente a Meningococo ACWY se administra a los 4 meses, 12 meses y 12 años, con estrategia de rescate de 13 a 18 años no vacunados previamente."
+      },
+      {
+        "enunciado": "¿Cuál es la recomendación del calendario andaluz sobre vacunación antigripal en población pediátrica?",
+        "opciones": [
+          "Vacunación sistemática anual de 6 a 59 meses.",
+          "Una sola dosis a los 12 meses.",
+          "Anual solo en niños con factores de riesgo.",
+          "A partir de los 2 años hasta los 10 años."
+        ],
+        "correcta": 0,
+        "categorias": ["tema205"],
+        "feedback": "Desde la temporada 2023-2024 se recomienda la vacunación anual frente a gripe para todos los niños de 6 a 59 meses de edad, como estrategia sistemática."
+      },
+      {
+        "enunciado": "La vacuna triple vírica (sarampión, rubeola, parotiditis) se administra según el calendario oficial a los:",
+        "opciones": [
+          "12 meses y 3 años.",
+          "12 meses y 15 meses.",
+          "6 meses y 3 años.",
+          "15 meses y 6 años."
+        ],
+        "correcta": 0,
+        "categorias": ["tema205"],
+        "feedback": "La triple vírica se administra en dos dosis: la primera a los 12 meses y la segunda a los 3 años de edad, garantizando protección frente a sarampión, rubeola y parotiditis."
+      },
+      {
+        "enunciado": "¿A qué edades se administra la vacuna frente a la varicela en Andalucía según el calendario infantil?",
+        "opciones": [
+          "12 meses y 6 años.",
+          "15 meses y 3 años.",
+          "2 años y 6 años.",
+          "15 meses y 5 años."
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "La vacunación frente a varicela se realiza con dos dosis: a los 15 meses y a los 3 años, como parte del calendario sistemático andaluz."
+      },
+      {
+        "enunciado": "¿Cuál es la pauta vacunal establecida para la DTPa-VPI en edad escolar?",
+        "opciones": [
+          "A los 6 años.",
+          "A los 4 años.",
+          "A los 12 años.",
+          "A los 15 meses."
+        ],
+        "correcta": 0,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna DTPa-VPI (difteria, tétanos, tosferina acelular y polio) se administra a los 6 años como recuerdo en edad escolar."
+      },
+      {
+        "enunciado": "¿A qué edad se administra la vacuna frente al virus del papiloma humano (VPH) según el calendario andaluz?",
+        "opciones": [
+          "9 años.",
+          "10 años y 14 años.",
+          "12 años, con rescate hasta los 18 años.",
+          "13 años exclusivamente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna frente al VPH se administra a los 12 años (una única dosis desde 2023), con estrategia de rescate hasta los 18 años en población no vacunada."
+      },
+      {
+        "enunciado": "Según el calendario de Andalucía, la vacunación frente a tétanos, difteria y tosferina (Tdpa) en adolescentes se pauta a los:",
+        "opciones": [
+          "11 años.",
+          "12 años.",
+          "14 años.",
+          "16 años."
+        ],
+        "correcta": 2,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna Tdpa (tétanos, difteria y tosferina) se administra a los 14 años como recuerdo final en la adolescencia en el calendario sistemático andaluz."
+      },
+      {
+        "enunciado": "La vacuna hexavalente (difteria, tétanos, tosferina, poliomielitis, Haemophilus influenzae tipo b y hepatitis B) se administra en el calendario de Andalucía en:",
+        "opciones": [
+          "2, 4 y 6 meses.",
+          "2, 6 y 12 meses.",
+          "2, 4 y 11 meses.",
+          "3, 5 y 15 meses."
+        ],
+        "correcta": 2,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna hexavalente se administra a los 2, 4 y 11 meses de edad en el calendario infantil andaluz. Protege frente a seis enfermedades en una sola inyección."
+      },
+      {
+        "enunciado": "¿Cuál es la vacuna hexavalente actualmente utilizada en el Servicio Sanitario Público de Andalucía (SSPA)?",
+        "opciones": [
+          "Infanrix hexa®",
+          "Hexyon®",
+          "Vaxelis®",
+          "Pentavac®"
+        ],
+        "correcta": 1,
+        "categorias": ["tema205"],
+        "feedback": "La vacuna hexavalente actualmente disponible en el SSPA es Hexyon®, que protege frente a difteria, tétanos, tosferina, polio, Haemophilus influenzae tipo b y hepatitis B."
+      }
+      
+      
+      
+]

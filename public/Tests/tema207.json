@@ -1,0 +1,63 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes instrumentos se utiliza en el SAS para definir los compromisos entre los centros sanitarios y la administración sanitaria en relación con los objetivos asistenciales y de gestión?",
+        "opciones": [
+          "Contrato de Actividad",
+          "Contrato de Gasto",
+          "Contrato Programa",
+          "Contrato de Obra y Servicio"
+        ],
+        "correcta": 2,
+        "categorias": ["tema207"],
+        "feedback": "El Contrato Programa establece objetivos, recursos y compromisos entre los centros y la administración, sirviendo como herramienta de planificación y evaluación de la gestión sanitaria."
+      },
+      {
+        "enunciado": "En el contexto del SAS, ¿cuál es la principal diferencia entre un Contrato de Objetivos y un Contrato Programa?",
+        "opciones": [
+          "El Contrato Programa incluye tanto objetivos como financiación y actividades.",
+          "El Contrato de Objetivos es más amplio e incluye indicadores presupuestarios.",
+          "Ambos contratos son equivalentes y se usan indistintamente.",
+          "El Contrato Programa solo se aplica en Atención Primaria."
+        ],
+        "correcta": 0,
+        "categorias": ["tema207"],
+        "feedback": "El Contrato Programa incluye una planificación más integral: objetivos, recursos económicos y actividades, mientras que el Contrato de Objetivos es más limitado."
+      },
+      {
+        "enunciado": "¿Qué tipo de contrato recoge de manera formal el acuerdo entre los equipos directivos de las unidades de gestión clínica y el SAS sobre resultados esperados en salud, eficiencia y calidad?",
+        "opciones": [
+          "Contrato de Actividad",
+          "Contrato de Gasto",
+          "Contrato Programa",
+          "Contrato Marco"
+        ],
+        "correcta": 2,
+        "categorias": ["tema207"],
+        "feedback": "El Contrato Programa es la herramienta utilizada para formalizar los compromisos entre el SAS y las unidades de gestión clínica respecto a objetivos, resultados y recursos."
+      },
+      {
+        "enunciado": "Un instrumento de gestión que incluye indicadores de seguimiento, objetivos asistenciales y criterios de financiación se denomina:",
+        "opciones": [
+          "Contrato de Gestión Económica",
+          "Contrato Programa",
+          "Contrato de Actividad",
+          "Contrato de Resultados"
+        ],
+        "correcta": 1,
+        "categorias": ["tema207"],
+        "feedback": "El Contrato Programa integra planificación estratégica, seguimiento por indicadores y aspectos económicos, siendo clave en la gestión sanitaria del SAS."
+      },
+      {
+        "enunciado": "Señale cuál de los siguientes elementos forma parte del contenido habitual de un Contrato Programa en el ámbito sanitario:",
+        "opciones": [
+          "Exclusivamente objetivos clínicos.",
+          "Un plan de compras de suministros.",
+          "Objetivos, indicadores, actividades y recursos.",
+          "Nombramientos del personal interino."
+        ],
+        "correcta": 2,
+        "categorias": ["tema207"],
+        "feedback": "El Contrato Programa recoge objetivos asistenciales, indicadores de evaluación, actividades previstas y asignación de recursos, todo ello bajo una planificación común."
+      }
+      
+]

@@ -1,0 +1,364 @@
+[
+    {
+        "enunciado": "Si nos encontramos el código ISMT en el motivo de consulta o listado de problemas de la Historia de Salud de una paciente en nuestra Comunidad, debemos sospechar que:",
+        "opciones": [
+          "La paciente requiere seguimiento por Salud Mental.",
+          "La paciente requiere seguimiento antitrombótico post-COVID.",
+          "La paciente sufre una isquemia mesentérica aguda.",
+          "La paciente sufre sospecha de malos tratos no confirmados."
+        ],
+        "correcta": 3,
+        "categorias": ["tema200"],
+        "feedback": "ISMT corresponde a Indicador de Sospecha de Malos Tratos. Se registra en la historia clínica cuando no se confirma el maltrato, pero existen signos que lo hacen sospechar."
+      },
+      {
+        "enunciado": "Indique la opción correcta tras haber realizado la entrevista clínica ante una sospecha de malos tratos:",
+        "opciones": [
+          "Si no se confirma la sospecha, anotar en la Historia Clínica Electrónica las siglas ISMT.",
+          "Si no se confirma, no debe registrarse nada para proteger la intimidad de la paciente.",
+          "Si se confirma el maltrato, se anotará el código ISMT y se procederá a derivación social.",
+          "Las sospechas no requieren derivación ni anotación formal hasta ser judicialmente probadas."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "Si no se confirma el maltrato, se registra el código ISMT. Si se confirma, se registra CMT. Ambas situaciones requieren coordinación con Trabajo Social y seguimiento en red asistencial."
+      },
+      {
+        "enunciado": "Señale la opción INCORRECTA respecto al Sistema Español de Triaje (SET) en casos de violencia de género:",
+        "opciones": [
+          "El maltrato tendrá una prioridad 4 o 5 según el protocolo clínico.",
+          "Existe un programa de ayuda dentro del SET para estos casos.",
+          "Una mujer con prioridad 2 será atendida antes de 7 minutos.",
+          "El nivel 3 permite una espera de hasta 30 minutos para valoración médica."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "El maltrato nunca podrá ser clasificado como prioridad 4 o 5. Se asignará nivel 3 si no hay compromiso vital, o nivel 1 o 2 si hay riesgo inminente."
+      },
+      {
+        "enunciado": "Señale la opción INCORRECTA respecto al lugar en el que debe permanecer una mujer tras la confirmación de malos tratos en Urgencias:",
+        "opciones": [
+          "Se habilitará un espacio tranquilo, separado de la sala de espera general.",
+          "El espacio garantizará la intimidad, confidencialidad y seguridad.",
+          "El lugar debe contar con distintivos visibles que alerten al personal sanitario de la situación.",
+          "Será atendida con mayor celeridad que el resto de pacientes con el mismo nivel de prioridad."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "No se deben usar distintivos visibles para evitar vulnerar la confidencialidad de la paciente. El espacio debe ser privado y discreto."
+      },
+      {
+        "enunciado": "Indique la opción INCORRECTA respecto a una Situación Objetiva de Riesgo (SOR):",
+        "opciones": [
+          "Implica riesgo grave para la integridad física o psíquica de la mujer o sus convivientes.",
+          "En mujeres mayores o con discapacidad, se debe extremar la vigilancia.",
+          "Si la mujer no reconoce el maltrato, debe notificarse directamente a la Fiscalía.",
+          "El personal sanitario debe valorar la situación y activar los recursos de protección adecuados."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "No corresponde al personal sanitario comunicar directamente a Fiscalía si la mujer no reconoce el maltrato. Se debe seguir el circuito establecido y valorar con Trabajo Social."
+      },
+      {
+        "enunciado": "Señale la opción INCORRECTA respecto a las actuaciones si María reconoce sufrir malos tratos y se encuentra en situación de peligro extremo:",
+        "opciones": [
+          "Debe activarse el protocolo de protección del centro.",
+          "Debe valorarse la situación clínica, emocional y social de forma integral.",
+          "Si decide volver a su domicilio, se excluye automáticamente del plan de seguridad.",
+          "Debe emitirse parte judicial con toda la información recogida."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Aunque la mujer decida volver a su domicilio, no se excluye del plan de seguridad. Se le debe informar, proteger y coordinar el seguimiento social."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una recomendación general durante la entrevista clínica ante sospecha de maltrato?",
+        "opciones": [
+          "Abordar indirectamente el tema de la violencia sin llegar a preguntarlo directamente.",
+          "Crear un clima de confianza y facilitar la expresión emocional.",
+          "Observar lenguaje verbal y no verbal como parte de la exploración.",
+          "Explorar creencias culturales o religiosas que puedan justificar actitudes abusivas."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "Se recomienda abordar el tema de la violencia de forma directa y clara, no solo indirectamente. La entrevista debe incluir preguntas abiertas y concretas."
+      },
+      {
+        "enunciado": "Si la paciente en Urgencias manifiesta ansiedad, tristeza o alteraciones emocionales sin causa orgánica aparente, ¿cuál es la actitud más adecuada?",
+        "opciones": [
+          "Prescribir ansiolíticos y derivar a Salud Mental.",
+          "Preguntar directamente por situaciones de conflicto o maltrato.",
+          "Evitar profundizar para no comprometer la privacidad.",
+          "Esperar nueva consulta con su médico de familia."
+        ],
+        "correcta": 1,
+        "categorias": ["tema200"],
+        "feedback": "Síntomas como ansiedad o tristeza sin causa clínica evidente pueden ser indicadores de sospecha. Es recomendable preguntar de forma directa y empática por maltrato."
+      },
+      {
+        "enunciado": "En caso de sospecha de maltrato en una adolescente, ¿qué debe tenerse en cuenta durante la entrevista clínica?",
+        "opciones": [
+          "Realizarla en presencia de un tutor para garantizar el respaldo legal.",
+          "Evitar formular preguntas personales sobre relaciones de pareja.",
+          "La entrevista debe realizarse sin acompañantes, garantizando privacidad.",
+          "Se prioriza el uso de cuestionarios escritos en lugar de entrevista verbal."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "En adolescentes, la entrevista debe hacerse a solas, sin presencia de padres, tutores u otros acompañantes, para proteger su privacidad y facilitar la confidencialidad."
+      },
+      {
+        "enunciado": "Respecto a las actuaciones tras detectar un caso de sospecha de malos tratos sin confirmación, ¿cuál es la opción correcta?",
+        "opciones": [
+          "No se realiza ningún registro clínico mientras no se confirme la situación.",
+          "Se registra como CMT en la historia clínica electrónica.",
+          "Se asigna Nivel de Prioridad según situación clínica y se anota ISMT.",
+          "Solo se informa al Equipo de Atención Primaria si la paciente da su consentimiento por escrito."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Ante sospecha no confirmada, se registra ISMT (Indicador de Sospecha de Malos Tratos) y se asigna prioridad según situación clínica. Se activa circuito social aunque no haya confirmación."
+      },
+      {
+        "enunciado": "En el caso de una mujer que niega estar siendo maltratada, ¿cuál de las siguientes situaciones obliga al profesional sanitario a comunicar el caso a Fiscalía como Situación Objetiva de Riesgo (SOR)?",
+        "opciones": [
+          "La mujer muestra ansiedad pero no refiere conflictos.",
+          "La mujer presenta lesiones antiguas sin explicación.",
+          "Existen armas en el domicilio utilizadas con carácter intimidatorio.",
+          "El acompañante solicita hablar con la mujer en todo momento."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "La existencia de armas con uso intimidatorio en el domicilio constituye una SOR, lo que obliga al profesional sanitario a comunicar a Fiscalía aunque la mujer no reconozca el maltrato."
+      },
+      {
+        "enunciado": "Se considera una Situación Objetiva de Riesgo (SOR), con obligación de comunicación a Fiscalía, cuando:",
+        "opciones": [
+          "La mujer ha acudido en otras ocasiones a urgencias con molestias inespecíficas.",
+          "Hay indicios de que la mujer está tomando medicación que reduce su capacidad de decisión.",
+          "La pareja muestra una actitud controladora en la consulta.",
+          "La mujer presenta alteraciones del estado de ánimo no valoradas previamente."
+        ],
+        "correcta": 1,
+        "categorias": ["tema200"],
+        "feedback": "El uso de medicación que anula o reduce la voluntad, así como la existencia de enfermedad crónica invalidante o discapacidad, son criterios específicos de SOR."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes escenarios constituye una SOR aunque la mujer no quiera denunciar?",
+        "opciones": [
+          "La mujer indica que se siente más triste desde hace meses.",
+          "Se constata un intento de suicidio reciente.",
+          "La mujer refiere que su pareja la llama con frecuencia.",
+          "El maltratador ha perdido recientemente su empleo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema200"],
+        "feedback": "Un intento autolítico reciente de la mujer se considera criterio de Situación Objetiva de Riesgo, y requiere notificación a Fiscalía aunque no haya denuncia."
+      },
+      {
+        "enunciado": "Señale la opción que NO constituye una Situación Objetiva de Riesgo (SOR):",
+        "opciones": [
+          "Celos extremos y control obsesivo por parte de la pareja.",
+          "La mujer convive con un maltratador con trastorno mental grave.",
+          "La mujer afirma tener una relación consensuada, sin temor.",
+          "Hay menores presenciando los episodios de violencia."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Aunque la mujer no verbalice temor, si existen menores que presencian la violencia o hay control extremo, sí son criterios de SOR. Solo en ausencia total de indicios no se considera."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores justifica comunicar una situación como SOR a Fiscalía aunque la mujer niegue el maltrato?",
+        "opciones": [
+          "Antecedentes penales del maltratador por violencia de género.",
+          "Uso de redes sociales para controlar a la mujer.",
+          "Negativa a separarse de su pareja por dependencia económica.",
+          "Solicita consulta acompañada de su madre o hermana."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "La existencia de antecedentes penales por violencia de género en el agresor es un criterio claro de SOR y obliga a la notificación legal, independientemente de la voluntad de la mujer."
+      },
+      {
+        "enunciado": "En relación a las Situaciones Objetivas de Riesgo (SOR), ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Solo deben comunicarse si hay consentimiento expreso de la mujer.",
+          "Deben notificarse a Trabajo Social pero no a Fiscalía.",
+          "Se comunican a Fiscalía aunque la mujer no reconozca el maltrato.",
+          "Se valoran exclusivamente por los servicios sociales, no por personal sanitario."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Las SOR deben ser notificadas directamente a Fiscalía Delegada de Violencia contra la Mujer, incluso si la mujer niega los malos tratos."
+      },
+      {
+        "enunciado": "La existencia de amenazas de suicidio o de homicidio por parte del maltratador se considera:",
+        "opciones": [
+          "Un dato clínico a registrar sin necesidad de actuación adicional.",
+          "Un factor de mal pronóstico sin repercusiones legales.",
+          "Una Situación Objetiva de Riesgo que requiere comunicación a Fiscalía.",
+          "Un motivo para derivar exclusivamente a salud mental."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Las amenazas de suicidio o de homicidio son criterios directos de SOR. Ante su presencia, se requiere comunicación formal a Fiscalía, aunque la víctima no denuncie."
+      },
+      {
+        "enunciado": "En qué situación se considera que existe una SOR incluso si la mujer no verbaliza sentirse en peligro:",
+        "opciones": [
+          "Cuando reside en una zona rural con escaso acceso a servicios sociales.",
+          "Cuando tiene antecedentes familiares de violencia.",
+          "Cuando refiere estar emocionalmente distante de su pareja.",
+          "Cuando vive sola tras una separación reciente."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "El aislamiento geográfico que impide recurrir a servicios de ayuda, especialmente en zonas rurales, se considera una Situación Objetiva de Riesgo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes acciones es correcta ante una mujer con discapacidad que niega maltrato pero cuyo entorno sugiere violencia continuada?",
+        "opciones": [
+          "Registrar en historia clínica y citar en seguimiento.",
+          "Confirmar primero la versión de la pareja antes de notificar.",
+          "Anotar como sospecha no confirmada y dejar el caso sin actuación.",
+          "Comunicar a Fiscalía como Situación Objetiva de Riesgo (SOR)."
+        ],
+        "correcta": 3,
+        "categorias": ["tema200"],
+        "feedback": "La discapacidad de la mujer es un criterio de SOR. En estos casos, aunque niegue el maltrato, se debe proceder a la notificación legal."
+      },
+      {
+        "enunciado": "Se debe considerar Situación Objetiva de Riesgo (SOR) y actuar conforme al artículo 544 ter del Código Penal cuando:",
+        "opciones": [
+          "Hay una separación reciente sin incidentes.",
+          "La mujer expresa su deseo de reconciliarse.",
+          "El inicio de trámites de separación se ha acompañado de amenazas.",
+          "La mujer tiene apoyo familiar y acceso a servicios sociales."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "El aumento de la violencia tras iniciar la separación o la persistencia del acoso tras la ruptura son criterios claros de SOR, y deben notificarse a Fiscalía."
+      },
+      {
+        "enunciado": "En relación con los indicadores de sospecha en mujeres que acuden a urgencias, señale la afirmación correcta:",
+        "opciones": [
+          "Solo las lesiones físicas visibles pueden considerarse motivo suficiente de sospecha.",
+          "La ausencia de signos físicos descarta una situación de maltrato.",
+          "La repetición de visitas sin causa orgánica aparente debe considerarse un posible indicador centinela.",
+          "No deben evaluarse los antecedentes personales en urgencias salvo si lo requiere la consulta clínica."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "El patrón de consultas repetidas por síntomas vagos o sin causa orgánica debe alertar al profesional sanitario como posible indicador de maltrato."
+      },
+      {
+        "enunciado": "Entre las actitudes del acompañante que pueden levantar sospecha de maltrato se encuentran todas las siguientes, EXCEPTO:",
+        "opciones": [
+          "Interrumpe constantemente a la paciente.",
+          "Solicita información sobre el historial clínico de ella.",
+          "Permanece en silencio durante toda la consulta.",
+          "Hace comentarios despectivos o paternalistas hacia ella."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "El silencio del acompañante, por sí solo, no es un indicador directo. Sí lo son la interrupción, el control del historial o los comentarios despectivos."
+      },
+      {
+        "enunciado": "Respecto al código CMT en la Historia Clínica Electrónica, indique la opción correcta:",
+        "opciones": [
+          "Se utiliza cuando existe una sospecha leve sin confirmación.",
+          "Debe anotarse siempre que haya una denuncia previa, aunque no se confirme en la entrevista.",
+          "Se aplica cuando se confirma clínicamente la situación de malos tratos.",
+          "Es un código exclusivo del ámbito judicial, no del sanitario."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "CMT (Confirmación de Malos Tratos) se registra cuando la entrevista o la evaluación permiten confirmar que hay una situación real de violencia de género."
+      },
+      {
+        "enunciado": "En la entrevista clínica ante sospecha de maltrato, ¿cuál de las siguientes estrategias es recomendable?",
+        "opciones": [
+          "Limitar la entrevista a 5 minutos para no generar incomodidad.",
+          "Evitar el contacto visual directo para no intimidar a la paciente.",
+          "Utilizar preguntas abiertas y luego pasar a cuestiones más concretas.",
+          "Iniciar directamente con preguntas sobre agresiones físicas o sexuales."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "La entrevista debe seguir una secuencia lógica: de preguntas abiertas y generales hacia otras más directas, siempre en un clima de confianza y confidencialidad."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes preguntas sería adecuada para iniciar la conversación ante indicadores emocionales como ansiedad o tristeza?",
+        "opciones": [
+          "¿Está usted segura de que sus síntomas no son inventados?",
+          "¿Tiene usted antecedentes psiquiátricos?",
+          "¿Desde cuándo se siente así?, ¿lo relaciona con algo que haya ocurrido?",
+          "¿Cree que su pareja tiene problemas psicológicos?"
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Una forma correcta de abordar indicadores emocionales es indagar sobre el origen subjetivo del malestar, sin emitir juicio ni asumir causas previas."
+      },
+      {
+        "enunciado": "En relación con la atención sanitaria a mujeres adolescentes ante una sospecha de violencia de género, indique la opción correcta:",
+        "opciones": [
+          "La entrevista debe realizarse en presencia del tutor legal por protección jurídica.",
+          "Deben usarse exclusivamente cuestionarios anónimos para preservar la intimidad.",
+          "Debe garantizarse una entrevista privada, sin acompañantes, aunque sean familiares.",
+          "No deben hacerse preguntas directas sobre relaciones sexuales si la menor es virgen."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "En adolescentes, la entrevista debe realizarse a solas, sin padres ni acompañantes, para garantizar la confidencialidad y fomentar la expresión libre."
+      },
+      {
+        "enunciado": "¿Qué actuación sanitaria está indicada cuando se detectan lesiones físicas compatibles con violencia pero no se verbaliza el maltrato?",
+        "opciones": [
+          "Registrar ISMT en historia clínica y comunicar a Trabajo Social.",
+          "Esperar a una nueva consulta antes de registrar nada.",
+          "Informar directamente a los cuerpos de seguridad sin registrar en historia.",
+          "Prescribir tratamiento sintomático y dar el alta sin más acciones."
+        ],
+        "correcta": 0,
+        "categorias": ["tema200"],
+        "feedback": "Si hay indicios clínicos sin confirmación verbal, debe registrarse como ISMT (Indicador de Sospecha) y activar circuito social para seguimiento."
+      },
+      {
+        "enunciado": "Indique cuál de los siguientes elementos NO forma parte de las recomendaciones para una entrevista ante sospecha de maltrato:",
+        "opciones": [
+          "Ver a la paciente a solas, garantizando privacidad.",
+          "Mantener una actitud empática y escucha activa.",
+          "Evitar hablar directamente del tema para no generar rechazo.",
+          "Explorar creencias culturales o religiosas que puedan enmascarar abusos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "La recomendación es abordar el maltrato de forma directa, pero con sensibilidad. Evitar el tema impide visibilizar y afrontar la situación."
+      },
+      {
+        "enunciado": "Cuando una mujer niega sufrir violencia, pero presenta ansiedad y alteraciones emocionales sin causa orgánica, ¿cuál debe ser la actitud profesional?",
+        "opciones": [
+          "Derivar sin más a Salud Mental.",
+          "Registrar la consulta como patología psiquiátrica sin mención adicional.",
+          "Indagar mediante entrevista estructurada sobre posibles situaciones de violencia.",
+          "Concluir la asistencia con diagnóstico de 'estado de ánimo depresivo leve'."
+        ],
+        "correcta": 2,
+        "categorias": ["tema200"],
+        "feedback": "Los síntomas emocionales pueden ser manifestaciones de violencia de género. Se recomienda realizar entrevista con enfoque específico para detectarla."
+      },
+      {
+        "enunciado": "En una paciente con historia previa de dispareunia y dolor pélvico persistente, ¿qué pregunta puede orientar la detección de maltrato?",
+        "opciones": [
+          "¿Está tomando tratamiento anticonceptivo oral?",
+          "¿Su pareja respeta cuándo usted desea mantener relaciones sexuales?",
+          "¿Sufre infecciones de repetición?",
+          "¿Ha sido intervenida quirúrgicamente en la zona pélvica?"
+        ],
+        "correcta": 1,
+        "categorias": ["tema200"],
+        "feedback": "Las preguntas sobre consentimiento, frecuencia y respeto durante las relaciones sexuales permiten identificar violencia sexual o coercitiva en el contexto de pareja."
+      }
+      
+          
+]

@@ -1,0 +1,307 @@
+[
+      {
+        "enunciado": "Según el PAI Embarazo, Parto y Puerperio, en la visita correspondiente a la semana 36 de gestación (35-37 SG), ¿cuál de las siguientes actuaciones es correcta?",
+        "opciones": [
+          "Se debe ofrecer una ecografía de segundo trimestre.",
+          "Se solicitará el cribado de Estreptococo Grupo B si no se ha realizado previamente.",
+          "Se recomienda iniciar el plan de parto y nacimiento.",
+          "Se debe realizar un estudio de coagulación rutinario previo a la analgesia neuroaxial."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 36 se solicita el cultivo vagino-rectal para el cribado del estreptococo del grupo B (EGB), salvo que haya sido aislado previamente en orina o exista antecedente de hijo con infección neonatal por EGB:contentReference[oaicite:0]{index=0}."
+      },
+      {
+        "enunciado": "Durante la visita del embarazo entre la semana 28 y la 30, ¿cuál de las siguientes acciones forma parte del protocolo asistencial?",
+        "opciones": [
+          "Se entrega el documento de salud de la embarazada.",
+          "Se ofrece la elaboración del Plan de Parto y Nacimiento.",
+          "Se solicita el cribado de EGB.",
+          "Se gestiona cita para ecografía del primer trimestre."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "Entre las semanas 28 y 30, se ofrece a la gestante la posibilidad de elaborar un Plan de Parto y Nacimiento, además de discutir opciones de analgesia y riesgos/beneficios de cada una:contentReference[oaicite:1]{index=1}."
+      },
+      {
+        "enunciado": "¿En qué semana se recomienda abordar la posibilidad de inducción del parto en caso de embarazo prolongado?",
+        "opciones": [
+          "Semana 38",
+          "Semana 39",
+          "Semana 40",
+          "Semana 41"
+        ],
+        "correcta": 3,
+        "categorias": ["tema203"],
+        "feedback": "A partir de la semana 41 se recomienda ofrecer la inducción al parto, informando sobre riesgos y beneficios, considerando edad gestacional, resultados de monitorización y preferencias de la gestante:contentReference[oaicite:2]{index=2}."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la presentación fetal es correcta según el PAI?",
+        "opciones": [
+          "Debe valorarse por ecografía exclusivamente en todas las gestantes a la semana 30.",
+          "La valoración abdominal de la presentación fetal se realiza a las 36 semanas o posteriormente.",
+          "Sólo se valora si la gestante presenta dolor pélvico.",
+          "No se considera relevante salvo en casos de embarazo múltiple."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "La presentación fetal se valora mediante palpación abdominal a partir de la semana 36, ya que puede influir en la planificación del parto:contentReference[oaicite:3]{index=3}."
+      },
+      {
+        "enunciado": "Según el protocolo andaluz, ¿cuándo se debe ofrecer información sobre los métodos para el alivio del dolor durante el parto?",
+        "opciones": [
+          "En la primera visita del embarazo.",
+          "En la semana 12, junto con el cribado prenatal.",
+          "Entre la semana 28 y 30, junto con el Plan de Parto.",
+          "Únicamente durante el ingreso en el hospital."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La información sobre los métodos de alivio del dolor se proporciona entre la semana 28 y 30, junto con el ofrecimiento del Plan de Parto y Nacimiento:contentReference[oaicite:4]{index=4}."
+      },
+      {
+        "enunciado": "¿Qué actuación se recomienda realizar en la primera consulta del embarazo, según el PAI Embarazo, Parto y Puerperio?",
+        "opciones": [
+          "Solicitar cultivo de EGB.",
+          "Realizar ecografía de tercer trimestre.",
+          "Apertura del Documento de Salud de la Embarazada (DSE).",
+          "Ofrecer vacunación frente al rotavirus."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "En la primera visita se realiza la apertura del Documento de Salud de la Embarazada, junto con anamnesis, exploración física y analítica inicial:contentReference[oaicite:0]{index=0}."
+      },
+      {
+        "enunciado": "¿Qué semana se considera clave para ofrecer el cribado combinado de primer trimestre?",
+        "opciones": [
+          "Semana 9",
+          "Semana 11 a 13+6 días",
+          "Semana 15",
+          "Semana 10 a 14+6 días"
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "El cribado de primer trimestre se realiza entre la semana 11 y la 13+6 días e incluye ecografía y parámetros bioquímicos para el riesgo de cromosomopatías:contentReference[oaicite:1]{index=1}."
+      },
+      {
+        "enunciado": "Durante la consulta correspondiente a la semana 24 de gestación, ¿qué prueba se realiza de forma sistemática?",
+        "opciones": [
+          "Ecografía fetal de alta resolución.",
+          "Test de O'Sullivan.",
+          "Hemograma con ferritina.",
+          "Cultivo de estreptococo grupo B."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "El test de O’Sullivan (cribado de diabetes gestacional) se realiza entre las semanas 24-28 de forma rutinaria a todas las gestantes:contentReference[oaicite:2]{index=2}."
+      },
+      {
+        "enunciado": "¿En qué semana se administra sistemáticamente la vacuna frente a la tosferina a la embarazada?",
+        "opciones": [
+          "Entre la semana 20 y 22",
+          "Entre la semana 27 y 28",
+          "Semana 32",
+          "Semana 36"
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "La vacunación frente a la tosferina se administra en la semana 27 o 28, idealmente, como parte del calendario vacunal durante el embarazo:contentReference[oaicite:3]{index=3}."
+      },
+      {
+        "enunciado": "¿Qué actuación forma parte del control de la gestación en la semana 20?",
+        "opciones": [
+          "Ecografía de tercer trimestre.",
+          "Test de O’Sullivan.",
+          "Ecografía morfológica fetal.",
+          "Cribado de EGB."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La ecografía morfológica (anatómica) se realiza en la semana 20 para evaluar el desarrollo fetal y detectar posibles malformaciones:contentReference[oaicite:4]{index=4}."
+      },
+      {
+        "enunciado": "En una gestante Rh negativa, ¿cuál es la actuación recomendada en la semana 28?",
+        "opciones": [
+          "Ecografía de control de crecimiento fetal.",
+          "Determinación de anticuerpos irregulares.",
+          "Administración de gammaglobulina anti-D si no hay aloimunización.",
+          "Repetición del cribado combinado del primer trimestre."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "A las gestantes Rh negativo no inmunizadas se les administra gammaglobulina anti-D entre las semanas 28-30:contentReference[oaicite:5]{index=5}."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes acciones forma parte del control habitual en la semana 40 de gestación?",
+        "opciones": [
+          "Cribado de cromosomopatías.",
+          "Valoración del Bishop.",
+          "Cultivo de orina y citología cervical.",
+          "Ecografía morfológica fetal."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 40, si no ha iniciado el parto, se valora la posibilidad de inducción mediante parámetros como el índice de Bishop y la monitorización fetal:contentReference[oaicite:6]{index=6}."
+      },
+      {
+        "enunciado": "¿Qué actuación se debe realizar entre las semanas 12 y 13+6 días, además del cribado combinado?",
+        "opciones": [
+          "Detección del estreptococo grupo B.",
+          "Ecografía para confirmar gestación múltiple y edad gestacional.",
+          "Administración de vacuna frente a hepatitis B.",
+          "Prueba de Coombs indirecta en gestantes Rh positivo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "La ecografía del primer trimestre permite confirmar la edad gestacional, el número de fetos, y evaluar la vitalidad embrionaria:contentReference[oaicite:7]{index=7}."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre la información sobre lactancia materna?",
+        "opciones": [
+          "Debe darse exclusivamente en el puerperio inmediato.",
+          "Se entrega por primera vez en la semana 36.",
+          "Se aborda de forma progresiva desde las primeras visitas del embarazo.",
+          "Se limita a una sesión grupal obligatoria entre semanas 30-32."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La información sobre lactancia materna debe ofrecerse desde el inicio del seguimiento, adaptándola a las necesidades de la mujer a lo largo del proceso:contentReference[oaicite:8]{index=8}."
+      },
+      {
+        "enunciado": "¿En qué momento debe confirmarse la presentación cefálica del feto, si no se ha hecho previamente?",
+        "opciones": [
+          "Semana 28",
+          "Semana 30",
+          "Semana 36",
+          "Semana 39"
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La presentación cefálica debe confirmarse a partir de la semana 36 mediante palpación abdominal o ecografía si hay dudas clínicas:contentReference[oaicite:9]{index=9}."
+      },
+      {
+        "enunciado": "¿Qué actuación es correcta en la consulta correspondiente a las semanas 11-13+6 días de gestación?",
+        "opciones": [
+          "Solicitud del test de O'Sullivan.",
+          "Valoración de presentación fetal por ecografía.",
+          "Cribado combinado (bioquímica + translucencia nucal).",
+          "Administración de gammaglobulina anti-D en gestantes Rh negativas."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "Entre las semanas 11 y 13+6 días se realiza el cribado combinado del primer trimestre, que incluye marcadores bioquímicos y la translucencia nucal por ecografía."
+      },
+      {
+        "enunciado": "Según el PAI, ¿cuál de las siguientes actuaciones forma parte de la consulta de la semana 36 (35-37 SG)?",
+        "opciones": [
+          "Administración de vacuna frente al VPH.",
+          "Solicitud de citología vaginal.",
+          "Cribado de Estreptococo del Grupo B.",
+          "Solicitud de ecografía morfológica fetal."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 36 se solicita el cultivo vagino-rectal para cribado del estreptococo del grupo B, salvo que ya se haya identificado en orina o exista antecedente de infección neonatal por EGB."
+      },
+      {
+        "enunciado": "¿En qué momento del embarazo se recomienda valorar la vacunación frente a la tosferina?",
+        "opciones": [
+          "Semana 20",
+          "Semana 27-28",
+          "Semana 32",
+          "Semana 36"
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "La vacunación frente a la tosferina (Tdpa) se recomienda entre las semanas 27 y 28 de gestación, para asegurar la máxima transferencia de anticuerpos al feto."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de la ecografía realizada en la semana 20 de gestación?",
+        "opciones": [
+          "Confirmar edad gestacional y vitalidad fetal.",
+          "Descartar infección por citomegalovirus.",
+          "Evaluar anatomía fetal y detectar malformaciones.",
+          "Estimar peso fetal y líquido amniótico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La ecografía de la semana 20 es la ecografía morfológica, cuyo objetivo es evaluar la anatomía fetal y detectar posibles anomalías estructurales."
+      },
+      {
+        "enunciado": "¿Cuál es una actuación clave a realizar en la semana 12 de gestación según el PAI?",
+        "opciones": [
+          "Ecografía transvaginal para medir cuello uterino.",
+          "Valoración de riesgo de cromosomopatías con cribado combinado.",
+          "Administración de gammaglobulina anti-D en Rh negativas.",
+          "Entrega del plan de parto y nacimiento."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 12 se lleva a cabo el cribado combinado del primer trimestre, que incluye la medición de translucencia nucal y marcadores bioquímicos."
+      },
+      {
+        "enunciado": "¿Qué actuación forma parte del seguimiento habitual en la semana 41 de gestación?",
+        "opciones": [
+          "Cribado combinado de primer trimestre.",
+          "Oferta de inducción al parto con información individualizada.",
+          "Administración sistemática de gammaglobulina anti-D.",
+          "Ecografía morfológica fetal."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 41 se recomienda ofrecer la inducción al parto, valorando los riesgos y beneficios, y considerando la preferencia de la gestante junto a los resultados de monitorización fetal."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes pruebas debe solicitarse sistemáticamente en la semana 24 de gestación?",
+        "opciones": [
+          "Test de O'Sullivan.",
+          "Cultivo vagino-rectal de estreptococo B.",
+          "Prueba de Coombs indirecta.",
+          "Ecografía para estimación del peso fetal."
+        ],
+        "correcta": 0,
+        "categorias": ["tema203"],
+        "feedback": "El test de O’Sullivan se realiza de forma sistemática entre las semanas 24 y 28 para el cribado de diabetes gestacional en mujeres sin factores de riesgo previos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre la administración de gammaglobulina anti-D durante el embarazo?",
+        "opciones": [
+          "Debe administrarse a todas las gestantes independientemente del grupo Rh.",
+          "Se administra a gestantes Rh negativo no inmunizadas entre las semanas 28 y 30.",
+          "Solo se administra si la gestante ha tenido un hijo previo con incompatibilidad Rh.",
+          "Se administra junto con la vacuna de la tosferina en la semana 36."
+        ],
+        "correcta": 1,
+        "categorias": ["tema203"],
+        "feedback": "La gammaglobulina anti-D está indicada en gestantes Rh negativo no sensibilizadas, habitualmente entre las semanas 28 y 30, para prevenir la aloinmunización."
+      },
+      {
+        "enunciado": "¿Qué actuación se realiza en la primera consulta del embarazo dentro del sistema público andaluz?",
+        "opciones": [
+          "Test de O’Sullivan y ecografía morfológica.",
+          "Ecografía del tercer trimestre.",
+          "Apertura del Documento de Salud de la Embarazada y analítica inicial.",
+          "Cultivo de estreptococo B."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "La primera consulta incluye anamnesis, exploración general, analítica inicial, citología si no está al día y apertura del Documento de Salud de la Embarazada."
+      },
+      {
+        "enunciado": "¿Qué actuación específica debe realizarse en la visita de la semana 36 en una mujer sana sin complicaciones?",
+        "opciones": [
+          "Evaluación del riesgo cardiovascular.",
+          "Solicitud de ecografía de primer trimestre.",
+          "Valoración de presentación fetal y solicitud de cultivo vagino-rectal para EGB.",
+          "Vacunación frente a hepatitis B y varicela."
+        ],
+        "correcta": 2,
+        "categorias": ["tema203"],
+        "feedback": "En la semana 36 se debe valorar la presentación fetal mediante palpación abdominal o ecografía si hay duda, y solicitar el cultivo de estreptococo del grupo B."
+      }
+      
+      
+      
+      
+    ]
+  

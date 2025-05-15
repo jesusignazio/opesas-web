@@ -1,0 +1,244 @@
+[
+    {
+        "enunciado": "Respecto a los cuidados del estoma de una sonda PEG durante los primeros 15 días, ¿cuál de las siguientes indicaciones es correcta?",
+        "opciones": [
+          "Se debe frotar vigorosamente con alcohol para evitar infección.",
+          "No se debe mover el soporte externo durante la higiene.",
+          "Se limpiará con agua, jabón y antiséptico, de dentro hacia fuera.",
+          "No se debe tocar el estoma para no irritarlo."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Durante los primeros 15 días, el estoma debe lavarse con agua, jabón y antiséptico, realizando movimientos de dentro hacia fuera sin fricción excesiva."
+      },
+      {
+        "enunciado": "Una práctica contraindicada en los cuidados rutinarios de una sonda PEG es:",
+        "opciones": [
+          "Levantar suavemente el disco para limpiar la piel.",
+          "Colocar gasa entre el soporte externo y la piel.",
+          "Girar el disco una vez al día para evitar adherencias.",
+          "Secar cuidadosamente la zona tras la higiene diaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "No debe colocarse gasa entre el soporte externo y la piel, ya que puede macerar e infectar la piel por acumulación de secreciones."
+      },
+      {
+        "enunciado": "Tras cada administración de alimentación por PEG, es necesario:",
+        "opciones": [
+          "Administrar aire para limpiar el conducto.",
+          "Aplicar suero glucosado al 5%.",
+          "Infundir agua suficiente para lavar la sonda.",
+          "Cerrar el disco con esparadrapo hasta la siguiente toma."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Se debe pasar agua tras cada alimentación o medicación para prevenir obstrucciones de la sonda y mantenerla permeable."
+      },
+      {
+        "enunciado": "En caso de retirada accidental de la sonda PEG en el domicilio y sin recambio inmediato, ¿cuál es la actuación prioritaria?",
+        "opciones": [
+          "Esperar a que cierre el estoma y colocar nueva sonda.",
+          "Introducir inmediatamente una sonda Foley del mismo calibre.",
+          "Cubrir el estoma con una gasa y derivar en 48h.",
+          "No hacer nada si el paciente está sin síntomas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "Ante la retirada accidental, debe introducirse rápidamente una sonda de sustitución (idealmente una Foley) para evitar el cierre del estoma en pocas horas."
+      },
+      {
+        "enunciado": "¿Qué debe hacerse antes de cada nutrición por PEG para comprobar que la sonda está correctamente colocada?",
+        "opciones": [
+          "Aspirar el contenido gástrico y medir el pH.",
+          "Verificar el color del contenido residual.",
+          "Comprobar la graduación en centímetros en la parte externa de la sonda.",
+          "Aplicar presión positiva para observar salida de alimento."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "La comprobación de la marca en centímetros permite verificar que la sonda no se ha desplazado hacia el exterior o interior accidentalmente."
+      },
+      {
+        "enunciado": "Durante el cambio programado de una sonda de balón PEG, ¿qué paso es esencial tras comprobar la integridad del nuevo balón?",
+        "opciones": [
+          "Aplicar antiséptico en el balón antes de insertarlo.",
+          "Introducir aire en lugar de agua para inflarlo.",
+          "Lubricar con lubricante hidrosoluble el extremo distal.",
+          "Llenar el globo con suero fisiológico hipertónico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "El extremo de la sonda debe lubricarse con producto hidrosoluble para facilitar su introducción y minimizar el daño en el estoma."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones obliga a sospechar que el balón de la sonda PEG está deteriorado?",
+        "opciones": [
+          "Al aspirar, no sale ningún líquido del balón.",
+          "Se extrae la cantidad anotada en la sonda.",
+          "El balón está hinchado pero no provoca molestias.",
+          "La sonda tiene restos de alimentación seca en la superficie."
+        ],
+        "correcta": 0,
+        "categorias": ["tema208"],
+        "feedback": "Si al aspirar no se obtiene líquido del balón, debe sospecharse rotura o fuga. Se recomienda cambiar la sonda cuanto antes."
+      },
+      {
+        "enunciado": "Respecto a la administración de medicación por PEG, señale la afirmación correcta:",
+        "opciones": [
+          "Pueden mezclarse varios medicamentos triturados en la misma jeringa.",
+          "Se deben administrar primero los medicamentos densos.",
+          "Los comprimidos de liberación retardada pueden triturarse si se disuelven bien.",
+          "Debe limpiarse la sonda con agua antes y después de cada medicamento."
+        ],
+        "correcta": 3,
+        "categorias": ["tema208"],
+        "feedback": "Para evitar obstrucciones y errores en la absorción, la sonda debe lavarse con agua antes y después de cada medicamento."
+      },
+      {
+        "enunciado": "Durante la alimentación por PEG, se recomienda que el paciente se encuentre en:",
+        "opciones": [
+          "Decúbito lateral derecho.",
+          "Posición de Trendelenburg.",
+          "Incorporación mínima de 45º durante y una hora después.",
+          "Decúbito supino con la cabeza ligeramente girada."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Para prevenir el reflujo y aspiración, el paciente debe estar incorporado a 45º durante la alimentación y mantener esa postura una hora tras finalizar."
+      },
+      {
+        "enunciado": "¿Qué medida se recomienda para facilitar el paso del alimento al administrar por jeringa en una sonda PEG?",
+        "opciones": [
+          "Diluir el alimento con solución salina hipertónica.",
+          "Introducir aire antes de cada toma.",
+          "Impregnar el émbolo de la jeringa con aceite de oliva.",
+          "Administrar el alimento muy caliente para aumentar la fluidez."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Se recomienda impregnar el émbolo de la jeringa con aceite de oliva para facilitar el deslizamiento del alimento sin obstrucciones ni fricción."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta respecto a la higiene bucal en pacientes portadores de sonda PEG?",
+        "opciones": [
+          "La higiene bucal no es relevante si no hay alimentación oral.",
+          "Basta con un enjuague diario sin cepillado.",
+          "Debe cepillarse al menos dos veces al día con pasta dentífrica, incluso sin alimentación oral.",
+          "Solo es necesario el uso de clorhexidina si hay infección."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "La higiene bucal es esencial en pacientes con PEG, aunque no se alimenten por boca. Se recomienda cepillado dental con pasta al menos dos veces al día."
+      },
+      {
+        "enunciado": "¿Qué recomendación es adecuada en pacientes no colaboradores para la higiene bucal con PEG?",
+        "opciones": [
+          "No realizar higiene por riesgo de broncoaspiración.",
+          "Usar clorhexidina diariamente y pasta dentífrica.",
+          "No usar dentífrico y cepillar con agua o clorhexidina una semana al mes.",
+          "Utilizar bicarbonato para mantener el pH bucal."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "En pacientes no colaboradores, se recomienda cepillado diario con agua, evitando pasta dentífrica, y uso de clorhexidina una semana al mes."
+      },
+      {
+        "enunciado": "Tras la colocación de una sonda PEG, ¿cuándo puede comenzar el paciente a ducharse según protocolo?",
+        "opciones": [
+          "A las 24 horas si el estoma está seco.",
+          "Tras 3 días con apósito impermeable.",
+          "A partir de una semana si no hay complicaciones.",
+          "Desde el mismo día, evitando mojar el estoma."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Se recomienda no mojar el estoma ni ducharse durante la primera semana tras la colocación de la PEG para evitar infecciones."
+      },
+      {
+        "enunciado": "¿Cuál es el intervalo recomendado para el recambio programado de una sonda PEG de balón?",
+        "opciones": [
+          "Cada 3 meses.",
+          "Cada 6 meses, salvo deterioro.",
+          "Anualmente con revisión endoscópica.",
+          "No requiere recambio salvo complicación."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "Se recomienda el cambio cada 6 meses de la sonda PEG tipo balón, o antes si se detecta oscurecimiento, fisuras o fallo del balón."
+      },
+      {
+        "enunciado": "Durante el cambio de una sonda de balón PEG, ¿qué se debe hacer justo después de introducir la nueva sonda?",
+        "opciones": [
+          "Fijarla con esparadrapo al abdomen.",
+          "Dejarla sin inflar 1 hora para comprobar tolerancia.",
+          "Inflar el balón con agua y tirar suavemente hasta ajustar.",
+          "Administrar suero fisiológico por la vía de alimentación para comprobar permeabilidad."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Tras colocar la nueva sonda, se infla el balón con la cantidad indicada y se tira suavemente para asegurar su ajuste contra la pared gástrica."
+      },
+      {
+        "enunciado": "¿Cuál es la técnica correcta para la retirada de una sonda PEG tipo balón?",
+        "opciones": [
+          "Retirar con una pinza sin desinflar el balón.",
+          "Desinflar el balón completamente y retirar con tracción suave y rotación si es necesario.",
+          "Pedir al paciente que realice maniobras de Valsalva durante la retirada.",
+          "Realizar sedación y extracción bajo control endoscópico."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "Se debe desinflar totalmente el balón y extraer la sonda con una tracción firme pero suave, usando rotación si ofrece resistencia."
+      },
+      {
+        "enunciado": "Una buena práctica para prevenir adherencias del disco externo a la piel es:",
+        "opciones": [
+          "Evitar moverlo para no irritar la piel.",
+          "Colocar una gasa debajo permanentemente.",
+          "Girar la sonda diariamente y airear la zona.",
+          "Aplicar crema antibiótica de forma preventiva."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Girar la sonda y airear la zona son medidas fundamentales para evitar adherencias o maceración bajo el disco externo."
+      },
+      {
+        "enunciado": "¿Qué signo puede indicar una infección periestomal en un paciente con PEG?",
+        "opciones": [
+          "Presencia de aire en el tubo digestivo.",
+          "Cambio de color de la sonda.",
+          "Enrojecimiento, calor y dolor alrededor del estoma.",
+          "Presencia de alimentos no digeridos en la sonda."
+        ],
+        "correcta": 2,
+        "categorias": ["tema208"],
+        "feedback": "Los signos clásicos de infección local incluyen enrojecimiento, inflamación y dolor en la zona periestomal. Debe informarse al equipo médico."
+      },
+      {
+        "enunciado": "¿Cuál es la razón principal para no usar comprimidos de liberación prolongada en una sonda PEG?",
+        "opciones": [
+          "No se absorben bien por vía gástrica.",
+          "Pueden bloquear la sonda y alterar la farmacocinética.",
+          "No pasan por la válvula antirretorno del conector.",
+          "Pueden interactuar con el material de la sonda."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "Los comprimidos de liberación prolongada no deben triturarse ni administrarse por PEG porque alteran su efecto y pueden obstruir la sonda."
+      },
+      {
+        "enunciado": "En caso de obstrucción parcial de la sonda PEG tras una administración de medicación, ¿qué debe hacerse primero?",
+        "opciones": [
+          "Introducir aire con jeringa a presión.",
+          "Lavar con agua templada y masajear suavemente el tubo.",
+          "Administrar bicarbonato sódico directamente.",
+          "Sustituir inmediatamente la sonda por una nueva."
+        ],
+        "correcta": 1,
+        "categorias": ["tema208"],
+        "feedback": "Ante una obstrucción parcial, se recomienda lavar con agua templada y masajear suavemente la sonda para restablecer el paso sin causar daño."
+      }
+      
+
+]

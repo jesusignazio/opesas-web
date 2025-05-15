@@ -73,6 +73,80 @@
         "correcta": 0,
         "categorías": ["tema148"],
         "feedback": "Avanzado solo requiere 100% esenciales y 70% del Grupo I."
+      },
+      {
+        "enunciado": "Una enfermera que presenta todas las Evidencias Esenciales, el 70% del Grupo I y no aporta evidencias del Grupo II ni III, ¿a qué nivel de acreditación puede optar según la ACSA?",
+        "opciones": ["Avanzado", "Experto", "Excelente", "No acreditable"],
+        "correcta": 0,
+        "categorías": ["tema148"],
+        "feedback": "El nivel Avanzado requiere: 100% de evidencias esenciales y al menos 70% del Grupo I."
+      },
+      {
+        "enunciado": "Si una profesional cumple el 70% del Grupo I, 70% del Grupo II, 70% del Grupo III y todas las Evidencias Esenciales, se le puede otorgar el nivel:",
+        "opciones": ["Avanzado", "Óptimo", "Experto", "Excelente"],
+        "correcta": 2,
+        "categorías": ["tema148"],
+        "feedback": "El nivel Experto exige: 100% esenciales, 70% Grupo I, 70% Grupo II y 70% Grupo III."
+      },
+      {
+        "enunciado": "¿Qué nivel corresponde a una profesional que cumple todas las Evidencias Esenciales, el 60% del Grupo I, 70% del Grupo II y 80% del Grupo III?",
+        "opciones": ["Experto", "Avanzado", "Excelente", "No acreditable"],
+        "correcta": 2,
+        "categorías": ["tema148"],
+        "feedback": "El nivel Excelente requiere: 100% esenciales, 60% Grupo I, 70% Grupo II y 80% Grupo III."
+      },
+      {
+        "enunciado": "Una enfermera que aporta 100% de evidencias esenciales, 70% del Grupo I, 70% del Grupo II y 50% del Grupo III podría ser acreditada como:",
+        "opciones": ["Excelente", "Experto", "Avanzado", "No acreditable"],
+        "correcta": 1,
+        "categorías": ["tema148"],
+        "feedback": "Para nivel Experto se requiere al menos 70% de los Grupos I y II, y 70% del Grupo III."
+      },
+      {
+        "enunciado": "Un profesional que no aporta el 100% de las Evidencias Esenciales no podrá obtener:",
+        "opciones": ["Avanzado", "Experto", "Excelente", "Ningún nivel"],
+        "correcta": 3,
+        "categorías": ["tema148"],
+        "feedback": "El cumplimiento del 100% de las evidencias esenciales es requisito indispensable para cualquier nivel de certificación."
+      },
+      {
+        "enunciado": "Si se cumple el 70% del Grupo I, 60% del Grupo II y 70% del Grupo III, además de todas las evidencias esenciales, ¿qué nivel se alcanza?",
+        "opciones": ["Avanzado", "Experto", "Excelente", "No acreditable"],
+        "correcta": 1,
+        "categorías": ["tema148"],
+        "feedback": "Nivel Experto: 100% esenciales + 70% Grupo I + 60% Grupo II + 70% Grupo III."
+      },
+      {
+        "enunciado": "Una enfermera con el 100% de evidencias esenciales, 60% del Grupo I, 70% del Grupo II y 80% del Grupo III obtendría el nivel:",
+        "opciones": ["Avanzado", "Experto", "Excelente", "No acreditable"],
+        "correcta": 2,
+        "categorías": ["tema148"],
+        "feedback": "Excelente: requiere 100% esenciales, 60% Grupo I, 70% Grupo II y 80% Grupo III."
+      },
+      {
+        "enunciado": "El nivel 'Avanzado' requiere como mínimo:",
+        "opciones": ["100% Esenciales y 70% Grupo I", "70% Grupo I y 60% Grupo II", "70% en todos los grupos", "100% Grupo I y II"],
+        "correcta": 0,
+        "categorías": ["tema148"],
+        "feedback": "Para ser acreditado como Avanzado, es necesario 100% esenciales y 70% del Grupo I."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes perfiles cumpliría criterios para nivel Excelente?",
+        "opciones": [
+          "100% esenciales, 70% G1, 70% G2, 70% G3",
+          "100% esenciales, 60% G1, 70% G2, 80% G3",
+          "100% esenciales, 70% G1, 60% G2, 70% G3",
+          "100% esenciales, 60% G1, 60% G2, 80% G3"
+        ],
+        "correcta": 1,
+        "categorías": ["tema148"],
+        "feedback": "Excelente: 100% esenciales, 60% G1, 70% G2 y 80% G3."
+      },
+      {
+        "enunciado": "Una profesional con todas las evidencias esenciales, 70% Grupo I y ningún porcentaje en los otros grupos se acreditará como:",
+        "opciones": ["Avanzado", "Experto", "Excelente", "No acreditable"],
+        "correcta": 0,
+        "categorías": ["tema148"],
+        "feedback": "Avanzado solo requiere 100% esenciales y 70% del Grupo I."
       }
-      
 ]

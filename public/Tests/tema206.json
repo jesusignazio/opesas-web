@@ -1,0 +1,305 @@
+[
+    {
+        "enunciado": "¿Cuál es la marca comercial actualmente utilizada en Andalucía para la vacuna hexavalente?",
+        "opciones": [
+          "Vaxelis®",
+          "Hexyon®",
+          "Infanrix hexa®",
+          "Pentavac®"
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "La vacuna hexavalente usada en Andalucía es Hexyon®, que protege frente a difteria, tétanos, tosferina, poliomielitis, Haemophilus influenzae tipo b y hepatitis B."
+      },
+      {
+        "enunciado": "¿Qué vacuna comercial se emplea en Andalucía para inmunización frente al meningococo B?",
+        "opciones": [
+          "Trumenba®",
+          "Menveo®",
+          "Bexsero®",
+          "Menactra®"
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "La vacuna frente a meningococo B utilizada es Bexsero®. Trumenba® también protege frente a MenB, pero no está incluida en el calendario andaluz."
+      },
+      {
+        "enunciado": "¿Cuál es la vacuna frente a meningococo ACWY utilizada a los 12 meses y 12 años en el SSPA?",
+        "opciones": [
+          "Nimenrix®",
+          "Bexsero®",
+          "Gardasil 9®",
+          "Hexyon®"
+        ],
+        "correcta": 0,
+        "categorias": ["tema206"],
+        "feedback": "Nimenrix® es una de las vacunas usadas para la inmunización frente a meningococo ACWY. También se utiliza MenQuadfi® en algunas cohortes."
+      },
+      {
+        "enunciado": "¿Qué preparado vacunal se emplea actualmente en Andalucía frente al virus del papiloma humano (VPH)?",
+        "opciones": [
+          "Cervarix®",
+          "Gardasil®",
+          "Gardasil 9®",
+          "Silgard®"
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Gardasil 9® es la vacuna frente al VPH incluida en el calendario andaluz para chicas y chicos de 12 años y en campañas de rescate."
+      },
+      {
+        "enunciado": "¿Cuál es la vacuna utilizada frente al herpes zóster en mayores de 65 años en Andalucía?",
+        "opciones": [
+          "Zostavax®",
+          "Shingrix®",
+          "Gardasil 9®",
+          "Varivax®"
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "Shingrix® es la vacuna recombinante no viva frente al herpes zóster usada en el calendario vacunal andaluz a partir de los 65 años."
+      },
+      {
+        "enunciado": "¿Qué anticuerpo monoclonal se administra como inmunización frente al virus respiratorio sincitial (VRS) en Andalucía?",
+        "opciones": [
+          "Palivizumab",
+          "Nirsevimab (Beyfortus®)",
+          "Adintrevimab",
+          "Evusheld®"
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "Beyfortus® (nirsevimab) es el anticuerpo monoclonal utilizado de forma sistemática en lactantes para la inmunización frente al VRS en Andalucía."
+      },
+      {
+        "enunciado": "¿Qué preparado se emplea en el SSPA como vacuna conjugada frente al neumococo en población infantil?",
+        "opciones": [
+          "Synflorix®",
+          "Prevenar 13®",
+          "Prevenar 20®",
+          "Pneumovax 23®"
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Actualmente se emplea Prevenar 20® como vacuna conjugada 20-valente frente al neumococo en lactantes en Andalucía."
+      },
+      {
+        "enunciado": "¿Cuál es el preparado comercial de la vacuna frente a varicela utilizada en el calendario vacunal infantil andaluz?",
+        "opciones": [
+          "Varivax®",
+          "Shingrix®",
+          "Zostavax®",
+          "Priorix Tetra®"
+        ],
+        "correcta": 0,
+        "categorias": ["tema206"],
+        "feedback": "La vacuna frente a varicela usada es Varivax®, indicada en el calendario infantil a los 15 meses y 3 años."
+      },
+      {
+        "enunciado": "¿Qué vacuna se emplea para la dosis de recuerdo frente a tétanos, difteria y tosferina a los 14 años en Andalucía?",
+        "opciones": [
+          "Boostrix®",
+          "Hexyon®",
+          "Tetraxim®",
+          "Adacel®"
+        ],
+        "correcta": 0,
+        "categorias": ["tema206"],
+        "feedback": "Boostrix® es la vacuna Tdpa de baja carga (tipo adulto) administrada a los 14 años como dosis de refuerzo."
+      },
+      {
+        "enunciado": "¿Qué vacuna triple vírica está incluida en el calendario infantil de Andalucía?",
+        "opciones": [
+          "Priorix®",
+          "Trimovax®",
+          "M-M-R II®",
+          "M-R-V-VaxPro®"
+        ],
+        "correcta": 3,
+        "categorias": ["tema206"],
+        "feedback": "M-R-V-VaxPro® es el preparado usado en Andalucía como vacuna triple vírica frente a sarampión, rubeola y parotiditis."
+      },
+      {
+        "enunciado": "Respecto a la vacunación frente a la tosferina (Tdpa) en embarazadas, ¿cuál de las siguientes afirmaciones es correcta según el SSPA?",
+        "opciones": [
+          "Solo se administra una vez en la vida, sin repetir en embarazos posteriores.",
+          "Debe evitarse en embarazadas con riesgo de parto prematuro.",
+          "Se recomienda administrar una dosis en cada embarazo, incluso si ha sido vacunada anteriormente.",
+          "Solo se administra en embarazos múltiples."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "La vacuna Tdpa debe administrarse en cada embarazo, independientemente del número de dosis previas, para proteger al recién nacido frente a la tosferina."
+      },
+      {
+        "enunciado": "En embarazadas con alto riesgo de parto prematuro clínicamente estables, ¿cuál es la recomendación sobre la vacuna Tdpa?",
+        "opciones": [
+          "Deben esperar a la semana 36 para vacunar.",
+          "La vacuna está contraindicada.",
+          "Puede adelantarse la vacunación a partir de la semana 20.",
+          "Solo se recomienda si no hay ecografía previa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "En embarazadas con riesgo de parto prematuro, se puede adelantar la vacunación con Tdpa a partir de la semana 20, coincidiendo con la ecografía de alta resolución."
+      },
+      {
+        "enunciado": "Según el protocolo del SSPA, ¿qué deben recibir los recién nacidos de madre portadora de AgHBs positivo?",
+        "opciones": [
+          "Solo vacuna de hepatitis B en las primeras 48 horas.",
+          "Vacuna de hepatitis B e inmunoglobulina anti-VHB en sitios distintos, preferiblemente en las primeras 12 horas.",
+          "Vacuna de hepatitis B junto con vacuna hexavalente en la primera semana.",
+          "Solo inmunoglobulina si se inicia pauta hexavalente a los 2 meses."
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "Se administra vacuna monocomponente de hepatitis B e inmunoglobulina específica en las primeras 12 horas de vida, en lugares anatómicos diferentes, para prevenir transmisión vertical."
+      },
+      {
+        "enunciado": "Ante un recién nacido cuya madre tiene serología AgHBs desconocida y sin resultado disponible en 24 horas, ¿qué medida debe tomarse?",
+        "opciones": [
+          "Esperar a los resultados y, si es positivo, vacunar a las 48 horas.",
+          "Administrar inmunoglobulina directamente.",
+          "Administrar vacuna frente a hepatitis B en las primeras 12 horas y, si el resultado es positivo, añadir inmunoglobulina lo antes posible.",
+          "Iniciar la pauta hexavalente estándar a los 2 meses."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Se administra de inmediato una dosis de vacuna monocomponente frente a hepatitis B. Si luego el AgHBs resulta positivo, se añade inmunoglobulina específica preferiblemente antes de 72 horas."
+      },
+      {
+        "enunciado": "En relación con la inmunización frente al VRS con nirsevimab, ¿qué grupo debe recibirlo en atención primaria o neonatología?",
+        "opciones": [
+          "Menores de 2 años con cardiopatía congénita.",
+          "Todos los nacidos durante la temporada de VRS.",
+          "Lactantes menores de 1 año nacidos prematuros <35 semanas.",
+          "Lactantes con alergia al huevo."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Los lactantes menores de 1 año con antecedente de prematuridad <35 semanas forman parte del Grupo 2 y reciben nirsevimab en AP o neonatología, según su situación clínica."
+      },
+      {
+        "enunciado": "¿Qué grupo recibe nirsevimab en hospitales, preferentemente en Medicina Preventiva, según el calendario del SSPA?",
+        "opciones": [
+          "Lactantes nacidos a término sanos.",
+          "Menores de 2 años con condiciones de alto riesgo como displasia broncopulmonar o cardiopatía.",
+          "Neonatos hijos de madre Rh negativa.",
+          "Prematuros menores de 35 semanas nacidos en domicilio."
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "El Grupo 3 incluye a menores de 2 años con alto riesgo de enfermedad grave por VRS. Reciben nirsevimab preferentemente en el hospital donde son seguidos clínicamente."
+      },
+      {
+        "enunciado": "Respecto a la posología de nirsevimab, ¿cuál es la dosis para lactantes <5 kg en su primera temporada de exposición al VRS?",
+        "opciones": [
+          "100 mg.",
+          "200 mg (2 jeringas de 100 mg).",
+          "50 mg (1 jeringa).",
+          "75 mg ajustados al peso."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Los lactantes de menos de 5 kg reciben una jeringa de 50 mg en su primera temporada de exposición al virus respiratorio sincitial (VRS)."
+      },
+      {
+        "enunciado": "En lactantes mutualistas (MUFACE, ISFAS, MUGEJU) con indicación de nirsevimab, ¿dónde se administra habitualmente la dosis?",
+        "opciones": [
+          "En su hospital privado con receta.",
+          "En urgencias pediátricas del hospital comarcal.",
+          "En su centro de salud de referencia en atención primaria.",
+          "Solo en la consulta de neonatología del hospital de referencia."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Los lactantes mutualistas con indicación para nirsevimab deben acudir a su centro de salud de referencia, acreditando la condición de riesgo con informe médico de su entidad."
+      },
+      {
+        "enunciado": "¿Qué criterio clínico condiciona la dosis de nirsevimab en la segunda temporada de exposición al VRS?",
+        "opciones": [
+          "Edad cronológica exclusivamente.",
+          "Peso del lactante en el momento de la administración.",
+          "Número de ingresos por bronquiolitis.",
+          "Si recibió o no nirsevimab la temporada anterior."
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "En la segunda temporada de inmunización frente a VRS, la dosis de nirsevimab se ajusta en función del peso del niño en el momento de la administración."
+      },
+      {
+        "enunciado": "¿Qué dosis de nirsevimab se administra a un lactante de 11 kg en su segunda temporada de exposición al VRS?",
+        "opciones": [
+          "100 mg en una jeringa.",
+          "50 mg por vía oral.",
+          "200 mg en dos jeringas de 100 mg.",
+          "150 mg en bolo intramuscular."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "A los lactantes ≥10 kg en su segunda temporada de riesgo se les administran 200 mg de nirsevimab, repartidos en dos jeringas de 100 mg, según protocolo andaluz."
+      },
+      {
+        "enunciado": "Un lactante prematuro menor de 35 semanas, de 4,5 kg, acude a su centro de salud durante su primera temporada de VRS. ¿Qué dosis de nirsevimab debe recibir?",
+        "opciones": [
+          "100 mg en una jeringa",
+          "50 mg en una jeringa",
+          "200 mg (dos jeringas de 100 mg)",
+          "150 mg ajustados al peso"
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "Los lactantes con peso inferior a 5 kg reciben una jeringa de 50 mg de nirsevimab en su primera temporada de exposición al VRS."
+      },
+      {
+        "enunciado": "Una mujer embarazada acude a consulta en la semana 31 sin haber recibido la vacuna Tdpa. ¿Qué debe hacerse?",
+        "opciones": [
+          "Esperar al posparto para vacunarla.",
+          "No se recomienda ya que ha pasado la semana 28.",
+          "Se recomienda vacunarla lo antes posible, aunque haya superado la semana 28.",
+          "Solo vacunar si tiene antecedentes de tosferina en hijos anteriores."
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Aunque lo ideal es vacunar en la semana 27-28, se recomienda administrar la Tdpa hasta el final del embarazo si no se ha recibido antes."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes grupos debe acreditar su condición clínica de riesgo mediante informe médico para recibir nirsevimab en el centro de salud?",
+        "opciones": [
+          "Lactantes sanos en su primera temporada de VRS",
+          "Prematuros de menos de 35 semanas ingresados en neonatología",
+          "Mutualistas de grupos 2 o 3 con atención privada",
+          "Niños con vacunación incompleta frente a gripe"
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Los mutualistas que reciben atención privada deben presentar en el centro de salud un informe médico que justifique su inclusión en grupos de alto riesgo para nirsevimab."
+      },
+      {
+        "enunciado": "En un recién nacido de madre con AgHBs positivo, ¿qué esquema de vacunación debe seguirse tras el parto?",
+        "opciones": [
+          "Vacuna hexavalente a las 24 horas y Tdpa a las 6 semanas",
+          "Solo inmunoglobulina si ha recibido la vacuna prenatal",
+          "Vacuna monocomponente frente a hepatitis B + inmunoglobulina específica, en lugares distintos, en las primeras 12 horas de vida",
+          "Ninguna intervención si la madre ha recibido la vacuna hexavalente"
+        ],
+        "correcta": 2,
+        "categorias": ["tema206"],
+        "feedback": "Se recomienda administrar vacuna monocomponente frente a hepatitis B e inmunoglobulina específica antes de las 12 horas de vida, en sitios anatómicos distintos."
+      },
+      {
+        "enunciado": "Un paciente con enfermedad pulmonar crónica y 1 año y 8 meses de edad acude a revisión. ¿Debe recibir nirsevimab?",
+        "opciones": [
+          "No, solo se administra en menores de 12 meses.",
+          "Sí, si pertenece al grupo de alto riesgo (Grupo 3), con ajuste de dosis por peso.",
+          "Solo si no ha recibido vacuna antigripal.",
+          "Debe esperar a los 2 años para vacuna frente a neumococo conjugado 20."
+        ],
+        "correcta": 1,
+        "categorias": ["tema206"],
+        "feedback": "Los menores de 2 años con condiciones clínicas de alto riesgo (como enfermedad pulmonar crónica) forman parte del Grupo 3 y deben recibir nirsevimab con dosis ajustada al peso."
+      }
+      
+
+
+]

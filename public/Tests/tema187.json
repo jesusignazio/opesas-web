@@ -1,0 +1,322 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes funciones forma parte del rol de una Enfermera Gestora de Casos (EGC)?",
+        "opciones": ["Prescripción exclusiva de tratamiento médico", "Gestión proactiva de problemas de salud anticipándose a la evolución de la enfermedad", "Seguimiento pasivo de pacientes estables", "Asignación de citas médicas periódicas sin valoración clínica previa"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "Una función clave de la EGC es anticiparse a los cambios clínicos y actuar proactivamente para prevenir complicaciones."
+      },
+      {
+        "enunciado": "Según el rol de las Enfermeras Gestoras de Casos, ¿qué servicio se incluye dentro de su cartera para garantizar la continuidad asistencial?",
+        "opciones": ["Seguimiento domiciliario programado", "Supervisión de personal administrativo", "Evaluación económica del paciente", "Prescripción de fármacos sin supervisión médica"],
+        "correcta": 0,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "El seguimiento programado, domiciliario o telefónico, es una herramienta esencial de las EGC para garantizar continuidad y calidad asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa un objetivo del trabajo de las Enfermeras Gestoras de Casos con personas cuidadoras?",
+        "opciones": ["Evaluar sus capacidades cognitivas", "Distribuir equitativamente las tareas del cuidado", "Prescribir medicación a la persona cuidadora", "Sustituir a la red de apoyo informal"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "Una labor fundamental es facilitar la distribución justa de tareas y proteger el bienestar de las personas cuidadoras."
+      },
+      {
+        "enunciado": "¿Qué instrumento se utiliza para valorar la complejidad en la población diana de gestión de casos?",
+        "opciones": ["Valoración subjetiva del profesional", "Valoración económica", "Instrumentos normalizados de valoración y estratificación", "Escala de dependencia Barthel"],
+        "correcta": 2,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "La valoración de la complejidad debe hacerse con herramientas normalizadas y repetirse periódicamente."
+      },
+      {
+        "enunciado": "Una EGC puede solicitar pruebas complementarias si:",
+        "opciones": ["Lo decide de forma autónoma", "Existe un protocolo consensuado con otros profesionales", "El paciente lo solicita directamente", "Se trata de una prueba no invasiva"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "La EGC puede solicitar pruebas si existe un protocolo aprobado para ello con otros profesionales."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los retos actuales del SSPA que justifica la figura de la EGC?",
+        "opciones": ["Reforzar la atención aguda hospitalaria", "Disminuir la atención domiciliaria", "Reorientar el modelo de atención hacia la cronicidad compleja", "Eliminar duplicidades administrativas"],
+        "correcta": 2,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "Las EGC son clave en la transformación del sistema para dar respuesta a las personas con enfermedades crónicas complejas."
+      },
+      {
+        "enunciado": "En relación con la abogacía del paciente, la EGC:",
+        "opciones": ["Toma decisiones clínicas en nombre del paciente", "Representa al paciente ante otros profesionales si así lo solicita", "Limita el acceso a otros servicios para evitar duplicidades", "Prioriza las necesidades del sistema sobre las del paciente"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "La EGC puede ejercer de portavoz del paciente con su consentimiento, defendiendo sus intereses ante el sistema sanitario."
+      },
+      {
+        "enunciado": "¿Qué actuación corresponde a una EGC en el proceso de alta hospitalaria?",
+        "opciones": ["Redacción del informe médico de alta", "Planificación anticipada del alta para evitar reingresos", "Revisión de la historia clínica hospitalaria", "Seguimiento farmacológico directo"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "Las EGC deben planificar anticipadamente el alta hospitalaria para garantizar la continuidad y minimizar reingresos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes servicios pertenece al ámbito de intervención directa de la EGC?",
+        "opciones": ["Acompañamiento al quirófano", "Educación sobre signos de agudización y autocuidados", "Prescripción de dieta hospitalaria", "Revisión de pruebas de imagen"],
+        "correcta": 1,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "Las intervenciones educativas sobre manejo de síntomas, dispositivos y cuidados son clave en el rol de la EGC."
+      },
+      {
+        "enunciado": "Una función clave de la EGC respecto a la red de apoyo es:",
+        "opciones": ["Evaluar su rentabilidad económica", "Asumir el cuidado directo del paciente", "Detectar sobrecarga y orientar alternativas", "Controlar la adherencia a las visitas médicas"],
+        "correcta": 2,
+        "categorías": ["tema187", "EGC"],
+        "feedback": "La EGC valora la red de apoyo, detecta sobrecarga y facilita recursos u orientación cuando el cuidado no es viable."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes funciones forma parte del rol de la enfermera gestora de casos en el Servicio Andaluz de Salud?",
+        "opciones": [
+          "Supervisar la facturación del hospital",
+          "Coordinar la atención entre niveles asistenciales",
+          "Realizar intervenciones quirúrgicas menores",
+          "Aprobar derivaciones al especialista"
+        ],
+        "correcta": 1,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "Una de las funciones clave de la enfermera gestora de casos es coordinar la atención entre profesionales y niveles asistenciales, garantizando continuidad."
+      },
+      {
+        "enunciado": "La enfermera gestora de casos desempeña un papel esencial en:",
+        "opciones": [
+          "La facturación de recursos sanitarios",
+          "La detección de casos para auditoría clínica",
+          "La gestión integral y personalizada de personas con condiciones crónicas complejas",
+          "La administración de tratamientos farmacológicos en consultas externas"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "La enfermera gestora de casos se encarga de la atención integral de pacientes con cronicidad compleja, siendo responsable de su seguimiento y plan de cuidados."
+      },
+      {
+        "enunciado": "Según el modelo andaluz, ¿cuál de los siguientes servicios ofrece la enfermera gestora de casos a personas cuidadoras?",
+        "opciones": [
+          "Administración de vacunas",
+          "Supervisión de visitas médicas",
+          "Apoyo y educación sobre cuidados, prevención de sobrecarga y autocuidado",
+          "Prescripción directa de medicamentos sin protocolo"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "Las enfermeras gestoras de casos ofrecen apoyo a las personas cuidadoras, promoviendo su bienestar y evitando sobrecarga mediante educación y asesoramiento."
+      },
+      {
+        "enunciado": "Una enfermera gestora de casos puede intervenir directamente en el plan de cuidados de una persona cuando:",
+        "opciones": [
+          "Lo indique exclusivamente el médico de familia",
+          "Lo solicite el paciente en una consulta de urgencias",
+          "Exista una situación de cronicidad compleja y se requiera coordinación asistencial",
+          "Se haya derivado el caso desde atención especializada"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "Las enfermeras gestoras de casos actúan en situaciones de cronicidad compleja, anticipando problemas, organizando recursos y adaptando planes asistenciales."
+      },
+      {
+        "enunciado": "¿Cuál es una intervención clave de la enfermera gestora de casos en la planificación del alta hospitalaria?",
+        "opciones": [
+          "Designar la cama hospitalaria para el siguiente ingreso",
+          "Gestionar la cita con el trabajador social",
+          "Planificar el alta con todos los recursos y profesionales implicados para evitar reingresos",
+          "Autorizar la receta electrónica del médico especialista"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "Una de las funciones principales de la enfermera gestora de casos es garantizar una transición segura y eficaz en el alta hospitalaria, minimizando riesgos de reingreso."
+      },
+      {
+        "enunciado": "Según el modelo andaluz, la enfermera gestora de casos puede intervenir con anticipación en la planificación del alta hospitalaria. ¿Cuál de los siguientes servicios refleja este papel?",
+        "opciones": [
+          "Garantizar la cita con atención especializada tras el alta.",
+          "Facilitar información a la familia sobre las ayudas técnicas disponibles.",
+          "Coordinar la atención para asegurar la continuidad asistencial y prevenir reingresos evitables.",
+          "Gestionar la renovación automática del tratamiento crónico desde atención hospitalaria."
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "La enfermera gestora de casos planifica de forma anticipada el alta para garantizar una transición segura, ajustada a la intensidad de cuidados requerida, minimizando complicaciones o reingresos."
+      },
+      {
+        "enunciado": "Entre los servicios orientados a proporcionar la diversidad de intervenciones necesarias en personas con complejidad crónica, la enfermera gestora de casos se encarga de:",
+        "opciones": [
+          "El diseño y supervisión del plan asistencial individualizado.",
+          "La derivación al trabajador social para solicitar ayuda a domicilio.",
+          "La prescripción del tratamiento en régimen ambulatorio sin coordinación.",
+          "La gestión de la historia clínica digital para todos los niveles asistenciales."
+        ],
+        "correcta": 0,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "El diseño, ejecución y revisión del plan de cuidados es una función clave de la enfermera gestora de casos, que lo elabora en colaboración con el equipo y la persona cuidada."
+      },
+      {
+        "enunciado": "Una de las funciones de la enfermera gestora de casos es la captación activa de personas candidatas a la Gestión de Casos. ¿A quiénes va dirigida esta captación?",
+        "opciones": [
+          "A pacientes diagnosticados de una enfermedad rara.",
+          "A personas con condiciones crónicas complejas o en fase final de la vida, junto a sus cuidadores.",
+          "Exclusivamente a pacientes con tratamiento en domicilio.",
+          "A pacientes institucionalizados en centros sociosanitarios."
+        ],
+        "correcta": 1,
+        "categorías": ["tema187", "enfermera_gestora_de_casos"],
+        "feedback": "La enfermera gestora de casos identifica activamente a personas con condiciones crónicas complejas o en fases avanzadas, incluyendo a sus cuidadores habituales, como población diana."
+      },
+      {
+        "enunciado": "Según el Plan Andaluz de Atención a Cuidadoras, ¿cuál de los siguientes criterios NO justifica la inclusión de un cuidador en la cartera de servicios de la enfermera gestora de casos?",
+        "opciones": [
+          "Tiene sobrecarga emocional por el cuidado continuado.",
+          "Convive o pasa más de 10 horas al día con la persona cuidada.",
+          "Precisa cuidados por parte de la enfermera gestora de casos.",
+          "La persona que cuida ha solicitado reducción de jornada laboral."
+        ],
+        "correcta": 3,
+        "categorías": ["tema187", "cuidadoras", "enfermera_gestora_de_casos"],
+        "feedback": "La inclusión se basa en criterios de sobrecarga, convivencia y necesidad de cuidados; aspectos laborales como la reducción de jornada no se consideran directamente."
+      },
+      {
+        "enunciado": "La enfermera referente de atención primaria notifica a la enfermera gestora de casos que una paciente con enfermedad crónica será dada de alta próximamente. ¿Cuál de los siguientes servicios forma parte de su intervención en este contexto?",
+        "opciones": [
+          "Programar la revisión del tratamiento farmacológico a los 6 meses.",
+          "Coordinar la derivación al centro de salud para el control de tensión arterial.",
+          "Planificar anticipadamente el alta con los recursos adecuados y profesionales implicados.",
+          "Solicitar una prueba diagnóstica complementaria urgente sin consulta previa."
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "planificación_alta", "enfermera_gestora_de_casos"],
+        "feedback": "La enfermera gestora de casos tiene un papel clave en la planificación del alta hospitalaria, asegurando una transición eficaz entre niveles asistenciales y reduciendo el riesgo de reingreso."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes elementos forma parte del proceso de gestión del caso de la enfermera gestora de casos en el sistema sanitario andaluz?",
+        "opciones": ["El diseño del plan de gestión individualizado", "La elaboración del informe clínico hospitalario", "La derivación a atención farmacéutica comunitaria", "La solicitud de ayudas técnicas en servicios sociales"],
+        "correcta": 0,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "El diseño del plan de gestión del caso es uno de los cinco componentes clave del proceso de gestión de casos junto a la identificación, valoración, coordinación y cierre del caso."
+      },
+      {
+        "enunciado": "En relación a la identificación del 'caso', ¿cuál de los siguientes grupos de población debe recibir especial atención para confirmar o descartar su necesidad de gestión de casos?",
+        "opciones": [
+          "Personas con procesos agudos sin antecedentes patológicos",
+          "Pacientes con enfermedades infecciosas autolimitadas",
+          "Personas incluidas en procesos asistenciales integrados como pluripatología, EPOC o cuidados paliativos",
+          "Personas institucionalizadas con escasa variabilidad clínica"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "Personas con procesos crónicos complejos como EPOC, enfermedad renal crónica avanzada o cuidados paliativos forman parte de los grupos que requieren especial atención para valorar la necesidad de gestión de casos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones se considera una vía válida para iniciar la intervención de la enfermera gestora de casos?",
+        "opciones": [
+          "Solicitud exclusiva del médico de familia desde atención primaria",
+          "Propuesta del equipo directivo del hospital de referencia",
+          "Derivación por cualquier profesional sanitario o social que identifique un caso complejo",
+          "Demanda directa de la persona cuidadora sin participación del equipo clínico"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "Cualquier profesional sanitario o social, desde cualquier ámbito asistencial, puede solicitar la intervención de la enfermera gestora de casos si detecta un caso de elevada complejidad."
+      },
+      {
+        "enunciado": "Según el modelo andaluz de gestión de casos, ¿cuál de las siguientes situaciones permite el cierre del caso por parte de la enfermera gestora de casos?",
+        "opciones": [
+          "La solicitud de cambio de médico de atención primaria",
+          "Una mejora del estado clínico que permite atención desde el equipo de seguimiento habitual",
+          "El alta hospitalaria tras ingreso por patología aguda",
+          "El inicio de tratamiento paliativo domiciliario"
+        ],
+        "correcta": 1,
+        "categorías": ["tema187", "cierre_caso"],
+        "feedback": "El caso puede cerrarse si el nivel de complejidad se ha reducido y la atención puede ser asumida por el equipo de atención directa sin la necesidad de intervención de la enfermera gestora de casos."
+      },
+      {
+        "enunciado": "Una de las siguientes afirmaciones sobre la salida del proceso de gestión del caso es correcta. Señálala:",
+        "opciones": [
+          "El alta siempre debe coincidir con el alta hospitalaria",
+          "La muerte del paciente implica cierre automático sin intervención adicional",
+          "El cierre puede realizarse por decisión de la enfermera gestora de casos con el equipo si ya no se requiere atención intensiva",
+          "Una vez activado el caso, la atención debe mantenerse hasta el fallecimiento del paciente"
+        ],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "La decisión de cierre puede ser tomada por la enfermera gestora de casos junto al equipo multidisciplinar si se considera que la atención puede continuar sin su intervención directa."
+      },
+      {
+        "enunciado": "Según el modelo andaluz, ¿cuál de las siguientes NO es una fase del proceso de gestión del caso?",
+        "opciones": ["Evaluación multidimensional", "Seguimiento terapéutico", "Identificación del caso", "Coordinación de intervenciones"],
+        "correcta": 1,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "Las cinco fases son: identificación del caso, valoración, diseño del plan de gestión, coordinación de intervenciones y cierre del caso."
+      },
+      {
+        "enunciado": "¿En qué fase del proceso de gestión del caso se incluye la evaluación integral biopsicosocial?",
+        "opciones": ["Coordinación de intervenciones", "Identificación del caso", "Valoración personalizada", "Cierre del caso"],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "La evaluación integral forma parte de la valoración personalizada, que también incluye la estratificación de la complejidad."
+      },
+      {
+        "enunciado": "¿Qué acción corresponde a la fase de 'coordinación de intervenciones' en el proceso de gestión del caso?",
+        "opciones": ["Evaluar la complejidad", "Diseñar el plan de intervención", "Activar recursos y profesionales implicados", "Detectar el caso"],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "En la fase de coordinación, la enfermera gestora moviliza recursos y coordina la atención con distintos profesionales."
+      },
+      {
+        "enunciado": "Una persona con pluripatología y dificultad para el autocuidado ha sido incluida en el programa de atención domiciliaria. ¿Qué acción justifica su inclusión en gestión de casos?",
+        "opciones": ["Pertenece a un grupo de riesgo", "Tiene diagnóstico reciente", "Ha tenido un solo ingreso hospitalario", "Tiene una enfermedad leve de curso autolimitado"],
+        "correcta": 0,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "La pertenencia a grupos como pluripatológicos o en atención domiciliaria indica la necesidad de valorar inclusión en gestión de casos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones NO justificaría el cierre del caso según el modelo andaluz?",
+        "opciones": ["Muerte de la persona", "Decisión del paciente", "Disminución de la complejidad", "Alta hospitalaria sin criterios de cierre"],
+        "correcta": 3,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "El alta hospitalaria no implica necesariamente el cierre del caso. El cierre debe ser una decisión clínica compartida."
+      },
+      {
+        "enunciado": "Una enfermera valora que un paciente ha estabilizado su situación y el equipo puede asumir su seguimiento. ¿Qué fase del proceso está aplicando?",
+        "opciones": ["Diseño del plan", "Identificación", "Cierre del caso", "Valoración inicial"],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "Cuando la enfermera decide que ya no es necesaria la gestión del caso, se inicia el cierre."
+      },
+      {
+        "enunciado": "¿Cuál de estas vías de acceso a la gestión de casos es válida según el modelo andaluz?",
+        "opciones": ["Propuesta exclusiva del hospital", "Derivación de cualquier profesional sanitario o social", "Solicitud del paciente sin evaluación previa", "Detección por personal de archivo clínico"],
+        "correcta": 1,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "Cualquier profesional sanitario o social, desde diferentes ámbitos asistenciales, puede proponer la gestión del caso."
+      },
+      {
+        "enunciado": "¿Qué aspecto clave se evalúa durante la 'valoración personalizada' del caso?",
+        "opciones": ["Plan de medicación", "Necesidad de hospitalización", "Complejidad clínica y apoyo familiar", "Acceso a recursos económicos"],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "La valoración incluye aspectos clínicos, sociales y de apoyo, con especial atención a la complejidad y red de cuidados."
+      },
+      {
+        "enunciado": "¿Qué paciente es más probable que requiera intervención de la enfermera gestora de casos?",
+        "opciones": ["Paciente joven con infección urinaria", "Paciente con EPOC y cuidados domiciliarios complejos", "Paciente pediátrico con varicela leve", "Paciente con fractura leve sin comorbilidades"],
+        "correcta": 1,
+        "categorías": ["tema187", "poblacion_diana"],
+        "feedback": "Pacientes con EPOC, pluripatología o cuidados complejos suelen ser candidatos a gestión de casos."
+      },
+      {
+        "enunciado": "¿Qué profesional puede cerrar un caso activo en el modelo de gestión de casos?",
+        "opciones": ["Solo el médico de familia", "Enfermera de enlace", "Enfermera gestora de casos, con decisión compartida con el equipo", "Sólo el trabajador social del hospital"],
+        "correcta": 2,
+        "categorías": ["tema187", "proceso_gestion_caso"],
+        "feedback": "El cierre del caso es una decisión compartida, liderada por la enfermera gestora de casos junto al equipo multidisciplinar."
+      }
+      
+      
+      
+      
+      
+]

@@ -1,3 +1,73 @@
 [
-    
+    {
+        "enunciado": "Los ensayos clínicos que examinan los efectos a largo plazo de un fármaco una vez comercializado corresponden a la fase:",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 3,
+        "categorías": ["tema147"],
+        "feedback": "La fase IV estudia la efectividad y seguridad del fármaco en condiciones reales tras su comercialización."
+      },
+      {
+        "enunciado": "¿En qué fase de los ensayos clínicos se estudia principalmente la toxicidad y la seguridad de un nuevo fármaco en humanos sanos?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 0,
+        "categorías": ["tema147"],
+        "feedback": "La fase I se realiza con pocos voluntarios sanos y analiza seguridad, farmacocinética y toxicidad."
+      },
+      {
+        "enunciado": "¿Qué fase de los ensayos clínicos se centra en evaluar la eficacia y los efectos secundarios en pacientes con la enfermedad objetivo?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 1,
+        "categorías": ["tema147"],
+        "feedback": "La fase II analiza eficacia y seguridad en un grupo reducido de pacientes con la patología concreta."
+      },
+      {
+        "enunciado": "¿En qué fase se compara un fármaco con tratamientos existentes en estudios controlados y con gran número de pacientes?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 2,
+        "categorías": ["tema147"],
+        "feedback": "La fase III confirma la eficacia a gran escala y compara el fármaco con tratamientos estándar o placebo."
+      },
+      {
+        "enunciado": "Los ensayos clínicos en fase IV permiten detectar:",
+        "opciones": ["La dosis mínima eficaz", "Efectos adversos raros a largo plazo", "La biodisponibilidad del fármaco", "La toxicidad aguda en animales"],
+        "correcta": 1,
+        "categorías": ["tema147"],
+        "feedback": "Fase IV: vigilancia postcomercialización que detecta efectos adversos infrecuentes o a largo plazo."
+      },
+      {
+        "enunciado": "¿Qué fase es imprescindible antes de la solicitud de autorización de comercialización de un nuevo fármaco?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 2,
+        "categorías": ["tema147"],
+        "feedback": "La fase III proporciona evidencia concluyente de eficacia y seguridad que respalda la aprobación regulatoria."
+      },
+      {
+        "enunciado": "¿Qué fase de los ensayos clínicos suele incluir grupos de control y se realiza en condiciones muy controladas?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 2,
+        "categorías": ["tema147"],
+        "feedback": "La fase III implica ensayos multicéntricos con gran número de pacientes y diseños controlados."
+      },
+      {
+        "enunciado": "¿En qué fase del desarrollo clínico se realiza el primer contacto del fármaco con humanos?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 0,
+        "categorías": ["tema147"],
+        "feedback": "La fase I se lleva a cabo tras los estudios preclínicos y es la primera en humanos."
+      },
+      {
+        "enunciado": "¿Qué fase se centra en la evaluación inicial de eficacia y el ajuste de dosis terapéutica óptima?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 1,
+        "categorías": ["tema147"],
+        "feedback": "Fase II: prueba de concepto, dosis y perfil de seguridad en pacientes con la enfermedad diana."
+      },
+      {
+        "enunciado": "¿Cuál de estas fases corresponde a estudios observacionales postcomercialización?",
+        "opciones": ["Fase I", "Fase II", "Fase III", "Fase IV"],
+        "correcta": 3,
+        "categorías": ["tema147"],
+        "feedback": "Los estudios de fase IV son observacionales y recogen datos en la práctica clínica real."
+      }
+      
 ]

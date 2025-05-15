@@ -1,0 +1,184 @@
+[
+    {
+        "enunciado": "En relación al catéter PICC, ¿cuál de las siguientes afirmaciones es incorrecta?",
+        "opciones": [
+          "Se inserta en una vena periférica del brazo y su punta debe situarse en la vena cava superior.",
+          "Es adecuado para terapias intravenosas de corta duración, menores de 48 horas.",
+          "Puede tener una o más luces y permite administrar nutrición parenteral.",
+          "Su uso está especialmente indicado en pacientes oncológicos o hematológicos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema202"],
+        "feedback": "El PICC está indicado para tratamientos intravenosos prolongados, típicamente más de una semana o incluso hasta un año si es de larga duración. No es adecuado para uso menor de 48 horas."
+      },
+      {
+        "enunciado": "¿Cuál es el lugar anatómico correcto para la inserción de un catéter PICC?",
+        "opciones": [
+          "Arteria braquial.",
+          "Vena subclavia.",
+          "Vena basílica o cefálica del brazo.",
+          "Vena yugular externa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "Los PICC se insertan típicamente en venas del brazo, como la basílica o la cefálica, con la punta dirigida hacia la vena cava superior."
+      },
+      {
+        "enunciado": "Señale el rango de duración estimado para un PICC de larga duración (PICC-ld):",
+        "opciones": [
+          "Entre 2 y 7 días.",
+          "Hasta un mes.",
+          "Hasta un año.",
+          "Máximo 15 días si no hay complicaciones."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "El PICC-ld puede mantenerse hasta un año, especialmente en pacientes con terapias prolongadas como oncológicos, nutrición parenteral, o hematológicos."
+      },
+      {
+        "enunciado": "Durante el cuidado domiciliario del PICC, ¿cuál de las siguientes recomendaciones es INCORRECTA?",
+        "opciones": [
+          "Puede ducharse, siempre que mantenga seca la zona del catéter.",
+          "Debe evitar deportes de contacto y levantar peso con el brazo del PICC.",
+          "Puede sumergir el brazo en bañera o piscina si protege el apósito con plástico.",
+          "No debe manipular el catéter y debe avisar ante dolor o signos de infección."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "Está contraindicado sumergir la zona del PICC en bañera, piscina o mar, incluso con protección plástica, por riesgo de contaminación e infección."
+      },
+      {
+        "enunciado": "¿Cuál es la técnica correcta para comprobar la permeabilidad del PICC en domicilio por personal sanitario?",
+        "opciones": [
+          "Aspirar 10 ml de sangre y reinfundirlos lentamente.",
+          "Realizar lavado continuo con suero salino sin pausas.",
+          "Usar técnica Push-Stop-Push con suero salino y cerrar con presión positiva.",
+          "Lavar con agua estéril y mantener presión negativa al final."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "La técnica correcta es Push-Stop-Push con presión positiva: se lava intermitentemente y se cierra la pinza durante la infusión final para evitar reflujo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes características NO corresponde a un PICC de larga duración (PICC-ld)?",
+        "opciones": [
+          "Fabricado en silicona o poliuretano de tercera generación.",
+          "Uso previsto para más de un mes.",
+          "Requiere reposición cada 7 días, independientemente del estado del apósito.",
+          "Indicado en pacientes oncológicos o con nutrición parenteral prolongada."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "El apósito no necesita reposición sistemática cada 7 días si está intacto. Los PICC-ld pueden mantenerse hasta un año si no hay complicaciones."
+      },
+      {
+        "enunciado": "En relación al lugar ideal de posicionamiento de la punta de un PICC, indique la opción correcta:",
+        "opciones": [
+          "Vena subclavia proximal.",
+          "Unión de la vena braquiocefálica con la subclavia.",
+          "Tercio inferior de la vena cava superior, cerca de la aurícula derecha.",
+          "Arco de la vena yugular interna."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "La localización ideal de la punta del PICC es en el tercio inferior de la vena cava superior, adyacente a la aurícula derecha, garantizando seguridad y eficacia del acceso."
+      },
+      {
+        "enunciado": "Entre las indicaciones clínicas más frecuentes para la inserción de un PICC se encuentra:",
+        "opciones": [
+          "Administración de contrastes en estudios de imagen de urgencia.",
+          "Acceso vascular temporal para antibióticos en pacientes agudos sin patología crónica.",
+          "Tratamiento oncológico intravenoso prolongado.",
+          "Hemodiálisis crónica domiciliaria."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "El tratamiento oncológico intravenoso prolongado es una de las indicaciones principales para la inserción de un PICC."
+      },
+      {
+        "enunciado": "Uno de los siguientes signos clínicos en paciente portador de PICC debe considerarse alerta y requiere evaluación inmediata:",
+        "opciones": [
+          "Ligero enrojecimiento alrededor del apósito.",
+          "Sensación de tirantez en la piel del brazo opuesto.",
+          "Dolor y enrojecimiento en el trayecto venoso del brazo del PICC.",
+          "Edema leve en la muñeca sin otros síntomas."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "El dolor con enrojecimiento a lo largo del trayecto del catéter sugiere posible flebitis o trombosis, y debe valorarse de forma urgente."
+      },
+      {
+        "enunciado": "Indique cuál de las siguientes acciones está contraindicada en el manejo de un PICC:",
+        "opciones": [
+          "Lavado del catéter con técnica de presión positiva.",
+          "Uso de clorhexidina alcohólica para desinfección de la zona.",
+          "Sujeción del catéter mediante apósito transparente estéril.",
+          "Medición de la tensión arterial en el brazo donde está colocado el PICC."
+        ],
+        "correcta": 3,
+        "categorias": ["tema202"],
+        "feedback": "No debe medirse la tensión arterial en el brazo portador del PICC para evitar desplazamientos, obstrucciones o rotura del catéter."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes recomendaciones es correcta en el cuidado del PICC a domicilio?",
+        "opciones": [
+          "El paciente puede manipular el catéter para comprobar su funcionalidad.",
+          "Se permite la práctica de natación si el apósito está bien sellado.",
+          "Debe evitar movimientos bruscos o repetitivos con el brazo afecto.",
+          "El cambio de apósito debe realizarse cada 24 horas de forma rutinaria."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "Para evitar tracciones y complicaciones mecánicas, el paciente debe evitar movimientos repetitivos o bruscos del brazo donde se ha insertado el PICC."
+      },
+      {
+        "enunciado": "Ante la sospecha de una extravasación en un paciente con PICC, ¿cuál es la primera actuación correcta?",
+        "opciones": [
+          "Aumentar el ritmo de infusión para comprobar si mejora el flujo.",
+          "Aplicar calor local y continuar la perfusión.",
+          "Detener la infusión inmediatamente y valorar la zona.",
+          "Recolocar el catéter y esperar evolución espontánea."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "La sospecha de extravasación requiere detener la infusión de inmediato, observar la zona y valorar retirada si hay signos de infiltración o daño tisular."
+      },
+      {
+        "enunciado": "Respecto al uso de soluciones vesicantes en pacientes con PICC, señale la opción correcta:",
+        "opciones": [
+          "No deben administrarse bajo ningún concepto por riesgo de extravasación.",
+          "Solo pueden administrarse si el PICC está en la yugular.",
+          "Sí pueden administrarse, ya que el PICC accede a una vena de gran calibre central.",
+          "Solo si se alternan con suero salino cada 30 minutos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema202"],
+        "feedback": "El PICC permite administrar soluciones vesicantes, ya que su extremo distal está en la vena cava superior, de alto flujo, lo que minimiza el daño vascular."
+      },
+      {
+        "enunciado": "¿Qué característica distingue a los PICC frente a otros catéteres centrales como los tunelizados o reservorios?",
+        "opciones": [
+          "Se insertan por vía subclavia bajo técnica estéril.",
+          "Están indicados exclusivamente para pacientes en cuidados intensivos.",
+          "Son accesibles por punción directa a través de la piel.",
+          "Se insertan en vena periférica, aunque su extremo distal alcance la vena cava."
+        ],
+        "correcta": 3,
+        "categorias": ["tema202"],
+        "feedback": "El PICC se introduce por vena periférica (como basílica), pero alcanza el sistema venoso central, combinando accesibilidad y seguridad a largo plazo."
+      },
+      {
+        "enunciado": "Un paciente portador de PICC refiere dificultad para irrigar el catéter y aspirar sangre. ¿Qué debe valorarse primero?",
+        "opciones": [
+          "La longitud exterior visible del catéter.",
+          "Cambiar el PICC por uno nuevo inmediatamente.",
+          "Iniciar perfusión rápida para desbloquearlo.",
+          "Retirarlo por sospecha de trombosis sin más valoración."
+        ],
+        "correcta": 0,
+        "categorias": ["tema202"],
+        "feedback": "Antes de cualquier intervención, se debe comprobar la longitud exterior del catéter para verificar que no se ha desplazado o retraído, lo cual podría explicar la disfunción."
+      }
+      
+      
+]

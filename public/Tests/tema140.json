@@ -1503,5 +1503,142 @@
         "correcta": 1,
         "categorías": ["tema140"],
         "feedback": "CAGE es un cuestionario corto, útil para identificar consumo de alcohol problemático."
+      },
+      {
+        "enunciado": "El índice de BRASS sirve principalmente para:",
+        "opciones": [
+          "Evaluar la adherencia terapéutica en pacientes pluripatológicos.",
+          "Identificar riesgos de mala adaptación al entorno hospitalario.",
+          "Valorar la necesidad de cuidados paliativos en fases avanzadas.",
+          "Detectar pacientes con riesgo de alta compleja y planificar su continuidad asistencial."
+        ],
+        "correcta": 3,
+        "categorias": ["tema140"],
+        "feedback": "El índice de BRASS (Blaylock Risk Assessment Screening Score) se utiliza para identificar a pacientes con riesgo de alta hospitalaria compleja y facilitar una planificación anticipada del alta y la continuidad de cuidados."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes índices se utiliza para estratificar a los pacientes en función de su fragilidad y riesgo de alta compleja?",
+        "opciones": [
+          "Índice de Charlson",
+          "Índice de Barthel",
+          "Índice de BRASS",
+          "Índice de Norton"
+        ],
+        "correcta": 2,
+        "categorias": ["tema140"],
+        "feedback": "El índice de BRASS permite estratificar a los pacientes según su fragilidad y complejidad al alta, orientando la planificación y coordinación con atención primaria o servicios sociales."
+      },
+      {
+        "enunciado": "En relación con el índice de BRASS, señale la opción correcta:",
+        "opciones": [
+          "Evalúa la dependencia funcional mediante actividades básicas e instrumentales.",
+          "Está diseñado para medir el deterioro cognitivo y conductual en ancianos institucionalizados.",
+          "Permite predecir la duración media de estancia hospitalaria según el diagnóstico médico.",
+          "Incluye variables clínicas y sociales que ayudan a anticipar la necesidad de intervención al alta."
+        ],
+        "correcta": 3,
+        "categorias": ["tema140"],
+        "feedback": "El índice de BRASS incluye variables como edad, soporte social, problemas cognitivos o funcionales, y se emplea para anticipar la complejidad del alta y coordinar recursos adecuados."
+      },
+      {
+        "enunciado": "¿Qué instrumento permite anticipar desde el ingreso hospitalario la posibilidad de un alta compleja, valorando aspectos como edad, apoyo social, deterioro cognitivo y número de ingresos recientes?",
+        "opciones": [
+          "Escala de dependencia funcional en pacientes crónicos",
+          "Protocolo de continuidad asistencial en Atención Primaria",
+          "Índice de BRASS",
+          "Ficha de seguimiento de pacientes pluripatológicos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema140"],
+        "feedback": "El índice de BRASS (Blaylock Risk Assessment Screening Score) es una herramienta utilizada en hospitales para identificar a pacientes con riesgo de alta compleja. Considera factores clínicos, funcionales y sociales como edad, ingresos previos, deterioro cognitivo y apoyo familiar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes índices se emplea específicamente para anticipar el riesgo de alta hospitalaria compleja mediante la evaluación combinada de factores sociales, funcionales y clínicos?",
+        "opciones": [
+          "Índice de comorbilidad de Elixhauser",
+          "Escala de vulnerabilidad social urbana",
+          "Índice de BRASS",
+          "Escala de riesgo clínico precoz en urgencias"
+        ],
+        "correcta": 2,
+        "categorias": ["tema140"],
+        "feedback": "El índice de BRASS (Blaylock Risk Assessment Screening Score) es una herramienta diseñada para predecir desde el ingreso hospitalario el riesgo de una alta compleja. Considera edad, red de apoyo, estado cognitivo, ingresos previos y capacidad funcional. Las otras opciones no están orientadas a la planificación del alta hospitalaria."
       }
+      ,
+      {
+        "enunciado": "Respecto al índice de BRASS y a la escala INTERMED, señale la afirmación correcta:",
+        "opciones": [
+          "BRASS permite identificar pacientes con deterioro cognitivo en el domicilio.",
+          "INTERMED se utiliza para la estratificación del riesgo quirúrgico en pacientes frágiles.",
+          "Ambas herramientas se utilizan para anticipar alta compleja y planificar la continuidad de cuidados.",
+          "INTERMED es una escala centrada exclusivamente en variables sociales."
+        ],
+        "correcta": 2,
+        "categorias": ["tema140"],
+        "feedback": "Tanto BRASS como INTERMED permiten anticipar situaciones de alta compleja y planificar la intervención multidisciplinar. BRASS es una herramienta de cribado precoz y INTERMED valora la complejidad clínica, psicosocial y de coordinación asistencial."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es cierta en relación con las escalas INTERMED y BRASS?",
+        "opciones": [
+          "INTERMED está indicada únicamente en atención primaria.",
+          "BRASS evalúa la comorbilidad médica mediante índice ponderado.",
+          "Ambas permiten detectar pacientes con necesidades complejas y orientar la planificación asistencial.",
+          "BRASS se utiliza para evaluar la adherencia terapéutica en pacientes crónicos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema140"],
+        "feedback": "Ambas herramientas, aunque distintas en profundidad y enfoque, tienen en común la identificación precoz de pacientes con necesidades complejas y la planificación de recursos o intervenciones antes del alta o durante el ingreso."
+      },
+      [
+        {
+          "enunciado": "El IDC-PAL es un instrumento utilizado en el ámbito sanitario para:",
+          "opciones": [
+            "Evaluar el riesgo de caídas en pacientes institucionalizados",
+            "Determinar el grado de dependencia en actividades básicas de la vida diaria",
+            "Identificar pacientes con necesidades paliativas a través de criterios clínicos estructurados",
+            "Cuantificar el dolor en pacientes con enfermedades crónicas avanzadas"
+          ],
+          "correcta": 2,
+          "categorias": ["tema140"],
+          "feedback": "El IDC-PAL (Instrumento de Identificación de pacientes con necesidades de atención paliativa) permite detectar de forma precoz a pacientes con necesidades paliativas mediante criterios diagnósticos, funcionales y de evolución clínica."
+        },
+        {
+          "enunciado": "¿Cuál de las siguientes herramientas se utiliza específicamente para identificar necesidades paliativas en pacientes con enfermedades crónicas?",
+          "opciones": [
+            "Escala visual analógica del dolor",
+            "IDC-PAL",
+            "Índice de comorbilidad de Charlson",
+            "Test de Pfeiffer"
+          ],
+          "correcta": 1,
+          "categorias": ["tema140"],
+          "feedback": "El IDC-PAL permite identificar de manera sistemática a pacientes con necesidades de atención paliativa, especialmente útil en Atención Primaria y hospitalaria. No evalúa síntomas, sino criterios clínicos y funcionales."
+        },
+        {
+          "enunciado": "¿Qué instrumento diseñado en el sistema sanitario español permite la detección precoz de personas con necesidades paliativas?",
+          "opciones": [
+            "Índice de fragilidad clínica",
+            "IDC-PAL",
+            "Mini Nutritional Assessment (MNA)",
+            "PIRAMIDE"
+          ],
+          "correcta": 1,
+          "categorias": ["tema140"],
+          "feedback": "El IDC-PAL es una herramienta desarrollada en el contexto del Sistema Nacional de Salud para identificar pacientes con necesidades paliativas a partir de criterios estandarizados relacionados con la enfermedad, el estado funcional y la evolución."
+        },
+        {
+          "enunciado": "Según la estrategia de cuidados paliativos, ¿cuál de los siguientes instrumentos permite una identificación estandarizada de pacientes con necesidad de atención paliativa desde Atención Primaria o especializada?",
+          "opciones": [
+            "Cuestionario de necesidades espirituales de pacientes crónicos",
+            "IDC-PAL",
+            "Escala de Zarit",
+            "Índice de riesgo social domiciliario"
+          ],
+          "correcta": 1,
+          "categorias": ["tema140"],
+          "feedback": "El IDC-PAL se utiliza en el Sistema Nacional de Salud para facilitar la identificación de personas con necesidades paliativas mediante criterios definidos, favoreciendo la planificación anticipada de cuidados."
+        }
+      ]
+      
+      
 ]

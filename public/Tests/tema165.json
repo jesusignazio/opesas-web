@@ -68,6 +68,19 @@
         "correcta": 2,
         "categorías": ["tema165", "grd"],
         "feedback": "Antes de medidas drásticas, se deben revisar prácticas clínicas y codificación para detectar causas del desvío."
+      },
+      {
+        "enunciado": "¿Qué significan las siglas GRD en el ámbito sanitario?",
+        "opciones": [
+          "Gestión de Recursos Diagnósticos",
+          "Grupos Relacionados por Diagnóstico",
+          "Guía de Registro de Datos",
+          "Grupo de Revisión de Diagnósticos"
+        ],
+        "correcta": 1,
+        "categorías": ["tema165", "GRD"],
+        "feedback": "GRD significa Grupos Relacionados por el Diagnóstico, un sistema de clasificación de pacientes según su patología y consumo de recursos."
       }
+      
       
 ]

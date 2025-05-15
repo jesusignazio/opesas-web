@@ -1,0 +1,304 @@
+[
+    {
+        "enunciado": "¿Cuál es el propósito principal de la escala INTERMED?",
+        "opciones": [
+          "Asignar un grupo diagnóstico (GRD) en base a criterios clínicos homogéneos.",
+          "Evaluar el riesgo de dependencia funcional en mayores de 65 años.",
+          "Establecer una valoración estandarizada de la complejidad clínica, psicosocial y del sistema de salud, para planificar la asistencia de forma multidisciplinar.",
+          "Determinar el nivel de cuidados paliativos necesarios en pacientes terminales."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La escala INTERMED permite detectar y categorizar la complejidad asistencial del paciente mediante un enfoque bio-psico-social y del sistema sanitario, facilitando una planificación multidisciplinar."
+      },
+      {
+        "enunciado": "Durante el ingreso hospitalario, una puntuación INTERMED de 42 indica:",
+        "opciones": [
+          "Complejidad baja, manejo estándar por medicina interna.",
+          "Complejidad intermedia, con intervención preferente del equipo de enfermería.",
+          "Alta complejidad, que requiere intervención de múltiples profesionales como trabajador/a social, enfermera gestora de casos y especialista médico.",
+          "Situación aguda pero sin criterios de intervención multidisciplinar."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "Una puntuación de 42 en la escala INTERMED representa una alta complejidad asistencial, por lo que se requiere la intervención de diversos profesionales del ámbito sanitario y social."
+      },
+      {
+        "enunciado": "¿Qué dimensiones analiza la escala INTERMED para determinar la complejidad?",
+        "opciones": [
+          "Funcional, cognitiva, emocional y ambiental.",
+          "Clínica, psicosocial y del sistema de salud, en sus dimensiones histórica, actual, pronóstico y urgencia.",
+          "Biológica, psicológica y conductual, en contexto ambulatorio.",
+          "Diagnóstico clínico, dependencia física, riesgo de caídas y entorno familiar."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "La escala INTERMED evalúa la complejidad en cuatro dimensiones (clínica, psicosocial y sistema de salud), considerando aspectos históricos, actuales, de pronóstico y urgencia."
+      },
+      {
+        "enunciado": "En pacientes con alta puntuación INTERMED, ¿qué característica es fundamental para la continuidad asistencial?",
+        "opciones": [
+          "Alta frecuencia de visitas médicas domiciliarias.",
+          "Intervención puntual del especialista médico.",
+          "Enfoque asistencial coordinado y multidisciplinar.",
+          "Supervisión constante por parte de un cuidador informal."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La continuidad asistencial en pacientes con alta complejidad se basa en una intervención coordinada y multidisciplinar que integre las distintas necesidades clínicas y sociales."
+      },
+      {
+        "enunciado": "La puntuación de la escala INTERMED se basa en:",
+        "opciones": [
+          "Un cuestionario autoadministrado por el paciente.",
+          "Entrevistas estructuradas realizadas por un equipo interdisciplinar.",
+          "Resultados de pruebas diagnósticas objetivas.",
+          "Protocolos automatizados de historia clínica electrónica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "La escala INTERMED se aplica mediante entrevistas estructuradas realizadas por profesionales entrenados para valorar las distintas dimensiones de complejidad."
+      },
+      {
+        "enunciado": "Una característica distintiva de la escala INTERMED es que:",
+        "opciones": [
+          "Se centra exclusivamente en el diagnóstico médico actual.",
+          "No valora la situación psicosocial del paciente.",
+          "Tiene en cuenta la previsión futura del cuidado del paciente.",
+          "Solo se aplica en situaciones de urgencia vital."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La INTERMED considera no solo el estado actual del paciente, sino también su evolución y necesidades futuras, lo que la convierte en una herramienta útil para planificar cuidados."
+      },
+      {
+        "enunciado": "¿Qué profesional tiene un papel clave en pacientes con alta puntuación INTERMED?",
+        "opciones": [
+          "El farmacéutico hospitalario.",
+          "El personal de mantenimiento.",
+          "La enfermera gestora de casos.",
+          "El técnico de laboratorio clínico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La enfermera gestora de casos coordina los recursos y actores implicados en la atención de pacientes complejos, facilitando la continuidad asistencial."
+      },
+      {
+        "enunciado": "¿En qué contexto NO sería adecuado aplicar la escala INTERMED?",
+        "opciones": [
+          "Ingreso hospitalario con enfermedades crónicas descompensadas.",
+          "Paciente estable en seguimiento ambulatorio sin comorbilidades.",
+          "Transición asistencial entre niveles de atención.",
+          "Evaluación de necesidades al alta hospitalaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "La escala INTERMED está diseñada para identificar necesidades complejas; en pacientes ambulatorios estables sin comorbilidad no aporta información relevante."
+      },
+      {
+        "enunciado": "Una puntuación INTERMED elevada puede implicar:",
+        "opciones": [
+          "Un único diagnóstico principal pero con alto riesgo quirúrgico.",
+          "Baja necesidad de coordinación entre profesionales.",
+          "Múltiples factores de riesgo clínico y psicosocial.",
+          "Exclusivamente un aumento de consumo farmacológico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La elevada puntuación INTERMED refleja la presencia de múltiples factores de complejidad que requieren una atención integral e interdisciplinar."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes factores forma parte de la dimensión de 'urgencia' de INTERMED?",
+        "opciones": [
+          "Estabilidad clínica actual.",
+          "Necesidad de intervención inmediata para evitar deterioro.",
+          "Nivel de soporte familiar disponible.",
+          "Tiempo desde el último ingreso hospitalario."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "La dimensión de urgencia considera si el paciente requiere acciones inmediatas para evitar complicaciones clínicas o sociales."
+      },
+      {
+        "enunciado": "INTERMED es especialmente útil en contextos de:",
+        "opciones": [
+          "Atención sanitaria fragmentada y no coordinada.",
+          "Situaciones de atención médica urgente exclusivamente.",
+          "Procesos simples con una sola especialidad implicada.",
+          "Alta hospitalaria planificada sin necesidades de continuidad."
+        ],
+        "correcta": 0,
+        "categorias": ["tema188"],
+        "feedback": "La herramienta INTERMED facilita la integración y coordinación asistencial, especialmente útil en sistemas donde la atención está fragmentada entre distintos profesionales o niveles."
+      },
+      {
+        "enunciado": "La aplicación de INTERMED favorece:",
+        "opciones": [
+          "La clasificación de pacientes por tramos de edad.",
+          "El diseño de estrategias de cuidados centradas en la persona.",
+          "La exclusión de pacientes con bajo riesgo.",
+          "La prescripción automática de intervenciones estandarizadas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "INTERMED apoya la planificación centrada en la persona, identificando factores que requieren una respuesta adaptada a su complejidad."
+      },
+      {
+        "enunciado": "Un paciente con puntuación INTERMED en el rango moderado requiere:",
+        "opciones": [
+          "Manejo exclusivo por su médico de familia.",
+          "Seguimiento puntual sin derivación.",
+          "Evaluación de necesidades asistenciales con posible derivación a otros niveles.",
+          "Intervención únicamente si solicita ayuda explícitamente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "Los pacientes con puntuación moderada requieren vigilancia activa y posiblemente coordinación con otros recursos o niveles asistenciales."
+      },
+      {
+        "enunciado": "¿Qué valor total máximo puede alcanzar un paciente en la escala INTERMED?",
+        "opciones": [
+          "30 puntos.",
+          "40 puntos.",
+          "60 puntos.",
+          "100 puntos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "El valor máximo de la escala INTERMED es de 60 puntos, lo que representa el mayor grado de complejidad posible según esta herramienta."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre INTERMED es correcta?",
+        "opciones": [
+          "Se basa en criterios puramente objetivos sin necesidad de juicio clínico.",
+          "Fue diseñada originalmente para identificar pacientes oncológicos terminales.",
+          "Permite anticipar necesidades futuras y organizar recursos antes de que se produzcan descompensaciones.",
+          "Requiere ser aplicada por un médico especialista en medicina interna."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "Una de las fortalezas de INTERMED es su capacidad para anticipar necesidades y planificar la atención antes de que se presenten complicaciones clínicas o sociales."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación máxima que puede obtener un paciente en la escala INTERMED?",
+        "opciones": [
+          "30 puntos.",
+          "40 puntos.",
+          "60 puntos.",
+          "100 puntos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "La puntuación máxima de INTERMED es 60. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación mínima posible en la escala INTERMED?",
+        "opciones": [
+          "0 puntos.",
+          "5 puntos.",
+          "10 puntos.",
+          "15 puntos."
+        ],
+        "correcta": 0,
+        "categorias": ["tema188"],
+        "feedback": "La puntuación mínima de INTERMED es 0, lo que refleja una ausencia total de complejidad. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Un paciente obtiene 15 puntos en la escala INTERMED. ¿Qué nivel de complejidad presenta?",
+        "opciones": [
+          "Complejidad alta, requiere intervención interdisciplinar urgente.",
+          "Complejidad moderada, seguimiento clínico ocasional.",
+          "Complejidad baja, sin necesidad de planificación adicional.",
+          "Complejidad crítica, necesita ingreso inmediato."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "Con 15 puntos, el paciente tiene baja complejidad asistencial. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Un paciente con puntuación INTERMED de 24 requiere:",
+        "opciones": [
+          "Manejo estándar sin coordinación adicional.",
+          "Evaluación específica para valorar derivación y seguimiento multidisciplinar.",
+          "Ingreso en unidad de cuidados intensivos.",
+          "Derivación automática al trabajo social hospitalario."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "24 puntos indican complejidad moderada, puede requerir atención coordinada y planificación. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "¿Qué implica una puntuación INTERMED de 35 en un paciente ingresado?",
+        "opciones": [
+          "Bajo riesgo, seguimiento estándar.",
+          "Moderado riesgo, vigilancia periódica.",
+          "Alta complejidad, requiere intervención por equipo interdisciplinar.",
+          "Complejidad intermedia, sin necesidad de coordinación externa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema188"],
+        "feedback": "Con 35 puntos, el paciente se encuentra en el rango de alta complejidad. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Un paciente con una puntuación INTERMED de 41 probablemente requiera:",
+        "opciones": [
+          "Apoyo por trabajadora social, enfermería de enlace y coordinación médica.",
+          "Manejo ambulatorio sin necesidad de seguimiento.",
+          "Atención domiciliaria con cuidadores informales.",
+          "Valoración funcional exclusivamente."
+        ],
+        "correcta": 0,
+        "categorias": ["tema188"],
+        "feedback": "Con 41 puntos, se confirma alta complejidad, con necesidad de intervención de múltiples perfiles. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Un paciente con puntuación INTERMED de 20 se clasifica como:",
+        "opciones": [
+          "Complejidad alta.",
+          "Complejidad moderada.",
+          "Complejidad crítica.",
+          "Sin complejidad."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "20 puntos representa el umbral de la complejidad moderada. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Una puntuación INTERMED de 0 en un paciente indica:",
+        "opciones": [
+          "Alto riesgo de complicaciones clínicas.",
+          "Complejidad asistencial nula o insignificante.",
+          "Necesidad de intervención intensiva en salud mental.",
+          "Perfil geriátrico de alto riesgo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "0 puntos corresponde a riesgo nulo o ausencia total de complejidad. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "Si un paciente puntúa 30 en la escala INTERMED, se considera que:",
+        "opciones": [
+          "Está en el límite entre riesgo moderado y alto.",
+          "Debe repetir la evaluación.",
+          "No requiere intervención de otros niveles asistenciales.",
+          "Tiene un riesgo bajo de problemas sociales."
+        ],
+        "correcta": 0,
+        "categorias": ["tema188"],
+        "feedback": "30 es el umbral mínimo para clasificar como complejidad alta. Guiaburros: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto)."
+      },
+      {
+        "enunciado": "La puntuación INTERMED se divide típicamente en tres rangos. ¿Cuál de las siguientes clasificaciones es correcta?",
+        "opciones": [
+          "0-10 bajo, 11-25 moderado, >25 alto.",
+          "0-19 bajo, 20-29 moderado, ≥30 alto.",
+          "0-29 bajo, 30-45 moderado, >45 alto.",
+          "0-15 bajo, 16-30 medio, 31-60 alto."
+        ],
+        "correcta": 1,
+        "categorias": ["tema188"],
+        "feedback": "La escala INTERMED se interpreta con los siguientes rangos: 0-19 (riesgo bajo), 20-29 (moderado), ≥30 (alto). Guiaburros estándar."
+      }
+      
+      
+]

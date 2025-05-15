@@ -1,0 +1,425 @@
+[
+    {
+        "enunciado": "Cuando Clara, paciente inmovilizada con alta hospitalaria, regresa a su domicilio, ¿qué actuación se considera adecuada según la cartera de servicios de Atención Primaria del SSPA?",
+        "opciones": [
+          "Esperar a que la familia solicite valoración domiciliaria.",
+          "Llamar en las primeras 72 horas y, si no es posible, valorar presencialmente en la primera semana.",
+          "Realizar contacto telefónico preferente antes de las 24 horas y, si no es posible, visita domiciliaria antes de las 48 horas.",
+          "Esperar a que sea incluida en el programa de atención crónica por el especialista de referencia."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La cartera de servicios establece que se debe contactar con el paciente antes de las 24 horas tras el alta; si no es posible, se hará visita domiciliaria antes de las 48 horas."
+      },
+      {
+        "enunciado": "En el proceso de alta hospitalaria de un paciente frágil, ¿cuál es el procedimiento adecuado según el modelo de continuidad asistencial?",
+        "opciones": [
+          "Emitir únicamente informe clínico sin comunicación a AP.",
+          "Emitir informes de alta y continuidad de cuidados el día previo al alta.",
+          "Emitir un informe de continuidad solo en caso de pacientes crónicos.",
+          "Derivar directamente al trabajador social de zona sin informar a enfermería de AP."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "El hospital debe emitir informe de alta e informe de continuidad de cuidados preferentemente al menos el día previo al alta para garantizar la coordinación con Atención Primaria."
+      },
+      {
+        "enunciado": "En caso de alta hospitalaria, la valoración clínica inicial del paciente por parte de Atención Primaria debe realizarse:",
+        "opciones": [
+          "En las primeras 24-72 horas tras la recepción del informe de alta.",
+          "En los primeros 10 días tras el alta hospitalaria.",
+          "Durante la consulta de revisión programada con su médico de familia.",
+          "En el momento en que el paciente acuda de nuevo a consulta presencial."
+        ],
+        "correcta": 0,
+        "categorias": ["tema190"],
+        "feedback": "Se recomienda realizar la evaluación clínica en las primeras 24-72 horas tras la recepción del informe de alta para garantizar una atención eficaz y segura."
+      },
+      {
+        "enunciado": "¿Qué herramienta informática facilita el seguimiento de pacientes tras el alta hospitalaria en el modelo de continuidad de cuidados?",
+        "opciones": [
+          "Tarjeta sanitaria digital.",
+          "Aplicación DIRAYA Clínica.",
+          "Aplicación de telecontinuidad de cuidados.",
+          "Sistema de Historia Farmacológica Integrada."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La aplicación de telecontinuidad de cuidados permite el seguimiento del paciente desde Atención Primaria tras el alta hospitalaria."
+      },
+      {
+        "enunciado": "¿Qué población se incluye como diana en la gestión de casos por enfermería en Atención Primaria?",
+        "opciones": [
+          "Personas con enfermedades transmisibles.",
+          "Personas con tres o más enfermedades crónicas o dos avanzadas con múltiples ingresos.",
+          "Personas con obesidad mórbida sin complicaciones.",
+          "Personas con seguimiento activo por su médico de cabecera."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "La población diana incluye personas con alta carga de cronicidad y/o necesidades complejas, como quienes tienen tres o más enfermedades crónicas o dos avanzadas con múltiples ingresos."
+      },
+      {
+        "enunciado": "¿Cuál es uno de los criterios mínimos de la oferta asistencial en gestión de casos de Atención Primaria?",
+        "opciones": [
+          "Coordinar exclusivamente con servicios hospitalarios.",
+          "Solo realizar seguimiento a personas con cuidador profesional.",
+          "Captación pasiva de pacientes en situación terminal.",
+          "Valoración integral tanto del paciente como de su cuidadora familiar."
+        ],
+        "correcta": 3,
+        "categorias": ["tema190"],
+        "feedback": "Se debe realizar una valoración integral tanto del paciente como de la persona cuidadora en el entorno familiar."
+      },
+      {
+        "enunciado": "En la gestión de casos por enfermería, ¿qué documento refleja la información que se devuelve a Atención Primaria desde otros dispositivos?",
+        "opciones": [
+          "Informe clínico de urgencias.",
+          "Informe de devolución de casos.",
+          "Hoja de alta diagnóstica.",
+          "Resumen de interconsulta."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "El informe de devolución de casos es el documento que devuelve información sobre la evolución del paciente desde otros ámbitos al equipo de Atención Primaria."
+      },
+      {
+        "enunciado": "Una de las funciones principales de la enfermera gestora de casos es:",
+        "opciones": [
+          "Gestionar exclusivamente material de curas.",
+          "Controlar el gasto sanitario del equipo.",
+          "Coordinar a los profesionales implicados y movilizar recursos.",
+          "Programar visitas médicas especializadas de forma directa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La enfermera gestora de casos coordina la atención entre distintos niveles, moviliza recursos y asegura una atención continuada e integral."
+      },
+      {
+        "enunciado": "En el seguimiento de pacientes complejos tras el alta hospitalaria, se considera buena práctica:",
+        "opciones": [
+          "Derivar solo si hay complicaciones post-alta.",
+          "Esperar a que el paciente contacte con su centro de salud.",
+          "Realizar contacto telefónico proactivo o visita domiciliaria precoz.",
+          "Delegar el seguimiento al trabajador social municipal."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "Una intervención precoz, preferentemente en las primeras 24-48 horas, garantiza una mejor continuidad asistencial."
+      },
+      {
+        "enunciado": "Entre los indicadores del trabajo de la enfermera gestora de casos se encuentra:",
+        "opciones": [
+          "Número de pacientes fallecidos en domicilio.",
+          "Porcentaje de personas cuidadoras valoradas respecto a la población diana.",
+          "Porcentaje de consultas médicas presenciales por urgencias.",
+          "Número de derivaciones a hospitalización domiciliaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Uno de los indicadores clave es la cobertura de personas cuidadoras valoradas por la enfermera gestora de casos."
+      },
+      {
+        "enunciado": "En caso de atención domiciliaria, ¿qué herramienta permite verificar si se está proporcionando el material de apoyo adecuado?",
+        "opciones": [
+          "Sistema de Prescripción Electrónica.",
+          "Aplicación de gestión de material de apoyo.",
+          "Historia farmacológica informatizada.",
+          "Registro de actividad médica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Existe una aplicación específica para gestionar el material de apoyo domiciliario, fundamental para el cuidado de pacientes en su entorno."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes grupos pertenece a la población diana de la enfermería gestora de casos?",
+        "opciones": [
+          "Personas en residencias asistidas.",
+          "Personas con patología de baja prevalencia con abordaje diferenciado.",
+          "Personas con enfermedades leves autolimitadas.",
+          "Personas incluidas en programas de cribado."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Las personas con patologías de baja prevalencia pero necesidades específicas forman parte de la población diana de la gestión de casos en AP."
+      },
+      {
+        "enunciado": "La coordinación entre el equipo de Atención Primaria y los servicios sociales es:",
+        "opciones": [
+          "Opcional según disponibilidad.",
+          "Parte de los criterios mínimos de la cartera de servicios.",
+          "Responsabilidad exclusiva del trabajador social.",
+          "Solo aplicable a menores de 65 años."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "La coordinación entre Atención Primaria y servicios sociales es uno de los criterios mínimos establecidos para garantizar atención integral."
+      },
+      {
+        "enunciado": "Una paciente terminal en domicilio sin cuidadora disponible entra en población diana porque:",
+        "opciones": [
+          "Tiene alta médica.",
+          "Su situación clínica exige coordinación y seguimiento.",
+          "Recibe atención por su centro de salud cada 30 días.",
+          "Dispone de historia clínica electrónica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Los pacientes en situación terminal y con carencias de soporte en el entorno son prioritarios en la gestión de casos para garantizar atención continuada."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes consultas forma parte de la cartera de servicios de enfermería en Atención Primaria?",
+        "opciones": [
+          "Consultas urgentes fuera de horario.",
+          "Consultas programadas de enfermería.",
+          "Consultas de alta resolución hospitalaria.",
+          "Consultas de salud ocupacional."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Las consultas programadas de enfermería están incluidas en la cartera de servicios que ofrece atención integral en el ámbito de AP."
+      },
+      {
+        "enunciado": "Según la cartera de servicios del SSPA, ¿qué tipo de consulta permite a la enfermera atender una demanda espontánea del paciente?",
+        "opciones": [
+          "Consulta telefónica.",
+          "Consulta a demanda del usuario/a.",
+          "Consulta programada.",
+          "Consulta de urgencias hospitalarias."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Las consultas a demanda del usuario permiten la atención no planificada por parte de enfermería ante situaciones que requieren asistencia inmediata o preferente."
+      },
+      {
+        "enunciado": "¿Qué actuación debe realizar la enfermera gestora de casos ante una persona cuidadora con sobrecarga evidente?",
+        "opciones": [
+          "Informar al médico de familia para que le indique reposo.",
+          "Derivar directamente al hospital de día.",
+          "Valorarla y planificar intervenciones en coordinación con otros profesionales.",
+          "Esperar a que el trabajador social la entreviste."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La EGC debe valorar integralmente a la persona cuidadora y coordinar los apoyos necesarios para garantizar su bienestar y el del paciente."
+      },
+      {
+        "enunciado": "En el caso de una persona con múltiples enfermedades crónicas, sin red de apoyo y frecuentes visitas a urgencias, la enfermera gestora de casos debe:",
+        "opciones": [
+          "Programar seguimiento anual.",
+          "Considerarla población diana para intervención intensiva.",
+          "Derivarla directamente a psiquiatría.",
+          "Excluirla del programa por falta de adherencia."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Este perfil corresponde claramente a la población diana del modelo de gestión de casos, al presentar alta complejidad y escaso soporte social."
+      },
+      {
+        "enunciado": "Una de las funciones de la aplicación '+Cuidados' es:",
+        "opciones": [
+          "Programar citas de urgencias hospitalarias.",
+          "Registrar altas de enfermería en consultas externas.",
+          "Gestionar el seguimiento y planificación de cuidados en domicilio.",
+          "Emitir informes de farmacia y dietética."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La aplicación +Cuidados está diseñada para el seguimiento personalizado de pacientes con necesidades de atención domiciliaria y cuidados prolongados."
+      },
+      {
+        "enunciado": "¿Cuál es una actividad propia de la enfermera gestora de casos al final de la vida?",
+        "opciones": [
+          "Aplicar cuidados exclusivamente paliativos técnicos.",
+          "Coordinar recursos para garantizar el confort del paciente y apoyo familiar.",
+          "Derivar directamente al servicio de urgencias a la mínima alteración clínica.",
+          "Gestionar el alta hospitalaria sin seguimiento posterior."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "La EGC tiene un papel clave al final de la vida, garantizando atención integral y coordinada con profesionales y cuidadores para mantener el confort y calidad de vida."
+      },
+      {
+        "enunciado": "¿Qué elemento forma parte del sistema de información en la atención de enfermería domiciliaria?",
+        "opciones": [
+          "El informe quirúrgico del hospital.",
+          "El resumen de derivación a salud mental.",
+          "El informe de continuidad de cuidados.",
+          "El protocolo de cribado oncológico."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "El informe de continuidad de cuidados es clave para articular la atención entre niveles asistenciales, especialmente tras el alta hospitalaria."
+      },
+      {
+        "enunciado": "En pacientes con déficit de autocuidados y sin apoyo familiar adecuado, la intervención de la EGC debe orientarse a:",
+        "opciones": [
+          "Derivación inmediata a residencia asistida.",
+          "Evaluación integral y coordinación de recursos sociales y sanitarios.",
+          "Alta administrativa de programas domiciliarios.",
+          "Remisión al centro de salud mental comunitaria."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Este perfil justifica la actuación de la EGC mediante valoración global y coordinación con servicios comunitarios para garantizar una atención adecuada."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes no es un criterio mínimo de oferta en la gestión de casos en AP?",
+        "opciones": [
+          "Gestión proactiva de cronicidad.",
+          "Coordinación con servicios sociales.",
+          "Derivación sistemática a hospital de día.",
+          "Captación activa de la población diana."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La derivación sistemática a hospital de día no forma parte de los criterios mínimos; se prioriza la coordinación y atención proactiva desde AP."
+      },
+      {
+        "enunciado": "La cobertura de cuidadoras valoradas como indicador evalúa:",
+        "opciones": [
+          "Número total de visitas domiciliarias realizadas.",
+          "Proporción de cuidadoras valoradas respecto a las existentes en el programa.",
+          "Tasa de ingresos hospitalarios evitables.",
+          "Grado de satisfacción del equipo de enfermería."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "Este indicador refleja el alcance de la valoración formal de cuidadoras principales, clave en el abordaje integral del paciente dependiente."
+      },
+      {
+        "enunciado": "Una persona con patología poco frecuente que requiere un abordaje específico será atendida por la EGC porque:",
+        "opciones": [
+          "Tiene riesgo de exclusión del sistema de salud.",
+          "Pertenece a un grupo vulnerable no contemplado en AP.",
+          "Forma parte de la población diana por precisar coordinación especializada.",
+          "No puede ser atendida en el ámbito hospitalario habitual."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "Las personas con enfermedades de baja prevalencia que requieren seguimiento específico forman parte de la población prioritaria en la gestión de casos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones forma parte de la población diana para la intervención de la Enfermería Gestora de Casos (EGC)?",
+        "opciones": [
+          "Personas con alta hospitalaria sin necesidad de cuidados domiciliarios.",
+          "Personas con autonomía plena y red familiar estable.",
+          "Personas con déficit de autocuidados sin apoyo adecuado en su entorno.",
+          "Pacientes internados en residencias sociosanitarias con cuidados cubiertos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La EGC interviene en personas con déficit de autocuidados y ausencia o inadecuación del apoyo en el entorno, facilitando cuidados integrales y coordinados."
+      },
+      {
+        "enunciado": "Dentro de los criterios mínimos de la gestión de casos en Atención Primaria, se incluye:",
+        "opciones": [
+          "Seguimiento telefónico exclusivo de pacientes en situación terminal.",
+          "Gestión reactiva de urgencias sin coordinación externa.",
+          "Captación activa de la población diana por los profesionales.",
+          "Limitación de la intervención a pacientes con diagnóstico hospitalario."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "Uno de los criterios fundamentales es la captación activa de pacientes susceptibles de gestión de casos por parte de los y las profesionales sanitarios."
+      },
+      {
+        "enunciado": "¿Cuál es una de las herramientas utilizadas para registrar la actividad de la Enfermería Gestora de Casos en Andalucía?",
+        "opciones": [
+          "Historia clínica manual.",
+          "Informe de continuidad de cuidados y seguimiento en la historia de salud digital.",
+          "Aplicaciones privadas del profesional.",
+          "Registro en papel con archivo físico en centro de salud."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "La historia de salud digital y el informe de continuidad de cuidados forman parte del sistema de registro e información de la EGC en el SSPA."
+      },
+      {
+        "enunciado": "Entre las funciones clave de la Enfermería Gestora de Casos en AP está:",
+        "opciones": [
+          "Supervisar exclusivamente tratamientos farmacológicos.",
+          "Realizar curas en domicilio sin coordinación con otros profesionales.",
+          "Diseñar y coordinar un plan de intervención individualizado con enfoque multidisciplinar.",
+          "Realizar solo el seguimiento telefónico de pacientes con dependencia severa."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La EGC diseña y coordina planes de intervención personalizados, colaborando con múltiples profesionales y recursos para una atención integral y continuada."
+      },
+      {
+        "enunciado": "¿Qué afirmación es correcta sobre las actividades incluidas en la asistencia de enfermería en Atención Primaria?",
+        "opciones": [
+          "Incluye únicamente consultas programadas por el médico de familia.",
+          "Excluye las urgencias por motivos no demorables.",
+          "Incluye consultas telefónicas y a demanda del usuario.",
+          "Se limita a actividades de promoción de la salud escolar."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La asistencia de enfermería incluye consultas programadas, a demanda, telefónicas y atención de urgencias no demorables en horario de consulta."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes pacientes sería excluido como población diana para la intervención de la EGC según el protocolo del SSPA?",
+        "opciones": [
+          "Paciente con tres enfermedades crónicas y múltiples ingresos.",
+          "Paciente terminal con necesidad de cuidados paliativos.",
+          "Persona autónoma que acude al centro para seguimiento de hipertensión sin otras patologías.",
+          "Persona con patología de baja prevalencia que requiere abordaje diferenciado."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "Personas con una única patología controlada y autonomía no forman parte de la población diana prioritaria para intervención de la EGC."
+      },
+      {
+        "enunciado": "¿Cuál es una intervención reconocida en el protocolo como parte de la gestión de casos al final de la vida?",
+        "opciones": [
+          "Derivación exclusiva al hospital.",
+          "Atención telefónica por el médico de familia.",
+          "Coordinación con servicios sociales y familiares para asegurar la atención domiciliaria.",
+          "Aplicación de medidas preventivas comunitarias generales."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La EGC participa activamente en la gestión de cuidados al final de la vida mediante coordinación con servicios sociales, profesionales y familia."
+      },
+      {
+        "enunciado": "La cobertura de personas cuidadoras valoradas por EGC se mide como:",
+        "opciones": [
+          "Número de cuidadoras registradas en la historia digital.",
+          "Proporción de casos clínicos con plan de cuidados activo.",
+          "Número de cuidadoras valoradas por la EGC respecto a la población total de cuidadoras en atención domiciliaria.",
+          "Cantidad de intervenciones educativas sobre cuidados paliativos realizadas en domicilio."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "Uno de los indicadores clave mide el porcentaje de cuidadoras valoradas por EGC sobre el total de personas cuidadoras dentro de la cartera de atención domiciliaria."
+      },
+      {
+        "enunciado": "Una de las funciones clave de la Enfermería en Atención Primaria es:",
+        "opciones": [
+          "Supervisión de personal auxiliar exclusivamente.",
+          "Seguimiento de procesos agudos y crónicos, promoción y prevención.",
+          "Consulta solo de programas dirigidos por medicina general.",
+          "Atención domiciliaria restringida a pacientes oncológicos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema190"],
+        "feedback": "La enfermería en AP incluye atención a procesos agudos y crónicos, promoción de la salud, educación sanitaria y medidas preventivas, tanto en centro como en domicilio."
+      },
+      {
+        "enunciado": "¿Qué nivel de coordinación se exige como criterio mínimo para la EGC según el protocolo del SSPA?",
+        "opciones": [
+          "Solo con medicina de familia.",
+          "Exclusivamente con trabajadores sociales.",
+          "Con servicios sociales, comunidad y diferentes niveles del SSPA.",
+          "Con asociaciones de pacientes únicamente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema190"],
+        "feedback": "La EGC debe garantizar la coordinación con todos los niveles de atención sanitaria, servicios sociales y recursos comunitarios para asegurar una atención integral."
+      }
+      
+      
+      
+]

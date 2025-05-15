@@ -1,0 +1,304 @@
+[
+    {
+        "enunciado": "Según el actual Protocolo de Bacteriemia Zero, las recomendaciones se clasifican en:",
+        "opciones": [
+          "Obligatorias.",
+          "Opcionales.",
+          "Medidas a no realizar.",
+          "Todas son correctas"
+        ],
+        "correcta": 3,
+        "categorias": ["tema209"],
+        "feedback": "El Protocolo Bacteriemia Zero clasifica sus recomendaciones en obligatorias, opcionales y medidas a no realizar, en función del nivel de evidencia y la aplicabilidad clínica en UCI."
+      },
+      {
+        "enunciado": "Según el Protocolo de Infección Quirúrgica Zero, ¿cuál es el antiséptico recomendado para la preparación de la piel antes de la incisión quirúrgica?",
+        "opciones": [
+          "Clorhexidina alcohólica al 2%.",
+          "Povidona yodada jabonosa.",
+          "Solución salina estéril.",
+          "Clorhexidina acuosa al 0,5%."
+        ],
+        "correcta": 0,
+        "categorias": ["tema209"],
+        "feedback": "La clorhexidina alcohólica al 2% es el antiséptico recomendado por el protocolo IQZ para la preparación de la piel quirúrgica por su alta eficacia frente a microorganismos cutáneos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA según el Protocolo de Infección Quirúrgica Zero?",
+        "opciones": [
+          "Debe aplicarse clorhexidina en espiral desde el centro hacia fuera.",
+          "La profilaxis antibiótica debe ajustarse al tipo de cirugía.",
+          "Está indicado el uso de pomadas antibióticas tópicas sobre la incisión.",
+          "Debe evitarse la hipotermia perioperatoria por sus efectos adversos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "El uso de pomadas antibióticas tópicas no está indicado en la profilaxis de la infección quirúrgica según el IQZ, ya que puede favorecer resistencias o reacciones locales."
+      },
+      {
+        "enunciado": "En relación a la higiene de manos en la prevención de bacteriemias asociadas a catéteres, ¿cuál es la afirmación correcta?",
+        "opciones": [
+          "Debe hacerse solo antes de la inserción del catéter.",
+          "Solo se requiere si hay contacto con sangre visible.",
+          "Se recomienda antes y después de cada manipulación del catéter, con o sin guantes.",
+          "No es obligatoria si se han usado guantes estériles."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "La higiene de manos es una medida crítica que debe realizarse antes y después de cualquier manipulación de catéter, independientemente del uso de guantes, para prevenir bacteriemias asociadas."
+      },
+      {
+        "enunciado": "Según el Protocolo Bacteriemia Zero, ¿cuándo está indicada la utilización de catéteres impregnados con antimicrobianos?",
+        "opciones": [
+          "Siempre, como medida de primera elección.",
+          "Solo en quirófano.",
+          "En unidades donde no se ha logrado disminuir la tasa de infecciones pese a la implementación completa del protocolo.",
+          "En pacientes pediátricos únicamente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "El uso de CVC impregnados con antimicrobianos está indicado en aquellas unidades que, pese a aplicar todas las recomendaciones del protocolo BZ, mantienen tasas de infección por encima de los estándares."
+      },
+      {
+        "enunciado": "Según el Protocolo Bacteriemia Zero, una de las medidas fundamentales para prevenir infecciones asociadas a CVC es:",
+        "opciones": [
+          "Uso rutinario de antibióticos profilácticos sistémicos.",
+          "Cambio de catéter cada 48 horas.",
+          "Uso de medidas de barrera máxima durante la inserción.",
+          "Aplicación de povidona yodada cada 6 horas sobre el punto de inserción."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "El uso de medidas de barrera máxima (guantes estériles, bata, mascarilla, gorro y campo estéril) es fundamental para prevenir bacteriemias durante la inserción de CVC."
+      },
+      {
+        "enunciado": "En el marco del Protocolo de Infección Quirúrgica Zero (IQZ), el vello debe eliminarse:",
+        "opciones": [
+          "Con cuchilla inmediatamente antes de entrar a quirófano.",
+          "Con crema depilatoria la noche anterior.",
+          "Con maquinilla eléctrica inmediatamente antes de la cirugía.",
+          "No es necesario eliminarlo nunca."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "Se recomienda eliminar el vello con maquinilla eléctrica justo antes de la cirugía si es necesario, para evitar microlesiones y riesgo de infección."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una medida opcional según el Protocolo Bacteriemia Zero?",
+        "opciones": [
+          "Uso de guantes estériles.",
+          "Desinfección de la piel con clorhexidina alcohólica.",
+          "Aplicación de apósito transparente semipermeable.",
+          "Utilización de catéteres impregnados en unidades sin descenso de tasas de infección."
+        ],
+        "correcta": 3,
+        "categorias": ["tema209"],
+        "feedback": "El uso de CVC impregnados se considera una medida opcional en unidades con tasas persistentemente elevadas de bacteriemia, tras aplicar las medidas obligatorias."
+      },
+      {
+        "enunciado": "En IQZ, la profilaxis antibiótica quirúrgica debe administrarse idealmente:",
+        "opciones": [
+          "24 horas antes de la intervención.",
+          "Durante la inducción anestésica.",
+          "Al finalizar la intervención quirúrgica.",
+          "2 horas después de la incisión."
+        ],
+        "correcta": 1,
+        "categorias": ["tema209"],
+        "feedback": "La profilaxis antibiótica debe administrarse idealmente en el momento de la inducción anestésica para asegurar niveles adecuados en sangre y tejidos durante la incisión."
+      },
+      {
+        "enunciado": "Señale la afirmación correcta en relación con el uso de clorhexidina según IQZ:",
+        "opciones": [
+          "Debe aplicarse frotando vigorosamente para asegurar su acción.",
+          "Se debe aplicar durante al menos 30 segundos y dejar secar al menos 2 minutos.",
+          "Puede aplicarse sin necesidad de secado si se usa en solución jabonosa.",
+          "Solo está recomendada en heridas contaminadas."
+        ],
+        "correcta": 1,
+        "categorias": ["tema209"],
+        "feedback": "La clorhexidina alcohólica al 2% debe aplicarse 30 segundos y dejar secar un mínimo de 2 minutos antes de proceder a la incisión quirúrgica."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una complicación derivada de la hipotermia perioperatoria según el IQZ?",
+        "opciones": [
+          "Taquicardia ventricular.",
+          "Isquemia miocárdica.",
+          "Disminución del sangrado quirúrgico.",
+          "Alteraciones en la coagulación."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "La hipotermia intraoperatoria favorece taquiarritmias, isquemia y trastornos de la coagulación. No disminuye el sangrado, sino que lo aumenta por coagulopatía inducida."
+      },
+      {
+        "enunciado": "En relación con los apósitos para CVC según Bacteriemia Zero, ¿cuál es la opción correcta?",
+        "opciones": [
+          "Se cambiarán diariamente siempre, independientemente del tipo.",
+          "No es necesario cambiarlos salvo que estén sucios.",
+          "El apósito transparente debe cambiarse cada 7 días si está seco e intacto.",
+          "Los apósitos de gasa deben dejarse hasta que se despeguen."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "El apósito transparente se cambia cada 7 días si está seco e íntegro; el de gasa debe cambiarse cada 2 días o antes si está húmedo o sucio."
+      },
+      {
+        "enunciado": "¿Qué técnica debe evitarse en la antisepsia del campo quirúrgico según IQZ?",
+        "opciones": [
+          "Aplicar clorhexidina en espiral desde el centro hacia la periferia.",
+          "Cubrir el campo con apósito estéril tras secado.",
+          "Reaplicar clorhexidina varias veces durante la intervención.",
+          "No respetar el tiempo de secado del antiséptico."
+        ],
+        "correcta": 3,
+        "categorias": ["tema209"],
+        "feedback": "No respetar el tiempo de secado del antiséptico puede reducir su eficacia y aumentar el riesgo de quemaduras químicas o eléctricas en el uso de bisturí."
+      },
+      {
+        "enunciado": "En el Protocolo Bacteriemia Zero, la revisión de la necesidad del CVC debe realizarse:",
+        "opciones": [
+          "Al menos cada 24 horas.",
+          "Una vez por semana.",
+          "Solo cuando hay signos de infección.",
+          "Al finalizar la administración de fluidos."
+        ],
+        "correcta": 0,
+        "categorias": ["tema209"],
+        "feedback": "Una de las medidas clave es la revisión diaria de la indicación del catéter para evitar su mantenimiento innecesario y el consiguiente riesgo de infección."
+      },
+      {
+        "enunciado": "Respecto al manejo de la hipotermia intraoperatoria según el IQZ, indique la correcta:",
+        "opciones": [
+          "Se considera fisiológica y no requiere intervención.",
+          "Favorece la vasoconstricción y es deseable.",
+          "Puede prevenirse con dispositivos de calentamiento activo.",
+          "Está contraindicada la administración de fluidos calientes."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "La prevención activa de la hipotermia incluye el uso de mantas térmicas y fluidos calentados, ya que esta condición se asocia con complicaciones graves en el postoperatorio."
+      },
+      {
+        "enunciado": "Según el protocolo de Bacteriemia Zero, ¿qué tipo de medidas se consideran para prevenir infecciones relacionadas con catéteres?",
+        "opciones": [
+          "Únicamente recomendaciones de buenas prácticas.",
+          "Medidas obligatorias, opcionales y a evitar.",
+          "Normas generales de asepsia quirúrgica.",
+          "Indicaciones exclusivas para quirófano."
+        ],
+        "correcta": 1,
+        "categorias": ["tema209"],
+        "feedback": "El protocolo Bacteriemia Zero establece medidas clasificadas como obligatorias, opcionales y otras a evitar, basadas en evidencia científica para reducir las infecciones por catéter."
+      },
+      {
+        "enunciado": "En el protocolo Infección Quirúrgica Zero (IQZ), ¿cuál es la técnica recomendada para aplicar clorhexidina en la preparación del campo quirúrgico?",
+        "opciones": [
+          "Movimientos en zigzag desde el borde al centro.",
+          "Aplicación en forma de espiral desde el centro hacia fuera.",
+          "Aplicación circular solo en la zona de incisión.",
+          "Frotar intensamente de arriba abajo."
+        ],
+        "correcta": 1,
+        "categorias": ["tema209"],
+        "feedback": "El protocolo IQZ indica que la clorhexidina debe aplicarse en espiral desde el centro hacia la periferia del campo quirúrgico para asegurar la correcta antisepsia."
+      },
+      {
+        "enunciado": "¿Cuál es la duración mínima recomendada para el secado del antiséptico antes de iniciar una cirugía, según IQZ?",
+        "opciones": [
+          "30 segundos.",
+          "1 minuto.",
+          "2 minutos.",
+          "No es necesario esperar si se aplica clorhexidina."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "Se recomienda dejar secar la clorhexidina alcohólica al menos 2 minutos antes de realizar la incisión, para garantizar su eficacia y evitar riesgos de quemaduras."
+      },
+      {
+        "enunciado": "Una práctica **incorrecta** según el IQZ es:",
+        "opciones": [
+          "Eliminar el vello con maquinilla eléctrica inmediatamente antes de la intervención.",
+          "Prevenir la hipotermia para evitar complicaciones quirúrgicas.",
+          "Administrar la profilaxis antibiótica durante la inducción anestésica.",
+          "Aplicar povidona yodada sobre la zona quirúrgica y cubrir con apósito húmedo."
+        ],
+        "correcta": 3,
+        "categorias": ["tema209"],
+        "feedback": "La aplicación de povidona yodada seguida de oclusión con apósito húmedo puede aumentar el riesgo de irritación cutánea y no está recomendada en IQZ."
+      },
+      {
+        "enunciado": "Una de las complicaciones **asociadas a la hipotermia** en el paciente quirúrgico es:",
+        "opciones": [
+          "Disminución del gasto cardíaco.",
+          "Reducción del riesgo de infección.",
+          "Coagulopatías y taquiarritmias.",
+          "Menor consumo de oxígeno por los tejidos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "La hipotermia perioperatoria se asocia con coagulopatías, aumento del sangrado, taquicardia y mayor riesgo de infección quirúrgica."
+      },
+      {
+        "enunciado": "¿Qué opción se considera una medida **opcional** en el protocolo Bacteriemia Zero?",
+        "opciones": [
+          "Uso de clorhexidina al 2%.",
+          "Medidas de barrera máxima.",
+          "Uso de catéteres impregnados en unidades con alta tasa de infección.",
+          "Higiene de manos antes y después del contacto con el catéter."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "El uso de catéteres impregnados con antimicrobianos se considera una medida opcional cuando persiste una alta tasa de infección a pesar del cumplimiento de las medidas obligatorias."
+      },
+      {
+        "enunciado": "¿Cuál es la frecuencia máxima recomendada para el cambio de apósito transparente en un catéter venoso central según Bacteriemia Zero?",
+        "opciones": [
+          "Cada 24 horas.",
+          "Cada 48 horas.",
+          "Cada 7 días, si está seco e intacto.",
+          "Solo cuando se observe secreción."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "Los apósitos transparentes deben cambiarse cada 7 días si están secos e intactos, o antes si hay signos de humedad o suciedad."
+      },
+      {
+        "enunciado": "En relación al protocolo IQZ, indique la afirmación **correcta** sobre profilaxis antibiótica:",
+        "opciones": [
+          "Se administra después del cierre quirúrgico.",
+          "Debe repetirse sistemáticamente cada 6 horas.",
+          "Debe ajustarse al tipo de cirugía y administrarse en el momento de la inducción anestésica.",
+          "Debe ser de amplio espectro en todos los casos."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "La profilaxis antibiótica se administra justo antes de la incisión quirúrgica (en la inducción anestésica) y se ajusta a la cirugía específica según los protocolos clínicos."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones justificaría el uso de un catéter impregnado en una unidad de cuidados intensivos?",
+        "opciones": [
+          "Unidad con tasas bajas y sostenidas de bacteriemia.",
+          "Primera inserción del catéter.",
+          "Unidad con tasas de bacteriemia elevadas pese a aplicar todas las medidas obligatorias.",
+          "Todo paciente con neutropenia leve."
+        ],
+        "correcta": 2,
+        "categorias": ["tema209"],
+        "feedback": "Los catéteres impregnados se reservan para unidades con tasas de bacteriemia persistentemente altas, a pesar del cumplimiento de las medidas básicas."
+      },
+      {
+        "enunciado": "En el protocolo IQZ, ¿qué objetivo tiene la estrategia de mantener la normotermia en el perioperatorio?",
+        "opciones": [
+          "Reducir el uso de anestésicos.",
+          "Evitar infecciones, alteraciones hemodinámicas y coagulopatías.",
+          "Aumentar el metabolismo celular.",
+          "Evitar la hipotensión postanestésica."
+        ],
+        "correcta": 1,
+        "categorias": ["tema209"],
+        "feedback": "Mantener la normotermia evita complicaciones como coagulopatías, infecciones del sitio quirúrgico e inestabilidad hemodinámica."
+      }
+      
+          
+    ]

@@ -1,0 +1,220 @@
+[
+    {
+        "enunciado": "En un diagnóstico enfermero real según NANDA-I, el elemento que justifica la existencia del problema es:",
+        "opciones": [
+          "El factor de riesgo",
+          "La característica definitoria",
+          "La etiqueta diagnóstica",
+          "La condición médica subyacente"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "En los diagnósticos reales, las características definitorias son los signos y síntomas observables que confirman la presencia del problema."
+      },
+      {
+        "enunciado": "En la formulación de un diagnóstico de riesgo según NANDA-I, ¿qué elemento está ausente respecto a un diagnóstico real?",
+        "opciones": [
+          "Etiqueta diagnóstica",
+          "Factores relacionados",
+          "Características definitorias",
+          "Factor de riesgo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de riesgo no presentan características definitorias, ya que el problema aún no se ha manifestado clínicamente."
+      },
+      {
+        "enunciado": "El diagnóstico 'Riesgo de aspiración' debe formularse en base a:",
+        "opciones": [
+          "Etiqueta diagnóstica + signos y síntomas",
+          "Etiqueta diagnóstica + factores de riesgo",
+          "Etiqueta diagnóstica + patrón funcional alterado",
+          "Etiqueta diagnóstica + problema médico coexistente"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de riesgo se componen de la etiqueta diagnóstica y los factores de riesgo, no de signos y síntomas, ya que no hay manifestación clínica."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes estructuras corresponde a un diagnóstico enfermero real utilizando el formato NANDA-I?",
+        "opciones": [
+          "Riesgo de infección relacionado con herida quirúrgica",
+          "Manejo ineficaz de la salud manifestado por falta de conocimientos",
+          "Dolor agudo relacionado con incisión quirúrgica manifestado por verbalización del dolor",
+          "Propensión a caídas relacionada con alteración del equilibrio"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "La estructura del diagnóstico real sigue el formato PES: Problema (etiqueta), Etiología (relacionado con), Signos/Síntomas (manifestado por)."
+      },
+      {
+        "enunciado": "¿Qué característica diferencia un diagnóstico de promoción de la salud de uno real o de riesgo?",
+        "opciones": [
+          "Incorpora una condición clínica latente",
+          "Está orientado a la resolución de una enfermedad concreta",
+          "Se formula a partir de la intención del paciente de mejorar su bienestar",
+          "Requiere obligatoriamente factores relacionados y síntomas"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de promoción de la salud parten de una disposición positiva del individuo a mejorar su estado, no de la presencia o riesgo de un problema."
+      },
+      {
+        "enunciado": "¿Cuál es el único tipo de diagnóstico NANDA-I que puede formularse sin necesidad de signos, síntomas ni factores relacionados?",
+        "opciones": [
+          "Diagnóstico de riesgo",
+          "Diagnóstico real",
+          "Diagnóstico de promoción de la salud",
+          "Diagnóstico colaborativo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de promoción de la salud pueden formularse solo con la etiqueta diagnóstica, si se identifica una disposición positiva del paciente."
+      },
+      {
+        "enunciado": "El formato diagnóstico de tipo 'PE' es aplicable únicamente a:",
+        "opciones": [
+          "Diagnósticos colaborativos",
+          "Diagnósticos de riesgo",
+          "Diagnósticos de promoción de la salud",
+          "Diagnósticos reales"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "El formato PE (Problema + Etiología) se usa en diagnósticos de riesgo, ya que no incluyen manifestaciones clínicas (no hay ‘S’ de síntomas)."
+      },
+      {
+        "enunciado": "¿En qué caso puede formularse un diagnóstico NANDA-I sin necesidad de mencionar etiología o manifestaciones clínicas?",
+        "opciones": [
+          "Dolor agudo",
+          "Riesgo de deterioro de la integridad cutánea",
+          "Disposición para mejorar la nutrición",
+          "Perfusión tisular ineficaz"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de promoción de la salud pueden declararse con solo la etiqueta, como 'Disposición para...'. No requieren factores relacionados ni síntomas."
+      },
+      {
+        "enunciado": "La estructura diagnóstica 'PES' se refiere a:",
+        "opciones": [
+          "Patología, examen físico, síntomas",
+          "Problema, etiología, signos y síntomas",
+          "Proceso, evaluación, severidad",
+          "Predisposición, entorno, sospecha"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "El formato PES incluye: Problema (etiqueta NANDA), Etiología (causas relacionadas) y Síntomas (características definitorias)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ejemplos refleja incorrectamente un diagnóstico enfermero real según NANDA-I?",
+        "opciones": [
+          "Dolor crónico relacionado con enfermedad degenerativa manifestado por verbalización de malestar.",
+          "Déficit de autocuidado: baño relacionado con fatiga manifestado por necesidad de ayuda para la higiene.",
+          "Riesgo de aspiración manifestado por presencia de secreciones abundantes.",
+          "Deterioro de la movilidad física relacionado con debilidad muscular manifestado por dificultad para deambular."
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "‘Riesgo de aspiración’ no debe incluir manifestaciones clínicas ('manifestado por'), ya que es un diagnóstico de riesgo. Su formulación es solo PE (problema + factor de riesgo)."
+      },
+      {
+        "enunciado": "¿Cuáles son los tipos de diagnósticos enfermeros definidos por la NANDA-I?",
+        "opciones": [
+          "Clínico, funcional y emocional",
+          "Agudo, crónico y terminal",
+          "Real, de riesgo y de promoción de la salud",
+          "Dependiente, independiente y colaborativo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "NANDA-I clasifica los diagnósticos enfermeros en tres tipos: real (presencia del problema), de riesgo (posibilidad de aparición) y de promoción de la salud (disposición del individuo a mejorar)."
+      },
+      {
+        "enunciado": "Según la Taxonomía NANDA-I, un diagnóstico de promoción de la salud se diferencia del resto porque:",
+        "opciones": [
+          "Debe incluir signos y síntomas claramente definidos.",
+          "Describe problemas funcionales preexistentes.",
+          "Se formula ante la intención de mejorar un estado de salud.",
+          "Incluye factores de riesgo específicos y controlables."
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de promoción de la salud describen una disposición positiva del paciente para alcanzar un mayor nivel de bienestar o funcionalidad."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diagnósticos está correctamente formulado como diagnóstico enfermero real?",
+        "opciones": [
+          "Dolor agudo relacionado con apendicitis",
+          "Riesgo de infección manifestado por herida quirúrgica",
+          "Déficit de autocuidado: vestido relacionado con fatiga manifestado por necesidad de ayuda para vestirse",
+          "Ansiedad relacionada con estrés social sin manifestaciones clínicas"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "El diagnóstico real debe seguir el formato PES: Problema (etiqueta NANDA), Etiología (relacionado con) y Síntomas (manifestado por)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diagnósticos enfermeros está mal formulado para su tipo?",
+        "opciones": [
+          "Riesgo de aspiración manifestado por tos intermitente",
+          "Dolor crónico relacionado con artritis reumatoide manifestado por verbalización de dolor persistente",
+          "Deterioro de la movilidad física relacionado con debilidad muscular manifestado por marcha inestable",
+          "Déficit de autocuidado: alimentación relacionado con deterioro cognitivo manifestado por incapacidad para usar cubiertos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de riesgo no deben incluir manifestaciones clínicas, ya que el problema aún no se ha producido. Se formulan como PE (Problema + Etiología)."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es un diagnóstico de promoción de la salud correctamente formulado?",
+        "opciones": [
+          "Riesgo de sobrepeso manifestado por IMC elevado",
+          "Disposición para mejorar la actividad física",
+          "Ejercicio ineficaz relacionado con fatiga",
+          "Desequilibrio nutricional relacionado con mala planificación alimentaria"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de promoción de la salud pueden formularse únicamente con la etiqueta diagnóstica, como 'Disposición para...'."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes diagnósticos no respeta la estructura de un diagnóstico real según NANDA-I?",
+        "opciones": [
+          "Dolor agudo relacionado con lesión tisular manifestado por expresión facial de malestar",
+          "Deterioro del patrón del sueño relacionado con ansiedad manifestado por insomnio",
+          "Riesgo de caídas relacionado con hipotensión ortostática",
+          "Ansiedad manifestada por inquietud y taquicardia"
+        ],
+        "correcta": 3,
+        "categorias": ["tema197"],
+        "feedback": "Falta la parte 'relacionado con' (etiología), por lo tanto está incompleto como diagnóstico real. El formato correcto es PES: Problema + Etiología + Signos/Síntomas."
+      },
+      {
+        "enunciado": "Indica cuál de los siguientes diagnósticos enfermeros está correctamente formulado según NANDA-I:",
+        "opciones": [
+          "Dolor agudo manifestado por expresión facial de malestar",
+          "Riesgo de infección manifestado por incisión quirúrgica",
+          "Disposición para mejorar el manejo de la salud",
+          "Ansiedad crónica relacionada con estrés ambiental y social manifestado por preocupación y nerviosismo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema197"],
+        "feedback": "La 'Disposición para...' es una etiqueta válida en diagnósticos de promoción de la salud, y puede formularse sin necesidad de etiología ni manifestaciones clínicas."
+      },
+      {
+        "enunciado": "Respecto a los siguientes ejemplos, ¿cuál refleja correctamente un diagnóstico de riesgo según NANDA-I?",
+        "opciones": [
+          "Riesgo de deterioro de la integridad cutánea manifestado por enrojecimiento",
+          "Riesgo de caídas relacionado con alteración del equilibrio",
+          "Riesgo de aspiración manifestado por dificultad respiratoria",
+          "Riesgo de infección manifestado por fiebre"
+        ],
+        "correcta": 1,
+        "categorias": ["tema197"],
+        "feedback": "Los diagnósticos de riesgo se formulan con: etiqueta diagnóstica + factor de riesgo (PE). No deben incluir manifestaciones clínicas."
+      }
+      
+      
+]

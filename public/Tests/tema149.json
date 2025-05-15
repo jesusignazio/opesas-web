@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿Qué nombre recibe en Andalucía el documento mediante el cual una persona expresa su voluntad sobre la atención sanitaria futura?",
+        "opciones": ["Testamento terapéutico", "Voluntad Sanitaria Previa", "Voluntad Vital Anticipada", "Directiva Sanitaria"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "En Andalucía, este documento se denomina Voluntad Vital Anticipada (VVA)."
+      },
+      {
+        "enunciado": "¿Qué personas pueden otorgar una Voluntad Vital Anticipada en Andalucía?",
+        "opciones": ["Sólo mayores de 18 años", "Cualquier persona mayor de 16 años con capacidad suficiente", "Pacientes terminales exclusivamente", "Ciudadanos con discapacidad reconocida"],
+        "correcta": 1,
+        "categorías": ["tema149"],
+        "feedback": "Puede otorgarla cualquier persona mayor de 16 años que esté en pleno uso de sus facultades."
+      },
+      {
+        "enunciado": "¿Qué institución gestiona el Registro de Voluntades Vitales Anticipadas en Andalucía?",
+        "opciones": ["Ministerio de Sanidad", "Servicio Andaluz de Salud", "Consejería de Salud y Consumo", "Colegio Oficial de Médicos"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "El registro lo gestiona la Consejería de Salud y Consumo de la Junta de Andalucía."
+      },
+      {
+        "enunciado": "¿Qué puede incluir una persona en su Voluntad Vital Anticipada?",
+        "opciones": ["Deseos sobre tratamientos en situaciones terminales", "Donación de órganos", "Designación de un representante", "Todas las anteriores"],
+        "correcta": 3,
+        "categorías": ["tema149"],
+        "feedback": "La VVA puede incluir instrucciones sobre tratamientos, designar representante y manifestar voluntad sobre donación de órganos."
+      },
+      {
+        "enunciado": "¿Cómo puede una persona formalizar su Voluntades Vitales Anticipadas en Andalucía?",
+        "opciones": ["Ante notario o ante tres testigos", "Mediante inscripción electrónica con certificado digital", "En las unidades habilitadas por la Junta de Andalucía", "Todas son válidas"],
+        "correcta": 3,
+        "categorías": ["tema149"],
+        "feedback": "En Andalucía, la VVA puede formalizarse ante testigos, notario o en unidades habilitadas."
+      },
+      {
+        "enunciado": "¿Qué función tiene la persona representante designada en la Voluntades Vitales Anticipadas?",
+        "opciones": ["Ejercer de tutor legal", "Decidir por el paciente siempre", "Hacer cumplir los deseos del otorgante cuando no pueda expresarse", "Firmar el consentimiento informado en nombre del paciente"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "El representante actúa solo si el paciente no puede expresarse, interpretando su voluntad previamente manifestada."
+      },
+      {
+        "enunciado": "¿La Voluntad Vital Anticipada puede revocarse una vez registrada?",
+        "opciones": ["No, es irrevocable", "Sí, en cualquier momento y por la misma persona", "Solo mediante orden judicial", "Solo con consentimiento de un representante"],
+        "correcta": 1,
+        "categorías": ["tema149"],
+        "feedback": "La VVA puede ser modificada o revocada en cualquier momento por la persona que la otorgó."
+      },
+      {
+        "enunciado": "¿Qué documento debe consultar el personal sanitario antes de realizar tratamientos a pacientes incapacitados?",
+        "opciones": ["Historia clínica", "Consentimiento informado", "Voluntad Vital Anticipada", "Instrucciones de alta"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "La VVA debe consultarse para respetar la voluntad del paciente en situaciones de incapacidad para decidir."
+      },
+      {
+        "enunciado": "¿Qué ocurre si un paciente tiene registrada una Voluntades Vitales Anticipadas y se encuentra en situación terminal?",
+        "opciones": ["Se aplica lo que dicte la familia", "Se prioriza la decisión médica", "Se sigue la voluntad expresada en la VVA", "Se deriva a cuidados paliativos automáticamente"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "La voluntad del paciente expresada en la VVA prevalece sobre otras consideraciones si es clara y aplicable."
+      },
+      {
+        "enunciado": "¿Qué objetivo persigue el Registro de Voluntades Vitales Anticipadas en Andalucía?",
+        "opciones": ["Evitar litigios familiares", "Asegurar el cumplimiento de tratamientos", "Garantizar el respeto a la autonomía del paciente", "Centralizar donaciones de órganos"],
+        "correcta": 2,
+        "categorías": ["tema149"],
+        "feedback": "Su objetivo es garantizar el respeto a la autonomía y decisiones sanitarias previamente expresadas por la persona."
+      }
+      
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes pacientes podría ser incluido en el seguimiento protocolizado de anticoagulación por parte de enfermería?",
+        "opciones": [
+          "Paciente en tratamiento con acenocumarol con INR estable de 1,7.",
+          "Paciente con anticoagulación oral que ha iniciado tratamiento hace 3 días.",
+          "Paciente con prótesis valvular cardíaca y rango INR estable de 2,8.",
+          "Paciente con fibrilación auricular e INR oscilante entre 1,6 y 4,2."
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "Para ser incluido en seguimiento protocolizado, el paciente debe tener tratamiento con anticoagulantes orales, rango terapéutico estabilizado (INR entre 2–3 o 2,5–3,5), y derivación médica expresa."
+      },
+      {
+        "enunciado": "Una condición clínica que justificaría la inclusión de un paciente en el protocolo de seguimiento de anticoagulación es:",
+        "opciones": [
+          "Hipotiroidismo subclínico.",
+          "Embolismo sistémico recurrente.",
+          "Cefalea tensional crónica.",
+          "Hipercolesterolemia familiar."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El embolismo sistémico recurrente es una de las patologías asociadas al uso de anticoagulantes orales que requiere seguimiento protocolizado por enfermería."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales está contemplado dentro del protocolo de seguimiento de pacientes anticoagulados?",
+        "opciones": [
+          "Neoplasias hematológicas.",
+          "Síndrome coronario agudo.",
+          "Artritis reumatoide.",
+          "Enfermedad pulmonar obstructiva crónica (EPOC)."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El síndrome coronario agudo es uno de los procesos asistenciales en los que se debe integrar el seguimiento protocolizado de pacientes anticoagulados."
+      },
+      {
+        "enunciado": "En el protocolo de seguimiento de anticoagulación llevado a cabo por enfermería, ¿cuál es un requisito imprescindible para la inclusión del paciente?",
+        "opciones": [
+          "INR inferior a 1,8 en los últimos dos controles.",
+          "Prescripción médica y derivación tras estabilización de dosis.",
+          "Tratamiento con cualquier anticoagulante oral directo (DOAC).",
+          "Fibrilación auricular paroxística sin necesidad de tratamiento estable."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El seguimiento protocolizado debe comenzar tras la estabilización de la dosis diaria y con derivación médica expresa al profesional de enfermería acreditado."
+      },
+      {
+        "enunciado": "Señale cuál de las siguientes combinaciones de tratamiento y rango terapéutico permitiría la inclusión en el protocolo de seguimiento por enfermería:",
+        "opciones": [
+          "Warfarina con INR entre 1,5 y 2.",
+          "Acenocumarol con INR oscilando entre 3,6 y 4.",
+          "Acenocumarol con INR estable entre 2 y 3.",
+          "Anticoagulación con rivaroxabán sin necesidad de control de INR."
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "El protocolo solo contempla pacientes en tratamiento con acenocumarol o warfarina, con INR estabilizado entre 2–3 o 2,5–3,5. NO se incluyen los anticoagulantes de acción directa como rivaroxabán."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes valores de INR justificaría la continuidad en el seguimiento protocolizado por enfermería?",
+        "opciones": [
+          "INR de 1,9 en paciente con prótesis valvular mecánica.",
+          "INR de 2,7 en paciente con fibrilación auricular.",
+          "INR de 3,7 en paciente con trombosis venosa profunda.",
+          "INR de 1,4 tras dos semanas de inicio con warfarina."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El rango terapéutico válido para el seguimiento protocolizado es de INR entre 2–3 o 2,5–3,5 según indicación. Un INR de 2,7 en FA se encuentra dentro del rango objetivo."
+      },
+      {
+        "enunciado": "En relación al seguimiento protocolizado por parte de enfermería de pacientes anticoagulados, indique la afirmación correcta:",
+        "opciones": [
+          "Solo se incluyen pacientes con anticoagulantes de acción directa.",
+          "El seguimiento se inicia una vez estabilizada la dosis y con derivación médica.",
+          "El protocolo contempla exclusivamente pacientes con fibrilación auricular.",
+          "El control se realiza únicamente en pacientes con prótesis valvulares."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El protocolo incluye a pacientes con acenocumarol o warfarina tras estabilización y derivación médica. No incluye anticoagulantes directos como dabigatrán o rivaroxabán."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes procesos asistenciales está incluido como indicación clínica para anticoagulación con seguimiento por enfermería?",
+        "opciones": [
+          "Accidente isquémico transitorio sin recurrencia.",
+          "Trombosis venosa profunda.",
+          "Hipertensión arterial sistémica controlada.",
+          "Migraña con aura."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El tromboembolismo venoso, incluyendo TVP, es una de las patologías integradas en el seguimiento protocolizado de pacientes anticoagulados."
+      },
+      {
+        "enunciado": "Un paciente con acenocumarol por fibrilación auricular persistente es derivado a enfermería. ¿Cuál de los siguientes valores justificaría posponer su inclusión?",
+        "opciones": [
+          "INR de 2,6 en dos controles consecutivos.",
+          "INR de 2,0 con ajuste de dosis hace 2 semanas.",
+          "INR de 1,8 sin ajustes en el último mes.",
+          "INR estable de 3,1 durante tres controles."
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "Un INR de 1,8 está fuera del rango terapéutico para FA (2–3). La inclusión requiere estabilidad dentro del rango objetivo y confirmación médica."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes patologías es una indicación válida para la anticoagulación con seguimiento protocolizado?",
+        "opciones": [
+          "Síndrome metabólico sin complicaciones.",
+          "Prótesis valvular cardíaca mecánica.",
+          "Enfermedad pulmonar intersticial leve.",
+          "Enfermedad hepática crónica compensada."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "Las prótesis valvulares cardiacas son una indicación formal para anticoagulación prolongada, con INR objetivo entre 2,5–3,5, y seguimiento enfermero."
+      },
+      {
+        "enunciado": "El seguimiento protocolizado por enfermería en anticoagulación oral requiere como paso previo:",
+        "opciones": [
+          "Inicio directo del control tras la primera dosis.",
+          "Prescripción enfermera independiente del tratamiento.",
+          "Derivación médica con INR dentro del rango terapéutico.",
+          "Consentimiento firmado del paciente cada 3 meses."
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "El protocolo exige derivación médica y estabilización del INR para que la enfermera acreditada pueda asumir el control sistematizado."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tratamientos anticoagulantes está contemplado en este protocolo de seguimiento?",
+        "opciones": [
+          "Rivaroxabán",
+          "Apixabán",
+          "Warfarina",
+          "Dabigatrán"
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "Solo se incluyen warfarina y acenocumarol. Los anticoagulantes directos no requieren seguimiento de INR y no están incluidos en este protocolo."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre pacientes anticoagulados con seguimiento protocolizado es correcta?",
+        "opciones": [
+          "Pueden incluirse pacientes con inestabilidad de INR reciente.",
+          "Se prioriza a pacientes con indicación profiláctica aislada.",
+          "No se requiere estabilización si la patología es crónica.",
+          "Solo se incluyen pacientes con INR estable en rango terapéutico autorizado."
+        ],
+        "correcta": 3,
+        "categorias": ["tema201"],
+        "feedback": "El protocolo exige que el INR esté estabilizado dentro del rango autorizado para cada patología (2–3 o 2,5–3,5), como criterio de inclusión indispensable."
+      },
+      {
+        "enunciado": "En el contexto del seguimiento protocolizado por enfermería, ¿cuál de los siguientes valores de INR está dentro del rango aceptado para pacientes con prótesis valvular mecánica?",
+        "opciones": [
+          "INR de 1,9",
+          "INR de 2,4",
+          "INR de 3,3",
+          "INR de 3,8"
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "Para prótesis valvulares mecánicas el rango terapéutico objetivo es de INR 2,5–3,5. Un valor de 3,3 es adecuado y permite seguimiento estable."
+      },
+      {
+        "enunciado": "En relación con el seguimiento protocolizado del paciente anticoagulado con acenocumarol, indique la opción INCORRECTA:",
+        "opciones": [
+          "Debe existir una derivación médica tras estabilización de la dosis.",
+          "La enfermera puede iniciar el protocolo sin INR estable si el paciente lo solicita.",
+          "Se incluyen pacientes con patología como tromboembolismo venoso.",
+          "El seguimiento se realiza solo con INR en rangos terapéuticos establecidos."
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "La inclusión requiere derivación médica y estabilización del INR. La enfermera no puede iniciar el protocolo por decisión propia ni a petición del paciente."
+      },
+      {
+        "enunciado": "¿Cuál es el rango de INR objetivo en un paciente con fibrilación auricular no valvular en tratamiento con acenocumarol?",
+        "opciones": [
+          "1,5–2,0",
+          "2,0–3,0",
+          "2,5–3,5",
+          "3,0–4,0"
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "En pacientes con fibrilación auricular no valvular, el rango terapéutico de INR es de 2,0–3,0 para una adecuada protección tromboembólica con bajo riesgo hemorrágico."
+      },
+      {
+        "enunciado": "En el seguimiento de un paciente con prótesis valvular mecánica en posición mitral, el INR debe mantenerse preferiblemente en el rango de:",
+        "opciones": [
+          "1,5–2,0",
+          "2,0–3,0",
+          "2,5–3,5",
+          "3,5–4,5"
+        ],
+        "correcta": 2,
+        "categorias": ["tema201"],
+        "feedback": "Para prótesis mecánicas, especialmente en posición mitral, el rango recomendado de INR es 2,5–3,5 por el mayor riesgo trombótico asociado."
+      },
+      {
+        "enunciado": "¿Cuál es el valor de INR objetivo en pacientes con tromboembolismo venoso tratado con warfarina?",
+        "opciones": [
+          "1,5–2,0",
+          "2,0–3,0",
+          "3,0–3,5",
+          "2,5–3,5"
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "En tromboembolismo venoso, el objetivo del tratamiento anticoagulante con antivitamina K es un INR entre 2,0 y 3,0."
+      },
+      {
+        "enunciado": "En un paciente con embolismo sistémico recurrente bajo tratamiento con acenocumarol, el rango de INR buscado será:",
+        "opciones": [
+          "1,8–2,5",
+          "2,0–3,0",
+          "3,0–4,0",
+          "2,5–3,5"
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "El rango terapéutico estándar en casos de embolismo sistémico recurrente tratados con anticoagulantes orales es de 2,0 a 3,0."
+      },
+      {
+        "enunciado": "En un paciente con válvula mecánica y antecedentes de trombosis protésica, ¿cuál es el INR terapéutico objetivo habitual?",
+        "opciones": [
+          "2,0–2,5",
+          "2,5–3,5",
+          "3,0–4,0",
+          "1,5–2,0"
+        ],
+        "correcta": 1,
+        "categorias": ["tema201"],
+        "feedback": "Pacientes con prótesis mecánicas y alto riesgo trombótico (como historia de trombosis valvular) deben mantener un INR entre 2,5–3,5 para prevenir nuevos eventos."
+      }
+      
+
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "enunciado": "¿Cuál es el plazo máximo garantizado para una intervención quirúrgica según el Decreto 209/2016, salvo excepciones?",
+        "opciones": ["90 días", "120 días", "180 días", "60 días"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "El plazo general máximo para intervenciones quirúrgicas en Andalucía es de 180 días."
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo de respuesta garantizado para las primeras consultas de asistencia especializada derivadas desde Atención Primaria?",
+        "opciones": ["30 días", "45 días", "60 días", "90 días"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "El plazo máximo para primeras consultas es de 60 días según la normativa vigente del SSPA."
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo garantizado para la realización de procedimientos diagnósticos en el SSPA?",
+        "opciones": ["30 días", "60 días", "90 días", "15 días"],
+        "correcta": 0,
+        "categorías": ["tema188"],
+        "feedback": "El SSPA garantiza un máximo de 30 días para la realización de procedimientos diagnósticos ambulatorios."
+      },
+      {
+        "enunciado": "¿Cuál es el plazo garantizado para determinadas intervenciones quirúrgicas relacionadas con cirugía cardíaca?",
+        "opciones": ["180 días", "120 días", "90 días", "60 días"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "Determinados procedimientos de cirugía cardíaca tienen un plazo máximo garantizado de 90 días."
+      },
+      {
+        "enunciado": "Las 11 intervenciones quirúrgicas más frecuentes, que incluyen 71 técnicas, tienen un plazo de garantía de:",
+        "opciones": ["180 días", "150 días", "120 días", "90 días"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "Para los 11 procesos quirúrgicos más comunes, el plazo garantizado se reduce a 120 días."
+      },
+      {
+        "enunciado": "En caso de incumplimiento del plazo de garantía para una intervención quirúrgica, el SSPA:",
+        "opciones": ["Realiza la intervención en otro centro público", "Reprograma la intervención sin coste", "Paga los gastos si se realiza en un centro privado", "Ofrece una nueva cita prioritaria"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "El SSPA cubrirá los gastos de la intervención si no se respeta el plazo máximo garantizado."
+      },
+      {
+        "enunciado": "¿Qué plazo se garantiza para intervenciones quirúrgicas de reconstrucción mamaria postmastectomía?",
+        "opciones": ["60 días", "90 días", "120 días", "180 días"],
+        "correcta": 3,
+        "categorías": ["tema188"],
+        "feedback": "Las reconstrucciones mamarias postmastectomía tienen un plazo garantizado de 180 días."
+      },
+      {
+        "enunciado": "En relación con los procedimientos diagnósticos garantizados, ¿desde qué ámbito asistencial pueden solicitarse para que el plazo de garantía sea aplicable?",
+        "opciones": ["Urgencias hospitalarias", "Consulta programada ambulatoria", "Revisiones especializadas", "Atención domiciliaria"],
+        "correcta": 1,
+        "categorías": ["tema188"],
+        "feedback": "Los procedimientos diagnósticos garantizados deben ser solicitados desde consultas ambulatorias programadas."
+      },
+      {
+        "enunciado": "¿Qué tipo de consultas NO están incluidas en el plazo garantizado de 60 días para primeras consultas?",
+        "opciones": ["Consultas programadas derivadas de AP", "Consultas con especialista en hospital comarcal", "Consultas de revisión", "Consultas por sospecha diagnóstica"],
+        "correcta": 2,
+        "categorías": ["tema188"],
+        "feedback": "Las consultas de revisión no están incluidas en el plazo garantizado de 60 días."
+      },
+      {
+        "enunciado": "¿Qué ocurre si un procedimiento diagnóstico no se puede realizar en el plazo de 30 días?",
+        "opciones": ["Se reprograma en otro hospital público", "El paciente tiene derecho a que se le realice en un centro privado sin coste", "Se ofrece una consulta médica alternativa", "El paciente pierde la garantía del procedimiento"],
+        "correcta": 1,
+        "categorías": ["tema188"],
+        "feedback": "Si no se cumple el plazo, el paciente tiene derecho a la realización del procedimiento en un centro privado sin coste."
+      }
+      
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "enunciado": "La NANDA-I se organiza en tres niveles estructurales que son:",
+        "opciones": [
+          "Sistemas, funciones y categorías diagnósticas",
+          "Dominios, subdominios y etiquetas clínicas",
+          "Dominios, clases y diagnósticos",
+          "Áreas temáticas, funciones y necesidades"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La Taxonomía II de NANDA-I se estructura en tres niveles jerárquicos: 13 dominios, 47 clases y 267 diagnósticos (edición 2021–2023)."
+      },
+      {
+        "enunciado": "¿Cuántos dominios contiene la Taxonomía II de NANDA-I según la edición 2021–2023?",
+        "opciones": [
+          "10 dominios",
+          "12 dominios",
+          "13 dominios",
+          "15 dominios"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La estructura de la NANDA-I incluye 13 dominios amplios que agrupan distintas áreas de salud y cuidado enfermero."
+      },
+      {
+        "enunciado": "En la edición 2021–2023 de la NANDA-I, el número total de diagnósticos enfermeros aprobados es de:",
+        "opciones": [
+          "267 diagnósticos",
+          "253 diagnósticos",
+          "275 diagnósticos",
+          "261 diagnósticos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "La edición 2021–2023 de NANDA-I incluye un total de 267 diagnósticos enfermeros aprobados para su uso clínico."
+      },
+      {
+        "enunciado": "¿Cuántas clases contiene la Taxonomía II de NANDA-I en su 13ª edición (2021–2023)?",
+        "opciones": [
+          "39 clases",
+          "44 clases",
+          "47 clases",
+          "51 clases"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La NANDA-I incluye 47 clases dentro de sus 13 dominios, que agrupan de forma específica los 267 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "La estructura de la NANDA-I incluye:",
+        "opciones": [
+          "12 dominios, 39 clases y 253 diagnósticos",
+          "13 dominios, 47 clases y 267 diagnósticos",
+          "15 dominios, 51 clases y 275 diagnósticos",
+          "13 dominios, 44 clases y 261 diagnósticos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La Taxonomía II de NANDA-I (2021–2023) se compone de 13 dominios, 47 clases y 267 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "Los diagnósticos enfermeros incluidos en la NANDA-I (2021–2023) están organizados para:",
+        "opciones": [
+          "Facilitar la prescripción médica automatizada.",
+          "Estandarizar el lenguaje clínico enfermero y guiar la planificación del cuidado.",
+          "Clasificar a los pacientes por especialidad médica.",
+          "Simplificar el informe de alta hospitalario."
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "Los diagnósticos enfermeros de NANDA-I están diseñados para estandarizar el lenguaje enfermero y mejorar la planificación individualizada del cuidado."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la NANDA-I es correcta?",
+        "opciones": [
+          "Cada dominio contiene un único diagnóstico.",
+          "La clasificación incluye diagnósticos exclusivamente fisiológicos.",
+          "Los diagnósticos se agrupan jerárquicamente en dominios y clases.",
+          "El número de diagnósticos permanece constante en cada edición."
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "Los diagnósticos de NANDA-I se organizan jerárquicamente en 13 dominios y 47 clases, abarcando aspectos fisiológicos, psicológicos y sociales del cuidado."
+      },
+      {
+        "enunciado": "La NANDA-I se actualiza periódicamente con el fin de:",
+        "opciones": [
+          "Reducir el número de diagnósticos por simplicidad.",
+          "Alinear sus diagnósticos con los tratamientos médicos más comunes.",
+          "Incorporar evidencia actual y responder a nuevas necesidades de cuidado.",
+          "Ajustar los diagnósticos al presupuesto sanitario vigente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "NANDA-I se actualiza para incorporar nuevos conocimientos científicos y adaptar el lenguaje diagnóstico a las necesidades emergentes en la práctica enfermera."
+      },
+      {
+        "enunciado": "Los dominios de la NANDA-I incluyen áreas como:",
+        "opciones": [
+          "Nutrición, eliminación, percepción/cognición, coping/tolerancia al estrés",
+          "Diagnóstico médico, farmacología, fisioterapia y cirugía",
+          "Cardiología, endocrinología, inmunología y neurología",
+          "Síntomas, síndromes y signos clínicos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "Los dominios de la NANDA-I agrupan grandes áreas de salud, como nutrición, percepción/cognición y coping, permitiendo una clasificación amplia de los diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "¿Qué afirmación refleja correctamente la jerarquía en la Taxonomía II de NANDA-I?",
+        "opciones": [
+          "Diagnósticos → Dominios → Clases",
+          "Clases → Diagnósticos → Dominios",
+          "Dominios → Clases → Diagnósticos",
+          "Diagnósticos → Clases → Categorías"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La estructura jerárquica de NANDA-I va de lo más general a lo más específico: Dominios → Clases → Diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "La NANDA-I se estructura en tres niveles jerárquicos que son:",
+        "opciones": [
+          "Sistemas, funciones y diagnósticos clínicos",
+          "Dominios, clases y diagnósticos",
+          "Categorías, componentes y etiquetas diagnósticas",
+          "Ámbitos, dimensiones y criterios clínicos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La Taxonomía II de NANDA-I (edición 2021–2023) se organiza en 13 dominios, 48 clases y 277 diagnósticos de enfermería."
+      },
+      {
+        "enunciado": "¿Cuántos dominios componen la Taxonomía II de la NANDA-I?",
+        "opciones": [
+          "12 dominios",
+          "13 dominios",
+          "14 dominios",
+          "15 dominios"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La Taxonomía II de NANDA-I incluye 13 dominios que agrupan grandes áreas del cuidado enfermero."
+      },
+      {
+        "enunciado": "¿Cuántas clases están definidas en la Taxonomía II de NANDA-I en su edición 2021–2023?",
+        "opciones": [
+          "47 clases",
+          "48 clases",
+          "49 clases",
+          "50 clases"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La estructura actual de NANDA-I comprende 48 clases dentro de sus 13 dominios."
+      },
+      {
+        "enunciado": "¿Cuál es el número total de diagnósticos enfermeros aprobados en la edición 2021–2023 de NANDA-I?",
+        "opciones": [
+          "267 diagnósticos",
+          "273 diagnósticos",
+          "277 diagnósticos",
+          "280 diagnósticos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La 13ª edición de NANDA-I (2021–2023) contiene un total de 277 diagnósticos de enfermería aprobados."
+      },
+      {
+        "enunciado": "La estructura jerárquica de NANDA-I sigue el orden de:",
+        "opciones": [
+          "Diagnósticos → Clases → Dominios",
+          "Clases → Diagnósticos → Dominios",
+          "Dominios → Clases → Diagnósticos",
+          "Diagnósticos → Categorías → Áreas"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La organización jerárquica de NANDA-I comienza con los 13 dominios, que se subdividen en 48 clases, dentro de las cuales se agrupan los 277 diagnósticos."
+      },
+      {
+        "enunciado": "Los diagnósticos enfermeros NANDA-I están diseñados para:",
+        "opciones": [
+          "Clasificar enfermedades según órganos y sistemas.",
+          "Guiar intervenciones médicas en atención primaria.",
+          "Estandarizar el lenguaje enfermero y mejorar el proceso de cuidados.",
+          "Reemplazar el juicio clínico profesional por plantillas automatizadas."
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "NANDA-I proporciona un lenguaje estandarizado que facilita la evaluación, planificación y comunicación del cuidado enfermero."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa correctamente la estructura de la NANDA-I (2021–2023)?",
+        "opciones": [
+          "13 dominios, 48 clases y 277 diagnósticos",
+          "12 dominios, 47 clases y 267 diagnósticos",
+          "14 dominios, 50 clases y 280 diagnósticos",
+          "13 dominios, 49 clases y 275 diagnósticos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "La estructura oficial de la 13ª edición de NANDA-I incluye 13 dominios, 48 clases y 277 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "Los dominios en la NANDA-I agrupan:",
+        "opciones": [
+          "Conjuntos de intervenciones médicas.",
+          "Problemas clínicos exclusivos del entorno hospitalario.",
+          "Áreas amplias del funcionamiento humano relacionadas con el cuidado enfermero.",
+          "Factores de riesgo genético exclusivamente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "Los dominios representan grandes áreas de la salud como nutrición, eliminación o coping, dentro de la clasificación de NANDA-I."
+      },
+      {
+        "enunciado": "¿Cuál es el objetivo principal de clasificar los diagnósticos enfermeros en dominios y clases?",
+        "opciones": [
+          "Reducir el número de planes de cuidados posibles.",
+          "Facilitar la codificación para la facturación sanitaria.",
+          "Organizar el conocimiento enfermero para la práctica clínica y la investigación.",
+          "Cumplir con normativas de salud pública internacional."
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La clasificación jerárquica de NANDA-I permite estructurar el pensamiento clínico enfermero y facilitar su aplicación práctica y científica."
+      },
+      {
+        "enunciado": "Un diagnóstico como 'Riesgo de caídas' se ubica en la estructura de NANDA-I dentro de:",
+        "opciones": [
+          "Un dominio, una clase y un diagnóstico.",
+          "Una categoría, un componente y un descriptor.",
+          "Una dimensión, un patrón y un resultado.",
+          "Una especialidad, una unidad funcional y un riesgo clínico."
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "Cada diagnóstico NANDA-I se clasifica dentro de un dominio y una clase. Por ejemplo, 'Riesgo de caídas' pertenece al dominio 11 (Seguridad/protección)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa correctamente la estructura de la NANDA-I (2021–2023)?",
+        "opciones": [
+          "13 dominios, 48 clases y 277 diagnósticos",
+          "12 dominios, 47 clases y 267 diagnósticos",
+          "14 dominios, 50 clases y 280 diagnósticos",
+          "13 dominios, 49 clases y 275 diagnósticos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "La estructura oficial de la 13ª edición de NANDA-I incluye 13 dominios, 48 clases y 277 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa correctamente la estructura de la NANDA-I (2021–2023)?",
+        "opciones": [
+          "13 dominios, 48 clases y 277 diagnósticos",
+          "12 dominios, 47 clases y 267 diagnósticos",
+          "14 dominios, 50 clases y 280 diagnósticos",
+          "13 dominios, 49 clases y 275 diagnósticos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "La estructura oficial de la 13ª edición de NANDA-I incluye 13 dominios, 48 clases y 277 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa correctamente la estructura de la NANDA-I (2021–2023)?",
+        "opciones": [
+          "13 dominios, 48 clases y 277 diagnósticos",
+          "12 dominios, 47 clases y 267 diagnósticos",
+          "14 dominios, 50 clases y 280 diagnósticos",
+          "13 dominios, 49 clases y 275 diagnósticos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema196"],
+        "feedback": "La estructura oficial de la 13ª edición de NANDA-I incluye 13 dominios, 48 clases y 277 diagnósticos enfermeros."
+      },
+      {
+        "enunciado": "¿Cuál es la edición más reciente publicada de la Taxonomía NANDA-I?",
+        "opciones": [
+          "12ª edición",
+          "13ª edición",
+          "11ª edición",
+          "10ª edición"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La edición más reciente de la NANDA-I es la 13ª. Contiene 13 dominios, 48 clases y 277 diagnósticos enfermeros aprobados."
+      },
+      {
+        "enunciado": "¿Cuál es la edición más reciente publicada de la Taxonomía NANDA-I?",
+        "opciones": [
+          "12ª edición",
+          "13ª edición",
+          "11ª edición",
+          "10ª edición"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La edición más reciente de la NANDA-I es la 13ª. Contiene 13 dominios, 48 clases y 277 diagnósticos enfermeros aprobados."
+      },
+      {
+        "enunciado": "¿Cuál es la edición más reciente publicada de la Taxonomía NANDA-I?",
+        "opciones": [
+          "12ª edición",
+          "13ª edición",
+          "11ª edición",
+          "10ª edición"
+        ],
+        "correcta": 1,
+        "categorias": ["tema196"],
+        "feedback": "La edición más reciente de la NANDA-I es la 13ª. Contiene 13 dominios, 48 clases y 277 diagnósticos enfermeros aprobados."
+      },
+      {
+        "enunciado": "La versión más actualizada de la Taxonomía NANDA-I corresponde a:",
+        "opciones": [
+          "La 12ª edición (2021–2026)",
+          "La 10ª edición, centrada en diagnósticos comunitarios",
+          "La 13ª edición, con 277 diagnósticos validados",
+          "La 11ª edición, con 275 diagnósticos en total"
+        ],
+        "correcta": 2,
+        "categorias": ["tema196"],
+        "feedback": "La 13ª edición de la NANDA-I es la más reciente e incluye 277 diagnósticos, organizados en 13 dominios y 48 clases."
+      }
+      
+      
+]
