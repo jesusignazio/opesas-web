@@ -1,0 +1,99 @@
+[
+    {
+  "enunciado": "La gestión clínica de un centro sanitario se denomina:",
+  "opciones": ["Mesogestión", "Microgestión", "Macrogestión", "Gestión por procesos"],
+  "correcta": 1,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La microgestión hace referencia al nivel operativo, incluyendo la gestión clínica directa, como la que se realiza en un centro de salud o por parte de un equipo asistencial concreto."
+},
+{
+  "enunciado": "¿Cuál de los siguientes niveles de gestión sanitaria está más relacionado con las decisiones políticas y planificación del sistema de salud a nivel nacional?",
+  "opciones": ["Microgestión", "Gestión por procesos", "Macrogestión", "Mesogestión"],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La macrogestión corresponde al nivel más alto, como el Ministerio de Sanidad o Consejerías de Salud, y se encarga de definir políticas, normas y presupuestos."
+},
+{
+  "enunciado": "¿A qué nivel de gestión sanitaria corresponde la organización y coordinación de varios centros o áreas de salud dentro de una comunidad autónoma?",
+  "opciones": ["Microgestión", "Macrogestión", "Mesogestión", "Gestión técnica"],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La mesogestión abarca estructuras intermedias, como distritos sanitarios, hospitales de área o servicios provinciales, responsables de coordinar varios centros."
+},
+{
+  "enunciado": "El modelo de gestión que se enfoca en la mejora continua mediante la identificación, análisis y rediseño de los flujos asistenciales se denomina:",
+  "opciones": ["Gestión presupuestaria", "Gestión por procesos", "Macrogestión", "Gestión por resultados"],
+  "correcta": 1,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La gestión por procesos optimiza los flujos de trabajo y servicios asistenciales desde una perspectiva transversal, centrada en el paciente y en los resultados clínicos."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones define mejor la microgestión en el contexto sanitario?",
+  "opciones": [
+    "Planificación y financiación del sistema nacional de salud.",
+    "Coordinación regional de centros de atención primaria y hospitales.",
+    "Gestión operativa y clínica de unidades o centros concretos.",
+    "Evaluación externa de servicios sanitarios por organismos independientes."
+  ],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La microgestión se centra en la ejecución clínica directa y el funcionamiento diario de unidades, centros de salud u hospitales a pequeña escala."
+},
+{
+  "enunciado": "¿Cuál de los siguientes ejemplos corresponde a un ámbito propio de la microgestión sanitaria?",
+  "opciones": [
+    "Diseño de políticas nacionales de salud pública",
+    "Coordinación de recursos entre varias áreas sanitarias",
+    "Gestión de una consulta de atención primaria",
+    "Aprobación de presupuestos sanitarios autonómicos"
+  ],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La gestión clínica directa, como la de una consulta o unidad, se enmarca dentro de la microgestión, centrada en el nivel operativo asistencial."
+},
+{
+  "enunciado": "¿Qué nivel de gestión se enfoca en la actividad asistencial diaria de los profesionales sanitarios?",
+  "opciones": ["Macrogestión", "Microgestión", "Gestión por objetivos", "Mesogestión"],
+  "correcta": 1,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La microgestión implica la toma de decisiones en la práctica clínica diaria, a nivel individual o de equipo profesional."
+},
+{
+  "enunciado": "La microgestión incluye actividades como:",
+  "opciones": [
+    "Elaboración del plan estratégico del sistema sanitario",
+    "Asignación presupuestaria por parte del gobierno autonómico",
+    "Coordinación de unidades de hospitalización y consultas externas",
+    "Supervisión de un programa nacional de cribado"
+  ],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La coordinación de actividades asistenciales dentro de un centro es un claro ejemplo de microgestión, que se centra en mejorar resultados a nivel clínico."
+},
+{
+  "enunciado": "¿Qué diferencia principal existe entre la microgestión y la mesogestión en el ámbito sanitario?",
+  "opciones": [
+    "La microgestión se orienta a la investigación clínica y la mesogestión a la prevención",
+    "La mesogestión es de ámbito nacional y la microgestión local",
+    "La microgestión se aplica a equipos y unidades; la mesogestión a áreas de salud o distritos",
+    "Ambas son equivalentes y se usan indistintamente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La microgestión opera a nivel de centros o equipos clínicos; la mesogestión articula y coordina estructuras intermedias como distritos o áreas sanitarias."
+},
+{
+  "enunciado": "¿Con qué otro modelo de gestión se complementa frecuentemente la microgestión clínica para garantizar la eficiencia y continuidad asistencial?",
+  "opciones": [
+    "Gestión hospitalaria",
+    "Gestión por procesos",
+    "Macrogestión estratégica",
+    "Evaluación de impacto presupuestario"
+  ],
+  "correcta": 1,
+  "categorías": ["tema232", "gestion_sanitaria"],
+  "feedback": "La gestión por procesos complementa la microgestión al centrarse en la organización transversal del trabajo asistencial, favoreciendo la eficiencia y mejora continua."
+}
+
+
+]

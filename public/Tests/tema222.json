@@ -1,0 +1,63 @@
+[
+    {
+  "enunciado": "¿Qué trastorno se caracteriza por una obsesión patológica por aumentar la masa muscular, acompañado de una imagen corporal distorsionada?",
+  "opciones": [
+    "Bulimia nerviosa",
+    "Ortorexia",
+    "Anorexia nerviosa",
+    "Vigorexia"
+  ],
+  "correcta": 3,
+  "categorías": ["tema222", "trastornos_alimentarios"],
+  "feedback": "La vigorexia es un trastorno dismórfico muscular caracterizado por una obsesión por desarrollar masa muscular y una imagen corporal distorsionada, común en personas que se perciben más delgadas de lo que son."
+},
+{
+  "enunciado": "¿Cuál de los siguientes trastornos se caracteriza por una preocupación excesiva por consumir únicamente alimentos considerados saludables?",
+  "opciones": [
+    "Vigorexia",
+    "Ortorexia",
+    "Bulimia",
+    "Anorexia"
+  ],
+  "correcta": 1,
+  "categorías": ["tema222", "trastornos_alimentarios"],
+  "feedback": "La ortorexia es la obsesión patológica por comer sano, lo que puede llevar a restricciones alimentarias extremas y problemas nutricionales."
+},
+{
+  "enunciado": "¿Qué trastorno alimentario se asocia a episodios de atracones seguidos de conductas compensatorias como el vómito inducido o el uso de laxantes?",
+  "opciones": [
+    "Anorexia nerviosa",
+    "Ortorexia",
+    "Bulimia nerviosa",
+    "Vigorexia"
+  ],
+  "correcta": 2,
+  "categorías": ["tema222", "trastornos_alimentarios"],
+  "feedback": "La bulimia nerviosa se caracteriza por episodios de ingesta excesiva seguidos de métodos compensatorios como el vómito, el ayuno o el uso de laxantes."
+},
+{
+  "enunciado": "¿Qué trastorno implica un rechazo a mantener un peso corporal mínimo normal, junto con un intenso miedo a engordar y una alteración de la imagen corporal?",
+  "opciones": [
+    "Bulimia",
+    "Anorexia nerviosa",
+    "Vigorexia",
+    "Ortorexia"
+  ],
+  "correcta": 1,
+  "categorías": ["tema222", "trastornos_alimentarios"],
+  "feedback": "La anorexia nerviosa implica una restricción severa de la ingesta calórica, un miedo intenso a ganar peso y una percepción distorsionada del cuerpo."
+},
+{
+  "enunciado": "¿Qué término se refiere a una obsesión no reconocida oficialmente en manuales diagnósticos, pero que implica compulsión por la alimentación 'pura' o 'natural'?",
+  "opciones": [
+    "Vigorexia",
+    "Ortorexia",
+    "Anorexia",
+    "Pica"
+  ],
+  "correcta": 1,
+  "categorías": ["tema222", "trastornos_alimentarios"],
+  "feedback": "La ortorexia no está formalmente reconocida en el DSM-5, pero describe una obsesión por comer sano, a menudo excluyendo alimentos considerados 'impuros', lo que puede afectar negativamente la salud."
+}
+
+]

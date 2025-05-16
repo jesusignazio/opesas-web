@@ -1,0 +1,124 @@
+[
+    {
+  "enunciado": "¿Cuál de los siguientes principios éticos se relaciona directamente con la necesidad de obtener el consentimiento informado?",
+  "opciones": [
+    "Justicia",
+    "Beneficencia",
+    "Autonomía",
+    "No maleficencia"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado"],
+  "feedback": "El principio de autonomía reconoce el derecho del paciente a tomar decisiones sobre su salud. El consentimiento informado garantiza el ejercicio de esta autonomía."
+},
+{
+  "enunciado": "Según la legislación española, ¿en qué situación no es obligatorio el consentimiento informado por escrito?",
+  "opciones": [
+    "Intervenciones quirúrgicas",
+    "Actos diagnósticos invasivos",
+    "Pruebas médicas rutinarias sin riesgo significativo",
+    "Procedimientos que suponen riesgos notorios para la salud del paciente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado"],
+  "feedback": "El consentimiento verbal es suficiente en actuaciones sin riesgos relevantes. El escrito se exige en procedimientos invasivos, quirúrgicos o con riesgo conocido."
+},
+{
+  "enunciado": "En caso de urgencia vital en la que el paciente no pueda expresar su voluntad y no haya familiares presentes, ¿cómo debe proceder el personal sanitario?",
+  "opciones": [
+    "Esperar a localizar a un familiar antes de intervenir",
+    "Solicitar la autorización judicial de urgencia",
+    "Actuar sin consentimiento, priorizando la atención inmediata",
+    "Cancelar la intervención hasta poder informar al paciente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado"],
+  "feedback": "En situaciones de urgencia vital, se puede intervenir sin consentimiento previo para proteger la vida o la salud del paciente (Ley 41/2002)."
+},
+{
+  "enunciado": "¿Cuál de los siguientes contenidos NO es obligatorio incluir al informar al paciente para obtener su consentimiento informado?",
+  "opciones": [
+    "Los riesgos relevantes del procedimiento",
+    "Las alternativas terapéuticas disponibles",
+    "La identidad del profesional que lo va a realizar",
+    "La estimación exacta del coste económico del tratamiento"
+  ],
+  "correcta": 3,
+  "categorías": ["tema230", "consentimiento_informado"],
+  "feedback": "La información debe incluir diagnóstico, procedimiento, riesgos relevantes, alternativas y consecuencias. No es obligatorio informar del coste salvo en contextos específicos."
+},
+{
+  "enunciado": "¿A partir de qué edad puede un menor prestar por sí mismo consentimiento informado en el ámbito sanitario, según la Ley 41/2002?",
+  "opciones": [
+    "16 años, salvo excepciones",
+    "18 años en todos los casos",
+    "14 años con autorización paterna",
+    "12 años siempre que lo entienda"
+  ],
+  "correcta": 0,
+  "categorías": ["tema230", "consentimiento_informado"],
+  "feedback": "Según la Ley 41/2002, los mayores de 16 años pueden consentir por sí mismos, salvo en supuestos excepcionales como intervenciones de alto riesgo o interrupción del embarazo."
+},
+{
+  "enunciado": "En caso de un paciente con capacidad judicialmente modificada que no puede comprender la información sanitaria, ¿quién debe otorgar el consentimiento informado?",
+  "opciones": [
+    "El paciente siempre, con ayuda de un tutor",
+    "El profesional sanitario responsable",
+    "Su representante legal o tutor designado",
+    "El comité de ética asistencial del centro"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado", "incapacidad"],
+  "feedback": "Cuando un paciente tiene la capacidad legal modificada y no puede comprender, el consentimiento lo otorga su representante legal, conforme al artículo 9.3 de la Ley 41/2002."
+},
+{
+  "enunciado": "Un menor de 15 años necesita someterse a una intervención quirúrgica programada. ¿Cuál de las siguientes afirmaciones es correcta?",
+  "opciones": [
+    "Debe firmar el consentimiento el menor exclusivamente",
+    "Los progenitores deben dar consentimiento, y se debe escuchar al menor si tiene madurez suficiente",
+    "El consentimiento lo otorga el tutor legal del hospital",
+    "La intervención debe aplazarse hasta que el menor cumpla los 16 años"
+  ],
+  "correcta": 1,
+  "categorías": ["tema230", "consentimiento_informado", "menores"],
+  "feedback": "En menores de edad, el consentimiento lo otorgan sus representantes legales. Se debe tener en cuenta la opinión del menor si tiene suficiente madurez (Ley 41/2002 y Ley de Autonomía del Paciente)."
+},
+{
+  "enunciado": "¿Qué ocurre si un paciente adulto, competente y plenamente informado, decide rechazar un tratamiento que le salvaría la vida?",
+  "opciones": [
+    "Debe intervenir el comité de ética para autorizar el tratamiento",
+    "El profesional puede aplicar el tratamiento en contra de su voluntad",
+    "Debe respetarse su autonomía, documentando la negativa por escrito",
+    "El consentimiento se considera tácito en situaciones graves"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado", "rechazo_tratamiento"],
+  "feedback": "Si el paciente es competente y plenamente informado, tiene derecho a rechazar el tratamiento. El rechazo debe documentarse en la historia clínica y firmarse si es posible."
+},
+{
+  "enunciado": "En una situación de urgencia vital, donde no hay posibilidad de consultar con familiares ni representantes legales, el consentimiento informado:",
+  "opciones": [
+    "Debe solicitarse al juzgado de guardia",
+    "Puede omitirse si la intervención es imprescindible",
+    "Debe firmarlo el profesional de enfermería",
+    "Se sustituye por el consentimiento tácito del paciente"
+  ],
+  "correcta": 1,
+  "categorías": ["tema230", "consentimiento_informado", "urgencias"],
+  "feedback": "En casos de urgencia vital en los que no puede obtenerse el consentimiento, el profesional puede actuar conforme al principio de necesidad terapéutica para salvar la vida o evitar daños graves."
+},
+{
+  "enunciado": "Una paciente de 17 años solicita someterse a un procedimiento de planificación familiar. ¿Qué establece la ley sobre su capacidad para otorgar consentimiento informado?",
+  "opciones": [
+    "No puede consentir sin autorización de sus padres",
+    "Debe firmar el consentimiento el tutor legal del centro",
+    "Puede consentir por sí misma al tener más de 16 años",
+    "Debe realizarse un informe psicológico previo"
+  ],
+  "correcta": 2,
+  "categorías": ["tema230", "consentimiento_informado", "menores"],
+  "feedback": "Según la Ley 41/2002, los mayores de 16 años tienen capacidad para otorgar consentimiento informado en actos sanitarios, salvo en casos específicamente excluidos (como interrupción voluntaria del embarazo si hay conflicto familiar grave)."
+}
+
+
+]

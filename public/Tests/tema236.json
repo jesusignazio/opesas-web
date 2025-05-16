@@ -1,0 +1,147 @@
+[
+    {
+  "enunciado": "¿Cuál de las siguientes situaciones justifica repetir la prueba del talón en un recién nacido, según los criterios clínicos establecidos?",
+  "opciones": [
+    "Nacimiento a las 38 semanas y 2.800 g de peso",
+    "Transfusión de hematíes a las 24 horas de vida",
+    "Administración de vitamina K intramuscular",
+    "Apgar bajo al nacer, sin complicaciones posteriores"
+  ],
+  "correcta": 1,
+  "categorías": ["tema236"],
+  "feedback": "Las transfusiones de hematíes obligan a repetir la prueba a los 120 días de la última transfusión, por posible interferencia en los resultados."
+},
+{
+  "enunciado": "Un recién nacido ha recibido una transfusión de plasma a las 36 horas de vida. ¿Cuándo debe repetirse la prueba del talón?",
+  "opciones": [
+    "A los 15 días de vida",
+    "A los 120 días de la transfusión",
+    "A las 72 horas de la última transfusión",
+    "No es necesario repetirla si se administró antes de las 48 horas"
+  ],
+  "correcta": 2,
+  "categorías": ["tema236"],
+  "feedback": "Las transfusiones de plasma requieren repetir la prueba del talón a las 72 horas de la última transfusión para garantizar validez diagnóstica."
+},
+{
+  "enunciado": "¿Cuál de los siguientes recién nacidos debe repetir la prueba del talón dos veces: a los 15 días y al alta hospitalaria?",
+  "opciones": [
+    "Recién nacido con peso < 2.500 g",
+    "Recién nacido de 36 semanas de gestación",
+    "Gran prematuro (< 31 semanas)",
+    "RN que ha recibido alimentación mixta en las primeras 48 h"
+  ],
+  "correcta": 2,
+  "categorías": ["tema236"],
+  "feedback": "Los grandes prematuros (<31 semanas) y RN con peso <1.500 g deben repetir la prueba tanto a los 15 días como al alta hospitalaria."
+},
+{
+  "enunciado": "Un recién nacido se encuentra en nutrición parenteral y dieta absoluta a las 48 h de vida. ¿Cuándo debe repetirse la prueba del talón?",
+  "opciones": [
+    "A las 24 h de iniciar alimentación oral",
+    "A las 48 h de iniciar alimentación materna o artificial",
+    "A los 15 días de vida",
+    "No se repite si el estado clínico mejora"
+  ],
+  "correcta": 1,
+  "categorías": ["tema236"],
+  "feedback": "En casos de dieta absoluta, se repite la prueba a las 48 horas desde el inicio de alimentación materna, artificial o mixta."
+},
+{
+  "enunciado": "¿Cuál de las siguientes situaciones NO implica necesariamente repetir la prueba del talón?",
+  "opciones": [
+    "Parto múltiple",
+    "Edad gestacional de 36 semanas",
+    "Peso de 2.700 g",
+    "Resultado dudoso en la muestra inicial"
+  ],
+  "correcta": 2,
+  "categorías": ["tema236"],
+  "feedback": "El peso <2.500 g obliga a repetir la prueba. Un peso de 2.700 g no es criterio por sí solo para repetirla si el resto de parámetros son normales."
+},
+{
+  "enunciado": "¿En qué situación el laboratorio puede solicitar la repetición de la prueba del talón sin que existan factores clínicos de riesgo?",
+  "opciones": [
+    "Resultado dudoso en primera muestra",
+    "Edad gestacional superior a 38 semanas",
+    "RN hijo de madre con diabetes gestacional controlada",
+    "Muestra obtenida tras las 72 horas de vida"
+  ],
+  "correcta": 0,
+  "categorías": ["tema236"],
+  "feedback": "El laboratorio de referencia puede solicitar la repetición en caso de resultado dudoso, incluso si no existen factores clínicos añadidos."
+},
+{
+  "enunciado": "En un RN de 2.300 g, sin antecedentes clínicos de riesgo, ¿cuándo debe repetirse la prueba del talón?",
+  "opciones": [
+    "A los 15 días de vida",
+    "No es necesario repetirla",
+    "A los 7 días de vida",
+    "A las 48 horas de iniciar alimentación oral"
+  ],
+  "correcta": 0,
+  "categorías": ["tema236"],
+  "feedback": "Todo RN con peso <2.500 g requiere una segunda prueba a los 15 días, por posible interferencia en los resultados iniciales."
+},
+{
+  "enunciado": "En un recién nacido con 36 semanas de gestación y 2.400 g de peso, ¿cuál es la indicación respecto a la prueba del talón?",
+  "opciones": [
+    "Se repite a las 72 horas de vida",
+    "No es necesario repetirla si la primera muestra es válida",
+    "Debe repetirse a los 15 días de vida",
+    "Se repite a los 120 días del nacimiento"
+  ],
+  "correcta": 2,
+  "categorías": ["tema236"],
+  "feedback": "Tanto la prematuridad (<37 semanas) como el bajo peso (<2.500 g) son indicaciones para repetir la prueba del talón a los 15 días de vida."
+},
+{
+  "enunciado": "Un lactante recibió transfusión de hematíes al segundo día de vida. ¿Cuándo debe repetirse la prueba del talón según protocolo?",
+  "opciones": [
+    "A las 72 horas de la transfusión",
+    "A los 15 días de vida",
+    "A los 120 días de la transfusión",
+    "A los 30 días del alta hospitalaria"
+  ],
+  "correcta": 2,
+  "categorías": ["tema236"],
+  "feedback": "Las transfusiones de hematíes requieren repetir el cribado a los 120 días para evitar falsos negativos por interferencia en los biomarcadores."
+},
+{
+  "enunciado": "¿Cuál de los siguientes criterios obliga a repetir la prueba del talón al alta hospitalaria además de a los 15 días de vida?",
+  "opciones": [
+    "Recién nacido de parto múltiple",
+    "Peso inferior a 2.500 g",
+    "Edad gestacional de 36 semanas",
+    "Gran prematuridad (<31 semanas)"
+  ],
+  "correcta": 3,
+  "categorías": ["tema236"],
+  "feedback": "Los grandes prematuros (<31 semanas) requieren repetición doble: a los 15 días y también al alta hospitalaria, dada su vulnerabilidad metabólica."
+},
+{
+  "enunciado": "Un RN permanece en nutrición parenteral exclusiva durante sus primeras 48 h de vida. ¿Cuándo se repite la prueba del talón?",
+  "opciones": [
+    "A los 15 días",
+    "A las 48 h de haber iniciado la alimentación enteral",
+    "A los 30 días de vida",
+    "No se repite si hay alimentación artificial antes del alta"
+  ],
+  "correcta": 1,
+  "categorías": ["tema236"],
+  "feedback": "La prueba debe repetirse a las 48 h tras iniciar alimentación materna, artificial o mixta, ya que la nutrición parenteral puede alterar el resultado."
+},
+{
+  "enunciado": "¿Cuál de las siguientes situaciones exige repetir la prueba por causas técnicas más que clínicas?",
+  "opciones": [
+    "Resultado dudoso en la primera muestra",
+    "Peso al nacer inferior a 2.700 g",
+    "Alimentación artificial desde el nacimiento",
+    "Edad gestacional superior a 38 semanas"
+  ],
+  "correcta": 0,
+  "categorías": ["tema236"],
+  "feedback": "El laboratorio puede pedir una repetición si el resultado inicial es dudoso, independientemente del estado clínico del recién nacido."
+}
+
+]

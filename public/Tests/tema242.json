@@ -1,0 +1,243 @@
+[
+  {
+    "enunciado": "Según el SAS, ¿cuál es la anticoncepción de urgencia recomendada si la relación sexual de riesgo ocurrió hace menos de 72 horas y no hay contraindicaciones?",
+    "opciones": [
+      "Acetato de ulipristal 30 mg",
+      "Etinilestradiol + levonorgestrel",
+      "Levonorgestrel 1,5 mg en dosis única",
+      "Ninguna, solo vigilancia del ciclo"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Levonorgestrel 1,5 mg en dosis única es la pauta recomendada si la relación fue en las últimas 72 horas, con mayor eficacia cuanto antes se administre."
+  },
+  {
+    "enunciado": "¿Qué anticonceptivo de urgencia se recomienda si han pasado entre 72 y 120 horas desde la relación sexual de riesgo?",
+    "opciones": [
+      "Levonorgestrel",
+      "Acetato de ulipristal",
+      "Etinilestradiol",
+      "Ninguno, ya no es útil ningún anticonceptivo"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "El acetato de ulipristal 30 mg en dosis única es eficaz hasta 120 horas (5 días) tras el coito sin protección."
+  },
+  {
+    "enunciado": "¿Cuál es la eficacia aproximada del levonorgestrel si se toma en las primeras 24 horas tras la relación sexual sin protección?",
+    "opciones": [
+      "58%",
+      "72%",
+      "90%",
+      "95%"
+    ],
+    "correcta": 3,
+    "categorías": ["tema242"],
+    "feedback": "La eficacia del levonorgestrel en las primeras 24 horas alcanza el 95%, reduciéndose progresivamente con el tiempo."
+  },
+  {
+    "enunciado": "¿Cuál es la eficacia aproximada del levonorgestrel si se administra entre las 49 y 72 horas tras la relación sexual de riesgo?",
+    "opciones": [
+      "95%",
+      "85%",
+      "58%",
+      "25%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Entre las 49 y 72 horas, la eficacia del levonorgestrel disminuye hasta aproximadamente un 58%."
+  },
+  {
+    "enunciado": "Si una mujer vomita dentro de las 3 horas posteriores a la toma de PAU, ¿qué se debe hacer?",
+    "opciones": [
+      "Tomar una nueva dosis lo antes posible",
+      "Esperar al próximo ciclo y no hacer nada",
+      "Iniciar tratamiento anticonceptivo hormonal regular",
+      "Tomar un antiemético y repetir la dosis en 24 horas"
+    ],
+    "correcta": 0,
+    "categorías": ["tema242"],
+    "feedback": "Si hay vómitos antes de 3 horas, debe repetirse la dosis de PAU porque podría no haberse absorbido correctamente."
+  },
+  {
+    "enunciado": "¿Qué hacer si los vómitos aparecen más allá de las 3 horas tras la toma de PAU?",
+    "opciones": [
+      "Tomar otra dosis",
+      "No hacer nada, la absorción ya se habrá producido",
+      "Tomar un antiemético",
+      "Iniciar el ciclo anticonceptivo hormonal habitual"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "Si los vómitos aparecen pasadas 3 horas desde la ingesta, no es necesario repetir la dosis, ya que se considera que el fármaco ha sido absorbido."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes efectos adversos es común tras la toma de anticoncepción de urgencia con levonorgestrel?",
+    "opciones": [
+      "Fiebre alta",
+      "Alteraciones del ritmo cardiaco",
+      "Náuseas y cefalea",
+      "Hipo persistente"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Náuseas, cefalea y alteraciones menstruales son efectos adversos frecuentes tras la toma de levonorgestrel."
+  },
+  {
+    "enunciado": "¿Qué debe indicarse a la mujer tras tomar la PAU?",
+    "opciones": [
+      "No mantener relaciones sexuales en los próximos 10 días",
+      "Utilizar método de barrera hasta el siguiente ciclo menstrual",
+      "No tomar anticonceptivos hormonales hasta el próximo ciclo",
+      "Evitar el ejercicio físico y la exposición solar directa"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "Se debe utilizar un método de barrera (como el preservativo) hasta que se inicie un nuevo ciclo menstrual."
+  },
+  {
+    "enunciado": "¿Qué afirmación es correcta respecto al uso repetido de anticoncepción de urgencia?",
+    "opciones": [
+      "Puede utilizarse como método anticonceptivo habitual",
+      "No tiene efectos sobre el ciclo menstrual",
+      "No es recomendable como método habitual por sus efectos sobre el ciclo",
+      "Es más eficaz si se combina con anticonceptivos hormonales"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "No se recomienda su uso repetido como método habitual por posibles alteraciones menstruales. Debe usarse ocasionalmente."
+  },
+  {
+    "enunciado": "¿Qué profesional debe derivar a la paciente al programa de Planificación Familiar tras la toma de PAU?",
+    "opciones": [
+      "Farmacéutico comunitario",
+      "Médico especialista en digestivo",
+      "Cualquier profesional sanitario del centro de salud",
+      "Únicamente el ginecólogo de referencia"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Cualquier profesional sanitario del centro de salud puede y debe derivar a la paciente al programa de Planificación Familiar."
+  },
+  {
+    "enunciado": "Según el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía, ¿qué pauta es correcta para el uso de levonorgestrel como anticonceptivo de urgencia?",
+    "opciones": [
+      "Dos comprimidos de 0,75 mg con 12 horas de diferencia",
+      "Dosis única de 1,5 mg en las primeras 24 horas tras el coito",
+      "Un comprimido de 0,75 mg cada 24 horas hasta completar tres dosis",
+      "Dosis de 0,75 mg solo en mujeres mayores de 18 años"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "El Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía recomienda una dosis única de 1,5 mg de levonorgestrel, preferentemente en las primeras 24 horas tras el coito."
+  },
+  {
+    "enunciado": "En el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía, ¿qué medicamento se indica si han pasado entre 72 y 120 horas desde la relación sexual sin protección?",
+    "opciones": [
+      "Levonorgestrel 1,5 mg",
+      "Ulipristal acetato 30 mg",
+      "Mifepristona 50 mg",
+      "Etinilestradiol 30 mg"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "Según el protocolo, el ulipristal acetato 30 mg es el anticonceptivo de urgencia recomendado si han transcurrido entre 72 y 120 horas desde el coito de riesgo."
+  },
+  {
+    "enunciado": "El Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía establece que, si la mujer vomita dentro de las 3 horas tras tomar levonorgestrel, debe:",
+    "opciones": [
+      "Esperar 12 horas y repetir la dosis",
+      "Tomar un antiemético y no repetir",
+      "Repetir la dosis de PAU lo antes posible",
+      "Acudir a urgencias para extracción gástrica"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Si se producen vómitos dentro de las 3 horas tras tomar la PAU, debe repetirse la dosis, ya que puede no haberse absorbido correctamente."
+  },
+  {
+    "enunciado": "Según el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía, ¿qué porcentaje de eficacia tiene el levonorgestrel si se administra en las primeras 24 horas?",
+    "opciones": [
+      "75%",
+      "88%",
+      "95%",
+      "60%"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "El levonorgestrel tiene una eficacia del 95% si se toma en las primeras 24 horas después de la relación sexual sin protección."
+  },
+  {
+    "enunciado": "Según el protocolo andaluz, ¿qué se debe hacer tras la administración de anticoncepción de urgencia?",
+    "opciones": [
+      "Iniciar anticoncepción hormonal inmediatamente",
+      "Usar método de barrera hasta el siguiente ciclo menstrual",
+      "Evitar el uso de cualquier anticonceptivo adicional",
+      "Tomar una segunda dosis pasados 7 días"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "El protocolo indica que tras tomar la PAU se debe usar un método de barrera hasta el inicio del siguiente ciclo menstrual."
+  },
+  {
+    "enunciado": "¿Qué profesional debe explicar los efectos secundarios más frecuentes según el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía?",
+    "opciones": [
+      "Solo el ginecólogo",
+      "Cualquier profesional sanitario implicado",
+      "Solo el médico de familia",
+      "Farmacéutico comunitario"
+    ],
+    "correcta": 1,
+    "categorías": ["tema242"],
+    "feedback": "Cualquier profesional sanitario puede y debe informar a la paciente sobre posibles efectos secundarios y cómo actuar ante ellos."
+  },
+  {
+    "enunciado": "En relación al levonorgestrel, el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía indica que:",
+    "opciones": [
+      "No debe administrarse si han pasado más de 48 horas",
+      "Su eficacia no disminuye con el tiempo",
+      "No requiere receta médica para su dispensación",
+      "Está contraindicado en menores de 16 años"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "El levonorgestrel es de libre dispensación en farmacias sin receta y se recomienda usarlo dentro de las 72 horas tras el coito de riesgo."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes casos requiere una nueva dosis de anticoncepción de urgencia, según el protocolo de Andalucía?",
+    "opciones": [
+      "Diarrea a las 5 horas de la toma",
+      "Náuseas persistentes",
+      "Vómitos dentro de las 3 horas tras la toma",
+      "Ausencia de menstruación a los 5 días"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "Si hay vómitos en las 3 horas posteriores a la ingesta de la PAU, se debe administrar una nueva dosis."
+  },
+  {
+    "enunciado": "De acuerdo con el Protocolo Asistencial de Anticoncepción de Urgencias de Andalucía, tras administrar PAU se debe derivar a:",
+    "opciones": [
+      "Consulta de ginecología hospitalaria",
+      "Consulta de digestivo para evaluación",
+      "Programa de Planificación Familiar del centro de salud",
+      "Farmacia comunitaria para seguimiento"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "El protocolo establece la derivación al programa de Planificación Familiar del centro de salud para valorar anticoncepción regular."
+  },
+  {
+    "enunciado": "¿Qué situación representa una contraindicación para la PAU según el Protocolo Asistencial de Andalucía?",
+    "opciones": [
+      "Haber pasado 24 horas desde el coito",
+      "Menarquia reciente",
+      "Sospecha de embarazo",
+      "Lactancia materna exclusiva"
+    ],
+    "correcta": 2,
+    "categorías": ["tema242"],
+    "feedback": "La sospecha de embarazo es una contraindicación para la administración de PAU, según el protocolo asistencial andaluz."
+  }
+]
+

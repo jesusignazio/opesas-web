@@ -1,0 +1,182 @@
+[
+    {
+  "enunciado": "Según el modelo PICO, una pregunta clínica bien formulada debe incluir los siguientes componentes:",
+  "opciones": ["Paciente, intervención, comparativa y resultado", "Problema, intervención, causa y objetivo", "Persona, indicación, control y efecto", "Población, idea principal, concepto y opinión"],
+  "correcta": 0,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "PICO es un acrónimo que estructura preguntas clínicas en: P (Paciente o Problema), I (Intervención), C (Comparador), O (Outcome o resultado esperado)."
+},
+{
+  "enunciado": "En una pregunta PICO, ¿qué representa la 'C' del acrónimo?",
+  "opciones": ["Conclusión", "Control", "Comparador", "Confianza"],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La 'C' en PICO se refiere al Comparador, es decir, la intervención alternativa frente a la cual se evalúa la intervención de interés."
+},
+{
+  "enunciado": "¿Cuál de los siguientes elementos corresponde al componente 'O' en el modelo PICO?",
+  "opciones": ["Observación", "Opinión experta", "Objetivo terapéutico", "Resultado clínico esperado"],
+  "correcta": 3,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La 'O' en PICO hace referencia al 'Outcome', o resultado clínico que se desea medir (mejora, reducción de síntomas, efectos adversos...)."
+},
+{
+  "enunciado": "En la pregunta PICO: '¿En adultos mayores con hipertensión, el ejercicio físico regular comparado con ningún ejercicio reduce la presión arterial sistólica?', ¿cuál es el componente 'I'?",
+  "opciones": ["Adultos mayores con hipertensión", "Ningún ejercicio", "Ejercicio físico regular", "Reducción de presión arterial"],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "El componente 'I' de PICO corresponde a la Intervención, en este caso, el ejercicio físico regular."
+},
+{
+  "enunciado": "¿Qué elemento de una pregunta PICO corresponde a 'P'?",
+  "opciones": ["Parámetro analizado", "Puntuación clínica", "Población o problema", "Protocolo terapéutico"],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La 'P' en PICO indica la Población o el Problema clínico que motiva la búsqueda de evidencia científica."
+},
+{
+  "enunciado": "¿Cuál de las siguientes opciones muestra una pregunta correctamente formulada según el modelo PICO?",
+  "opciones": [
+    "¿Cuál es la mejor técnica de enfermería para tratar úlceras por presión?",
+    "¿Cómo tratar la depresión en ancianos?",
+    "¿En adultos con DM2, el uso de metformina comparado con insulina mejora el control glucémico?",
+    "¿Qué efectos secundarios tiene la quimioterapia?"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La tercera opción es una pregunta estructurada según el modelo PICO: P (adultos con DM2), I (metformina), C (insulina), O (mejora del control glucémico)."
+},
+{
+  "enunciado": "¿Cuál es el objetivo principal de formular preguntas clínicas estructuradas con el modelo PICO?",
+  "opciones": [
+    "Limitar la búsqueda a revisiones sistemáticas",
+    "Facilitar la aplicación de guías clínicas existentes",
+    "Mejorar la calidad de los registros médicos",
+    "Diseñar estrategias eficaces de búsqueda bibliográfica"
+  ],
+  "correcta": 3,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "El modelo PICO se utiliza para estructurar preguntas clínicas de forma que faciliten búsquedas eficientes y precisas en bases de datos científicas."
+},
+{
+  "enunciado": "Para diseñar una estrategia de búsqueda bibliográfica, una de las mejores opciones es formular una pregunta clínica estructurada, dividida en componentes. Son las denominadas preguntas PICO, que incluyen:",
+  "opciones": [
+    "Paciente, intervención, comparativa y objetivos",
+    "Problema, intervención, comparativa y objetivo",
+    "Paciente, intervención, comparativa y resultado",
+    "Problema, indicación, comparativa y resultado"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "PICO es un acrónimo que corresponde a: P (Paciente o Problema), I (Intervención), C (Comparador) y O (Resultado esperado)."
+},
+{
+  "enunciado": "¿Qué representa la letra 'P' en una pregunta clínica estructurada con el modelo PICO?",
+  "opciones": [
+    "Patología",
+    "Paciente o problema clínico",
+    "Protocolo asistencial",
+    "Ponderación del riesgo"
+  ],
+  "correcta": 1,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La letra 'P' representa al Paciente o Problema clínico sobre el que se formula la pregunta de investigación."
+},
+{
+  "enunciado": "En una pregunta clínica tipo PICO, ¿qué representa la letra 'I'?",
+  "opciones": [
+    "Índice de riesgo",
+    "Indicador pronóstico",
+    "Intervención que se desea evaluar",
+    "Informe clínico"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La 'I' representa la Intervención que se quiere estudiar: tratamiento, diagnóstico, exposición, etc."
+},
+{
+  "enunciado": "La letra 'C' del modelo PICO hace referencia a:",
+  "opciones": [
+    "Condición médica de base",
+    "Comparación con una alternativa",
+    "Criterio de inclusión",
+    "Calidad del estudio"
+  ],
+  "correcta": 1,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "El componente 'C' es el Comparador, la alternativa frente a la intervención (por ejemplo, placebo o tratamiento estándar)."
+},
+{
+  "enunciado": "¿Qué indica la letra 'O' en el modelo PICO de formulación de preguntas clínicas?",
+  "opciones": [
+    "Observación subjetiva",
+    "Opciones terapéuticas",
+    "Resultado clínico de interés",
+    "Objetivo secundario del estudio"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La letra 'O' en PICO hace referencia al Outcome, es decir, el resultado clínico que se quiere medir (curación, reducción de síntomas, etc.)."
+},
+{
+  "enunciado": "¿Cuál es la utilidad principal de formular preguntas clínicas siguiendo el modelo PICO?",
+  "opciones": [
+    "Facilitar la redacción de informes clínicos",
+    "Reducir el tiempo de atención en consulta",
+    "Guiar la búsqueda eficiente de evidencia científica",
+    "Establecer protocolos asistenciales obligatorios"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "El modelo PICO se utiliza para estructurar preguntas que orienten búsquedas bibliográficas precisas y relevantes en bases de datos científicas."
+},
+{
+  "enunciado": "¿Cuál de las siguientes preguntas está correctamente formulada según el modelo PICO?",
+  "opciones": [
+    "¿Qué antibiótico es mejor para infecciones respiratorias?",
+    "¿En adultos con neumonía, la amoxicilina comparada con azitromicina reduce la duración de los síntomas?",
+    "¿Cuál es el tratamiento más rápido contra la fiebre?",
+    "¿Cómo se trata la insuficiencia renal crónica?"
+  ],
+  "correcta": 1,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "Esa pregunta incluye los cuatro componentes: P (adultos con neumonía), I (amoxicilina), C (azitromicina), O (reducción de duración de síntomas)."
+},
+{
+  "enunciado": "¿Qué componente PICO falta en la siguiente pregunta?: '¿En niños con asma, el uso de corticoides inhalados mejora la función pulmonar?'",
+  "opciones": [
+    "P (Paciente)",
+    "I (Intervención)",
+    "C (Comparador)",
+    "O (Resultado)"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "La pregunta no incluye un comparador explícito frente al cual se mida el efecto de los corticoides inhalados (C)."
+},
+{
+  "enunciado": "¿Cuál de los siguientes elementos NO forma parte del acrónimo PICO?",
+  "opciones": [
+    "Resultado clínico",
+    "Paciente",
+    "Estadístico principal",
+    "Intervención"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "El estadístico principal no forma parte del modelo PICO, que se basa en: Paciente, Intervención, Comparador y Resultado (Outcome)."
+},
+{
+  "enunciado": "Una pregunta clínica bien estructurada según PICO permite:",
+  "opciones": [
+    "Evitar errores de medicación",
+    "Aplicar guías clínicas sin adaptación",
+    "Diseñar estrategias de búsqueda bibliográfica precisas",
+    "Reducir la variabilidad clínica entre profesionales"
+  ],
+  "correcta": 2,
+  "categorías": ["tema220", "PICO"],
+  "feedback": "Formular preguntas según el modelo PICO permite definir los términos clave para realizar búsquedas efectivas y fundamentadas en la evidencia."
+}
+
+]

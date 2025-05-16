@@ -1,0 +1,82 @@
+[
+    {
+  "enunciado": "¿Cuántas fases forman el Ciclo de la Violencia de L. Walker?",
+  "opciones": ["Dos", "Tres", "Cuatro", "Cinco"],
+  "correcta": 1,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "El Ciclo de la Violencia de Lenore Walker consta de tres fases: acumulación de tensión, episodio agudo de violencia y fase de calma o luna de miel."
+},
+{
+  "enunciado": "Según L. Walker, la primera fase del Ciclo de la Violencia se caracteriza por:",
+  "opciones": [
+    "Una agresión física repentina y sin antecedentes previos.",
+    "Un comportamiento amoroso y reconciliador por parte del agresor.",
+    "Una acumulación progresiva de tensión en el entorno de la pareja.",
+    "La víctima decide abandonar el domicilio familiar."
+  ],
+  "correcta": 2,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "La primera fase es la de acumulación de tensión, en la que el agresor muestra irritabilidad creciente, celos o control, sin que haya aún violencia física directa."
+},
+{
+  "enunciado": "¿Cuál de las siguientes opciones representa la segunda fase del Ciclo de la Violencia de L. Walker?",
+  "opciones": [
+    "Negación del conflicto",
+    "Episodio agudo de violencia",
+    "Intento de reconciliación",
+    "Cese espontáneo de la relación"
+  ],
+  "correcta": 1,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "La segunda fase corresponde al episodio agudo de violencia, donde se produce la agresión física, verbal o sexual hacia la víctima."
+},
+{
+  "enunciado": "En el Ciclo de la Violencia, ¿qué ocurre durante la tercera fase o 'fase de calma'?",
+  "opciones": [
+    "El agresor se marcha del hogar",
+    "Se produce una reconciliación superficial y promesas de cambio",
+    "La víctima denuncia formalmente la situación",
+    "El entorno familiar interviene directamente"
+  ],
+  "correcta": 1,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "Durante la fase de calma o 'luna de miel', el agresor se muestra arrepentido, afectuoso y realiza promesas de no repetir la violencia, lo que refuerza el ciclo."
+},
+{
+  "enunciado": "¿Cuál es una consecuencia común de la fase de calma en el ciclo de la violencia de Walker?",
+  "opciones": [
+    "Fin definitivo de la relación abusiva",
+    "Reincorporación inmediata al entorno laboral",
+    "Mantenimiento del vínculo por parte de la víctima",
+    "Inmunidad legal del agresor por conducta conciliadora"
+  ],
+  "correcta": 2,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "La fase de calma favorece que la víctima mantenga el vínculo emocional con el agresor, lo que perpetúa el ciclo de violencia."
+},
+{
+  "enunciado": "¿Cuáles son las fases del Ciclo de la Violencia descrito por Lenore Walker?",
+  "opciones": [
+    "Tensión, confrontación y reconciliación",
+    "Irritación, explosión y separación",
+    "Acumulación de tensión, episodio agudo de violencia y fase de calma o luna de miel",
+    "Conflicto, crisis y resolución afectiva"
+  ],
+  "correcta": 2,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "Las tres fases del Ciclo de la Violencia de L. Walker son: 1) acumulación de tensión, 2) episodio agudo de violencia, y 3) fase de calma o luna de miel."
+},
+{
+  "enunciado": "¿En qué consiste el modelo propuesto por Lenore Walker?",
+  "opciones": [
+    "Es un modelo de toma de decisiones sanitarias compartidas.",
+    "Es un ciclo relacional que explica las fases repetitivas de maltrato en las relaciones de pareja.",
+    "Es una teoría sobre los estilos de apego infantil en contextos de trauma.",
+    "Es un protocolo judicial para valorar la credibilidad del testimonio en casos de violencia de género."
+  ],
+  "correcta": 1,
+  "categorías": ["tema221", "ciclo_violencia"],
+  "feedback": "Lenore Walker propuso el Ciclo de la Violencia, que describe cómo se repite la dinámica de maltrato en tres fases: acumulación de tensión, episodio agudo de violencia y fase de calma o luna de miel."
+}
+
+]

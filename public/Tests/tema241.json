@@ -1,0 +1,87 @@
+[
+    {
+  "enunciado": "Juan, diabético tipo 1 de 46 años, con 12 años de evolución de la enfermedad, ha sido categorizado con riesgo moderado de pie diabético. ¿Con qué periodicidad se recomienda realizar la valoración del riesgo?",
+  "opciones": ["Cada 6 meses", "Cada 2 meses", "Cada visita", "Cada 12 meses"],
+  "correcta": 0,
+  "categorías": ["tema241", "pie_diabetico"],
+  "feedback": "Según el PAI de Diabetes, el seguimiento del pie diabético con riesgo moderado debe hacerse cada 6 meses."
+},
+{
+  "enunciado": "Juan, diabético tipo 2 de 62 años, recién diagnosticado, acude por primera vez a consulta. ¿Cuándo debe iniciarse el cribado de enfermedad renal crónica (ERC)?",
+  "opciones": ["A los 5 años del diagnóstico", "A partir del diagnóstico", "A partir de los 10 años", "Sólo si tiene síntomas"],
+  "correcta": 1,
+  "categorías": ["tema241", "enfermedad_renal_cronica"],
+  "feedback": "En DMT2, el cribado de ERC debe iniciarse en el momento del diagnóstico."
+},
+{
+  "enunciado": "Juan, diabético tipo 1 de 33 años, con 4 años de evolución, sin factores de riesgo. ¿Cuándo se recomienda iniciar el cribado de retinopatía diabética?",
+  "opciones": ["A los 5 años de evolución", "A los 10 años", "En el momento del diagnóstico", "A los 30 años de edad"],
+  "correcta": 0,
+  "categorías": ["tema241", "retinopatia"],
+  "feedback": "En DMT1, el cribado de retinopatía diabética debe iniciarse a partir de los 5 años de evolución."
+},
+{
+  "enunciado": "Juan, diabético tipo 1 de 52 años con 14 años de evolución, presenta riesgo alto de pie diabético. ¿Cuál debe ser la periodicidad del seguimiento?",
+  "opciones": ["Cada 6 meses", "Cada 3 meses o en cada visita", "Anualmente", "Cada 2 años"],
+  "correcta": 1,
+  "categorías": ["tema241", "pie_diabetico"],
+  "feedback": "El seguimiento del pie diabético de riesgo alto debe hacerse en cada visita o al menos cada 3 meses."
+},
+{
+  "enunciado": "Juan, diabético tipo 1 de 39 años, con 7 años de evolución y sin factores de riesgo adicionales, tuvo su primer cribado de retinopatía hace 3 años sin hallazgos. ¿Cuándo debería repetirse?",
+  "opciones": ["Cada año", "Cada 3 años", "Cada 5 años", "Cuando tenga síntomas visuales"],
+  "correcta": 1,
+  "categorías": ["tema241", "retinopatia"],
+  "feedback": "Si la diabetes tiene menos de 10 años de evolución y no hay factores de riesgo, el cribado de retinopatía puede hacerse cada 3 años."
+},
+{
+  "enunciado": "Juan, diabético tipo 2 desde hace 15 años, acude a su revisión anual. ¿Con qué frecuencia debe realizarse el cribado de enfermedad renal crónica (ERC)?",
+  "opciones": ["Cada 2 años", "Cada 5 años", "Anualmente", "Cada 6 meses"],
+  "correcta": 2,
+  "categorías": ["tema241", "enfermedad_renal_cronica"],
+  "feedback": "Una vez iniciado, el cribado de enfermedad renal crónica debe realizarse de forma anual."
+},
+{
+  "enunciado": "Juan, diabético tipo 1 de 48 años, con 12 años de evolución, fue clasificado como bajo riesgo de pie diabético. ¿Con qué frecuencia debe revisarse?",
+  "opciones": ["Anualmente", "Cada 6 meses", "En cada visita", "Cada 3 meses"],
+  "correcta": 0,
+  "categorías": ["tema241", "pie_diabetico"],
+  "feedback": "En casos de riesgo bajo de pie diabético, se recomienda una revisión anual."
+},
+{
+  "enunciado": "Juan, 35 años, DMT1 desde hace 12 años, sin lesiones previas. ¿Con qué frecuencia debe realizarse el cribado de retinopatía diabética según el PAI si no hay hallazgos previos?",
+  "opciones": ["Cada año", "Cada 2 años", "Cada 5 años", "Cada 3 años"],
+  "correcta": 0,
+  "categorías": ["tema241", "retinopatia"],
+  "feedback": "En personas con más de 10 años de evolución de la diabetes, el cribado de retinopatía debe ser anual, incluso si no hubo hallazgos en exploraciones previas."
+},
+{
+  "enunciado": "Juan, con diabetes tipo 1 diagnosticada hace 6 años, acaba de cumplir 30 años. ¿Debe iniciarse el cribado de pie diabético?",
+  "opciones": ["Sí, ya cumple el criterio por edad", "No, hasta los 10 años de evolución", "Solo si hay neuropatía", "Solo si tiene complicaciones vasculares"],
+  "correcta": 0,
+  "categorías": ["tema241", "pie_diabetico"],
+  "feedback": "El cribado del pie diabético debe iniciarse si el paciente tiene más de 30 años o más de 10 años de evolución de la enfermedad."
+},
+{
+  "enunciado": "Juan, de 29 años, diabético tipo 1 con 11 años de evolución, no presenta signos de complicación. ¿Debe iniciarse el cribado del pie diabético?",
+  "opciones": ["No, aún no tiene 30 años", "Sí, porque supera los 10 años de evolución", "Sólo si hay síntomas neurológicos", "A partir de los 35 años"],
+  "correcta": 1,
+  "categorías": ["tema241", "pie_diabetico"],
+  "feedback": "Según el PAI de Diabetes, el cribado del pie diabético debe iniciarse si el paciente tiene más de 30 años o más de 10 años de evolución de la enfermedad."
+},
+{
+  "enunciado": "Juan, diabético tipo 1 de 26 años, con 3 años de evolución, acude para su revisión. ¿Debe iniciarse el cribado de enfermedad renal crónica (ERC)?",
+  "opciones": ["Sí, en todos los pacientes tipo 1", "No, hasta que pasen al menos 5 años de evolución", "Solo si tiene proteinuria", "Solo si es mayor de 30 años"],
+  "correcta": 1,
+  "categorías": ["tema241", "enfermedad_renal_cronica"],
+  "feedback": "En diabetes tipo 1, el cribado de enfermedad renal crónica debe iniciarse a partir de los 5 años de evolución de la enfermedad."
+},
+{
+  "enunciado": "Juan, con diabetes tipo 1 desde hace 4 años, tiene 28 años y no presenta síntomas visuales. ¿Debe realizarse cribado de retinopatía diabética?",
+  "opciones": ["Sí, cada 2 años", "Sí, porque ya tiene más de 30 años", "No, hasta los 5 años de evolución", "Solo si hay visión borrosa"],
+  "correcta": 2,
+  "categorías": ["tema241", "retinopatia"],
+  "feedback": "En diabetes tipo 1, el cribado de retinopatía debe iniciarse a partir de los 5 años de evolución, salvo que existan factores de riesgo o síntomas visuales."
+}
+
+]

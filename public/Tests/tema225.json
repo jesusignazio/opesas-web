@@ -1,0 +1,38 @@
+[
+    {
+  "enunciado": "Un paciente adulto presenta quemaduras en la cara anterior del tronco y en la cara anterior de ambos brazos. Según la regla de Wallace, ¿qué porcentaje de superficie corporal quemada tiene aproximadamente?",
+  "opciones": ["18%", "22%", "27%", "36%"],
+  "correcta": 1,
+  "categorías": ["tema225", "regla_wallace"],
+  "feedback": "Según la regla de Wallace: cara anterior del tronco = 18%, cara anterior de ambos brazos = 4.5% × 2 = 9%. Total: 18% + 9% = 27%."
+},
+{
+  "enunciado": "Una mujer adulta sufre quemaduras en la cara posterior de las piernas y en la cara posterior del tronco. Según la regla de Wallace, ¿qué porcentaje de SCQ tiene afectado?",
+  "opciones": ["27%", "36%", "31.5%", "45%"],
+  "correcta": 1,
+  "categorías": ["tema225", "regla_wallace"],
+  "feedback": "Cara posterior de ambas piernas: 9% × 2 = 18%; cara posterior del tronco = 18%. Total: 18% + 18% = 36%."
+},
+{
+  "enunciado": "Un paciente adulto presenta quemaduras en la cabeza y cuello, cara anterior del brazo izquierdo y cara posterior del brazo derecho. ¿Cuál es el porcentaje total quemado según la regla de Wallace?",
+  "opciones": ["13.5%", "9%", "18%", "22.5%"],
+  "correcta": 0,
+  "categorías": ["tema225", "regla_wallace"],
+  "feedback": "Cabeza y cuello: 9%; cara anterior de brazo: 4.5%; cara posterior de otro brazo: 4.5%. Total: 9% + 4.5% + 4.5% = 18%."
+},
+{
+  "enunciado": "Según la regla de Wallace, ¿cuánto representa la cara anterior de una pierna en adultos?",
+  "opciones": ["4.5%", "9%", "7%", "18%"],
+  "correcta": 1,
+  "categorías": ["tema225", "regla_wallace"],
+  "feedback": "Cada pierna representa un 18% del total, por lo que la cara anterior equivale al 50%: 18% / 2 = 9%."
+},
+{
+  "enunciado": "Un adulto presenta quemaduras en la cara anterior y posterior del brazo derecho, la cabeza y cuello, y el periné. ¿Qué porcentaje aproximado de SCQ tiene?",
+  "opciones": ["22.5%", "27%", "18%", "13.5%"],
+  "correcta": 0,
+  "categorías": ["tema225", "regla_wallace"],
+  "feedback": "Cabeza y cuello = 9%, brazo completo (anterior y posterior) = 9%, periné = 1%. Total: 9% + 9% + 1% = 19%."
+}
+
+]

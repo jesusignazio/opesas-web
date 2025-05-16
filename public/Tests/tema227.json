@@ -1,0 +1,38 @@
+[
+    {
+  "enunciado": "Una vez identificada la situación de duelo, el siguiente paso es conocer qué fase del duelo está afrontando la persona atendida. Si muestra bloqueo emocional, aturdimiento, incredulidad o despersonalización, ¿en qué fase del duelo se encuentra?",
+  "opciones": ["Duelo latente", "Duelo agudo", "Duelo temprano", "Duelo tardío"],
+  "correcta": 2,
+  "categorías": ["tema227", "fases_duelo"],
+  "feedback": "El duelo temprano incluye reacciones de incredulidad, bloqueo emocional, aturdimiento o despersonalización tras la pérdida reciente."
+},
+{
+  "enunciado": "Una persona en duelo presenta llanto frecuente, insomnio, ansiedad y anhelo intenso por la persona fallecida. Según las fases del duelo, ¿en cuál se encuentra?",
+  "opciones": ["Duelo anticipatorio", "Duelo agudo", "Duelo temprano", "Duelo resolutivo"],
+  "correcta": 1,
+  "categorías": ["tema227", "fases_duelo"],
+  "feedback": "El duelo agudo se caracteriza por síntomas intensos como tristeza, ansiedad, insomnio o anhelo profundo del ser querido."
+},
+{
+  "enunciado": "Un año después de la pérdida, una persona comienza a integrar la ausencia del ser querido en su vida, retoma rutinas y experimenta momentos de bienestar. ¿En qué fase del duelo se encuentra?",
+  "opciones": ["Duelo patológico", "Duelo anticipatorio", "Duelo crónico", "Duelo tardío"],
+  "correcta": 3,
+  "categorías": ["tema227", "fases_duelo"],
+  "feedback": "El duelo tardío se caracteriza por la reorganización emocional y funcional de la persona, integrando la pérdida en su vida cotidiana."
+},
+{
+  "enunciado": "Una persona sabe que su familiar está en situación terminal e inicia un proceso de adaptación emocional antes del fallecimiento. ¿Cómo se denomina este tipo de duelo?",
+  "opciones": ["Duelo negado", "Duelo complicado", "Duelo anticipatorio", "Duelo no resuelto"],
+  "correcta": 2,
+  "categorías": ["tema227", "tipos_duelo"],
+  "feedback": "El duelo anticipatorio ocurre antes de la muerte, especialmente cuando hay un diagnóstico de enfermedad terminal, y permite un proceso de adaptación previo a la pérdida."
+},
+{
+  "enunciado": "Una persona que ha perdido a su pareja hace 2 años sigue experimentando una tristeza profunda, con aislamiento social, sentimientos de culpa persistentes y alteración del funcionamiento cotidiano. ¿Qué tipo de duelo presenta?",
+  "opciones": ["Duelo normal", "Duelo anticipatorio", "Duelo complicado o patológico", "Duelo instrumental"],
+  "correcta": 2,
+  "categorías": ["tema227", "tipos_duelo"],
+  "feedback": "El duelo complicado o patológico se manifiesta cuando el dolor por la pérdida se prolonga e interfiere gravemente con la vida diaria. Puede requerir intervención profesional."
+}
+
+]

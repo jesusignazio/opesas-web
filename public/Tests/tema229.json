@@ -1,0 +1,123 @@
+[
+    {
+  "enunciado": "Señala cuál de las siguientes definiciones es la recogida en la publicación de la Junta de Andalucía 'Ética y muerte digna' referida a la Limitación del Esfuerzo Terapéutico (LET):",
+  "opciones": [
+    "Es la retirada (withdraw) o no inicio (withhold) de medidas terapéuticas de soporte vital porque el profesional sanitario estima que, en la situación concreta del paciente, son inútiles o fútiles ya que tan sólo consiguen prolongarle la vida biológica, pero sin posibilidad de proporcionarle una recuperación funcional con una calidad de vida mínima.",
+    "Consiste en la cesación (omisión) de intervenciones terapéuticas que se limitan a prolongar la vida biológica de un paciente que se encuentra en situación de enfermedad terminal o irreversible.",
+    "Prolongación de la vida biológica de un paciente con una enfermedad grave e irreversible o terminal mediante la tecnología médica, cuando su beneficio es irrelevante en términos de recuperación funcional o mejora de la calidad de vida.",
+    "Actuación de un profesional sanitario que produce de forma deliberada la muerte de su paciente con una enfermedad irreversible, porque éste, siendo capaz, se lo pide de forma expresa, reiterada y mantenida."
+  ],
+  "correcta": 0,
+  "categorías": ["tema229", "etica_y_muerte_digna"],
+  "feedback": "La LET se define como la retirada (withdraw) o no inicio (withhold) de medidas de soporte vital cuando se estima que no aportan beneficio real al paciente más allá de mantener su vida biológica sin posibilidad de recuperación funcional digna."
+},
+{
+  "enunciado": "Según la Junta de Andalucía, ¿qué término se refiere a la utilización de medios tecnológicos para prolongar artificialmente la vida sin beneficio funcional ni mejora de calidad de vida?",
+  "opciones": [
+    "Limitación del Esfuerzo Terapéutico",
+    "Obstinación terapéutica",
+    "Eutanasia indirecta",
+    "Sedación paliativa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema229", "etica_y_muerte_digna"],
+  "feedback": "La obstinación terapéutica consiste en aplicar tratamientos desproporcionados o extraordinarios que sólo prolongan la vida biológica sin aportar beneficios reales al paciente."
+},
+{
+  "enunciado": "¿Cuál de las siguientes definiciones se corresponde con la eutanasia activa voluntaria, según la publicación 'Ética y muerte digna'?",
+  "opciones": [
+    "Administrar medicamentos para aliviar el dolor aunque puedan acortar la vida",
+    "Retirar tratamientos de soporte vital en paciente en situación terminal",
+    "Inducir deliberadamente la muerte de una persona a petición expresa y reiterada de ésta por sufrimiento inaceptable",
+    "Aplicar sedación profunda y continua hasta el fallecimiento"
+  ],
+  "correcta": 2,
+  "categorías": ["tema229", "etica_y_muerte_digna"],
+  "feedback": "La eutanasia activa voluntaria implica una acción directa del profesional para causar la muerte del paciente, a petición expresa de este, por razones de sufrimiento no aliviado."
+},
+{
+  "enunciado": "En el marco de la ética clínica, ¿qué define la sedación paliativa?",
+  "opciones": [
+    "Suspensión de alimentación e hidratación",
+    "Administración de fármacos para aliviar el sufrimiento mediante disminución deliberada del nivel de conciencia",
+    "Intervención quirúrgica paliativa en pacientes terminales",
+    "Omisión de medidas terapéuticas activas"
+  ],
+  "correcta": 1,
+  "categorías": ["tema229", "etica_y_muerte_digna"],
+  "feedback": "La sedación paliativa busca aliviar el sufrimiento físico o psicológico mediante reducción de la conciencia, sin intención de acelerar la muerte del paciente."
+},
+{
+  "enunciado": "La retirada de un ventilador mecánico en un paciente con pronóstico irreversible y sin posibilidad de recuperación funcional se considera:",
+  "opciones": [
+    "Sedación terminal",
+    "Eutanasia",
+    "Obstinación terapéutica",
+    "Limitación del esfuerzo terapéutico"
+  ],
+  "correcta": 3,
+  "categorías": ["tema229", "etica_y_muerte_digna"],
+  "feedback": "La retirada de medidas como ventilación mecánica en estos casos entra dentro de la LET, al no aportar beneficio funcional ni calidad de vida al paciente."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones diferencia correctamente la sedación paliativa de la eutanasia?",
+  "opciones": [
+    "La eutanasia es siempre legal en España y la sedación paliativa no lo es.",
+    "La sedación paliativa busca reducir el sufrimiento; la eutanasia busca causar la muerte.",
+    "La sedación paliativa sólo puede aplicarse por médicos especialistas en anestesia.",
+    "Ambas tienen como objetivo directo acortar la vida del paciente."
+  ],
+  "correcta": 1,
+  "categorías": ["tema229", "eutanasia_vs_sedacion"],
+  "feedback": "La sedación paliativa tiene como objetivo aliviar el sufrimiento del paciente sin intención de causar la muerte. En cambio, la eutanasia tiene como finalidad directa provocar la muerte, a petición del paciente."
+},
+{
+  "enunciado": "En relación con la sedación paliativa, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": [
+    "Siempre se aplica en pacientes conscientes y sin consentimiento.",
+    "Busca causar la muerte mediante una sobredosis de fármacos sedantes.",
+    "Tiene por objetivo controlar síntomas refractarios en situaciones terminales.",
+    "Debe realizarse exclusivamente en unidades de cuidados intensivos."
+  ],
+  "correcta": 2,
+  "categorías": ["tema229", "sedacion_paliativa"],
+  "feedback": "La sedación paliativa se emplea para aliviar síntomas físicos o psicológicos refractarios cuando otros tratamientos no son eficaces, sin intención de acelerar la muerte."
+},
+{
+  "enunciado": "La eutanasia activa voluntaria, a diferencia de la sedación paliativa, implica:",
+  "opciones": [
+    "Disminución del nivel de conciencia sin afectar la duración de la vida.",
+    "Una decisión médica sin necesidad de consentimiento del paciente.",
+    "Una acción directa con intención de provocar la muerte del paciente.",
+    "Control de síntomas terminales mediante analgésicos potentes."
+  ],
+  "correcta": 2,
+  "categorías": ["tema229", "eutanasia"],
+  "feedback": "La eutanasia activa voluntaria implica una intervención deliberada para provocar la muerte del paciente, a petición expresa, reiterada y voluntaria del mismo."
+},
+{
+  "enunciado": "Respecto a la sedación paliativa, es falso que:",
+  "opciones": [
+    "Se aplica con intención de aliviar el sufrimiento refractario.",
+    "Disminuye el nivel de conciencia del paciente terminal.",
+    "Su objetivo es provocar la muerte para evitar el sufrimiento.",
+    "Se puede aplicar en domicilio o en entorno hospitalario."
+  ],
+  "correcta": 2,
+  "categorías": ["tema229", "sedacion_paliativa"],
+  "feedback": "La sedación paliativa no tiene como finalidad provocar la muerte, sino aliviar síntomas graves y refractarios en pacientes terminales. Su uso está éticamente aceptado."
+},
+{
+  "enunciado": "En la sedación paliativa correctamente indicada, ¿cuál es el principio ético que la justifica?",
+  "opciones": [
+    "Autonomía como único criterio de decisión",
+    "Beneficencia, buscando aliviar el sufrimiento sin intención de matar",
+    "Utilitarismo, primando el interés del sistema sanitario",
+    "Justicia distributiva, para ahorrar recursos en pacientes terminales"
+  ],
+  "correcta": 1,
+  "categorías": ["tema229", "principios_eticos"],
+  "feedback": "El principio de beneficencia sustenta la sedación paliativa: se actúa para aliviar el sufrimiento, respetando la dignidad del paciente, sin intención directa de provocar la muerte."
+}
+
+]

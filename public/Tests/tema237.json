@@ -1,0 +1,87 @@
+[
+    {
+  "enunciado": "Según la legislación española actual, ¿hasta qué semana de gestación puede una mujer interrumpir libremente su embarazo sin necesidad de alegar causa médica o legal?",
+  "opciones": [
+    "Hasta la semana 10 de gestación",
+    "Hasta la semana 12 de gestación",
+    "Hasta la semana 14 de gestación",
+    "Hasta la semana 20 de gestación"
+  ],
+  "correcta": 2,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "En España, la interrupción voluntaria del embarazo es libre y legal hasta la semana 14 de gestación, sin necesidad de alegar causa alguna."
+},
+{
+  "enunciado": "Una mujer desea interrumpir su embarazo en la semana 21. Según la ley vigente, ¿en cuál de los siguientes supuestos estaría permitido legalmente?",
+  "opciones": [
+    "Por libre decisión de la mujer",
+    "Cuando existan anomalías fetales compatibles con la vida",
+    "Cuando se detecten anomalías fetales incompatibles con la vida o enfermedad grave e incurable",
+    "Nunca está permitido después de la semana 20"
+  ],
+  "correcta": 2,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "Tras la semana 22, solo se permite la IVE si hay anomalías fetales incompatibles con la vida o enfermedad extremadamente grave e incurable en el feto."
+},
+{
+  "enunciado": "Según la legislación española, ¿cuál de las siguientes condiciones permite una interrupción del embarazo más allá de la semana 14?",
+  "opciones": [
+    "Malestar emocional de la gestante",
+    "Solicitud por causas sociales",
+    "Riesgo grave para la vida o salud de la mujer",
+    "Edad menor de 16 años sin consentimiento familiar"
+  ],
+  "correcta": 2,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "Después de la semana 14, el aborto sólo es legal si existe riesgo grave para la vida o salud de la mujer, o anomalías fetales incompatibles con la vida."
+},
+{
+  "enunciado": "¿Cuál es el plazo máximo establecido por ley para interrumpir el embarazo en caso de riesgo para la salud de la mujer?",
+  "opciones": [
+    "Hasta la semana 14",
+    "Hasta la semana 22",
+    "Hasta la semana 24",
+    "No hay un límite si se acredita riesgo grave"
+  ],
+  "correcta": 3,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "Cuando el embarazo supone un riesgo grave para la vida o salud de la mujer, la ley permite la interrupción sin límite de semanas, siempre que se justifique médicamente."
+},
+{
+  "enunciado": "Según la ley española, ¿cuál de los siguientes supuestos no autoriza por sí solo la interrupción del embarazo tras la semana 14?",
+  "opciones": [
+    "Malformación incompatible con la vida",
+    "Riesgo psicológico grave para la mujer",
+    "Diagnóstico de enfermedad grave e incurable en el feto",
+    "Riesgo para la salud física de la gestante"
+  ],
+  "correcta": 1,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "El riesgo psicológico, por sí solo, no se considera causa suficiente para un aborto legal tras la semana 14. Debe existir justificación clínica rigurosa."
+},
+{
+  "enunciado": "¿Qué establece la ley española respecto a las menores de 16 y 17 años que desean interrumpir voluntariamente el embarazo?",
+  "opciones": [
+    "Deben contar con consentimiento paterno o del tutor legal",
+    "No pueden abortar salvo por razones médicas",
+    "Pueden abortar sin consentimiento familiar si se informa a sus padres o tutores",
+    "Pueden abortar sin necesidad de consentimiento ni autorización familiar"
+  ],
+  "correcta": 3,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "Tras la modificación legal de 2023, las menores de 16 y 17 años pueden abortar sin necesidad de consentimiento paterno, aunque deben ser informadas y orientadas."
+},
+{
+  "enunciado": "¿Qué profesional sanitario está obligado a realizar una objeción de conciencia por escrito para no participar en una IVE?",
+  "opciones": [
+    "Todo el personal sanitario del centro",
+    "Solo el médico responsable de la intervención",
+    "Cualquier profesional directamente implicado en la práctica",
+    "Ninguno; la objeción es verbal y tácita"
+  ],
+  "correcta": 2,
+  "categorías": ["tema237", "aborto_legal"],
+  "feedback": "Según la ley, la objeción de conciencia debe registrarse por escrito y sólo puede ejercerla el personal directamente implicado en la interrupción voluntaria del embarazo."
+}
+
+]

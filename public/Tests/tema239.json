@@ -1,0 +1,114 @@
+[
+    {
+  "enunciado": "Según el programa de cribado de hipoacusia en Andalucía, ¿cuándo debe realizarse la primera prueba auditiva en el recién nacido?",
+  "opciones": [
+    "Durante las primeras 12 horas de vida",
+    "Después de las 24 horas del nacimiento y antes del alta hospitalaria",
+    "A los 15 días de vida",
+    "Durante la primera consulta de seguimiento en Atención Primaria"
+  ],
+  "correcta": 1,
+  "categorías": ["tema239"],
+  "feedback": "La primera prueba auditiva debe realizarse después de las 24 horas del nacimiento y antes del alta hospitalaria, siempre que sea posible."
+},
+{
+  "enunciado": "¿Qué tecnología se emplea en la primera fase del cribado auditivo neonatal en Andalucía?",
+  "opciones": [
+    "Potenciales evocados auditivos del tallo cerebral",
+    "Pruebas de impedancia acústica",
+    "Otoemisiones acústicas con estímulos transitorios",
+    "Audiometría tonal en campo libre"
+  ],
+  "correcta": 2,
+  "categorías": ["tema239"],
+  "feedback": "La primera prueba se realiza con otoemisiones acústicas (OEA) con estímulos transitorios, por personal de enfermería entrenado."
+},
+{
+  "enunciado": "Si un recién nacido obtiene un resultado dudoso en la primera prueba de OEA, ¿cuál es la actuación recomendada?",
+  "opciones": [
+    "Repetir la prueba en 6 meses",
+    "Derivar al Servicio de ORL antes del alta hospitalaria",
+    "Solicitar una audiometría conductual",
+    "Realizar directamente una prueba de PEATC"
+  ],
+  "correcta": 1,
+  "categorías": ["tema239"],
+  "feedback": "En caso de resultado dudoso, se debe derivar al Servicio de ORL antes del alta hospitalaria y se cita para la segunda fase del cribado."
+},
+{
+  "enunciado": "¿Qué técnica diagnóstica se emplea en la tercera fase del cribado de hipoacusia si persiste la sospecha tras dos OEA dudosas?",
+  "opciones": [
+    "Otoemisiones acústicas de distorsión",
+    "Timpanometría",
+    "PEATC (Potenciales Evocados Auditivos del Tronco Cerebral)",
+    "Audiometría de refuerzo visual"
+  ],
+  "correcta": 2,
+  "categorías": ["tema239"],
+  "feedback": "La tercera fase del cribado utiliza PEATC, realizados por personal facultativo del Servicio de ORL, para confirmar o descartar hipoacusia."
+},
+{
+  "enunciado": "¿Cuál de los siguientes registros debe completarse obligatoriamente con los resultados del cribado auditivo neonatal en Andalucía?",
+  "opciones": [
+    "Libro de cribado neonatal nacional",
+    "Historia de Salud Infantil en papel",
+    "Base de datos de patologías del neonato",
+    "Registro de Hipoacusias de Andalucía"
+  ],
+  "correcta": 3,
+  "categorías": ["tema239"],
+  "feedback": "Todos los resultados, incluidas las fases diagnósticas y el tratamiento, deben ser registrados en el Registro de Hipoacusias de Andalucía."
+},
+{
+  "enunciado": "Según el programa de cribado de hipoacusia neonatal en Andalucía, si un recién nacido obtiene un resultado normal en ambos oídos en la primera prueba con OEA, ¿qué procedimiento debe seguirse?",
+  "opciones": [
+    "Repetir la prueba a las 2 semanas",
+    "Derivar al Servicio de ORL para segunda prueba",
+    "No es necesario continuar el cribado, pero se informa a los padres sobre signos de alerta",
+    "Realizar PEATC antes del primer mes para confirmar resultado"
+  ],
+  "correcta": 2,
+  "categorías": ["tema239"],
+  "feedback": "Si la primera prueba con OEA es normal en ambos oídos, no se requiere continuar el cribado. Se informa a los padres y se entregan pautas sobre signos de sospecha de hipoacusia."
+},
+{
+  "enunciado": "¿En cuál de las siguientes situaciones debe realizarse directamente la tercera fase del cribado auditivo neonatal (PEATC) sin repetir OEA en Andalucía?",
+  "opciones": [
+    "Cuando los padres rechazan la primera prueba pero luego dan su consentimiento",
+    "Cuando el resultado de la segunda prueba OEA sigue siendo dudoso",
+    "Cuando el recién nacido tiene antecedentes familiares de sordera",
+    "Cuando no se ha podido realizar la primera prueba en las primeras 24 h"
+  ],
+  "correcta": 1,
+  "categorías": ["tema239"],
+  "feedback": "Si el resultado de la segunda prueba de OEA es nuevamente dudoso en uno o ambos oídos, se debe realizar la prueba de PEATC (tercera fase) en el Servicio de ORL."
+},
+{
+  "enunciado": "¿Cuál es la secuencia correcta del cribado auditivo neonatal en Andalucía en cuanto a pruebas, responsables y tiempos establecidos?",
+  "opciones": [
+    "1ª fase: PEATC al nacimiento por ORL; 2ª fase: OEA antes de los 6 meses; 3ª fase: Audiometría clínica en Atención Primaria.",
+    "1ª fase: OEA transitoria antes del alta hospitalaria por enfermería; 2ª fase: OEA clínica antes de los 2 meses por ORL; 3ª fase: PEATC si persiste la sospecha, por facultativo de ORL.",
+    "1ª fase: Impedanciometría antes de las 24 horas; 2ª fase: OEA repetida a los 6 meses; 3ª fase: OEA clínica por pediatría de AP.",
+    "1ª fase: OEA al alta hospitalaria sin importar edad; 2ª fase: PEATC antes de los 3 meses; 3ª fase: Derivación a psicología infantil."
+  ],
+  "correcta": 1,
+  "categorías": ["tema239"],
+  "feedback": "El cribado auditivo neonatal en Andalucía sigue tres fases: 1ª OEA transitoria antes del alta (tras 24 h de vida), realizada por enfermería; 2ª OEA clínica antes de los 2 meses, por ORL; 3ª PEATC si persiste sospecha, por facultativo especialista en ORL."
+},
+{
+  "enunciado": "¿Cuál es la descripción correcta de las pruebas auditivas empleadas en el cribado de hipoacusia neonatal?",
+  "opciones": [
+    "OEA: mide la respuesta eléctrica del tronco cerebral; PEATC: detecta vibración del tímpano; Impedanciometría: mide la audición subjetiva",
+    "OEA: registra sonidos emitidos por la cóclea tras estímulo; PEATC: registra la actividad eléctrica del nervio auditivo; Impedanciometría: evalúa la movilidad del tímpano y cadena osicular",
+    "OEA: necesita respuesta activa del niño; PEATC: requiere sedación profunda; Impedanciometría: se hace con auriculares externos tipo diadema",
+    "OEA: útil solo en adultos; PEATC: solo se aplica en casos de sordera profunda; Impedanciometría: prueba subjetiva con colaboración del niño"
+  ],
+  "correcta": 1,
+  "categorías": ["tema239"],
+  "feedback": "Las OEA evalúan la función coclear (células ciliadas externas), los PEATC detectan la actividad eléctrica del nervio auditivo y tronco cerebral ante estímulos sonoros, y la impedanciometría analiza la movilidad del tímpano y la cadena de huesecillos del oído medio."
+}
+
+
+
+
+]

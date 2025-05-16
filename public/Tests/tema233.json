@@ -1,0 +1,183 @@
+[
+    {
+  "enunciado": "En los primeros estadios de la menopausia es difícil saber si la regla que se acaba de tener será la última. ¿Cuándo podemos confirmarla?",
+  "opciones": [
+    "Una vez transcurridos 12 meses consecutivos de amenorrea.",
+    "Una vez transcurridos 6 meses consecutivos de amenorrea.",
+    "Una vez transcurridos 18 meses consecutivos de amenorrea.",
+    "Una vez transcurridos 3 meses consecutivos de amenorrea."
+  ],
+  "correcta": 0,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La menopausia se define retrospectivamente tras 12 meses consecutivos sin menstruación, en ausencia de causas patológicas."
+},
+{
+  "enunciado": "¿Cuál de los siguientes síntomas se asocia con más frecuencia al climaterio?",
+  "opciones": [
+    "Hirsutismo",
+    "Sofocos y sudoración nocturna",
+    "Menorragias frecuentes",
+    "Incremento del deseo sexual"
+  ],
+  "correcta": 1,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "Los sofocos y la sudoración nocturna son síntomas vasomotores clásicos del climaterio, asociados al descenso de estrógenos."
+},
+{
+  "enunciado": "¿Qué hormona se eleva típicamente en mujeres postmenopáusicas?",
+  "opciones": [
+    "Estradiol",
+    "FSH (hormona folículo estimulante)",
+    "Progesterona",
+    "LH-RH (hormona liberadora de gonadotropinas)"
+  ],
+  "correcta": 1,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "Tras la menopausia, disminuye el estrógeno, lo que elimina la retroalimentación negativa sobre la FSH, provocando su aumento sostenido."
+},
+{
+  "enunciado": "¿Qué término se utiliza para definir el periodo de transición desde los años reproductivos hasta la menopausia?",
+  "opciones": [
+    "Postmenopausia",
+    "Perimenopausia",
+    "Premenopausia",
+    "Menopausia precoz"
+  ],
+  "correcta": 1,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La perimenopausia es la etapa de transición caracterizada por irregularidades menstruales y aparición de síntomas vasomotores."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre la menopausia precoz es cierta?",
+  "opciones": [
+    "Se diagnostica antes de los 40 años de edad.",
+    "Se considera normal en mujeres mayores de 45 años.",
+    "Siempre cursa con hirsutismo y acné.",
+    "Suele deberse a exceso de progesterona ovárica."
+  ],
+  "correcta": 0,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La menopausia precoz se diagnostica cuando la pérdida de función ovárica ocurre antes de los 40 años."
+},
+{
+  "enunciado": "¿Cuál de los siguientes eventos fisiológicos marca el inicio oficial de la menopausia?",
+  "opciones": [
+    "Aparición de sofocos",
+    "Descenso de los niveles de progesterona",
+    "Ausencia de menstruación durante 12 meses consecutivos",
+    "Aumento del deseo sexual"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La menopausia se confirma retrospectivamente tras 12 meses consecutivos sin menstruación."
+},
+{
+  "enunciado": "¿Qué cambio hormonal es más característico en la menopausia?",
+  "opciones": [
+    "Disminución de LH y FSH",
+    "Aumento de estrógenos y progestágenos",
+    "Aumento de FSH y disminución de estradiol",
+    "Aumento de testosterona"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "En la menopausia, el estradiol disminuye y la FSH aumenta por falta de retroalimentación negativa ovárica."
+},
+{
+  "enunciado": "El tratamiento hormonal sustitutivo (THS) está contraindicado en mujeres con:",
+  "opciones": [
+    "Sofocos intensos",
+    "Osteoporosis incipiente",
+    "Antecedentes personales de cáncer de mama",
+    "Menopausia quirúrgica reciente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "El THS está contraindicado en mujeres con antecedentes personales de cáncer de mama por riesgo de recurrencia."
+},
+{
+  "enunciado": "Uno de los beneficios del tratamiento hormonal sustitutivo en mujeres menopáusicas es:",
+  "opciones": [
+    "Aumentar el riesgo cardiovascular",
+    "Prevenir el cáncer de colon",
+    "Reducir el riesgo de osteoporosis",
+    "Incrementar la resistencia a la insulina"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "El THS, especialmente con estrógenos, ayuda a reducir la pérdida de masa ósea y el riesgo de fracturas."
+},
+{
+  "enunciado": "¿Cuál de los siguientes síntomas no es típico del síndrome climatérico?",
+  "opciones": [
+    "Insomnio",
+    "Irritabilidad",
+    "Taquicardia paroxística",
+    "Sequedad vaginal"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "El síndrome climatérico incluye síntomas como sofocos, irritabilidad, insomnio y sequedad vaginal, pero no taquicardias como síntoma primario."
+},
+{
+  "enunciado": "¿Qué consecuencia a largo plazo se asocia con la deficiencia estrogénica en la menopausia?",
+  "opciones": [
+    "Hipertrofia endometrial",
+    "Aumento de la fertilidad",
+    "Osteoporosis",
+    "Hipoglucemia crónica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La disminución de estrógenos postmenopáusica favorece la pérdida ósea progresiva y el desarrollo de osteoporosis."
+},
+{
+  "enunciado": "¿Cuál es el principal objetivo del tratamiento hormonal en mujeres menopáusicas sintomáticas?",
+  "opciones": [
+    "Prevenir el cáncer de ovario",
+    "Evitar el sangrado uterino",
+    "Aliviar los síntomas vasomotores",
+    "Estimular la ovulación"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "El principal objetivo del THS en la menopausia es mejorar la calidad de vida mediante el control de los síntomas vasomotores como los sofocos."
+},
+{
+  "enunciado": "En mujeres con útero intacto, el tratamiento hormonal sustitutivo debe incluir:",
+  "opciones": [
+    "Solo estrógenos",
+    "Solo progestágenos",
+    "Estrógenos y progestágenos",
+    "Solo testosterona"
+  ],
+  "correcta": 2,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "En mujeres con útero, se combina estrógeno y progestágeno para prevenir la hiperplasia endometrial inducida por estrógenos."
+},
+{
+  "enunciado": "¿Cuál de los siguientes signos o síntomas justifica iniciar un estudio para confirmar menopausia precoz?",
+  "opciones": [
+    "Amenorrea en una mujer de 42 años con sofocos",
+    "Dolor abdominal en una mujer de 28 años",
+    "Aumento de peso progresivo en una mujer de 25 años",
+    "Menstruaciones abundantes y regulares en una mujer de 39 años"
+  ],
+  "correcta": 0,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La presencia de amenorrea y síntomas vasomotores en una mujer menor de 45 años justifica evaluar una posible menopausia precoz."
+},
+{
+  "enunciado": "¿Qué término describe el período posterior a la menopausia en el que cesan definitivamente los ciclos menstruales?",
+  "opciones": [
+    "Climaterio",
+    "Perimenopausia",
+    "Premenopausia",
+    "Postmenopausia"
+  ],
+  "correcta": 3,
+  "categorías": ["tema233", "menopausia"],
+  "feedback": "La postmenopausia comienza tras los 12 meses consecutivos de amenorrea y se prolonga durante el resto de la vida de la mujer."
+}
+
+]

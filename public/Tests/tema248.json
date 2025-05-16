@@ -1,0 +1,98 @@
+[
+    {
+  "enunciado": "Según el Proceso Asistencial Integrado del cáncer de mama en Andalucía, ¿cuál es la periodicidad del cribado poblacional con mamografía en mujeres de riesgo habitual?",
+  "opciones": ["Anual desde los 40 años", "Cada 2 años entre los 50 y 69 años", "Cada 5 años entre los 50 y 70 años", "Cada 3 años a partir de los 60 años"],
+  "correcta": 1,
+  "categorias": ["tema248", "cancer_mama", "cribado"],
+  "feedback": "En mujeres con riesgo habitual, el cribado con mamografía bilateral se realiza cada 2 años entre los 50 y 69 años según el protocolo andaluz."
+},
+{
+  "enunciado": "¿Cuál de los siguientes criterios justifica la clasificación de una mujer como de riesgo moderado en el cribado del cáncer de mama?",
+  "opciones": [
+    "Dos familiares de segundo grado diagnosticadas de cáncer de mama antes de los 40",
+    "Un familiar de primer grado diagnosticado entre los 36 y 50 años",
+    "Ausencia de antecedentes familiares pero diagnóstico de pólipos",
+    "Un familiar de tercer grado diagnosticado después de los 70 años"
+  ],
+  "correcta": 1,
+  "categorias": ["tema248", "cancer_mama", "riesgo_moderado"],
+  "feedback": "El riesgo moderado incluye casos como tener un familiar de primer grado diagnosticado entre los 36 y 50 años."
+},
+{
+  "enunciado": "En el cribado del cáncer de mama, ¿a qué edad debe iniciarse la exploración clínica periódica en mujeres con mutación BRCA1 o BRCA2?",
+  "opciones": ["Desde los 50 años", "Desde los 45 años", "Desde los 25-35 años", "Desde los 20 años"],
+  "correcta": 2,
+  "categorias": ["tema248", "cancer_mama", "riesgo_alto"],
+  "feedback": "La exploración clínica en mujeres con mutaciones BRCA debe iniciarse entre los 25 y 35 años."
+},
+{
+  "enunciado": "Según el protocolo andaluz, ¿cuál es la prueba de imagen complementaria indicada anualmente en mujeres con alto riesgo genético (BRCA positivo)?",
+  "opciones": ["Tomografía computarizada", "Resonancia magnética", "Ecografía mamaria", "Densitometría ósea"],
+  "correcta": 1,
+  "categorias": ["tema248", "cancer_mama", "diagnostico"],
+  "feedback": "La RM anual es una prueba complementaria en mujeres con mutaciones BRCA o riesgo genético elevado."
+},
+{
+  "enunciado": "Una mujer de 53 años, sin antecedentes familiares de cáncer de mama, acude a su centro de salud. ¿Cuál es la actuación recomendada según el PAI de cáncer de mama de Andalucía?",
+  "opciones": [
+    "Iniciar seguimiento anual con RMN",
+    "Mamografía cada 2 años",
+    "Exploración clínica cada 6 meses",
+    "Mamografía solo si hay síntomas"
+  ],
+  "correcta": 1,
+  "categorias": ["tema248", "cancer_mama", "cribado"],
+  "feedback": "En mujeres entre 50 y 69 años sin factores de riesgo, se recomienda mamografía cada 2 años."
+},
+{
+  "enunciado": "¿Cuál de los siguientes no es un criterio de alto riesgo según el PAI de cáncer de mama?",
+  "opciones": [
+    "Mutación conocida BRCA1",
+    "Madre y tía con cáncer de mama antes de los 40 años",
+    "Antecedente personal de carcinoma ductal in situ",
+    "Un familiar de segundo grado diagnosticado a los 68 años"
+  ],
+  "correcta": 3,
+  "categorias": ["tema248", "cancer_mama", "estratificacion"],
+  "feedback": "Un único familiar de segundo grado con cáncer a edad avanzada no supone riesgo alto por sí mismo."
+},
+{
+  "enunciado": "Una mujer de 41 años con dos familiares de primer grado con cáncer de mama (ambas antes de los 50 años). ¿Qué seguimiento se recomienda?",
+  "opciones": [
+    "Exploración clínica cada 2 años",
+    "Mamografía cada 2 años desde los 50",
+    "Mamografía anual desde los 40",
+    "RM cada 5 años"
+  ],
+  "correcta": 2,
+  "categorias": ["tema248", "cancer_mama", "riesgo_moderado"],
+  "feedback": "Se considera de riesgo moderado, por lo que debe iniciarse mamografía anual desde los 40 años."
+},
+{
+  "enunciado": "¿Cuál es el objetivo del cribado poblacional del cáncer de mama en mujeres entre 50 y 69 años?",
+  "opciones": [
+    "Detectar exclusivamente carcinomas in situ",
+    "Reducir la mortalidad mediante diagnóstico precoz",
+    "Evitar la necesidad de tratamiento quirúrgico",
+    "Seleccionar a las mujeres candidatas a quimioterapia"
+  ],
+  "correcta": 1,
+  "categorias": ["tema248", "cancer_mama", "objetivos"],
+  "feedback": "El cribado tiene como finalidad principal reducir la mortalidad por cáncer de mama mediante detección precoz."
+},
+{
+  "enunciado": "Una mujer de 35 años, portadora de mutación BRCA1, solicita información sobre cribado. ¿Cuál es la prueba que debería incorporarse anualmente?",
+  "opciones": ["Mamografía", "Ecografía mamaria", "Resonancia magnética", "Densitometría ósea"],
+  "correcta": 2,
+  "categorias": ["tema248", "cancer_mama", "riesgo_alto"],
+  "feedback": "La resonancia magnética es fundamental en cribado precoz de mujeres con mutación BRCA desde los 25-35 años."
+},
+{
+  "enunciado": "En mujeres con riesgo alto pero con mamografía negativa, ¿cuál es la prueba complementaria recomendada en el protocolo andaluz?",
+  "opciones": ["RM mamaria", "Ecografía transvaginal", "PET-TAC", "PAAF mamaria"],
+  "correcta": 0,
+  "categorias": ["tema248", "cancer_mama", "diagnostico"],
+  "feedback": "La RM mamaria puede detectar lesiones no visibles en mamografía, especialmente en mujeres con tejido denso o alto riesgo genético."
+}
+
+]

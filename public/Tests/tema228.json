@@ -1,0 +1,50 @@
+[
+    {
+  "enunciado": "¿Qué valora la escala de Maddox en el ámbito de los cuidados de enfermería?",
+  "opciones": [
+    "La intensidad del dolor en accesos venosos centrales",
+    "El grado de riesgo de extravasación de medicación intravenosa",
+    "El nivel de flebitis asociado a catéteres venosos periféricos",
+    "La permeabilidad del catéter en función del tipo de solución administrada"
+  ],
+  "correcta": 2,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "La escala de Maddox valora el grado de flebitis en función de signos como enrojecimiento, induración, dolor, cordón venoso palpable o presencia de exudado en el punto de inserción."
+},
+{
+  "enunciado": "Un paciente presenta enrojecimiento y dolor a lo largo de la vena, con cordón venoso palpable. Según la escala de Maddox, ¿qué grado de flebitis presenta?",
+  "opciones": ["Grado 1", "Grado 2", "Grado 3", "Grado 4"],
+  "correcta": 2,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "Grado 3: dolor, enrojecimiento, cordón venoso palpable. Escala Maddox: 0 (sin signos), 1 (dolor, eritema leve), 2 (dolor, eritema, induración), 3 (dolor, eritema, cordón venoso palpable), 4 (signos de grado 3 + exudado), 5 (flebitis con signos sistémicos)."
+},
+{
+  "enunciado": "Un paciente tiene dolor en el lugar de inserción del catéter y enrojecimiento leve, pero no hay induración ni cordón palpable. ¿Cuál es el grado según la escala de Maddox?",
+  "opciones": ["Grado 1", "Grado 2", "Grado 0", "Grado 3"],
+  "correcta": 0,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "Grado 1: dolor y eritema leve. Escala Maddox: 0 (normal), 1 (dolor y eritema), 2 (induración), 3 (cordón venoso), 4 (exudado), 5 (signos sistémicos)."
+},
+{
+  "enunciado": "Un paciente con acceso venoso periférico presenta dolor, eritema, induración y exudado purulento en el punto de inserción. ¿Qué grado indica la escala de Maddox?",
+  "opciones": ["Grado 3", "Grado 4", "Grado 5", "Grado 2"],
+  "correcta": 1,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "Grado 4: dolor, enrojecimiento, cordón venoso palpable y exudado. Escala Maddox: 0 (sin signos), 1 (eritema leve), 2 (induración), 3 (cordón palpable), 4 (exudado), 5 (fiebre/signos sistémicos)."
+},
+{
+  "enunciado": "Una enfermera observa que el paciente con vía periférica presenta fiebre, malestar general y signos locales de flebitis. ¿Qué grado asignaría según la escala de Maddox?",
+  "opciones": ["Grado 3", "Grado 4", "Grado 5", "Grado 2"],
+  "correcta": 2,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "Grado 5: todos los signos locales de flebitis más signos sistémicos como fiebre o malestar. Escala Maddox: 0 (sin signos), 1 (eritema leve), 2 (induración), 3 (cordón), 4 (exudado), 5 (sistémicos)."
+},
+{
+  "enunciado": "Un acceso venoso periférico sin dolor, eritema ni otros signos clínicos corresponde a qué grado según la escala de Maddox:",
+  "opciones": ["Grado 0", "Grado 1", "Grado 2", "Grado 3"],
+  "correcta": 0,
+  "categorías": ["tema228", "escala_maddox"],
+  "feedback": "Grado 0: ausencia total de signos de flebitis. Escala Maddox: 0 (sin signos), 1 (dolor y eritema), 2 (induración), 3 (cordón palpable), 4 (exudado), 5 (signos sistémicos)."
+}
+
+]

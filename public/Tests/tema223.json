@@ -1,0 +1,124 @@
+[
+    {
+  "enunciado": "¿Cuál es la definición de salud según la OMS?",
+  "opciones": [
+    "Ausencia de enfermedad o discapacidad",
+    "Estado completo de bienestar físico, mental y social, y no solamente la ausencia de enfermedad",
+    "Capacidad del organismo para adaptarse al medio",
+    "Nivel óptimo de funcionamiento biológico y emocional del individuo"
+  ],
+  "correcta": 1,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La OMS define salud como un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades."
+},
+{
+  "enunciado": "Según la OMS, el bienestar social como parte de la salud implica:",
+  "opciones": [
+    "Tener un empleo estable y seguro",
+    "Contar con una red de apoyo familiar y comunitaria",
+    "Tener una vida espiritual plena",
+    "Poseer un nivel económico superior al promedio"
+  ],
+  "correcta": 1,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "El bienestar social se refiere a la capacidad del individuo para relacionarse, integrarse y participar activamente en su comunidad y entorno social."
+},
+{
+  "enunciado": "¿Qué aspecto NO forma parte de la definición de salud según la OMS?",
+  "opciones": [
+    "Bienestar mental",
+    "Bienestar espiritual",
+    "Bienestar físico",
+    "Bienestar social"
+  ],
+  "correcta": 1,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La definición clásica de la OMS no incluye el componente espiritual, aunque se reconoce su importancia en enfoques más recientes de salud integral."
+},
+{
+  "enunciado": "¿Qué implica el enfoque de salud propuesto por la OMS?",
+  "opciones": [
+    "Reducir la mortalidad como único indicador de éxito sanitario",
+    "Atender solo enfermedades transmisibles y crónicas",
+    "Promover un equilibrio entre lo físico, mental y social",
+    "Priorizar el uso de la tecnología diagnóstica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La OMS considera la salud como un equilibrio dinámico entre bienestar físico, mental y social, lo que implica un abordaje integral y preventivo."
+},
+{
+  "enunciado": "¿Cuál de estas afirmaciones refleja mejor el concepto moderno de salud pública según la OMS?",
+  "opciones": [
+    "Es la asistencia sanitaria proporcionada en centros hospitalarios",
+    "Es un conjunto de estrategias centradas en la curación de enfermedades",
+    "Es la ciencia y el arte de prevenir enfermedades, prolongar la vida y promover la salud mediante esfuerzos colectivos",
+    "Es la vigilancia activa de enfermedades infecciosas a nivel mundial"
+  ],
+  "correcta": 2,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La salud pública, según la OMS y enfoques clásicos como el de Winslow, se basa en la prevención, la promoción y la intervención colectiva en salud."
+},
+{
+  "enunciado": "¿Qué son los determinantes sociales de la salud según la OMS?",
+  "opciones": [
+    "Factores genéticos que condicionan el estado de salud",
+    "Factores individuales relacionados con hábitos personales",
+    "Factores del entorno social, económico y político que influyen en la salud",
+    "Factores biológicos asociados a enfermedades crónicas no transmisibles"
+  ],
+  "correcta": 2,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La OMS define los determinantes sociales de la salud como las condiciones sociales y económicas en las que las personas nacen, crecen, viven, trabajan y envejecen, y que afectan su salud."
+},
+{
+  "enunciado": "¿Cuál es el objetivo principal de la promoción de la salud según la OMS?",
+  "opciones": [
+    "Tratar enfermedades crónicas con tecnología avanzada",
+    "Fortalecer las unidades de cuidados intensivos",
+    "Aumentar la longevidad sin considerar calidad de vida",
+    "Capacitar a las personas para ejercer mayor control sobre su salud"
+  ],
+  "correcta": 3,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La promoción de la salud busca empoderar a las personas para que aumenten el control sobre su salud y la mejoren, actuando sobre los determinantes de la salud."
+},
+{
+  "enunciado": "¿Cuál de los siguientes elementos NO forma parte de los principios de la Atención Primaria de Salud según la OMS?",
+  "opciones": [
+    "Participación activa de la comunidad",
+    "Atención integral y accesible",
+    "Privatización progresiva de los servicios sanitarios",
+    "Coordinación intersectorial"
+  ],
+  "correcta": 2,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La privatización no es un principio de la Atención Primaria. Esta debe ser accesible, equitativa, integrada, y basada en la participación comunitaria y la colaboración intersectorial."
+},
+{
+  "enunciado": "Según la OMS, ¿qué factor se considera un determinante estructural de la salud?",
+  "opciones": [
+    "Acceso a fruta y verdura fresca",
+    "Condiciones de trabajo y empleo",
+    "Nivel de actividad física semanal",
+    "Frecuencia de uso de antibióticos"
+  ],
+  "correcta": 1,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "Las condiciones laborales, junto con la educación, el ingreso económico y el género, son considerados determinantes estructurales de la salud por la OMS."
+},
+{
+  "enunciado": "¿Qué documento marcó un hito internacional al establecer los principios de la Atención Primaria de Salud?",
+  "opciones": [
+    "Informe de Alma-Ata (1978)",
+    "Carta de Ottawa (1986)",
+    "Informe Lalonde (1974)",
+    "Declaración de Pekín (1995)"
+  ],
+  "correcta": 0,
+  "categorías": ["tema223", "definiciones_OMS"],
+  "feedback": "La Declaración de Alma-Ata (1978) fue un documento clave que definió la Atención Primaria de Salud como estrategia esencial para alcanzar el objetivo de 'Salud para todos'."
+}
+
+
+]

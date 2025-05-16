@@ -1,0 +1,123 @@
+[
+  {
+    "enunciado": "Una mujer de 82 años, institucionalizada y con movilidad conservada, ha sufrido una caída sin lesiones. ¿Cuál sería una medida preventiva prioritaria según la guía FASE?",
+    "opciones": [
+      "Ajustar la dosis de ansiolíticos y mantener observación continua",
+      "Prescribir lentes bifocales para mejorar visión cercana y lejana",
+      "Realizar evaluación del entorno y modificar factores de riesgo ambientales",
+      "Sustituir su calzado habitual por zapatillas sin suela para evitar tropiezos"
+    ],
+    "correcta": 2,
+    "categorías": ["tema243"],
+    "feedback": "La evaluación del entorno físico del paciente institucionalizado es una medida clave en la prevención de nuevas caídas según la guía FASE."
+  },
+  {
+    "enunciado": "En relación con el abordaje farmacológico en prevención de caídas en mayores, señale la opción correcta:",
+    "opciones": [
+      "Los psicotrópicos deben mantenerse si el paciente tiene antecedentes de insomnio",
+      "Es recomendable la revisión anual de medicación, especialmente en polimedicados",
+      "Solo los medicamentos con receta deben revisarse tras una caída",
+      "Los antidepresivos no influyen en el riesgo de caídas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema243"],
+    "feedback": "La revisión anual de la medicación es esencial en mayores, especialmente si hay polimedicación, ya que ciertos fármacos aumentan el riesgo de caídas."
+  },
+  {
+    "enunciado": "Según la guía FASE, ¿cuál de las siguientes recomendaciones sobre la intervención visual es más adecuada para reducir el riesgo de caídas?",
+    "opciones": [
+      "Evitar derivaciones oftalmológicas en mayores de 80 años",
+      "Fomentar el uso de lentes multifocales por su versatilidad",
+      "Informar sobre los riesgos tras cambios de graduación en gafas",
+      "Utilizar gafas oscuras en espacios mal iluminados"
+    ],
+    "correcta": 2,
+    "categorías": ["tema243"],
+    "feedback": "Los cambios en la graduación de lentes requieren un periodo de adaptación; es fundamental informar sobre el riesgo temporal de caídas tras el cambio."
+  },
+  {
+    "enunciado": "Respecto a la intervención sobre la incontinencia urinaria en personas institucionalizadas con riesgo de caídas, ¿qué medida es adecuada según la guía?",
+    "opciones": [
+      "Restringir líquidos durante la noche",
+      "Instaurar visitas al baño regulares y personalizadas",
+      "Evitar el uso del baño y utilizar pañal para prevenir accidentes",
+      "Reforzar la toma de diuréticos para evitar edemas"
+    ],
+    "correcta": 1,
+    "categorías": ["tema243"],
+    "feedback": "Las visitas programadas al baño adaptadas al perfil del residente ayudan a reducir el riesgo de caídas relacionadas con la urgencia miccional."
+  },
+  {
+    "enunciado": "En personas mayores institucionalizadas, ¿cuál de las siguientes medidas es útil para prevenir caídas relacionadas con el calzado?",
+    "opciones": [
+      "Fomentar caminar descalzo para evitar tropiezos con el calzado",
+      "Usar exclusivamente zapatillas deportivas con cámara de aire",
+      "Valorar dolor y ajuste del calzado, proporcionando calzado adecuado",
+      "Recomendar uso de sandalias sin sujeción en meses cálidos"
+    ],
+    "correcta": 2,
+    "categorías": ["tema243"],
+    "feedback": "La revisión del ajuste y estado del calzado, así como el tratamiento del dolor en los pies, es esencial en la prevención de caídas en mayores."
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es correcta según la evidencia recogida en la guía FASE sobre déficits visuales?",
+    "opciones": [
+      "El uso de lentes multifocales previene caídas en ambientes domésticos",
+      "La derivación al especialista como intervención aislada no reduce caídas",
+      "La cirugía de cataratas solo está indicada si hay pérdida completa de visión",
+      "Las gafas bifocales son recomendables para ambientes desconocidos"
+    ],
+    "correcta": 1,
+    "categorías": ["tema243"],
+    "feedback": "La derivación a oftalmología no es eficaz como intervención aislada; debe integrarse en un enfoque multifactorial para prevenir caídas."
+  },
+  {
+    "enunciado": "En un programa de prevención de caídas en hospitalización, ¿cuál sería una intervención educativa efectiva?",
+    "opciones": [
+      "Instrucciones verbales breves al alta",
+      "Evitar hablar sobre el riesgo para no generar ansiedad",
+      "Proporcionar educación estructurada durante la hospitalización y al alta",
+      "Recomendar evitar la actividad física durante 30 días"
+    ],
+    "correcta": 2,
+    "categorías": ["tema243"],
+    "feedback": "La educación estructurada mejora la conciencia del riesgo de caídas y favorece la adherencia a medidas preventivas tanto en el hospital como en domicilio."
+  },
+  {
+    "enunciado": "Un paciente con caídas inexplicadas y diagnóstico de hipersensibilidad del seno carotídeo podría beneficiarse de:",
+    "opciones": [
+      "Evaluación visual urgente",
+      "Cirugía ortopédica preventiva",
+      "Implante de marcapasos",
+      "Entrenamiento físico de alta intensidad"
+    ],
+    "correcta": 2,
+    "categorías": ["tema243"],
+    "feedback": "En pacientes mayores con caídas inexplicadas y disfunción del seno carotídeo, se valora la colocación de un marcapasos como parte del manejo clínico."
+  },
+  {
+    "enunciado": "¿Cuál es una recomendación clave para asegurar la eficacia de un programa de prevención de caídas en mayores que viven en la comunidad?",
+    "opciones": [
+      "Aumentar el número de visitas domiciliarias médicas",
+      "Establecer acuerdos personalizados y fomentar su participación activa",
+      "Incluir a familiares como responsables únicos del seguimiento",
+      "Evitar involucrar al paciente para prevenir preocupaciones"
+    ],
+    "correcta": 1,
+    "categorías": ["tema243"],
+    "feedback": "La participación activa del mayor en su propio cuidado es esencial; los programas deben adaptarse a sus necesidades y preferencias."
+  },
+  {
+    "enunciado": "En relación con la vigilancia del paciente institucionalizado con alto riesgo de caídas, indique la opción adecuada:",
+    "opciones": [
+      "Debe limitarse para respetar su privacidad",
+      "Debe aumentarse sin comprometer la intimidad, para prevenir nuevas caídas",
+      "Solo debe realizarse en horario nocturno",
+      "Está contraindicada si el paciente tiene deterioro cognitivo"
+    ],
+    "correcta": 1,
+    "categorías": ["tema243"],
+    "feedback": "La mayor vigilancia individualizada puede reducir el riesgo de caídas, siempre respetando la privacidad del paciente institucionalizado."
+  }
+
+]

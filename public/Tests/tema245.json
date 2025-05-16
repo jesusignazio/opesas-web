@@ -1,0 +1,210 @@
+[
+    {
+  "enunciado": "En el contexto del examen de salud para mayores de 65 años, ¿cuál de los siguientes test se utiliza para la detección rápida del deterioro cognitivo?",
+  "opciones": ["Test de Pfeiffer", "Test de Yesavage", "Índice de Barthel", "Escala de Norton"],
+  "correcta": 0,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer se emplea como herramienta rápida para la detección de deterioro cognitivo en mayores durante el cribado inicial."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto al test de Pfeiffer en el examen de salud de mayores de 65 años?",
+  "opciones": [
+    "Es una prueba compleja que requiere instrumental especializado.",
+    "Evalúa principalmente la fuerza muscular.",
+    "Puede realizarse en pocos minutos y detectar deterioro cognitivo leve.",
+    "Está destinada a valorar el estado nutricional del paciente."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer es una prueba rápida y sencilla, adecuada para la detección de deterioro cognitivo leve."
+},
+{
+  "enunciado": "¿Cuál es el objetivo principal del Mini Examen Cognoscitivo de Lobo?",
+  "opciones": [
+    "Evaluar el riesgo de caídas",
+    "Detectar sintomatología depresiva",
+    "Valorar la función renal",
+    "Evaluar el estado cognitivo de forma más detallada que otras pruebas"
+  ],
+  "correcta": 3,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El Mini Examen Cognoscitivo de Lobo permite una valoración más exhaustiva del deterioro cognitivo que pruebas breves como Pfeiffer."
+},
+{
+  "enunciado": "En el examen de salud de mayores de 65 años, el test de Lobo está especialmente indicado cuando:",
+  "opciones": [
+    "El paciente presenta depresión",
+    "Hay sospecha de deterioro cognitivo y se requiere una evaluación más extensa",
+    "El paciente presenta dolor crónico",
+    "Se sospecha riesgo de úlceras por presión"
+  ],
+  "correcta": 1,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Lobo se emplea cuando se requiere una evaluación cognitiva más profunda, especialmente si el Pfeiffer resulta alterado."
+},
+{
+  "enunciado": "¿Cuál de las siguientes características define al test de Pfeiffer en el contexto del examen de salud >65 años?",
+  "opciones": [
+    "Evalúa memoria, lenguaje, razonamiento y orientación espacial en profundidad.",
+    "Es sensible a los cambios de estado cognitivo leve en población institucionalizada.",
+    "Permite una detección rápida de deterioro cognitivo en atención primaria.",
+    "Está indicado solo para personas institucionalizadas."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer es una herramienta útil para el cribado de deterioro cognitivo leve en mayores, en el contexto de atención primaria."
+},
+{
+  "enunciado": "En una persona mayor con resultado dudoso en el test de Pfeiffer, ¿cuál sería el siguiente paso más adecuado?",
+  "opciones": [
+    "Realizar el test de Lobo para una valoración cognitiva más completa",
+    "Repetir el test de Pfeiffer en 6 meses",
+    "Valorar la función renal",
+    "Derivación urgente a neurología"
+  ],
+  "correcta": 0,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "Un resultado dudoso en Pfeiffer se complementa habitualmente con el Mini Examen Cognoscitivo de Lobo para precisar el diagnóstico."
+},
+{
+  "enunciado": "El test de Pfeiffer es útil en el examen de salud >65 años porque:",
+  "opciones": [
+    "Evalúa el estado nutricional del paciente",
+    "Permite detectar de forma precoz el deterioro cognitivo",
+    "Determina el grado de dependencia funcional",
+    "Detecta trastornos del equilibrio"
+  ],
+  "correcta": 1,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer permite detectar precozmente alteraciones cognitivas que pueden pasar desapercibidas en mayores."
+},
+{
+  "enunciado": "¿Qué herramienta se considera más completa para evaluar cognitivamente a una persona mayor con sospecha de deterioro leve?",
+  "opciones": ["Escala de Katz", "Test de Pfeiffer", "Mini Examen Cognoscitivo de Lobo", "Índice de Tinetti"],
+  "correcta": 2,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El Mini Examen Cognoscitivo de Lobo es más detallado y completo que el test de Pfeiffer, especialmente útil en sospechas de deterioro leve."
+},
+{
+  "enunciado": "En el cribado cognitivo de personas mayores, ¿cuál es una ventaja del test de Pfeiffer respecto a otras pruebas?",
+  "opciones": [
+    "No necesita interpretación clínica posterior",
+    "Puede aplicarse en cualquier entorno sin apenas preparación",
+    "Sustituye a toda valoración geriátrica",
+    "No requiere participación activa del paciente"
+  ],
+  "correcta": 1,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer es práctico y de fácil aplicación, adecuado para su uso en domicilios, centros de salud o visitas comunitarias."
+},
+{
+  "enunciado": "Una característica importante del Mini Examen Cognoscitivo de Lobo es que:",
+  "opciones": [
+    "Solo puede aplicarse en el hospital",
+    "Está diseñado exclusivamente para pacientes con demencia avanzada",
+    "Requiere más tiempo y colaboración del paciente que el test de Pfeiffer",
+    "Evalúa preferentemente el estado funcional del paciente"
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Lobo es más extenso que el de Pfeiffer y exige una mayor implicación del paciente, lo que permite una evaluación más completa."
+},
+{
+  "enunciado": "Respecto al test de Pfeiffer en el examen de salud >65 años, señale la afirmación correcta:",
+  "opciones": [
+    "Requiere que el paciente sepa leer y escribir para su correcta aplicación.",
+    "No puede aplicarse en personas con deterioro sensorial auditivo.",
+    "Puede aplicarse incluso en personas analfabetas.",
+    "Solo debe usarse en personas institucionalizadas."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer está diseñado para ser aplicable en personas mayores con diferentes niveles de alfabetización, incluyendo personas analfabetas, ya que se basa en preguntas orales sencillas."
+},
+{
+  "enunciado": "Una ventaja del test de Pfeiffer en la valoración del estado cognitivo de personas mayores es que:",
+  "opciones": [
+    "Incluye pruebas escritas de lectura y escritura complejas.",
+    "Solo puede aplicarse en centros sanitarios especializados.",
+    "Requiere habilidades avanzadas de razonamiento lógico-matemático.",
+    "Es adecuado para personas con bajo nivel educativo o analfabetas."
+  ],
+  "correcta": 3,
+  "categorías": ["tema245", "cognitivo_mayores"],
+  "feedback": "El test de Pfeiffer es especialmente útil en atención primaria por su sencillez y porque puede aplicarse incluso a personas sin formación académica o analfabetas."
+},
+{
+  "enunciado": "¿Cuál es el objetivo principal del test de Zarit?",
+  "opciones": [
+    "Evaluar el nivel de depresión en personas mayores.",
+    "Medir el deterioro cognitivo de los pacientes geriátricos.",
+    "Valorar la sobrecarga del cuidador principal.",
+    "Clasificar el grado de dependencia funcional."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "El test de Zarit es una herramienta validada que mide el nivel de sobrecarga del cuidador de personas dependientes, especialmente en el contexto de enfermedades crónicas y deterioro cognitivo."
+},
+{
+  "enunciado": "¿Qué evalúa la escala de Yesavage en personas mayores?",
+  "opciones": [
+    "Nivel de autoestima.",
+    "Síntomas depresivos.",
+    "Grado de dependencia funcional.",
+    "Riesgo de caídas."
+  ],
+  "correcta": 1,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "La escala de Yesavage es un instrumento de cribado diseñado para detectar la presencia de sintomatología depresiva en población geriátrica."
+},
+{
+  "enunciado": "El test APGAR familiar permite:",
+  "opciones": [
+    "Determinar el riesgo de institucionalización.",
+    "Detectar trastornos del sueño en mayores.",
+    "Medir la percepción que tiene la persona sobre el funcionamiento de su entorno familiar.",
+    "Valorar la adherencia al tratamiento farmacológico."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "El APGAR familiar mide la satisfacción con la funcionalidad de la familia, evaluando aspectos como adaptabilidad, participación, crecimiento, afecto y recursos."
+},
+{
+  "enunciado": "¿Qué dimensión social evalúa el test de Gijón?",
+  "opciones": [
+    "Grado de estrés del cuidador.",
+    "Nivel de soledad emocional.",
+    "Riesgo social en personas mayores.",
+    "Adherencia al tratamiento médico."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "El test de Gijón es un instrumento utilizado para identificar el riesgo social en personas mayores, considerando factores como el entorno, apoyo familiar, situación económica y relaciones sociales."
+},
+{
+  "enunciado": "Una puntuación alta en el test de Zarit indica:",
+  "opciones": [
+    "Bajo riesgo de caídas.",
+    "Escasa implicación del cuidador.",
+    "Alta sobrecarga del cuidador.",
+    "Buen estado funcional del paciente."
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "Una puntuación elevada en el test de Zarit refleja un nivel alto de sobrecarga del cuidador, lo que puede requerir intervención profesional o apoyo comunitario."
+},
+{
+  "enunciado": "¿Cuál de los siguientes test se utiliza específicamente para valorar el estado afectivo de personas mayores?",
+  "opciones": [
+    "Índice de Katz",
+    "Mini Examen Cognoscitivo",
+    "Yesavage",
+    "APGAR familiar"
+  ],
+  "correcta": 2,
+  "categorías": ["tema245", "test_geriatria"],
+  "feedback": "El test de Yesavage está específicamente diseñado para detectar sintomatología depresiva en personas mayores de forma sencilla y efectiva."
+}
+
+
+]

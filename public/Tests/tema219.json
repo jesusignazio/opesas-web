@@ -1,0 +1,73 @@
+[
+    {
+  "enunciado": "Según la Ley 55/2003, ¿qué sanción conlleva la pérdida de la condición de personal estatutario?",
+  "opciones": ["Suspensión de funciones", "Apercibimiento", "Traslado forzoso", "Separación del servicio"],
+  "correcta": 3,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "La separación del servicio implica la pérdida de la condición de personal estatutario y sólo puede imponerse por faltas muy graves (art. 73.1.a)."
+},
+{
+  "enunciado": "¿Cuál es el plazo de prescripción para las sanciones impuestas por faltas graves según la Ley 55/2003?",
+  "opciones": ["Un año", "Dos años", "Cuatro años", "Seis meses"],
+  "correcta": 1,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "Las sanciones por faltas graves prescriben a los dos años desde la firmeza de la resolución sancionadora (art. 73.4)."
+},
+{
+  "enunciado": "¿Qué tipo de falta da lugar a la sanción de apercibimiento según la Ley 55/2003?",
+  "opciones": ["Muy grave", "Grave", "Leve", "No regulado"],
+  "correcta": 2,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "El apercibimiento, siempre por escrito, sólo se impone por faltas leves (art. 73.1.e)."
+},
+{
+  "enunciado": "La cancelación de oficio en el expediente de una sanción por falta MUY GRAVE se produce, según la Ley 55/2003, tras:",
+  "opciones": ["Dos años", "Tres años", "Cuatro años", "Seis meses"],
+  "correcta": 2,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "Las sanciones impuestas por faltas muy graves se cancelan a los cuatro años desde el cumplimiento de la sanción (art. 73.5.c)."
+},
+{
+  "enunciado": "Una suspensión de funciones por una falta grave NO puede superar, según la Ley 55/2003:",
+  "opciones": ["Tres meses", "Seis meses", "Un año", "Dos años"],
+  "correcta": 3,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "Por faltas graves, la suspensión de funciones no puede superar los dos años (art. 73.1.c)."
+},
+{
+  "enunciado": "¿Cuál de las siguientes sanciones requiere siempre que la falta cometida sea MUY GRAVE, según la Ley 55/2003?",
+  "opciones": ["Suspensión de funciones menor de 6 meses", "Apercibimiento", "Separación del servicio", "Traslado forzoso sin cambio de localidad"],
+  "correcta": 2,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "La separación del servicio sólo se impone por faltas muy graves (art. 73.1.a)."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿cuándo se cancelará de oficio en el expediente una sanción por falta leve?",
+  "opciones": ["A los tres meses del cumplimiento", "A los seis meses del cumplimiento", "A los doce meses del cumplimiento", "Nunca se cancela"],
+  "correcta": 1,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "Las sanciones por faltas leves se cancelan a los seis meses desde el cumplimiento de la sanción (art. 73.5.a)."
+},
+{
+  "enunciado": "¿Qué ocurre si el procedimiento de ejecución de una sanción se paraliza más de seis meses por causa no imputable al interesado?",
+  "opciones": ["La sanción se anula automáticamente", "Se suspende su prescripción", "Vuelve a contarse el plazo de prescripción", "Se agrava la sanción impuesta"],
+  "correcta": 2,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "Si se paraliza más de seis meses por causas no imputables al interesado, el plazo de prescripción vuelve a correr desde el inicio (art. 73.4)."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿cuánto tiempo estará inhabilitado un sancionado con separación del servicio para trabajar en la Administración pública?",
+  "opciones": ["Dos años", "Cuatro años", "Seis años", "De por vida"],
+  "correcta": 2,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "La sanción de separación del servicio implica una inhabilitación de seis años para trabajar en el sector público (art. 73.1.a)."
+},
+{
+  "enunciado": "Una sanción de traslado forzoso a otra institución sin cambio de localidad solo puede imponerse por:",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "Infracción penal"],
+  "correcta": 1,
+  "categorías": ["tema219", "sanciones_disciplinarias"],
+  "feedback": "El traslado forzoso sin cambio de localidad solo puede imponerse como sanción por falta grave (art. 73.1.d)."
+}
+
+]

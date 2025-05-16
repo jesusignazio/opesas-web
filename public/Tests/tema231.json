@@ -1,0 +1,43 @@
+[
+    {
+  "enunciado": "Un paciente refiere dolor localizado, bien definido, que empeora con el movimiento y que se irradia desde una zona muscular. ¿Qué tipo de dolor es más probable que presente?",
+  "opciones": ["Dolor neuropático", "Dolor paroxístico", "Dolor somático", "Dolor visceral"],
+  "correcta": 2,
+  "categorías": ["tema231", "tipos_dolor"],
+  "feedback": "El dolor somático se origina en estructuras musculoesqueléticas o tegumentarias y suele ser localizado, constante y con aumento al movimiento."
+},
+{
+  "enunciado": "El dolor de origen en vísceras abdominales, de tipo difuso, mal localizado y acompañado de náuseas o sudoración, se clasifica como:",
+  "opciones": ["Dolor somático", "Dolor paroxístico", "Dolor visceral", "Dolor nociceptivo profundo"],
+  "correcta": 2,
+  "categorías": ["tema231", "tipos_dolor"],
+  "feedback": "El dolor visceral se asocia a órganos internos, suele ser mal localizado, sordo y puede acompañarse de síntomas autonómicos como náuseas o sudoración."
+},
+{
+  "enunciado": "Un paciente describe una sensación de calambre, hormigueo y quemazón persistente en los pies, que no se relaciona con un estímulo físico evidente. ¿Qué tipo de dolor es más probable?",
+  "opciones": ["Dolor neuropático", "Dolor somático", "Dolor referido", "Dolor agudo"],
+  "correcta": 0,
+  "categorías": ["tema231", "tipos_dolor"],
+  "feedback": "El dolor neuropático se debe a una lesión o disfunción del sistema nervioso y suele describirse como quemazón, hormigueo, calambres o descargas eléctricas."
+},
+{
+  "enunciado": "El dolor paroxístico se caracteriza por:",
+  "opciones": [
+    "Ser constante, continuo y de intensidad moderada",
+    "Presentarse de forma súbita, intensa y de corta duración",
+    "Estar asociado a lesiones cutáneas visibles",
+    "Responder bien a analgésicos tipo AINE"
+  ],
+  "correcta": 1,
+  "categorías": ["tema231", "tipos_dolor"],
+  "feedback": "El dolor paroxístico es un tipo de dolor que aparece de manera súbita, muy intensa y breve. Es típico en algunos síndromes neurológicos como la neuralgia del trigémino."
+},
+{
+  "enunciado": "Una paciente con cáncer presenta episodios de dolor intenso, de inicio súbito y breve duración, superpuestos a un dolor basal controlado. ¿Qué tipo de dolor está experimentando?",
+  "opciones": ["Dolor somático superficial", "Dolor paroxístico incidental", "Dolor visceral difuso", "Dolor neuropático mixto"],
+  "correcta": 1,
+  "categorías": ["tema231", "tipos_dolor"],
+  "feedback": "El dolor paroxístico incidental es típico en pacientes con cáncer, aparece súbitamente sobre un dolor crónico bien controlado y requiere tratamiento específico adicional."
+}
+
+]

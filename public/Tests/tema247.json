@@ -1,0 +1,62 @@
+[
+    {
+  "enunciado": "En un niño mayor de 3 años con asma intermitente, ¿cuál es el fármaco de elección para el alivio de los síntomas según el PAI de Asma Infantil de Andalucía?",
+  "opciones": [
+    "Montelukast",
+    "Budesonida",
+    "Salbutamol",
+    "Formoterol"
+  ],
+  "correcta": 2,
+  "categorías": ["tema247", "asma_pediatrica"],
+  "feedback": "Salbutamol, un beta-2 agonista de acción corta, es el fármaco de elección para el tratamiento de rescate en el asma intermitente."
+},
+{
+  "enunciado": "Un niño con asma mal controlada a pesar del uso diario de budesonida a dosis bajas, ¿qué medida se recomienda como siguiente escalón terapéutico según el PAI?",
+  "opciones": [
+    "Aumentar la dosis de budesonida a alta",
+    "Añadir montelukast",
+    "Interrumpir el tratamiento y observar evolución",
+    "Cambiar a salbutamol en monoterapia"
+  ],
+  "correcta": 1,
+  "categorías": ["tema247", "asma_pediatrica"],
+  "feedback": "La adición de montelukast como segundo fármaco es preferible antes que aumentar la dosis de GCI a niveles altos."
+},
+{
+  "enunciado": "¿Qué combinación de medicamentos está indicada en niños mayores de 4 años con asma moderado a grave, cuando el control no se consigue con budesonida sola?",
+  "opciones": [
+    "Budesonida y formoterol",
+    "Montelukast y salbutamol",
+    "Formoterol en monoterapia",
+    "Salbutamol y cromoglicato"
+  ],
+  "correcta": 0,
+  "categorías": ["tema247", "asma_pediatrica"],
+  "feedback": "La combinación de budesonida (GCI) y formoterol (LABA) está indicada en niños mayores de 4 años y mejora el control del asma sin recurrir a dosis altas de esteroides."
+},
+{
+  "enunciado": "¿Cuál de los siguientes es un criterio para indicar inmunoterapia específica en asma infantil según el PAI de Andalucía?",
+  "opciones": [
+    "Asma grave no controlada con múltiples fármacos",
+    "Asma intermitente sin sensibilización alérgica demostrada",
+    "Asma leve con sensibilización a un único alérgeno y buena respuesta a fármacos",
+    "Asma moderada con sensibilización alérgica documentada y síntomas persistentes pese a tratamiento óptimo"
+  ],
+  "correcta": 3,
+  "categorías": ["tema247", "asma_pediatrica", "inmunoterapia"],
+  "feedback": "La inmunoterapia específica puede estar indicada en casos de asma moderada con sensibilización alérgica y síntomas persistentes a pesar de tratamiento bien establecido."
+},
+{
+  "enunciado": "¿Cuál de las siguientes combinaciones está contraindicada en el tratamiento del asma infantil según el PAI de Andalucía?",
+  "opciones": [
+    "Montelukast y budesonida",
+    "Formoterol en monoterapia",
+    "Salbutamol como medicación de rescate",
+    "Budesonida a dosis bajas en asma persistente leve"
+  ],
+  "correcta": 1,
+  "categorías": ["tema247", "asma_pediatrica"],
+  "feedback": "Formoterol, un LABA, nunca debe usarse en monoterapia en el tratamiento del asma infantil debido al riesgo de eventos adversos graves; siempre debe asociarse a un GCI."
+}
+]

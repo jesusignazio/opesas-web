@@ -1,5 +1,196 @@
 [
     
-      
+      {
+  "enunciado": "¿Cuál de las siguientes acciones constituye una falta MUY GRAVE según la Ley 55/2003?",
+  "opciones": [
+    "Negligencia leve en prevención de riesgos laborales",
+    "Abandono del servicio",
+    "Incorrección con un superior",
+    "Incumplimiento injustificado del horario durante un día"
+  ],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El abandono del servicio se considera una falta muy grave según el artículo 72.2.d de la Ley 55/2003."
+},
+{
+  "enunciado": "Aceptar compensaciones por parte de proveedores para obtener beneficios indebidos se considera:",
+  "opciones": [
+    "Una falta leve",
+    "Una falta grave",
+    "Una falta muy grave",
+    "No está tipificado como falta en la Ley 55/2003"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Según la Ley 55/2003, es una falta muy grave (art. 72.2.m) prevalerse de la condición de personal estatutario para obtener un beneficio indebido."
+},
+{
+  "enunciado": "¿Qué tipo de falta es la grave desconsideración hacia un usuario del sistema sanitario?",
+  "opciones": [
+    "Muy grave",
+    "Grave",
+    "Leve",
+    "No se considera falta"
+  ],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "La grave desconsideración con superiores, compañeros o usuarios es una falta grave (art. 72.3.d)."
+},
+{
+  "enunciado": "Según la Ley 55/2003, la falta injustificada de asistencia durante más de 5 días continuados es:",
+  "opciones": [
+    "Una falta leve",
+    "Una falta grave",
+    "Una falta muy grave",
+    "Una infracción administrativa"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "La acumulación de más de cinco días continuados de falta injustificada es una falta muy grave (art. 72.2.e)."
+},
+{
+  "enunciado": "El incumplimiento de funciones que no cause perjuicio a usuarios ni al servicio es considerado:",
+  "opciones": [
+    "Falta leve",
+    "Falta grave",
+    "Falta muy grave",
+    "No es sancionable"
+  ],
+  "correcta": 0,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El descuido o negligencia sin afectar a servicios o usuarios es una falta leve (art. 72.4.d)."
+},
+{
+  "enunciado": "¿Qué tipo de falta es inducir a otro profesional a cometer una falta MUY GRAVE?",
+  "opciones": [
+    "Grave",
+    "Leve",
+    "Muy grave",
+    "No está tipificado"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "La inducción directa a cometer una falta muy grave también se considera una falta muy grave (art. 72.2.s)."
+},
+{
+  "enunciado": "¿Qué falta prescribe en un plazo de 6 meses según la Ley 55/2003?",
+  "opciones": [
+    "El acoso sexual con intimidación",
+    "El incumplimiento injustificado del horario sin afectar al servicio",
+    "El abandono del servicio",
+    "La cooperación con actos que permiten faltas muy graves"
+  ],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Las faltas leves prescriben a los seis meses. El incumplimiento de horario sin efectos graves es una falta leve (art. 72.4.a y art. 72.6)."
+},
+{
+  "enunciado": "Impedir el funcionamiento de los servicios esenciales durante una huelga se considera:",
+  "opciones": [
+    "Una infracción laboral",
+    "Una falta leve",
+    "Una falta muy grave",
+    "Una conducta no tipificada"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Actuar para impedir el adecuado funcionamiento de los servicios esenciales durante una huelga es una falta muy grave (art. 72.2.ñ)."
+},
+{
+  "enunciado": "El acoso sexual que genera un entorno humillante, pero no conlleva chantaje ni agresión, se considera:",
+  "opciones": [
+    "Falta muy grave",
+    "Falta leve",
+    "Falta grave",
+    "No está regulado"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El acoso sexual con ambiente hostil se tipifica como falta grave (art. 72.3.e). Solo se considera muy grave si hay agresión o chantaje (art. 72.2.p)."
+},
+{
+  "enunciado": "Utilizar equipos del centro de salud para actividades personales es:",
+  "opciones": [
+    "Una falta grave",
+    "Una falta leve",
+    "Una falta muy grave",
+    "Una falta exclusivamente administrativa"
+  ],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El uso indebido de instalaciones o equipos para actividades ajenas es una falta muy grave (art. 72.2.r)."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿qué tipo de falta disciplinaria constituye el abandono del servicio?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "Infracción administrativa"],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El abandono del servicio se considera una falta muy grave según el artículo 72.2.d de la Ley 55/2003."
+},
+{
+  "enunciado": "De acuerdo con la Ley 55/2003, ¿cómo se clasifica la falta de obediencia debida a un superior?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No es falta disciplinaria"],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "La desobediencia se considera falta grave (art. 72.3.a), salvo que sea notoria y manifiesta, en cuyo caso sería muy grave."
+},
+{
+  "enunciado": "Según el artículo 72 de la Ley 55/2003, ¿qué tipo de falta es la inducción a otro profesional para cometer una falta muy grave?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No se contempla en la ley"],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "La inducción directa a cometer una falta muy grave también se clasifica como muy grave (art. 72.2.s)."
+},
+{
+  "enunciado": "En la Ley 55/2003, ¿qué consideración tiene la grave desconsideración hacia un usuario del sistema sanitario?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "Infracción no tipificada"],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Es una falta grave según el art. 72.3.d de la Ley 55/2003."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿cómo se clasifica la utilización de instalaciones sanitarias para actividades ajenas al servicio?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No se considera falta"],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El uso indebido de instalaciones o equipamiento se considera una falta muy grave (art. 72.2.r)."
+},
+{
+  "enunciado": "En el marco de la Ley 55/2003, ¿qué tipo de falta es el acoso sexual que crea un entorno hostil, sin llegar a la agresión o chantaje?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No está regulado"],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Este comportamiento está tipificado como falta grave (art. 72.3.e), mientras que el acoso con agresión o chantaje es muy grave (art. 72.2.p)."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿cuál es el tipo de falta asociada al encubrimiento de una falta grave cometida por otro profesional?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No está tipificada"],
+  "correcta": 0,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El encubrimiento de faltas graves se clasifica como falta leve según el art. 72.4.g."
+},
+{
+  "enunciado": "¿Qué tipo de falta representa, según la Ley 55/2003, la aceptación de contraprestación por servicios prestados a usuarios?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "Depende del tipo de servicio"],
+  "correcta": 2,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Es una falta muy grave (art. 72.2.q), ya que se prohíbe expresamente la exigencia o aceptación de compensaciones por parte de los usuarios."
+},
+{
+  "enunciado": "Según la Ley 55/2003, ¿qué tipo de falta es el incumplimiento injustificado del horario cuando no afecta al servicio?",
+  "opciones": ["Falta leve", "Falta grave", "Falta muy grave", "No es sancionable"],
+  "correcta": 0,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "El incumplimiento leve del horario sin impacto en el servicio se tipifica como falta leve (art. 72.4.a)."
+},
+{
+  "enunciado": "De acuerdo con la Ley 55/2003, ¿cuál es el plazo de prescripción de una falta muy grave?",
+  "opciones": ["Dos años", "Cuatro años", "Seis meses", "Un año"],
+  "correcta": 1,
+  "categorías": ["tema218", "faltas_disciplinarias"],
+  "feedback": "Las faltas muy graves prescriben a los cuatro años desde su comisión (art. 72.6)."
+}
+
+
       
 ]

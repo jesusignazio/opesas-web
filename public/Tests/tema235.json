@@ -1,0 +1,329 @@
+[
+    {
+  "enunciado": "¿Cuál de los siguientes es un indicador demográfico básico según el Instituto Nacional de Estadística (INE)?",
+  "opciones": [
+    "Índice de masa corporal (IMC)",
+    "Tasa de fecundidad",
+    "Índice de dependencia farmacológica",
+    "Nivel de hemoglobina en población general"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La tasa de fecundidad es uno de los indicadores demográficos básicos según el INE, junto con natalidad, mortalidad, esperanza de vida, etc."
+},
+{
+  "enunciado": "¿Cuál de los siguientes NO se considera un indicador demográfico básico según el INE?",
+  "opciones": [
+    "Esperanza de vida al nacer",
+    "Índice de envejecimiento",
+    "Tasa de letalidad hospitalaria",
+    "Tasa bruta de natalidad"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La tasa de letalidad hospitalaria es un indicador clínico, no demográfico. Los demás son indicadores básicos del INE."
+},
+{
+  "enunciado": "¿Qué indicador demográfico básico del INE mide la proporción de personas mayores respecto a los jóvenes?",
+  "opciones": [
+    "Tasa de natalidad",
+    "Índice de envejecimiento",
+    "Tasa de crecimiento vegetativo",
+    "Esperanza de vida"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El índice de envejecimiento relaciona la población de 65 años o más con la de menores de 16 años."
+},
+{
+  "enunciado": "Según el INE, ¿cuál de los siguientes indicadores se utiliza para estimar el relevo generacional?",
+  "opciones": [
+    "Tasa de fecundidad total",
+    "Índice de mortalidad infantil",
+    "Tasa de dependencia",
+    "Índice sintético de fecundidad"
+  ],
+  "correcta": 3,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El índice sintético de fecundidad indica el número medio de hijos por mujer en edad fértil y se emplea para valorar el relevo generacional."
+},
+{
+  "enunciado": "¿Qué indicador demográfico básico representa la diferencia entre nacimientos y defunciones?",
+  "opciones": [
+    "Crecimiento vegetativo",
+    "Tasa de fecundidad",
+    "Índice de natalidad ajustada",
+    "Esperanza de vida residual"
+  ],
+  "correcta": 0,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento vegetativo se obtiene restando el número de defunciones al de nacimientos en un período determinado."
+},
+{
+  "enunciado": "¿Qué mide la tasa bruta de natalidad según los indicadores demográficos del INE?",
+  "opciones": [
+    "Número de hijos por mujer",
+    "Número de nacimientos por cada 1.000 habitantes en un año",
+    "Porcentaje de partos múltiples",
+    "Relación entre mujeres fértiles y nacimientos"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La tasa bruta de natalidad es el número de nacimientos ocurridos por cada 1.000 habitantes en un año determinado."
+},
+{
+  "enunciado": "¿Cuál de los siguientes indicadores refleja mejor el envejecimiento poblacional?",
+  "opciones": [
+    "Tasa de crecimiento vegetativo",
+    "Esperanza de vida al nacer",
+    "Índice de envejecimiento",
+    "Tasa de fecundidad general"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El índice de envejecimiento se obtiene como el cociente entre el número de personas ≥65 años y el número de menores de 16 años."
+},
+{
+  "enunciado": "El número medio de hijos por mujer en edad fértil se denomina:",
+  "opciones": [
+    "Tasa bruta de fecundidad",
+    "Índice de natalidad corregida",
+    "Índice sintético de fecundidad",
+    "Tasa específica de fertilidad"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El índice sintético de fecundidad estima el número medio de hijos que tendría una mujer durante su vida reproductiva si se mantuvieran constantes las tasas actuales."
+},
+{
+  "enunciado": "¿Cuál de los siguientes indicadores demográficos permite estimar indirectamente la calidad de vida de una población?",
+  "opciones": [
+    "Tasa de fecundidad",
+    "Índice de mortalidad infantil",
+    "Índice de masculinidad",
+    "Esperanza de vida al nacer"
+  ],
+  "correcta": 3,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La esperanza de vida al nacer refleja la longevidad y el bienestar sanitario, social y económico de una población."
+},
+{
+  "enunciado": "La tasa de dependencia se calcula como:",
+  "opciones": [
+    "Población de 0-14 y >64 años / población de 15-64 años × 100",
+    "Población económicamente activa / población total × 100",
+    "Número de menores de 16 / número de personas mayores de 65",
+    "Población en edad laboral / total de población × 1.000"
+  ],
+  "correcta": 0,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La tasa de dependencia relaciona a la población teóricamente dependiente (menores y mayores) con la población en edad laboral."
+},
+{
+  "enunciado": "¿Cuál es el significado de un índice sintético de fecundidad inferior a 2,1?",
+  "opciones": [
+    "Exceso de nacimientos respecto a las muertes",
+    "Déficit de fecundidad para asegurar el reemplazo generacional",
+    "Fuerte crecimiento poblacional",
+    "Alta proporción de embarazos adolescentes"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Un ISF < 2,1 implica que, a largo plazo, la población disminuirá si no hay inmigración que lo compense."
+},
+{
+  "enunciado": "¿Qué indicador se usa para estudiar el nivel de salud perinatal de un país?",
+  "opciones": [
+    "Esperanza de vida al nacer",
+    "Tasa bruta de natalidad",
+    "Índice de dependencia",
+    "Tasa de mortalidad infantil"
+  ],
+  "correcta": 3,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La tasa de mortalidad infantil (muertes <1 año por cada 1.000 nacidos vivos) refleja la calidad de atención sanitaria y condiciones de vida."
+},
+{
+  "enunciado": "¿Cuál de los siguientes indicadores refleja el equilibrio entre nacimientos y defunciones en ausencia de migraciones?",
+  "opciones": [
+    "Índice de masculinidad",
+    "Tasa de dependencia",
+    "Crecimiento vegetativo",
+    "Esperanza de vida residual"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento vegetativo representa la diferencia entre nacimientos y muertes, sin tener en cuenta la migración."
+},
+{
+  "enunciado": "¿Cuál de los siguientes no es un indicador demográfico básico según el INE?",
+  "opciones": [
+    "Tasa bruta de mortalidad",
+    "Esperanza de vida",
+    "Mortalidad hospitalaria",
+    "Índice de fecundidad"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La mortalidad hospitalaria es un indicador clínico, no demográfico. Los demás son recogidos por el INE como básicos."
+},
+{
+  "enunciado": "¿Qué indica una esperanza de vida al nacer de 83 años en una población?",
+  "opciones": [
+    "Número promedio de años que vivirán los mayores de 65",
+    "Edad promedio de la población general",
+    "Duración media de vida esperada para un recién nacido",
+    "Nivel de dependencia económica de los mayores"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "La esperanza de vida al nacer estima el promedio de años que vivirá un recién nacido si se mantienen constantes las condiciones de mortalidad."
+},
+{
+  "enunciado": "¿Qué mide el saldo vegetativo de una población?",
+  "opciones": [
+    "La diferencia entre nacimientos y defunciones en un periodo determinado",
+    "El número total de nacimientos vivos registrados",
+    "La diferencia entre inmigrantes y emigrantes",
+    "La tasa de crecimiento económico por habitante"
+  ],
+  "correcta": 0,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El saldo vegetativo es la diferencia entre los nacimientos y las defunciones de una población en un periodo concreto. Puede ser positivo o negativo."
+},
+{
+  "enunciado": "¿Qué representa el saldo migratorio?",
+  "opciones": [
+    "La diferencia entre población activa y dependiente",
+    "La diferencia entre inmigraciones y emigraciones en un territorio",
+    "El total de personas mayores que emigran",
+    "La suma de nacimientos y migraciones internas"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El saldo migratorio es la diferencia entre el número de personas que entran (inmigrantes) y salen (emigrantes) de un país o región."
+},
+{
+  "enunciado": "¿Cuál es la diferencia entre crecimiento demográfico y crecimiento vegetativo?",
+  "opciones": [
+    "Ninguna, son sinónimos",
+    "El crecimiento demográfico incluye migraciones; el vegetativo, no",
+    "El crecimiento vegetativo incluye variables económicas, el demográfico no",
+    "El crecimiento demográfico se refiere solo a nacimientos múltiples"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento demográfico se calcula sumando el saldo vegetativo y el saldo migratorio, mientras que el crecimiento vegetativo no tiene en cuenta las migraciones."
+},
+{
+  "enunciado": "¿Qué valor se obtiene al sumar el saldo vegetativo y el saldo migratorio?",
+  "opciones": [
+    "Índice de envejecimiento",
+    "Índice sintético de fecundidad",
+    "Crecimiento total de la población",
+    "Tasa bruta de mortalidad"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento total o efectivo de la población se obtiene sumando el saldo vegetativo (nacimientos menos defunciones) y el saldo migratorio (inmigraciones menos emigraciones)."
+},
+{
+  "enunciado": "Si una población presenta un saldo vegetativo negativo pero un saldo migratorio positivo mayor, el crecimiento demográfico será:",
+  "opciones": [
+    "Negativo",
+    "Nulo",
+    "Positivo",
+    "No se puede determinar con los datos ofrecidos"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Aunque haya más muertes que nacimientos (saldo vegetativo negativo), si entran más personas de las que salen (saldo migratorio positivo suficiente), el crecimiento demográfico total será positivo."
+},
+{
+  "enunciado": "En un municipio se registran 120 nacimientos y 150 defunciones en un año. ¿Cuál es el saldo vegetativo?",
+  "opciones": [
+    "+30",
+    "-30",
+    "0",
+    "+270"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El saldo vegetativo se calcula restando defunciones a nacimientos: 120 - 150 = -30. Es negativo."
+},
+{
+  "enunciado": "Si una región tiene saldo vegetativo y saldo migratorio ambos negativos, ¿cómo será el crecimiento total de la población?",
+  "opciones": [
+    "Positivo",
+    "Negativo",
+    "Nulo",
+    "Proporcional al número de nacimientos"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Cuando tanto nacimientos como entradas migratorias son menores que las muertes y las salidas, el crecimiento total de la población será negativo."
+},
+{
+  "enunciado": "El crecimiento poblacional total se ve directamente afectado por:",
+  "opciones": [
+    "El saldo vegetativo únicamente",
+    "Las tasas de morbilidad",
+    "El saldo vegetativo y el saldo migratorio",
+    "El índice de dependencia económica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento poblacional se calcula como la suma del saldo vegetativo (nacimientos - defunciones) y el saldo migratorio (inmigración - emigración)."
+},
+{
+  "enunciado": "¿Cuál de los siguientes indicadores tiene en cuenta tanto la natalidad como la migración?",
+  "opciones": [
+    "Saldo migratorio",
+    "Crecimiento vegetativo",
+    "Índice de fecundidad",
+    "Crecimiento demográfico"
+  ],
+  "correcta": 3,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "El crecimiento demográfico es un indicador más amplio, ya que integra el saldo vegetativo y el saldo migratorio."
+},
+{
+  "enunciado": "Un país presenta saldo vegetativo nulo y saldo migratorio positivo. ¿Cuál será la tendencia demográfica?",
+  "opciones": [
+    "Decreciente",
+    "Estable",
+    "Creciente",
+    "Incierta"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Si los nacimientos igualan a las defunciones (saldo vegetativo nulo) pero hay más inmigrantes que emigrantes (saldo migratorio positivo), la población aumentará."
+},
+{
+  "enunciado": "El crecimiento vegetativo negativo puede compensarse demográficamente con:",
+  "opciones": [
+    "Tasa de letalidad baja",
+    "Índice de dependencia favorable",
+    "Saldo migratorio positivo",
+    "Índice sintético de fecundidad alto"
+  ],
+  "correcta": 2,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Un saldo migratorio positivo puede compensar un saldo vegetativo negativo, manteniendo o incluso incrementando la población total."
+},
+{
+  "enunciado": "¿Cuál de los siguientes escenarios implica un crecimiento poblacional negativo?",
+  "opciones": [
+    "Saldo vegetativo +25, saldo migratorio -25",
+    "Saldo vegetativo -30, saldo migratorio -10",
+    "Saldo vegetativo 0, saldo migratorio +10",
+    "Saldo vegetativo -5, saldo migratorio +20"
+  ],
+  "correcta": 1,
+  "categorías": ["tema235", "indicadores_demograficos"],
+  "feedback": "Con saldo vegetativo -30 y saldo migratorio -10, la población disminuye en 40 personas, lo que implica un crecimiento poblacional negativo."
+}
+
+
+
+]

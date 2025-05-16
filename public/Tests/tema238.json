@@ -1,0 +1,112 @@
+[
+    {
+  "enunciado": "¿Cuál de las siguientes opciones define mejor una reacción adversa a un medicamento (RAM)?",
+  "opciones": [
+    "Todo efecto perjudicial que aparece tras la toma de un medicamento, independientemente de la dosis administrada",
+    "Un efecto farmacológico secundario que puede aparecer en cualquier paciente, aunque no cause daño clínico",
+    "Cualquier respuesta nociva e involuntaria a un medicamento que se produce a dosis normalmente utilizadas en humanos",
+    "Una consecuencia esperada que ocurre en caso de sobredosis accidental o intencional"
+  ],
+  "correcta": 2,
+  "categorías": ["tema238", "farmacovigilancia"],
+  "feedback": "Una RAM es una reacción nociva e involuntaria producida por un medicamento usado a dosis normales para profilaxis, diagnóstico o tratamiento."
+},
+{
+  "enunciado": "¿Qué diferencia clave existe entre un efecto adverso y una reacción adversa a medicamentos (RAM)?",
+  "opciones": [
+    "El efecto adverso se produce por sobredosis, la RAM no",
+    "La RAM implica daño; el efecto adverso no",
+    "La RAM solo ocurre en fármacos biológicos",
+    "El efecto adverso puede no estar directamente relacionado con el uso del medicamento"
+  ],
+  "correcta": 3,
+  "categorías": ["tema238", "farmacovigilancia"],
+  "feedback": "Los efectos adversos incluyen cualquier evento negativo tras la administración del fármaco, pero no necesariamente son causados por él. En cambio, una RAM implica una relación causal probable."
+},
+{
+  "enunciado": "¿Cuál de las siguientes situaciones se considera una reacción adversa a un medicamento?",
+  "opciones": [
+    "Náuseas leves en un paciente tratado con placebo",
+    "Hepatotoxicidad en un paciente que toma paracetamol a dosis terapéuticas",
+    "Mareo tras la ingesta de alcohol junto con benzodiacepinas",
+    "Vómitos tras ingesta de alimentos contaminados, coincidente con la toma de medicación"
+  ],
+  "correcta": 1,
+  "categorías": ["tema238", "farmacovigilancia"],
+  "feedback": "La hepatotoxicidad con dosis normales de paracetamol es una reacción adversa, pues existe relación causal entre la toma terapéutica y el daño."
+},
+{
+  "enunciado": "Según la definición clásica, un efecto adverso es:",
+  "opciones": [
+    "Una reacción inesperada pero beneficiosa del tratamiento",
+    "Todo efecto negativo que aparece tras administrar un medicamento, esté o no relacionado causalmente con él",
+    "Un efecto directo del medicamento no recogido en ficha técnica",
+    "Un acontecimiento grave que aparece por sobredosificación intencionada"
+  ],
+  "correcta": 1,
+  "categorías": ["tema238", "farmacovigilancia"],
+  "feedback": "El efecto adverso es cualquier evento clínico negativo ocurrido tras administrar un medicamento, aunque no necesariamente provocado por él."
+},
+{
+  "enunciado": "Una paciente desarrolla una erupción cutánea grave tras recibir amoxicilina a dosis adecuadas. ¿Cómo se clasifica este suceso?",
+  "opciones": [
+    "Efecto adverso",
+    "Reacción adversa a medicamento",
+    "Evento no relacionado con el tratamiento",
+    "Sobredosis no intencionada"
+  ],
+  "correcta": 1,
+  "categorías": ["tema238", "farmacovigilancia"],
+  "feedback": "La erupción cutánea tras una dosis habitual de un medicamento con sospecha de relación causal se clasifica como reacción adversa (RAM)."
+},
+{
+  "enunciado": "Respecto al concepto de efecto adverso, señale la opción correcta:",
+  "opciones": [
+    "Implica siempre un daño clínico relevante en el paciente.",
+    "Debe existir una relación causal confirmada con el medicamento.",
+    "Es cualquier acontecimiento médico no deseado tras la administración de un medicamento, aunque no implique daño ni relación causal confirmada.",
+    "Solo se considera efecto adverso si requiere intervención médica urgente."
+  ],
+  "correcta": 2,
+  "categorías": ["tema238", "efecto_adverso"],
+  "feedback": "El efecto adverso es cualquier evento médico no deseado que aparece tras administrar un medicamento, aunque no cause daño clínico ni exista certeza de relación causal."
+},
+{
+  "enunciado": "¿Es necesario que exista un daño clínico para que un evento se considere efecto adverso?",
+  "opciones": [
+    "Sí, siempre debe haber daño comprobado.",
+    "Solo si es un medicamento de uso hospitalario.",
+    "No, basta con que ocurra tras la administración del fármaco, aunque no implique daño.",
+    "Sí, salvo que sea una reacción alérgica leve."
+  ],
+  "correcta": 2,
+  "categorías": ["tema238", "efecto_adverso"],
+  "feedback": "El efecto adverso no requiere daño clínico. Se considera cualquier acontecimiento desfavorable temporalmente asociado a la administración de un fármaco."
+},
+{
+  "enunciado": "Una paciente refiere cefalea leve tras iniciar un nuevo tratamiento antihipertensivo, sin otros hallazgos clínicos. ¿Cómo se clasifica este evento?",
+  "opciones": [
+    "No es relevante y no debe registrarse",
+    "Es un efecto adverso, aunque no implique daño clínico",
+    "Es una reacción adversa, necesariamente",
+    "Es un efecto placebo sin importancia clínica"
+  ],
+  "correcta": 1,
+  "categorías": ["tema238", "efecto_adverso"],
+  "feedback": "La cefalea leve es un ejemplo de efecto adverso, ya que aparece tras la administración del medicamento, sin requerir que haya daño clínico evidente."
+},
+{
+  "enunciado": "¿Qué elemento distingue un efecto adverso de una simple coincidencia temporal con la medicación?",
+  "opciones": [
+    "Que exista daño clínico",
+    "Que ocurra dentro de las primeras 24 horas",
+    "La sospecha razonable de relación temporal con la administración del fármaco",
+    "Que el evento esté recogido en la ficha técnica"
+  ],
+  "correcta": 2,
+  "categorías": ["tema238", "efecto_adverso"],
+  "feedback": "Para considerar un efecto adverso, basta con que el evento sea médicamente significativo y ocurra tras la toma del medicamento, sin necesidad de probar daño ni causalidad directa."
+}
+
+
+]

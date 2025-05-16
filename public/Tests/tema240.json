@@ -1,0 +1,108 @@
+[
+    {
+  "enunciado": "¿Qué recurso forma parte de los recursos convencionales del Plan Andaluz de Cuidados Paliativos?",
+  "opciones": ["Equipo de soporte de cuidados paliativos", "Unidad de cuidados paliativos", "Atención Primaria y Hospitalaria convencional", "Centros residenciales de media-larga estancia"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Los recursos convencionales están formados por los profesionales de Atención Primaria y Hospitalaria con formación básica en cuidados paliativos."
+},
+{
+  "enunciado": "¿Cuál es la principal diferencia entre una Unidad de Cuidados Paliativos (UCP) y un Equipo de Soporte (ESCP)?",
+  "opciones": ["La UCP actúa solo en domicilio; el ESCP solo en hospital", "La UCP tiene camas de hospitalización; el ESCP no", "La UCP está formada solo por médicos; el ESCP por enfermeras", "El ESCP solo atiende a pacientes oncológicos"],
+  "correcta": 1,
+  "categorías": ["tema240"],
+  "feedback": "Las Unidades de Cuidados Paliativos disponen de camas de hospitalización; los Equipos de Soporte (ESCP) no tienen camas propias y dan apoyo en hospitales y domicilios."
+},
+{
+  "enunciado": "¿Qué tipo de recurso actúa en situaciones de atención continuada 24/7 en cuidados paliativos?",
+  "opciones": ["Recursos convencionales", "Recursos avanzados", "Recursos de atención urgente", "Recursos de hospitalización de media estancia"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Los recursos de atención urgente (DCCU, EPES-061, SCCU-H) aseguran la continuidad asistencial 24 horas al día, 365 días al año."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones define correctamente una Unidad de Cuidados Paliativos (UCP)?",
+  "opciones": ["Actúa únicamente en Atención Primaria", "Es un equipo sin camas que apoya desde hospital", "Es un equipo multidisciplinar con camas para pacientes de alta complejidad", "Solo atiende a pacientes no oncológicos"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "La UCP es un equipo multidisciplinar con camas hospitalarias para atender a pacientes terminales con alta complejidad, tanto oncológicos como no oncológicos."
+},
+{
+  "enunciado": "¿Dónde suelen estar ubicadas las UCP según el Plan Andaluz de Cuidados Paliativos?",
+  "opciones": ["En hospitales de tercer nivel exclusivamente", "En centros de Atención Primaria", "En hospitales de 1º y 2º nivel", "En unidades de rehabilitación"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Las Unidades de Cuidados Paliativos se ubican en hospitales de 1er y 2º nivel, o dependen funcionalmente de ellos."
+},
+{
+  "enunciado": "¿Qué recurso se destina a pacientes que no pueden permanecer en el domicilio pero no requieren hospitalización?",
+  "opciones": ["Unidad de Cuidados Intensivos", "Unidad de hospitalización a domicilio", "Recursos residenciales o de media-larga estancia", "Recursos de atención urgente"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Los recursos de hospitalización/residenciales de media o larga estancia están pensados para pacientes que no pueden estar en su domicilio pero no cumplen criterios de ingreso hospitalario."
+},
+{
+  "enunciado": "¿Qué profesionales forman parte de los Equipos de Soporte de Cuidados Paliativos (ESCP)?",
+  "opciones": ["Médico y enfermera exclusivamente", "Trabajador social, farmacéutico, voluntariado", "Médico, enfermera, trabajador social, psicólogo clínico y equipo rehabilitador", "Solo personal de emergencias"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Los ESCP están formados por médico, enfermera, trabajador social, psicólogo clínico y equipo rehabilitador (rehabilitador, fisioterapeuta, terapeuta ocupacional)."
+},
+{
+  "enunciado": "¿Qué procedimiento debe seguirse si un paciente atendido en domicilio requiere ingreso hospitalario?",
+  "opciones": ["Se remite a urgencias para valoración", "Se traslada a hospital privado si tiene seguro", "Se gestiona ingreso en UCP o en camas convencionales según protocolo", "Se deriva automáticamente al equipo de urgencias domiciliarias"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "El ingreso se facilita desde la UCP si existe, o mediante camas hospitalarias convencionales siguiendo un procedimiento específico que evita el circuito habitual de urgencias."
+},
+{
+  "enunciado": "¿Qué característica define al recurso avanzado denominado ESCP?",
+  "opciones": ["Tiene camas propias", "Opera únicamente en Atención Primaria", "Está diseñado para atención domiciliaria y hospitalaria sin camas propias", "Sólo actúa en urgencias"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "El ESCP no tiene camas propias y da soporte a pacientes en domicilio o en hospitales sin UCP, en cualquier nivel asistencial."
+},
+{
+  "enunciado": "¿Cuál es el objetivo común de todos los recursos del Plan Andaluz de Cuidados Paliativos?",
+  "opciones": ["Lograr el alta hospitalaria precoz", "Limitar el tratamiento activo", "Garantizar atención integral, continuada y adaptada a la complejidad del paciente", "Administrar tratamientos oncológicos avanzados"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "El objetivo general es asegurar una atención paliativa integral, continua, adaptada al nivel de complejidad del paciente, con soporte multidisciplinar coordinado."
+},
+{
+  "enunciado": "Antonio, paciente con ELA en fase terminal, recibe atención en domicilio por un equipo multidisciplinar sin camas propias, que incluye médico, enfermera y psicólogo. Según el Plan Andaluz de Cuidados Paliativos, este equipo pertenece a:",
+  "opciones": ["Recursos convencionales", "Recursos avanzados", "Recursos urgentes", "Recursos sociosanitarios"],
+  "correcta": 1,
+  "categorías": ["tema240"],
+  "feedback": "Se trata de un Equipo de Soporte de Cuidados Paliativos (ESCP), clasificado como recurso avanzado dentro del Plan Andaluz."
+},
+{
+  "enunciado": "Isabel es atendida por su enfermera de Atención Primaria y su médico de familia para controlar síntomas derivados de una enfermedad terminal. ¿Qué tipo de recurso están utilizando según el Plan Andaluz de Cuidados Paliativos?",
+  "opciones": ["Recurso avanzado", "Recurso urgente", "Recurso convencional", "Recurso hospitalario especializado"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "La Atención Primaria forma parte de los recursos convencionales con formación básica en cuidados paliativos."
+},
+{
+  "enunciado": "Joaquín, paciente con cáncer en fase terminal, ha sido ingresado en una unidad hospitalaria con camas específicas para cuidados paliativos. Según el Plan Andaluz de Cuidados Paliativos, ¿qué recurso está utilizando?",
+  "opciones": ["Recurso de atención urgente", "Unidad de hospitalización a domicilio", "Unidad de Cuidados Paliativos (UCP)", "Recurso sociosanitario residencial"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Las Unidades de Cuidados Paliativos (UCP) son recursos avanzados hospitalarios que disponen de camas para pacientes de alta complejidad."
+},
+{
+  "enunciado": "Un paciente en situación terminal atendido en domicilio por su equipo de soporte necesita ingreso hospitalario urgente. ¿Qué recurso debe gestionarlo según el Plan Andaluz de Cuidados Paliativos?",
+  "opciones": ["Unidad de urgencias hospitalarias", "Unidad de Cuidados Intensivos", "Unidad de Cuidados Paliativos (UCP)", "Servicio de Medicina Interna"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Según el Plan, el ingreso debe gestionarse directamente en la UCP cuando exista, evitando el circuito habitual de urgencias."
+},
+{
+  "enunciado": "Francisca, paciente con demencia avanzada sin apoyo familiar, ha sido trasladada a una residencia sociosanitaria con seguimiento del equipo de soporte. ¿Qué recurso se está utilizando?",
+  "opciones": ["Recurso urgente", "Recurso avanzado", "Recurso de media-larga estancia", "Recurso convencional"],
+  "correcta": 2,
+  "categorías": ["tema240"],
+  "feedback": "Los recursos residenciales o de media-larga estancia son para pacientes sin posibilidad de permanecer en domicilio, pero sin criterios para ingreso hospitalario."
+}
+
+]

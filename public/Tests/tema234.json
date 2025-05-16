@@ -1,0 +1,183 @@
+[
+    {
+  "enunciado": "¿Cuál es el objetivo principal del modelo PRECEDE-PROCEED en el ámbito de la salud pública?",
+  "opciones": [
+    "Desarrollar intervenciones curativas hospitalarias",
+    "Evaluar exclusivamente políticas sanitarias",
+    "Diseñar y evaluar programas de promoción de la salud",
+    "Regular la atención médica en centros de salud"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "El modelo PRECEDE-PROCEED permite diseñar, implementar y evaluar programas de promoción de la salud, partiendo de un análisis diagnóstico participativo."
+},
+{
+  "enunciado": "En el modelo PRECEDE, las fases iniciales están orientadas a:",
+  "opciones": [
+    "Evaluar la eficacia de una intervención",
+    "Implementar intervenciones preventivas",
+    "Diagnosticar las necesidades de salud",
+    "Distribuir recursos materiales"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "Las primeras fases del modelo PRECEDE se centran en el análisis diagnóstico social, epidemiológico, conductual y educativo."
+},
+{
+  "enunciado": "¿Qué fase del modelo PRECEDE evalúa los factores predisponentes, facilitadores y reforzadores de una conducta?",
+  "opciones": [
+    "Diagnóstico epidemiológico",
+    "Diagnóstico educativo y ecológico",
+    "Diagnóstico administrativo",
+    "Evaluación de impacto"
+  ],
+  "correcta": 1,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "En la fase educativa y ecológica se identifican factores predisponentes (conocimientos, creencias), facilitadores (recursos, accesibilidad) y reforzadores (refuerzo social)."
+},
+{
+  "enunciado": "En el modelo PROCEED, las fases están enfocadas principalmente a:",
+  "opciones": [
+    "Diseñar estrategias de comunicación en salud",
+    "Revisar marcos teóricos en salud comunitaria",
+    "Implementar y evaluar programas de salud",
+    "Desarrollar marcos normativos internacionales"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "El modelo PROCEED se centra en la implementación y evaluación de programas diseñados en las fases PRECEDE."
+},
+{
+  "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor el enfoque del modelo PRECEDE-PROCEED?",
+  "opciones": [
+    "Modelo centrado únicamente en la intervención clínica",
+    "Modelo de atención individualizada en centros sanitarios",
+    "Modelo estructurado para planificar y evaluar programas de salud comunitaria",
+    "Modelo exclusivo para evaluar factores económicos de salud"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "Este modelo proporciona un marco lógico y participativo para diseñar, ejecutar y evaluar programas de intervención en salud pública y comunitaria."
+},
+{
+  "enunciado": "¿Cuál de las siguientes opciones representa correctamente una utilidad del modelo PRECEDE-PROCEED?",
+  "opciones": [
+    "Diagnosticar enfermedades agudas en atención primaria",
+    "Evaluar la adherencia farmacológica en patologías crónicas",
+    "Diseñar y evaluar intervenciones de promoción de la salud",
+    "Estandarizar protocolos quirúrgicos hospitalarios"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "El modelo PRECEDE-PROCEED está orientado a planificar, implementar y evaluar intervenciones de salud pública desde un enfoque estructurado y participativo."
+},
+{
+  "enunciado": "¿Qué enfoque caracteriza al modelo PRECEDE-PROCEED?",
+  "opciones": [
+    "Educativo y clínico",
+    "Participativo y estructurado",
+    "Epidemiológico y estadístico",
+    "Preventivo y legislativo"
+  ],
+  "correcta": 1,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "El modelo PRECEDE-PROCEED es participativo y estructurado, e involucra a la comunidad en todas las fases del diseño e implementación de los programas de salud."
+},
+{
+  "enunciado": "¿Cuáles son las 8 fases del modelo PRECEDE-PROCEED?",
+  "opciones": [
+    "Análisis demográfico, planificación clínica, evaluación formativa, diagnóstica, de impacto, de resultados, de contexto y legislativa",
+    "Diagnóstico social, diagnóstico epidemiológico, diagnóstico conductual, diagnóstico educativo, diagnóstico administrativo, implementación, evaluación de proceso, evaluación de impacto/resultados",
+    "Planificación clínica, implementación hospitalaria, validación, pilotaje, evaluación estadística, adaptación, ejecución y financiación",
+    "Diagnóstico clínico, planificación educativa, intervención asistencial, supervisión administrativa, coordinación institucional, auditoría, análisis económico, seguimiento"
+  ],
+  "correcta": 1,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "Las 8 fases del modelo incluyen: 1) Diagnóstico social, 2) Epidemiológico, 3) Conductual y ambiental, 4) Educativo y ecológico, 5) Administrativo y político, 6) Implementación, 7) Evaluación del proceso, 8) Evaluación de impacto y resultados."
+},
+{
+  "enunciado": "¿En qué fase del modelo se definen los recursos necesarios, barreras organizativas y normas para la intervención?",
+  "opciones": [
+    "Diagnóstico educativo",
+    "Diagnóstico conductual",
+    "Diagnóstico administrativo y político",
+    "Evaluación de resultados"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "El diagnóstico administrativo y político permite identificar recursos, barreras y políticas institucionales necesarias para implementar la intervención."
+},
+{
+  "enunciado": "La evaluación del proceso en el modelo PRECEDE-PROCEED tiene como objetivo:",
+  "opciones": [
+    "Determinar si los objetivos a largo plazo se han cumplido",
+    "Detectar factores sociales que influyen en la salud",
+    "Valorar si se ha ejecutado la intervención según lo planificado",
+    "Evaluar los conocimientos adquiridos por la población"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "La evaluación del proceso permite asegurar que la intervención se lleva a cabo tal como fue diseñada y detectar desviaciones."
+},
+{
+  "enunciado": "¿Cuál de las siguientes fases incluye la implementación real de la intervención diseñada?",
+  "opciones": [
+    "Diagnóstico educativo",
+    "Diagnóstico conductual",
+    "Fase de implementación",
+    "Evaluación de impacto"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "La implementación es la fase 6 del modelo y se refiere a la puesta en práctica de las acciones planificadas en fases previas."
+},
+{
+  "enunciado": "¿Qué se evalúa en la fase de 'impacto' del modelo PROCEED?",
+  "opciones": [
+    "El cumplimiento de los objetivos sociales y clínicos a largo plazo",
+    "Los cambios inmediatos en conocimientos, actitudes o conductas",
+    "La efectividad presupuestaria de la intervención",
+    "La calidad de la planificación organizativa"
+  ],
+  "correcta": 1,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "La evaluación de impacto analiza los cambios inmediatos en factores conductuales, ambientales o educativos tras la intervención."
+},
+{
+  "enunciado": "¿En qué fase del modelo PRECEDE-PROCEED se identifican los valores, aspiraciones y necesidades percibidas por la comunidad?",
+  "opciones": [
+    "Diagnóstico social",
+    "Diagnóstico educativo",
+    "Diagnóstico ambiental",
+    "Evaluación de resultados"
+  ],
+  "correcta": 0,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "La fase de diagnóstico social recoge las prioridades y preocupaciones de la comunidad, lo que garantiza que la intervención sea culturalmente aceptable y pertinente."
+},
+{
+  "enunciado": "¿Para qué sirve principalmente el modelo PRECEDE-PROCEED en salud comunitaria?",
+  "opciones": [
+    "Para justificar proyectos de investigación en salud laboral",
+    "Para construir programas asistenciales orientados a enfermedades infecciosas",
+    "Para planificar de forma sistemática intervenciones educativas en salud",
+    "Para establecer redes de derivación hospitalaria"
+  ],
+  "correcta": 2,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "Este modelo permite estructurar de forma lógica y participativa la planificación, implementación y evaluación de programas educativos y preventivos en salud."
+},
+{
+  "enunciado": "¿Cuál de los siguientes elementos NO corresponde al diagnóstico educativo y ecológico?",
+  "opciones": [
+    "Factores predisponentes",
+    "Factores reforzadores",
+    "Factores facilitadores",
+    "Factores legislativos"
+  ],
+  "correcta": 3,
+  "categorías": ["tema234", "modelo_precede_proceed"],
+  "feedback": "Los factores legislativos se abordan en fases posteriores del modelo. El diagnóstico educativo se centra en predisponentes, facilitadores y reforzadores de la conducta."
+}
+
+]

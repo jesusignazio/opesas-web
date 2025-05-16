@@ -1,0 +1,51 @@
+[
+    {
+  "enunciado": "En el marco de los Procesos Asistenciales Integrados (PAI) de Andalucía, ¿cuál de los siguientes se considera un proceso de soporte?",
+  "opciones": [
+    "Rehabilitación cardiaca",
+    "Laboratorios clínicos",
+    "Unidad de ictus",
+    "Cuidados paliativos"
+  ],
+  "correcta": 1,
+  "categorías": ["tema246", "procesos_soporte"],
+  "feedback": "Laboratorios clínicos es uno de los procesos de soporte reconocidos en los PAI de Andalucía."
+},
+{
+  "enunciado": "Según la clasificación de los PAI de la Consejería de Salud de Andalucía, ¿cuál de estos corresponde a un proceso de soporte?",
+  "opciones": [
+    "Planificación familiar",
+    "Técnicas de imagen",
+    "Seguimiento del embarazo",
+    "Intervención comunitaria"
+  ],
+  "correcta": 1,
+  "categorías": ["tema246", "procesos_soporte"],
+  "feedback": "Las técnicas de imagen forman parte de los procesos de soporte, esenciales para el diagnóstico y seguimiento."
+},
+{
+  "enunciado": "¿Cuál de los siguientes procesos se encuadra como un proceso de soporte en los PAI andaluces?",
+  "opciones": [
+    "Consulta de atención primaria",
+    "Salud escolar",
+    "Nutrición clínica y dietética",
+    "Seguimiento del paciente crónico"
+  ],
+  "correcta": 2,
+  "categorías": ["tema246", "procesos_soporte"],
+  "feedback": "Nutrición clínica y dietética es un proceso de soporte con impacto transversal en múltiples patologías."
+},
+{
+  "enunciado": "¿Qué proceso asistencial se incluye dentro de los procesos de soporte según los PAI de Andalucía?",
+  "opciones": [
+    "Atención al parto",
+    "Documentación clínica",
+    "Educación sanitaria",
+    "Revisión pediátrica del recién nacido"
+  ],
+  "correcta": 1,
+  "categorías": ["tema246", "procesos_soporte"],
+  "feedback": "Documentación clínica es clave como proceso de soporte para la trazabilidad y gestión de la información sanitaria."
+}
+
+]

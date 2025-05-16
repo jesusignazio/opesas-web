@@ -1,0 +1,43 @@
+[
+    {
+  "enunciado": "Un paciente adulto de 70 kg sufre quemaduras en el 30% de su superficie corporal total. Según la fórmula de Parkland, ¿cuántos mililitros de Ringer Lactato deben administrarse en las primeras 24 horas?",
+  "opciones": ["4200 ml", "5600 ml", "8400 ml", "9600 ml"],
+  "correcta": 2,
+  "categorías": ["tema226", "formula_parkland"],
+  "feedback": "Fórmula de Parkland: 4 ml × peso (kg) × %SCQ = 4 × 70 × 30 = 8400 ml en 24 h (la mitad en las primeras 8 horas, el resto en las 16 siguientes)."
+},
+{
+  "enunciado": "Según la fórmula de Parkland, ¿cuánto volumen total de líquidos en 24 h necesita un paciente de 80 kg con quemaduras en el 40% de SCQ?",
+  "opciones": ["9600 ml", "10400 ml", "11200 ml", "12800 ml"],
+  "correcta": 3,
+  "categorías": ["tema226", "formula_parkland"],
+  "feedback": "4 ml × 80 kg × 40% = 12800 ml en 24 h. Se administran 6400 ml en las primeras 8 h y los otros 6400 ml en las siguientes 16 h."
+},
+{
+  "enunciado": "En un paciente adulto de 65 kg con quemaduras del 20% de SCQ, ¿cuántos ml de Ringer Lactato se administran en las primeras 8 horas según Parkland?",
+  "opciones": ["2600 ml", "3000 ml", "2600 ml", "5200 ml"],
+  "correcta": 0,
+  "categorías": ["tema226", "formula_parkland"],
+  "feedback": "Total en 24 h: 4 × 65 × 20 = 5200 ml. La mitad (2600 ml) debe administrarse en las primeras 8 horas desde la quemadura."
+},
+{
+  "enunciado": "Un paciente de 90 kg tiene una quemadura que afecta al 50% de su superficie corporal. Según Parkland, ¿cuánto volumen de líquidos requiere en total durante las primeras 24 h?",
+  "opciones": ["16000 ml", "18000 ml", "20000 ml", "22000 ml"],
+  "correcta": 2,
+  "categorías": ["tema226", "formula_parkland"],
+  "feedback": "4 ml × 90 kg × 50% = 18000 ml. Deben administrarse 9000 ml en las primeras 8 horas y 9000 ml en las siguientes 16 horas."
+},
+{
+  "enunciado": "Respecto a la fórmula de Parkland, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": [
+    "Debe usarse suero glucosado en las primeras 8 horas",
+    "Se administra todo el volumen en las primeras 6 horas",
+    "La fórmula se basa en peso, %SCQ y un factor fijo de 2 ml",
+    "La mitad del volumen calculado se administra en las primeras 8 horas"
+  ],
+  "correcta": 3,
+  "categorías": ["tema226", "formula_parkland"],
+  "feedback": "La fórmula de Parkland calcula: 4 ml × kg × %SCQ. La mitad se administra en las primeras 8 horas desde la quemadura, y el resto en las 16 siguientes."
+}
+
+]

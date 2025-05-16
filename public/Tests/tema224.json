@@ -1,0 +1,123 @@
+[
+    {
+  "enunciado": "En relación con la prueba de Mantoux, ¿cuál de las siguientes opciones refleja un resultado positivo en una persona VIH positiva?",
+  "opciones": [
+    "Induración ≥ 5 mm",
+    "Induración ≥ 10 mm",
+    "Induración ≥ 15 mm",
+    "Induración ≥ 20 mm"
+  ],
+  "correcta": 0,
+  "categorías": ["tema224", "mantoux"],
+  "feedback": "En personas con inmunodepresión, como VIH positivos, se considera positivo un Mantoux con induración de 5 mm o más."
+},
+{
+  "enunciado": "¿Cuál es el umbral de positividad del Mantoux en personas sin factores de riesgo conocidos?",
+  "opciones": [
+    "Induración ≥ 3 mm",
+    "Induración ≥ 5 mm",
+    "Induración ≥ 10 mm",
+    "Induración ≥ 15 mm"
+  ],
+  "correcta": 3,
+  "categorías": ["tema224", "mantoux"],
+  "feedback": "En personas sin factores de riesgo conocidos, el Mantoux se considera positivo cuando la induración es de 15 mm o más."
+},
+{
+  "enunciado": "En un paciente con contacto estrecho reciente con un caso de tuberculosis activa, ¿cuál es el punto de corte para considerar el Mantoux positivo?",
+  "opciones": [
+    "≥ 5 mm",
+    "≥ 8 mm",
+    "≥ 10 mm",
+    "≥ 15 mm"
+  ],
+  "correcta": 0,
+  "categorías": ["tema224", "mantoux"],
+  "feedback": "En contactos estrechos con casos de tuberculosis activa, una induración de 5 mm o más ya se considera positiva."
+},
+{
+  "enunciado": "¿Qué indica una induración de 12 mm en una persona vacunada con BCG sin factores de riesgo adicionales?",
+  "opciones": [
+    "Resultado positivo por vacunación previa",
+    "Posible conversión reciente, requiere prueba de control",
+    "Resultado negativo",
+    "Resultado positivo sólo si hay otros factores de riesgo"
+  ],
+  "correcta": 3,
+  "categorías": ["tema224", "mantoux"],
+  "feedback": "En personas vacunadas con BCG sin otros factores de riesgo, una induración de 12 mm puede considerarse positiva si hay riesgo epidemiológico."
+},
+{
+  "enunciado": "¿Qué debe medirse exactamente a las 48-72 horas tras la administración de la prueba de Mantoux?",
+  "opciones": [
+    "La zona eritematosa",
+    "La zona de hiperpigmentación",
+    "El diámetro transversal de la induración en milímetros",
+    "El área total enrojecida y endurecida"
+  ],
+  "correcta": 2,
+  "categorías": ["tema224", "mantoux"],
+  "feedback": "La interpretación del Mantoux se basa exclusivamente en el diámetro transversal de la induración (no del eritema) en milímetros, medido entre 48 y 72 horas tras la inoculación."
+},
+{
+  "enunciado": "¿En qué consiste la prueba de Mantoux?",
+  "opciones": [
+    "La extracción de sangre para detección de anticuerpos frente a Mycobacterium tuberculosis",
+    "La inyección subcutánea de antígenos purificados de BCG para provocar una reacción inmunitaria",
+    "La administración intradérmica de derivado proteico purificado (PPD) para detectar sensibilidad a la tuberculosis",
+    "La aspiración de esputo seguida de cultivo de micobacterias en medio Löwenstein-Jensen"
+  ],
+  "correcta": 2,
+  "categorías": ["tema224", "mantoux_procedimiento"],
+  "feedback": "La prueba de Mantoux consiste en la inyección intradérmica de PPD (derivado proteico purificado) para detectar si existe sensibilización al bacilo de la tuberculosis."
+},
+{
+  "enunciado": "¿Cuándo debe realizarse la lectura de la prueba de Mantoux para que sea válida?",
+  "opciones": [
+    "Antes de las 24 horas",
+    "Entre 24 y 36 horas",
+    "Entre 48 y 72 horas",
+    "Después de 96 horas"
+  ],
+  "correcta": 2,
+  "categorías": ["tema224", "mantoux_procedimiento"],
+  "feedback": "La lectura de la prueba de Mantoux debe realizarse entre las 48 y 72 horas tras su administración. Fuera de ese rango pierde fiabilidad diagnóstica."
+},
+{
+  "enunciado": "¿Dónde se realiza la administración de la prueba de Mantoux?",
+  "opciones": [
+    "Intradérmica en la cara anterior del antebrazo",
+    "Subcutánea en la zona glútea",
+    "Intramuscular en el deltoides",
+    "Intradérmica en el muslo anterolateral"
+  ],
+  "correcta": 0,
+  "categorías": ["tema224", "mantoux_procedimiento"],
+  "feedback": "La prueba se administra por vía intradérmica, normalmente en la cara anterior del antebrazo no dominante, formando una pequeña pápula."
+},
+{
+  "enunciado": "¿Qué sustancia se emplea en la prueba de Mantoux?",
+  "opciones": [
+    "Toxina tuberculínica viva",
+    "Vacuna BCG",
+    "Derivado proteico purificado (PPD)",
+    "Antígeno de Mycobacterium leprae"
+  ],
+  "correcta": 2,
+  "categorías": ["tema224", "mantoux_procedimiento"],
+  "feedback": "La prueba de Mantoux utiliza PPD (derivado proteico purificado) de Mycobacterium tuberculosis para evaluar si existe respuesta inmunitaria previa."
+},
+{
+  "enunciado": "Durante la administración correcta de la prueba de Mantoux debe formarse:",
+  "opciones": [
+    "Una equimosis visible",
+    "Una vesícula con líquido",
+    "Una pápula de 6-10 mm de diámetro",
+    "Una costra superficial de tejido muerto"
+  ],
+  "correcta": 2,
+  "categorías": ["tema224", "mantoux_procedimiento"],
+  "feedback": "Una correcta inyección intradérmica forma una pápula de entre 6 y 10 mm de diámetro. Si no se forma, la prueba debe repetirse en otro sitio."
+}
+
+]

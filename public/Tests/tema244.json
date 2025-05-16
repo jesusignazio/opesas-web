@@ -1,0 +1,74 @@
+[
+  {
+    "enunciado": "Una mujer de 67 años con buena red social, sin pluripatología y que mantiene su autonomía para las actividades básicas, presenta un Índice de Katz A y Barthel de 95. ¿A qué grupo pertenecería según la estratificación de mayores de 65 años?",
+    "opciones": [
+      "Grupo A: Persona mayor autónoma",
+      "Grupo B: Persona frágil o en riesgo de dependencia",
+      "Grupo C: Persona dependiente",
+      "No se puede clasificar hasta nueva valoración"
+    ],
+    "correcta": 0,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "Grupo A incluye a personas mayores de 65 años con autonomía funcional, con Barthel 90-100 o Katz A-B."
+  },
+  {
+    "enunciado": "Un varón de 82 años, viudo reciente, vive solo, presenta depresión leve y un índice de Barthel de 75. ¿A qué grupo pertenece según la clasificación del examen de salud para mayores de 65 años?",
+    "opciones": [
+      "Grupo A: Persona autónoma",
+      "Grupo B: Persona frágil o en riesgo de dependencia",
+      "Grupo C: Persona dependiente",
+      "Grupo D: Persona institucionalizada"
+    ],
+    "correcta": 1,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "Grupo B contempla a mayores con riesgo social, psicológico o clínico, con Barthel entre 61 y 90 puntos."
+  },
+  {
+    "enunciado": "¿Qué puntuaciones del test de Barthel se asocian al grupo C, es decir, persona mayor dependiente?",
+    "opciones": [
+      "90–100 puntos",
+      "80–95 puntos",
+      "0–60 puntos",
+      "61–90 puntos"
+    ],
+    "correcta": 2,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "El grupo C corresponde a personas con mayor dependencia funcional, con Barthel entre 0 y 60."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes perfiles corresponde a una persona mayor frágil según el modelo andaluz?",
+    "opciones": [
+      "85 años, vive con pareja, sin comorbilidades, Barthel 100",
+      "70 años, independiente, pero con depresión moderada y Barthel 65",
+      "76 años, institucionalizada, con Alzheimer avanzado y Barthel 50",
+      "68 años, autónoma, sin antecedentes clínicos ni sociales"
+    ],
+    "correcta": 1,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "La presencia de patología mental (como depresión) y un Barthel de 65 sitúan al paciente en grupo B, riesgo de dependencia."
+  },
+  {
+    "enunciado": "Un paciente con índice de Katz G y Barthel de 45 puntos, pluripatología descompensada y problemas sociales relacionados con su salud pertenece al grupo:",
+    "opciones": [
+      "A. Autónomo",
+      "B. Frágil",
+      "C. Dependiente",
+      "No clasificable por falta de datos"
+    ],
+    "correcta": 2,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "El grupo C corresponde a personas con Katz F-G y Barthel ≤60, además de criterios clínicos y sociales de dependencia."
+  },
+  {
+    "enunciado": "Según la clasificación de personas mayores de 65 años del PAI andaluz, ¿cuáles son los grupos más beneficiados por las estrategias preventivas y de promoción de la salud?",
+    "opciones": [
+      "Solo el grupo A",
+      "Grupos A y B",
+      "Grupos B y C",
+      "Solo el grupo C"
+    ],
+    "correcta": 1,
+    "categorías": ["tema244", "estratificacion_mayores"],
+    "feedback": "Las intervenciones preventivas tienen mayor impacto en los grupos A y B, según la evidencia científica recogida."
+  }
+]
