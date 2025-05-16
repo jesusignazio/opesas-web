@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "Una persona obtiene el grado A en el Índice de Katz. ¿Cuál es su nivel de independencia?",
+        "opciones": [
+          "Incapacidad moderada",
+          "Independencia total",
+          "Incapacidad leve",
+          "Dependencia total"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "Grado A o 0 puntos indica independencia total. Guía completa: A-B o 0-1 puntos = independencia o incapacidad leve; C-D o 2-3 = incapacidad moderada; E-G o 4-6 = incapacidad severa."
+      },
+      {
+        "enunciado": "Una persona obtiene 2 puntos en el Índice de Katz. ¿Qué grado le corresponde?",
+        "opciones": [
+          "B",
+          "C",
+          "D",
+          "F"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "2 puntos equivalen al grado C. El grado C implica independencia en todas las funciones salvo baño y otra más. Clasificación: A-B (0-1) leve; C-D (2-3) moderada; E-G (4-6) severa."
+      },
+      {
+        "enunciado": "Según el sistema de grados del Índice de Katz, ¿qué significa el grado F?",
+        "opciones": [
+          "Independencia total",
+          "Dependencia en baño y otra función",
+          "Dependencia en baño, vestido, uso de WC, movilidad y otra función",
+          "Dependencia total"
+        ],
+        "correcta": 2,
+        "categorias": ["tema214"],
+        "feedback": "El grado F implica dependencia en baño, vestido, uso de WC, movilidad y otra cualquiera de las dos funciones restantes (alimentación o continencia)."
+      },
+      {
+        "enunciado": "¿Qué clasificación se corresponde con una puntuación de 4 en el Índice de Katz?",
+        "opciones": [
+          "Incapacidad leve",
+          "Incapacidad moderada",
+          "Incapacidad severa",
+          "Independencia funcional"
+        ],
+        "correcta": 2,
+        "categorias": ["tema214"],
+        "feedback": "4 puntos = incapacidad severa. Escala: 0–1 puntos o A-B: leve; 2–3 o C-D: moderada; 4–6 o E-G: severa."
+      },
+      {
+        "enunciado": "¿Qué grado del Índice de Katz corresponde a dependencia total en todas las funciones evaluadas?",
+        "opciones": [
+          "Grado E",
+          "Grado G",
+          "Grado D",
+          "Grado H"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "Grado G = dependencia total en todas las funciones (baño, vestido, uso de WC, movilidad, continencia, alimentación)."
+      },
+      {
+        "enunciado": "Una persona tiene independencia en todas las funciones salvo en el baño. ¿Qué grado de Katz presenta?",
+        "opciones": [
+          "Grado B",
+          "Grado A",
+          "Grado C",
+          "Grado D"
+        ],
+        "correcta": 0,
+        "categorias": ["tema214"],
+        "feedback": "Grado B = independencia total salvo en una función, como el baño. Katz permite esta distinción detallada para seguimiento funcional."
+      },
+      {
+        "enunciado": "Una persona obtiene 1 punto en el Índice de Katz. ¿Cómo se clasifica su nivel de incapacidad?",
+        "opciones": [
+          "Incapacidad leve",
+          "Incapacidad moderada",
+          "Incapacidad severa",
+          "Dependencia total"
+        ],
+        "correcta": 0,
+        "categorias": ["tema214"],
+        "feedback": "1 punto o grado B se considera incapacidad leve. Clasificación: A-B (0-1) leve; C-D (2-3) moderada; E-G (4-6) severa."
+      },
+      {
+        "enunciado": "Una persona dependiente en baño, vestido y uso del WC, pero independiente en el resto, presenta el grado:",
+        "opciones": [
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "Grado D = dependencia en baño, vestido y otra cualquiera. Representa un nivel de incapacidad moderada según la escala jerárquica del Katz."
+      },
+      {
+        "enunciado": "¿Qué grado del Índice de Katz representa una situación no clasificable entre C y F, con al menos dos dependencias?",
+        "opciones": [
+          "Grado G",
+          "Grado H",
+          "Grado D",
+          "Grado B"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "Grado H se reserva para situaciones con al menos dos dependencias que no encajan en los patrones jerárquicos del C al F."
+      },
+      {
+        "enunciado": "¿Qué interpretación corresponde al grado E del Índice de Katz?",
+        "opciones": [
+          "Independencia total salvo en una función",
+          "Dependencia en baño, vestido, uso de WC y otra función",
+          "Dependencia total",
+          "Incapacidad moderada"
+        ],
+        "correcta": 1,
+        "categorias": ["tema214"],
+        "feedback": "Grado E: dependencia en baño, vestido, uso de WC y otra función. Clasificación: A-B = leve; C-D = moderada; E-G = severa."
+      }
+      
+]

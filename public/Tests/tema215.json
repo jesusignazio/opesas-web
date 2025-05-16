@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "¿Cuál de las siguientes actividades se valora en el Índice de Katz?",
+        "opciones": [
+          "Realización de compras",
+          "Uso del teléfono",
+          "Uso del retrete",
+          "Gestión del dinero"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué ítem NO pertenece al Índice de Katz?",
+        "opciones": [
+          "Baño",
+          "Vestido",
+          "Administración de medicación",
+          "Movilidad"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué actividad evaluada en Katz implica el control de esfínteres?",
+        "opciones": [
+          "Vestido",
+          "Alimentación",
+          "Continencia",
+          "Aseo personal"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes actividades se incluye en el Índice de Katz?",
+        "opciones": [
+          "Limpieza del hogar",
+          "Preparación de la comida",
+          "Alimentación",
+          "Uso del transporte público"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "El ítem 'movilidad' en el Índice de Katz se refiere a:",
+        "opciones": [
+          "Capacidad para caminar largas distancias",
+          "Desplazarse entre cama y silla",
+          "Subir escaleras sin ayuda",
+          "Caminar con bastón por la calle"
+        ],
+        "correcta": 1,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Cuál de estas opciones forma parte del Índice de Katz?",
+        "opciones": [
+          "Aseo bucodental",
+          "Gestión de citas médicas",
+          "Baño",
+          "Uso del teléfono móvil"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué ítem corresponde al Índice de Katz como medida de autonomía básica?",
+        "opciones": [
+          "Capacidad para limpiar la casa",
+          "Uso del retrete",
+          "Uso de transportes",
+          "Seguimiento de recetas médicas"
+        ],
+        "correcta": 1,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué función valorada en Katz implica vestirse completa y adecuadamente?",
+        "opciones": [
+          "Movilidad",
+          "Vestido",
+          "Aseo personal",
+          "Capacidad cognitiva"
+        ],
+        "correcta": 1,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué ítem funcional NO se encuentra en la escala de Katz?",
+        "opciones": [
+          "Continencia",
+          "Alimentación",
+          "Preparación de comidas",
+          "Baño"
+        ],
+        "correcta": 2,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      },
+      {
+        "enunciado": "¿Qué actividad de la vida diaria, evaluada por el Índice de Katz, se refiere a la capacidad de llevar alimentos a la boca sin ayuda?",
+        "opciones": [
+          "Alimentación",
+          "Preparación de alimentos",
+          "Cocinar",
+          "Hacer la compra"
+        ],
+        "correcta": 0,
+        "categorias": ["tema215"],
+        "feedback": "Katz: baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      }
+      
+]

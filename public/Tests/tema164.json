@@ -1,142 +1,143 @@
 [
-    {
-        "enunciado": "¿Cuál de los siguientes ítems se evalúa en la escala de Norton?",
-        "opciones": ["Actividad", "Nutrición", "Capacidad visual", "Dolor crónico"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La actividad es uno de los cinco ítems valorados en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué ítem forma parte de la escala de Norton?",
-        "opciones": ["Estado físico general", "Saturación de oxígeno", "Frecuencia respiratoria", "Índice de masa corporal"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El estado físico general es uno de los componentes básicos de la escala Norton."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes aspectos se evalúa en la escala de Norton?",
-        "opciones": ["Capacidad de socialización", "Estado mental", "Autonomía económica", "Nivel de estudios"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El estado mental es uno de los ítems que se valora en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué variable funcional se incluye en la escala de Norton?",
-        "opciones": ["Fricción y cizalla", "Movilidad", "Capacidad de comunicación", "Frecuencia cardíaca"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La movilidad es un ítem esencial en la escala de Norton para estimar el riesgo de UPP."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems forma parte de la escala de Norton?",
-        "opciones": ["Nivel de glucemia", "Incontinencia", "Agudeza visual", "Escala de dolor"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La incontinencia urinaria o fecal es un factor clave que se valora en la escala Norton."
-      },
-      {
-        "enunciado": "¿Qué dimensión funcional valora la escala de Norton?",
-        "opciones": ["Percepción sensorial", "Estado inmunológico", "Estado físico general", "Grado de dependencia en el hogar"],
-        "correcta": 2,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El estado físico general se considera fundamental en la evaluación de riesgo según Norton."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems NO se valora en la escala de Norton?",
-        "opciones": ["Estado mental", "Actividad", "Nutrición", "Movilidad"],
-        "correcta": 2,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La nutrición no forma parte de los cinco ítems de la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué ítem está incluido en la escala de Norton?",
-        "opciones": ["Estado afectivo", "Incontinencia", "Soporte familiar", "Peso corporal"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La presencia de incontinencia es uno de los factores clave en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Cuál de estos factores es evaluado por la escala de Norton?",
-        "opciones": ["Actividad", "Calidad del sueño", "Estado vacunal", "Dolor neuropático"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La actividad física habitual del paciente es evaluada en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué aspecto funcional se contempla en la escala de Norton?",
-        "opciones": ["Tensión arterial", "Movilidad", "Nivel de glucosa en sangre", "Orientación temporal"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La movilidad es uno de los cinco ítems evaluados en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes factores se valora en la escala de Norton?",
-        "opciones": ["Estado mental", "Frecuencia respiratoria", "Índice de masa corporal", "Dolor agudo"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "Estado mental es uno de los 5 ítems evaluados en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué aspecto se tiene en cuenta en la escala de Norton para valorar el riesgo de UPP?",
-        "opciones": ["Actividad", "Estado nutricional", "Dolor", "Adherencia al tratamiento"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La actividad es un ítem incluido en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué variable funcional forma parte de la escala de Norton?",
-        "opciones": ["Movilidad", "Capacidad auditiva", "Estado de ánimo", "Frecuencia urinaria"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "Movilidad es uno de los factores evaluados para determinar riesgo de UPP en Norton."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes ítems está incluido en la escala de Norton?",
-        "opciones": ["Estado físico general", "Nivel de glucemia", "Capacidad visual", "Comunicación verbal"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El estado físico general es uno de los cinco ítems fundamentales de la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué ítem se valora en la escala de Norton?",
-        "opciones": ["Incontinencia", "Capacidad para preparar alimentos", "Escala de dolor EVA", "Uso de ayudas técnicas"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La presencia de incontinencia es valorada específicamente en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué variable se incluye en la evaluación con la escala de Norton?",
-        "opciones": ["Nutrición", "Fricción y cizalla", "Estado mental", "Tiempo de sueño"],
-        "correcta": 2,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El estado mental es uno de los cinco ítems incluidos en la escala de Norton."
-      },
-      {
-        "enunciado": "¿Cuál de los siguientes factores no pertenece a la escala de Norton?",
-        "opciones": ["Estado físico general", "Actividad", "Escala de Braden", "Incontinencia"],
-        "correcta": 2,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La Escala de Braden es un instrumento distinto; Norton incluye estado físico, mental, actividad, movilidad e incontinencia."
-      },
-      {
-        "enunciado": "¿Cuál es un ítem de la escala de Norton que evalúa la capacidad de desplazamiento del paciente?",
-        "opciones": ["Incontinencia", "Movilidad", "Estado mental", "Fuerza muscular"],
-        "correcta": 1,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "Movilidad es uno de los ítems evaluados en la escala Norton para valorar riesgo de UPP."
-      },
-      {
-        "enunciado": "¿Qué elemento se valora dentro del ítem 'actividad' en la escala de Norton?",
-        "opciones": ["Horas de sueño", "Grado de movilidad espontánea", "Nivel de actividad física cotidiana", "Uso de sedestación prolongada"],
-        "correcta": 2,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "El nivel de actividad física cotidiana es clave en el ítem 'actividad' de la escala de Norton."
-      },
-      {
-        "enunciado": "¿Qué combinación de ítems está presente en la escala de Norton?",
-        "opciones": ["Estado mental y movilidad", "Nutrición y dolor", "Capacidad auditiva y visual", "Índice de Barthel y comunicación"],
-        "correcta": 0,
-        "categorías": ["tema164", "norton_items"],
-        "feedback": "La escala de Norton incluye estado mental y movilidad, entre otros ítems."
-      }            
+  {
+    "enunciado": "¿Cuál de los siguientes ítems se evalúa en la escala de Norton?",
+    "opciones": ["Actividad", "Nutrición", "Capacidad visual", "Dolor crónico"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué ítem forma parte de la escala de Norton?",
+    "opciones": ["Estado físico general", "Saturación de oxígeno", "Frecuencia respiratoria", "Índice de masa corporal"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes aspectos se evalúa en la escala de Norton?",
+    "opciones": ["Capacidad de socialización", "Estado mental", "Autonomía económica", "Nivel de estudios"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué variable funcional se incluye en la escala de Norton?",
+    "opciones": ["Fricción y cizalla", "Movilidad", "Capacidad de comunicación", "Frecuencia cardíaca"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes ítems forma parte de la escala de Norton?",
+    "opciones": ["Nivel de glucemia", "Incontinencia", "Agudeza visual", "Escala de dolor"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué dimensión funcional valora la escala de Norton?",
+    "opciones": ["Percepción sensorial", "Estado inmunológico", "Estado físico general", "Grado de dependencia en el hogar"],
+    "correcta": 2,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes ítems NO se valora en la escala de Norton?",
+    "opciones": ["Estado mental", "Actividad", "Nutrición", "Movilidad"],
+    "correcta": 2,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué ítem está incluido en la escala de Norton?",
+    "opciones": ["Estado afectivo", "Incontinencia", "Soporte familiar", "Peso corporal"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de estos factores es evaluado por la escala de Norton?",
+    "opciones": ["Actividad", "Calidad del sueño", "Estado vacunal", "Dolor neuropático"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué aspecto funcional se contempla en la escala de Norton?",
+    "opciones": ["Tensión arterial", "Movilidad", "Nivel de glucosa en sangre", "Orientación temporal"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes factores se valora en la escala de Norton?",
+    "opciones": ["Estado mental", "Frecuencia respiratoria", "Índice de masa corporal", "Dolor agudo"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué aspecto se tiene en cuenta en la escala de Norton para valorar el riesgo de UPP?",
+    "opciones": ["Actividad", "Estado nutricional", "Dolor", "Adherencia al tratamiento"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué variable funcional forma parte de la escala de Norton?",
+    "opciones": ["Movilidad", "Capacidad auditiva", "Estado de ánimo", "Frecuencia urinaria"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes ítems está incluido en la escala de Norton?",
+    "opciones": ["Estado físico general", "Nivel de glucemia", "Capacidad visual", "Comunicación verbal"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué ítem se valora en la escala de Norton?",
+    "opciones": ["Incontinencia", "Capacidad para preparar alimentos", "Escala de dolor EVA", "Uso de ayudas técnicas"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué variable se incluye en la evaluación con la escala de Norton?",
+    "opciones": ["Nutrición", "Fricción y cizalla", "Estado mental", "Tiempo de sueño"],
+    "correcta": 2,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes factores no pertenece a la escala de Norton?",
+    "opciones": ["Estado físico general", "Actividad", "Escala de Braden", "Incontinencia"],
+    "correcta": 2,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Cuál es un ítem de la escala de Norton que evalúa la capacidad de desplazamiento del paciente?",
+    "opciones": ["Incontinencia", "Movilidad", "Estado mental", "Fuerza muscular"],
+    "correcta": 1,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué elemento se valora dentro del ítem 'actividad' en la escala de Norton?",
+    "opciones": ["Horas de sueño", "Grado de movilidad espontánea", "Nivel de actividad física cotidiana", "Uso de sedestación prolongada"],
+    "correcta": 2,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  },
+  {
+    "enunciado": "¿Qué combinación de ítems está presente en la escala de Norton?",
+    "opciones": ["Estado mental y movilidad", "Nutrición y dolor", "Capacidad auditiva y visual", "Índice de Barthel y comunicación"],
+    "correcta": 0,
+    "categorías": ["tema164", "norton_items"],
+    "feedback": "La escala de Norton evalúa: estado físico general, estado mental, actividad, movilidad e incontinencia."
+  }
+  
 ]

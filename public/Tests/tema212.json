@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "Un paciente obtiene una puntuación total de 18 en la escala de Tinetti. ¿Cuál es el nivel de riesgo de caídas?",
+        "opciones": [
+          "Riesgo bajo",
+          "Riesgo moderado",
+          "Riesgo alto",
+          "No valorable"
+        ],
+        "correcta": 2,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo."
+      },
+      {
+        "enunciado": "Una persona obtiene 25 puntos en la escala de Tinetti. Según los rangos establecidos, ¿cómo se clasifica su riesgo de caídas?",
+        "opciones": [
+          "Muy alto",
+          "Alto",
+          "Moderado",
+          "Bajo"
+        ],
+        "correcta": 3,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación máxima posible en la escala de Tinetti?",
+        "opciones": [
+          "16 puntos",
+          "28 puntos",
+          "30 puntos",
+          "24 puntos"
+        ],
+        "correcta": 1,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo. La puntuación máxima es 28."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación mínima que puede obtenerse en la escala de Tinetti?",
+        "opciones": [
+          "0 puntos",
+          "10 puntos",
+          "14 puntos",
+          "18 puntos"
+        ],
+        "correcta": 0,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo. La puntuación mínima es 0."
+      },
+      {
+        "enunciado": "Una persona obtiene una puntuación total de 22 puntos en la escala de Tinetti. ¿Cómo se clasifica el riesgo de caídas?",
+        "opciones": [
+          "Alto",
+          "Moderado",
+          "Bajo",
+          "Sin riesgo"
+        ],
+        "correcta": 1,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo."
+      },
+      {
+        "enunciado": "La escala de Tinetti se utiliza fundamentalmente para:",
+        "opciones": [
+          "Evaluar la dependencia en actividades básicas.",
+          "Valorar el deterioro cognitivo.",
+          "Predecir el riesgo de caídas en personas mayores.",
+          "Cuantificar el dolor musculoesquelético."
+        ],
+        "correcta": 2,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo. La escala evalúa riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué interpretación corresponde a una puntuación total de 20 en la escala de Tinetti?",
+        "opciones": [
+          "Riesgo alto de caídas",
+          "Riesgo moderado de caídas",
+          "Riesgo bajo de caídas",
+          "Puntuación no válida"
+        ],
+        "correcta": 1,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo."
+      },
+      {
+        "enunciado": "Una persona obtiene 16 puntos en la escala de Tinetti. ¿Qué actuación sería más adecuada?",
+        "opciones": [
+          "Evaluación rutinaria en 12 meses",
+          "Reevaluación anual sin intervención",
+          "Intervención inmediata por riesgo alto de caídas",
+          "No se requiere intervención"
+        ],
+        "correcta": 2,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo. 16 indica alto riesgo."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes rangos corresponde a un **riesgo moderado** de caídas en la escala de Tinetti?",
+        "opciones": [
+          "0 a 18 puntos",
+          "19 a 23 puntos",
+          "24 a 28 puntos",
+          "No existe esa categoría"
+        ],
+        "correcta": 1,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo."
+      },
+      {
+        "enunciado": "Un paciente ha sido evaluado con la escala de Tinetti y ha obtenido 27 puntos. ¿Qué intervención preventiva está más indicada?",
+        "opciones": [
+          "Derivación urgente a fisioterapia.",
+          "Inicio de intervención domiciliaria inmediata.",
+          "Seguimiento habitual, riesgo bajo de caídas.",
+          "Evaluación por geriatría urgente."
+        ],
+        "correcta": 2,
+        "categorias": ["tema212"],
+        "feedback": "Rangos de la escala de Tinetti: 0-18 puntos: alto riesgo de caídas; 19-23 puntos: riesgo moderado; 24-28 puntos: riesgo bajo. 27 puntos indica bajo riesgo."
+      }
+      
+]

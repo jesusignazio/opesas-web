@@ -1,0 +1,124 @@
+[
+    {
+        "enunciado": "¿Cuál de los siguientes aspectos se evalúa en la escala de Tinetti?",
+        "opciones": [
+          "Equilibrio al estar sentado",
+          "Velocidad de reacción a estímulos visuales",
+          "Capacidad para vestirse",
+          "Nivel de disnea al caminar"
+        ],
+        "correcta": 0,
+        "categorias": ["tema213"],
+        "feedback": "La escala de Tinetti evalúa: equilibrio al estar sentado, levantarse, intentos para levantarse, equilibrio de pie, empuje, giros, marcha, paso al levantar los pies, continuidad y simetría del paso, entre otros."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems pertenece a la escala de Tinetti?",
+        "opciones": [
+          "Capacidad para leer un reloj analógico",
+          "Equilibrio al girar 360 grados",
+          "Control esfinteriano",
+          "Presión arterial ortostática"
+        ],
+        "correcta": 1,
+        "categorias": ["tema213"],
+        "feedback": "La escala de Tinetti evalúa: equilibrio al girar 360º, al estar de pie y sentado, al levantarse, estabilidad durante la marcha, paso derecho e izquierdo, simetría, continuidad y despegue del pie."
+      },
+      {
+        "enunciado": "¿Qué aspecto NO se valora en la escala de Tinetti?",
+        "opciones": [
+          "Equilibrio al levantarse desde una silla",
+          "Estado cognitivo general",
+          "Simetría del paso",
+          "Marcha con cambios de dirección"
+        ],
+        "correcta": 1,
+        "categorias": ["tema213"],
+        "feedback": "La escala de Tinetti evalúa aspectos relacionados con el equilibrio y la marcha, pero no evalúa el estado cognitivo general."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems es valorado dentro del bloque de equilibrio de la escala de Tinetti?",
+        "opciones": [
+          "Velocidad de marcha",
+          "Inicio de la marcha",
+          "Empuje o resistencia al desequilibrio",
+          "Fuerza muscular de extremidades inferiores"
+        ],
+        "correcta": 2,
+        "categorias": ["tema213"],
+        "feedback": "En el bloque de equilibrio, la escala de Tinetti evalúa empuje, levantarse, equilibrio al estar de pie y sentado, y giros, entre otros."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems corresponde al bloque de marcha de la escala de Tinetti?",
+        "opciones": [
+          "Uso de apoyos",
+          "Empuje posterior",
+          "Tono muscular de la espalda",
+          "Capacidad para sentarse"
+        ],
+        "correcta": 0,
+        "categorias": ["tema213"],
+        "feedback": "En el bloque de marcha, la escala de Tinetti evalúa: inicio de la marcha, paso, simetría, continuidad, base de sustentación, y uso de ayudas técnicas."
+      },
+      {
+        "enunciado": "¿Qué componente funcional se evalúa en la escala de Tinetti?",
+        "opciones": [
+          "Despegue del pie durante la marcha",
+          "Movilidad cervical",
+          "Alcance en bipedestación",
+          "Flexión lumbar al caminar"
+        ],
+        "correcta": 0,
+        "categorias": ["tema213"],
+        "feedback": "La escala de Tinetti evalúa aspectos como el despegue del pie, simetría, longitud del paso y capacidad para girar, todos relacionados con equilibrio y marcha."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un ítem de la escala de Tinetti?",
+        "opciones": [
+          "Base de sustentación durante la marcha",
+          "Velocidad de marcha",
+          "Simetría del paso",
+          "Estabilidad al estar de pie"
+        ],
+        "correcta": 1,
+        "categorias": ["tema213"],
+        "feedback": "La velocidad de marcha no es un ítem en la escala de Tinetti. Esta escala se centra en estabilidad, postura, despegue del pie, simetría y equilibrio."
+      },
+      {
+        "enunciado": "¿Qué se valora en el ítem 'uso de ayudas' en la escala de Tinetti?",
+        "opciones": [
+          "Capacidad para ajustar dispositivos ortopédicos",
+          "Necesidad de bastón o andador para caminar",
+          "Fuerza de prensión en extremidades superiores",
+          "Adaptación a audífonos y prótesis"
+        ],
+        "correcta": 1,
+        "categorias": ["tema213"],
+        "feedback": "El ítem 'uso de ayudas' valora si la persona necesita bastón, andador u otra ayuda técnica durante la marcha, dentro del bloque de evaluación de marcha."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems de la escala de Tinetti evalúa específicamente la estabilidad en el movimiento?",
+        "opciones": [
+          "Giro de 360 grados",
+          "Escala visual de marcha",
+          "Evaluación de reflejos posturales",
+          "Tono muscular al reposo"
+        ],
+        "correcta": 0,
+        "categorias": ["tema213"],
+        "feedback": "El giro de 360º permite observar el equilibrio dinámico y la estabilidad del paciente al cambiar de dirección, clave para el riesgo de caídas."
+      },
+      {
+        "enunciado": "¿Qué aspecto funcional analiza el ítem 'inicio de la marcha' en la escala de Tinetti?",
+        "opciones": [
+          "Velocidad máxima sostenida",
+          "Inestabilidad al comenzar a caminar",
+          "Resistencia aeróbica",
+          "Tolerancia al esfuerzo prolongado"
+        ],
+        "correcta": 1,
+        "categorias": ["tema213"],
+        "feedback": "El ítem 'inicio de la marcha' valora si el paciente necesita más de un intento o presenta inestabilidad inicial al comenzar a caminar."
+      
+      }
+      
+]

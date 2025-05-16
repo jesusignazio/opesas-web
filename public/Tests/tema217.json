@@ -1,0 +1,363 @@
+[
+    {
+        "enunciado": "¿Cuál es el principal objetivo de la escala PROFUND?",
+        "opciones": [
+          "Valorar la fragilidad social en adultos mayores",
+          "Detectar deterioro cognitivo moderado-severo",
+          "Identificar pacientes crónicos complejos en situación avanzada",
+          "Clasificar el nivel funcional en actividades instrumentales"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué parámetro funcional se utiliza como ítem en la escala PROFUND?",
+        "opciones": [
+          "Índice de Norton",
+          "Índice de Barthel",
+          "Test de Tinetti",
+          "Escala de Gijón"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte de la escala PROFUND?",
+        "opciones": [
+          "Anemia leve",
+          "Edad ≥85 años",
+          "Tabaquismo activo",
+          "Índice de masa corporal"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de estos indicadores respiratorios es parte de la escala PROFUND?",
+        "opciones": [
+          "Tos nocturna",
+          "Disnea en reposo o con mínimos esfuerzos",
+          "Bronquitis aguda de repetición",
+          "Apnea del sueño"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Para qué se utiliza la escala PROFUND en el ámbito clínico?",
+        "opciones": [
+          "Valorar la adherencia al tratamiento farmacológico",
+          "Estimar el riesgo de institucionalización",
+          "Establecer el riesgo de mortalidad y necesidad de cuidados paliativos",
+          "Evaluar el estado nutricional a largo plazo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué tipo de alteración analítica incluye la escala PROFUND?",
+        "opciones": [
+          "Hipoalbuminemia",
+          "Hiperglucemia",
+          "Hiponatremia",
+          "Elevación de creatinina"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué alteración oncológica es un ítem puntuable en la escala PROFUND?",
+        "opciones": [
+          "Neoplasia activa",
+          "Historia familiar de cáncer",
+          "Presencia de marcadores tumorales elevados",
+          "Síndrome constitucional"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué prueba cognitiva se utiliza en la escala PROFUND?",
+        "opciones": [
+          "Mini-Mental",
+          "Escala GDS",
+          "Pfeiffer",
+          "MOCA"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes no forma parte de la escala PROFUND?",
+        "opciones": [
+          "Número de ingresos hospitalarios en el último año",
+          "Índice de masa corporal",
+          "Número de enfermedades crónicas activas",
+          "Edemas persistentes en extremidades inferiores"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué marcador clínico relacionado con el aparato circulatorio se tiene en cuenta en la escala PROFUND?",
+        "opciones": [
+          "Edemas persistentes en miembros inferiores",
+          "Presión arterial sistólica elevada",
+          "Varices con cambios tróficos",
+          "Historia de síncope vasovagal"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems se valora en la escala PROFUND?",
+        "opciones": [
+          "Edad ≥85 años",
+          "Tabaquismo activo",
+          "Hipotiroidismo",
+          "Nivel de colesterol LDL"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué aspecto funcional está incluido como ítem en la escala PROFUND?",
+        "opciones": [
+          "Escala de Lawton",
+          "Escala Norton",
+          "Índice de Barthel",
+          "Test de Tinetti"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué condición respiratoria se incluye en la escala PROFUND como signo de situación avanzada?",
+        "opciones": [
+          "Disnea en reposo o con mínimos esfuerzos",
+          "Tos productiva crónica",
+          "Apnea del sueño",
+          "EPOC estable sin síntomas"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué alteración analítica es un ítem de la escala PROFUND?",
+        "opciones": [
+          "Hipoalbuminemia",
+          "Hipoglucemia",
+          "Anemia ferropénica",
+          "Hiponatremia leve"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes condiciones clínicas forma parte de la escala PROFUND?",
+        "opciones": [
+          "Neoplasia activa",
+          "Insomnio crónico",
+          "Dolor neuropático",
+          "Hipotiroidismo subclínico"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué tipo de edemas se consideran en la escala PROFUND?",
+        "opciones": [
+          "Edemas de origen renal",
+          "Edemas postoperatorios",
+          "Edemas persistentes en extremidades inferiores",
+          "Edema facial matutino"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes test cognitivos se utiliza como ítem en la escala PROFUND?",
+        "opciones": [
+          "Test de Pfeiffer",
+          "Mini-Mental",
+          "MOCA",
+          "Escala GDS"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué aspecto clínico forma parte de la escala PROFUND?",
+        "opciones": [
+          "Número de ingresos hospitalarios en el último año",
+          "Uso de ayudas técnicas para caminar",
+          "Pérdida de peso involuntaria",
+          "Valoración nutricional subjetiva"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué número mínimo de enfermedades crónicas se considera en la escala PROFUND para sumar puntuación?",
+        "opciones": [
+          "2 o más",
+          "3 o más",
+          "5 o más",
+          "6 o más"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué ítem no pertenece a la escala PROFUND?",
+        "opciones": [
+          "Número de enfermedades crónicas",
+          "Edad avanzada",
+          "Soporte social insuficiente",
+          "Disnea en reposo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál es el principal objetivo de la escala PROFUND?",
+        "opciones": [
+          "Valorar la fragilidad social en adultos mayores",
+          "Detectar deterioro cognitivo moderado-severo",
+          "Identificar pacientes crónicos complejos en situación avanzada",
+          "Clasificar el nivel funcional en actividades instrumentales"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué parámetro funcional se utiliza como ítem en la escala PROFUND?",
+        "opciones": [
+          "Índice de Norton",
+          "Índice de Barthel",
+          "Test de Tinetti",
+          "Escala de Gijón"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes ítems forma parte de la escala PROFUND?",
+        "opciones": [
+          "Anemia leve",
+          "Edad ≥85 años",
+          "Tabaquismo activo",
+          "Índice de masa corporal"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de estos indicadores respiratorios es parte de la escala PROFUND?",
+        "opciones": [
+          "Tos nocturna",
+          "Disnea en reposo o con mínimos esfuerzos",
+          "Bronquitis aguda de repetición",
+          "Apnea del sueño"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Para qué se utiliza la escala PROFUND en el ámbito clínico?",
+        "opciones": [
+          "Valorar la adherencia al tratamiento farmacológico",
+          "Estimar el riesgo de institucionalización",
+          "Establecer el riesgo de mortalidad y necesidad de cuidados paliativos",
+          "Evaluar el estado nutricional a largo plazo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué tipo de alteración analítica incluye la escala PROFUND?",
+        "opciones": [
+          "Hipoalbuminemia",
+          "Hiperglucemia",
+          "Hiponatremia",
+          "Elevación de creatinina"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué alteración oncológica es un ítem puntuable en la escala PROFUND?",
+        "opciones": [
+          "Neoplasia activa",
+          "Historia familiar de cáncer",
+          "Presencia de marcadores tumorales elevados",
+          "Síndrome constitucional"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué prueba cognitiva se utiliza en la escala PROFUND?",
+        "opciones": [
+          "Mini-Mental",
+          "Escala GDS",
+          "Pfeiffer",
+          "MOCA"
+        ],
+        "correcta": 2,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes no forma parte de la escala PROFUND?",
+        "opciones": [
+          "Número de ingresos hospitalarios en el último año",
+          "Índice de masa corporal",
+          "Número de enfermedades crónicas activas",
+          "Edemas persistentes en extremidades inferiores"
+        ],
+        "correcta": 1,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      },
+      {
+        "enunciado": "¿Qué marcador clínico relacionado con el aparato circulatorio se tiene en cuenta en la escala PROFUND?",
+        "opciones": [
+          "Edemas persistentes en miembros inferiores",
+          "Presión arterial sistólica elevada",
+          "Varices con cambios tróficos",
+          "Historia de síncope vasovagal"
+        ],
+        "correcta": 0,
+        "categorias": ["tema217"],
+        "feedback": "PROFUND evalúa: edad ≥85 años, ingresos hospitalarios en el último año, número de enfermedades crónicas, índice de Barthel, deterioro cognitivo (Pfeiffer), hipoalbuminemia, neoplasia activa, disnea en reposo o esfuerzos mínimos y edemas persistentes en extremidades inferiores."
+      }
+      
+]

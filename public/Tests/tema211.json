@@ -1,0 +1,103 @@
+[
+    {
+      "enunciado": "¿Cuál es el objetivo principal de la escala PROFUND?",
+      "opciones": [
+        "Evaluar la capacidad funcional en ancianos",
+        "Calcular el riesgo de caídas en pacientes mayores",
+        "Estimar el riesgo de mortalidad a 1 año en pacientes pluripatológicos",
+        "Valorar la fragilidad en pacientes oncológicos"
+      ],
+      "correcta": 2,
+      "categorias": ["tema211"],
+      "feedback": "🎯 La escala PROFUND estima la probabilidad de fallecimiento a 1 año en pacientes con múltiples enfermedades crónicas. Se utiliza para orientar decisiones clínicas, priorizar cuidados y planificar recursos."
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes factores forma parte de la escala PROFUND?",
+      "opciones": [
+        "Nivel de glucemia en ayunas",
+        "Número de ingresos hospitalarios en el último año",
+        "Nivel de creatinina plasmática",
+        "Índice de masa corporal"
+      ],
+      "correcta": 1,
+      "categorias": ["tema211"],
+      "feedback": "📋 La escala PROFUND incluye el número de ingresos en el último año como uno de sus componentes para estimar la mortalidad en pacientes pluripatológicos."
+    },
+    {
+      "enunciado": "En la escala PROFUND, ¿qué variable relacionada con el estado funcional se evalúa?",
+      "opciones": [
+        "Escala de Norton",
+        "Pérdida de peso",
+        "Escala de Barthel",
+        "Escala de Pfeiffer"
+      ],
+      "correcta": 2,
+      "categorias": ["tema211"],
+      "feedback": "🧩 La escala de Barthel, que mide la autonomía en actividades básicas, es uno de los componentes funcionales valorados en la escala PROFUND."
+    },
+    {
+      "enunciado": "¿Qué puntuación en la escala PROFUND indica alto riesgo de mortalidad al año?",
+      "opciones": ["0-4 puntos", "5-8 puntos", "9 o más puntos", "Más de 12 puntos"],
+      "correcta": 2,
+      "categorias": ["tema211"],
+      "feedback": "🔺 Una puntuación ≥9 en la escala PROFUND se considera de alto riesgo de mortalidad a 1 año en pacientes pluripatológicos."
+    },
+    {
+      "enunciado": "¿Cuál es la puntuación máxima posible en la escala PROFUND?",
+      "opciones": ["10", "12", "14", "15"],
+      "correcta": 2,
+      "categorias": ["tema211"],
+      "feedback": "📈 La puntuación total de la escala PROFUND puede llegar hasta 14, sumando los diferentes factores clínicos y funcionales."
+    },
+    {
+      "enunciado": "¿Qué valor de creatinina se tiene en cuenta como factor en la escala PROFUND?",
+      "opciones": ["≥1.2 mg/dL", "≥1.5 mg/dL", "≥2.0 mg/dL", "≥1.8 mg/dL"],
+      "correcta": 1,
+      "categorias": ["tema211"],
+      "feedback": "🧪 Una creatinina ≥1.5 mg/dL suma 1 punto en la escala PROFUND, al reflejar deterioro de la función renal."
+    },
+    {
+      "enunciado": "¿Qué valor del test de Pfeiffer añade puntuación en la escala PROFUND?",
+      "opciones": [
+        "Más de 3 errores",
+        "Más de 4 errores",
+        "Más de 5 errores",
+        "Más de 2 errores"
+      ],
+      "correcta": 1,
+      "categorias": ["tema211"],
+      "feedback": "🧠 La presencia de 4 o más errores en el test de Pfeiffer (deterioro cognitivo) suma 1 punto en la escala PROFUND."
+    },
+    {
+      "enunciado": "En la escala PROFUND, ¿cuántos puntos se otorgan por la presencia de neoplasia activa?",
+      "opciones": ["1", "2", "3", "4"],
+      "correcta": 1,
+      "categorias": ["tema211"],
+      "feedback": "🎗 La presencia de neoplasia activa (diagnóstico oncológico vigente) suma 2 puntos en la escala PROFUND."
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes pacientes tiene un mayor riesgo según la escala PROFUND?",
+      "opciones": [
+        "Paciente con Pfeiffer 2, Barthel 95, sin ingresos en 12 meses",
+        "Paciente con Pfeiffer 5, Barthel 30, 2 ingresos en 12 meses",
+        "Paciente con Barthel 100, creatinina 0.9, sin neoplasia",
+        "Paciente con Pfeiffer 0, Barthel 85, sin ingresos"
+      ],
+      "correcta": 1,
+      "categorias": ["tema211"],
+      "feedback": "📊 El paciente con deterioro cognitivo (Pfeiffer 5), dependencia funcional (Barthel 30) y múltiples ingresos tiene mayor riesgo según PROFUND."
+    },
+    {
+      "enunciado": "¿Qué variable no se incluye en la escala PROFUND?",
+      "opciones": [
+        "Edad",
+        "Neoplasia activa",
+        "Barthel",
+        "Presión arterial"
+      ],
+      "correcta": 3,
+      "categorias": ["tema211"],
+      "feedback": "🚫 La presión arterial no es parte de la escala PROFUND. Se valoran funcionalidad, ingresos, función renal, cognición y neoplasia activa."
+    }
+  ]
+  

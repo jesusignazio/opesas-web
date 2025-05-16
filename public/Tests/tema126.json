@@ -220,6 +220,77 @@
         "correcta": 1,
         "categorías": ["tema126", "estadistica_basica"],
         "feedback": "La distribución normal es simétrica y mesocúrtica (curtosis ≈ 0)."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes opciones representa una medida de dispersión en estadística?",
+        "opciones": ["Moda", "Mediana", "Varianza", "Media aritmética"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La varianza mide cuánto se alejan los valores de una variable respecto a su media. Es una medida de dispersión."
+      },
+      {
+        "enunciado": "¿Qué representa la frecuencia absoluta en una distribución de datos?",
+        "opciones": ["El número total de datos", "El número de veces que se repite un valor", "La suma de todos los valores", "El valor medio de los datos"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La frecuencia absoluta indica cuántas veces aparece un valor específico en un conjunto de datos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos se refiere al promedio de un conjunto de datos?",
+        "opciones": ["Moda", "Mediana", "Media aritmética", "Rango"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La media aritmética es el promedio: se calcula sumando todos los valores y dividiéndolos por el número total de datos."
+      },
+      {
+        "enunciado": "La moda es:",
+        "opciones": ["El valor que aparece con mayor frecuencia", "El valor intermedio de una distribución ordenada", "La diferencia entre el valor máximo y el mínimo", "La media aritmética redondeada"],
+        "correcta": 0,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La moda es el valor que se repite más veces en una distribución de datos."
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos mide la dispersión en torno a la media?",
+        "opciones": ["Rango", "Mediana", "Desviación típica", "Moda"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La desviación típica mide cuánto se alejan, en promedio, los valores respecto a la media."
+      },
+      {
+        "enunciado": "El rango en estadística se define como:",
+        "opciones": ["La media de los valores extremos", "La diferencia entre el valor más alto y el más bajo", "El valor más frecuente", "La suma de todas las frecuencias absolutas"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "El rango es una medida de dispersión simple que se obtiene restando el valor mínimo al máximo."
+      },
+      {
+        "enunciado": "¿Qué mide la varianza?",
+        "opciones": ["La posición central de los datos", "La probabilidad de un evento", "La dispersión de los datos respecto a la media", "El valor más común"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La varianza cuantifica la variabilidad de los datos respecto a su media. Valores más altos implican mayor dispersión."
+      },
+      {
+        "enunciado": "La frecuencia relativa es:",
+        "opciones": ["El número de veces que aparece un valor", "El porcentaje que representa un valor respecto al total", "La diferencia entre la media y la moda", "La suma acumulada de las frecuencias absolutas"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La frecuencia relativa indica qué parte del total representa cada valor, y suele expresarse como porcentaje o proporción."
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes medidas NO describe la dispersión de un conjunto de datos?",
+        "opciones": ["Rango", "Desviación típica", "Moda", "Varianza"],
+        "correcta": 2,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La moda es una medida de tendencia central, no de dispersión."
+      },
+      {
+        "enunciado": "La mediana se define como:",
+        "opciones": ["El valor que aparece con mayor frecuencia", "El valor medio cuando los datos están ordenados", "La media de los valores extremos", "La suma total de los datos dividida por su número"],
+        "correcta": 1,
+        "categorías": ["tema126", "estadistica_basica"],
+        "feedback": "La mediana es el valor central de un conjunto de datos ordenados; divide la distribución en dos mitades iguales."
       }
+      
                         
 ]

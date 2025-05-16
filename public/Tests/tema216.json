@@ -1,0 +1,123 @@
+[
+    {
+        "enunciado": "¿Cuál es la puntuación máxima que se puede obtener en la escala PROFUND?",
+        "opciones": [
+          "15 puntos",
+          "20 puntos",
+          "25 puntos",
+          "30 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "La escala PROFUND puntúa de 0 a 25. A partir de 11 puntos se considera situación avanzada. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico avanzado."
+      },
+      {
+        "enunciado": "¿Cuál es la puntuación mínima posible en la escala PROFUND?",
+        "opciones": [
+          "1 punto",
+          "0 puntos",
+          "5 puntos",
+          "No tiene puntuación mínima"
+        ],
+        "correcta": 1,
+        "categorias": ["tema216"],
+        "feedback": "La escala PROFUND va de 0 a 25 puntos. La puntuación mínima es 0. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico avanzado."
+      },
+      {
+        "enunciado": "Un paciente con 12 puntos en la escala PROFUND se clasifica como:",
+        "opciones": [
+          "Sin criterios de situación avanzada",
+          "Paciente paliativo terminal",
+          "Paciente crónico complejo en situación avanzada",
+          "Alta hospitalaria sin seguimiento"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "Una puntuación igual o superior a 11 indica que el paciente está en situación avanzada. Guiaburros: 0-10 = no avanzado; ≥11 = paciente crónico avanzado."
+      },
+      {
+        "enunciado": "¿Qué indica una puntuación de 8 en la escala PROFUND?",
+        "opciones": [
+          "Paciente en situación avanzada",
+          "Paciente crónico complejo sin criterios de situación avanzada",
+          "Paciente en situación terminal",
+          "Necesidad inmediata de atención paliativa"
+        ],
+        "correcta": 1,
+        "categorias": ["tema216"],
+        "feedback": "Puntuaciones inferiores a 11 no cumplen criterios de paciente crónico avanzado. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = situación avanzada."
+      },
+      {
+        "enunciado": "¿Para qué sirve la escala PROFUND?",
+        "opciones": [
+          "Evaluar riesgo de caídas en mayores",
+          "Detectar fragilidad social",
+          "Identificar pacientes crónicos complejos en situación avanzada",
+          "Valorar la adherencia terapéutica en pacientes polimedicados"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "La escala PROFUND identifica a pacientes crónicos complejos en situación avanzada. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico avanzado."
+      },
+      {
+        "enunciado": "Una puntuación de 10 en la escala PROFUND indica:",
+        "opciones": [
+          "Paciente avanzado con pronóstico limitado",
+          "Situación terminal inminente",
+          "Paciente crónico sin criterios de situación avanzada",
+          "Dependencia total funcional"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "10 puntos está por debajo del umbral de 11. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico avanzado."
+      },
+      {
+        "enunciado": "¿Qué puntuación marca el umbral a partir del cual se considera que un paciente está en situación avanzada según la escala PROFUND?",
+        "opciones": [
+          "8 puntos",
+          "10 puntos",
+          "11 puntos",
+          "12 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "El punto de corte es 11. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico complejo en situación avanzada."
+      },
+      {
+        "enunciado": "Un paciente obtiene 18 puntos en la escala PROFUND. ¿Qué medida sería más adecuada?",
+        "opciones": [
+          "Alta sin seguimiento",
+          "Plan de cuidados paliativos y seguimiento estrecho",
+          "Valoración nutricional anual",
+          "Derivación a traumatología"
+        ],
+        "correcta": 1,
+        "categorias": ["tema216"],
+        "feedback": "18 puntos indican situación avanzada. Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = situación avanzada. Implica abordaje paliativo y seguimiento clínico."
+      },
+      {
+        "enunciado": "¿Qué puntuación en PROFUND indicaría necesidad de evaluación para planificación anticipada de decisiones?",
+        "opciones": [
+          "4 puntos",
+          "9 puntos",
+          "11 puntos",
+          "6 puntos"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "A partir de 11 puntos se considera situación avanzada, lo que justifica planificación anticipada de cuidados. Guiaburros: 0-10 = sin criterios; ≥11 = situación avanzada."
+      },
+      {
+        "enunciado": "La escala PROFUND evalúa pacientes con enfermedades crónicas avanzadas. ¿Cuál de estas afirmaciones es correcta respecto a su puntuación?",
+        "opciones": [
+          "Menos de 11 puntos indica situación avanzada",
+          "Más de 10 puntos implica cronicidad sin fragilidad",
+          "11 puntos o más indican situación avanzada",
+          "25 puntos indica perfil estable sin riesgo"
+        ],
+        "correcta": 2,
+        "categorias": ["tema216"],
+        "feedback": "Guiaburros: 0-10 = sin criterios de situación avanzada; ≥11 = paciente crónico complejo en situación avanzada. 25 es la puntuación máxima."
+      }
+      
+]

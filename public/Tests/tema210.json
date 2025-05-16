@@ -1,0 +1,94 @@
+[
+        {
+          "enunciado": "Paciente que se encuentra bien, sin síntomas, y realiza vida normal. ¿Qué puntuación le corresponde en la escala de Karnofsky?",
+          "opciones": ["100", "90", "80", "70"],
+          "correcta": 0,
+          "categorias": ["tema210"],
+          "feedback": "✅ 100 = Estado funcional normal, sin síntomas. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Un paciente con 60 puntos en la escala de Karnofsky se considera:",
+          "opciones": [
+            "Totalmente independiente",
+            "Con síntomas leves, sin limitación",
+            "Necesita ayuda ocasional",
+            "Completamente dependiente"
+          ],
+          "correcta": 2,
+          "categorias": ["tema210"],
+          "feedback": "🔹 60 = Requiere asistencia ocasional para algunas actividades, pero puede cuidar de la mayoría de sus necesidades. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "¿Cuál es la puntuación más baja posible en la escala de Karnofsky?",
+          "opciones": ["10", "0", "20", "30"],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "🔻 0 puntos significa muerte.\n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "¿Qué evalúa la escala de Karnofsky?",
+          "opciones": [
+            "Dolor crónico",
+            "Estado funcional del paciente",
+            "Nivel de ansiedad",
+            "Riesgo cardiovascular"
+          ],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "📈 Evalúa el estado funcional, especialmente en pacientes con enfermedades crónicas o cáncer. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Un paciente que no puede trabajar, pero es capaz de vivir en casa con cierta ayuda tiene una puntuación aproximada de:",
+          "opciones": ["90", "80", "70", "60"],
+          "correcta": 2,
+          "categorias": ["tema210"],
+          "feedback": "🔸 70 = No puede trabajar, pero puede vivir en casa y cuidarse parcialmente. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Paciente hospitalizado, gravemente enfermo, requiere tratamiento activo. ¿Cuál es la puntuación estimada?",
+          "opciones": ["50", "40", "30", "20"],
+          "correcta": 2,
+          "categorias": ["tema210"],
+          "feedback": "🛏️ 30 = Gravemente enfermo, hospitalización habitual, asistencia activa. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "¿A partir de qué puntuación en la escala de Karnofsky se considera que un paciente es completamente independiente?",
+          "opciones": ["70", "80", "90", "100"],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "📌 Desde 80 se considera independiente, aunque puede tener dificultades con ciertas actividades. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Paciente terminal que requiere hospitalización continua y cuidados intensivos. ¿Qué puntuación refleja mejor esta situación?",
+          "opciones": ["20", "10", "40", "50"],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "⚠️ 10 = Muy enfermo, hospitalización prolongada, cuidados intensivos. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Paciente con puntuación de 50 en la escala de Karnofsky. ¿Qué indica?",
+          "opciones": [
+            "Vida normal con síntomas menores",
+            "Ayuda considerable y cuidados frecuentes",
+            "Totalmente dependiente",
+            "Estado funcional perfecto"
+          ],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "⚠️ 50 = Requiere considerable ayuda y cuidados frecuentes. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        },
+        {
+          "enunciado": "Paciente con puntuación de 80 en la escala de Karnofsky. ¿Qué implica?",
+          "opciones": [
+            "Dependencia moderada",
+            "Capaz de realizar actividades normales con esfuerzo",
+            "Hospitalización frecuente",
+            "Necesita ayuda para todas las actividades"
+          ],
+          "correcta": 1,
+          "categorias": ["tema210"],
+          "feedback": "🟢 80 = Realiza actividades normales con esfuerzo, algunos signos o síntomas de enfermedad. \n\n📊 100-80: independiente\n- 70-50: necesita ayuda\n- 40-0: dependiente o terminal"
+        }
+
+      
+]
